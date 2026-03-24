@@ -58,6 +58,11 @@ window.dailyBrief = {
           text: "七部门推动工业领域设备更新，释放出先进产能、软件升级与安全改造同步推进的政策信号。",
           source: "国家能源局",
           url: "https://www.nea.gov.cn/2024-04/12/c_1310770982.htm"
+        },
+        {
+          text: "国务院政策吹风会强调设备更新与技术改造协同推进，进一步强化了支柱产业升级的执行预期。",
+          source: "中国政府网",
+          url: "https://www.gov.cn/zhengce/202404/content_6945788.htm"
         }
       ]
     },
@@ -101,6 +106,11 @@ window.dailyBrief = {
           text: "未来健康方向里，低成本、可部署的合成生物检测平台仍然值得长期跟踪。",
           source: "Nature Communications",
           url: "https://www.nature.com/articles/s41467-018-05864-4"
+        },
+        {
+          text: "未来产业竞争越来越依赖可复用平台而不是单一实验成果，基础设施能力的重要性在上升。",
+          source: "Nature Communications",
+          url: "https://www.nature.com/articles/s41467-022-28103-3"
         }
       ]
     },
@@ -144,6 +154,11 @@ window.dailyBrief = {
           text: "安全理事会制裁机制仍是国际局势变化传导到企业结算、贸易与合规层面的重要接口。",
           source: "UN Security Council",
           url: "https://main.un.org/securitycouncil/en/sanctions/information"
+        },
+        {
+          text: "供应链领导者正把地缘风险当作长期变量处理，区域分散和多源采购逐步变成标准动作。",
+          source: "McKinsey",
+          url: "https://www.mckinsey.com/capabilities/operations/our-insights/supply-chain-risk-survey-2024"
         }
       ]
     },
@@ -187,6 +202,11 @@ window.dailyBrief = {
           text: "让一线团队驱动 AI 采用，而非只靠高层推动，正在被视作更有效的推进方式。",
           source: "Harvard Business Review",
           url: "https://hbr.org/2024/04/your-teams-should-drive-ai-adoption-not-senior-leadership"
+        },
+        {
+          text: "企业真正需要的不是更多实验，而是把 AI 接到已有工作流与知识体系里形成稳定产出。",
+          source: "OpenAI",
+          url: "https://openai.com/index/gpt-5-new-era-of-work/"
         }
       ]
     },
@@ -230,6 +250,11 @@ window.dailyBrief = {
           text: "面向 AI 集群的硅基集成光子可编程阵列刚出现新的研究进展，值得持续关注。",
           source: "Light: Science & Applications",
           url: "https://www.nature.com/articles/s41377-026-02209-5"
+        },
+        {
+          text: "先进封装与异构集成正在把系统级设计拉回半导体竞争中心，封装能力的重要性持续提高。",
+          source: "Nature Electronics",
+          url: "https://www.nature.com/articles/s41928-024-01175-3"
         }
       ]
     },
@@ -273,6 +298,11 @@ window.dailyBrief = {
           text: "围绕制裁如何运作的公开解读，有助于快速理解国际法工具如何传导到现实政策执行。",
           source: "United Nations",
           url: "https://www.un.org/ar/node/238958"
+        },
+        {
+          text: "数字贸易规则建设正在从原则讨论走向能力建设和实务培训，企业端的适配需求会越来越强。",
+          source: "WTO",
+          url: "https://www.wto.org/english/news_e/news24_e/tra_11apr24_e.htm"
         }
       ]
     },
@@ -316,6 +346,11 @@ window.dailyBrief = {
           text: "AI 采用停滞的根源常常在组织协同而非工具本身，这一点对商业分析和管理决策非常关键。",
           source: "Harvard Business Review",
           url: "https://hbr.org/2026/02/why-ai-adoption-stalls-according-to-industry-data"
+        },
+        {
+          text: "把韧性分析嵌入运营计划和预测流程，正在成为商业分析从洞察走向决策的关键一步。",
+          source: "McKinsey",
+          url: "https://www.mckinsey.com/capabilities/operations/our-insights/a-more-resilient-supply-chain-from-optimized-operations-planning"
         }
       ]
     }

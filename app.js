@@ -56,6 +56,10 @@ function renderSections() {
     sectionNode.querySelector(".section-tag").textContent = section.tag;
     sectionNode.querySelector(".topic-section__title").textContent = section.title;
     sectionNode.querySelector(".topic-section__description").textContent = section.description;
+    sectionNode.querySelector(".section-summary__chip--primary").textContent =
+      `${(section.featured || []).length} 条重点内容`;
+    sectionNode.querySelector(".section-summary__chip--secondary").textContent =
+      `${(section.briefs || []).length} 条其他看点`;
 
     const grid = sectionNode.querySelector(".cards-grid");
     (section.featured || []).forEach((item) => {
@@ -83,6 +87,9 @@ function renderSections() {
     const briefsList = sectionNode.querySelector(".briefs-list");
     (section.briefs || []).forEach((item) => {
       const brief = briefTemplate.content.firstElementChild.cloneNode(true);
+      brief.querySelector(".brief-item__badge").textContent = `看点 ${String(
+        (section.featured || []).length + briefsList.childElementCount + 1
+      ).padStart(2, "0")}`;
       brief.querySelector(".brief-item__text").textContent = item.text;
       brief.querySelector(".brief-item__source").textContent = item.source;
 
