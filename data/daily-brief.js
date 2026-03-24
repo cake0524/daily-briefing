@@ -3,7 +3,7 @@ window.dailyBrief = {
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "六大支柱产业 暂无新内容",
+      "title": "工业和信息化部：5G技术在工业和制造业领域的大规模应用成效显著 - 新华报业网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -23,8 +23,48 @@ window.dailyBrief = {
       "tag": "Pillar Industries",
       "title": "六大支柱产业",
       "description": "围绕先进制造、现代能源、现代农业、现代服务、高端材料与数字经济等关键领域，自动抓取政策、产业和投资动向。",
-      "featured": [],
-      "briefs": []
+      "featured": [
+        {
+          "priority": "重点看点 01",
+          "time": "15:13",
+          "title": "工业和信息化部：5G技术在工业和制造业领域的大规模应用成效显著 - 新华报业网",
+          "summary": "工业和信息化部：5G技术在工业和制造业领域的大规模应用成效显著 新华报业网",
+          "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2WHpLbDZYV010bTdsVFhWemIwX2NPS0paeWNkSXB5eWxLOXR6akFwWlViQ0ZxTG02UWFDeUlyY25pcVBjbDdWWFVLVlJTaFhKbEwwVXZDc1JVNFBiNWd5VXdrUjA5SkJaLU1V?oc=5"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "15:11",
+          "title": "云南能投：委托代为培育15个新能源项目_股市要闻_市场 - 中金在线",
+          "summary": "云南能投：委托代为培育15个新能源项目_股市要闻_市场 中金在线",
+          "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95TlFXWGdqbzIzWEpyQXNaRWYyVUxtS3RZLVFWMFZ5SXZrYTFfeFpoVzZnbDg0T0Q5enZnSkNaQUN2MVJMM25UN0ktY1Vyc2hkUktDT2ExazNOUG9hbWh4NmhYZFhnY0lxTVpxak13?oc=5"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "国产高端新能源品牌盘点，解锁高端出行新体验 - 汽车之家",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05cVV2UjB5dWpVTTdvZ1pGbm1FRThNM3pyMDFrR0hmRER6MTB5aGJuV3ZLUExiYUthRWE5WkpDOXRxWXQyYXZ4ZFBFQ1hQbk41S2dsM2k0OHRHcjA?oc=5"
+        },
+        {
+          "text": "油价上涨凸显新能源优势，港股通汽车ETF易方达涨3.07% - Sohu",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT09hb25zSjk0eVE5VURHZjZGQ1V1UC1Hb2FOdkdJRERMdGFhcGJ3MXA5NUh5YS1ReE9hZlROa1F0T3NpWWlXOWJjek5ieHdudWRBNEE3LUtvTkJfaGV2V3hkUEdTaXQ1b0pVV2M4SzAtNnRZSDljNFlVRUxnYTF0TVkyNGVPS1dXVjRubA?oc=5"
+        },
+        {
+          "text": "璞泰来港股IPO，聚焦新能源电池领域，业绩存在波动 - 新浪财经",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlUzY2UHk4d1ZQa2VvZzlhWEhiZnBqOGU3WXRCbkFsWlRubFVXLUIwOUZReE42c1hUWjlWdVgzSTZIVjMtYVB3Um9XMUFoNF9wWVlvVzA3MzliamNkdWdCUGYyc1JBRWRQV0RITEVzMA?oc=5"
+        },
+        {
+          "text": "工业和信息化部：5G技术在工业和制造业领域的大规模应用成效显著 - 新华网",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OWlhsa0Y5ekdjTFNOVzZSbGFORjBQcG51cHBTMlhiMmJLb015TGwtUmt2UGtMXzRBcmhxTk8zYUpXQWNFcEcxNXdUY0RjOXdjV2FJbFpfdVFleFI5Vm9CTG95NU1hTUNWUUhoSmJwVkczMVctekE?oc=5"
+        }
+      ]
     },
     {
       "id": "future-industries",
@@ -271,8 +311,48 @@ window.dailyBrief = {
       "tag": "Business Analysis",
       "title": "商业分析",
       "description": "自动筛选对企业经营分析、供应链决策、组织效率和战略判断更有价值的内容。",
-      "featured": [],
-      "briefs": []
+      "featured": [
+        {
+          "priority": "重点看点 01",
+          "time": "12:22",
+          "title": "发那科美国公司战略项目目标于2027年末完成，预计新增225个工作岗位。 - 新浪财经",
+          "summary": "发那科美国公司战略项目目标于2027年末完成，预计新增225个工作岗位。 新浪财经",
+          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE00MlF1YnpYZjVpcVppZU5fRExXeE9NWjVHOUF6Qll5QmVtUEpkbFlKN0tuOHp1ckQ0NUItUGJxV1BCUlU4OTMzT1Q4TQ?oc=5"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "10:36",
+          "title": "L1跨国公司管理人员签证深度解析- 劉龍珠律師的日志BackChina Network - BackChina",
+          "summary": "L1跨国公司管理人员签证深度解析- 劉龍珠律師的日志BackChina Network BackChina",
+          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UVUdRa1RkWnZkMjhkMTgwa3cyaE5KUWZCSk54YlNNRnJTYmdnZEU1NXpPWk0tc3VuV2lTb2dCWDBWUjc0bm9VeHljNWxLMnZPcXI5TVI4SEZXNnBNUENIelN5RHFJbDE4?oc=5"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "普星能量拟设境内子公司，战略转向“能源+科技”双轮驱动 - 东方财富",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55VFRWclRFQU5seko4UlpsSzAxUjhEZlZ3eDMwSW9DOEdKTGZIM1A0cUdlZnJhcDctZlB3UXVIWV9KRDBTSjVwdENBREtIWGJRc1BSUVZYMEFVLWJxX3lBbk1OMjk?oc=5"
+        },
+        {
+          "text": "浙江医药（600216.SH）新增一起对外投资，被投资公司为厦门浙辰佳铭企业管理咨询合伙企业（有限合伙） - 证券之星",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HdjhSUGR2aXFPOVc4ZWhOWXBHWDExN0dZOTVSRGFvVGpQUWlJMG91aXFfa1B3OExrVTB4ejRBVXR5ZGlwT1ZzemNPMDBDOXMzU1RxdExvYW5mZ1dIN3JZR1BFbVc?oc=5"
+        },
+        {
+          "text": "精研科技：公司管理层高度重视资产使用效率与股东回报 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tbkFfSlVLWWN4Vl9FaWVfa2M5ejJrLXlsTDVsNUZmNkNqQ3h6TmpEU0dhT3NOa1U3Q21TNnhwN0RZLVZfV3VDWnJDRWpkYkt6T0NUN3VXWm1kNUtLcWlqZWdUY0Z4dw?oc=5"
+        },
+        {
+          "text": "北大荒：公司管理层高度重视市值管理工作 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DbTFNU0dlS3AyTm5kcGk0ei1CNXRQMEJFV01LZEdmWTlUVWt6UWdvUzBHeHlWVTQwdXdobTVwc1ZKS0lvVEx6eEc4VnBhaDFiaFZDNFNTZERsRm1OVGZfN0ZIWkEzUQ?oc=5"
+        }
+      ]
     }
   ]
 };
