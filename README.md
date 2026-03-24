@@ -1,30 +1,47 @@
 # 每日看点推送网页
 
-这是一个纯静态网页项目，适合做每日资讯首页。
+这是一个部署在 GitHub Pages 上的每日资讯站点。
+
+## 当前模式
+
+项目已经支持全自动更新：
+
+- GitHub Actions 每天定时运行
+- 脚本自动抓取 RSS / Atom 新闻源
+- 自动生成 `data/daily-brief.js`
+- 自动提交到仓库
+- GitHub Pages 自动发布最新页面
+
+默认定时为每天北京时间早上 `07:15` 左右更新。
 
 ## 文件说明
 
 - `index.html`：页面结构
 - `styles.css`：视觉样式与响应式布局
-- `app.js`：根据数据生成栏目与资讯卡片
-- `data/daily-brief.js`：每日内容数据
+- `app.js`：前端渲染逻辑
+- `data/daily-brief.js`：自动生成的每日内容
+- `config/feed_sources.json`：各板块的抓取源配置
+- `scripts/generate_daily_brief.py`：抓取并生成日报数据的脚本
+- `.github/workflows/daily-brief.yml`：GitHub Actions 定时任务
 
-## 如何更新内容
+## 如何调整自动抓取
 
-每日只需要修改 `data/daily-brief.js`：
+如果想替换资讯来源，主要改 `config/feed_sources.json`：
 
-- 更新 `publishDate`
-- 修改 `highlights`
-- 修改各个 `sections` 下的 `items`
-- 每条资讯都可以配置：
-  - `priority`
-  - `time`
-  - `title`
-  - `summary`
-  - `impact`
-  - `source`
-  - `url`
+- 每个板块都可以配置多个 RSS / Atom 源
+- 脚本会自动抓取、去重、按时间排序
+- 每个板块默认生成 `2` 条重点内容和 `4` 条其他看点
 
-## 本地打开
+## 手动触发更新
 
-直接双击 `index.html` 即可查看，或者在当前目录启动一个静态服务。
+如果不想等到定时任务，也可以在 GitHub 仓库的 Actions 页面手动运行 `Daily Brief Update`。
+
+## 本地测试
+
+可以在项目根目录运行：
+
+```bash
+python3 scripts/generate_daily_brief.py
+```
+
+生成完成后刷新页面即可查看。

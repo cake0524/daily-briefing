@@ -1,0 +1,34 @@
+name: Daily Brief Update
+
+on:
+  schedule:
+    - cron: "15 23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-brief:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate daily brief
+        run: python scripts/generate_daily_brief.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/daily-brief.js
+          git diff --cached --quiet || git commit -m "Auto update daily brief"
+
+      - name: Push changes
+        run: git push
