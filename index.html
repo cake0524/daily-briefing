@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>每日看点推送</title>
+    <meta
+      name="description"
+      content="聚焦六大支柱产业、六大未来产业、国际局势、AI、半导体、国际法与商业分析的每日重要资讯页面。"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;600;700&family=Public+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero__backdrop"></div>
+        <div class="hero__content">
+          <p class="eyebrow">Daily Briefing</p>
+          <h1>每日看点推送</h1>
+          <p class="hero__lead">
+            覆盖产业、科技、国际与商业的重要动态，用克制的信息设计承载每天最值得关注的新闻线索。
+          </p>
+          <div class="hero__meta">
+            <div>
+              <span class="meta-label">更新日期</span>
+              <strong id="publish-date">加载中</strong>
+            </div>
+            <div>
+              <span class="meta-label">更新频率</span>
+              <strong>每日刷新</strong>
+            </div>
+            <div>
+              <span class="meta-label">内容范围</span>
+              <strong>中外来源并行</strong>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <main class="layout">
+        <aside class="sidebar">
+          <section class="panel panel--sticky">
+            <p class="panel__eyebrow">栏目导航</p>
+            <nav id="topic-nav" class="topic-nav" aria-label="栏目导航"></nav>
+          </section>
+
+          <section class="panel">
+            <p class="panel__eyebrow">今日摘要</p>
+            <div id="highlights" class="highlights"></div>
+          </section>
+        </aside>
+
+        <section class="content">
+          <section class="panel panel--intro">
+            <div class="panel__header">
+              <div>
+                <p class="panel__eyebrow">Brief Overview</p>
+                <h2>面向日更的资讯首页</h2>
+              </div>
+              <p class="intro-note">
+                每个栏目均支持放置标题、摘要、关键影响和来源链接，后续只需更新数据文件即可。
+              </p>
+            </div>
+          </section>
+
+          <div id="topic-sections" class="topic-sections"></div>
+        </section>
+      </main>
+    </div>
+
+    <template id="nav-item-template">
+      <a class="topic-nav__link"></a>
+    </template>
+
+    <template id="highlight-template">
+      <article class="highlight-card">
+        <p class="highlight-card__topic"></p>
+        <h3 class="highlight-card__title"></h3>
+        <p class="highlight-card__summary"></p>
+      </article>
+    </template>
+
+    <template id="section-template">
+      <section class="topic-section panel">
+        <div class="panel__header">
+          <div>
+            <p class="panel__eyebrow section-tag"></p>
+            <h2 class="topic-section__title"></h2>
+          </div>
+          <p class="topic-section__description"></p>
+        </div>
+        <div class="cards-grid"></div>
+      </section>
+    </template>
+
+    <template id="card-template">
+      <article class="news-card">
+        <div class="news-card__header">
+          <span class="news-card__priority"></span>
+          <span class="news-card__time"></span>
+        </div>
+        <h3 class="news-card__title"></h3>
+        <p class="news-card__summary"></p>
+        <p class="news-card__impact"></p>
+        <div class="news-card__footer">
+          <span class="news-card__source"></span>
+          <a class="news-card__link" target="_blank" rel="noreferrer">查看来源</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="./data/daily-brief.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
