@@ -1,3 +1,19 @@
+@font-face {
+  font-family: "HF Popin Bold";
+  src: url("./assets/fonts/HFPopinBold-2.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Jiangcheng LvDongSong";
+  src: url("./assets/fonts/jiangcheng-lvdongsong.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
 :root {
   --bg: #f4f1eb;
   --bg-soft: rgba(255, 255, 255, 0.62);
@@ -92,13 +108,15 @@ body::before {
   color: var(--accent);
   font-size: 0.74rem;
   font-weight: 700;
+  font-family: "HF Popin Bold", "Public Sans", sans-serif;
 }
 
 .hero h1,
 .panel h2,
-.topic-section__title {
+.topic-section__title,
+.news-card__title {
   margin: 0;
-  font-family: "Noto Serif SC", serif;
+  font-family: "Jiangcheng LvDongSong", "Noto Serif SC", serif;
 }
 
 .hero h1 {
@@ -236,6 +254,7 @@ body::before {
   margin: 10px 0 8px;
   font-size: 1rem;
   line-height: 1.45;
+  font-family: "Jiangcheng LvDongSong", "Noto Serif SC", serif;
 }
 
 .highlight-card__summary {
@@ -290,7 +309,6 @@ body::before {
 }
 
 .news-card__title {
-  margin: 0;
   font-size: 1.1rem;
   line-height: 1.55;
 }
@@ -299,6 +317,7 @@ body::before {
   color: var(--text);
   text-decoration: none;
   transition: color 180ms ease;
+  font-family: inherit;
 }
 
 .news-card__title-link:hover,
