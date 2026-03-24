@@ -4,6 +4,15 @@ function $(selector) {
 
 const data = window.dailyBrief;
 
+function formatSourceUrl(url) {
+  try {
+    const { hostname } = new URL(url);
+    return hostname.replace(/^www\./, "");
+  } catch {
+    return url;
+  }
+}
+
 function renderMeta() {
   $("#publish-date").textContent = data.publishDate;
 }
@@ -52,10 +61,17 @@ function renderSections() {
       const card = cardTemplate.content.firstElementChild.cloneNode(true);
       card.querySelector(".news-card__priority").textContent = item.priority;
       card.querySelector(".news-card__time").textContent = item.time;
-      card.querySelector(".news-card__title").textContent = item.title;
       card.querySelector(".news-card__summary").textContent = item.summary;
       card.querySelector(".news-card__impact").textContent = `影响观察：${item.impact}`;
       card.querySelector(".news-card__source").textContent = item.source;
+
+      const titleLink = card.querySelector(".news-card__title-link");
+      titleLink.href = item.url;
+      titleLink.textContent = item.title;
+
+      const sourceUrl = card.querySelector(".news-card__source-url");
+      sourceUrl.href = item.url;
+      sourceUrl.textContent = formatSourceUrl(item.url);
 
       const link = card.querySelector(".news-card__link");
       link.href = item.url;
