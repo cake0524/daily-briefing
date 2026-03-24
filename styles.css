@@ -319,8 +319,10 @@ body::before {
 }
 
 .briefs-block__title {
+  margin: 0;
   font-family: "ST Zhongsong", "Noto Serif SC", serif;
-  font-size: 1rem;
+  font-size: 1.08rem;
+  color: var(--text);
   letter-spacing: 0;
   text-transform: none;
 }
@@ -501,6 +503,9 @@ body::before {
   color: var(--warm);
   text-decoration: none;
   font-weight: 600;
+  font-family: "HF Popin Bold", "Public Sans", sans-serif;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .news-card__link:hover,
