@@ -47,6 +47,7 @@ function renderSections() {
   const container = $("#topic-sections");
   const sectionTemplate = $("#section-template");
   const cardTemplate = $("#card-template");
+  const briefTemplate = $("#brief-template");
 
   data.sections.forEach((section, sectionIndex) => {
     const sectionNode = sectionTemplate.content.firstElementChild.cloneNode(true);
@@ -57,7 +58,7 @@ function renderSections() {
     sectionNode.querySelector(".topic-section__description").textContent = section.description;
 
     const grid = sectionNode.querySelector(".cards-grid");
-    section.items.forEach((item) => {
+    (section.featured || []).forEach((item) => {
       const card = cardTemplate.content.firstElementChild.cloneNode(true);
       card.querySelector(".news-card__priority").textContent = item.priority;
       card.querySelector(".news-card__time").textContent = item.time;
@@ -77,6 +78,18 @@ function renderSections() {
       link.href = item.url;
 
       grid.appendChild(card);
+    });
+
+    const briefsList = sectionNode.querySelector(".briefs-list");
+    (section.briefs || []).forEach((item) => {
+      const brief = briefTemplate.content.firstElementChild.cloneNode(true);
+      brief.querySelector(".brief-item__text").textContent = item.text;
+      brief.querySelector(".brief-item__source").textContent = item.source;
+
+      const briefLink = brief.querySelector(".brief-item__link");
+      briefLink.href = item.url;
+
+      briefsList.appendChild(brief);
     });
 
     container.appendChild(sectionNode);

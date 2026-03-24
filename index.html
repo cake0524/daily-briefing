@@ -64,7 +64,7 @@
                 <h2>面向日更的资讯首页</h2>
               </div>
               <p class="intro-note">
-                每个栏目均支持放置标题、摘要、关键影响和来源链接，后续只需更新数据文件即可。
+                每个栏目固定展示 2 条重点深读，并补充多条一句话速览与原文跳转，方便快速浏览后直接进入文章。
               </p>
             </div>
           </section>
@@ -96,6 +96,13 @@
           <p class="topic-section__description"></p>
         </div>
         <div class="cards-grid"></div>
+        <div class="briefs-block">
+          <div class="briefs-block__header">
+            <p class="panel__eyebrow">Quick Scan</p>
+            <p class="briefs-block__note">一句话速览，点击即可进入原文。</p>
+          </div>
+          <div class="briefs-list"></div>
+        </div>
       </section>
     </template>
 
@@ -116,6 +123,16 @@
         </div>
         <div class="news-card__footer">
           <a class="news-card__link" target="_blank" rel="noreferrer">阅读全文</a>
+        </div>
+      </article>
+    </template>
+
+    <template id="brief-template">
+      <article class="brief-item">
+        <p class="brief-item__text"></p>
+        <div class="brief-item__meta">
+          <span class="brief-item__source"></span>
+          <a class="brief-item__link" target="_blank" rel="noreferrer">click 原文</a>
         </div>
       </article>
     </template>
