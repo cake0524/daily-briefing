@@ -14,6 +14,14 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "ST Zhongsong";
+  src: url("./assets/fonts/STZhongsong.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
 :root {
   --bg: #f4f1eb;
   --bg-soft: rgba(255, 255, 255, 0.62);
@@ -310,6 +318,13 @@ body::before {
   align-items: baseline;
 }
 
+.briefs-block__title {
+  font-family: "ST Zhongsong", "Noto Serif SC", serif;
+  font-size: 1rem;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
 .briefs-block__note {
   margin: 0;
   color: var(--text-muted);
@@ -378,6 +393,9 @@ body::before {
   color: var(--accent);
   text-decoration: none;
   font-weight: 600;
+  font-family: "HF Popin Bold", "Public Sans", sans-serif;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
 }
 
 .brief-item__link:hover,
