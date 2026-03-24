@@ -26,6 +26,23 @@ def load_config():
         return json.load(handle)
 
 
+def load_previous_data():
+    if not OUTPUT_PATH.exists():
+        return {}
+    raw = OUTPUT_PATH.read_text(encoding="utf-8").strip()
+    prefix = "window.dailyBrief = "
+    suffix = ";"
+    if not raw.startswith(prefix):
+        return {}
+    raw = raw[len(prefix):]
+    if raw.endswith(suffix):
+        raw = raw[:-1]
+    try:
+        return json.loads(raw)
+    except json.JSONDecodeError:
+        return {}
+
+
 def strip_html(text):
     if not text:
         return ""
@@ -219,6 +236,10 @@ def dedupe(items):
 
 def build_data():
     config = load_config()
+    previous_data = load_previous_data()
+    previous_sections = {
+        section.get("id"): section for section in previous_data.get("sections", [])
+    }
     sections = []
     highlights = []
 
@@ -232,6 +253,11 @@ def build_data():
 
         featured = make_featured(items, section["impact_template"])
         briefs = make_briefs(items)
+        if not featured and section["id"] in previous_sections:
+            previous_section = previous_sections[section["id"]]
+            featured = previous_section.get("featured", [])
+            briefs = previous_section.get("briefs", [])
+
         sections.append(
             {
                 "id": section["id"],

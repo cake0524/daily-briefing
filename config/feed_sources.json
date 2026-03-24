@@ -10,16 +10,16 @@
       "impact_template": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
       "feeds": [
         {
-          "source": "中国政府网",
-          "url": "https://www.gov.cn/rss/gwyw.xml"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/search?q=%E5%88%B6%E9%80%A0%E4%B8%9A%20OR%20%E6%96%B0%E8%83%BD%E6%BA%90%20OR%20%E8%AE%BE%E5%A4%87%E6%9B%B4%E6%96%B0&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
         },
         {
-          "source": "国家能源局",
-          "url": "https://www.nea.gov.cn/syndication/rss.xml"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/search?q=%E4%BA%A7%E4%B8%9A%E6%94%BF%E7%AD%96%20OR%20%E5%85%88%E8%BF%9B%E5%88%B6%E9%80%A0%20OR%20%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
         },
         {
-          "source": "Reuters Business",
-          "url": "https://feeds.reuters.com/reuters/businessNews"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/search?q=%E5%B7%A5%E4%B8%9A%E6%8A%95%E8%B5%84%20OR%20%E9%AB%98%E7%AB%AF%E8%A3%85%E5%A4%87%20OR%20%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
         }
       ]
     },
@@ -148,16 +148,16 @@
       "impact_template": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
       "feeds": [
         {
-          "source": "McKinsey Insights",
-          "url": "https://www.mckinsey.com/featured-insights/rss"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/search?q=%E5%95%86%E4%B8%9A%E5%88%86%E6%9E%90%20OR%20%E4%BC%81%E4%B8%9A%E6%88%98%E7%95%A5%20OR%20%E4%BE%9B%E5%BA%94%E9%93%BE%E9%9F%A7%E6%80%A7&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
         },
         {
-          "source": "Harvard Business Review",
-          "url": "https://feeds.hbr.org/harvardbusiness"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/search?q=%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%20OR%20%E7%BB%8F%E8%90%A5%E5%88%A4%E6%96%AD%20OR%20%E8%BF%90%E8%90%A5%E4%BC%98%E5%8C%96&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
         },
         {
-          "source": "Strategy+Business",
-          "url": "https://www.strategy-business.com/rss"
+          "source": "Google News 全球商业",
+          "url": "https://news.google.com/rss/search?q=business%20analysis%20OR%20corporate%20strategy%20OR%20operations%20planning&hl=en-US&gl=US&ceid=US:en"
         }
       ]
     }
