@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年3月26日",
+  "publishDate": "2026年3月27日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【视频】2026奇瑞电池之夜新能源下半场角逐正式开始 - 汽车之家",
+      "title": "网传新能源车充电涨价是因为用油发电 央视揭秘真相 - 凤凰网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "This tiny implant, smaller than a grain…",
+      "title": "Deepfake X-rays are so real even doctor…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Ukraine violence ‘worse than ever’, Sec…",
+      "title": "Persian Gulf crisis impacting food secu…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "13:17",
-          "title": "【视频】2026奇瑞电池之夜新能源下半场角逐正式开始 - 汽车之家",
-          "summary": "【视频】2026奇瑞电池之夜新能源下半场角逐正式开始 汽车之家",
+          "time": "07:38",
+          "title": "网传新能源车充电涨价是因为用油发电 央视揭秘真相 - 凤凰网",
+          "summary": "网传新能源车充电涨价是因为用油发电 央视揭秘真相 凤凰网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VSW5LcUV3Tk95a09KT1JBWjgwUzZhdDloXzhYY0tLUlVaVDVBa2xjOExFN1VkZk9KYTBzYm9TTHRRRllSWkl0ZE40eGtGRjhGaUFzb1NxUlZWQWs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VYzdpVDd5STRXOUd0YnJ5aTdnZmQ0VHd6alJGaTB6TUY4TzNORW5zSl9uaUU5aDA2MklvTVNmT0kyeHF3RDVzWA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "13:15",
-          "title": "Jörg Menges将出任奥迪一汽新能源汽车有限公司首席执行官 - Sohu",
-          "summary": "Jörg Menges将出任奥迪一汽新能源汽车有限公司首席执行官 Sohu",
+          "time": "07:37",
+          "title": "插混新能源车用高压燃油箱订单大增 世昌股份2025年度营收增长近三成 - 东方财富",
+          "summary": "插混新能源车用高压燃油箱订单大增 世昌股份2025年度营收增长近三成 东方财富",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmhwbGI3N0RzUnY2Wk85d3pvUURfWTdMem1GcTNLeHBfamFrbmw2ejVPMTlmWkdib015T1hjcnp1cXRscWhxV0lhVFBqb2hreW5qOFktc1JzZUZUa2owNDgyTF9NbEhyWDFqMFJuc19faEZISHRnck1ESDNmWjVCN1N5Y3dGbVlWYTFv?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyYmdtSTFtRF9IRG1ESWRuNTZoYThXLTVnUnk2Tl9fSWsxT2JwY1EtVHNZdFVVcmNkcHlCd3RnQmtiN2ZhQzZqZVQ3ZjV4T2RROWFHRjFFQlJFV1pKVFdERXFJVERhQQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "【网通社快报】C-IASI最新测评：5款新能源车全获安全“全优”成绩 - 凤凰网汽车",
+          "text": "【报告】麦格纳的新能源汽车技术 - 电子工程专辑",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5xZ1A0SjhlVEp1N2Y0RlFVaWdoZGpTTmFCZENaSzFoTnFJWU5QNU05bVY3Vy1lcHV4TDRlaEhkekZIeUZlVFBjdTNmaUg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9obi1VQ2FhN3kwazhNUUJUd0ZKUnF4MnhON0d6NVp6dmJxZzBPUlNiQS1oR3FUSmpKdkthSWNvei03dUJPdHVyZUpMcnB6OHZ5cGNV?oc=5"
         },
         {
-          "text": "农历新年间生产活动放缓 我国2月制造业产值微跌0.1% - 联合早报",
+          "text": "智能制造 解锁天津新能源产业“硬实力” - 天津日报",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uUUtCNmNiaURlN2lYcTd2NnlMTU1DQVEtbmQzNFNobjh1RnpoRi1CbC12VWthbXpuaWplTmpVU25vNDE0cDNXRXhhdE1PRk5mRFpjMFIxX2h6R2lKdlZPSkdEVzVGTG84ZVJfOHZXeDlLMGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWhGM3R1aVBtSHVtZDAtMXliUkRXV1VGZzAwY1FITWsyTC1KeGVZNTVnNlRNdk5OUHRsbXU1YnB4UFVZT3BEeEh4SUFHLVZsbFU4OXBTMFdPTmktNmNQWFp6U3JCOVVDZXdFc0U2dm9BcHdKcE1kcUxWVHhmRzJUSEFn?oc=5"
         },
         {
-          "text": "发展数字经济 推进中国式现代化 - 中国网",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAxVXFFN3ZLWHBXdUdGSVJ0eF9CeWptSXdMX0o0R2lmRmo5UDlKQm91VnkyX3NWVVN1cUVndjlOSThWbEVzMkQyRkZPZXphR1B3V05hN2VvNHlWb1ktbXk4Qm44LWdnQVNCZG9hdDhNQUc5UFgzT3I4Ty13?oc=5"
+          "text": "美国制造业3月温和扩张但前景承压 能源冲击或拖累后续增长 提供者 智通财经 - 英为财情 Investing.com",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNSURoczM2RmdMSHZ4eFNfcS11bElNYzRpYzZTM2pvNmIzR2t0aDhya2tzejdBdnNZNkFCajJ4SWYzMDdRTUtSYzhfNTY0MHRYOXlTOENqeWczdlFMYVZfZDlDLVVISng5YncweDNRaXc?oc=5"
         },
         {
-          "text": "【视频】论中国新能源企业的发展，企业要坚持长期主义 - 汽车之家",
+          "text": "韩国制造业信心指数维持在 97.1 不变。 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zU25TbW1OOXJwWTdRNkppZzlNczBMWmlTLXVvVXJ4Sy03eWdSdlAzaGYyTEg5ZFV4Mlp4djBNYU1sWHNuY21LNnVjQUNrSHZEZFBITVhNNVlkWmhyWFRCVDRuQW9LeHg3QkVN?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FZ1FudVZYZVh4R1k5RlBNMnJPVXFoVmdERnhIRjNpeEQ0dHpSbXdwRVE3NjNrak8tQzVCMTNwTWsyNlBPU21MbWR2aw?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "18:42",
+          "title": "Deepfake X-rays are so real even doctors can’t tell the difference",
+          "summary": "Deepfake X-rays created by AI are now convincing enough to fool both doctors and AI models. In tests, radiolo…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260326011452.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "10:23",
           "title": "This tiny implant, smaller than a grain of salt, can read your brain",
           "summary": "A new neural implant is so small it can rest on a grain of salt, yet it can track and wirelessly transmit bra…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:43",
-          "title": "Physicists just turned glass into a powerful quantum security device",
-          "summary": "Scientists have turned simple glass into a powerful quantum communication device that could safeguard data ag…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260324024255.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Physicists just turned glass into a powerful quantum security device",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260324024255.htm"
+        },
         {
           "text": "New light trap design supercharges atom-thin semiconductors",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Scientists just found a hidden 48-dimensional world in quantum light",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/03/260321012705.htm"
-        },
-        {
-          "text": "AI uses as much energy as Iceland but scientists aren’t worried",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260318033103.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Ukraine violence ‘worse than ever’, Security Council hears",
-          "summary": "More than four years after Russia launched its full-scale invasion of Ukraine, “the violence is worse than ev…",
+          "title": "Persian Gulf crisis impacting food security, FAO warns",
+          "summary": "The intensifying conflict in the Persian Gulf “has triggered one of the most rapid and severe disruptions to…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167186"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167205"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "SECURITY COUNCIL LIVE: Ukraine in spotlight as Russian strikes surge",
-          "summary": "The Security Council is met for an open briefing on Ukraine, requested by European members following Kyiv’s 1…",
+          "title": "DR Congo: violence intensifies as UN mission pledges continued support",
+          "summary": "The security and political situation in the Democratic Republic of the Congo (DRC) remains “extremely tense”,…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167185"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167204"
         }
       ],
       "briefs": [
         {
-          "text": "UN calls for solidarity and political will to stamp out racial discrimination",
+          "text": "World News in Brief, Cuba blockade hits healthcare, Haiti’s ‘vortex of violence…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167183"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167203"
         },
         {
-          "text": "Dire fertiliser shortage a lurking threat due to Hormuz crisis",
+          "text": "Ukraine: danger is only increasing, warns UN human rights office",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167182"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167201"
         },
         {
-          "text": "War in the Middle East: Cultural treasures damaged, with more at risk",
+          "text": "World News in Brief: 273 million out of school, deadly attacks on Ukraine, migr…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167181"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167200"
         },
         {
-          "text": "MIDDLE EAST LIVE 23 March: Civilians bear brunt of ongoing war",
+          "text": "UN resolution urges reparations for slavery’s ‘historical wrongs’",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167180"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167199"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:02",
-          "title": "Scale AI: Engineering the Next Leap in LPDDR6 Low-Power Memory",
-          "summary": "What changes from LPDDR5 and LPDDR5X to LPDDR6, and why those changes matter for AI systems that care about b…",
+          "time": "15:08",
+          "title": "AI Workloads Are Turning The Data Center Network Into A Combined Memory And Storage Fabric",
+          "summary": "Inference is reshaping data center architecture, introducing a new and less forgiving set of network requirem…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/scale-ai-engineering-the-next-leap-in-lpddr6-low-power-memory/"
+          "url": "https://semiengineering.com/ai-workloads-are-turning-the-data-center-network-into-a-combined-memory-and-storage-fabric/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Beating The Heat In 3D Packages",
-          "summary": "Thermal management is the biggest performance and reliability bottleneck in multi-die assemblies. The post Be…",
+          "time": "15:07",
+          "title": "IP Requirements Evolve For 3D Multi-Die Designs",
+          "summary": "Vertical signal paths create complex parasitic interactions that are harder to model and control. The post IP…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/beating-the-heat-in-3d-packages/"
+          "url": "https://semiengineering.com/ip-requirements-evolve-for-3d-multi-die-designs/"
         }
       ],
       "briefs": [
         {
-          "text": "Extraction Challenges of CFET and Backside Power Delivery",
+          "text": "Detect, Diagnose, And Debug Using Sensors And Functional Monitoring",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/extraction-challenges-of-cfet-and-backside-power-delivery/"
+          "url": "https://semiengineering.com/detect-diagnose-and-debug-using-sensors-and-functional-monitoring/"
         },
         {
-          "text": "Blog Review: Mar. 25",
+          "text": "Memory Wall Gets Higher",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-mar-25/"
+          "url": "https://semiengineering.com/memory-wall-gets-higher/"
         },
         {
-          "text": "Building an AI Chip: Security, Software Development, and Lifecycle Management",
+          "text": "Importance Of Hardware Security Verification In Pre-Silicon Design",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/building-an-ai-chip-security-software-development-and-lifecycle-management/"
+          "url": "https://semiengineering.com/importance-of-hardware-security-verification-in-pre-silicon-design/"
         },
         {
-          "text": "Chip Industry Technical Paper Roundup: Mar. 24",
+          "text": "Shift Verification Left: AI Tools For Faster, Smarter Chip Design",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-mar-24/"
+          "url": "https://semiengineering.com/shift-verification-left-ai-tools-for-faster-smarter-chip-design/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Ukraine violence ‘worse than ever’, Security Council hears",
-          "summary": "More than four years after Russia launched its full-scale invasion of Ukraine, “the violence is worse than ev…",
+          "title": "Persian Gulf crisis impacting food security, FAO warns",
+          "summary": "The intensifying conflict in the Persian Gulf “has triggered one of the most rapid and severe disruptions to…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167186"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167205"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "SECURITY COUNCIL LIVE: Ukraine in spotlight as Russian strikes surge",
-          "summary": "The Security Council is met for an open briefing on Ukraine, requested by European members following Kyiv’s 1…",
+          "title": "DR Congo: violence intensifies as UN mission pledges continued support",
+          "summary": "The security and political situation in the Democratic Republic of the Congo (DRC) remains “extremely tense”,…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167185"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167204"
         }
       ],
       "briefs": [
         {
-          "text": "UN calls for solidarity and political will to stamp out racial discrimination",
+          "text": "World News in Brief, Cuba blockade hits healthcare, Haiti’s ‘vortex of violence…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167183"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167203"
         },
         {
-          "text": "Dire fertiliser shortage a lurking threat due to Hormuz crisis",
+          "text": "Ukraine: danger is only increasing, warns UN human rights office",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167182"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167201"
         },
         {
-          "text": "War in the Middle East: Cultural treasures damaged, with more at risk",
+          "text": "World News in Brief: 273 million out of school, deadly attacks on Ukraine, migr…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167181"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167200"
         },
         {
-          "text": "MIDDLE EAST LIVE 23 March: Civilians bear brunt of ongoing war",
+          "text": "UN resolution urges reparations for slavery’s ‘historical wrongs’",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167180"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167199"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "11:37",
-          "title": "2026年度静安区招聘储备人才30名、区管企业管理培训生20名！_上观新闻 - shobserver.com",
-          "summary": "2026年度静安区招聘储备人才30名、区管企业管理培训生20名！_上观新闻 shobserver.com",
+          "time": "03:41",
+          "title": "王府井：公司管理层高度重视国有资产保值增值及股东利益保护 - 东方财富",
+          "summary": "王府井：公司管理层高度重视国有资产保值增值及股东利益保护 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZHZ4dUt4d0hxSDBOZTFfT1ZVSE1HTzk0R09TWVZDcDF1clhIdXMzb1ZXejZDZHV5UkJwNU5ZcTAxeG4zRUFxR2d3ODU0M0lmcFMyS3ozdlhUWDhf?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE01aUlKZXlTUXVTeGl1VVZRMkh4MnV5WllHT3JnMXZUMVVEejNLVng5cXMtdmt3TkNLc2VRTVRpVWtuVEFnTHlVbERYOUNTN3N3Ni1MNmwxX0V3czBETmFDR21MY2JTdw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:54",
-          "title": "苹果大幅更新App Store Connect，新增超100项商业分析指标 - DoNews",
-          "summary": "苹果大幅更新App Store Connect，新增超100项商业分析指标 DoNews",
+          "time": "03:00",
+          "title": "借鉴上世纪对抗大烟草公司策略 - 星島頭條",
+          "summary": "借鉴上世纪对抗大烟草公司策略 星島頭條",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBUTnkyb2dPTGxQZHZjeHhCdUxncWFSZ1JXY0ROc0NJd2Z1NzVkZXJMNlRzcEx4WG5IWnk2bkd3SEstVlM2VWkyeUlTQURZWmJEWmljQmRqRnlwS0JUa1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQTnd0WW01bThmaC11czhMWXlJVEV6ZlZfV3V1UjNHeUlNTEh6Q1hSc0tDdDMzaUc0ZGYtcmNhbzFXc2xmZlp5MDNxVnR3aTRmcUVnSktfREdMdHA4YmFNMnozT3dtd2lsTFMwdTlxMWxMZE5BdTZKLWFTc2ZzcFAtamxacENqVFNKLXpxcFREa1dDdTlnaTFFZXJ0cEUzMXl3d0t0Wl9pNGlrZkIyNXlFZ0lCRko4dVZueTRySjlLWUIwbXBfRnNsSXFPdGdXTVFZZkxqOXljMkl2QW4wdHpCdGNkTmQ2SGhrTFJfTVJ2T05pbjg5MzZZa0NZNkxGUE56dndwWkphYUthMlZacTYxc2h6WWFfRzZU?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "建元信托（600816.SH）新增一起对外投资，被投资公司为上海威驭信管企业管理有限公司_公司新闻 - 证券之星",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SZTl1bGJfZkFTWW96cFIzQ19TaDlWNmtWWEJ6Ny1TVlBkc2FiYmlSS2dzSGlSMG5TYWdrWUFpUm9GRDVRZGRnSHV3bWFhQVE5c1dQX3lQQlMxQjlsWXNkRmRNdkU?oc=5"
+          "text": "兴储世纪亮相泰国ASEE2026, 荣获“卓越企业战略奖” - 碳索储能网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EVElNY2Jrd2ZEM2Y2ZkU1ZmNjcTZoWVhLMVYyV1JBeUFxRFVSRXkyN3c1M2YwcXM1X05vRVVXNWVPcVJ1MTVzV2I5QWlwbjRLYVJsRUxfd3F6dFl3cGdSVw?oc=5"
         },
         {
-          "text": "思瑞浦：公司管理层及持股5%以上股东近日作出不减持承诺 - 东方财富",
+          "text": "引力传媒：引力传媒：关于授权公司管理层启动公司境外发行股份（H 股）并在香港联合交易所有限公司上市相关筹备工作的公告- 富途牛牛 - 富途牛牛",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0yR3FlT2pVdW03YW84TVd0cXNDc0tqYnJBdEpGZ0NOQUdXalNCNkY3Ml8wTTh3TmxaZWpMS2NTMDNGaTE0OVpuejNvRG15Q1I4cFNxczg1NmNUdmJZNEhwMldoTFc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMGpTb1ZEV09uSkR3azdvdm5BRVVFQVhwbWZ2WTVKVk5XUDdlcmFjS3ZXeS16Y1VjWHlaekNvaUZDSDZUc1dVa21Mdkx3ZUJJMWRVcmxrVXBZOGxCQkJvbVhJb0VvbHB6VU1FY3pyeXJ6SGJuUm1XQVJOemRTdUwzV2pXTEdsN0pTM3JvWW1RTWtqZ2ZPREk4V3dPMDZod0FDZ1BEZjZwaUxVYkxyT0hidlQ1MlBwZGs?oc=5"
         },
         {
-          "text": "泰胜风能：公司管理层专注于主营业务发展 - 东方财富",
+          "text": "*ST步森：宝鸡方维同创企业管理合伙企业（有限合伙）已不再持有公司股份 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lU3prNjJLWGF4aHRCU0Y5UnhpTDVTWjhrejNsZmFRNjhaZ2hTRkJaakpmNENHbFd3Ums3dTYxT1pnUlpOell2YWl6aVBZMGtwcGdUQks2UDVFYVpobEgtTW1wUUo?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tQ1FvTjJrQUZ5YTQyM3o3cEZla0xKR041UWJ6X2JtOERCUC1fNE5uaUpRaUQyMEtTcDR5RXhzTUViS1FWeDdlNFVWR2w2bnRUeU1iUnZXZG50M1FZUjAxUm5fRUk?oc=5"
         },
         {
-          "text": "二十年老友再携手，漫谈中国企业管理！ - 新浪财经",
+          "text": "聚力强管理创新赢未来 天心区首期企业管理能力提升培训班开班 - 湖南红网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKSU1zZmZ4eS11bHhuT0FpWUNjQWp3anZjTm1CTkpZZ1RqRTVDdklfUkxERFR3MXl0d3A5b2tLSXVjWVY0SF8wOEp4dmwyOUhVREkxUzk3X1Q3SkYxdmU3TV9aUEhMVHphZmN6anItbWEtNHRFdjNCRzBkUG9hUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WQkE2Mk45eWVMZnQwX1M4anRyb2Y2bFhhNUZJTGZIYnNzUnpaRWNVck9EZ3dCTldTNE5CajZkT1JlTUVRVzZ3LU9BY3dMdnEzR1dwcTJWODc1a2hFTFk5WFZn?oc=5"
         }
       ]
     }
