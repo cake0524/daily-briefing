@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年3月28日",
+  "publishDate": "2026年3月29日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "超300万新能源汽车将集中“过保”，维修师缺口如何补？ - 搜狐网",
+      "title": "创维集团增收不增利：新能源收入首超电视，家电海外营收增幅已超国内 - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:16",
-          "title": "超300万新能源汽车将集中“过保”，维修师缺口如何补？ - 搜狐网",
-          "summary": "超300万新能源汽车将集中“过保”，维修师缺口如何补？ 搜狐网",
+          "time": "07:58",
+          "title": "创维集团增收不增利：新能源收入首超电视，家电海外营收增幅已超国内 - 新浪网",
+          "summary": "创维集团增收不增利：新能源收入首超电视，家电海外营收增幅已超国内 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa2gxeE1fWEJmSjlQT1NWcFIzNGh2aUVwLWN5Yno5REw1WjAtSUlJWlNLLTJXMXEzTzRELXByaVYyZHc5UFhUVHpERWJub3FxVUNpbE5EMEZCVjRCQ3dZWmpOQXp1SE5Zcm5KdVgxb3FKVVNpUGhBOHBvQjBKdXFTcWczOEdZZmhVejY5Yw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN3p0WHRKSXVCNGU0aGNIMWFPLWpQamxkcm1tLXJrN2R1d2tybnk1aVlKb3dMeG9TV1JHdDdCeGV6d2xONW9hSzlleGxaMmlISEdvaWxHTHhiZkM2VEpXRmRlZnNoRHNpMzFnQmp3bU90SVBZLW9fODlnV0VHdFBZc3RMbXd4ZXlSY3RVanc2d0lyYnpGYS1mTDh0TVpwZTd4c3BEQ1p0ZElRa2lGWkF1YWh4ZWFFX3dUV3ljZm5TdzJyZVg5TlhXbVpGTFZJNlk1T2pndGhNdFRHZW9GVzctMHNIa2I2elJJeU5RaFk2ZnE3NGl3RnFCdUl3?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:55",
-          "title": "当“007”遇上中国新能源：丹尼尔·克雷格携手比亚迪腾势，开启全球豪华新篇章 - 搜狐网",
-          "summary": "当“007”遇上中国新能源：丹尼尔·克雷格携手比亚迪腾势，开启全球豪华新篇章 搜狐网",
+          "time": "07:45",
+          "title": "2026中国数字经济产业发展大会在苏州相城举行 - 搜狐网",
+          "summary": "2026中国数字经济产业发展大会在苏州相城举行 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR2txQ1RWN3BiLUtvYkpKYkRQelFseTlOVDR3OGpVMS13SXZUU0UwYXJtWWJvaVpOZ3F4a05aOFdzNWpnUmhlelZMMk50bk15TUY0N0k2X2p3aGJVNEhMRjUwUzNjTG9qTVl0MlBYdkJpV1lObndNcFZiOXpKM3NyYXhBdDg3VXpIalBwVw?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGJiY3dOZHpLR1ZnTlRZRE9LYzd6NTJ2U2U0Y21HV3d3MkZvazd3d3pnampaN215RTRKTEpueUMySlhlU2gzbGtiWkV3b3QwbmtNckItMWNtcjFrSjAtQm8xeEpYbUV2NGhJMWZVOTBSQTVscFJCOWN0NjlVeHZjX2JTdG5fZzZYd1VJag?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "上汽跃进为什么领跑2026开年新能源轻卡市场？ - 汽车之家",
+          "text": "海南新能源车主注意，充电桩使用避坑指南来了！ - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpNDY3Z1ktdUlXMzV0RWVVenAxSTRNXy1udGI1NDNPdjdRWDNhdFV4SHBvN3pFcGo3Q0VrU2x4alB6Y1h2T3NUM2JPYmEzamY1bnEtcUh3Vjdxc28?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWN0a1RmRmlDcnNaTFNiWW1DZXNuVERvQnZUTkVXYW03SnhfNWZoOVpQWHgwTTUwTW0tblhQdFM4a0FSdTlZazYwcGNvUkFtcDRhRjdiMThBU0c3MFNmS2VHdlY4NkhBeUNWQ0ltcDN3NGdvNEllZ2NnaEhIakdCdzlXSlZwalhs?oc=5"
         },
         {
-          "text": "上汽跃进2026开年领跑新能源轻卡市场：产品、生态、后市场三维发力显成效 - 搜狐网",
+          "text": "真相来了 网传“新能源车充电涨价是因为用油发电”？ - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3AyN3RxTFlaQTBaOU4weFZfS0RieDM5RlRlaVBPZDJPTVZhY1dlWkpZWE9QMkwtMWxheExnUmxiV2FtX0gxR2NGUEpaNVQ0bUlqTXM5cFd0MnNEei1iS053amRlcXN1WWMtQ1B5WnFvdk9JMlhwMVd2RnlFLVFndXNyM0Y3R0tlVkFJQw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXNwNGlfQ2xaMzY0di1lYWhlOEgyMFY0NVdpVzNmLWxDUV9xTU5sUnJ2VWs2N2RHX1NveHRUYjd2UWhHdjlBbTREcVJJRWcyVEh0ZlRiSDdCZ0o1ZFlVWGJHQmlIb2tVWk1RUDE2N0ZEUTFUUHIxWTJYZjFnNk94YVE2dXhOOHRoTEhOSg?oc=5"
         },
         {
-          "text": "广汽集团2025年营业总收入约965.42亿元，节能与新能源车销量占比首超50% - 每日经济新闻",
+          "text": "汽车领域后来居上 赶超日本！特朗普为中国制造业点赞：你必须要尊重中国 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1Y3RPanpyOU5rZjkyWkNZckZMUThQSXg0RjVuRHE3RDZ2SkFBOXh4c1JFcS1nZEhuVEl0RkpBa04xWlJkenBnaHpselRNOEw3QTdsWWVYVnlJVHhiYXlsTWRRVTJMUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPWmExMXh5TnpHeF9GNkhNRmpBeUF5S2FHQ1pwZzc4MmxVUTJkNGpzSkpUeG52R0d2SmhPU0x2OXdPY2hDeXhJTkhYWndKRXFFQzlrazRJb2FXM0FocktjaTBkZnVUdTExY2RZc3ZfT0Ffcy1SQWZZSlY5bHQzUzZoZlA5Z3pZU1VTMFMxTU9wUmtvRk1xVFpqWnFza0JudVRnTngyTVAtSjFnQzN5b1VxNnJ2VjhzekJpdHVMYk9TQzgzSVdjZ21ScVZBSkRQWVZCbGxPd0VlWmxXWXVzc3lkTElKXzBENXRPMU1ucGd6VWhIX0FETlVDSDQ1OTVWcUNOOGhtTUFWUmVpbWppYmJYVHEwRFM3ZzJTQ2M4MzJsaFBCT3dtcnIzUzNYY2MzQzNtVWNR?oc=5"
         },
         {
-          "text": "揭秘储能“黑马”思格新能源：未来成长空间几何？ - 新浪财经",
+          "text": "拥铝为王，中国女首富家族乘风新能源 - 文学城",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wT1VoRzMtZ3NKbnFybW8yb1BKdXR3Vkx6YVNqZHFEY3p5eElIYlFGQWRIN2FoTmxpd2VubFlFeGV0M0RHcDBiR1ptS2M2SW9PRUtuX243NFh6b3Y3cUVEMzBTTW1QSXQxRVRHWUJ0NWNRRFRHVE5fZg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DYThIbExvMkdsVzdvTUY4TFZ2YUZrTGNCRzVOSG92MlItY3NyZHFjcHpjd1ZMZnpEcXU4N0Vhb2NtUGJDVllFd0w5dEliMlItVVBpamlUaVhHUHU5UWJlcUh0Q2NUbnhf?oc=5"
         }
       ]
     },
@@ -314,29 +314,24 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:36",
-          "title": "湘电股份：公司管理层高度重视市值管理工作 - 东方财富",
-          "summary": "湘电股份：公司管理层高度重视市值管理工作 东方财富",
+          "time": "06:47",
+          "title": "中粮资本：公司战略布局与政策方向高度契合 - 东方财富",
+          "summary": "中粮资本：公司战略布局与政策方向高度契合 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0NFc1aDVueDg2LTJKY1I0Snlnc3NYZUpQZUVHMzlQczBKY0wxblZ3SldCWTAwaGRTRmtDdjdtb003TlJxWmxQMENacHc0UVZPcm91MnFKeHd5cmhicHFZc0YtNC0?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJdHdCNTFXOXl3RU9Db1Qta2NxZGJoenVYNEtEX0JNNi1YWDd4M2VUR2ttWnNqVUJyY01Ea1BnYlNZeWt0OFRxXzRPYUNZeEwzZmtGUDhxeURVdHJxZU93Yw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "20:58",
-          "title": "汉马科技：公司管理层致力于提升经营质量，不存在“做低市值”的情形 - 东方财富",
-          "summary": "汉马科技：公司管理层致力于提升经营质量，不存在“做低市值”的情形 东方财富",
+          "time": "05:10",
+          "title": "上大股份：公司会根据市场环境和公司战略进行相应的规划和调整 - 东方财富",
+          "summary": "上大股份：公司会根据市场环境和公司战略进行相应的规划和调整 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4teE1vZkxQeXpjMjhrRmdPekJGOXRtU084STVKa3V4S0YtT1ZHMFpoYzNtRzZUV1lHQVZIODliTmVNNnFOczBLc0U1SzZrOGtIeW0wdkpscEFXOG1SNFA2VVZzcV8?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPTUtia0tYVVJCX1djYXFxZHBnX2N0ZWJqdGhqeEN4Z0VIZEZWSWJtZlhRTEw1NkVmR1l0enZMWUEzTE1lek1ZV2Fac3Ztc191aW9Edno3S09QZklJUWRWag?oc=5"
         }
       ],
       "briefs": [
-        {
-          "text": "三安光电：目前上市公司管理层稳定，均能正常履职，不存在被查的情形 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ranZmNElRMjNPTTI2MGlSOUV6NjAyQnhLSnRhNFQ0YmxaUXYxM3hsUkI5cUtOQXVkTk9GNUdjSml6cVNJQWFLZFF2REpjemNsVFJ6NHVDZVdYWUREMHF1RXpNVFQ?oc=5"
-        },
         {
           "text": "讲讲想给企业招培养管理人才，广州口碑好的培训公司 - 中华网",
           "source": "Google News 企业管理",
@@ -348,9 +343,14 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5scVVpVzJsMnUtRXB6MkZESW5sYWxETWZWVkVIWktDdHZiTTJrYU9yaFIzd2liejlxMHNwNDdNbkdmeTRwYTNKcXJtTE5zWENRVFhJSG94ZVFLRXNyVzRTTTVTVlpVNGt5QzZNbw?oc=5"
         },
         {
-          "text": "安通控股：公司管理层始终重视投资者的利益 - eastmoney.com",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYR05pR3FVRUt1OTduQzVFTXZsZjBFT1hEUUh1dWJ6LTRqRFl5Qm1GZERuTHdhWUVEVHFUaWw2M2RNRG1TX2VhYlVoSGRGNWc4NUJyVUQwZ0dpU3FPWmlFVw?oc=5"
+          "text": "东芯股份：公司将根据产业发展趋势及公司战略规划择机开展资本运作项目 - 东方财富",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMLTB0am5Rc1Y3cEUwaEUyNm8zbm1ZM1NsaHNSWHFiVnJneG51R0pseWh2dEF1aTJFa3JhZllWTTEzQ0gzRkswYUgwSEY2elNlOXhsQ0VRYkFfMUh5elo2LXpjMHc0QQ?oc=5"
+        },
+        {
+          "text": "借鉴上世纪对抗大烟草公司策略 - 星島頭條",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQTnd0WW01bThmaC11czhMWXlJVEV6ZlZfV3V1UjNHeUlNTEh6Q1hSc0tDdDMzaUc0ZGYtcmNhbzFXc2xmZlp5MDNxVnR3aTRmcUVnSktfREdMdHA4YmFNMnozT3dtd2lsTFMwdTlxMWxMZE5BdTZKLWFTc2ZzcFAtamxacENqVFNKLXpxcFREa1dDdTlnaTFFZXJ0cEUzMXl3d0t0Wl9pNGlrZkIyNXlFZ0lCRko4dVZueTRySjlLWUIwbXBfRnNsSXFPdGdXTVFZZkxqOXljMkl2QW4wdHpCdGNkTmQ2SGhrTFJfTVJ2T05pbjg5MzZZa0NZNkxGUE56dndwWkphYUthMlZacTYxc2h6WWFfRzZU?oc=5"
         }
       ]
     }
