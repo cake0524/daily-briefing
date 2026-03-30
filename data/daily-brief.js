@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年3月29日",
+  "publishDate": "2026年3月30日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "创维集团增收不增利：新能源收入首超电视，家电海外营收增幅已超国内 - 新浪网",
+      "title": "【视频】从跟跑到领跑，中国豪华新能源登博鳌 - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Scientists discover bizarre new states…",
+      "title": "World's smallest QR code, smaller than…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Syria: UN Commission documents grave vi…",
+      "title": "Middle East war: UN initiatives support…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:58",
-          "title": "创维集团增收不增利：新能源收入首超电视，家电海外营收增幅已超国内 - 新浪网",
-          "summary": "创维集团增收不增利：新能源收入首超电视，家电海外营收增幅已超国内 新浪网",
+          "time": "14:05",
+          "title": "【视频】从跟跑到领跑，中国豪华新能源登博鳌 - 汽车之家",
+          "summary": "【视频】从跟跑到领跑，中国豪华新能源登博鳌 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN3p0WHRKSXVCNGU0aGNIMWFPLWpQamxkcm1tLXJrN2R1d2tybnk1aVlKb3dMeG9TV1JHdDdCeGV6d2xONW9hSzlleGxaMmlISEdvaWxHTHhiZkM2VEpXRmRlZnNoRHNpMzFnQmp3bU90SVBZLW9fODlnV0VHdFBZc3RMbXd4ZXlSY3RVanc2d0lyYnpGYS1mTDh0TVpwZTd4c3BEQ1p0ZElRa2lGWkF1YWh4ZWFFX3dUV3ljZm5TdzJyZVg5TlhXbVpGTFZJNlk1T2pndGhNdFRHZW9GVzctMHNIa2I2elJJeU5RaFk2ZnE3NGl3RnFCdUl3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YWTNWWEJqRmhQbGd1dWhfXzd2VDI1eV9HaERnT19ZUmhHQ3l0S2VZMG1BOVNZTXA5akNLWFVTUXZVcjVsdDdkUFVKbS1lcGZlQUNuNE1TWTRTUGR0SzlzbGhmc0drTHprVWpz?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:45",
-          "title": "2026中国数字经济产业发展大会在苏州相城举行 - 搜狐网",
-          "summary": "2026中国数字经济产业发展大会在苏州相城举行 搜狐网",
+          "time": "14:05",
+          "title": "新能源概念股走弱，创业板新能源相关ETF跌超2% - 搜狐网",
+          "summary": "新能源概念股走弱，创业板新能源相关ETF跌超2% 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcGJiY3dOZHpLR1ZnTlRZRE9LYzd6NTJ2U2U0Y21HV3d3MkZvazd3d3pnampaN215RTRKTEpueUMySlhlU2gzbGtiWkV3b3QwbmtNckItMWNtcjFrSjAtQm8xeEpYbUV2NGhJMWZVOTBSQTVscFJCOWN0NjlVeHZjX2JTdG5fZzZYd1VJag?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUtISHY0S0wtUHMtbmtDY0NnZ192UHZYb3RLMjVWbExveFBZVl9kWkpLdzNLNVZNTlVyeFhRUTBwVG9MelptRHdOajA2M0o4VkttTlpwa3lhSndHTEt3N0NRUmJxNmlFRWl0dTRFZ3NyNXhhR1dfY2NlUVBmMlhZVzBFVnRoMGNl?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "海南新能源车主注意，充电桩使用避坑指南来了！ - 搜狐网",
+          "text": "华为元老许映童创办的思格新能源通过聆讯：年营收90亿净利29亿 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWN0a1RmRmlDcnNaTFNiWW1DZXNuVERvQnZUTkVXYW03SnhfNWZoOVpQWHgwTTUwTW0tblhQdFM4a0FSdTlZazYwcGNvUkFtcDRhRjdiMThBU0c3MFNmS2VHdlY4NkhBeUNWQ0ltcDN3NGdvNEllZ2NnaEhIakdCdzlXSlZwalhs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWdpdEtSaTZZVEVFYWZ5MnQ1dFUxUVhXVHRnUmRjb0tvQXFlRHJoZlIxNVh2TzhVMmVsSWQ3YUZXb3ZNRmkwQXBUUk95ZE5mQlZRQUJOa3BFSXREcW9IREdoWVNkMHllY3hnS0JWLVFMY3B3Vm4zVUI4RjZBNnZEUHljS2JjN3dQ?oc=5"
         },
         {
-          "text": "真相来了 网传“新能源车充电涨价是因为用油发电”？ - 搜狐网",
+          "text": "一场对接活动看“坂田模式”：从产业并存迈向两业协同 - 21财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXNwNGlfQ2xaMzY0di1lYWhlOEgyMFY0NVdpVzNmLWxDUV9xTU5sUnJ2VWs2N2RHX1NveHRUYjd2UWhHdjlBbTREcVJJRWcyVEh0ZlRiSDdCZ0o1ZFlVWGJHQmlIb2tVWk1RUDE2N0ZEUTFUUHIxWTJYZjFnNk94YVE2dXhOOHRoTEhOSg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTFvMnRKLWhVY0dZc1VyZ0FKNHBRWGFubzFLd1hhRUxORUlOUE1UZDNNN1htVDJIcUlDOU5jUnZseDR2Xy1JbjVsbDNXbDdFVXo1eERYWWpQMmF6TTlpNlJvc0Z0NENic1dpYXFxZFEzZkh3N1RzbElwOXplSFdhRVl2aFNOLXdjam5vaWlodw?oc=5"
         },
         {
-          "text": "汽车领域后来居上 赶超日本！特朗普为中国制造业点赞：你必须要尊重中国 - 新浪财经",
+          "text": "爱德新能源(02623.HK)午后复牌 收购Horizon Minerals逾14%股份配股支付 - AASTOCKS.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPWmExMXh5TnpHeF9GNkhNRmpBeUF5S2FHQ1pwZzc4MmxVUTJkNGpzSkpUeG52R0d2SmhPU0x2OXdPY2hDeXhJTkhYWndKRXFFQzlrazRJb2FXM0FocktjaTBkZnVUdTExY2RZc3ZfT0Ffcy1SQWZZSlY5bHQzUzZoZlA5Z3pZU1VTMFMxTU9wUmtvRk1xVFpqWnFza0JudVRnTngyTVAtSjFnQzN5b1VxNnJ2VjhzekJpdHVMYk9TQzgzSVdjZ21ScVZBSkRQWVZCbGxPd0VlWmxXWXVzc3lkTElKXzBENXRPMU1ucGd6VWhIX0FETlVDSDQ1OTVWcUNOOGhtTUFWUmVpbWppYmJYVHEwRFM3ZzJTQ2M4MzJsaFBCT3dtcnIzUzNYY2MzQzNtVWNR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QSDdZRDdJT0Jpem1TSXl4d0pyNllwRWNoSkpHdElscVFQTkdUQ0RCSDd5azlnVWI4SWxkYURLVzc5VU82a2I3djJLR3VydnZ5Yy1ndGJKQ21taXhJSDcxYi15b0U5TWgwbi1RQ1Q0bw?oc=5"
         },
         {
-          "text": "拥铝为王，中国女首富家族乘风新能源 - 文学城",
+          "text": "江苏省携理想汽车(02015.HK)打造国际先进新能源汽车产业集群 - AASTOCKS.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DYThIbExvMkdsVzdvTUY4TFZ2YUZrTGNCRzVOSG92MlItY3NyZHFjcHpjd1ZMZnpEcXU4N0Vhb2NtUGJDVllFd0w5dEliMlItVVBpamlUaVhHUHU5UWJlcUh0Q2NUbnhf?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0tNTXpRbmZGY2h6YUtfV09ENVY2aW1jUVA4dzFkTGpYN09hOXZfQkpBX25jNHlHRVZybWZjOEhfZVFxR29wSk9TRENYdlV1T25BdmU1YjExX2gySTFWZUNBanhuS1JVVUtTZklRcGo1YmNkQWNMZG1xRWxwbzk2YzVXdWFjRHo3MV8w?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:34",
-          "title": "Scientists discover bizarre new states inside tiny magnetic whirlpools",
-          "summary": "Researchers have uncovered a new way to generate exotic oscillation states in tiny magnetic structures—using…",
+          "time": "13:07",
+          "title": "World's smallest QR code, smaller than bacteria, could store data for centuries",
+          "summary": "Scientists have created a microscopic QR code so tiny it can only be seen with an electron microscope—smaller…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260328043603.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "12:58",
+          "title": "Scientists just found a way to store massive data using light in 3 dimensions",
+          "summary": "A new holographic storage technique uses light in three dimensions to dramatically increase how much data can…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260328212132.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Scientists discover bizarre new states inside tiny magnetic whirlpools",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/03/260326075614.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "09:43",
-          "title": "Scientists create clear nail polish that lets you use touchscreens with long nails",
-          "summary": "Using a smartphone with long nails can be frustrating, forcing people to awkwardly tap with their fingertips…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Scientists create clear nail polish that lets you use touchscreens with long na…",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/03/260326064200.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Deepfake X-rays are so real even doctors can’t tell the difference",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "This tiny implant, smaller than a grain of salt, can read your brain",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm"
-        },
-        {
-          "text": "Physicists just turned glass into a powerful quantum security device",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260324024255.htm"
-        },
-        {
-          "text": "New light trap design supercharges atom-thin semiconductors",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260324024257.htm"
         }
       ]
     },
@@ -123,23 +123,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Syria: UN Commission documents grave violations in July 2025 escalation in Sweida",
-          "summary": "More than 1,700 people were killed and nearly 200,000 more displaced in the July 2025 massacres in Sweida, Sy…",
+          "title": "Middle East war: UN initiatives support mediation efforts, ‘lifesaving’ fertiliser shipments",
+          "summary": "Just hours after war broke out in the Middle East last month, United Nations Secretary-General António Guterr…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167210"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167213"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Myanmar: WFP reports fragile recovery one year after deadly earthquake",
-          "summary": "A “new wave of global instability is hitting Myanmar at the worst possible moment,” a UN official in the coun…",
+          "title": "Kidnapped and tortured on an infamous migration route to Saudi Arabia",
+          "summary": "An Ethiopian man describes how he was tortured by human traffickers as he went in search of his nephew on a n…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167209"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167212"
         }
       ],
       "briefs": [
+        {
+          "text": "Syria: UN Commission documents grave violations in July 2025 escalation in Swei…",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167210"
+        },
+        {
+          "text": "Myanmar: WFP reports fragile recovery one year after deadly earthquake",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167209"
+        },
         {
           "text": "Middle East war: Attacks on vital healthcare, evacuation strike fears",
           "source": "United Nations News",
@@ -149,16 +159,6 @@ window.dailyBrief = {
           "text": "MIDDLE EAST LIVE 27 March: Humanitarian crisis deepens across the region",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/03/1167207"
-        },
-        {
-          "text": "Persian Gulf crisis impacting food security, FAO warns",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167205"
-        },
-        {
-          "text": "DR Congo: violence intensifies as UN mission pledges continued support",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167204"
         }
       ]
     },
@@ -170,24 +170,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "06:15",
+          "title": "Helping disaster response teams turn AI into action across Asia",
+          "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/helping-disaster-response-teams-asia"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "06:00",
           "title": "STADLER reshapes knowledge work at a 230-year-old company",
           "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
           "url": "https://openai.com/index/stadler"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "21:59",
-          "title": "This startup wants to change how mathematicians do math",
-          "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, des…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
         }
       ],
       "briefs": [
+        {
+          "text": "This startup wants to change how mathematicians do math",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
+        },
         {
           "text": "Agentic commerce runs on truth and context",
           "source": "MIT Technology Review AI",
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "The AI Hype Index: AI goes to war",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/"
-        },
-        {
-          "text": "Introducing the OpenAI Safety Bug Bounty program",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/safety-bug-bounty"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Persian Gulf crisis impacting food security, FAO warns",
-          "summary": "The intensifying conflict in the Persian Gulf “has triggered one of the most rapid and severe disruptions to…",
+          "title": "Middle East war: UN initiatives support mediation efforts, ‘lifesaving’ fertiliser shipments",
+          "summary": "Just hours after war broke out in the Middle East last month, United Nations Secretary-General António Guterr…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167205"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167213"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "DR Congo: violence intensifies as UN mission pledges continued support",
-          "summary": "The security and political situation in the Democratic Republic of the Congo (DRC) remains “extremely tense”,…",
+          "title": "Kidnapped and tortured on an infamous migration route to Saudi Arabia",
+          "summary": "An Ethiopian man describes how he was tortured by human traffickers as he went in search of his nephew on a n…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167204"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167212"
         }
       ],
       "briefs": [
         {
-          "text": "World News in Brief, Cuba blockade hits healthcare, Haiti’s ‘vortex of violence…",
+          "text": "Syria: UN Commission documents grave violations in July 2025 escalation in Swei…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167203"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167210"
         },
         {
-          "text": "Ukraine: danger is only increasing, warns UN human rights office",
+          "text": "Myanmar: WFP reports fragile recovery one year after deadly earthquake",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167201"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167209"
         },
         {
-          "text": "World News in Brief: 273 million out of school, deadly attacks on Ukraine, migr…",
+          "text": "Middle East war: Attacks on vital healthcare, evacuation strike fears",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167200"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167208"
         },
         {
-          "text": "UN resolution urges reparations for slavery’s ‘historical wrongs’",
+          "text": "MIDDLE EAST LIVE 27 March: Humanitarian crisis deepens across the region",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167199"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167207"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:47",
-          "title": "中粮资本：公司战略布局与政策方向高度契合 - 东方财富",
-          "summary": "中粮资本：公司战略布局与政策方向高度契合 东方财富",
+          "time": "15:42",
+          "title": "中国电建出席第二届国有企业管理案例开发与教学研讨会并致辞 - powerchina.cn",
+          "summary": "中国电建出席第二届国有企业管理案例开发与教学研讨会并致辞 powerchina.cn",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJdHdCNTFXOXl3RU9Db1Qta2NxZGJoenVYNEtEX0JNNi1YWDd4M2VUR2ttWnNqVUJyY01Ea1BnYlNZeWt0OFRxXzRPYUNZeEwzZmtGUDhxeURVdHJxZU93Yw?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2Q2bXZ6N0FVRkl5UEJyWHEzY0k0Q0c0NER0TGlEZ05KOHhtZUJQN3NqYk9RdXg5UElBSHdMZWhSMmxUWV9YUnFpMjlpWVZBWjVaTEpZd2tacTh2TjRoQmd0c0dLbnBvQXNYR2dTSkhqZElZbHVQbHc1bjJCVFFxbFZhS0NacmJZMUNiZWdXWE5JUQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "05:10",
-          "title": "上大股份：公司会根据市场环境和公司战略进行相应的规划和调整 - 东方财富",
-          "summary": "上大股份：公司会根据市场环境和公司战略进行相应的规划和调整 东方财富",
+          "time": "14:42",
+          "title": "與神性歌詞共鳴 商業分析師深受神韻感動 - epochtimes.com",
+          "summary": "與神性歌詞共鳴 商業分析師深受神韻感動 epochtimes.com",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPTUtia0tYVVJCX1djYXFxZHBnX2N0ZWJqdGhqeEN4Z0VIZEZWSWJtZlhRTEw1NkVmR1l0enZMWUEzTE1lek1ZV2Fac3Ztc191aW9Edno3S09QZklJUWRWag?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yaU5scXZWRjBvMWdkX0o4amJvWm5LcWRGWE03OXBzUlhWRHRNNHNfWVJBR2ExY2tCUUZFcjI4VGxISWo3Nk9NUE9JOWllTjFMcmo5Nzh6aVJvSl9EWm9oTVhJUTR2Z9IBZkFVX3lxTE8yaU5scXZWRjBvMWdkX0o4amJvWm5LcWRGWE03OXBzUlhWRHRNNHNfWVJBR2ExY2tCUUZFcjI4VGxISWo3Nk9NUE9JOWllTjFMcmo5Nzh6aVJvSl9EWm9oTVhJUTR2Zw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "讲讲想给企业招培养管理人才，广州口碑好的培训公司 - 中华网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FRDJvWEdweUpLQ2JMZXRMUlBMeDJTSWwyaFNaRWxpZU5sbXgxODc5aWwyR1NRYm9GZk9hczRfeE5TZmMzX2piR1pmcV8wcG5EUlVmMUt3Ml9WdFU5MG1IeGZDYzBqdFp1aHJjazlR?oc=5"
-        },
-        {
-          "text": "海南智改财税 聚力前行——大老板企业管理（海南）有限公司数字化转型前后对比 - 中华网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5scVVpVzJsMnUtRXB6MkZESW5sYWxETWZWVkVIWktDdHZiTTJrYU9yaFIzd2liejlxMHNwNDdNbkdmeTRwYTNKcXJtTE5zWENRVFhJSG94ZVFLRXNyVzRTTTVTVlpVNGt5QzZNbw?oc=5"
-        },
-        {
-          "text": "东芯股份：公司将根据产业发展趋势及公司战略规划择机开展资本运作项目 - 东方财富",
+          "text": "商業分析師讚神韻展現神性與傳統文化內涵 - epochtimes.com",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMLTB0am5Rc1Y3cEUwaEUyNm8zbm1ZM1NsaHNSWHFiVnJneG51R0pseWh2dEF1aTJFa3JhZllWTTEzQ0gzRkswYUgwSEY2elNlOXhsQ0VRYkFfMUh5elo2LXpjMHc0QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1U2xSNWNnbHdjYjU0Um5iSEE2QzNPM19iZXpDckpLZDlvaUM3eFhsZkNSWVN2elNVTFlRNjAtdmhfVlh0VG5YdHdxdFFrcV9ramZmLVIweEF2YXBIZ1FZMmdEQzRUQdIBZkFVX3lxTFA1U2xSNWNnbHdjYjU0Um5iSEE2QzNPM19iZXpDckpLZDlvaUM3eFhsZkNSWVN2elNVTFlRNjAtdmhfVlh0VG5YdHdxdFFrcV9ramZmLVIweEF2YXBIZ1FZMmdEQzRUQQ?oc=5"
         },
         {
-          "text": "借鉴上世纪对抗大烟草公司策略 - 星島頭條",
+          "text": "星电集团以数智化管控平台驱动企业管理现代化变革 - 湖南红网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCUDlOazk3RUxneU5RckNfWmJkZEVDNUh4czVKUUxIQjJiQUd3TlRyXzNFVEp1Zmg0dTFZaDJOSkh0OWtJTC1SdmV6bHctbUNZR09RNGdBS1B3Y3p1SnpVSkVJUQ?oc=5"
+        },
+        {
+          "text": "中粮资本：公司战略布局与政策方向高度契合 - 东方财富",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQTnd0WW01bThmaC11czhMWXlJVEV6ZlZfV3V1UjNHeUlNTEh6Q1hSc0tDdDMzaUc0ZGYtcmNhbzFXc2xmZlp5MDNxVnR3aTRmcUVnSktfREdMdHA4YmFNMnozT3dtd2lsTFMwdTlxMWxMZE5BdTZKLWFTc2ZzcFAtamxacENqVFNKLXpxcFREa1dDdTlnaTFFZXJ0cEUzMXl3d0t0Wl9pNGlrZkIyNXlFZ0lCRko4dVZueTRySjlLWUIwbXBfRnNsSXFPdGdXTVFZZkxqOXljMkl2QW4wdHpCdGNkTmQ2SGhrTFJfTVJ2T05pbjg5MzZZa0NZNkxGUE56dndwWkphYUthMlZacTYxc2h6WWFfRzZU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJdHdCNTFXOXl3RU9Db1Qta2NxZGJoenVYNEtEX0JNNi1YWDd4M2VUR2ttWnNqVUJyY01Ea1BnYlNZeWt0OFRxXzRPYUNZeEwzZmtGUDhxeURVdHJxZU93Yw?oc=5"
+        },
+        {
+          "text": "上大股份：公司会根据市场环境和公司战略进行相应的规划和调整 - 东方财富",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPTUtia0tYVVJCX1djYXFxZHBnX2N0ZWJqdGhqeEN4Z0VIZEZWSWJtZlhRTEw1NkVmR1l0enZMWUEzTE1lek1ZV2Fac3Ztc191aW9Edno3S09QZklJUWRWag?oc=5"
         }
       ]
     }
