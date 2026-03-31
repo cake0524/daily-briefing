@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年3月30日",
+  "publishDate": "2026年3月31日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【视频】从跟跑到领跑，中国豪华新能源登博鳌 - 汽车之家",
+      "title": "王青：3月制造业PMI大幅反弹1.4个百分点 供需两端明显改善｜首席读数据 -…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Middle East war: UN initiatives support…",
+      "title": "Airstrike on funeral underscores rising…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "14:05",
-          "title": "【视频】从跟跑到领跑，中国豪华新能源登博鳌 - 汽车之家",
-          "summary": "【视频】从跟跑到领跑，中国豪华新能源登博鳌 汽车之家",
+          "time": "13:27",
+          "title": "王青：3月制造业PMI大幅反弹1.4个百分点 供需两端明显改善｜首席读数据 - 搜狐网",
+          "summary": "王青：3月制造业PMI大幅反弹1.4个百分点 供需两端明显改善｜首席读数据 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YWTNWWEJqRmhQbGd1dWhfXzd2VDI1eV9HaERnT19ZUmhHQ3l0S2VZMG1BOVNZTXA5akNLWFVTUXZVcjVsdDdkUFVKbS1lcGZlQUNuNE1TWTRTUGR0SzlzbGhmc0drTHprVWpz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUV4QTREdFhCdVpBb3oxQmdERHFuX0lNZUZQX2JEZWJ5M3pjOW1fVzRoZVVmcmtmT2N0Z1JMaFFOaHZIcE9HNTAwblBsdms3ZG1ha1FjaDFqenhEcGZyMHBMM0tZaHNDRXBucGlaX1ppLUFsazgwbEx6dExWbkZhT0l2QUpMLTkx?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "14:05",
-          "title": "新能源概念股走弱，创业板新能源相关ETF跌超2% - 搜狐网",
-          "summary": "新能源概念股走弱，创业板新能源相关ETF跌超2% 搜狐网",
+          "time": "13:24",
+          "title": "全国新能源汽车动力电池溯源信息平台正式启动 - video.sina.com.cn",
+          "summary": "全国新能源汽车动力电池溯源信息平台正式启动 video.sina.com.cn",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUtISHY0S0wtUHMtbmtDY0NnZ192UHZYb3RLMjVWbExveFBZVl9kWkpLdzNLNVZNTlVyeFhRUTBwVG9MelptRHdOajA2M0o4VkttTlpwa3lhSndHTEt3N0NRUmJxNmlFRWl0dTRFZ3NyNXhhR1dfY2NlUVBmMlhZVzBFVnRoMGNl?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdGhPS3ZVY3Z6bzhHNmh0NldmdjBTX2hZSXFDUlh6WVVMSUNBR00tWVM4Q0JiOG02SlFLTmxUTEg2Ni1FVWNWektXZHVvamhJY3pON2tuRzZYY2dwVXFicXVGM2IyZ05VcjZFR0EyU1Aydm4zaVFOdTBOS0tsclBLNDd3?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "华为元老许映童创办的思格新能源通过聆讯：年营收90亿净利29亿 - 搜狐网",
+          "text": "全国新能源汽车动力电池溯源信息平台正式启动 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRWdpdEtSaTZZVEVFYWZ5MnQ1dFUxUVhXVHRnUmRjb0tvQXFlRHJoZlIxNVh2TzhVMmVsSWQ3YUZXb3ZNRmkwQXBUUk95ZE5mQlZRQUJOa3BFSXREcW9IREdoWVNkMHllY3hnS0JWLVFMY3B3Vm4zVUI4RjZBNnZEUHljS2JjN3dQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kRlFIU2JJQjM4RTloZGZmM3pvQVY4VC00aW9ZRkRJVmItZTJ3YzhmRUlEaWEtMmpreEo3S1hSNEdrRWw1ODk4Szc2WQ?oc=5"
         },
         {
-          "text": "一场对接活动看“坂田模式”：从产业并存迈向两业协同 - 21财经",
+          "text": "【视频】合资新能源MPV天花板：别克至境世家到店实拍 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTFvMnRKLWhVY0dZc1VyZ0FKNHBRWGFubzFLd1hhRUxORUlOUE1UZDNNN1htVDJIcUlDOU5jUnZseDR2Xy1JbjVsbDNXbDdFVXo1eERYWWpQMmF6TTlpNlJvc0Z0NENic1dpYXFxZFEzZkh3N1RzbElwOXplSFdhRVl2aFNOLXdjam5vaWlodw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vQ0g1Q2VfaFFFSEZMV0NYUHpLWTg4eFcwUVVON01RWk8xa0R6aU1SdnJfdHdVLWhXb05qdno5aUlPc0U0cW1DNlRUZXFBazl0RXVGM29qdTZsN2c?oc=5"
         },
         {
-          "text": "爱德新能源(02623.HK)午后复牌 收购Horizon Minerals逾14%股份配股支付 - AASTOCKS.com",
+          "text": "3月中国非制造业商务活动指数升至扩张区间 - chinanews.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QSDdZRDdJT0Jpem1TSXl4d0pyNllwRWNoSkpHdElscVFQTkdUQ0RCSDd5azlnVWI4SWxkYURLVzc5VU82a2I3djJLR3VydnZ5Yy1ndGJKQ21taXhJSDcxYi15b0U5TWgwbi1RQ1Q0bw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZzhpMGppWVNOcS0tS2FIR0pLbW1UdWMtb3hXWWRPa3VhaXRxaklaX0NzQVQxdldXbXdSMWxhSnA4dzc5NkxqMmxmWkhRM2xtM1ppX3A0bGotb3VDNDJSRnN4N09SNVZL?oc=5"
         },
         {
-          "text": "江苏省携理想汽车(02015.HK)打造国际先进新能源汽车产业集群 - AASTOCKS.com",
+          "text": "新能源赛道震荡调整，资金连续8个交易日加码储能电池ETF易方达(159566) - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0tNTXpRbmZGY2h6YUtfV09ENVY2aW1jUVA4dzFkTGpYN09hOXZfQkpBX25jNHlHRVZybWZjOEhfZVFxR29wSk9TRENYdlV1T25BdmU1YjExX2gySTFWZUNBanhuS1JVVUtTZklRcGo1YmNkQWNMZG1xRWxwbzk2YzVXdWFjRHo3MV8w?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VWUJvUFc1MldfdEpPTE5EUUIxMWRtdk5uQmN3dkdoWG5yNmotMm1UQk52a2xnRnZOLWNJVHEyTm9DUEExY3U3X2lPVVo1b1JvLXc?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Middle East war: UN initiatives support mediation efforts, ‘lifesaving’ fertiliser shipments",
-          "summary": "Just hours after war broke out in the Middle East last month, United Nations Secretary-General António Guterr…",
+          "title": "Airstrike on funeral underscores rising civilian toll in Sudan",
+          "summary": "Fears are mounting for civilians caught up in Sudan’s deadly war between rival militaries as attacks intensif…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167213"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167223"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Kidnapped and tortured on an infamous migration route to Saudi Arabia",
-          "summary": "An Ethiopian man describes how he was tortured by human traffickers as he went in search of his nephew on a n…",
+          "title": "The image from Gaza that still haunts me: Palestine relief agency chief",
+          "summary": "Asking the softly spoken, veteran humanitarian worker Philippe Lazzarini how he feels as he comes to the end…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167212"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167220"
         }
       ],
       "briefs": [
         {
-          "text": "Syria: UN Commission documents grave violations in July 2025 escalation in Swei…",
+          "text": "UN condemns killing of two more peacekeepers in Lebanon",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167210"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167222"
         },
         {
-          "text": "Myanmar: WFP reports fragile recovery one year after deadly earthquake",
+          "text": "World News in Brief: Ukraine drone attacks, Afghan rights, Zero-Waste Day",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167209"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167221"
         },
         {
-          "text": "Middle East war: Attacks on vital healthcare, evacuation strike fears",
+          "text": "Developing countries are being priced out, in struggle for affordable finance",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167208"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167219"
         },
         {
-          "text": "MIDDLE EAST LIVE 27 March: Humanitarian crisis deepens across the region",
+          "text": "Sea mines clearance: A new dimension of difficulty",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167207"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167216"
         }
       ]
     },
@@ -170,24 +170,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:15",
-          "title": "Helping disaster response teams turn AI into action across Asia",
-          "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+          "time": "00:00",
+          "title": "There are more AI health tools than ever—but how well do they work?",
+          "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "23:42",
+          "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Helping disaster response teams turn AI into action across Asia",
           "source": "OpenAI",
           "url": "https://openai.com/index/helping-disaster-response-teams-asia"
         },
         {
-          "priority": "重点看点 02",
-          "time": "06:00",
-          "title": "STADLER reshapes knowledge work at a 230-year-old company",
-          "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "STADLER reshapes knowledge work at a 230-year-old company",
           "source": "OpenAI",
           "url": "https://openai.com/index/stadler"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "This startup wants to change how mathematicians do math",
           "source": "MIT Technology Review AI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "Agentic commerce runs on truth and context",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/"
-        },
-        {
-          "text": "Inside our approach to the Model Spec",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/our-approach-to-the-model-spec"
-        },
-        {
-          "text": "The AI Hype Index: AI goes to war",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "05:23",
-          "title": "Integrating Error Propagation Theory Into the FMEDA Framework (Robert Bosch GmbH)",
-          "summary": "A new technical paper, “Quantifying Uncertainty in FMEDA Safety Metrics: An Error Propagation Approach for En…",
+          "time": "10:26",
+          "title": "Simulations of Silicon Spin Qubits Based on a GAAFET (Teikyo U., Riken)",
+          "summary": "A new technical paper, “Device/circuit simulations of silicon spin qubits based on a gate-all-around transist…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/integrating-error-propagation-theory-into-the-fmeda-framework-robert-bosch-gmbh/"
+          "url": "https://semiengineering.com/using-gate-all-around-transistors-instead-of-charge-sensors-to-simplify-qubit-readout-architecture/"
         },
         {
           "priority": "重点看点 02",
-          "time": "05:18",
-          "title": "In-Depth Analysis of 187 Publications on Hardware Reverse Engineering (Ruhr U., MPI)",
-          "summary": "A new technical paper, “SoK: From Silicon to Netlist and Beyond Two Decades of Hardware Reverse Engineering R…",
+          "time": "15:01",
+          "title": "Challenges In Scaling Chips To 2nm And Below",
+          "summary": "Scaling logic continues to deliver better performance per watt, but it's becoming harder, more expensive, and…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/in-depth-analysis-of-187-publications-on-hardware-reverse-engineering-ruhr-u-mpi/"
+          "url": "https://semiengineering.com/challenges-in-scaling-chips-to-2nm-and-below/"
         }
       ],
       "briefs": [
         {
+          "text": "All Software Is Hardware-Dependent",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/all-software-is-hardware-dependent/"
+        },
+        {
+          "text": "Integrating Error Propagation Theory Into the FMEDA Framework (Robert Bosch Gmb…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/integrating-error-propagation-theory-into-the-fmeda-framework-robert-bosch-gmbh/"
+        },
+        {
+          "text": "In-Depth Analysis of 187 Publications on Hardware Reverse Engineering (Ruhr U.,…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/in-depth-analysis-of-187-publications-on-hardware-reverse-engineering-ruhr-u-mpi/"
+        },
+        {
           "text": "Systematic Analysis of CPU-Induced Slowdowns in Multi-GPU LLM Inference (Georgi…",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/systematic-analysis-of-cpu-induced-slowdowns-in-multi-gpu-llm-inference-georgia-tech/"
-        },
-        {
-          "text": "Chip Industry Week In Review",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-131/"
-        },
-        {
-          "text": "AI Workloads Are Turning The Data Center Network Into A Combined Memory And Sto…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-workloads-are-turning-the-data-center-network-into-a-combined-memory-and-storage-fabric/"
-        },
-        {
-          "text": "IP Requirements Evolve For 3D Multi-Die Designs",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ip-requirements-evolve-for-3d-multi-die-designs/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Middle East war: UN initiatives support mediation efforts, ‘lifesaving’ fertiliser shipments",
-          "summary": "Just hours after war broke out in the Middle East last month, United Nations Secretary-General António Guterr…",
+          "title": "Airstrike on funeral underscores rising civilian toll in Sudan",
+          "summary": "Fears are mounting for civilians caught up in Sudan’s deadly war between rival militaries as attacks intensif…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167213"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167223"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Kidnapped and tortured on an infamous migration route to Saudi Arabia",
-          "summary": "An Ethiopian man describes how he was tortured by human traffickers as he went in search of his nephew on a n…",
+          "title": "The image from Gaza that still haunts me: Palestine relief agency chief",
+          "summary": "Asking the softly spoken, veteran humanitarian worker Philippe Lazzarini how he feels as he comes to the end…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167212"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167220"
         }
       ],
       "briefs": [
         {
-          "text": "Syria: UN Commission documents grave violations in July 2025 escalation in Swei…",
+          "text": "UN condemns killing of two more peacekeepers in Lebanon",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167210"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167222"
         },
         {
-          "text": "Myanmar: WFP reports fragile recovery one year after deadly earthquake",
+          "text": "World News in Brief: Ukraine drone attacks, Afghan rights, Zero-Waste Day",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167209"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167221"
         },
         {
-          "text": "Middle East war: Attacks on vital healthcare, evacuation strike fears",
+          "text": "Developing countries are being priced out, in struggle for affordable finance",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167208"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167219"
         },
         {
-          "text": "MIDDLE EAST LIVE 27 March: Humanitarian crisis deepens across the region",
+          "text": "Sea mines clearance: A new dimension of difficulty",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167207"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167216"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:42",
-          "title": "中国电建出席第二届国有企业管理案例开发与教学研讨会并致辞 - powerchina.cn",
-          "summary": "中国电建出席第二届国有企业管理案例开发与教学研讨会并致辞 powerchina.cn",
+          "time": "10:24",
+          "title": "中科鸿蒙企业管理公司成立，鸿蒙生态建设再添新力？ - 搜狐网",
+          "summary": "中科鸿蒙企业管理公司成立，鸿蒙生态建设再添新力？ 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2Q2bXZ6N0FVRkl5UEJyWHEzY0k0Q0c0NER0TGlEZ05KOHhtZUJQN3NqYk9RdXg5UElBSHdMZWhSMmxUWV9YUnFpMjlpWVZBWjVaTEpZd2tacTh2TjRoQmd0c0dLbnBvQXNYR2dTSkhqZElZbHVQbHc1bjJCVFFxbFZhS0NacmJZMUNiZWdXWE5JUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHlIUDJ4TE5jX0MwendJdHJDOEhLWUFFQXZxQzY5WFhiQmFnUG5Wc0xRdVBzVWJCRHVmTnVmNXhBdUJZVnNjZDBNTUhWNGJHcVczc2phek1Oa1Fqd1lNaHFHdjZ6OW94TmVoRkREYUMyNzBPaE9DZy1hTk9GWmdyMVEtd051X3c4cldqdg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "14:42",
-          "title": "與神性歌詞共鳴 商業分析師深受神韻感動 - epochtimes.com",
-          "summary": "與神性歌詞共鳴 商業分析師深受神韻感動 epochtimes.com",
+          "time": "09:21",
+          "title": "电力企业管理杰出贡献案例在京发布！这些案例入选—— - banyuetan.org",
+          "summary": "电力企业管理杰出贡献案例在京发布！这些案例入选—— banyuetan.org",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yaU5scXZWRjBvMWdkX0o4amJvWm5LcWRGWE03OXBzUlhWRHRNNHNfWVJBR2ExY2tCUUZFcjI4VGxISWo3Nk9NUE9JOWllTjFMcmo5Nzh6aVJvSl9EWm9oTVhJUTR2Z9IBZkFVX3lxTE8yaU5scXZWRjBvMWdkX0o4amJvWm5LcWRGWE03OXBzUlhWRHRNNHNfWVJBR2ExY2tCUUZFcjI4VGxISWo3Nk9NUE9JOWllTjFMcmo5Nzh6aVJvSl9EWm9oTVhJUTR2Zw?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHVqMEw5Wmp5LWw5cVJ1eHEzU0lCU2JVMzRaTnZkUnNld3AzWmxwR0VUZUtlcVMxZTFucF9DdEpPdFg4ZVNnSTYxWU1tYUVISDhXRWdQUHlhSlkydjNVWEItUXFvUVFXM3FyUlItb0pDRi1XTTE3QWlRZU1oRTFwS1M4QlA2ZGdMUmtNUUtwOTQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "商業分析師讚神韻展現神性與傳統文化內涵 - epochtimes.com",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1U2xSNWNnbHdjYjU0Um5iSEE2QzNPM19iZXpDckpLZDlvaUM3eFhsZkNSWVN2elNVTFlRNjAtdmhfVlh0VG5YdHdxdFFrcV9ramZmLVIweEF2YXBIZ1FZMmdEQzRUQdIBZkFVX3lxTFA1U2xSNWNnbHdjYjU0Um5iSEE2QzNPM19iZXpDckpLZDlvaUM3eFhsZkNSWVN2elNVTFlRNjAtdmhfVlh0VG5YdHdxdFFrcV9ramZmLVIweEF2YXBIZ1FZMmdEQzRUQQ?oc=5"
-        },
-        {
-          "text": "星电集团以数智化管控平台驱动企业管理现代化变革 - 湖南红网",
+          "text": "13年前左晖让他上一线，而今他让公司管理者上一线，贝壳董事长想干啥从“万房万客”到“一房一客” - 中华网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCUDlOazk3RUxneU5RckNfWmJkZEVDNUh4czVKUUxIQjJiQUd3TlRyXzNFVEp1Zmg0dTFZaDJOSkh0OWtJTC1SdmV6bHctbUNZR09RNGdBS1B3Y3p1SnpVSkVJUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSODBtQjkySW9jRzdNNzZ2Z1BQM1ViT2lLRkVfaXZ5WDhubEdhMjlYSFJhazVmeGd3QWlmYks1SVY1eE44LU45b2x1dlluZ2ZXcXpvNDBzVmVXZ1puWVJSMFFKNHdjcjFDaDR5X0hJXzc?oc=5"
         },
         {
-          "text": "中粮资本：公司战略布局与政策方向高度契合 - 东方财富",
+          "text": "量子策略公司策略师大......_7x24快讯_新浪财经 - 新浪网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJdHdCNTFXOXl3RU9Db1Qta2NxZGJoenVYNEtEX0JNNi1YWDd4M2VUR2ttWnNqVUJyY01Ea1BnYlNZeWt0OFRxXzRPYUNZeEwzZmtGUDhxeURVdHJxZU93Yw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFRU1UXzdOWWZLd1B5REZTSjlUYy1iZUNjenRyVTg4YmNXa2pLX0NYMEJDNjJ0bXVnOFc2bEs3MzdUT0lfS1Buc0ZyNA?oc=5"
         },
         {
-          "text": "上大股份：公司会根据市场环境和公司战略进行相应的规划和调整 - 东方财富",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPTUtia0tYVVJCX1djYXFxZHBnX2N0ZWJqdGhqeEN4Z0VIZEZWSWJtZlhRTEw1NkVmR1l0enZMWUEzTE1lek1ZV2Fac3Ztc191aW9Edno3S09QZklJUWRWag?oc=5"
+          "text": "TCL科技：拟以2.58亿元受让衢州智道企业管理合伙企业等50名股东持有的一道新能源8.06%股份 - 证券之星",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DLV9Jb0xhXzNnbDFWbXlxZVk5MU1iaHNRQkNQanJoRk9EY2pLeC0wcWpkem1BOFlOT3pqcHd6TVVCU3FiU3JLbzVvSS1RcEVZZVA5NmtCNEh0dTczcm03cG5R?oc=5"
+        },
+        {
+          "text": "奔朗新材(920807):股东拟减持股份的预披露公告 - 中财网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yZjlxS3FBOC1rYjFTb05DMnJlOUF1QTB4d0luRGR0NHZWcnpFenAtLXlmRXIyVC1YYlVySHE3UC1QWnN6cElnQXpEN1VoYjB1U0g0Y19R?oc=5"
         }
       ]
     }
