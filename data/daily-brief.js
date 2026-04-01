@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年3月31日",
+  "publishDate": "2026年4月1日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "王青：3月制造业PMI大幅反弹1.4个百分点 供需两端明显改善｜首席读数据 -…",
+      "title": "中广核新能源午后涨逾8% 全年股东应占溢利同比增11.2% - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "World's smallest QR code, smaller than…",
+      "title": "DNA robots could deliver drugs and hunt…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "13:27",
-          "title": "王青：3月制造业PMI大幅反弹1.4个百分点 供需两端明显改善｜首席读数据 - 搜狐网",
-          "summary": "王青：3月制造业PMI大幅反弹1.4个百分点 供需两端明显改善｜首席读数据 搜狐网",
+          "time": "13:42",
+          "title": "中广核新能源午后涨逾8% 全年股东应占溢利同比增11.2% - 新浪财经",
+          "summary": "中广核新能源午后涨逾8% 全年股东应占溢利同比增11.2% 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdUV4QTREdFhCdVpBb3oxQmdERHFuX0lNZUZQX2JEZWJ5M3pjOW1fVzRoZVVmcmtmT2N0Z1JMaFFOaHZIcE9HNTAwblBsdms3ZG1ha1FjaDFqenhEcGZyMHBMM0tZaHNDRXBucGlaX1ppLUFsazgwbEx6dExWbkZhT0l2QUpMLTkx?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWxIYk41OHBaLTBHYzRldktIT2RwekVpVzRqUi0wb0VtU1hjcGc1clpHc1gzNVRRRUtXN0FLdG8zUndjNFR3REF1M2dwWjdWTnBDUWE3ZzlGbUNCMVNtVEU5dlp3SFlTTWtyUXg2R2ExblNwY19rYkJqNnlIbnhxb25yM2tyVFlNYm9WWG9WVVdvb0NSYklKTTNPU2pTTENnSVlCUncwNUhxYVdMSVE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "13:24",
-          "title": "全国新能源汽车动力电池溯源信息平台正式启动 - video.sina.com.cn",
-          "summary": "全国新能源汽车动力电池溯源信息平台正式启动 video.sina.com.cn",
+          "time": "13:37",
+          "title": "固态电池技术落地两轮车场景 太蓝新能源与雅迪联合发布高端电摩 - 华龙网",
+          "summary": "固态电池技术落地两轮车场景 太蓝新能源与雅迪联合发布高端电摩 华龙网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdGhPS3ZVY3Z6bzhHNmh0NldmdjBTX2hZSXFDUlh6WVVMSUNBR00tWVM4Q0JiOG02SlFLTmxUTEg2Ni1FVWNWektXZHVvamhJY3pON2tuRzZYY2dwVXFicXVGM2IyZ05VcjZFR0EyU1Aydm4zaVFOdTBOS0tsclBLNDd3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85NGc5Q1g5RVFmRkdMdlhNbkVHdjg4ODRLWUNvV1ZBajhSUlB6NmgwZkRkVENlVUdKS2E2WFQyalZPaTg4QnJqWGNtTHFQY2lVcHluQ1p5QnVIZC1pZERuWEdfSlVQM21BSGdR?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "全国新能源汽车动力电池溯源信息平台正式启动 - 新浪网",
+          "text": "中广核新能源午后涨逾8% 全年股东应占溢利同比增11.2% - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5kRlFIU2JJQjM4RTloZGZmM3pvQVY4VC00aW9ZRkRJVmItZTJ3YzhmRUlEaWEtMmpreEo3S1hSNEdrRWw1ODk4Szc2WQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODhWSlBDM2ZFYmlwWkR5cEN0MGk2RHZTUjY5UnYzLVlLU1dsdWhsSS15TjY3OUROWmhOWnMwMnFMV2ZLZFdGWXhuTGRINTJMbGwtdVRlVGUybEQtTkNMYm5GelRvclRqbUhzTGZjTEZjMzZucGFQMjBWMXBTQkRkUEdMV05zdG9JY2pJcFN4V21mNWhESjQxeXhYRGp1OGdfYmxraGttZVRVb1VaNEE2aWYzYmM1cjRkQllpRDVLdHczODJQdC1WN1VaVTVKZW9od2tHRUZJMjVrZ1JrUmUtbkUtZVM4QVoyWDc0Q1Jn?oc=5"
         },
         {
-          "text": "【视频】合资新能源MPV天花板：别克至境世家到店实拍 - 汽车之家",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vQ0g1Q2VfaFFFSEZMV0NYUHpLWTg4eFcwUVVON01RWk8xa0R6aU1SdnJfdHdVLWhXb05qdno5aUlPc0U0cW1DNlRUZXFBazl0RXVGM29qdTZsN2c?oc=5"
+          "text": "引进数字经济人才超2.3万人 重庆构建青年就业创业“强磁场” - 华龙网",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YdkRUTnhwSUJHSGQ0Sk9qNUxGSzllMVdweW80S3l2OUp5dV9OcDItdF9HMjc4T3pkTWtrMjhrYndtRnF3ZVFBSWZhUjc4UmNDbjQzcTc0NmxqVDB4RFB2M0hUMWo3ZmpfMno0?oc=5"
         },
         {
-          "text": "3月中国非制造业商务活动指数升至扩张区间 - chinanews.com.cn",
+          "text": "奇瑞捷豹路虎在华停产燃油车，已投入30亿元用于新能源产线建设 - nbd.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZzhpMGppWVNOcS0tS2FIR0pLbW1UdWMtb3hXWWRPa3VhaXRxaklaX0NzQVQxdldXbXdSMWxhSnA4dzc5NkxqMmxmWkhRM2xtM1ppX3A0bGotb3VDNDJSRnN4N09SNVZL?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vUm94dmZFd1FWSmlJMFE2eWEzSWRYN1c2dE9wX1VDSGhVZ1U3SDdocm5GQmJmSEtpSlhIUTZ5d0dnRWtRbkR1RHF5eWRmb2otb3JPQUR3QUV6dTB3RmFVZ1VDNGhwUQ?oc=5"
         },
         {
-          "text": "新能源赛道震荡调整，资金连续8个交易日加码储能电池ETF易方达(159566) - 搜狐网",
+          "text": "4月起实施！新能源汽车新规来了 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VWUJvUFc1MldfdEpPTE5EUUIxMWRtdk5uQmN3dkdoWG5yNmotMm1UQk52a2xnRnZOLWNJVHEyTm9DUEExY3U3X2lPVVo1b1JvLXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UYU9uUkdCS1ZtUWxkQm1HNGY4QUJqTTRsdkRJbDhnMkFJQm1XaWhURThBcVo5d0FlY3VBWWsxQzdUYnktS251RW94Y1doUHhMOWtyS2p0NjZsNnZmaDFFZU1JX3JvTV9FT3hJazZaMjNtYjZ2WWc?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "13:07",
-          "title": "World's smallest QR code, smaller than bacteria, could store data for centuries",
-          "summary": "Scientists have created a microscopic QR code so tiny it can only be seen with an electron microscope—smaller…",
+          "time": "19:16",
+          "title": "DNA robots could deliver drugs and hunt viruses inside your body",
+          "summary": "DNA robots are emerging as tiny programmable machines that could one day deliver drugs, hunt viruses, and bui…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "15:22",
+          "title": "These “smart” crystals bend and snap back when hit with light",
+          "summary": "Perovskite crystals can dramatically and reversibly change shape when hit with light, a behavior not seen in…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260331001056.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "World's smallest QR code, smaller than bacteria, could store data for centuries",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/03/260328043603.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "12:58",
-          "title": "Scientists just found a way to store massive data using light in 3 dimensions",
-          "summary": "A new holographic storage technique uses light in three dimensions to dramatically increase how much data can…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Scientists just found a way to store massive data using light in 3 dimensions",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/03/260328212132.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Scientists discover bizarre new states inside tiny magnetic whirlpools",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Scientists create clear nail polish that lets you use touchscreens with long na…",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/03/260326064200.htm"
-        },
-        {
-          "text": "Deepfake X-rays are so real even doctors can’t tell the difference",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260326011452.htm"
-        },
-        {
-          "text": "This tiny implant, smaller than a grain of salt, can read your brain",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:00",
-          "title": "There are more AI health tools than ever—but how well do they work?",
-          "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be…",
+          "time": "22:12",
+          "title": "Shifting to AI model customization is an architectural imperative",
+          "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and c…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
+          "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:42",
-          "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "time": "21:00",
+          "title": "Accelerating the next phase of AI",
+          "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute,…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/accelerating-the-next-phase-ai"
         }
       ],
       "briefs": [
         {
+          "text": "AI benchmarks are broken. Here’s what we need instead.",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
+        },
+        {
+          "text": "There are more AI health tools than ever—but how well do they work?",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
+        },
+        {
+          "text": "The Pentagon’s culture war tactic against Anthropic has backfired",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
+        },
+        {
           "text": "Helping disaster response teams turn AI into action across Asia",
           "source": "OpenAI",
           "url": "https://openai.com/index/helping-disaster-response-teams-asia"
-        },
-        {
-          "text": "STADLER reshapes knowledge work at a 230-year-old company",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/stadler"
-        },
-        {
-          "text": "This startup wants to change how mathematicians do math",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
-        },
-        {
-          "text": "Agentic commerce runs on truth and context",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:26",
-          "title": "Simulations of Silicon Spin Qubits Based on a GAAFET (Teikyo U., Riken)",
-          "summary": "A new technical paper, “Device/circuit simulations of silicon spin qubits based on a gate-all-around transist…",
+          "time": "03:12",
+          "title": "Causal Inference for AMS Design (U. of Florida)",
+          "summary": "A new technical paper, “Causal AI For AMS Circuit Design: Interpretable Parameter Effects Analysis,” was publ…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/using-gate-all-around-transistors-instead-of-charge-sensors-to-simplify-qubit-readout-architecture/"
+          "url": "https://semiengineering.com/causal-inference-for-ams-design-u-of-florida/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Challenges In Scaling Chips To 2nm And Below",
-          "summary": "Scaling logic continues to deliver better performance per watt, but it's becoming harder, more expensive, and…",
+          "time": "01:28",
+          "title": "Status of WBG Wide Bandgap Device Reliability in Automotive (U. Bremen et al.)",
+          "summary": "A new technical paper, “Reliability of Wide Bandgap Semiconductors for Automotive Applications,” was publishe…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/challenges-in-scaling-chips-to-2nm-and-below/"
+          "url": "https://semiengineering.com/status-of-wbg-wide-bandgap-device-reliability-in-automotive-u-bremen-et-al/"
         }
       ],
       "briefs": [
         {
-          "text": "All Software Is Hardware-Dependent",
+          "text": "An Exploration of Agent Scaling for HLS Design Space Exploration (IBM)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/all-software-is-hardware-dependent/"
+          "url": "https://semiengineering.com/an-exploration-of-agent-scaling-for-hls-design-space-exploration-ibm/"
         },
         {
-          "text": "Integrating Error Propagation Theory Into the FMEDA Framework (Robert Bosch Gmb…",
+          "text": "Why Co-Packaged Optics Should be Viewed as an Architectural Commitment (UW-Madi…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/integrating-error-propagation-theory-into-the-fmeda-framework-robert-bosch-gmbh/"
+          "url": "https://semiengineering.com/why-co-packaged-optics-should-be-viewed-as-an-architectural-commitment-uw-madison-mit-et-al/"
         },
         {
-          "text": "In-Depth Analysis of 187 Publications on Hardware Reverse Engineering (Ruhr U.,…",
+          "text": "CP-Based Lot Scheduling Solutions For a Semiconductor Manufacturing (Infineon,…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/in-depth-analysis-of-187-publications-on-hardware-reverse-engineering-ruhr-u-mpi/"
+          "url": "https://semiengineering.com/cp-based-lot-scheduling-solutions-for-a-semiconductor-manufacturing-infineon-u-of-klagenfurt/"
         },
         {
-          "text": "Systematic Analysis of CPU-Induced Slowdowns in Multi-GPU LLM Inference (Georgi…",
+          "text": "Research Bits: Mar. 31",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/systematic-analysis-of-cpu-induced-slowdowns-in-multi-gpu-llm-inference-georgia-tech/"
+          "url": "https://semiengineering.com/research-bits-mar-31/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:24",
-          "title": "中科鸿蒙企业管理公司成立，鸿蒙生态建设再添新力？ - 搜狐网",
-          "summary": "中科鸿蒙企业管理公司成立，鸿蒙生态建设再添新力？ 搜狐网",
+          "time": "11:07",
+          "title": "南昌企业管理咨询公司，破解落地难效能低痛点 - 手机网易网",
+          "summary": "南昌企业管理咨询公司，破解落地难效能低痛点 手机网易网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHlIUDJ4TE5jX0MwendJdHJDOEhLWUFFQXZxQzY5WFhiQmFnUG5Wc0xRdVBzVWJCRHVmTnVmNXhBdUJZVnNjZDBNTUhWNGJHcVczc2phek1Oa1Fqd1lNaHFHdjZ6OW94TmVoRkREYUMyNzBPaE9DZy1hTk9GWmdyMVEtd051X3c4cldqdg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wNVFENy1HdnVtamNtYUEyeko5ZVJoc2k0UlNhYWZIVjVhQXR0ZUxva1k2a1NRdENfTmlPQVF2a0ZqNk5MUGdqdm5RMnZJWEpzdHZmVTZMZUpVT3haN1lvbDNB?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:21",
-          "title": "电力企业管理杰出贡献案例在京发布！这些案例入选—— - banyuetan.org",
-          "summary": "电力企业管理杰出贡献案例在京发布！这些案例入选—— banyuetan.org",
+          "time": "09:54",
+          "title": "电力企业管理杰出贡献案例发布会在京举行 - 搜狐网",
+          "summary": "电力企业管理杰出贡献案例发布会在京举行 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUHVqMEw5Wmp5LWw5cVJ1eHEzU0lCU2JVMzRaTnZkUnNld3AzWmxwR0VUZUtlcVMxZTFucF9DdEpPdFg4ZVNnSTYxWU1tYUVISDhXRWdQUHlhSlkydjNVWEItUXFvUVFXM3FyUlItb0pDRi1XTTE3QWlRZU1oRTFwS1M4QlA2ZGdMUmtNUUtwOTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDZQRUVMMnZpNVBlU3NDcUZHZUNCcXYzdUI5QnBqMmZlQXloN2NSYXU1am43ck1McE9Ob1p0VzhjLV8wbVpxaUg3SkpGOVFIWkxMcFZVbDdxRkNlNjNrMEtZcTQ5UVJCSmt4QWtUQV9tT2NLX013UFYtUVlScWNFTkZZbFd1QlU3?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "13年前左晖让他上一线，而今他让公司管理者上一线，贝壳董事长想干啥从“万房万客”到“一房一客” - 中华网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSODBtQjkySW9jRzdNNzZ2Z1BQM1ViT2lLRkVfaXZ5WDhubEdhMjlYSFJhazVmeGd3QWlmYks1SVY1eE44LU45b2x1dlluZ2ZXcXpvNDBzVmVXZ1puWVJSMFFKNHdjcjFDaDR5X0hJXzc?oc=5"
-        },
-        {
-          "text": "量子策略公司策略师大......_7x24快讯_新浪财经 - 新浪网",
+          "text": "中金公司：战略深耕强根基，多元协同启新程 - 新浪财经",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFRU1UXzdOWWZLd1B5REZTSjlUYy1iZUNjenRyVTg4YmNXa2pLX0NYMEJDNjJ0bXVnOFc2bEs3MzdUT0lfS1Buc0ZyNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JelBvc3FvVVRHd1ZXU1hLWnh0LUlMQmpVVlE2QzI4ZWd6dDBXaXpKbVcxT2xsdFBKYXMwa3RiSjFWcVk4TVg0b3hhemVIeEtpeUxsYVMyYmpELW5XVDduQURYZU1DVXM1cUt5M0RBYUNZZkVEZktncDQ3NndDYzA?oc=5"
         },
         {
-          "text": "TCL科技：拟以2.58亿元受让衢州智道企业管理合伙企业等50名股东持有的一道新能源8.06%股份 - 证券之星",
+          "text": "中国新城市（01321.HK）新增一起对外投资，被投资公司为恒利企业管理（杭州）有限公司_公司新闻 - 证券之星",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DLV9Jb0xhXzNnbDFWbXlxZVk5MU1iaHNRQkNQanJoRk9EY2pLeC0wcWpkem1BOFlOT3pqcHd6TVVCU3FiU3JLbzVvSS1RcEVZZVA5NmtCNEh0dTczcm03cG5R?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rQjRPaEw2Y1BYU1QzclBsaWpiWnV1aDNMX0ROaWpnRjVRdnVpTnk0YUwxdVkybGc5d3hBQ01OeUg5TWItWHNXWElyeFZXUzVzdElhWjh1d1YzaVQtQ0VpbjlkMU4?oc=5"
         },
         {
-          "text": "奔朗新材(920807):股东拟减持股份的预披露公告 - 中财网",
+          "text": "豪森智能：公司管理层高度重视经营质量 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yZjlxS3FBOC1rYjFTb05DMnJlOUF1QTB4d0luRGR0NHZWcnpFenAtLXlmRXIyVC1YYlVySHE3UC1QWnN6cElnQXpEN1VoYjB1U0g0Y19R?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrSG5JSHlSMkd5NzRjcmJnZ0F5VEhUN0dseDN0aXJjR09TdGFQVDVDaVJjU0R5OXduRmhuV3pQNE04anE0MTZReHlSY3NEcTR5THplVDc5UE5EejBFS3JvMFV0eUw?oc=5"
+        },
+        {
+          "text": "涛涛车业：公司管理层对2026年实现经营稳健、中高速增长的目标充满信心 - cj.sina.cn",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3UTUzQzM1cnlVSFdLTS1ma0gya1c3ZTFPbDB0ZzJxb3dDc1paMmhHSld4UnpkZDl4Y2lWQ0VsVkVsOTNSS21fWHlYeHNnT0wxT0t5a0JxZkMwQzh4cVN0NFhTQmx5Z0E2ZDJZOW5B?oc=5"
         }
       ]
     }
