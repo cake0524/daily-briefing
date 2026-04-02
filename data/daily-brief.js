@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年4月1日",
+  "publishDate": "2026年4月2日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "中广核新能源午后涨逾8% 全年股东应占溢利同比增11.2% - 新浪财经",
+      "title": "3月新能源销量：蔚来大反弹，理想纯电已成，小米进入调整期_车市动态 - 中金在线",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "DNA robots could deliver drugs and hunt…",
+      "title": "A 200-year-old light trick just transfo…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Airstrike on funeral underscores rising…",
+      "title": "World News in Brief: Lebanon peacekeepe…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "13:42",
-          "title": "中广核新能源午后涨逾8% 全年股东应占溢利同比增11.2% - 新浪财经",
-          "summary": "中广核新能源午后涨逾8% 全年股东应占溢利同比增11.2% 新浪财经",
+          "time": "07:59",
+          "title": "3月新能源销量：蔚来大反弹，理想纯电已成，小米进入调整期_车市动态 - 中金在线",
+          "summary": "3月新能源销量：蔚来大反弹，理想纯电已成，小米进入调整期_车市动态 中金在线",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdWxIYk41OHBaLTBHYzRldktIT2RwekVpVzRqUi0wb0VtU1hjcGc1clpHc1gzNVRRRUtXN0FLdG8zUndjNFR3REF1M2dwWjdWTnBDUWE3ZzlGbUNCMVNtVEU5dlp3SFlTTWtyUXg2R2ExblNwY19rYkJqNnlIbnhxb25yM2tyVFlNYm9WWG9WVVdvb0NSYklKTTNPU2pTTENnSVlCUncwNUhxYVdMSVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53S1dNQW5IckpRZFpGbG5KakdkSjJ6eTNmS1YydUNjNVBySDhMWkMzS2ZjMWJUWkRuSkhoQ3U1T1VwY1dpaWx0bGtqOUZIZ2c3LXp2NnNkaGpYbmVfM3dDQjQwcVVhNFJPM05B?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "13:37",
-          "title": "固态电池技术落地两轮车场景 太蓝新能源与雅迪联合发布高端电摩 - 华龙网",
-          "summary": "固态电池技术落地两轮车场景 太蓝新能源与雅迪联合发布高端电摩 华龙网",
+          "time": "07:34",
+          "title": "新能源汽车3月交付情况速览：11家交付量超2万，3家同比增超50% - Sohu",
+          "summary": "新能源汽车3月交付情况速览：11家交付量超2万，3家同比增超50% Sohu",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85NGc5Q1g5RVFmRkdMdlhNbkVHdjg4ODRLWUNvV1ZBajhSUlB6NmgwZkRkVENlVUdKS2E2WFQyalZPaTg4QnJqWGNtTHFQY2lVcHluQ1p5QnVIZC1pZERuWEdfSlVQM21BSGdR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTl9rcUItRHBPQXcwekI1alQwYTg3cFdfalFzZkc2dTBsekhmV0lZUUN4eDFudFVnRlRCaVEydDk1YS1sNExtZlhMelVQNWxEMTk2REd2REdjV1p1LWlxLUJ1SlYtV1cxMExSVHpVQkxaMzVOdVB3b3NjM3JWMFZ5M1BvTWtWNUN2eWI4Xw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "中广核新能源午后涨逾8% 全年股东应占溢利同比增11.2% - 新浪财经",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOODhWSlBDM2ZFYmlwWkR5cEN0MGk2RHZTUjY5UnYzLVlLU1dsdWhsSS15TjY3OUROWmhOWnMwMnFMV2ZLZFdGWXhuTGRINTJMbGwtdVRlVGUybEQtTkNMYm5GelRvclRqbUhzTGZjTEZjMzZucGFQMjBWMXBTQkRkUEdMV05zdG9JY2pJcFN4V21mNWhESjQxeXhYRGp1OGdfYmxraGttZVRVb1VaNEE2aWYzYmM1cjRkQllpRDVLdHczODJQdC1WN1VaVTVKZW9od2tHRUZJMjVrZ1JrUmUtbkUtZVM4QVoyWDc0Q1Jn?oc=5"
-        },
-        {
-          "text": "引进数字经济人才超2.3万人 重庆构建青年就业创业“强磁场” - 华龙网",
+          "text": "人工智能、数字经济……春招现场新兴岗位扎堆 - 中国经济网",
           "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YdkRUTnhwSUJHSGQ0Sk9qNUxGSzllMVdweW80S3l2OUp5dV9OcDItdF9HMjc4T3pkTWtrMjhrYndtRnF3ZVFBSWZhUjc4UmNDbjQzcTc0NmxqVDB4RFB2M0hUMWo3ZmpfMno0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XS1VzakV2NWxXbW9VQ2RXR3ZmS3RLbXdIMmpBYkVkNE5Ib3Rnb3NTVUhZbEJnMk5uTXpNNFpIcUQtTXVGbG9FOGFnMVllc1FqQWFwRERwaEF3UVF2eGtlazdPR0VWdkFTNlU4eTVpTQ?oc=5"
         },
         {
-          "text": "奇瑞捷豹路虎在华停产燃油车，已投入30亿元用于新能源产线建设 - nbd.com.cn",
+          "text": "上市险企加码布局 新能源车险“近忧”缓解 - finance.sina.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vUm94dmZFd1FWSmlJMFE2eWEzSWRYN1c2dE9wX1VDSGhVZ1U3SDdocm5GQmJmSEtpSlhIUTZ5d0dnRWtRbkR1RHF5eWRmb2otb3JPQUR3QUV6dTB3RmFVZ1VDNGhwUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZGdqdXhSMDZaekpteUo1aWpBek9xNmtuSi1fVFQySENmNldoN2V5bDFIZXFMc2psVU9manVKSmx2NURaZzdEZWdBdjQwNmR1UUNpV0k5ZEZzbEQ0LTNvRHd6ZXYwdzctLXdzMEh3UDdGZ2VqZ01xTEFhM0w0bVJTRWhQR3BsalJsSmdrWFhrZlktYVJp?oc=5"
         },
         {
-          "text": "4月起实施！新能源汽车新规来了 - 新浪财经",
+          "text": "家电巨头集体冲向新能源车 - 36kr.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UYU9uUkdCS1ZtUWxkQm1HNGY4QUJqTTRsdkRJbDhnMkFJQm1XaWhURThBcVo5d0FlY3VBWWsxQzdUYnktS251RW94Y1doUHhMOWtyS2p0NjZsNnZmaDFFZU1JX3JvTV9FT3hJazZaMjNtYjZ2WWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxd2RuLXJSV2pnX1VLY1RqOWtLY2R4dVI3R0FRRFowYzhIRTBhLUhvcjJSSXlLS1NXVExBLVhhaGpQVG1Nd3ZkTEJYU2JuQQ?oc=5"
+        },
+        {
+          "text": "【视频】26.98万起腾势Z9GT重新定义新能源豪华GT - 汽车之家",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YTzFPZ1BQMUphdlI0bERhM1Y5ZUF5cjlrY0hsV0pjbWZ0QU54Wi1wT05xTnVMZV96eENaNjJWY3RsZzk3VTJxWVZBQW9OazQ1bXBJTmtfdVN0XzFx?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "20:37",
+          "title": "A 200-year-old light trick just transformed quantum encryption",
+          "summary": "Scientists have unveiled a new approach to ultra-secure communication that could make quantum encryption simp…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260401071933.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "19:16",
           "title": "DNA robots could deliver drugs and hunt viruses inside your body",
           "summary": "DNA robots are emerging as tiny programmable machines that could one day deliver drugs, hunt viruses, and bui…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:22",
-          "title": "These “smart” crystals bend and snap back when hit with light",
-          "summary": "Perovskite crystals can dramatically and reversibly change shape when hit with light, a behavior not seen in…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260331001056.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "These “smart” crystals bend and snap back when hit with light",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/03/260331001056.htm"
+        },
         {
           "text": "World's smallest QR code, smaller than bacteria, could store data for centuries",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Scientists discover bizarre new states inside tiny magnetic whirlpools",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/03/260326075614.htm"
-        },
-        {
-          "text": "Scientists create clear nail polish that lets you use touchscreens with long na…",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260326064200.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Airstrike on funeral underscores rising civilian toll in Sudan",
-          "summary": "Fears are mounting for civilians caught up in Sudan’s deadly war between rival militaries as attacks intensif…",
+          "title": "World News in Brief: Lebanon peacekeeper deaths, Haiti mission support, drought and conflict in Somalia",
+          "summary": "Although the situation on the ground is challenging, investigations are underway into the killing of three UN…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167223"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167239"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "The image from Gaza that still haunts me: Palestine relief agency chief",
-          "summary": "Asking the softly spoken, veteran humanitarian worker Philippe Lazzarini how he feels as he comes to the end…",
+          "title": "Breaking the Gaza aid bottleneck: 106-tonne delivery arrives via new sea route",
+          "summary": "The World Health Organization (WHO) has facilitated the delivery of some 106 metric tonnes of lifesaving nutr…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167220"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167235"
         }
       ],
       "briefs": [
         {
-          "text": "UN condemns killing of two more peacekeepers in Lebanon",
+          "text": "Middle East war: UN’s Türk decries ‘severe restrictions’ on free speech",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167222"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167234"
         },
         {
-          "text": "World News in Brief: Ukraine drone attacks, Afghan rights, Zero-Waste Day",
+          "text": "Middle East war: Energy crunch hits vulnerable nations",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167221"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167233"
         },
         {
-          "text": "Developing countries are being priced out, in struggle for affordable finance",
+          "text": "UN General Assembly adopts landmark resolution to strengthen the work of the UN…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167219"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167232"
         },
         {
-          "text": "Sea mines clearance: A new dimension of difficulty",
+          "text": "Lebanon at ‘breaking point’ as displacement soars and strikes intensify",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167216"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167231"
         }
       ]
     },
@@ -170,24 +170,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:12",
-          "title": "Shifting to AI model customization is an architectural imperative",
-          "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and c…",
+          "time": "19:00",
+          "title": "The gig workers who are training humanoid robots at home",
+          "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment fro…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "10:00",
+          "title": "Gradient Labs gives every bank customer an AI account manager",
+          "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflo…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gradient-labs"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Shifting to AI model customization is an architectural imperative",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
         },
         {
-          "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "Accelerating the next phase of AI",
-          "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute,…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "Accelerating the next phase of AI",
           "source": "OpenAI",
           "url": "https://openai.com/index/accelerating-the-next-phase-ai"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "AI benchmarks are broken. Here’s what we need instead.",
           "source": "MIT Technology Review AI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "There are more AI health tools than ever—but how well do they work?",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/"
-        },
-        {
-          "text": "The Pentagon’s culture war tactic against Anthropic has backfired",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
-        },
-        {
-          "text": "Helping disaster response teams turn AI into action across Asia",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/helping-disaster-response-teams-asia"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:12",
-          "title": "Causal Inference for AMS Design (U. of Florida)",
-          "summary": "A new technical paper, “Causal AI For AMS Circuit Design: Interpretable Parameter Effects Analysis,” was publ…",
+          "time": "15:05",
+          "title": "Secure at First Silicon: Reducing Cost and Risk",
+          "summary": "How integrating pre-silicon side-channel analysis into your standard verification process can reduce respins,…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/causal-inference-for-ams-design-u-of-florida/"
+          "url": "https://semiengineering.com/secure-at-first-silicon-reducing-cost-and-risk/"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:28",
-          "title": "Status of WBG Wide Bandgap Device Reliability in Automotive (U. Bremen et al.)",
-          "summary": "A new technical paper, “Reliability of Wide Bandgap Semiconductors for Automotive Applications,” was publishe…",
+          "time": "15:05",
+          "title": "Enabling Physical AI and Robotics: Platform for the Intelligent Edge",
+          "summary": "How physical AI systems combine sensors, edge processing, and connectivity to enable real-time, intelligent d…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/status-of-wbg-wide-bandgap-device-reliability-in-automotive-u-bremen-et-al/"
+          "url": "https://semiengineering.com/enabling-physical-ai-and-robotics-platform-for-the-intelligent-edge/"
         }
       ],
       "briefs": [
         {
-          "text": "An Exploration of Agent Scaling for HLS Design Space Exploration (IBM)",
+          "text": "Ensuring Trustworthiness of AI-Enhanced Embedded Systems",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/an-exploration-of-agent-scaling-for-hls-design-space-exploration-ibm/"
+          "url": "https://semiengineering.com/ensuring-trustworthiness-of-ai-enhanced-embedded-systems/"
         },
         {
-          "text": "Why Co-Packaged Optics Should be Viewed as an Architectural Commitment (UW-Madi…",
+          "text": "Accelerating Automotive Innovation: SRAM Compiler Breakthroughs for 5nm and 3nm…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/why-co-packaged-optics-should-be-viewed-as-an-architectural-commitment-uw-madison-mit-et-al/"
+          "url": "https://semiengineering.com/accelerating-automotive-innovation-sram-compiler-breakthroughs-for-5nm-and-3nm-socs/"
         },
         {
-          "text": "CP-Based Lot Scheduling Solutions For a Semiconductor Manufacturing (Infineon,…",
+          "text": "Hardware Deployment for Secure AI Using Confidential Computing",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/cp-based-lot-scheduling-solutions-for-a-semiconductor-manufacturing-infineon-u-of-klagenfurt/"
+          "url": "https://semiengineering.com/hardware-deployment-for-secure-ai-using-confidential-computing/"
         },
         {
-          "text": "Research Bits: Mar. 31",
+          "text": "Radar SLAM Application on Vision DSPs based on Novel IO-ICP",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-mar-31/"
+          "url": "https://semiengineering.com/radar-slam-application-on-vision-dsps-based-on-novel-io-icp/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Airstrike on funeral underscores rising civilian toll in Sudan",
-          "summary": "Fears are mounting for civilians caught up in Sudan’s deadly war between rival militaries as attacks intensif…",
+          "title": "World News in Brief: Lebanon peacekeeper deaths, Haiti mission support, drought and conflict in Somalia",
+          "summary": "Although the situation on the ground is challenging, investigations are underway into the killing of three UN…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167223"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167239"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "The image from Gaza that still haunts me: Palestine relief agency chief",
-          "summary": "Asking the softly spoken, veteran humanitarian worker Philippe Lazzarini how he feels as he comes to the end…",
+          "title": "Breaking the Gaza aid bottleneck: 106-tonne delivery arrives via new sea route",
+          "summary": "The World Health Organization (WHO) has facilitated the delivery of some 106 metric tonnes of lifesaving nutr…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167220"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167235"
         }
       ],
       "briefs": [
         {
-          "text": "UN condemns killing of two more peacekeepers in Lebanon",
+          "text": "Middle East war: UN’s Türk decries ‘severe restrictions’ on free speech",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167222"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167234"
         },
         {
-          "text": "World News in Brief: Ukraine drone attacks, Afghan rights, Zero-Waste Day",
+          "text": "Middle East war: Energy crunch hits vulnerable nations",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167221"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167233"
         },
         {
-          "text": "Developing countries are being priced out, in struggle for affordable finance",
+          "text": "UN General Assembly adopts landmark resolution to strengthen the work of the UN…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167219"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167232"
         },
         {
-          "text": "Sea mines clearance: A new dimension of difficulty",
+          "text": "Lebanon at ‘breaking point’ as displacement soars and strikes intensify",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/03/1167216"
+          "url": "https://news.un.org/feed/view/en/story/2026/03/1167231"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "11:07",
-          "title": "南昌企业管理咨询公司，破解落地难效能低痛点 - 手机网易网",
-          "summary": "南昌企业管理咨询公司，破解落地难效能低痛点 手机网易网",
+          "time": "23:42",
+          "title": "海汽集团：公司管理层将努力做好各项经营管理工作，提升公司核心竞争力和盈利能力 - 东方财富",
+          "summary": "海汽集团：公司管理层将努力做好各项经营管理工作，提升公司核心竞争力和盈利能力 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wNVFENy1HdnVtamNtYUEyeko5ZVJoc2k0UlNhYWZIVjVhQXR0ZUxva1k2a1NRdENfTmlPQVF2a0ZqNk5MUGdqdm5RMnZJWEpzdHZmVTZMZUpVT3haN1lvbDNB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MeW1ZUm5keTBWb20td2tqeE9KWlF3S2xlY014V0xKb2p2MDBTam1rZFZieHVNWUd1eWk3emhtaEk3dGJLR2U2aUpEUFlsdWdUeG5hT3BEbkdwRmJPcmRJaA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:54",
-          "title": "电力企业管理杰出贡献案例发布会在京举行 - 搜狐网",
-          "summary": "电力企业管理杰出贡献案例发布会在京举行 搜狐网",
+          "time": "22:17",
+          "title": "“养龙虾”热的经济学思考：智能体改写企业管理底层逻辑 - Sohu",
+          "summary": "“养龙虾”热的经济学思考：智能体改写企业管理底层逻辑 Sohu",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDZQRUVMMnZpNVBlU3NDcUZHZUNCcXYzdUI5QnBqMmZlQXloN2NSYXU1am43ck1McE9Ob1p0VzhjLV8wbVpxaUg3SkpGOVFIWkxMcFZVbDdxRkNlNjNrMEtZcTQ5UVJCSmt4QWtUQV9tT2NLX013UFYtUVlScWNFTkZZbFd1QlU3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMnh2bnVEYl90Qy1ycUw3UFk2VjJIcUlyZVdOdkgtQmcwN0NPYlE3OXpWMWZUMTBvcmFxc21ybDZ4TzJ5VmY3cm02MUY2QTNiWUhJeWEzUGMwemJmT3I5U09GaFNiQ240S1ZwSGVzNXFUMDdfLTJtcTFJWVFIMndGYWJha3l6ckQ0OHgzNA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "中金公司：战略深耕强根基，多元协同启新程 - 新浪财经",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JelBvc3FvVVRHd1ZXU1hLWnh0LUlMQmpVVlE2QzI4ZWd6dDBXaXpKbVcxT2xsdFBKYXMwa3RiSjFWcVk4TVg0b3hhemVIeEtpeUxsYVMyYmpELW5XVDduQURYZU1DVXM1cUt5M0RBYUNZZkVEZktncDQ3NndDYzA?oc=5"
+          "text": "威帝股份(603023):江苏智越天成企业管理有限公司（单体）审计报告（中汇会审[2026]1742号） - 中财网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02dzdBTmcwMXpCVC0tQm1LRDlseU5xS2dNZUZZMnV0X0pfQkZVYXpZTGh1YUNJaEtFVXp3c1d1NTV4MlZFalJLVzBXRUkzMUlESnFuUlFn?oc=5"
         },
         {
-          "text": "中国新城市（01321.HK）新增一起对外投资，被投资公司为恒利企业管理（杭州）有限公司_公司新闻 - 证券之星",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rQjRPaEw2Y1BYU1QzclBsaWpiWnV1aDNMX0ROaWpnRjVRdnVpTnk0YUwxdVkybGc5d3hBQ01OeUg5TWItWHNXWElyeFZXUzVzdElhWjh1d1YzaVQtQ0VpbjlkMU4?oc=5"
+          "text": "BEST BUSINESS STRATEGY SPEAKERS FOR CORPORATE EVENTS: FUTURIST KEYNOTE EXPERTS…",
+          "source": "Google News 全球商业",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51LTV6MHJIZG5Fc3lmS1JFMjF5MmNBa0tQNWc5RmZPRVVxb3UxbXNJNEZiamh3ak9NS3RVRXQ1Y1duUFFZLThMZzMtOERmVVlhN0tKXy1TZU00aDlkS3AxZmZWM1NxT2dDTXhfeWp6b0prM3BZM18wS0YzUTduSWM?oc=5"
         },
         {
-          "text": "豪森智能：公司管理层高度重视经营质量 - 东方财富",
+          "text": "龙泉股份(002671):控股子公司管理制度（2026年3月） - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrSG5JSHlSMkd5NzRjcmJnZ0F5VEhUN0dseDN0aXJjR09TdGFQVDVDaVJjU0R5OXduRmhuV3pQNE04anE0MTZReHlSY3NEcTR5THplVDc5UE5EejBFS3JvMFV0eUw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YUEN4Q1dHYmpvVFVRaEcyQUhNWkRTYVlNOHJpeGlTMW5wZ05KWlRBR1JMajRGZ3lUczlLYlowQ1R6MzJlTDViOE96X0pKaFRxSXFEMHJn?oc=5"
         },
         {
-          "text": "涛涛车业：公司管理层对2026年实现经营稳健、中高速增长的目标充满信心 - cj.sina.cn",
+          "text": "绿城元老逐步淡出公司管理层 - Jiemian.com",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3UTUzQzM1cnlVSFdLTS1ma0gya1c3ZTFPbDB0ZzJxb3dDc1paMmhHSld4UnpkZDl4Y2lWQ0VsVkVsOTNSS21fWHlYeHNnT0wxT0t5a0JxZkMwQzh4cVN0NFhTQmx5Z0E2ZDJZOW5B?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BUl9OMlI5R29wOGVCVV9INFphVU1rUGprZGdRVWRtazRHS2ZRRlNPUUt6bjdRcXNXbk94VGNvUjlMMEcydk1zeGoyUEpXTGxDNERVUlNaOU8?oc=5"
         }
       ]
     }
