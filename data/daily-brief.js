@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年4月4日",
+  "publishDate": "2026年4月5日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "租“一汽奔腾”新能源车跑网约车，南昌司机连遭刹车失灵、充电故障后退车却遭拒，媒…",
+      "title": "2月份新能源轿车销量排行！有你喜欢的车型吗？ - chejiahao.auto…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:01",
-          "title": "租“一汽奔腾”新能源车跑网约车，南昌司机连遭刹车失灵、充电故障后退车却遭拒，媒体介入后，一汽智行公司让记者“闭嘴” - 搜狐网",
-          "summary": "租“一汽奔腾”新能源车跑网约车，南昌司机连遭刹车失灵、充电故障后退车却遭拒，媒体介入后，一汽智行公司让记者“闭嘴” 搜狐网",
+          "time": "05:11",
+          "title": "2月份新能源轿车销量排行！有你喜欢的车型吗？ - chejiahao.autohome.com.cn",
+          "summary": "2月份新能源轿车销量排行！有你喜欢的车型吗？ chejiahao.autohome.com.cn",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUllYN3RfU0tQVGp1N05Uc2huc2loN1NsTXU1bDJqNlZrNjNfSzZuelJma0o2UXNvcU1kekNLU0pmamdES2dYWXJVVGdqZjdGSkdmLWhXam1hVDM3S0U2YTcySVB4N2RUa1k1eXA5OGZCNzNvclRUbldFTE1NX2JWanoyMzB3LTJqczQ3Mg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RRFlucUhKWjRLc0FWS1RvdlM1RHpGWEVOaWlrb1NSV2gycmwwTHMyX0RKbUZiSURlOExrMFhzQVpMSjh0Ry1RQnFwV05KdDFMSmh5UU1pNW1yaEE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:01",
-          "title": "租“一汽奔腾”新能源车跑网约车，南昌司机连遭刹车失灵、充电故障后退车却遭拒，媒体介入后，一汽智行公司让记者“闭嘴” - 新浪财经",
-          "summary": "租“一汽奔腾”新能源车跑网约车，南昌司机连遭刹车失灵、充电故障后退车却遭拒，媒体介入后，一汽智行公司让记者“闭嘴” 新浪财经",
+          "time": "05:00",
+          "title": "健全数据要素基础制度推动数字经济持续健康发展 - 天津日报",
+          "summary": "健全数据要素基础制度推动数字经济持续健康发展 天津日报",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QN2dac2IyRUhZVkRhQktLc3Nsd1hwTV9kWWItNjk1aVZQV09YRjFhdTZCNjNuOXZjYW8yd3VYMWxnb0dyOWoxSkFZbURpWXNJdWswd3dZMTVNODRQYjRabUoxWTB2TTktbEVKRWZYOVc2N0dNWGc?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS3NwWXI4amhPOVB6ak9GejBDN3Q5bWhnaG9ZZUw2Y1JUc1hPLUEybl8xWFVqMTltNjlOcW9ZbjhiV3lfSW9nREVtUUNUa3VJMzY2NFpQTzg2VTNsU2FTellVYTdyR2NZRllCWHlxcnlPNGN0RlZRREo4QjFQQlFmSnpn?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "【视频】试驾马自达EZ-60，新能源时代依旧魂动依旧让人心动 - 汽车之家",
+          "text": "【视频】从地狱难度到强势回暖，3月新能源销量两极分化 - chejiahao.autohome.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10ZnVqZlhFM3FYeEFPY01KbW1OMmViR0tjb081OXo3YlljUnk0VWVTVGltb0E4bnFwU3ZOY3dSa2l2VlIxLTVmWVFBZ0wtbzdCZGNBajhUbXUwREk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42SHFSbjFPTWlJWGlhbWtRVy1qeU84cjlyU2MwcFNydjBPWnVWYnZuMWdLUzNCazlHdGNsTzZTYkE4Z2JReG1MaEw3RmFvanpDMTZreFRJNWVIUHc?oc=5"
         },
         {
-          "text": "【视频】新能源中型轿车“高分选手”！吉利银河星耀7性能和家用两不误？ - 汽车之家",
+          "text": "今日新闻丨北汽集团3月交付新能源车18221辆！江汽集团2025年营收464.76亿元！ - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tNHhxU2NnemRSVVBfMWxvbVJsY3d2eHE4cmNuYkt2aDI3eWUzdmZmQUpkYWRFdExkS21kN1l3Ym0zZVR0dFJBNHRfYklJVGJ6eTVXVlpVTC1YNVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94NFZqQ3pNSi1tbnQxbGV5aFRCcmJoOHNMTlBLZmdXTFFWM3NTeENJeVE4LWEyblVKcWpITmdBZHRGMTVQeG1acERDaFo2UEw1Tkpjck94alZiNzZMY3lJMUNoaHY4VUlpbEhLc0F0OEFZSUUxWVE?oc=5"
         },
         {
-          "text": "极氪 X 新能源保险一年需要多少钱 - 汽车之家",
+          "text": "沃尔沃XC60新能源现金优惠23.9万 - pcauto.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mU0UzR1VQTmR5QjE2azZQTFhKZGZ3V1E5Y0lPUkRENlpUa2F3N01oZXpxSEl3NWRQOTFxVnhBcG5DY3k3ajlESDRaUFVfbUxXWlZNR3Q5a0Q?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sbU5CQ3lDWGI1NUcwek9nNlNNY1NaY3NwTVlYZ1JoNkRPRFdEa21SMURDYXlqYThoSjl3cFZWQmtwUW9NeUtuMjczemtlZmdlcWZaS2lxaU9MemNJQmNOMXA5Q2pJVTQz?oc=5"
         },
         {
-          "text": "《2026新能源消费趋势洞察》：智能稳定和行业诚信成用户新诉求 - 新浪财经",
+          "text": "沃尔沃S90新能源现金优惠23.1万 - pcauto.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR21RMC1uaXdRQlNINWdhR0czSktwbV81WU9SOUl5dGU5R241aC0tVEdhQ1ZkajdYbVRfZTZORUNlM0cwZEJTUVFEUUd4WnVOWlJscUJLRXRzZXUyR2RFblp2MXhXcHZ1LXk3OWUyalNLdktfYnFtckoycW5qMGJtZC1rWDhUT2FHS3VNbzhjX2hHNXEwczk0cg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jZWJMdzVhdTVxUDNOdTY4TG5rNmxQOGJlcWZFZ28yZ0Z2TWRlVGhpOEpha1VfRy1LTGFxY2E2UUh2aWlqMmJva2Q3UFhnN3hibUFTUW92bjN5SGFRU21wWHZzakcxOVFI?oc=5"
         }
       ]
     },
@@ -229,7 +229,7 @@ window.dailyBrief = {
           "priority": "重点看点 02",
           "time": "15:01",
           "title": "Chip Industry Week In Review",
-          "summary": "Tighter restrictions on DUV litho; Arm-IBM dual-architecture deal; power device trio; Intel takes full contro…",
+          "summary": "Tighter restrictions on DUV litho; Arm-IBM dual-architecture deal; 62% growth in chip sales; power device tri…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/chip-industry-week-in-review-132/"
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:44",
-          "title": "圣阳股份：公司管理层高度重视市值表现 - 东方财富",
-          "summary": "圣阳股份：公司管理层高度重视市值表现 东方财富",
+          "time": "06:03",
+          "title": "宝泰隆：公司管理层充分认识，及时、真诚、高质量的信息回应是维护投资者关系的基础 - 东方财富",
+          "summary": "宝泰隆：公司管理层充分认识，及时、真诚、高质量的信息回应是维护投资者关系的基础 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nV2MwSlNDd25HUHhUVnc3UGFCOC11MmpGZklFZ0JFbWpDTlRpZVNuN0FvUFZhT00tMGJPY2dPODJ1eTVwbHNRNmphM2FZZEhydzBEeGIxdWQwS2NTbHk0cw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RMjlpekJQLVlycFdGcWtUUkM4VnF3TzctYV9IbGRNZUxGYW1TNFZ5SFp2MlIzX2pkdHZSNG9IWlE3Z2tQVnJadEpLbzlEZ043T0phbExzSk4yWlVkYk9PZQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:58",
-          "title": "锦江在线：公司管理层始终严格遵照上市公司规范运作要求及内部管理制度勤勉履职 - 东方财富",
-          "summary": "锦江在线：公司管理层始终严格遵照上市公司规范运作要求及内部管理制度勤勉履职 东方财富",
+          "time": "05:35",
+          "title": "珀莱雅：目前公司管理层人员背景涵盖金融、财务、供应链等领域 - 东方财富",
+          "summary": "珀莱雅：目前公司管理层人员背景涵盖金融、财务、供应链等领域 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BWWZleDVQY2s0dEs5WFVuYUZmUzUyQTFDd0Zlajd4dnBaeHFjeno5ZVc3WFVmb1FBN0lhOTIwS3NFbjY0T3dFbnRvUUd3YnRqQmdZZFhRZGxUdFctMUFXQw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sYVkxa084MkY2clRTbENYWVduS0dkSGFyM3dkcDFhOTJuQmN6cTRBWXNSRDRvSDJ4S2dJWDVyZko4MTFHcUJON2ZDY2tPWXBkT3UzM3RIeE4zdGN4NThuMw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "宝泰隆：公司管理层充分认识，及时、真诚、高质量的信息回应是维护投资者关系的基础 - 东方财富",
+          "text": "Medallion Financial因子公司管理层资质问题收到SBA违约通知 提供者 Investing.com - cn.investing.com",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TR1VUYXV5aE10UWlEQm5ZZ09yU3UtZzQ4T3JRSVpMTnh2UjEzRm50dEtVZExOTGc0azE3WXYtcW50MjVoQXloamhoZnF5RWlzZzdHaENoMk8xeDRWUTZnNUJNa1UzZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44bG1XVWhWcmVFLTNUR2FLQUpXYU9ad3FjZWs3V0NYU3d5RXp2R0d6V2dWei1TcmR0aUduVzQtcFhiU2pxMVJTb0FWX0JaZGpOdlhvaUQ5RUhVSTcyMS1vXzFtcndUbGJTVk9lVGNUcw?oc=5"
+        },
+        {
+          "text": "圣阳股份：公司管理层高度重视市值表现 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nV2MwSlNDd25HUHhUVnc3UGFCOC11MmpGZklFZ0JFbWpDTlRpZVNuN0FvUFZhT00tMGJPY2dPODJ1eTVwbHNRNmphM2FZZEhydzBEeGIxdWQwS2NTbHk0cw?oc=5"
+        },
+        {
+          "text": "锦江在线：公司管理层始终严格遵照上市公司规范运作要求及内部管理制度勤勉履职 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BWWZleDVQY2s0dEs5WFVuYUZmUzUyQTFDd0Zlajd4dnBaeHFjeno5ZVc3WFVmb1FBN0lhOTIwS3NFbjY0T3dFbnRvUUd3YnRqQmdZZFhRZGxUdFctMUFXQw?oc=5"
         },
         {
           "text": "奥普特：公司管理层根据既定的发展战略和股权激励计划，公司2026年度营业收入增长率不低于25% - 东方财富",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yZF90eUd2S09jbGRyUVZlNFFMY0JFbGkwQkMwYzktUWdWX3dGa2tCVzlsanB3dFVzOG43YjJIYVZHSnVnRmc5d3JMaFF6QVdBTE5KLXhCSHZMeU80cUlCcDNwaWhxUQ?oc=5"
-        },
-        {
-          "text": "东华软件：公司管理层始终高度重视公司价值与投资者回报工作 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HTUlONjl4RkVEZ0dHY0V6ZTdObVI1bWtjOGtTa3JKQ2lHQXRfXzVnSXpVWlh4QlZDVHBhaEdId2Nkdmt0QW5NYmJuOVlQSU5UQ0N4NjFQOS04YS1PMzFzcg?oc=5"
-        },
-        {
-          "text": "信维通信：公司管理层会结合订单能见度及新业务拓展情况，对现有产线进行持续的优化与升级 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Gc1BLSFAwZDdwTmxhUDJ5N0FZczRySmNNb0hIbkVKOWUyNkhBcmdMV2pwYXd3b1haQUo0STJZNGdHV2lOWHF5ZXBCUUcwNFY4S0pldDRvWGhLVVhuamRpNm54QzI?oc=5"
         }
       ]
     }
