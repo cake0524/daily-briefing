@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年4月6日",
+  "publishDate": "2026年4月7日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "新能源跑车，900V架构，22英寸锻造轮毂+Brembo卡钳，还有KW避震 -…",
+      "title": "硬件扩容+技术升级 清明假期新能源汽车充电有保障 - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Scientists trap light in a layer 1,000x…",
+      "title": "AI breakthrough cuts energy use by 100x…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:18",
-          "title": "新能源跑车，900V架构，22英寸锻造轮毂+Brembo卡钳，还有KW避震 - 搜狐网",
-          "summary": "新能源跑车，900V架构，22英寸锻造轮毂+Brembo卡钳，还有KW避震 搜狐网",
+          "time": "07:40",
+          "title": "硬件扩容+技术升级 清明假期新能源汽车充电有保障 - 新浪财经",
+          "summary": "硬件扩容+技术升级 清明假期新能源汽车充电有保障 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVl9FeG5UcHpDYXVFcE5qd09EUjZBSnNweGlJb0V0Wkd4bkdtQXpqNGdsTDBrV1oyN0xuYlJ6X0R2VXdjVDczMTdXeTNJbF9Xc0VNSVFNbVFwWklsWk5tdWVyeDBDcmxya1VZRWNsS1dQMjRhTkNFUHpybDJJR3JKWHFXYzV3c0xsNHRpNQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05Mm85YVFJaEN6NmRNdmswWXpsbGZqMExrelJScENPcTZDUm10a2t1dmRvQm15dVlEZTNiTWVDbWFTTFhwT3RPUDI1dw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:08",
-          "title": "新能源技术助力打开海外市场 中国皮卡引领世界 - 新浪财经",
-          "summary": "新能源技术助力打开海外市场 中国皮卡引领世界 新浪财经",
+          "time": "07:20",
+          "title": "培育数字经济 赣江新区：企业焦虑什么，改革就破解什么 - 凤凰网江西",
+          "summary": "培育数字经济 赣江新区：企业焦虑什么，改革就破解什么 凤凰网江西",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80ZHBVUE1aSy0tV0g0RmtiRnBuVTRsZDN1Z25HTUY4eWRqMks3V3h0QXJ5MDlpdndWSndfSU5GVWJ5bldxR29CUjg5WXYzRHg0ak1WRVJDcFZnaEp6eTZWeFlaMUtlSVo4Vk1pNkNHUGdsN0pnNnVGWA?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CNnJLeTJxaUVpY05yVzJEWDg2dlc1XzhleVBPVW9fbkE2VWNTWG44dGxLT0c5TXVIMy1yRGE5QWxvME0yWkxqeEJn?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新能源技术助力打开海外市场，中国皮卡引领世界 - 搜狐网",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZWtTR2praEI3RjlGSjdkbUV5QjZXS09XTlp0R2hXa1ZvaGJtTlp5SVd2WjExTEkwakJoYm9wYkhKU1VpWm5FOGZYNTY0SGg2ekwzZXNNZ0tqSzdzZ19feWl1SURUZ0R5ZEpwVWotc2x1WnVzU0U3amlZcnhaOVNtbHhraGt5cFo0?oc=5"
+          "text": "那个熟悉的广汽埃安回来了 - 汽车之家",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qVFVHVlVuQXJuc1MtVDJFYS1pYWRSeGVxU0Y4czhmZGZSelR0WWg5NUJBTGRlNERsY0ZfaVBaLVFEYWptVE1VV0RWRFFSV0NRc0EwS0NhOG9VSE5iNzNheVlkS1lCSEdzbTJR?oc=5"
         },
         {
-          "text": "【视频】国产新能源硬派越野天花板：坦克700行不行？ - 汽车之家",
+          "text": "十年砺技守初心专精筑强制造业 - 天津日报",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nRU1CeUZvUFZIQ2dmbHh6Yno0NUpTNDdFOVdLV2REOXhtNXdHQTQwNWNQeHRWc1JKbGtuOVlWVjNWb2xwQnBVR3U0S0pUVGZFdjJOQjVsWU85Sms?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZHkyVlZiZjRQZWkyTkZzWnZHYkk1UGNCTEwyeFJ2bkJmd2Z5dHllX3hseW1ESTAwU0EzZXJyVUY2cmpNTWx6elNhdENFZWtWaFJOMFlJZGdNNkhZcXg5QWdzYXgwdEdMQVc1V29ZTXZMcnh3YWxyaWluUnNwYzBocmtB?oc=5"
         },
         {
-          "text": "【视频】宝马5系新能源2019款改款530Le 豪华套装 - 汽车之家",
+          "text": "尽管3月美国ISM非制造业景气指数低于预期，但由于伊朗核协议期限临近，特朗普总统发出警告，美元跌幅有限，汇率从159.36日元小幅降至159日元。 - 富途牛牛",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8tWmZ0bUVZWEhMRElGMUYxZS1TT1RLeVZTcEE5Y0NRT0tRTVNqVmMtWFAwc1hBTEVKMGtSMEhrZWkwLWwtWjUzZTg5Z3k2amptVlloRmJjck5kV3M?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUFtSTNUTkVaZFZsY09sM1AzbVR0VGg1NmZndy1Mb281MnVmOTBZWmw1VFFTcXF2amhsOExUZFNkX0NuRnlxbWlwTnV0c3YxMVRTOWN0dGNicUhNWll5LXJid0ZNb1IwUWRpZHNXMHZUWUpEYktlUjc0UHFOSVAxSW44Qk9fZXc1anlXS3hBMFhFM2ZSQlBOTVBBbG9wQmVr?oc=5"
         },
         {
-          "text": "华电新能（600930.SH）新增一起对外投资，被投资公司为华电朔开（朔州市经济开发区）新能源有限公司 - 证券之星",
+          "text": "美国3月ISM非制造业指数回落至54，支付价格指数创2022年10月以来最高 - 富途牛牛",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBITXFDUldDSWVDV09VQ2FoRTFXTnFySUo0LWxfbV9WS1p0QmFLaUVwTVY1MWNwWHl4dDN4Qm9WQjd1UDAteHRoV1AtQ1Y4RUlOc3dnY1U2UGdDNUZCOXhvenRYY1c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGc3NlVSb0hoV3ZuRHN0enFCQk4wUWc4M1U3M0pIQ2I3ekNfWjdfZ2tzcW5yZWVGLWxqTV9DQ181d2NHUTJQU3lRMjI5eUdONHA4cHV1bHR2LUIwTlM5VXNZS0FjYmFIUVJwQy0xRm16MU1MVHFIWllvNkZpT0pZdTlJNHFfaVUyZDVURzgtV0JqWlpu?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "09:23",
+          "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
+          "summary": "AI is consuming staggering amounts of energy—already over 10% of U.S. electricity—and the demand is only acce…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "18:43",
           "title": "Scientists trap light in a layer 1,000x thinner than hair",
           "summary": "Researchers have created a nanoscale structure that traps infrared light in a layer just 40 nanometers thick—…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260405003957.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "12:23",
-          "title": "Truckloads of food are being wasted because computers won’t approve them",
-          "summary": "Modern food systems may look stable on the surface, but they are increasingly dependent on digital systems th…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260403224505.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Truckloads of food are being wasted because computers won’t approve them",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260403224505.htm"
+        },
         {
           "text": "Laser-powered wireless hits 360 Gbps and uses half the energy of Wi-Fi",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "DNA robots could deliver drugs and hunt viruses inside your body",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm"
-        },
-        {
-          "text": "These “smart” crystals bend and snap back when hit with light",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260331001056.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "18:30",
-          "title": "OpenAI acquires TBPN",
-          "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding di…",
+          "time": "00:33",
+          "title": "The one piece of data that could actually shed light on your job and AI",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/openai-acquires-tbpn"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:00",
-          "title": "Codex now offers more flexible pricing for teams",
-          "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible…",
+          "time": "19:00",
+          "title": "AI is changing how small online sellers decide what to make",
+          "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small o…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/codex-flexible-pricing-for-teams"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
         }
       ],
       "briefs": [
         {
-          "text": "The gig workers who are training humanoid robots at home",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
-        },
-        {
-          "text": "Gradient Labs gives every bank customer an AI account manager",
+          "text": "Announcing the OpenAI Safety Fellowship",
           "source": "OpenAI",
-          "url": "https://openai.com/index/gradient-labs"
+          "url": "https://openai.com/index/introducing-openai-safety-fellowship"
         },
         {
-          "text": "Shifting to AI model customization is an architectural imperative",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
-        },
-        {
-          "text": "Accelerating the next phase of AI",
+          "text": "Industrial policy for the Intelligence Age",
           "source": "OpenAI",
-          "url": "https://openai.com/index/accelerating-the-next-phase-ai"
+          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+        },
+        {
+          "text": "OpenAI acquires TBPN",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/openai-acquires-tbpn"
+        },
+        {
+          "text": "Codex now offers more flexible pricing for teams",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/codex-flexible-pricing-for-teams"
         }
       ]
     },
@@ -218,24 +218,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:50",
-          "title": "Automated Security Assertion Generation Using LLMs (U. of Florida)",
-          "summary": "A new technical paper, “Assertain: Automated Security Assertion Generation Using Large Language Models,” was…",
+          "time": "15:01",
+          "title": "Research Bits: Apr. 6",
+          "summary": "Memristors: Reservoir computing; 2D bismuth selenide; thin-film hafnium oxide. The post Research Bits: Apr. 6…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/automated-security-assertion-generation-using-llms-u-of-florida/"
+          "url": "https://semiengineering.com/research-bits-apr-6/"
         },
         {
           "priority": "重点看点 02",
           "time": "15:01",
-          "title": "Chip Industry Week In Review",
-          "summary": "Tighter restrictions on DUV litho; Arm-IBM dual-architecture deal; 62% growth in chip sales; power device tri…",
+          "title": "All AI Data Center Interconnects Will Be Optical Within 5 Years",
+          "summary": "InP and SiPho join CMOS as critical technologies. Lasers, CPO and OCS will be everywhere (indium phosphide, s…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-132/"
+          "url": "https://semiengineering.com/all-ai-data-center-interconnects-will-be-optical-within-5-years/"
         }
       ],
       "briefs": [
+        {
+          "text": "Automated Security Assertion Generation Using LLMs (U. of Florida)",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/automated-security-assertion-generation-using-llms-u-of-florida/"
+        },
+        {
+          "text": "Chip Industry Week In Review",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-132/"
+        },
         {
           "text": "Wi-Fi That Can Withstand a Nuclear Reactor",
           "source": "IEEE Spectrum Semiconductors",
@@ -245,16 +255,6 @@ window.dailyBrief = {
           "text": "Developing A Security Framework For Chiplet-Based Systems",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/developing-a-security-framework-for-chiplet-based-systems/"
-        },
-        {
-          "text": "Automated Multiphysics For Successful 3D-IC Design",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/automated-multiphysics-for-successful-3d-ic-design/"
-        },
-        {
-          "text": "AI Demand Resets Memory Market Priorities, Tightening NOR Flash Availability",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-demand-resets-memory-market-priorities-tightening-nor-flash-availability/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:57",
-          "title": "锦和商管（603682.SH）新增一起对外投资，被投资公司为上海锦尚仑企业管理有限公司_公司新闻 - 证券之星",
-          "summary": "锦和商管（603682.SH）新增一起对外投资，被投资公司为上海锦尚仑企业管理有限公司_公司新闻 证券之星",
+          "time": "01:16",
+          "title": "国轩高科：公司管理层高度重视非公开发行股票事项， 目前正在按照相关法律法规及监管要求正常推进中 - 东方财富",
+          "summary": "国轩高科：公司管理层高度重视非公开发行股票事项， 目前正在按照相关法律法规及监管要求正常推进中 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OTG5ja1l0MTV2RjhMUFhIV1A1TEhnTm9lbUZOY1FmXzdwdWctN185VTFYdTY4a1FNVS1XWmctWXVzVWNsZlhqU3RYcnFJbHVITEV1VmZzWFYwblk4eEEwRHRqMVM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55dGt1ZEZtbHdlMnJrdUM2N2pMRFpJSlJXcGxkSk9NWmF4SjIzMVUwYVp3RnU4RWtXWFhzdEprWl9mRnVDZXFzSG5LWWN3bmZ1Zl9pSWNCemphQWF3b3B2Qg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:40",
-          "title": "美研！30个热门商业分析专业申请DDL！ - 华人头条",
-          "summary": "美研！30个热门商业分析专业申请DDL！ 华人头条",
+          "time": "21:52",
+          "title": "拓新药业：公司管理层始终高度重视经营质效的提升 - finance.eastmoney.com",
+          "summary": "拓新药业：公司管理层始终高度重视经营质效的提升 finance.eastmoney.com",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnVPcDFRcndGU1hQTkVMaFhkVmFVS3YwWk5mT1JyUXNHb2ZZZGIxcUtmNkVEbVdzREUwbDRDMU5jVG10M0NDOUcwWElLbEhQekZpejYwTWZndE9Qemd0T3JpeU1fQ0haQXVmemxYVk92OVY2aUdxZE9nM2JKWUU1S0Y5amJoUUE?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1WnM0c20xc3dIS0NUbU9OTlY3dnlqaTA0ZmpWNUJzU1JZR3JxckoxeHBvUUlMYjZ0U2tkYUNER0MzWXVwTUJQNXR3RzB6OWNxZ1BPUHpKZC1kVjU0N0JBLXNrZzRTdw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "宝泰隆：公司管理层充分认识，及时、真诚、高质量的信息回应是维护投资者关系的基础 - eastmoney.com",
+          "text": "碧水源：公司管理层高度重视市值管理工作 - finance.eastmoney.com",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIbk10Zm5QWmdwTVIzMTY0bWNpWVBHQk1SNjd2aFc4T084SW51SXppbWJCb2pkNENRWXhHYzVWS1R1dEFEVW9fZE9pSThmVmpSbkV5N21lVi1aRmt4MGQ4eW84a2c?oc=5"
+        },
+        {
+          "text": "天箭科技：公司管理层高度重视经营风险及投资者关切 - finance.eastmoney.com",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BSHEtLVh0VzdrRFppaV8zTjZsT2QzM2Y5OFU1SHVESXE3LV9WWG9uUUR0NDhlYUNycGZsNG1JVDRtRk9pRGdUbGRoYklQTXBCczZ2bzNURXhkMmxLX1Jqa0VlblV2UQ?oc=5"
+        },
+        {
+          "text": "宝泰隆：公司管理层充分认识，及时、真诚、高质量的信息回应是维护投资者关系的基础 - 东方财富",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RMjlpekJQLVlycFdGcWtUUkM4VnF3TzctYV9IbGRNZUxGYW1TNFZ5SFp2MlIzX2pkdHZSNG9IWlE3Z2tQVnJadEpLbzlEZ043T0phbExzSk4yWlVkYk9PZQ?oc=5"
         },
         {
-          "text": "河南豫光金铅股份有限公司战略及投资委员会2026年第一次会议决议 - 富途牛牛",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV25uaDZZMURwS0Jnc1l3Y1hrTjd5eW1CUlQwN1R5Y3A3cVgzUjlYT0EwX29acDJUVWRBMWR4UWZXVmFWdFpqc2FfYzc3Z1g3MTRhV3NzNm5MdzBjX2pHT0ZqSEdvRkFIWFlIYUxmRVJuUDBJVmdNVDRmeGN6NGdCY0hWMXQyYmRDWTBCcmN2SlV1cDRRakpvRnJpb2hKWHRoejk1N0Rkaw?oc=5"
-        },
-        {
-          "text": "珀莱雅：目前公司管理层人员背景涵盖金融、财务、供应链等领域 - eastmoney.com",
+          "text": "珀莱雅：目前公司管理层人员背景涵盖金融、财务、供应链等领域 - 东方财富",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sYVkxa084MkY2clRTbENYWVduS0dkSGFyM3dkcDFhOTJuQmN6cTRBWXNSRDRvSDJ4S2dJWDVyZko4MTFHcUJON2ZDY2tPWXBkT3UzM3RIeE4zdGN4NThuMw?oc=5"
-        },
-        {
-          "text": "圣阳股份：公司管理层高度重视市值表现 - eastmoney.com",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nV2MwSlNDd25HUHhUVnc3UGFCOC11MmpGZklFZ0JFbWpDTlRpZVNuN0FvUFZhT00tMGJPY2dPODJ1eTVwbHNRNmphM2FZZEhydzBEeGIxdWQwS2NTbHk0cw?oc=5"
         }
       ]
     }
