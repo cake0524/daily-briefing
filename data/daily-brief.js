@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年4月7日",
+  "publishDate": "2026年4月8日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "硬件扩容+技术升级 清明假期新能源汽车充电有保障 - 新浪财经",
+      "title": "创业板新能源ETF天弘（159190）跌0.33%，半日成交额608.28万元…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "AI breakthrough cuts energy use by 100x…",
+      "title": "This new chip survives 1300°F (700°C) a…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "As World Cup kick-off nears, a reminder…",
+      "title": "World News in Brief: Death on the Medit…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:40",
-          "title": "硬件扩容+技术升级 清明假期新能源汽车充电有保障 - 新浪财经",
-          "summary": "硬件扩容+技术升级 清明假期新能源汽车充电有保障 新浪财经",
+          "time": "07:31",
+          "title": "创业板新能源ETF天弘（159190）跌0.33%，半日成交额608.28万元 - 新浪财经",
+          "summary": "创业板新能源ETF天弘（159190）跌0.33%，半日成交额608.28万元 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05Mm85YVFJaEN6NmRNdmswWXpsbGZqMExrelJScENPcTZDUm10a2t1dmRvQm15dVlEZTNiTWVDbWFTTFhwT3RPUDI1dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS2MxUGttV0VJRGJUQXZybEpuMFJMTDBDLVBFVGkzQ2cwUjhydUF5NDY3UzNBVDZCNkxGNUJHWnI1SWpnQzhCdWQwVmIyZ3V3MDRmeEtSd1RGVDdSdWxQWDJWM3FDMjVCSWF2S1ZYZFdKUkgzd2hMSXdwM180V1RBZVNuR1R5bWpnNmF1NEZ0Tk1pR0hvNnVIQUxHMWhqa0VzcElIam9Ga1c4SUdITG5wV2xUOEZRV2lGTmZnVWFXcWdYQlh5NUpzc0xRMm5KbEI3VGhzbEV5eFllbHlWLWRSV0JveFBtRS1QZEYzcGdFRjRGOGMyd2dFRFY1SXp4M1pUOGljb1dNU1c?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:20",
-          "title": "培育数字经济 赣江新区：企业焦虑什么，改革就破解什么 - 凤凰网江西",
-          "summary": "培育数字经济 赣江新区：企业焦虑什么，改革就破解什么 凤凰网江西",
+          "time": "07:29",
+          "title": "创业板新能源ETF景顺（159187）跌0.11%，半日成交额458.46万元 - 新浪财经",
+          "summary": "创业板新能源ETF景顺（159187）跌0.11%，半日成交额458.46万元 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CNnJLeTJxaUVpY05yVzJEWDg2dlc1XzhleVBPVW9fbkE2VWNTWG44dGxLT0c5TXVIMy1yRGE5QWxvME0yWkxqeEJn?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSXFWWVkyOXJCaDVEQlJxeHloaHVhUlBydjlZOU9xbXRJRktfb09EUXdHVFk1ZFlKdTlLb0lQcURKQWEtVlRxcHBudlI0WDFjeXRCZUZFNkpod0d1VzZYWFllV1lnTWVhbC1wa29LeUVBV1cweDUzUzBuTUFXTVZDZGoxOU1VRHQzM0lnd1FTVVFxeDJsQ3UxdHYzVlBZbmRRS01pWlpIZ1VMUDBfMnBkQmhZVWgyUFB3ZmRKNGhRMEc3MFN0aWk0RFZSRU50dHY4S0RYNEtfcm5UTnJTVXFQVmZtN3pKaldCS3dpbEtMeUQ2dndDbXd4eQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "那个熟悉的广汽埃安回来了 - 汽车之家",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qVFVHVlVuQXJuc1MtVDJFYS1pYWRSeGVxU0Y4czhmZGZSelR0WWg5NUJBTGRlNERsY0ZfaVBaLVFEYWptVE1VV0RWRFFSV0NRc0EwS0NhOG9VSE5iNzNheVlkS1lCSEdzbTJR?oc=5"
+          "text": "新能源车ETF招商（159183）跌0.31%，半日成交额371.73万元 - 新浪财经",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZGxCYS1rbGxVZENNNmxxV24yNWhBSTBxUUZTV1dHb3Z6NW1ncGNNdnNCbXlRZkVJVmtnYWlUVDAtMXp2UTlJY1FSRkx6SnR4aEVFLXhzZE92aFhuVHUwRG1YcmZJRmVndVgzUjVVOHpjaWdIM1Q3eW1uenl4Ql9jald3UzBtRjY1d1hvX18wTGJHMkwxY3VOZzEtNWs1MlBvSmx2Q19MUGZmYXRnZ1lNRHJ0UDd5QUk0aVpzbmhuQ25IUGV1R2NCbWVHNlppVXVZRFQ3Wmh6eWh3ZUJZdWM3VERKSGJIX3ZoREg2LXl3QUxSbnc2T0dWMg?oc=5"
         },
         {
-          "text": "十年砺技守初心专精筑强制造业 - 天津日报",
+          "text": "油价上涨更多消费者选择“油”改“电”-燕赵晚报-A15版-2026年04月08日 - 同花顺财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZHkyVlZiZjRQZWkyTkZzWnZHYkk1UGNCTEwyeFJ2bkJmd2Z5dHllX3hseW1ESTAwU0EzZXJyVUY2cmpNTWx6elNhdENFZWtWaFJOMFlJZGdNNkhZcXg5QWdzYXgwdEdMQVc1V29ZTXZMcnh3YWxyaWluUnNwYzBocmtB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ZTXQtQ0c2RzUtekMxTWo0bEpOcnlZSGVwMlVGZXM0a3RObnVUX2gtNzFtOEtiT0MwajdaWDNfeXJEOTJFb0IwT2FQbmt2RTZjM2NOcFNCN0UtMzNVLXc?oc=5"
         },
         {
-          "text": "尽管3月美国ISM非制造业景气指数低于预期，但由于伊朗核协议期限临近，特朗普总统发出警告，美元跌幅有限，汇率从159.36日元小幅降至159日元。 - 富途牛牛",
+          "text": "新能源车充电涨价了吗 - Sohu",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbUFtSTNUTkVaZFZsY09sM1AzbVR0VGg1NmZndy1Mb281MnVmOTBZWmw1VFFTcXF2amhsOExUZFNkX0NuRnlxbWlwTnV0c3YxMVRTOWN0dGNicUhNWll5LXJid0ZNb1IwUWRpZHNXMHZUWUpEYktlUjc0UHFOSVAxSW44Qk9fZXc1anlXS3hBMFhFM2ZSQlBOTVBBbG9wQmVr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzlxb3JaSk9Ncmd4WDM0UkpaWFY5X2NFX3dDUmRPR09DYzhoSXlwemwxTlo1X2pQUU1sMTM4X1hGWGs4Tmpjajk5bGUxbUM2UWwwbzBuVHhRb2d3V2paeHVtZ2NrTWN2TUZ0XzgwNWR1dlQ4M0NQQVhGVm1yUlJ2S0E2RlV1UnVJZVB6LQ?oc=5"
         },
         {
-          "text": "美国3月ISM非制造业指数回落至54，支付价格指数创2022年10月以来最高 - 富途牛牛",
+          "text": "比亚迪“小伙伴”今日申购，另有两只新股上市丨打新早知道 - 21财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGc3NlVSb0hoV3ZuRHN0enFCQk4wUWc4M1U3M0pIQ2I3ekNfWjdfZ2tzcW5yZWVGLWxqTV9DQ181d2NHUTJQU3lRMjI5eUdONHA4cHV1bHR2LUIwTlM5VXNZS0FjYmFIUVJwQy0xRm16MU1MVHFIWllvNkZpT0pZdTlJNHFfaVUyZDVURzgtV0JqWlpu?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWENpeTAzZi00anVlai1EbHRqcTVvalgxQkNUVkkyendfb0VIYXZiOVdKRWZZdGNWRVN2WHhkY3JnSGxFSTN5dHZIMUdCanR3NDdwdVpwT0NmRVhTbTZhV084YlhvbEtabWVxN1NOeEhBcVQzM0ROWTRJSlVDZ0xDVWlJYUw4Z2dTX0p6VjctWQ?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:23",
-          "title": "AI breakthrough cuts energy use by 100x while boosting accuracy",
-          "summary": "AI is consuming staggering amounts of energy—already over 10% of U.S. electricity—and the demand is only acce…",
+          "time": "13:32",
+          "title": "This new chip survives 1300°F (700°C) and could change AI forever",
+          "summary": "A team of engineers has created a breakthrough memory device that keeps working at temperatures hotter than m…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260406192904.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "17:08",
+          "title": "Scientists find quantum computers forget most of their work",
+          "summary": "Quantum circuits are supposed to gain power as they grow longer, but noise changes the picture. A new study f…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260406045126.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "AI breakthrough cuts energy use by 100x while boosting accuracy",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "18:43",
-          "title": "Scientists trap light in a layer 1,000x thinner than hair",
-          "summary": "Researchers have created a nanoscale structure that traps infrared light in a layer just 40 nanometers thick—…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Scientists trap light in a layer 1,000x thinner than hair",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260405003957.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Truckloads of food are being wasted because computers won’t approve them",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Laser-powered wireless hits 360 Gbps and uses half the energy of Wi-Fi",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260402042734.htm"
-        },
-        {
-          "text": "A 200-year-old light trick just transformed quantum encryption",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260401071933.htm"
-        },
-        {
-          "text": "DNA robots could deliver drugs and hunt viruses inside your body",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "As World Cup kick-off nears, a reminder of the power of sport to build bridges and break barriers",
-          "summary": "The 2026 World Cup final will take place at the MetLife Stadium in New Jersey, a few miles away from UN Headq…",
+          "title": "World News in Brief: Death on the Mediterranean, displacement in Afghanistan, ‘One Health’ summit",
+          "summary": "Over 180 people are feared dead or missing in the latest shipwrecks on the Mediterranean, according to the UN…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167245"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167262"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN nuclear agency chief ‘deeply concerned’ by reports of latest attack on Iran power plant",
-          "summary": "Reports of yet another projectile strike near the Bushehr nuclear power plant prompted Rafael Grossi, head of…",
+          "title": "Security Council: Russia and China veto resolution on Strait of Hormuz",
+          "summary": "The UN Security Council has failed to adopt a resolution aiming to boost security in the Strait of Hormuz as…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167250"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167261"
         }
       ],
       "briefs": [
         {
-          "text": "‘We watched them die before our eyes’: Sudan health workers helpless amid medic…",
+          "text": "From misdiagnosis to medical bias: Why women are living longer but not better",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167230"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167259"
         },
         {
-          "text": "Deminers race to keep up with military technology",
+          "text": "MIDDLE EAST LIVE 7 April: Humanitarian and economic pressures grow; Russia and…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167247"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167257"
         },
         {
-          "text": "World News in Brief: South Sudan rights, opioid guidelines update, DR Congo cri…",
+          "text": "‘Entire families brutally erased’: Remembering the victims of the 1994 genocide…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167248"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167256"
         },
         {
-          "text": "Guterres warns of ‘wider war’ as Middle East conflict enters second month",
+          "text": "World News in Brief: ‘Skyrocketing’ needs outpace Sudan funding, Ukraine strike…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167244"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167255"
         }
       ]
     },
@@ -170,24 +170,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "22:00",
+          "title": "Enabling agent-first process redesign",
+          "summary": "Unlike static, rules-based systems, AI agents can learn, adapt, and optimize processes dynamically. As they i…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "00:33",
           "title": "The one piece of data that could actually shed light on your job and AI",
           "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "19:00",
-          "title": "AI is changing how small online sellers decide what to make",
-          "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small o…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
         }
       ],
       "briefs": [
+        {
+          "text": "AI is changing how small online sellers decide what to make",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
+        },
         {
           "text": "Announcing the OpenAI Safety Fellowship",
           "source": "OpenAI",
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "OpenAI acquires TBPN",
           "source": "OpenAI",
           "url": "https://openai.com/index/openai-acquires-tbpn"
-        },
-        {
-          "text": "Codex now offers more flexible pricing for teams",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/codex-flexible-pricing-for-teams"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Research Bits: Apr. 6",
-          "summary": "Memristors: Reservoir computing; 2D bismuth selenide; thin-film hafnium oxide. The post Research Bits: Apr. 6…",
+          "time": "15:07",
+          "title": "The Specialty Device Surge Part 2: The Process Control Challenges Of MEMS, Co-Packaged Optics, And More",
+          "summary": "Staying inside increasingly narrow process windows as specialty devices scale, diversify, and enter high-volu…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-apr-6/"
+          "url": "https://semiengineering.com/the-specialty-device-surge-part-2-the-process-control-challenges-of-mems-co-packaged-optics-and-more/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "All AI Data Center Interconnects Will Be Optical Within 5 Years",
-          "summary": "InP and SiPho join CMOS as critical technologies. Lasers, CPO and OCS will be everywhere (indium phosphide, s…",
+          "time": "15:06",
+          "title": "Breaking The Legacy Trap: How Semiconductor Executives Can Accelerate AI Adoption And Transform IT Applications At The Same Time",
+          "summary": "Deploying AI on top of fragmented, siloed, inconsistently formatted data produces fragmented, unreliable resu…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/all-ai-data-center-interconnects-will-be-optical-within-5-years/"
+          "url": "https://semiengineering.com/breaking-the-legacy-trap-how-semiconductor-executives-can-accelerate-ai-adoption-and-transform-it-applications-at-the-same-time/"
         }
       ],
       "briefs": [
         {
-          "text": "Automated Security Assertion Generation Using LLMs (U. of Florida)",
+          "text": "Enhancing Silicon Reliability With In-System Test And SLM Data",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/automated-security-assertion-generation-using-llms-u-of-florida/"
+          "url": "https://semiengineering.com/enhancing-silicon-reliability-with-in-system-test-and-slm-data/"
         },
         {
-          "text": "Chip Industry Week In Review",
+          "text": "AI data Center Providers Seek Power and Bandwidth Promise in CPO",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-132/"
+          "url": "https://semiengineering.com/ontopic-ai-data-center-providers-seek-power-and-bandwidth-promise-in-cpo/"
         },
         {
-          "text": "Wi-Fi That Can Withstand a Nuclear Reactor",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/robotics-in-nuclear-industry"
+          "text": "What’s Failing At The Interface",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/whats-failing-at-the-interface/"
         },
         {
-          "text": "Developing A Security Framework For Chiplet-Based Systems",
+          "text": "Mid-infrared Ellipsometry For Optical Critical Dimension Metrology",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/developing-a-security-framework-for-chiplet-based-systems/"
+          "url": "https://semiengineering.com/mid-infrared-ellipsometry-for-optical-critical-dimension-metrology/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "As World Cup kick-off nears, a reminder of the power of sport to build bridges and break barriers",
-          "summary": "The 2026 World Cup final will take place at the MetLife Stadium in New Jersey, a few miles away from UN Headq…",
+          "title": "World News in Brief: Death on the Mediterranean, displacement in Afghanistan, ‘One Health’ summit",
+          "summary": "Over 180 people are feared dead or missing in the latest shipwrecks on the Mediterranean, according to the UN…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167245"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167262"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN nuclear agency chief ‘deeply concerned’ by reports of latest attack on Iran power plant",
-          "summary": "Reports of yet another projectile strike near the Bushehr nuclear power plant prompted Rafael Grossi, head of…",
+          "title": "Security Council: Russia and China veto resolution on Strait of Hormuz",
+          "summary": "The UN Security Council has failed to adopt a resolution aiming to boost security in the Strait of Hormuz as…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167250"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167261"
         }
       ],
       "briefs": [
         {
-          "text": "‘We watched them die before our eyes’: Sudan health workers helpless amid medic…",
+          "text": "From misdiagnosis to medical bias: Why women are living longer but not better",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167230"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167259"
         },
         {
-          "text": "Deminers race to keep up with military technology",
+          "text": "MIDDLE EAST LIVE 7 April: Humanitarian and economic pressures grow; Russia and…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167247"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167257"
         },
         {
-          "text": "World News in Brief: South Sudan rights, opioid guidelines update, DR Congo cri…",
+          "text": "‘Entire families brutally erased’: Remembering the victims of the 1994 genocide…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167248"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167256"
         },
         {
-          "text": "Guterres warns of ‘wider war’ as Middle East conflict enters second month",
+          "text": "World News in Brief: ‘Skyrocketing’ needs outpace Sudan funding, Ukraine strike…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167244"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167255"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:16",
-          "title": "国轩高科：公司管理层高度重视非公开发行股票事项， 目前正在按照相关法律法规及监管要求正常推进中 - 东方财富",
-          "summary": "国轩高科：公司管理层高度重视非公开发行股票事项， 目前正在按照相关法律法规及监管要求正常推进中 东方财富",
+          "time": "04:00",
+          "title": "共築矽盾！專家紐約座談 剖析台美供應鏈韌性 - 新唐人電視台",
+          "summary": "共築矽盾！專家紐約座談 剖析台美供應鏈韌性 新唐人電視台",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55dGt1ZEZtbHdlMnJrdUM2N2pMRFpJSlJXcGxkSk9NWmF4SjIzMVUwYVp3RnU4RWtXWFhzdEprWl9mRnVDZXFzSG5LWWN3bmZ1Zl9pSWNCemphQWF3b3B2Qg?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UT19BN2JRejV0YTREMnhDM1FyVlJjZnFkTVRqT21MZ3FQZFltVzdFaklzNGdCazVQaDZBdnNETWlZVlZXcTQ1eXhuakFvVEpsRE8zR1UxRHQyU3N4NXhiM9IBZkFVX3lxTE5uUk95MVM2N1dlMGFMXzF5OTNZZXE2OVQ0TXRGWVFUVVl4dzNQV2g3QXowTXNQb1lTbGwtZEtpQmVKcEMtanN5TzFienNMaDhSZHN6QkVOWDVaeGFkdVdoUjZSd29rUQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:52",
-          "title": "拓新药业：公司管理层始终高度重视经营质效的提升 - finance.eastmoney.com",
-          "summary": "拓新药业：公司管理层始终高度重视经营质效的提升 finance.eastmoney.com",
+          "time": "22:38",
+          "title": "中粮资本：公司管理层薪酬与经营业绩及战略目标紧密挂钩 - 东方财富",
+          "summary": "中粮资本：公司管理层薪酬与经营业绩及战略目标紧密挂钩 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1WnM0c20xc3dIS0NUbU9OTlY3dnlqaTA0ZmpWNUJzU1JZR3JxckoxeHBvUUlMYjZ0U2tkYUNER0MzWXVwTUJQNXR3RzB6OWNxZ1BPUHpKZC1kVjU0N0JBLXNrZzRTdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05QnRTVDNrN1N2cWxJZU43TXdOQVg0OFdiOUIwWXdUandJU1NNTFhzTjBvVjNfNWVkWDA5aW91YUlKWWMtYXJWaVM1SERkMTF3OHUzbW5NTEZHUG1Jb2RacA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "碧水源：公司管理层高度重视市值管理工作 - finance.eastmoney.com",
+          "text": "佳云科技(300242):控股子公司管理办法（2026年4月） - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIbk10Zm5QWmdwTVIzMTY0bWNpWVBHQk1SNjd2aFc4T084SW51SXppbWJCb2pkNENRWXhHYzVWS1R1dEFEVW9fZE9pSThmVmpSbkV5N21lVi1aRmt4MGQ4eW84a2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xTlVFUFFNSzRyYUJZNFlSeUIxNi1QZVI2U1RfYnlGZU9vSlI1VjJhbGlvSTdOOS03aURwdVQ5ZW85T1FSblNDZ0xoc0JoTEJfSDI5bWJn?oc=5"
         },
         {
-          "text": "天箭科技：公司管理层高度重视经营风险及投资者关切 - finance.eastmoney.com",
+          "text": "破解制造企业管理困局，赋能数字化转型 | 2026国产生产管理型ERP软件综合排名 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BSHEtLVh0VzdrRFppaV8zTjZsT2QzM2Y5OFU1SHVESXE3LV9WWG9uUUR0NDhlYUNycGZsNG1JVDRtRk9pRGdUbGRoYklQTXBCczZ2bzNURXhkMmxLX1Jqa0VlblV2UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORC1ya0MxRU53LS1jVmhzd3FKSV9uaTBPWEtVNEJWWE45OElzUVJrX1Z1NzdlZzRJYmdkWlZEM1ZFLWFMM0xkSnQ0SUJpU085X0REcGdrRlhpT0pkNzNucS1ZaHVFdlJlYk4xRjZkNWkxTEZxNEhNRUpsaXhEMy1QWUUwY1ZzOFR6VXZ2X0I5dURSTjFOeE5zSThERWl3cGpoRWkybEtRdGpmVE0?oc=5"
         },
         {
-          "text": "宝泰隆：公司管理层充分认识，及时、真诚、高质量的信息回应是维护投资者关系的基础 - 东方财富",
+          "text": "西部黄金(601069):西部黄金股份有限公司关于授权公司管理层启动公司境外发行股份（H股）并在香港联合交易所有限公司上市相关筹备工作的提示性公告- CFi.…",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RMjlpekJQLVlycFdGcWtUUkM4VnF3TzctYV9IbGRNZUxGYW1TNFZ5SFp2MlIzX2pkdHZSNG9IWlE3Z2tQVnJadEpLbzlEZ043T0phbExzSk4yWlVkYk9PZQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Yelgzc0lXNE55RF9zRWZ3aWYwZHlyT0w2bkcwaUNvSzRCWTBmVmM1cUpyUUotM1JlU3I3LUtMVmk3aGhKUlRFMFRDdjFCZjg3ZlFVV25B?oc=5"
         },
         {
-          "text": "珀莱雅：目前公司管理层人员背景涵盖金融、财务、供应链等领域 - 东方财富",
+          "text": "在多年亏损之后，企业管理人员联合起来向 Tenda 施压，要求其关闭位于 Alea 的“本土工厂”。 - NeoFeed",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sYVkxa084MkY2clRTbENYWVduS0dkSGFyM3dkcDFhOTJuQmN6cTRBWXNSRDRvSDJ4S2dJWDVyZko4MTFHcUJON2ZDY2tPWXBkT3UzM3RIeE4zdGN4NThuMw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUUl0SU1xTFdNVEo0c1pyZHdCZGFvYm9ZZFZ6OEJ0dDJBdmFhWGZRdlgtZklyZ3UxOTlVUzNoTm5LRl9QZC05bzRzZXd3dExyaTNmcVktVDJjSkRleVgzdV9ONTlUOXdzenJOeDg3LU00SFV3SWRRT0VnWDM5ZUVyenljbWVnVzk4TkhiWC1lR2JKNGpzSmZZeXk3bHZIY0RQSkNkcmZaQ1lqS3kyUk1lVXBhLUdwNndRM3dlU2xTcVRFQkVneEdEMHRkZHpSTlE?oc=5"
         }
       ]
     }
