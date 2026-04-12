@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年4月12日",
+  "publishDate": "2026年4月13日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "蔚来大涨！3月新能源汽车厂商销量榜 - 富途牛牛",
+      "title": "李想怒怼“黑水军”，新能源汽车发展不容恶意拉踩 |新京报评论 - Sohu",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Putting humans at the centre: UN AI pan…",
+      "title": "From conflict to catwalk: Women ex-comb…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:29",
-          "title": "蔚来大涨！3月新能源汽车厂商销量榜 - 富途牛牛",
-          "summary": "蔚来大涨！3月新能源汽车厂商销量榜 富途牛牛",
+          "time": "07:34",
+          "title": "李想怒怼“黑水军”，新能源汽车发展不容恶意拉踩 |新京报评论 - Sohu",
+          "summary": "李想怒怼“黑水军”，新能源汽车发展不容恶意拉踩 |新京报评论 Sohu",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GNU94RUZHbERXa29DcU5GbzBaWEFGdTZyZkNJTjZmSXFCSUsteTdNMm82VWwwQlJzT1FONk1yTl9aT01vRVE2ZTlraFFyQQ?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFlJUGJkSk55NjlwakJUck1nOFdfdVpRTUZ3TWd1UjMyYURzX3E2clEwMFR1OUJycVY3OTl5dl9sU05vMkI1cVYzLUNKc0U0N21JMzIyb2psZ2puY2dYV3M0ODNsTGFWaHdKb0k3UFY1bXFEUDc2Ry12RDdJbWwzdmZUZkw2bXlG?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:17",
-          "title": "FREELANDER神行者剑指豪华新能源市场 全球CEO文飞：计划5年内推出6款车型 - 新浪财经",
-          "summary": "FREELANDER神行者剑指豪华新能源市场 全球CEO文飞：计划5年内推出6款车型 新浪财经",
+          "time": "07:32",
+          "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义 - thepaper.cn",
+          "summary": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义 thepaper.cn",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SVnRkaE81c3MzRkV0MGhnbmdwQVRQUFZtWnQwYnVSekVzMlZORnVFZWVFNjN1WHhYMFZWd0ticDZOOWZBaUFrN3FscE5aUWdPU093SU5jM1c1V2hBQjc1dGcwbmNfeVdGR1VtVXJ3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBweFdhV3JUQTNsT1FnelUtUTM1OENKb0FfSWdoWDM4cmY3VG5TRVJVUUJTVnJBTUdsTmZtWGliQnJPWTVLX1VUYXYxSk1tcDBaU1NZTHhGTjJvZ0M1anMyaA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "韩三楚：集中发力 大众今年将推超20款新能源车 - 凤凰网",
+          "text": "省制造业企业发明专利拥有量百强发布 金风科技入选 - ycnews.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5TWGpFbGNzc2tCUW1hbUpoQUlTU29UTGZBWjQ2VUVpVE1fNEVRdU1WbVpsUTJFRkljWHd6Wm5zVWJHY05GeG9sSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnYUZCZGdYUHRjbW5sUWNjSU5acE51NXVwZ0RyTU5SYWIwV2w5MEFucmg2Z28tUGM5Vkh2UW9veEtFYmp4VjcxSzdaMWJTd0htd2VnbVZsa292RWxwM0FfdA?oc=5"
         },
         {
-          "text": "智能电动2026｜廉玉波：新能源汽车产业确定性与不确定性并存，技术创新锚定用户真实体验 - 盖世汽车社区",
+          "text": "新能源SUV，扶光美学设计，天枢智能辅助+800V碳化硅平台+6C闪充 - 车家号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZRTVDQVpZcm00cnVoTjVlQzJnckR4UGJnM3Z2WU9QdktwT1d2VjBZb2hKX0RxWmdTNEMzMUNHT1VjOF9WMWRiU2dZYWtEUm9o?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9COS01VDFMVkZObTlEQWkxOUhFSE5PLUpFUVJnU290N0RvdnMxZDg1cnFYc2tJWS00Q0xqNWVpaXdoUWU5VTFESzhJWERfMTRoMy1pTjR1ZDVqZw?oc=5"
         },
         {
-          "text": "上高环，见真章！谁是新能源车省电之王？ - 凤凰网",
+          "text": "博时新能源主题混合A：2025年利润5142.62万元 净值增长率42.18% - 东方财富",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPSkRNMEQzRHJ6b2dMSy05LWR3RTE1dy1XYW1qQ1JQdnB2cExSYkJGenFNM2hsT2tCYXhhVElJeFh4Wnc2NlgxXw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DVUE3RTRiLWhKX1c0c2luUVhlQ2tsU3JuM0JRaDBnU1JPN1ZZMURUcEdOM1k3WFdmLTMwSUJGNG0zTUpmWEwxbEp0aXNmeGVPTnNya1F6dkk4VFR6T0hqQXRIcklIQQ?oc=5"
         },
         {
-          "text": "【视频】奇瑞新能源，月销量超7万辆，超级产品货架 - 汽车之家",
+          "text": "【视频】一条视频看清主流新能源车型冬天15分钟空调升温速度 - 车家号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxY0kxM1RyWEZVWW5yYkZSZVk0NkNaNFJJQW1WMG00d0tOeGN4OEpNdFpRZWVwQkpyTXBZLWJ5Q0hLTW5hR3RGLUh6TUJieVVKcFd4bXhVb2pUd3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTGoyMVAtSjZZR3FEYld5cnY4WXdHZk9HNmY2Z0EwZzFYX1dERU1SZnlVQ2doOEFOelQzR1IySWFrVkpFUE5ZRGVIMzA3U2VfcGhlazFscHhRYnM?oc=5"
         }
       ]
     },
@@ -123,23 +123,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
+          "title": "From conflict to catwalk: Women ex-combatants weave reconciliation in Colombia",
+          "summary": "Katerine Avella is a former combatant in Colombia’s decades-long civil war, a peace signatory and a community…",
+          "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167269"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:00",
           "title": "Putting humans at the centre: UN AI panel begins work on global impact study",
           "summary": "The UN’s Independent International Scientific Panel on AI – the first global body of its kind – is gearing up…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/04/1167263"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "Haiti’s freefall demands urgent global action as millions face hunger and violence",
-          "summary": "Haiti is facing “one of the most severe and rapidly deteriorating humanitarian crises in the Western Hemisphe…",
-          "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167283"
         }
       ],
       "briefs": [
+        {
+          "text": "Haiti’s freefall demands urgent global action as millions face hunger and viole…",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167283"
+        },
         {
           "text": "New era for space dawns as Artemis astronauts return",
           "source": "United Nations News",
@@ -154,11 +159,6 @@ window.dailyBrief = {
           "text": "Lebanon airstrike casualties ‘still under the rubble’ as ambulances, hospitals…",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/04/1167280"
-        },
-        {
-          "text": "MIDDLE EAST LIVE 10 April: Fear and uncertainty grow in Lebanon as conflict gri…",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167279"
         }
       ]
     },
@@ -171,42 +171,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "08:00",
-          "title": "Healthcare",
-          "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-c…",
+          "title": "Using projects in ChatGPT",
+          "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and col…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/academy/healthcare"
+          "url": "https://openai.com/academy/projects"
         },
         {
           "priority": "重点看点 02",
           "time": "08:00",
-          "title": "Using skills",
-          "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure…",
+          "title": "ChatGPT for marketing teams",
+          "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/academy/skills"
+          "url": "https://openai.com/academy/marketing"
         }
       ],
       "briefs": [
+        {
+          "text": "Our response to the Axios developer tool compromise",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/axios-developer-tool-compromise"
+        },
+        {
+          "text": "Using custom GPTs",
+          "source": "OpenAI",
+          "url": "https://openai.com/academy/custom-gpts"
+        },
         {
           "text": "Analyzing data with ChatGPT",
           "source": "OpenAI",
           "url": "https://openai.com/academy/data-analysis"
         },
         {
-          "text": "Writing with ChatGPT",
+          "text": "Using skills",
           "source": "OpenAI",
-          "url": "https://openai.com/academy/writing"
-        },
-        {
-          "text": "ChatGPT for marketing teams",
-          "source": "OpenAI",
-          "url": "https://openai.com/academy/marketing"
-        },
-        {
-          "text": "Brainstorming with ChatGPT",
-          "source": "OpenAI",
-          "url": "https://openai.com/academy/brainstorming"
+          "url": "https://openai.com/academy/skills"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:01",
-          "title": "Study of EUV Nanostructures Using AFM With High-Aspect Ratio Tip (Purdue, Intel, Bruker)",
-          "summary": "A new technical paper, “Characterizing tip-sample interaction dynamics on extreme ultraviolet nanostructures…",
+          "time": "03:19",
+          "title": "Silent Data Corruption: A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
+          "summary": "A new technical paper, “Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,” was pub…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/study-of-euv-nanostructures-using-afm-with-high-aspect-ratio-tip-purdue-intel-bruker/"
+          "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin/"
         },
         {
           "priority": "重点看点 02",
-          "time": "03:08",
-          "title": "Photonic Packaging Resistant to Extreme Environments (NIST, Johns Hopkins, U. Of Maryland)",
-          "summary": "A new technical paper, “Photonic chip packaging for extreme environments” was published by NIST, Johns Hopkin…",
+          "time": "21:00",
+          "title": "Terahertz Waves Spy on a Chip’s Internal Activity",
+          "summary": "Unlike Superman, researchers at Adelaide University in Australia don’t claim to possess X-ray vision, but the…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/photonic-packaging-resistant-to-extreme-environments-nist-johns-hopkins-u-of-maryland/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/sensing-with-terahertz-radiation"
         }
       ],
       "briefs": [
         {
+          "text": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust/"
+        },
+        {
+          "text": "Study of EUV Nanostructures Using AFM With High-Aspect Ratio Tip (Purdue, Intel…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/study-of-euv-nanostructures-using-afm-with-high-aspect-ratio-tip-purdue-intel-bruker/"
+        },
+        {
+          "text": "Photonic Packaging Resistant to Extreme Environments (NIST, Johns Hopkins, U. O…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/photonic-packaging-resistant-to-extreme-environments-nist-johns-hopkins-u-of-maryland/"
+        },
+        {
           "text": "Impact of Surface States And Band Modulations in Ruthenium Interconnects (Inche…",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/impact-of-surface-states-and-band-modulations-in-ruthenium-interconnects-incheon-hanyang-ut-dallas/"
-        },
-        {
-          "text": "PDN Challenges In DRAM-Based Compute-In-Memory Systems (UT Austin)",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/pdn-challenges-in-dram-based-compute-in-memory-systems-ut-austin/"
-        },
-        {
-          "text": "SSD Emulator For Massively Parallel, GPU-Centric Storage (KAIST)",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ssd-emulator-for-massively-parallel-gpu-centric-storage-kaist/"
-        },
-        {
-          "text": "Chip Industry Week In Review",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-133/"
         }
       ]
     },
@@ -267,23 +267,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
+          "title": "From conflict to catwalk: Women ex-combatants weave reconciliation in Colombia",
+          "summary": "Katerine Avella is a former combatant in Colombia’s decades-long civil war, a peace signatory and a community…",
+          "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167269"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:00",
           "title": "Putting humans at the centre: UN AI panel begins work on global impact study",
           "summary": "The UN’s Independent International Scientific Panel on AI – the first global body of its kind – is gearing up…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/04/1167263"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "Haiti’s freefall demands urgent global action as millions face hunger and violence",
-          "summary": "Haiti is facing “one of the most severe and rapidly deteriorating humanitarian crises in the Western Hemisphe…",
-          "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167283"
         }
       ],
       "briefs": [
+        {
+          "text": "Haiti’s freefall demands urgent global action as millions face hunger and viole…",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167283"
+        },
         {
           "text": "New era for space dawns as Artemis astronauts return",
           "source": "UN News",
@@ -298,11 +303,6 @@ window.dailyBrief = {
           "text": "Lebanon airstrike casualties ‘still under the rubble’ as ambulances, hospitals…",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/04/1167280"
-        },
-        {
-          "text": "MIDDLE EAST LIVE 10 April: Fear and uncertainty grow in Lebanon as conflict gri…",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167279"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:11",
-          "title": "宁波日报•数字报刊-企业管理不能“动手”，体罚员工已触碰法律红线 - 同花顺",
-          "summary": "宁波日报•数字报刊-企业管理不能“动手”，体罚员工已触碰法律红线 同花顺",
+          "time": "20:40",
+          "title": "新疆昌吉州融媒体中心与昌吉农高公司战略合作签约 - guan.media",
+          "summary": "新疆昌吉州融媒体中心与昌吉农高公司战略合作签约 guan.media",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zU21wemNUa3VmOGxQRTN1RmJnRjI3cXdyZ2w0a3p0a2VSMnVXeGJrRkRIcWttcFREdno0RmdfejhENERLdUhGa0JBallKblZsdWs3SERxanljdjVmWGc?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ieW1CcTRFQnJMYkNTLThpMUZENlhUelctd1QwdDdTdW5QZVBnU2RnMFdWTHhuWVkwM3pkQk1jV0pkeEdOMW9KNmhBakppaWw4QnBj?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "03:55",
-          "title": "保利发展（600048.SH）新增一起对外投资，被投资公司为广州市瑞中企业管理有限公司_公司新闻 - 证券之星",
-          "summary": "保利发展（600048.SH）新增一起对外投资，被投资公司为广州市瑞中企业管理有限公司_公司新闻 证券之星",
+          "time": "06:11",
+          "title": "宁波日报•数字报刊-企业管理不能“动手”，体罚员工已触碰法律红线 - 同花顺财经",
+          "summary": "宁波日报•数字报刊-企业管理不能“动手”，体罚员工已触碰法律红线 同花顺财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yZlJyRzVHSF94ZmVNM3ktS0JGejJaM3VFcFU2bnlTLTFCckVYdDhLTW9vSFo3WGxSOXBIQVB6V2NqWXdZRDdyS3h5X3JlMXR5M3lfYzN1Zm9oem51eWR5bDYwTlU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zU21wemNUa3VmOGxQRTN1RmJnRjI3cXdyZ2w0a3p0a2VSMnVXeGJrRkRIcWttcFREdno0RmdfejhENERLdUhGa0JBallKblZsdWs3SERxanljdjVmWGc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "宗馥莉在上海成立企业管理新公司 - Sohu",
+          "text": "保利发展（600048.SH）新增一起对外投资，被投资公司为广州市瑞中企业管理有限公司_公司新闻 - 证券之星",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNVdISTFHUE9tRFV1YzZCRVhHM0xNWVV1U1FpTFBCclVOcUdydnRvcWFqXzFQQ1NVenNmQXdRNlMyQ25lZHR2OGdmNGJ1M0owUkh3ZHUzN0lpdUUyWHBxcWQ3dE9CYnV1Z2ZCbHhWR3hNREFVdUhENy12bXEyVzFBX2Q3RzR1TzNy?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yZlJyRzVHSF94ZmVNM3ktS0JGejJaM3VFcFU2bnlTLTFCckVYdDhLTW9vSFo3WGxSOXBIQVB6V2NqWXdZRDdyS3h5X3JlMXR5M3lfYzN1Zm9oem51eWR5bDYwTlU?oc=5"
         },
         {
-          "text": "联迪信息股东南京联瑞迪福企业管理咨询中心（有限合伙）17天减持28.43万股，套现768.75万元 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2tPVXdYSkZXeXM0ajVIbVVlRWtyaXJJV21FeWFsdHM5NTV4LVplVURCQmtsZVFJWkZLeGhMTm1SdzhmdDMxRzRuNkpLemR4TjVBZ3VIVm04TXVXa3NIRlhTVkhjOHM2amFnb3JBNURfa0dqMEg4cHZwM3BDVVhwUHdnbUI?oc=5"
+          "text": "携手共赢聚力发展——金木集团与中国中检南美公司战略签约联谊会在阿根廷圆满举办_智利_新闻 - 华人头条",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKRm9oc18ybmZieG1QdkxCeGd2LTl6YkNoa1B2OFVhaTAyZmNjWnZUVXFKQzh1YWNqWlQwbVExUzEyaXFlSnRTUWExX1FKWDZVUnVGZFp5TFZUNFF1WWc?oc=5"
         },
         {
-          "text": "金天钛业：公司管理层高度重视市值管理工作 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tYzdXelpkbVFpZXdqZEoyN1pWREZvVDlXSHNWSy1BNjlVOWdVbmR6RlNUbmNmd0lfVkFrNXRYREpJa2N3SDc1Mnh6SF9iQUdzRDRxaVNQcGNRa2tsZnZzYg?oc=5"
+          "text": "外长维文：我国将继续维护关键矿产供应链韧性 - 华人头条",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWROZ1B3NUlnUGhOaEVYNUp2Zy11SUlQRk52TlgzUGdkc0ZPbkJ5MzgteXJxd0IxWjJrTjVyQVZQWXp5SWtOUGo5MkUwQVFFelZYNmRHV0FpZTZYVnNJVmxzSXBzUWJSNlhMMmh6a1gzVWFMUmhnbjI0dm1Wcks0dHc2UHBidlk?oc=5"
         },
         {
-          "text": "东华软件：公司管理层始终高度重视公司价值与投资者回报工作 - 东方财富",
+          "text": "联迪信息股东南京联瑞迪祥企业管理咨询中心（有限合伙）17天减持16万股，套现432.55万元 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvNWpLSml6QUhHVjRRTXJsZXhZd0JiNDB4UEtxOTdFbGdzdGNJUkpWbzJfd1NFdFBzaWRjcEYtdTdxTnM3UVdsMVBFVEVRMkVCcTRvd0dKNGhvbkdjQTRjUA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3lFYjRSX2RMbV9vY0pPM3k0NDdGM1pubkY0RW9lcnIzaVRzNU05VVZBRVN1eDZFb3czTlVEVWdZZFJ1Ul8yYTlQVzFBREhHMHRrU1RLbXQzeWZwOWhlamJ4S2cwSHVYWmVMQzA0ckZxMmJDMkRVNC13VndVdTJYeDZrMlU?oc=5"
         }
       ]
     }
