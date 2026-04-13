@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年4月13日",
+  "publishDate": "2026年4月14日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "李想怒怼“黑水军”，新能源汽车发展不容恶意拉踩 |新京报评论 - Sohu",
+      "title": "青企故事荟 | 创新奇智：打造制造业“企业级龙虾” - 青岛日报",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "This new chip could slash data center e…",
+      "title": "“Giant superatoms” could finally solve…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "From conflict to catwalk: Women ex-comb…",
+      "title": "Sudan: Top UN aid official warns of ‘ab…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:34",
-          "title": "李想怒怼“黑水军”，新能源汽车发展不容恶意拉踩 |新京报评论 - Sohu",
-          "summary": "李想怒怼“黑水军”，新能源汽车发展不容恶意拉踩 |新京报评论 Sohu",
+          "time": "06:25",
+          "title": "青企故事荟 | 创新奇智：打造制造业“企业级龙虾” - 青岛日报",
+          "summary": "青企故事荟 | 创新奇智：打造制造业“企业级龙虾” 青岛日报",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFlJUGJkSk55NjlwakJUck1nOFdfdVpRTUZ3TWd1UjMyYURzX3E2clEwMFR1OUJycVY3OTl5dl9sU05vMkI1cVYzLUNKc0U0N21JMzIyb2psZ2puY2dYV3M0ODNsTGFWaHdKb0k3UFY1bXFEUDc2Ry12RDdJbWwzdmZUZkw2bXlG?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55cXNlVG5pdWJVXzZESnA1Rndmd25aaWVzNDJ2RW1LU21YemRwM3Q4SFVaTVF0NkVkZ0dvR3FGZE1TX21QWk9zcGR4TTVQcEROYkRyN1BCT3A?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:32",
-          "title": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义 - thepaper.cn",
-          "summary": "圆桌｜规模已不是产业竞争核心，全球新能源车竞争节奏由中国来定义 thepaper.cn",
+          "time": "06:22",
+          "title": "“十五五”，向着制造强国加速迈进_新闻频道 - 厦门网",
+          "summary": "“十五五”，向着制造强国加速迈进_新闻频道 厦门网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBweFdhV3JUQTNsT1FnelUtUTM1OENKb0FfSWdoWDM4cmY3VG5TRVJVUUJTVnJBTUdsTmZtWGliQnJPWTVLX1VUYXYxSk1tcDBaU1NZTHhGTjJvZ0M1anMyaA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fOW1lWlJnUkpSSWg4ZmRpNkJLLVZCTmpzd0JPZUFOU2g4cGpINUxGQVZobkI1SGUzWkNVYldsOUVWcFRfUHFhcWNucGJhX3l2WTRoRDNlV3NuS1dzTlhuYjJwMWF3Wk1mMEE?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "省制造业企业发明专利拥有量百强发布 金风科技入选 - ycnews.cn",
+          "text": "产业生态定义新能源汽车未来 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnYUZCZGdYUHRjbW5sUWNjSU5acE51NXVwZ0RyTU5SYWIwV2w5MEFucmg2Z28tUGM5Vkh2UW9veEtFYmp4VjcxSzdaMWJTd0htd2VnbVZsa292RWxwM0FfdA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1weTh5RU1KQkFYQmZEMDZsb0xERElpNGQ3bmUxTFh0bXlkSkhGZkQ2cVJTQWktdGtGTkI3eDlSV2trWjVSeHd4QjhVS0drRWV4MEI3QU1sbmFFWmxUUEViVGxsdklBR0ZCTWhIM0hjTGt2aDRqaThuYQ?oc=5"
         },
         {
-          "text": "新能源SUV，扶光美学设计，天枢智能辅助+800V碳化硅平台+6C闪充 - 车家号",
+          "text": "新能源狂飙时代，荣威i6如何重新定义6万级国民家轿？ - SOHU",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9COS01VDFMVkZObTlEQWkxOUhFSE5PLUpFUVJnU290N0RvdnMxZDg1cnFYc2tJWS00Q0xqNWVpaXdoUWU5VTFESzhJWERfMTRoMy1pTjR1ZDVqZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbExEamQ2YU5uUVVieEJCTUZPTTBOX3RHS0piTUtDUlEwdm92N1hJdk1WTHlEX2EzZi1xeTlVd3FXQjRJM1hwSkJkWUplaF8yWDVUYVFoNDVKU1pLVzhHNVFNTFJlT2Z0VG1Pd3BoZ3dnWUpGN0trdjVQN2Q2UHlKM2VTRmR2Y0M4dTJv?oc=5"
         },
         {
-          "text": "博时新能源主题混合A：2025年利润5142.62万元 净值增长率42.18% - 东方财富",
+          "text": "暴力拆解电池易爆炸 新能源车电池包拆开仍带电 需放冷却液 用干冰吹防止变形 - 第一财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DVUE3RTRiLWhKX1c0c2luUVhlQ2tsU3JuM0JRaDBnU1JPN1ZZMURUcEdOM1k3WFdmLTMwSUJGNG0zTUpmWEwxbEp0aXNmeGVPTnNya1F6dkk4VFR6T0hqQXRIcklIQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KdmJfT25fNlBLandZcE1xM1dLcmNHRVVSQjJhWnQzeWdBWUhuNS13YWFpX01pT3R0XzJNUkVRMDZGMmsxSGhUUGp6anVkbGRvamNucw?oc=5"
         },
         {
-          "text": "【视频】一条视频看清主流新能源车型冬天15分钟空调升温速度 - 车家号",
+          "text": "【视频】领克08新能源2023款 220km 四驱性能Halo - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9zTGoyMVAtSjZZR3FEYld5cnY4WXdHZk9HNmY2Z0EwZzFYX1dERU1SZnlVQ2doOEFOelQzR1IySWFrVkpFUE5ZRGVIMzA3U2VfcGhlazFscHhRYnM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GRDk1LWtESGVGM2otWk1MMk5ueUJ5TGk0OXBwOEprVE00YWJLOGpUR0Y0ZnBvcktXbHVKSERkbGk4VkJJd1pyTlVrRjQ2WEdIV1RnMlRQbENIa2s?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "20:38",
+          "title": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
+          "summary": "In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sw…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "20:45",
           "title": "This new chip could slash data center energy waste",
           "summary": "A new chip design from UC San Diego could make data centers far more energy-efficient by rethinking how power…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "13:02",
-          "title": "Quantum computers keep losing data. This breakthrough finally tracks it",
-          "summary": "Quantum computers struggle with a major flaw: their information vanishes unpredictably. Scientists have now c…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260407193857.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Quantum computers keep losing data. This breakthrough finally tracks it",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260407193857.htm"
+        },
         {
           "text": "This new chip survives 1300°F (700°C) and could change AI forever",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "AI breakthrough cuts energy use by 100x while boosting accuracy",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260405003952.htm"
-        },
-        {
-          "text": "Scientists trap light in a layer 1,000x thinner than hair",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260405003957.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "From conflict to catwalk: Women ex-combatants weave reconciliation in Colombia",
-          "summary": "Katerine Avella is a former combatant in Colombia’s decades-long civil war, a peace signatory and a community…",
+          "title": "Sudan: Top UN aid official warns of ‘abandoned crisis’ as war enters fourth year",
+          "summary": "As Sudan’s war moves into a fourth year, civilians are still being killed, displaced and subjected to widespr…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167269"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167293"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Putting humans at the centre: UN AI panel begins work on global impact study",
-          "summary": "The UN’s Independent International Scientific Panel on AI – the first global body of its kind – is gearing up…",
+          "title": "US-Iran war: Guterres calls for continued talks, end to ceasefire violations",
+          "summary": "The United States and Iran must continue talks aimed at ending their weeks-long war, UN Secretary-General Ant…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167263"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167292"
         }
       ],
       "briefs": [
         {
-          "text": "Haiti’s freefall demands urgent global action as millions face hunger and viole…",
+          "text": "‘Clock is ticking’: Hormuz disruption raises fears of global food crisis",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167283"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167289"
         },
         {
-          "text": "New era for space dawns as Artemis astronauts return",
+          "text": "European Union support for the UN ‘more vital than ever’, Security Council hears",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167284"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167288"
         },
         {
-          "text": "Sudan: 14 million displaced; hunger and attacks on health continue as war enter…",
+          "text": "Tech gaps and budget cuts threaten global efforts to track and help the vulnera…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167281"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167287"
         },
         {
-          "text": "Lebanon airstrike casualties ‘still under the rubble’ as ambulances, hospitals…",
+          "text": "MIDDLE EAST LIVE 13 April: US-Iran talks falter; Strait of Hormuz uncertainty d…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167280"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167285"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:00",
-          "title": "Using projects in ChatGPT",
-          "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and col…",
+          "time": "23:48",
+          "title": "Why opinion on AI is so divided",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/academy/projects"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:00",
-          "title": "ChatGPT for marketing teams",
-          "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from…",
+          "time": "21:00",
+          "title": "Want to understand the current state of AI? Check out these charts.",
+          "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is takin…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/academy/marketing"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/"
         }
       ],
       "briefs": [
         {
-          "text": "Our response to the Axios developer tool compromise",
+          "text": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/axios-developer-tool-compromise"
+          "url": "https://openai.com/index/cloudflare-openai-agent-cloud"
         },
         {
-          "text": "Using custom GPTs",
+          "text": "ChatGPT for operations teams",
           "source": "OpenAI",
-          "url": "https://openai.com/academy/custom-gpts"
+          "url": "https://openai.com/academy/operations"
         },
         {
-          "text": "Analyzing data with ChatGPT",
+          "text": "Applications of AI at OpenAI",
           "source": "OpenAI",
-          "url": "https://openai.com/academy/data-analysis"
+          "url": "https://openai.com/academy/applications-of-ai"
         },
         {
-          "text": "Using skills",
+          "text": "ChatGPT for finance teams",
           "source": "OpenAI",
-          "url": "https://openai.com/academy/skills"
+          "url": "https://openai.com/academy/finance"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:19",
-          "title": "Silent Data Corruption: A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-          "summary": "A new technical paper, “Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,” was pub…",
+          "time": "22:00",
+          "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
+          "summary": "Q4 numbers reflect strengths and weaknesses in different segments. The post EDA And IP Numbers Up Again, But…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin/"
+          "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "Terahertz Waves Spy on a Chip’s Internal Activity",
-          "summary": "Unlike Superman, researchers at Adelaide University in Australia don’t claim to possess X-ray vision, but the…",
+          "time": "20:00",
+          "title": "Squishy Photonic Switches Promise Fast Low Power Logic",
+          "summary": "Photonic devices, which rely on light instead of electricity, have the potential to be faster and more energy…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/sensing-with-terahertz-radiation"
+          "url": "https://spectrum.ieee.org/soft-photonics"
         }
       ],
       "briefs": [
         {
-          "text": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
+          "text": "Startup Funding: Q1 2026",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust/"
+          "url": "https://semiengineering.com/startup-funding-q1-2026/"
         },
         {
-          "text": "Study of EUV Nanostructures Using AFM With High-Aspect Ratio Tip (Purdue, Intel…",
+          "text": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/study-of-euv-nanostructures-using-afm-with-high-aspect-ratio-tip-purdue-intel-bruker/"
+          "url": "https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/"
         },
         {
-          "text": "Photonic Packaging Resistant to Extreme Environments (NIST, Johns Hopkins, U. O…",
+          "text": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/photonic-packaging-resistant-to-extreme-environments-nist-johns-hopkins-u-of-maryland/"
+          "url": "https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-corruption-u-of-toronto/"
         },
         {
-          "text": "Impact of Surface States And Band Modulations in Ruthenium Interconnects (Inche…",
+          "text": "Silent Data Corruption: A Major Reliability Challenge in Large-Scale LLM Traini…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/impact-of-surface-states-and-band-modulations-in-ruthenium-interconnects-incheon-hanyang-ut-dallas/"
+          "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "From conflict to catwalk: Women ex-combatants weave reconciliation in Colombia",
-          "summary": "Katerine Avella is a former combatant in Colombia’s decades-long civil war, a peace signatory and a community…",
+          "title": "Sudan: Top UN aid official warns of ‘abandoned crisis’ as war enters fourth year",
+          "summary": "As Sudan’s war moves into a fourth year, civilians are still being killed, displaced and subjected to widespr…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167269"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167293"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Putting humans at the centre: UN AI panel begins work on global impact study",
-          "summary": "The UN’s Independent International Scientific Panel on AI – the first global body of its kind – is gearing up…",
+          "title": "US-Iran war: Guterres calls for continued talks, end to ceasefire violations",
+          "summary": "The United States and Iran must continue talks aimed at ending their weeks-long war, UN Secretary-General Ant…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167263"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167292"
         }
       ],
       "briefs": [
         {
-          "text": "Haiti’s freefall demands urgent global action as millions face hunger and viole…",
+          "text": "‘Clock is ticking’: Hormuz disruption raises fears of global food crisis",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167283"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167289"
         },
         {
-          "text": "New era for space dawns as Artemis astronauts return",
+          "text": "European Union support for the UN ‘more vital than ever’, Security Council hears",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167284"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167288"
         },
         {
-          "text": "Sudan: 14 million displaced; hunger and attacks on health continue as war enter…",
+          "text": "Tech gaps and budget cuts threaten global efforts to track and help the vulnera…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167281"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167287"
         },
         {
-          "text": "Lebanon airstrike casualties ‘still under the rubble’ as ambulances, hospitals…",
+          "text": "MIDDLE EAST LIVE 13 April: US-Iran talks falter; Strait of Hormuz uncertainty d…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167280"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167285"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "20:40",
-          "title": "新疆昌吉州融媒体中心与昌吉农高公司战略合作签约 - guan.media",
-          "summary": "新疆昌吉州融媒体中心与昌吉农高公司战略合作签约 guan.media",
+          "time": "01:08",
+          "title": "米奥会展：公司管理层将继续聚焦主营业务，努力提升经营业绩 - 东方财富",
+          "summary": "米奥会展：公司管理层将继续聚焦主营业务，努力提升经营业绩 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ieW1CcTRFQnJMYkNTLThpMUZENlhUelctd1QwdDdTdW5QZVBnU2RnMFdWTHhuWVkwM3pkQk1jV0pkeEdOMW9KNmhBakppaWw4QnBj?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBXb1ZScUxkb2t0Z09KYkRIaVd1X0dEMUdRYU9VMzNkMTVMdmlJamYtd3NtWmh4c0piMU9BeEFRdFZqVG1XQVgyWktQTDA1Q2FaQ3VhTGpzbk9EVkdmZ1ByX3ZXOHpwZw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:11",
-          "title": "宁波日报•数字报刊-企业管理不能“动手”，体罚员工已触碰法律红线 - 同花顺财经",
-          "summary": "宁波日报•数字报刊-企业管理不能“动手”，体罚员工已触碰法律红线 同花顺财经",
+          "time": "21:31",
+          "title": "星网锐捷：公司战略聚焦以数据中心网络、光通信设备为代表的网络通信基础业务 - 东方财富",
+          "summary": "星网锐捷：公司战略聚焦以数据中心网络、光通信设备为代表的网络通信基础业务 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zU21wemNUa3VmOGxQRTN1RmJnRjI3cXdyZ2w0a3p0a2VSMnVXeGJrRkRIcWttcFREdno0RmdfejhENERLdUhGa0JBallKblZsdWs3SERxanljdjVmWGc?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IWUN3Wi1IcXVsU2Z6RWxtWUR2NWZUY3dSOW1ZSHNVRWtPa1Q5aXRKaU5NUmRXVEwybWpQdzJaSmJSUlJtcEllWWRrazRpc2tvTTNqVERZQTFmRmZJMDJlanNHV1k?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "保利发展（600048.SH）新增一起对外投资，被投资公司为广州市瑞中企业管理有限公司_公司新闻 - 证券之星",
+          "text": "华东医药：公司管理层始终以提升公司价值为核心目标 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yZlJyRzVHSF94ZmVNM3ktS0JGejJaM3VFcFU2bnlTLTFCckVYdDhLTW9vSFo3WGxSOXBIQVB6V2NqWXdZRDdyS3h5X3JlMXR5M3lfYzN1Zm9oem51eWR5bDYwTlU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBcE5jdy1aTWhMcGt0bFlYTHdJRUtPM0w2TjMyRHBsS3pjUUppaTJRMGdXeWFhRTBDOVM3S2F1ZHBXZFlvQW52YkdJOVpJNUVEMWFWMm1MaGlEREdaUWJkSVg2MXA?oc=5"
         },
         {
-          "text": "携手共赢聚力发展——金木集团与中国中检南美公司战略签约联谊会在阿根廷圆满举办_智利_新闻 - 华人头条",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKRm9oc18ybmZieG1QdkxCeGd2LTl6YkNoa1B2OFVhaTAyZmNjWnZUVXFKQzh1YWNqWlQwbVExUzEyaXFlSnRTUWExX1FKWDZVUnVGZFp5TFZUNFF1WWc?oc=5"
-        },
-        {
-          "text": "外长维文：我国将继续维护关键矿产供应链韧性 - 华人头条",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWROZ1B3NUlnUGhOaEVYNUp2Zy11SUlQRk52TlgzUGdkc0ZPbkJ5MzgteXJxd0IxWjJrTjVyQVZQWXp5SWtOUGo5MkUwQVFFelZYNmRHV0FpZTZYVnNJVmxzSXBzUWJSNlhMMmh6a1gzVWFMUmhnbjI0dm1Wcks0dHc2UHBidlk?oc=5"
-        },
-        {
-          "text": "联迪信息股东南京联瑞迪祥企业管理咨询中心（有限合伙）17天减持16万股，套现432.55万元 - 新浪财经",
+          "text": "常青科技：公司管理层薪酬严格按照公司薪酬管理制度执行 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3lFYjRSX2RMbV9vY0pPM3k0NDdGM1pubkY0RW9lcnIzaVRzNU05VVZBRVN1eDZFb3czTlVEVWdZZFJ1Ul8yYTlQVzFBREhHMHRrU1RLbXQzeWZwOWhlamJ4S2cwSHVYWmVMQzA0ckZxMmJDMkRVNC13VndVdTJYeDZrMlU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XZWdnT09mSThJNkpxdVBrWTc4ZnVMQ3lremcwMzVYWnZNbTVKYjRJN1dOcWp6YnhFbmZpUlhRNkY2YW5EZExoU3BleXptUVcydUtUYU1KMFZSUGVoLXBtQk9Wb0RMZw?oc=5"
+        },
+        {
+          "text": "千里科技：公司董事长印奇先生主要负责公司战略制定与资源统筹，能确保充分履职 - 东方财富",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BQ0cxaktBOFIwWl9DUkR4amxLQ3pLTVNDRk1iM28wODdSVlRKSVQzRElMbDlCOURTSkd6SDVDb25aaHNZaDB0SVlqQ1dySjgwNDY2WEFzOG8xNXJnQXpZVnJ0S1J2UQ?oc=5"
+        },
+        {
+          "text": "豆神教育：公司管理层持续优化并迭代产品模式，以更好地满足用户需求 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SVVQ2bFQ5eUVkaW9ZNlB4SzM4azV4Q1pnNWNTMHM3U3MxLTRNTzJscUpzdUYzbmE3clRqUnJ6OEl3RU5VSlVKRXJxTTVjanB3SFlVZXpNa1pDdWVuYWlvdUZTMTQ?oc=5"
         }
       ]
     }
