@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年4月17日",
+  "publishDate": "2026年4月18日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "新能源车牌绿色变白色？公安部提醒：违法！ - 新浪财经",
+      "title": "美国据悉考虑收紧汽车进口规定以加速制造业回流 - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Strength in numbers: Developing countri…",
+      "title": "Sudan: Three quarters of women feel uns…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:50",
-          "title": "新能源车牌绿色变白色？公安部提醒：违法！ - 新浪财经",
-          "summary": "新能源车牌绿色变白色？公安部提醒：违法！ 新浪财经",
+          "time": "07:11",
+          "title": "美国据悉考虑收紧汽车进口规定以加速制造业回流 - 新浪财经",
+          "summary": "美国据悉考虑收紧汽车进口规定以加速制造业回流 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVXFYLXFaOFVQbi1FWXFINExUbUowTk9sUEg0aldabVVUODRUYlQxQjFMMVhlbzZrSlVXTTkzcU9lQmV5SlE1TFdnQ0ZwTUVUWnNuZU1fczdndFBzeVhWN3dWMVBHUWxjY2FTcWVOWEd1dlNWbmJQWExCV2hZRDZDQk1ZbV8taUh4dGpYX0Y5Q2EtbWJsNElPMDhnYXVuVVYwOExfaEZTSnQyNWVpTTNjRy0wLWhrXzdtMVZSSy1EVzZQWV9Ib192ay1MbzRyY3NPQVJMcVJTWlI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNV0NlSHgwbm9kRU1oTS1WS3NOMDNVSlRqcWQ2LVk3T2RXQmRacmktc1E0bXBadDlQWDlrMlN0YldULTRmOVhxWU9neklramZHbGw4VEhhZVA1Q1ZpbElXbmVueGcwTkQwN1U1ZVlrc29IVjNkSTNEbUtVd1k3QVlSNkI4T3RWaTVGZkVhU0xtR2tvRXZDUDYzZDhzUWtnYzJwN0M2QlVhQnBCcTBKbGRWWlNZb1hPLWJCYnl2TlpWZklCNG1hdHgtMjd3cUhpMVlBQ3pCTXp3M2QtN18tRl9EamhiYzBja1A3NWZUZGNGdVdsSzZ1MTFNNWdfeXJvQ1ZkTDJveFg3WFRtM205Vy16a1pPYWhnNHc5amNHR1EyOA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:46",
-          "title": "创业板指创近11年新高 人工智能、新能源主线集体爆发 - 证券时报",
-          "summary": "创业板指创近11年新高 人工智能、新能源主线集体爆发 证券时报",
+          "time": "06:17",
+          "title": "把握新能源汽车全球化新机遇 - 新浪财经",
+          "summary": "把握新能源汽车全球化新机遇 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01NTZBSF8xUU9takJkZmdtbWpMWDE4WVJrZHFVLWQ1aXRONmJqTlJmYmxKMFVGNk1MdkJGN2lNZnBSbGVtUFRCTEpjMGVjNzJwbC1EdkJFQzRhMFN2?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SaTRYUEZGY29fMF9ObkMtRDdUd0VuVWRpQzZnemNRa1MydEFvN2ZGcTZLX1dDUjZiTmptRHh3bGpScHVyWnI3SFY3X3BWZFJzNEItUGQ4Uk5qbjRGV0VkeXRCQTkxNnF0ejBYRkY2OXpxUjRNSl9iNA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "苏州新能源汽车消费热度持续走高 - 江苏省委新闻网",
+          "text": "美国据悉考虑收紧汽车进口规定以加速制造业回流 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOEIxTmUxdUJqWDZVbzBkUDRhVHA3SE1BSFRwV0d5SWdHMkpYdFVISllrSlI2UHZhRl9QcnZMZTlNMHJ6TFVNQW83SHRDN3U5el9tZkVsTGNiRWo3Y3o2azdyOXhDZFVybDBxOHZBOWtGTmhRRkxmVEtKbHJWYlB5V3F3Ykc3YUU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oUzRrZGdzRTQzdnlWZmN6Z0RpTTZubkk1NDd6TlRVYjY0MVBwTVFyek1GM0dGWFJmcVVoZDBQNjlBcFV5Z3FZdVJnMlN2bWc?oc=5"
         },
         {
-          "text": "【热点资讯】5.7%！3 月工业增速稳健回升，新动能持续发力，中国工业经济开门稳、动力足！ - 新浪财经",
+          "text": "电池热失控！又一新能源车召回 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXJmRkpLOURuT25ndV95bWFXRTdCXzljbUY2eU82b3VBdWVkd1k0Ql9PQ2hCdWNpZENfLUZUWW9NTkJjcGxENVcyTWdNZHRoZWFXY1VKZHZJdGJ1a2w4aTJUMWtXOERKUFlINnFKX1NHVlc5bElkSE1XYTVleWkwNGE2VmVVZVAtSzdoMG5iOFVHZWlnYk9OZTBWZTBGSVhYcHJyVUpFM1RGWXlPdmx3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QM1JIV2xINXBDZEUzRGF2ejZfendydl9EVmhYUUFSeWFzU1BfQnIwNWJZTmdISVN2emYtWGlNMDgxNlZPSWJhN0dnei1raThpZkw3ZWhpWkh6a0VSQjFIM1Vwc2FPZEVFZDFkNmhGNV9OQ3pLaUE?oc=5"
         },
         {
-          "text": "【数读IPO】新能源电池设备头部供应商今日上市 - 财联社",
+          "text": "比亚迪第1600万辆新能源车下线_新浪新闻 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44TVN2alVaZ1F6TXY4SFhLclNlWF9lR2lCVnhjckhlNWZrNzBlRkZySkd1WDRrYUhpeHhsdTI3QTVsUl8zc3dlcA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ba0JyM0hwZm1VM2NXQzNlR3RmbUw5R2VDVWNYVFBRQ2cyZnFwSWVselZnX1FYcW8zT1JzWmJ2QUVIVWVVLWlVM2FLQVN2T2VCZ3RZdTVBWjJ4UzdINDR4WFowdw?oc=5"
         },
         {
-          "text": "用实力加速全球公交电动化！比亚迪做到了！中国客车信息网最新数据：2026年3月，比亚迪新能源客车出口同比增速21.52%，超行业平均水平。一季度累计出口115…",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HNjJRUHYzWGhqVUFPNm9SbUs0Wm5IZ1lGRmp4aGdGVFdLOVJNeG8wMjM3MzE3RFM4eExvUWd2TWpoNWhTSUxqTHlQSnI3SVNEUzlaMkhiUmt4WWsxbDhjOTZJbw?oc=5"
+          "text": "淮安区电商物流园：数智驱动 产业融合 激活数字经济新引擎 - 中国江苏网",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONHNWd0VKR2t6Q1Q2YnJOWWNoVnlQTnhWbTV2dEEwbEhyb3VmMk0zLW9jcXVwdUFiYXJSUjhIN1djcFp0THdUYWd6Z0NvZTNPSXdoLXM3ZndYOVZtWjFXSWVCR3YwT25JX2t1Qk03QWI3emN3bWtYZjQ0eU1DZ0ZmQXZpTkIzM1N1LUZLNA?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Strength in numbers: Developing countries band together as Iran war batters global economy",
-          "summary": "Developing countries are banking on having a stronger voice in debt negotiations, following the launch of a n…",
+          "title": "Sudan: Three quarters of women feel unsafe as war rages on",
+          "summary": "Across war-torn Sudan, women and girls “are telling a consistent story of continued experience of danger, and…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167308"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167330"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
-          "summary": "Foreign ministers from across the world met in Berlin on Wednesday to show support for Sudan, where a fourth…",
+          "title": "World News in Brief: Myanmar amnesty, rising needs in Afghanistan, another power loss at Ukraine nuclear plant",
+          "summary": "Authorities in Myanmar released the country’s ousted president from prison on Friday, along with some 4,000 o…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167309"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167329"
         }
       ],
       "briefs": [
         {
-          "text": "Tobago’s teen archery champion takes aim at sustainability targets",
+          "text": "More than half of Haitians continue to face food crisis",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167310"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167328"
         },
         {
-          "text": "Africa: Nearly 20 million measles deaths averted since 2000",
+          "text": "UNESCO grants ‘enhanced protection’ to cultural heritage sites in the Middle Ea…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167307"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167326"
         },
         {
-          "text": "Youth shape the road to 2030, call for urgent action on sustainable development",
+          "text": "‘Slaughtered like goats’: Despair and abandonment in South Sudan",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167306"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167327"
         },
         {
-          "text": "SECURITY COUNCIL LIVE: Security fears rise in eastern DR Congo",
+          "text": "As the ‘world court’ turns 80, Guterres says law must prevail over force",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167304"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167322"
         }
       ]
     },
@@ -170,24 +170,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "18:00",
+          "title": "How robots learn: A brief, contemporary history",
+          "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "21:00",
           "title": "Making AI operational in constrained public sector environments",
           "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adop…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "Treating enterprise AI as an operating layer",
-          "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The publ…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/"
         }
       ],
       "briefs": [
+        {
+          "text": "Treating enterprise AI as an operating layer",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/"
+        },
         {
           "text": "Why having “humans in the loop” in an AI war is an illusion",
           "source": "MIT Technology Review AI",
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "Introducing GPT-Rosalind for life sciences research",
           "source": "OpenAI",
           "url": "https://openai.com/index/introducing-gpt-rosalind"
-        },
-        {
-          "text": "Accelerating the cyber defense ecosystem that protects us all",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem"
         }
       ]
     },
@@ -218,24 +218,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:10",
-          "title": "Panel-Level Packaging’s Second Wave Meets Engineering Reality",
-          "summary": "The cost case is strengthening, but glass, warpage, and bonding yield stand in the way. The post Panel-Level…",
+          "time": "22:39",
+          "title": "Emulation-based SoC Security Verification (U. of Florida)",
+          "summary": "A new technical paper, “Emulation-based System-on-Chip Security Verification: Challenges and Opportunities,”…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/emulation-based-soc-security-verification-u-of-florida/"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "15:01",
+          "title": "Chip Industry Week In Review",
+          "summary": "From shoes to GPUs; super agents; TSMC, ASML results; new chiplets and test facilities; Stanford AI index; ph…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-134/"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Panel-Level Packaging’s Second Wave Meets Engineering Reality",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/panel-level-packagings-second-wave-meets-engineering-reality/"
         },
         {
-          "priority": "重点看点 02",
-          "time": "15:09",
-          "title": "Chiplet Standards Aim For Plug-n-Play",
-          "summary": "They're necessary, but insufficient for a marketplace. The post Chiplet Standards Aim For Plug-n-Play appeare…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "text": "Chiplet Standards Aim For Plug-n-Play",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/chiplet-standards-aim-for-plug-n-play/"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Silicon Photonics Lights The Way To More Efficient Data Centers",
           "source": "Semiconductor Engineering",
@@ -245,16 +255,6 @@ window.dailyBrief = {
           "text": "eBeam Initiative At SPIE ALP 2026: Continuing Progress On Curvilinear, EUV, And…",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/ebeam-initiative-at-spie-alp-2026-continuing-progress-on-curvilinear-euv-and-data-challenges/"
-        },
-        {
-          "text": "Breakthrough Thin GaN Chiplet Technology",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/breakthrough-thin-gan-chiplet-technology/"
-        },
-        {
-          "text": "Unraveling DRAM SAQP Process Complexity With Monte Carlo Virtual Fabrication",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/unraveling-dram-saqp-process-complexity-with-monte-carlo-virtual-fabrication/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Strength in numbers: Developing countries band together as Iran war batters global economy",
-          "summary": "Developing countries are banking on having a stronger voice in debt negotiations, following the launch of a n…",
+          "title": "Sudan: Three quarters of women feel unsafe as war rages on",
+          "summary": "Across war-torn Sudan, women and girls “are telling a consistent story of continued experience of danger, and…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167308"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167330"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "‘Sudan is an atrocities laboratory’, UN aid chief tells Berlin conference",
-          "summary": "Foreign ministers from across the world met in Berlin on Wednesday to show support for Sudan, where a fourth…",
+          "title": "World News in Brief: Myanmar amnesty, rising needs in Afghanistan, another power loss at Ukraine nuclear plant",
+          "summary": "Authorities in Myanmar released the country’s ousted president from prison on Friday, along with some 4,000 o…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167309"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167329"
         }
       ],
       "briefs": [
         {
-          "text": "Tobago’s teen archery champion takes aim at sustainability targets",
+          "text": "More than half of Haitians continue to face food crisis",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167310"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167328"
         },
         {
-          "text": "Africa: Nearly 20 million measles deaths averted since 2000",
+          "text": "UNESCO grants ‘enhanced protection’ to cultural heritage sites in the Middle Ea…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167307"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167326"
         },
         {
-          "text": "Youth shape the road to 2030, call for urgent action on sustainable development",
+          "text": "‘Slaughtered like goats’: Despair and abandonment in South Sudan",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167306"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167327"
         },
         {
-          "text": "SECURITY COUNCIL LIVE: Security fears rise in eastern DR Congo",
+          "text": "As the ‘world court’ turns 80, Guterres says law must prevail over force",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167304"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167322"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:43",
-          "title": "乔治白(002687):控股子公司管理办法（2026年4月） - 中财网",
-          "summary": "乔治白(002687):控股子公司管理办法（2026年4月） 中财网",
+          "time": "21:30",
+          "title": "证监会明确社保基金等可作为上市公司战略投资者 - 观点网",
+          "summary": "证监会明确社保基金等可作为上市公司战略投资者 观点网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LMmk5VW1NSjIzaDFydlRzdTlnMmhiU0gzX2gwOGpvYWtTR3RpQlZLZGYwbXk3Mk93UkZ3ak9uYjk1MGx4dGV6QmF3Vzd0NTc1cDVGQWFB?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HS1R1NG9yNWJIUnVLNUN0VkJZR3BadENfR0xncVh6bWdVYlJ2dXRKQUQ1WjRkR0NacWcyVHRvQnVmVmplWGNyY3V6TFBXUQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "20:49",
-          "title": "思瑞浦：公司管理层及持股5%以上股东近期已作出不减持承诺 - 东方财富",
-          "summary": "思瑞浦：公司管理层及持股5%以上股东近期已作出不减持承诺 东方财富",
+          "time": "16:12",
+          "title": "多地开店却合规失守 “王柠”品牌运营公司因特许经营违规被罚2万元 - 信网",
+          "summary": "多地开店却合规失守 “王柠”品牌运营公司因特许经营违规被罚2万元 信网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wRUFUTGRBM3lSUWxqSGk3U0J4UzVMenVFbUFSdHYzd3ZHaC1YbDFLemxva0xWVU1TalNJTlBXMU44NllHWUZ6UnFveFZIQ28tUUszR2xGMi1vSXNta0Y5UzctUG0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11YlJtMm1aOGI3SS1KVUd4LU05aU1XN1dPSmFMU012Ny1MY2tPRWtMb2k5MERmYXg4Ymo3NXV5bnFETDhrS290aXoxOGI?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "凯格精机：公司管理层持续做好各项经营工作 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04UnBWT0JYWlVZWWktM1gwMVBYd0tGMEoxRjVkMnpBaktRSk8zVzlIakFqY2c3NGMxLWVrSUZVV3R2clFTT291ekZvMUdseGtRekZTdjZRa0FPNjNlUlRTbzdYZEFmUQ?oc=5"
+          "text": "多重考验中的中国家电出口：从广交会看供应链韧性构建 - 21财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakZ1aVZ5aEpqVzdPZzZPMVoxR2pVRkxSSGxZNURQbVRUcHdIV19QSnFjYWtYQVRsM2sxM3Nmb2h1b19HRGViQVVNZUNqMkplcEtFbm1UbnJuRVJkLTI4MWc2VENfRy15MW96ZVhVQVc2czF3Z3VkdEVVOW1yUWh5T1I3ZFlIYlVWUXVpYUgxNA?oc=5"
         },
         {
-          "text": "京粮控股：公司管理层始终重视公司价值与投资者利益 - 东方财富",
+          "text": "派诺科技股东珠海乐派企业管理中心（有限合伙）拟减持69.4万股套现981.32万元，为首次减持 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjZW9vNmpTT0RqdTcxNXZpc3VFbUV2Rk82YV9OdFV0MUhQOXJ0Z1M0dGJSellmWjEwcDJZVnAwc1BJd2lfRDJYd095Vm1TRFZ4NEFFVERQRGVEaVNXZkJsanVKdGI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWjBuZ0VZZUxOZm5Ma0pJVTBZR25qNDJVXzN3djNDNjFpVkNzRmFYT1pVRndWalJQdGtwVW1GV0hvbWRHUHpfbVB6T1M3R180SXZtNVVkUV8zdWlXTzFhejkyUHZKWDhiV3E4V1QzeDJRYWQ1Q0w1WEFPZEJCY0ZJUlc3Y3FMRHdUN0hxVDJmWlpDV3lONnV1Rg?oc=5"
         },
         {
-          "text": "芳源股份(688148):深圳市他山企业管理咨询有限公司关于广东芳源新材料集团股份有限公司2024年限制性股票激励计划授予的部分限制性股票作废失效事项的独立财…",
+          "text": "涉嫌严重违纪违法，海关总署企业管理和稽查司原司长王胜被查 - 证券时报",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0ZTBoOC1ZNVFNdXB2d29VQnlSdWNJR3JlSllXTFlWSDZXeFVrR0RSN3M0TDkteDhzVjhvUG5uTmE1Skg1bmFQTlNBSWcwTTgyYmotdVJ3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfNXhiaVc4bUVvYmdyMEhmal9MQ1pvSVoxYzBUczFMSlMzQWJ0REc5STFUYnBSTmpwUTQ4ZXp4cmVXVWFabTdkQWVuc1JpME1YRzBoYndQazRHRjFLeGc?oc=5"
         },
         {
-          "text": "海关总署企业管理和稽查司原司长王胜接受审查调查 - chinanews.com.cn",
+          "text": "华新精科：公司管理层将持续深耕主业，推动公司可持续发展 - 东方财富网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3THJsM2Q5OV9XMHB2aURPX0lRakFJUWFWSXl1T05xSWxsVmtNS1NQQldxbjJyUDA0SlN6NElkSEpxOTZQVmpkNW9iWV9iSFZid09pUWdycExGTkllYTU5dEFsWkNHc3d6?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRN1NvQ1FsSEpLT0dVMk9UREJWUUJXWmFSNWtocV9IdnR5VTJ3dkJjWV9VWlRpTHJiT25vM2JXS2hRNnVCVVozaDh5WERja0pObExxaUdGZ3BBNE40TW52VA?oc=5"
         }
       ]
     }
