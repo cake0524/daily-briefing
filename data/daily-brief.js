@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年4月18日",
+  "publishDate": "2026年4月19日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "美国据悉考虑收紧汽车进口规定以加速制造业回流 - 新浪财经",
+      "title": "新能源大块头，车长5.1米、宽2米，6座/7座布局，CLTC续航605公里 -…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "AI identifies early risk patterns for s…",
+      "title": "Artificial neurons successfully communi…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Sudan: Three quarters of women feel uns…",
+      "title": "Why lower fertility does not have to me…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:11",
-          "title": "美国据悉考虑收紧汽车进口规定以加速制造业回流 - 新浪财经",
-          "summary": "美国据悉考虑收紧汽车进口规定以加速制造业回流 新浪财经",
+          "time": "07:18",
+          "title": "新能源大块头，车长5.1米、宽2米，6座/7座布局，CLTC续航605公里 - 搜狐网",
+          "summary": "新能源大块头，车长5.1米、宽2米，6座/7座布局，CLTC续航605公里 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNV0NlSHgwbm9kRU1oTS1WS3NOMDNVSlRqcWQ2LVk3T2RXQmRacmktc1E0bXBadDlQWDlrMlN0YldULTRmOVhxWU9neklramZHbGw4VEhhZVA1Q1ZpbElXbmVueGcwTkQwN1U1ZVlrc29IVjNkSTNEbUtVd1k3QVlSNkI4T3RWaTVGZkVhU0xtR2tvRXZDUDYzZDhzUWtnYzJwN0M2QlVhQnBCcTBKbGRWWlNZb1hPLWJCYnl2TlpWZklCNG1hdHgtMjd3cUhpMVlBQ3pCTXp3M2QtN18tRl9EamhiYzBja1A3NWZUZGNGdVdsSzZ1MTFNNWdfeXJvQ1ZkTDJveFg3WFRtM205Vy16a1pPYWhnNHc5amNHR1EyOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzRoZUkwbURPSGQyZW5zMkZaTzlUanJBbXZQZm1IQ3o5bkgxSzcxZmwyaDVJT1RnRUlqci1aUFBCY2g1bmt1dUktUlpud04wdEdCMVQtdkEwTk1sNUVKcURyTWJLdG04N004aEd0X3FCdUdKOGZLUzY1amlrTjJzWi1UT2tCMGljX25TNg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:17",
-          "title": "把握新能源汽车全球化新机遇 - 新浪财经",
-          "summary": "把握新能源汽车全球化新机遇 新浪财经",
+          "time": "02:14",
+          "title": "沃尔沃S90新能源最高降23.1万 - 太平洋汽车",
+          "summary": "沃尔沃S90新能源最高降23.1万 太平洋汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1SaTRYUEZGY29fMF9ObkMtRDdUd0VuVWRpQzZnemNRa1MydEFvN2ZGcTZLX1dDUjZiTmptRHh3bGpScHVyWnI3SFY3X3BWZFJzNEItUGQ4Uk5qbjRGV0VkeXRCQTkxNnF0ejBYRkY2OXpxUjRNSl9iNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RMVd4dDN1a1FBNFRUTVN0NDRUQTk4X3FIZzRpMjVoaWRjMXdhc3BtcGtlNWRDTlpFaHFOZC1WWUZUWGZ3RDF0aHZRbW0tZjBmVGptblhkMnFOVEpBeHJiYUl0NFJieXBy?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "美国据悉考虑收紧汽车进口规定以加速制造业回流 - 新浪财经",
+          "text": "广交会外场变身“食在广州”嘉年华|广州市|制造业|广东省|机器人|采购商_手机新浪网 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oUzRrZGdzRTQzdnlWZmN6Z0RpTTZubkk1NDd6TlRVYjY0MVBwTVFyek1GM0dGWFJmcVVoZDBQNjlBcFV5Z3FZdVJnMlN2bWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMVl0cnNVOU1hZWdqMWN6eFY4RzVZVE43QmFQTUU4NUc5RjJCQTVfdnpJekc3MHdyQVpPMnBnZkhTQk5HWU5HT2Y4SlMyWWNKMWdWbmlNSTJKVFJxc0d3NllkWkRERDlpSlFsb1lma1pHeDFvQnlqUDFxZEFBaEhOMVo0a1NXRHF5NUEwc0Y4VzY5MEZsSFZPZWpJNVc0R2RybnJKT0dZZms5OVEzRGFiZXVNQThFZDNuTUl3cm94M0VpeklaYWIzY0UyNG04MkY4Q1VXQUJzdVFJX2lnTWhZUUZRQVRsVkFhOElUZmN3ZzVZTDBkNFVVTHpIaTMySGpE?oc=5"
         },
         {
-          "text": "电池热失控！又一新能源车召回 - 新浪财经",
+          "text": "【视频】马自达再遇梁家辉！长安马自达新能源不塞车，这是要代言？ - 车家号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QM1JIV2xINXBDZEUzRGF2ejZfendydl9EVmhYUUFSeWFzU1BfQnIwNWJZTmdISVN2emYtWGlNMDgxNlZPSWJhN0dnei1raThpZkw3ZWhpWkh6a0VSQjFIM1Vwc2FPZEVFZDFkNmhGNV9OQ3pLaUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95SlVqc2hPSEduVGdRTXpnUWpOSVl4V05tZ2dxYk5uUWdFcXR0ajVSY29TbU55YVdtYmQ5NU8tZHZITVJpMm9uRDRxVWJDeEVhRVhiVF8tY1lIUGc?oc=5"
         },
         {
-          "text": "比亚迪第1600万辆新能源车下线_新浪新闻 - 手机新浪网",
+          "text": "极氪，攻向“BBA”腹地 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ba0JyM0hwZm1VM2NXQzNlR3RmbUw5R2VDVWNYVFBRQ2cyZnFwSWVselZnX1FYcW8zT1JzWmJ2QUVIVWVVLWlVM2FLQVN2T2VCZ3RZdTVBWjJ4UzdINDR4WFowdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOThUYUt4X0dHTFJKdFFOTXB6a2xNRUQ4N0tFQUV1d1JhUUQxUUs3LUxZWnVZbmV1NjJLOHdIbmNENXFzNkxUYS1majU2c3RsUkJFa1lEWWNPNzRLeTlnOWZJcXJHUkh6UVhkbVNyR0pSdUZkTXJyZ2RreTAxYmRqRFZxbjFySVg1em1oQkJaWDRpNzQ5bzVhM21MVDhyMS1jRWxOSWRmcVlORXo0VUdoYkVn?oc=5"
         },
         {
-          "text": "淮安区电商物流园：数智驱动 产业融合 激活数字经济新引擎 - 中国江苏网",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONHNWd0VKR2t6Q1Q2YnJOWWNoVnlQTnhWbTV2dEEwbEhyb3VmMk0zLW9jcXVwdUFiYXJSUjhIN1djcFp0THdUYWd6Z0NvZTNPSXdoLXM3ZndYOVZtWjFXSWVCR3YwT25JX2t1Qk03QWI3emN3bWtYZjQ0eU1DZ0ZmQXZpTkIzM1N1LUZLNA?oc=5"
+          "text": "【视频】比亚迪第1600万辆新能源车下线创全球车企新纪录 - 车家号",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xRVJfQ1pWSV9LTVRudkFtSGVieUZPcTczV0RGX0FOYkJqWDhMZUZXQnBMdjBmcjNLRXQ1TU9yZ3RVUHBaMWxpVUZEWFQyTWYtRUoyVXZVY2xPTWc?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "16:36",
-          "title": "AI identifies early risk patterns for skin cancer",
-          "summary": "A massive Swedish study shows that AI can spot people at higher risk of melanoma using routine health data. A…",
+          "time": "15:32",
+          "title": "Artificial neurons successfully communicate with living brain cells",
+          "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "11:51",
+          "title": "Quantum AI just got shockingly good at predicting chaos",
+          "summary": "Researchers have shown that blending quantum computing with AI can dramatically improve predictions of comple…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "AI identifies early risk patterns for skin cancer",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260415043612.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "16:26",
-          "title": "Graphene just defied a fundamental law of physics",
-          "summary": "In a major breakthrough, scientists have observed electrons in graphene flowing like a nearly frictionless li…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Graphene just defied a fundamental law of physics",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260415042152.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "This simple change stops robot swarms from getting stuck",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Quantum systems can remember and forget at the same time, scientists discover",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260413043150.htm"
-        },
-        {
-          "text": "“Giant superatoms” could finally solve quantum computing’s biggest problem",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm"
-        },
-        {
-          "text": "This new chip could slash data center energy waste",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260409101103.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Sudan: Three quarters of women feel unsafe as war rages on",
-          "summary": "Across war-torn Sudan, women and girls “are telling a consistent story of continued experience of danger, and…",
+          "title": "Why lower fertility does not have to mean economic decline",
+          "summary": "Globally, most people say they want two or more children, but many are having only one, or none at all. Accor…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167330"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167315"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Myanmar amnesty, rising needs in Afghanistan, another power loss at Ukraine nuclear plant",
-          "summary": "Authorities in Myanmar released the country’s ousted president from prison on Friday, along with some 4,000 o…",
+          "title": "UN chief strongly condemns killing of another peacekeeper in southern Lebanon",
+          "summary": "A UN peacekeeper has been killed and three others injured after a UNIFIL patrol came under fire in southern L…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167329"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167332"
         }
       ],
       "briefs": [
         {
-          "text": "More than half of Haitians continue to face food crisis",
+          "text": "UNICEF ‘outraged’ by killing of Gaza water truck drivers, urges investigation",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167328"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167331"
         },
         {
-          "text": "UNESCO grants ‘enhanced protection’ to cultural heritage sites in the Middle Ea…",
+          "text": "Gender, geography and powerbroking in play in race for next UN chief",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167326"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167323"
         },
         {
-          "text": "‘Slaughtered like goats’: Despair and abandonment in South Sudan",
+          "text": "Sudan: Three quarters of women feel unsafe as war rages on",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167327"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167330"
         },
         {
-          "text": "As the ‘world court’ turns 80, Guterres says law must prevail over force",
+          "text": "World News in Brief: Myanmar amnesty, rising needs in Afghanistan, another powe…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167322"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167329"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Sudan: Three quarters of women feel unsafe as war rages on",
-          "summary": "Across war-torn Sudan, women and girls “are telling a consistent story of continued experience of danger, and…",
+          "title": "Why lower fertility does not have to mean economic decline",
+          "summary": "Globally, most people say they want two or more children, but many are having only one, or none at all. Accor…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167330"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167315"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Myanmar amnesty, rising needs in Afghanistan, another power loss at Ukraine nuclear plant",
-          "summary": "Authorities in Myanmar released the country’s ousted president from prison on Friday, along with some 4,000 o…",
+          "title": "UN chief strongly condemns killing of another peacekeeper in southern Lebanon",
+          "summary": "A UN peacekeeper has been killed and three others injured after a UNIFIL patrol came under fire in southern L…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167329"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167332"
         }
       ],
       "briefs": [
         {
-          "text": "More than half of Haitians continue to face food crisis",
+          "text": "UNICEF ‘outraged’ by killing of Gaza water truck drivers, urges investigation",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167328"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167331"
         },
         {
-          "text": "UNESCO grants ‘enhanced protection’ to cultural heritage sites in the Middle Ea…",
+          "text": "Gender, geography and powerbroking in play in race for next UN chief",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167326"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167323"
         },
         {
-          "text": "‘Slaughtered like goats’: Despair and abandonment in South Sudan",
+          "text": "Sudan: Three quarters of women feel unsafe as war rages on",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167327"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167330"
         },
         {
-          "text": "As the ‘world court’ turns 80, Guterres says law must prevail over force",
+          "text": "World News in Brief: Myanmar amnesty, rising needs in Afghanistan, another powe…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167322"
+          "url": "https://news.un.org/feed/view/en/story/2026/04/1167329"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:30",
-          "title": "证监会明确社保基金等可作为上市公司战略投资者 - 观点网",
-          "summary": "证监会明确社保基金等可作为上市公司战略投资者 观点网",
+          "time": "04:18",
+          "title": "晨光生物：公司管理层始终重视公司价值的提升 - 东方财富",
+          "summary": "晨光生物：公司管理层始终重视公司价值的提升 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HS1R1NG9yNWJIUnVLNUN0VkJZR3BadENfR0xncVh6bWdVYlJ2dXRKQUQ1WjRkR0NacWcyVHRvQnVmVmplWGNyY3V6TFBXUQ?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HeFE5ZU1PN0tfR3NmMkFacE0zRDZKNUQ5SW1GWGpPNWF0djZTb2xKb3Q4MVZGTkR2NFQ5dVc1bzZ2bnBPNWxOS09meHA0R205NkhJVnlmQ2k5OGZxN3hVWA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "16:12",
-          "title": "多地开店却合规失守 “王柠”品牌运营公司因特许经营违规被罚2万元 - 信网",
-          "summary": "多地开店却合规失守 “王柠”品牌运营公司因特许经营违规被罚2万元 信网",
+          "time": "00:49",
+          "title": "聚焦五大方面！证监会拟修订期货公司管理办法 - 东方财富",
+          "summary": "聚焦五大方面！证监会拟修订期货公司管理办法 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11YlJtMm1aOGI3SS1KVUd4LU05aU1XN1dPSmFMU012Ny1MY2tPRWtMb2k5MERmYXg4Ymo3NXV5bnFETDhrS290aXoxOGI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hVXd1Qk1XLWNvN0NqdTRRbW9IQXZmZm9BZVVtZW16NkV3YjBpa0dkUFVfWjJQZHlKNVRoRWxKenV1NXU3UzhTSXJVcHpVbFpyNDVEczhXUXFTV1MwdUtXRktKMkI3UQ?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "证监会明确社保基金等可作为上市公司战略投资者 - 观点网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HS1R1NG9yNWJIUnVLNUN0VkJZR3BadENfR0xncVh6bWdVYlJ2dXRKQUQ1WjRkR0NacWcyVHRvQnVmVmplWGNyY3V6TFBXUQ?oc=5"
+        },
+        {
+          "text": "英氏控股获授全国卫生产业企业管理协会儿童健康分会副会长单位 - 湖南红网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BTjNTcDFiZmFVLXg3UXRMdnB0dllqdTRGNFRBcFBQNWlqTnBkMy1BLTFnOW5WRnJmUk96QklsaU8xNThXdXJESDV2UHpWRF9UeVJFTGFhLU11a0NFcUFmZ1YyWER3UWM?oc=5"
+        },
+        {
+          "text": "多地开店却合规失守 “王柠”品牌运营公司因特许经营违规被罚2万元 - 信网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11YlJtMm1aOGI3SS1KVUd4LU05aU1XN1dPSmFMU012Ny1MY2tPRWtMb2k5MERmYXg4Ymo3NXV5bnFETDhrS290aXoxOGI?oc=5"
+        },
+        {
           "text": "多重考验中的中国家电出口：从广交会看供应链韧性构建 - 21财经",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakZ1aVZ5aEpqVzdPZzZPMVoxR2pVRkxSSGxZNURQbVRUcHdIV19QSnFjYWtYQVRsM2sxM3Nmb2h1b19HRGViQVVNZUNqMkplcEtFbm1UbnJuRVJkLTI4MWc2VENfRy15MW96ZVhVQVc2czF3Z3VkdEVVOW1yUWh5T1I3ZFlIYlVWUXVpYUgxNA?oc=5"
-        },
-        {
-          "text": "派诺科技股东珠海乐派企业管理中心（有限合伙）拟减持69.4万股套现981.32万元，为首次减持 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWjBuZ0VZZUxOZm5Ma0pJVTBZR25qNDJVXzN3djNDNjFpVkNzRmFYT1pVRndWalJQdGtwVW1GV0hvbWRHUHpfbVB6T1M3R180SXZtNVVkUV8zdWlXTzFhejkyUHZKWDhiV3E4V1QzeDJRYWQ1Q0w1WEFPZEJCY0ZJUlc3Y3FMRHdUN0hxVDJmWlpDV3lONnV1Rg?oc=5"
-        },
-        {
-          "text": "涉嫌严重违纪违法，海关总署企业管理和稽查司原司长王胜被查 - 证券时报",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfNXhiaVc4bUVvYmdyMEhmal9MQ1pvSVoxYzBUczFMSlMzQWJ0REc5STFUYnBSTmpwUTQ4ZXp4cmVXVWFabTdkQWVuc1JpME1YRzBoYndQazRHRjFLeGc?oc=5"
-        },
-        {
-          "text": "华新精科：公司管理层将持续深耕主业，推动公司可持续发展 - 东方财富网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRN1NvQ1FsSEpLT0dVMk9UREJWUUJXWmFSNWtocV9IdnR5VTJ3dkJjWV9VWlRpTHJiT25vM2JXS2hRNnVCVVozaDh5WERja0pObExxaUdGZ3BBNE40TW52VA?oc=5"
         }
       ]
     }
