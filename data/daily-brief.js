@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年4月19日",
+  "publishDate": "2026年4月20日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "新能源大块头，车长5.1米、宽2米，6座/7座布局，CLTC续航605公里 -…",
+      "title": "南京新能源汽车产量大幅增加，电力装备迎来“爆发” - 搜狐网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Artificial neurons successfully communi…",
+      "title": "Scientists just found a way to control…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:18",
-          "title": "新能源大块头，车长5.1米、宽2米，6座/7座布局，CLTC续航605公里 - 搜狐网",
-          "summary": "新能源大块头，车长5.1米、宽2米，6座/7座布局，CLTC续航605公里 搜狐网",
+          "time": "07:32",
+          "title": "南京新能源汽车产量大幅增加，电力装备迎来“爆发” - 搜狐网",
+          "summary": "南京新能源汽车产量大幅增加，电力装备迎来“爆发” 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZzRoZUkwbURPSGQyZW5zMkZaTzlUanJBbXZQZm1IQ3o5bkgxSzcxZmwyaDVJT1RnRUlqci1aUFBCY2g1bmt1dUktUlpud04wdEdCMVQtdkEwTk1sNUVKcURyTWJLdG04N004aEd0X3FCdUdKOGZLUzY1amlrTjJzWi1UT2tCMGljX25TNg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVdHUlZtaV9PSFdUd1VqeGFudFBkWmdTdzFPWU1tbjV5VUtZeVdKVzBwTWUyUGxLejhoYlNieFAwR0ZRVEE0MDd1Mmw5UU5vM3lUc2pveWxlVWFsaVRHbzZxanJZNklSc2Y5eVotcG1qY1FOTkJIdVc0U3VWdlVKYS01dEZFZGdM?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "02:14",
-          "title": "沃尔沃S90新能源最高降23.1万 - 太平洋汽车",
-          "summary": "沃尔沃S90新能源最高降23.1万 太平洋汽车",
+          "time": "07:29",
+          "title": "国产新能源汽车在港热销 有门店行情好时“单月能卖三四千台” - 搜狐网",
+          "summary": "国产新能源汽车在港热销 有门店行情好时“单月能卖三四千台” 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RMVd4dDN1a1FBNFRUTVN0NDRUQTk4X3FIZzRpMjVoaWRjMXdhc3BtcGtlNWRDTlpFaHFOZC1WWUZUWGZ3RDF0aHZRbW0tZjBmVGptblhkMnFOVEpBeHJiYUl0NFJieXBy?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXRpcmx2ejlZZTVfTjE5eWhQaXhQdGJjQ3E2c2tHeXFIbjVPR21qdjRZb0hxMlVRem5ZUzJoSjdjVEZhaGJ2YmJHc25TLUV1QXVhMVV6QldHb28yQ0N5WjAzOE84T3dFOEhPNU9BM1JXQjQzNmxucm1TODc0d0Zia09LaEVpY2la?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "广交会外场变身“食在广州”嘉年华|广州市|制造业|广东省|机器人|采购商_手机新浪网 - 新浪财经",
+          "text": "九十九载安全如一！沃尔沃纯电双旗舰迎来新能源豪华答案 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMVl0cnNVOU1hZWdqMWN6eFY4RzVZVE43QmFQTUU4NUc5RjJCQTVfdnpJekc3MHdyQVpPMnBnZkhTQk5HWU5HT2Y4SlMyWWNKMWdWbmlNSTJKVFJxc0d3NllkWkRERDlpSlFsb1lma1pHeDFvQnlqUDFxZEFBaEhOMVo0a1NXRHF5NUEwc0Y4VzY5MEZsSFZPZWpJNVc0R2RybnJKT0dZZms5OVEzRGFiZXVNQThFZDNuTUl3cm94M0VpeklaYWIzY0UyNG04MkY4Q1VXQUJzdVFJX2lnTWhZUUZRQVRsVkFhOElUZmN3ZzVZTDBkNFVVTHpIaTMySGpE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45dDB3eGIzc2hnQ2M0X1VIVi1Kam9tZjc3WG5fMFlEdmczTHlqd0FsTDBIeTJkMURNVkxkRGhZUlNfaU5FenBHR1U1d1l5bUF4bHdUcVlmbUM0dXc?oc=5"
         },
         {
-          "text": "【视频】马自达再遇梁家辉！长安马自达新能源不塞车，这是要代言？ - 车家号",
+          "text": "比亚迪第1600万辆新能源车下线_新浪新闻 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95SlVqc2hPSEduVGdRTXpnUWpOSVl4V05tZ2dxYk5uUWdFcXR0ajVSY29TbU55YVdtYmQ5NU8tZHZITVJpMm9uRDRxVWJDeEVhRVhiVF8tY1lIUGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TdkFXSmdZdHhBOWprMy1oTUxkNF85SkxiX1dTZDI5cHZSV2hFN3QtcVVpSGhtTVJIb0pScXZIR2x6OEp5RTVYcnlfLTRnZW90ME53eDU3X044bVc4RmNQamU3SQ?oc=5"
         },
         {
-          "text": "极氪，攻向“BBA”腹地 - 新浪财经",
+          "text": "甘肃启动实施“新能源+”十大行动 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOThUYUt4X0dHTFJKdFFOTXB6a2xNRUQ4N0tFQUV1d1JhUUQxUUs3LUxZWnVZbmV1NjJLOHdIbmNENXFzNkxUYS1majU2c3RsUkJFa1lEWWNPNzRLeTlnOWZJcXJHUkh6UVhkbVNyR0pSdUZkTXJyZ2RreTAxYmRqRFZxbjFySVg1em1oQkJaWDRpNzQ5bzVhM21MVDhyMS1jRWxOSWRmcVlORXo0VUdoYkVn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTFDczhiMGF0YlBnWHpsQUVwQXk4eDhlWlBnZ3J1cGxQc0xzUGt4R05GQzlicGZZcWhscElEd1l1MmdlOW1weEw5ek5VemFuLWNmcGNVV0hEZmRVaG4ySmtIM2thNHVoWTdYZTZvWGFTVFc5cGt2RHZLQV93Vl9aQVpHcU5ubjRTczZGUGx3QnpQRVVkOVVoOA?oc=5"
         },
         {
-          "text": "【视频】比亚迪第1600万辆新能源车下线创全球车企新纪录 - 车家号",
+          "text": "把握电动“脉搏”破局汽车升级之道 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xRVJfQ1pWSV9LTVRudkFtSGVieUZPcTczV0RGX0FOYkJqWDhMZUZXQnBMdjBmcjNLRXQ1TU9yZ3RVUHBaMWxpVUZEWFQyTWYtRUoyVXZVY2xPTWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fdGU0V0xMX0dnWEV1WXBHcTBVZDdrd1lzeFpiaUhjQnZrNHZENzZlSU0tdGw0VHdyWGM3Wm4zVjdQcmNIRWY3SG0yeDdyZkYxaUdlNnNENDlkeVdfVkt5UVhuVG8wbUo5QTJ1Sk9VNEhKMW1XVTVnXw?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:32",
-          "title": "Artificial neurons successfully communicate with living brain cells",
-          "summary": "Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain…",
+          "time": "20:31",
+          "title": "Scientists just found a way to control electrons without magnets",
+          "summary": "A surprising breakthrough in physics could reshape the future of computing by tapping into a strange, previou…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260417224509.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "16:02",
+          "title": "Think AI \"knows\" what it’s doing? Scientists say think again",
+          "summary": "Calling AI things like “smart” or saying it “knows” something might sound harmless, but it can quietly mislea…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260417224505.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Artificial neurons successfully communicate with living brain cells",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260417225020.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "11:51",
-          "title": "Quantum AI just got shockingly good at predicting chaos",
-          "summary": "Researchers have shown that blending quantum computing with AI can dramatically improve predictions of comple…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Quantum AI just got shockingly good at predicting chaos",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260417224455.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "AI identifies early risk patterns for skin cancer",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Graphene just defied a fundamental law of physics",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260415042152.htm"
-        },
-        {
-          "text": "This simple change stops robot swarms from getting stuck",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260414075639.htm"
-        },
-        {
-          "text": "Quantum systems can remember and forget at the same time, scientists discover",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260413043150.htm"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:18",
-          "title": "晨光生物：公司管理层始终重视公司价值的提升 - 东方财富",
-          "summary": "晨光生物：公司管理层始终重视公司价值的提升 东方财富",
+          "time": "18:59",
+          "title": "海光信息：股东成都蓝海轻舟企业管理合伙企业(有限合伙)4月8日至4月17日减持0.50%公司股份 - 东方财富",
+          "summary": "海光信息：股东成都蓝海轻舟企业管理合伙企业(有限合伙)4月8日至4月17日减持0.50%公司股份 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HeFE5ZU1PN0tfR3NmMkFacE0zRDZKNUQ5SW1GWGpPNWF0djZTb2xKb3Q4MVZGTkR2NFQ5dVc1bzZ2bnBPNWxOS09meHA0R205NkhJVnlmQ2k5OGZxN3hVWA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EbWpUNFNaR0t4aXYwaXNjN2tJYlhFRnR6MHZZcEdXR3VKWFBkRS1IbnlSR04yZDQwUjEwcnJ6NHpielF5TGpJcFBTZkdSZ1B2V1lFbURRaXFfeWlZSVpoag?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:49",
-          "title": "聚焦五大方面！证监会拟修订期货公司管理办法 - 东方财富",
-          "summary": "聚焦五大方面！证监会拟修订期货公司管理办法 东方财富",
+          "time": "18:27",
+          "title": "海光信息：成都蓝海轻舟企业管理合伙企业（有限合伙）已减持0.50%股份 - 东方财富",
+          "summary": "海光信息：成都蓝海轻舟企业管理合伙企业（有限合伙）已减持0.50%股份 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hVXd1Qk1XLWNvN0NqdTRRbW9IQXZmZm9BZVVtZW16NkV3YjBpa0dkUFVfWjJQZHlKNVRoRWxKenV1NXU3UzhTSXJVcHpVbFpyNDVEczhXUXFTV1MwdUtXRktKMkI3UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JZ3FjWG9Dbk9EbG9xM0FmN0w4Q2N1OTdHYTBBUWtudnNnVlcyS0swQUhrZGxwUm9DV3R0M3lnV3JKVWpGNHZHeEFYRUhWeGJJWVNFVkd0ZFFYWk9HUGhWTg?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "华塑控股：成都信通万华企业管理有限公司拟减持不超3.00%股份 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5WbGlUYTVsVWpzeldlVHZWbmFFUU5rNnFNUlBGazV2S19PLVh3bm5pVTU2a2JuZlNQdmgtbVZqMHRTcjVjbTdkNGI0ZVpSTWVaRl9IZ1ZpZFF2QXd1WVBrdkVMZ2wzUQ?oc=5"
+        },
+        {
+          "text": "晨光生物：公司管理层始终重视公司价值的提升 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HeFE5ZU1PN0tfR3NmMkFacE0zRDZKNUQ5SW1GWGpPNWF0djZTb2xKb3Q4MVZGTkR2NFQ5dVc1bzZ2bnBPNWxOS09meHA0R205NkhJVnlmQ2k5OGZxN3hVWA?oc=5"
+        },
+        {
+          "text": "聚焦五大方面！证监会拟修订期货公司管理办法 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hVXd1Qk1XLWNvN0NqdTRRbW9IQXZmZm9BZVVtZW16NkV3YjBpa0dkUFVfWjJQZHlKNVRoRWxKenV1NXU3UzhTSXJVcHpVbFpyNDVEczhXUXFTV1MwdUtXRktKMkI3UQ?oc=5"
+        },
+        {
           "text": "证监会明确社保基金等可作为上市公司战略投资者 - 观点网",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9HS1R1NG9yNWJIUnVLNUN0VkJZR3BadENfR0xncVh6bWdVYlJ2dXRKQUQ1WjRkR0NacWcyVHRvQnVmVmplWGNyY3V6TFBXUQ?oc=5"
-        },
-        {
-          "text": "英氏控股获授全国卫生产业企业管理协会儿童健康分会副会长单位 - 湖南红网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BTjNTcDFiZmFVLXg3UXRMdnB0dllqdTRGNFRBcFBQNWlqTnBkMy1BLTFnOW5WRnJmUk96QklsaU8xNThXdXJESDV2UHpWRF9UeVJFTGFhLU11a0NFcUFmZ1YyWER3UWM?oc=5"
-        },
-        {
-          "text": "多地开店却合规失守 “王柠”品牌运营公司因特许经营违规被罚2万元 - 信网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11YlJtMm1aOGI3SS1KVUd4LU05aU1XN1dPSmFMU012Ny1MY2tPRWtMb2k5MERmYXg4Ymo3NXV5bnFETDhrS290aXoxOGI?oc=5"
-        },
-        {
-          "text": "多重考验中的中国家电出口：从广交会看供应链韧性构建 - 21财经",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQakZ1aVZ5aEpqVzdPZzZPMVoxR2pVRkxSSGxZNURQbVRUcHdIV19QSnFjYWtYQVRsM2sxM3Nmb2h1b19HRGViQVVNZUNqMkplcEtFbm1UbnJuRVJkLTI4MWc2VENfRy15MW96ZVhVQVc2czF3Z3VkdEVVOW1yUWh5T1I3ZFlIYlVWUXVpYUgxNA?oc=5"
         }
       ]
     }
