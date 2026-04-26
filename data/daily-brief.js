@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年4月26日",
+  "publishDate": "2026年4月27日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "一季度黑龙江制造业投资强劲增长 - 央广网",
+      "title": "去年营收近4000亿元，成为全省第四大产业！江西的新能源产业突围之路 - 凤凰…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:47",
-          "title": "一季度黑龙江制造业投资强劲增长 - 央广网",
-          "summary": "一季度黑龙江制造业投资强劲增长 央广网",
+          "time": "07:52",
+          "title": "去年营收近4000亿元，成为全省第四大产业！江西的新能源产业突围之路 - 凤凰网江西",
+          "summary": "去年营收近4000亿元，成为全省第四大产业！江西的新能源产业突围之路 凤凰网江西",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nVEMyNkladWtldld4X2NlYTFNZC1maWlrcXhkdlZKak13V0V3UWdUd3FfVExFY2JsbEJib19mcUFaSjBDckN3MVlZWUpTMmhpODhWVmlNNU9jNWItV0g3Z0cyUjRVODR3WUx4b09B?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kcy1YVnJtOGFvZUliUDlYQk9XcThTRWUzOFUtbWZEd05WT21GbEgxaW80WEZ1bXY0WnJvSnZzbmZkRjlJNFBUMGVR?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:35",
-          "title": "河南向新向智育强产业 - 新浪财经",
-          "summary": "河南向新向智育强产业 新浪财经",
+          "time": "07:38",
+          "title": "新疆伊犁：充电服务提质效 新能源汽车惠民生 - 搜狐网",
+          "summary": "新疆伊犁：充电服务提质效 新能源汽车惠民生 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmxkV1lBbTFNV2NKdEd5LUltcTI5dVBQT1BrODM1NGV6UGxUeko2M2haa1FFRXpQRVpNWnd3UjBWQlpfTUJOQW03eUt4MnRGU0JuUmNpQy03VE9rbENFLUZRZWE1TWd2YkR3SDBDUmFnSlZmZVEtdzU1TnM1QUpYNXZENFc4UVBGcGs5NGM2cjBsMTJrRF9VX3MyMktseDNMMFJmZlY2akZDXzBPZ0Fr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR0JNNUJqb1F0UFNacDl6Q21MQ1BIZ1huQXVpMHR6M20yR3pMcm9yODVWYnNrNkM2VmhsZ3JnUlNFMDhDc1NtS01QWFZ3OFFYU3BnOXdyT0RmN2FkRnN1QlBZTnNRZ18zUE9YMk5KcmFrMVVxWjBSZXdkTERRUjFNaHRFc2h3VWUy?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "工业生产较快增长 装备制造业增势良好 - 新浪财经",
+          "text": "新能源车上高速电量耗尽，司机试图接路边监控电源充电，交警及时发现-腾讯新闻 - QQ News",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaWQ1TnJiLV84UG94bjdpWWdqeHYyZ1Y3MjllWVF2enE2cUxTQ2t0YksxVndvV1pfVDBYOFlPSkJfbHJLVVYxQWxsNEhKQ0Z6ZUNMWlcwdnloYk1DSVBhRFdfTXZKdGF0a0ZaT0ZMeE91Vzlxa2phRElXQXpGakNaQVZXRm1aTXNmTVBjVzd4b3hSMWNXWHNuSA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZZnc1dS0wREVJeFI0Q2UycFpoTlE5ODlFNlNBQVVMdmN4MkFXUmdQdmJEdEZaczBLNVctN3VkLTV4MXBRVzMyc3l4dndoUjJlVU5EcksydG9wMWVxRlVSV01VSks5V1JYNEEyVQ?oc=5"
         },
         {
-          "text": "遵义这家企业三个月实现七千万元产值 - 新浪财经",
+          "text": "罚款、记分！高速上一新能源车电量耗尽，司机竟试图接路边监控电源给车充电 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNk5JaUJGbS1aWlpTQVVLb1dadm1mMnl5U2pQSTZyMXNuQUlMQmNKcWlXb3JqWmc0RHI1ZlR2VGxzdnc5b3dRamliRHI5ckRVcGdZeWFjUEpKTzB6UHJMdTZIVGtJUEhSRVBpbVBRLUZoQmhyRHpudVFhRm1HaUxrR1JLaTBINXQ1Y2xqWjBqS2V2b3ZUbU1JNw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0NsUW1NT0xJQkM3RXp6Q1d0WF9ZbUVac1IwSzlIRF9ucGs5TENXMGZEc0tWU3NsU0NuTklKMGluSEtCV09nX3Z6LXN4OS1fRHhsLWVFbDZYU1U0WmJGN2lxeDBGaEZXZ0dsalB5TzNqX25XendBMkxtSTlhNHVmVTB6eER3d0p3VExYVg?oc=5"
         },
         {
-          "text": "新能源超越火电成为辽宁第一大电源 - 新浪财经",
+          "text": "新能源船舶扎堆下水 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa3pFc1hIVzFWX2h1cUdabEhrWnJwNW5WWGJSaHBUTGFma0pIQkdNRVcxUmRBaUxaWDFZTTExSmNjQjN2VDB3SDRKNHlxWi1fSEZwSFc5Q3FjeXVSWVBLNktfdS1ETXBGUnhTX3hlY0hiOU1aTWtzRUdBaHBDSFViaW1yczd4UFRobHRNX1AwSnhxV3dxQ1dKUg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZzdVd1EzbW14bDNESHpyMmdvWlJUbjVUd3c2VFR6ZW5DS1Q1OVhESldYakE1VGtPUFE2TURDLVhuQV9xNFd4R28zMTRPMWJKNS15RXNFYVpqOEQtOVhPa05GTnlmZ2Ryd3hpUnlSNHZnRHBWcVNLdVRoM2xIV1VZN2h1d3A1UFBXTldjSw?oc=5"
         },
         {
-          "text": "一季度机械工业保持平稳增长 - 人民日报",
+          "text": "一季度甘肃工业撑起经济基本盘 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2WlV5UWl4bkMtSFhKbUpNWDZ3Sjh6dUwtdS1ta1BvNk9zQjQ3RG5xekQtdkdCQzVjcWRGeV92aWpPQTRyVzRoWXlUaE5GcXdDUHBwMFBOMUcwYWVKQ3pQME0yWDlWMHpwbk43ZVp1ODV1ajI1bmF0aXJ2VHU2OFk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMlZ2OVJPN0diYzdmS1JpSVNuR0FBcWdPY2diX3VndEFEM3l1X3hMVDFWRWNySzhUZWM0eXFva0NFaHM5WnJPaThxTUcxbzd6YWk0OURST1NlX0hvZGx0RFdqV1EzeFJyX1NCbGU2Q05RUjh2V2VxU0dGWlJOWTExMHVIT1V3X3MyejdUT1lIbVY2aWNPWG1XeA?oc=5"
         }
       ]
     },
@@ -170,21 +170,21 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "00:00",
+          "title": "Our principles",
+          "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/our-principles"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "05:40",
           "title": "Three reasons why DeepSeek’s new model matters",
           "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, t…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "19:00",
-          "title": "Introducing GPT-5.5",
-          "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, re…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-gpt-5-5"
         }
       ],
       "briefs": [
@@ -194,9 +194,9 @@ window.dailyBrief = {
           "url": "https://openai.com/index/gpt-5-5-system-card"
         },
         {
-          "text": "Automations",
+          "text": "Introducing GPT-5.5",
           "source": "OpenAI",
-          "url": "https://openai.com/academy/codex-automations"
+          "url": "https://openai.com/index/introducing-gpt-5-5"
         },
         {
           "text": "Top 10 uses for Codex at work",
@@ -204,9 +204,9 @@ window.dailyBrief = {
           "url": "https://openai.com/academy/top-10-use-cases-codex-for-work"
         },
         {
-          "text": "Plugins and skills",
+          "text": "How to get started with Codex",
           "source": "OpenAI",
-          "url": "https://openai.com/academy/codex-plugins-and-skills"
+          "url": "https://openai.com/academy/codex-how-to-start"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:23",
-          "title": "2026年短视频矩阵视频混剪软件工具商业分析报告 - 中华网",
-          "summary": "2026年短视频矩阵视频混剪软件工具商业分析报告 中华网",
+          "time": "01:28",
+          "title": "科力尔: 深圳市他山企业管理咨询有限公司关于科力尔电机集团股份有限公司2021年股票期权激励计划调整及注销部分股票期权事项的独立财务顾问报告 - 证券之星",
+          "summary": "科力尔: 深圳市他山企业管理咨询有限公司关于科力尔电机集团股份有限公司2021年股票期权激励计划调整及注销部分股票期权事项的独立财务顾问报告 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94VmxpR1pyTU5iX2dXZW43bXBTZVF2Zm1FSGUyWGFfZVplS0ZWeVVEM0hSWGoyLS15eUJmM2JDMkhsWWRTbkdRZ1VmdUoxbExhNzhBY3E1clB5WlExakwyWnBWT19aa3BsSXFyVA?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14NVhuaWZpVzZlV2FOM0NyNG9RblFBc2RPM2Z3S2Z1a0RZaV81WXF6ODNHR09Lc1FrYTJvT2VTUFNiZF9Yci1GbVpsWm1RVkNSTDItTm1waTFVanVBTk9RRjRLSTJBMXF5eUkw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "13:45",
-          "title": "天权回应离职东方甄选：因公司管理层、理念等变化 - 新浪财经",
-          "summary": "天权回应离职东方甄选：因公司管理层、理念等变化 新浪财经",
+          "time": "19:08",
+          "title": "企業管理層讚神韻喚起人的記憶 與上帝連接 - 大纪元",
+          "summary": "企業管理層讚神韻喚起人的記憶 與上帝連接 大纪元",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVEJkVndpRWpOWmQyQVgydnI2TDRlU0ZmYlF1Y21TQngtdGNFUlhYbnl3T0pfQnA3dmJkcDhxNUd3ampHVGptcVBiTDIyRF9ISlVWOWppa1drUmJKRTEzT0QtT2ZITzNQc1hsaF9VWlc2eU83MFMxZ3FZQVZ1blNjRUhPUlQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5idVllYnpQX1lpRWlxWTdjRGZZV0pZUHg2bE1aNThxb1VFT25qcThNenJDbndkVDU0Ukt2YWtNU2tNT1B0bGdwamNmb3pTbE9BQWFMMGUxSkxBR1M5SDI2WNIBZkFVX3lxTFA4Tm9HYzJ4SzhwancydVlmaWtRTS1MNE5wUWJ1LURfZ2VFTkVOb0tVWkJwM1N3Nk40VndUMjRlTXM5RTUtUG9qVzhsblU0MEVVQWxIOVZjNXY0dmlsSFVhVU9Ka2x3UQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "英特尔盘后拉升18%，公司管理层：AI相关芯片需求“前所未有” - 第一财经",
+          "text": "东方甄选四大主播集体离职，俞敏洪公开致歉：公司管理方式出现偏差 - FX168",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Fbmd0bHJzQzF5VHhjWnRBY29Mc0ZJaXkyQ0lpTllJaVlMZ0l4dEZRc2R6RnR0dUFzWERVTGxKRFRkQlF0eFZuMDBJdC0yV00zd2RN?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42SlZIQ0VXeVFiZV9xSTFqb2N5RDUzQkN5eDJBeDVHVzhoWXg0djMzcU04cnVwYzMydjZYc19ON2FtNGppTkoxeUU4N3F2OWpwQlZV?oc=5"
         },
         {
-          "text": "两家A股上市公司战略入股 开普勒机器人完成亿元级A++轮融资 - 东方财富",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtU3JWSlpaVFNsbGdTMkNsTmd6TmtjWjFqTHBFM2dvRUdVZlYzSkl0SzRSNXVxQzFEeEIwRFd5N2FWNTJ4a0JhNTN2MEhiZmJpR3FmR0FOUTZkenU4RkNweA?oc=5"
+          "text": "东方甄选四大主播集体离职，俞敏洪致歉：公司管理有问题 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44TjRRcEZIeDVZWVgzLVFqNVFJNlFrX0lsaGFlZlM1TVkyVm1wQWY0MUpBS0lKS1lBTWF6SEY2aU9KZTJZcXRNRHRpUkxkMjFkU2VtWGx1RFdOQVlndHdVcnBQQS02Q1V3S1lPekQ5YzFBNXlsZU1jTQ?oc=5"
         },
         {
-          "text": "成大生物：公司管理层多措并举努力改善经营基本面 - 东方财富",
+          "text": "俞敏洪承认公司管理有问题 主播离职潮引发关注 - 中华网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGYmlSanNfaWdtZl91Zm43NTVUTmt2RVNCS0ZJVGFBQ0p0NEJwN081QUZPaVBYbDRjMUF6M1l0a0RvUXM3M1Qyci1fTEdUaDFNVjZvc2NMWUZpckQ4aWJKRw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uRV8wajMyeHgzeEtILWZUemhfU3hmS3Z3Mk1QZ0hsZkRmS3lQb1pLMEM3cElnYU9GV1ZScEh3WHNoWkI0eUFSYTFUcWtnU2w4OUpZYmNzSUlESUdROThBYVQ3UGVFdWpTMVpUUC0tN1I?oc=5"
         },
         {
-          "text": "佳驰科技：重庆文琮迎曦企业管理中心（有限合伙）已减持2.45%股份 - 东方财富",
+          "text": "极目锐评丨东方甄选4名主播同日宣布离职，企业管理变化员工不该成“炮灰” - 极目新闻",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xelJBLXdNTnVDbUVGNnJlSGwyMGwzWU91YmNvWEZNc24za1ZFRzhHQVZjem5ObW1jUXd0Nm9jaTg5bmE0blZTem5yS0p0OU5pRWNiV1Qxclk5SHlSOExKWG42WWo5Zw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkaE1nU0IxWThneWwyS2hpNTYtNWNPMXlZelBmN3FYbmtIQl9XaWJXSEhvWkU1OTlVT3IxbWxzVzFrTktmcnNiZG1QLWxIejdhUktIdURRdHhlSVU?oc=5"
         }
       ]
     }
