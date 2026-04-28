@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年4月27日",
+  "publishDate": "2026年4月28日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "去年营收近4000亿元，成为全省第四大产业！江西的新能源产业突围之路 - 凤凰…",
+      "title": "对话｜日产汽车：2027年前推10款新能源车 - 太平洋汽车",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "New “optical tornado” technology could…",
+      "title": "Scientists just captured a mysterious q…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:52",
-          "title": "去年营收近4000亿元，成为全省第四大产业！江西的新能源产业突围之路 - 凤凰网江西",
-          "summary": "去年营收近4000亿元，成为全省第四大产业！江西的新能源产业突围之路 凤凰网江西",
+          "time": "08:01",
+          "title": "对话｜日产汽车：2027年前推10款新能源车 - 太平洋汽车",
+          "summary": "对话｜日产汽车：2027年前推10款新能源车 太平洋汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5kcy1YVnJtOGFvZUliUDlYQk9XcThTRWUzOFUtbWZEd05WT21GbEgxaW80WEZ1bXY0WnJvSnZzbmZkRjlJNFBUMGVR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4QUFNc2pZaFFMdHVPSG9BenA4a0pzTnFfREcyNnFVMjVGckFLRy1XZXZoM1M1OFA3V1lFcEdIY2VBemwwWm9naGVFYVhJTEFIOVlrQzA5XzN2VmFzNWc?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:38",
-          "title": "新疆伊犁：充电服务提质效 新能源汽车惠民生 - 搜狐网",
-          "summary": "新疆伊犁：充电服务提质效 新能源汽车惠民生 搜狐网",
+          "time": "07:34",
+          "title": "乘“数”而上 向“智”而行 - 福建省人民政府",
+          "summary": "乘“数”而上 向“智”而行 福建省人民政府",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR0JNNUJqb1F0UFNacDl6Q21MQ1BIZ1huQXVpMHR6M20yR3pMcm9yODVWYnNrNkM2VmhsZ3JnUlNFMDhDc1NtS01QWFZ3OFFYU3BnOXdyT0RmN2FkRnN1QlBZTnNRZ18zUE9YMk5KcmFrMVVxWjBSZXdkTERRUjFNaHRFc2h3VWUy?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3lhUnhNOXVkMFZrRHA5b1VRUkxibE5uV09XUVRmREdxWng3OHVMdDB0b0dYRHRUT3QybkIxMGo2VVVkaUJvaUozdV83NWd0c2hHVEZfNEJTZktjMmI3dGJMTS1jX1JOOS1xNF9HTU83TnlOOGRhRnlaMkt2TjZSVWNNZndhR1l1VlVPRjJRWQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新能源车上高速电量耗尽，司机试图接路边监控电源充电，交警及时发现-腾讯新闻 - QQ News",
+          "text": "卓越新能: 龙岩卓越新能源股份有限公司独立董事2025年度述职报告（郑祯）_公司公告_每日必读 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZZnc1dS0wREVJeFI0Q2UycFpoTlE5ODlFNlNBQVVMdmN4MkFXUmdQdmJEdEZaczBLNVctN3VkLTV4MXBRVzMyc3l4dndoUjJlVU5EcksydG9wMWVxRlVSV01VSks5V1JYNEEyVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BYlFkQlBVendnSUJ3RXN1OFFDYXZhTUI4dGlXdVg2MlV6b0RzV3dXQURVcUhIMDdZNGpSVThVTVVoSjBoTmlCM1BKbWxRUktEWTBQUFBFSzRwZlZPVldyMnpZOWl0aWlDbmJV?oc=5"
         },
         {
-          "text": "罚款、记分！高速上一新能源车电量耗尽，司机竟试图接路边监控电源给车充电 - 搜狐网",
+          "text": "一季度规上企业利润涨15.5% - 东方财富",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0NsUW1NT0xJQkM3RXp6Q1d0WF9ZbUVac1IwSzlIRF9ucGs5TENXMGZEc0tWU3NsU0NuTklKMGluSEtCV09nX3Z6LXN4OS1fRHhsLWVFbDZYU1U0WmJGN2lxeDBGaEZXZ0dsalB5TzNqX25XendBMkxtSTlhNHVmVTB6eER3d0p3VExYVg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FZjZ5X25XclRxb202bHowYzNhcTVmRXJpWFdNQzZNY0Z4VzQ5eDZfV1ZNbXJWRG5hcjJnSDJucERUM29oaHdFYzY1UlZuVFdHaTFqbGp2c0Jhb1FMaGdCQThUeEFqQQ?oc=5"
         },
         {
-          "text": "新能源船舶扎堆下水 - 搜狐网",
+          "text": "险资一季度优化权益配置泛科技与新能源成核心主线_7x24快讯_新浪财经 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZzdVd1EzbW14bDNESHpyMmdvWlJUbjVUd3c2VFR6ZW5DS1Q1OVhESldYakE1VGtPUFE2TURDLVhuQV9xNFd4R28zMTRPMWJKNS15RXNFYVpqOEQtOVhPa05GTnlmZ2Ryd3hpUnlSNHZnRHBWcVNLdVRoM2xIV1VZN2h1d3A1UFBXTldjSw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ERGxIajBWREduZWVMQVNOaFdUUnZqUjd1NVUwLUh6TWhZbTYzNHhOYjM2QUdzV0ZYUTRUUjUwSDJhN2RKZHh5WDRZbw?oc=5"
         },
         {
-          "text": "一季度甘肃工业撑起经济基本盘 - 新浪财经",
+          "text": "险资一季度优化权益配置 泛科技与新能源成核心主线 - 证券时报",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMlZ2OVJPN0diYzdmS1JpSVNuR0FBcWdPY2diX3VndEFEM3l1X3hMVDFWRWNySzhUZWM0eXFva0NFaHM5WnJPaThxTUcxbzd6YWk0OURST1NlX0hvZGx0RFdqV1EzeFJyX1NCbGU2Q05RUjh2V2VxU0dGWlJOWTExMHVIT1V3X3MyejdUT1lIbVY2aWNPWG1XeA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KRHVQNkd5TGU5cGtoR0ZNTUZDYUpKcmRGNE9oOEU3Rkx0M1QwdkZDcXVuMzhvVUtBbGgyWTNrbE5Ecm9aYVpxbW5ONnJiQ2RCSUhVdlRieXZfMS11?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "21:16",
+          "title": "Scientists just captured a mysterious quantum “dance” inside superconductors",
+          "summary": "In a breakthrough experiment, scientists directly imaged how particles pair up in a system that mimics superc…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260427050550.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "23:27",
           "title": "New “optical tornado” technology could transform quantum communication",
           "summary": "Scientists have created tiny “optical tornadoes” — swirling beams of light that twist like miniature whirlwin…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260424233215.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "21:38",
-          "title": "AI just discovered new physics in the fourth state of matter",
-          "summary": "Physicists have taken a major step toward using AI not just to analyze data, but to uncover entirely new laws…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "AI just discovered new physics in the fourth state of matter",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm"
+        },
         {
           "text": "This new brain-like chip could slash AI energy use by 70%",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "This donut-shaped discovery just shattered a 150-year math rule",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260421042816.htm"
-        },
-        {
-          "text": "AI swarms could hijack democracy without anyone noticing",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260420014748.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:00",
-          "title": "Our principles",
-          "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our…",
+          "time": "06:52",
+          "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+          "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/our-principles"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/"
         },
         {
           "priority": "重点看点 02",
-          "time": "05:40",
-          "title": "Three reasons why DeepSeek’s new model matters",
-          "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, t…",
+          "time": "00:13",
+          "title": "The missing step between hype and profit",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
+          "url": "https://www.technologyreview.com/2026/04/27/1136456/the-missing-step-between-hype-and-profit/"
         }
       ],
       "briefs": [
         {
-          "text": "GPT-5.5 System Card",
+          "text": "OpenAI available at FedRAMP Moderate",
           "source": "OpenAI",
-          "url": "https://openai.com/index/gpt-5-5-system-card"
+          "url": "https://openai.com/index/openai-available-at-fedramp-moderate"
         },
         {
-          "text": "Introducing GPT-5.5",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-gpt-5-5"
+          "text": "Rebuilding the data stack for AI",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/04/27/1136322/rebuilding-the-data-stack-for-ai/"
         },
         {
-          "text": "Top 10 uses for Codex at work",
+          "text": "The next phase of the Microsoft OpenAI partnership",
           "source": "OpenAI",
-          "url": "https://openai.com/academy/top-10-use-cases-codex-for-work"
+          "url": "https://openai.com/index/next-phase-of-microsoft-partnership"
         },
         {
-          "text": "How to get started with Codex",
+          "text": "An open-source spec for orchestration: Symphony",
           "source": "OpenAI",
-          "url": "https://openai.com/academy/codex-how-to-start"
+          "url": "https://openai.com/index/open-source-codex-orchestration-symphony"
         }
       ]
     },
@@ -219,23 +219,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "15:01",
-          "title": "Chip Industry Week In Review",
-          "summary": "Marvell's plasmonics buy; Onto's process control stake; TSMC A14/13 and EDA flows; Apple shuffle; LPDDR6; SOC…",
+          "title": "When Semiconductor Materials Misbehave",
+          "summary": "The gap between lab performance and fab reality is growing wider as packages grow more complex. The post When…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/when-semiconductor-materials-misbehave/"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "15:01",
+          "title": "TSMC Tech Symposium 2026, By The Numbers",
+          "summary": "Foundry rolls out aggressive new roadmap, focusing on area, power, and latency. The post TSMC Tech Symposium…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/tsmc-tech-symposium-2026-by-the-numbers/"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Chip Industry Week In Review",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/chip-industry-week-in-review-135/"
         },
         {
-          "priority": "重点看点 02",
-          "time": "15:15",
-          "title": "System-in-Package Challenges",
-          "summary": "Engineering considerations in multi-chiplet designs. The post System-in-Package Challenges appeared first on…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "text": "System-in-Package Challenges",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/system-in-package-challenges/"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Can Edge AI Keep Up?",
           "source": "Semiconductor Engineering",
@@ -245,16 +255,6 @@ window.dailyBrief = {
           "text": "AI Agent Designs a RISC-V CPU Core From Scratch",
           "source": "IEEE Spectrum Semiconductors",
           "url": "https://spectrum.ieee.org/ai-chip-design"
-        },
-        {
-          "text": "Blog Review: Apr. 22",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-apr-22/"
-        },
-        {
-          "text": "TSV Complexity Leads To Manufacturing Bottleneck",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/tsv-complexity-leads-to-manufacturing-bottleneck/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:28",
-          "title": "科力尔: 深圳市他山企业管理咨询有限公司关于科力尔电机集团股份有限公司2021年股票期权激励计划调整及注销部分股票期权事项的独立财务顾问报告 - 证券之星",
-          "summary": "科力尔: 深圳市他山企业管理咨询有限公司关于科力尔电机集团股份有限公司2021年股票期权激励计划调整及注销部分股票期权事项的独立财务顾问报告 证券之星",
+          "time": "06:19",
+          "title": "哈尔斯（002615.SZ）新增一起对外投资，被投资公司为杭州丰圳企业管理合伙企业（有限合伙）_公司新闻_财经 - 证券之星",
+          "summary": "哈尔斯（002615.SZ）新增一起对外投资，被投资公司为杭州丰圳企业管理合伙企业（有限合伙）_公司新闻_财经 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14NVhuaWZpVzZlV2FOM0NyNG9RblFBc2RPM2Z3S2Z1a0RZaV81WXF6ODNHR09Lc1FrYTJvT2VTUFNiZF9Yci1GbVpsWm1RVkNSTDItTm1waTFVanVBTk9RRjRLSTJBMXF5eUkw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SZVdWZGdoaTg2TW5IdUNDZlFqVGZPN3pWblB1Xzk3dmM0UjR1NkN2ekpNMl9wNVJULWpOckxNcEJCSHdnaDhKb2ppMWdFX3BLck5idE1QWFE4Ul8weXZnRg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:08",
-          "title": "企業管理層讚神韻喚起人的記憶 與上帝連接 - 大纪元",
-          "summary": "企業管理層讚神韻喚起人的記憶 與上帝連接 大纪元",
+          "time": "21:07",
+          "title": "中际旭创：目前公司管理层及实际控制人暂无减持计划_股市要闻_市场 - 中金在线",
+          "summary": "中际旭创：目前公司管理层及实际控制人暂无减持计划_股市要闻_市场 中金在线",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5idVllYnpQX1lpRWlxWTdjRGZZV0pZUHg2bE1aNThxb1VFT25qcThNenJDbndkVDU0Ukt2YWtNU2tNT1B0bGdwamNmb3pTbE9BQWFMMGUxSkxBR1M5SDI2WNIBZkFVX3lxTFA4Tm9HYzJ4SzhwancydVlmaWtRTS1MNE5wUWJ1LURfZ2VFTkVOb0tVWkJwM1N3Nk40VndUMjRlTXM5RTUtUG9qVzhsblU0MEVVQWxIOVZjNXY0dmlsSFVhVU9Ka2x3UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TVG5oZ2VPVkNkQXU3UnhJOGJsMmhtWllNdzJzMC1SSDFKTzVIdm1MQjIyS0g3TjFMcG9SbXh2Z2ZkcF9ORjlRMGljdkhxeVF0UWRCU3ZBWG5aWWN5SE55Y2gxS0I5dDZNeTZncmhn?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "东方甄选四大主播集体离职，俞敏洪公开致歉：公司管理方式出现偏差 - FX168",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42SlZIQ0VXeVFiZV9xSTFqb2N5RDUzQkN5eDJBeDVHVzhoWXg0djMzcU04cnVwYzMydjZYc19ON2FtNGppTkoxeUU4N3F2OWpwQlZV?oc=5"
+          "text": "从碳定价到碳边境：企业战略与全球供应链的再平衡 - 手机新浪网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNMEFaaDZYS3MxS2ZlWEZ1OWM1ei10N0FhcXNBaDdZaEFkenZkMllYSTVxWWd6VmFOSWl6aEJwSXZPOXFVZXFEYXdPWjY5Tzh6aEM4cS1DTWpPb1Q0a21USzZaZ0RZRmpjWGlVcXYySlZDbWdVSU0wRk5jd3ROTk9kZmZQRUZ3eERFVzVhLXVPZnp5Q1R4c2xJMElwNWhETnhkYjhoa3VRTGJLdnJGNXpoLU5relVtSkl2Q3lHdHpDcHVPcUhUM2hxRVRnTDJMYU1ZVVVaMnZSWHNmWnFwbEVtcVpCd1lYM1N6YkZIRHcxMHAzMHprQ09wX1VrTVZ0di1femFQV1A4U0dWbDRHSmxIZlNWdzc4TUJZLXpoZkNIOFpJclIwRGd6dXgzeUZXdThjZEdwNWhtZm9JT3lqUmpwVDZKV09vVGFL?oc=5"
         },
         {
-          "text": "东方甄选四大主播集体离职，俞敏洪致歉：公司管理有问题 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44TjRRcEZIeDVZWVgzLVFqNVFJNlFrX0lsaGFlZlM1TVkyVm1wQWY0MUpBS0lKS1lBTWF6SEY2aU9KZTJZcXRNRHRpUkxkMjFkU2VtWGx1RFdOQVlndHdVcnBQQS02Q1V3S1lPekQ5YzFBNXlsZU1jTQ?oc=5"
+          "text": "福建省科燃未来智能科技有限公司战略顾问将出席第九届数字峰会！ - thepaper.cn",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NSlY2WFNFanRTZ2R6ZzE5aC1rYVVTenAtMF8xVTVWY3pZQldDNWVQRzJveXJpdmpFUm1oUGtJSU9yV3BjbDUxTzlNYWU5TExlTk9LUWtoSlc2RUVxNVE?oc=5"
         },
         {
-          "text": "俞敏洪承认公司管理有问题 主播离职潮引发关注 - 中华网",
+          "text": "新宏泽(002836):子公司管理制度（2026年4月修订） - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uRV8wajMyeHgzeEtILWZUemhfU3hmS3Z3Mk1QZ0hsZkRmS3lQb1pLMEM3cElnYU9GV1ZScEh3WHNoWkI0eUFSYTFUcWtnU2w4OUpZYmNzSUlESUdROThBYVQ3UGVFdWpTMVpUUC0tN1I?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tVkhsbVhwbDhwVDFkRzlZTzFEMjB2QjV2VUtONUt4QlR5M2FhQVFlZ283TGZWbmthYTQ0by1IYUlBYURkMUthdWJNWENQQm52MjdvdVZ3?oc=5"
         },
         {
-          "text": "极目锐评丨东方甄选4名主播同日宣布离职，企业管理变化员工不该成“炮灰” - 极目新闻",
+          "text": "流程无缝衔接，同心雁S-ERP消除医疗器械企业管理信息孤岛 - 51CTO",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkaE1nU0IxWThneWwyS2hpNTYtNWNPMXlZelBmN3FYbmtIQl9XaWJXSEhvWkU1OTlVT3IxbWxzVzFrTktmcnNiZG1QLWxIejdhUktIdURRdHhlSVU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MWXJNNUZEa081RFNiZ2RJMHFRUF9Nb2VoMklLVHZuTEdTaXVXZk9LN0RBVVI5dE11bHJSVmpoWWk4TnM0aGtqRUhfaG9TTTQ0VVc4?oc=5"
         }
       ]
     }
