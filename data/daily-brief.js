@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月2日",
+  "publishDate": "2026年5月3日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "4月新能源车企销量公布，零跑断层式领先，小米/理想/小鹏均破3万 - 车家号",
+      "title": "Mysteel宏观周报：政治局会议部署经济工作，制造业PMI处扩张区间 - 我…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "World News in Brief: Displacement in So…",
+      "title": "Global demining work strained by rising…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:00",
-          "title": "4月新能源车企销量公布，零跑断层式领先，小米/理想/小鹏均破3万 - 车家号",
-          "summary": "4月新能源车企销量公布，零跑断层式领先，小米/理想/小鹏均破3万 车家号",
+          "time": "07:30",
+          "title": "Mysteel宏观周报：政治局会议部署经济工作，制造业PMI处扩张区间 - 我的钢铁网",
+          "summary": "Mysteel宏观周报：政治局会议部署经济工作，制造业PMI处扩张区间 我的钢铁网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWYnhBclVMdkJvV0VFd2RfUzdYdHhvcXVLbVZwcTk3Skx0bDg5MlY1VTlnTTJEcWxMSVhtQ2Z2a3JRdGpxV2pnSGstcGVmSnVhbHVnTzJlUlBEUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OcVM4THp3NVBwTWdpVF85OWtUQklybDl3OENveWtZNkcyU3BKMzUtY1hORWN5OG04dlc1bkpDU3VPcnRnQ3NvaGpXSEFnR1pBRzdQajVrSTE4a2ZkQVUwbVRNNFE1Ujhh?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:51",
-          "title": "海外、新能源同比大增！长安汽车4月交付20.95万辆 - 驱动之家",
-          "summary": "海外、新能源同比大增！长安汽车4月交付20.95万辆 驱动之家",
+          "time": "07:16",
+          "title": "从肯尼亚茶厂到苏里南矿山，新能源“中国方案”缘何走红海外？_时政新闻 - 大众网",
+          "summary": "从肯尼亚茶厂到苏里南矿山，新能源“中国方案”缘何走红海外？_时政新闻 大众网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ucWFCOEpZY0d0a2ZkMkF1UHV5VXNQdm40R0djYk1WeWI5T2w4ZG5YRmliTzlGbDFIeW9IcGE1LXpoQWZIX3FZb21QeUpzTGtURXBSUHB3ejI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RTURKb0VQbl9aT1gtcEhGUFVCcU1zV1lXRWFTcTNUYlVPd2gwWXNwYUJERm0xUGwxY3hjQWE1MnhkY09Tb05ITlYxTGI1bmZhb1M5ejBXMkRZVFk3NlRyN0RLN05yQmJEWl93ZHd4VmdhSjRyR1hZQUZXUQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "比亚迪澳大利亚交付第10万辆新能源车 历时不足三年半 - 太平洋汽车",
+          "text": "智利3月铜产量下降9% 制造业亦现萎缩 - AASTOCKS.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hSklibXR6NWZjbG51cWhsZ0ZKeGN4a1JyMmhaUlplQXUyelFnWU4wTVhkS0Jib2dWRHdlNXhFSVRmQmZOcFF2YlJHT0pjVnBsY2xUYWNfMnhDOEpxZVFrdg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR3JJV2ZjN3hsWWVjQzg2blBGTTE2ZXUzYVFvWlJvVER1dUNxeDdNbFpVMm1ZSmlHSjBFcHo3SWNqdnRDRkRUZ2VuazZFSHFQVE9DQU4yWlNnQWJfcWxFc054T0p6d1ZkdHRqWGdOMF95OXd3VmU3QVVjX1dpa2NDdw?oc=5"
         },
         {
-          "text": "李斌：到2030年，中国新能源车市场渗透率达到90% - 车家号",
+          "text": "今年第二批915亿元超长期特别国债支持设备更新资金已下达 - 人民日报",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXVFZlTzFPTlFmWGFoWG5JSlB2c0N1TEtjWEFIX1hJTDdlOFFSM2ZmVG5pcm1ZMUZuaXZmRnRTd2R6R3Qyb2N5WDlmSk1WRHc0Z0RnS0o4N3JFSnM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EOTJqbFFWTl8ybGkzYk5OUjZtdTlVLUFFRlpVcTBpTl9sVHB6TUNwYmE0X1E1WnNISGc2RjdfeVFETzVSTTJoOVpsazBqTzRfY2RGUUhGQksyTkFjd2lwWG9oMUNFQ1YzSHdxLW5ZRWtLMFctdFZTUUNRR0lEcEk?oc=5"
         },
         {
-          "text": "别让维修难成短板 - 新浪财经",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VMEV2aTFpQjdpdlpEb3otektXRVJfV1JPQlN5VjdXYjJSMWJpWFJzOFdxOS1XaS1YU0Y5endVbXM3V00zTVh4WjZBS0VORzZlRU5IVldoU01PTS1nMlRUOU83SlBMcG8zekVrNTlraHVqeWFBdy1LRg?oc=5"
+          "text": "新闻周刊丨北京车展老外扎堆中国新能源车何以打动海外消费者？-腾讯新闻 - qq.com",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PMVJJblNLLVRXbE15dnlzdXJsMEUtMTdSdjF2MXo0LUFUZzcyTU1XUGhIcHAwNFgyUDFZSTVxdFBFYk9XS2xSb3paaE9GQVYwZThhWVV0QS11WWQ0dkpBMFd3WHF4ZERGQjZqSg?oc=5"
         },
         {
-          "text": "新能源汽车连接器硅胶圈：五大核心供应商技术实力与适配场景全解析 - 搜狐网",
+          "text": "大众汽车2026年在华推出多款新能源车型 却是一笔单向支出 - RFI",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQi1oaFRRdjRmUEpWQkVVWnlfbUhPWTdvNl9LbElaODR5NF80dzE1Vk14ZVBremNpYUVUaTBQTFptNW1CS29ZODUtZENDVVNUQjk0aWZXdUhTaTlWWTdXcTVIbjRPMHZsZEgyYXhzREs0NWh0MlUwVGFyYVpDY1o2RFcwQUwxOWpDbEFWVA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNLWZldkx2SVEzNktJejMyTkZJMDYxSUxJazlGN2ItV2NMVTJ4TGtnM2RyV2YtM0w1SXVJUDk5NGZ2SFRoNVJ2SUdqc3F1YV9YT2NJN2xxOUdmTS00eW1tQ1pEcDdNMnBEbzhXcHFXWTEtRWpma3NNSGFyWndhS0lmbzNaOHI2NVc2Mk8wb1B0V2xTU2lURW5yRFZLU2QtMkZucUVPUGRiY1lJOHlTZzFLRTBKV1ZYM25pTUFabEZDTlp3T2J6VVd5Rk5QWWFNNnlwcjYtd05XQm1OSE9HaHNqX0tCMVIyLS1XSjVDTUMxVk56QVM5OHgwWktLMWVjNkdSUXhWaUJaempqUFhjRUpUUmNSTklhd242Q3J6eVhDeXBKUnJJYmNxNWp2dDNScnV3NGZaWFJOMWZqV2t3bVQwUndvbFBrbl9rbTVHSV9hMUNKSEJmQWVkYkFLVGpzYWZiNE9zbnBqd0Q3dUJ6LXh2c3ZsbUJRQ3ZiTWM3Z2JwYmNtdnJndFE?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "World News in Brief: Displacement in South Sudan, fraud centres in the Philippines, new migration patterns in Latin America",
-          "summary": "In South Sudan, the UN aid coordination office [OCHA] reported on Thursday that conflict and flooding continu…",
+          "title": "Global demining work strained by rising conflicts and shrinking aid",
+          "summary": "Demining experts from around the world have been sharing their collective shock at the widespread and growing…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167419"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167423"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Lebanon strikes deepen crisis as hunger rises and conditions worsen in Gaza",
-          "summary": "At least nine people were reported to have been killed in southern Lebanon on Thursday, as ongoing hostilitie…",
+          "title": "‘Real impact on the ground’ needed as Indonesia backs UN reform",
+          "summary": "Indonesia is expecting a “strengthened multilateral system that delivers real impact on the ground,” as one o…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167418"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167429"
         }
       ],
       "briefs": [
         {
-          "text": "Abuse of women journalists made ‘easier and more damaging’ by AI",
+          "text": "Gang-controlled streets, shuttered newsrooms: How violence is eroding Haiti’s m…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167416"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167414"
         },
         {
-          "text": "DPRK Korea: Continued militarisation a ‘serious concern’, political affairs chi…",
+          "text": "World News in Brief: Aung San Suu Kyi released from prison, Israel’s new death…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167415"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167428"
         },
         {
-          "text": "Hormuz crisis strangling global economy, Guterres warns, demanding solutions to…",
+          "text": "Artemis II astronauts underscore our shared humanity, in historic UN visit",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167411"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167427"
         },
         {
-          "text": "Central Asia celebrates 20 years as a nuclear-weapon-free zone",
+          "text": "Nuclear fears resurface among younger generations amid global tensions",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167410"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167426"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "01:15",
+          "title": "Potential Route To Photonic FPCA Using NV Low-Loss Phase Change Material (Oxford)",
+          "summary": "A new technical paper, “Nonvolatile photonic field-programmable coupler array,” was published by researchers…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/potential-route-to-photonic-fpca-using-nv-low-loss-phase-change-material-oxford/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:01",
           "title": "Chip Industry Week in Review",
           "summary": "Google's TPUs now for sale; 2/3nm capacity crunch; IC tool sales to China stopped; memory shortage widens in…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/chip-industry-week-in-review-136/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "23:00",
-          "title": "Chips Sense Free Radicals With Speed",
-          "summary": "When things go bad—be it beer, batteries, or blood—they generate a certain class of molecules called free rad…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/epr-spectroscopy-free-radicals-chip"
         }
       ],
       "briefs": [
+        {
+          "text": "Chips Sense Free Radicals With Speed",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/epr-spectroscopy-free-radicals-chip"
+        },
         {
           "text": "Transforming DRC Closure At Advanced Nodes",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "Foundry Capacity Is Limiting Who Competes At Leading Edge Nodes",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/foundries-capacity-is-limiting-who-competes-at-leading-edge-nodes/"
-        },
-        {
-          "text": "Unlocking High-Speed Serial Link Signal Integrity With AMI Model",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/unlocking-high-speed-serial-link-signal-integrity-with-ami-model/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "World News in Brief: Displacement in South Sudan, fraud centres in the Philippines, new migration patterns in Latin America",
-          "summary": "In South Sudan, the UN aid coordination office [OCHA] reported on Thursday that conflict and flooding continu…",
+          "title": "Global demining work strained by rising conflicts and shrinking aid",
+          "summary": "Demining experts from around the world have been sharing their collective shock at the widespread and growing…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167419"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167423"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Lebanon strikes deepen crisis as hunger rises and conditions worsen in Gaza",
-          "summary": "At least nine people were reported to have been killed in southern Lebanon on Thursday, as ongoing hostilitie…",
+          "title": "‘Real impact on the ground’ needed as Indonesia backs UN reform",
+          "summary": "Indonesia is expecting a “strengthened multilateral system that delivers real impact on the ground,” as one o…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167418"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167429"
         }
       ],
       "briefs": [
         {
-          "text": "Abuse of women journalists made ‘easier and more damaging’ by AI",
+          "text": "Gang-controlled streets, shuttered newsrooms: How violence is eroding Haiti’s m…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167416"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167414"
         },
         {
-          "text": "DPRK Korea: Continued militarisation a ‘serious concern’, political affairs chi…",
+          "text": "World News in Brief: Aung San Suu Kyi released from prison, Israel’s new death…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167415"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167428"
         },
         {
-          "text": "Hormuz crisis strangling global economy, Guterres warns, demanding solutions to…",
+          "text": "Artemis II astronauts underscore our shared humanity, in historic UN visit",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167411"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167427"
         },
         {
-          "text": "Central Asia celebrates 20 years as a nuclear-weapon-free zone",
+          "text": "Nuclear fears resurface among younger generations amid global tensions",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/04/1167410"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167426"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "17:13",
-          "title": "贺利氏（Heraeus）公司战略转型全景解析 - 搜狐网",
-          "summary": "贺利氏（Heraeus）公司战略转型全景解析 搜狐网",
+          "time": "01:50",
+          "title": "偷拍员工如厕照示众 企业管理岂能越界失度 - MSN",
+          "summary": "偷拍员工如厕照示众 企业管理岂能越界失度 MSN",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjBtSmFPNDVxRGxZaWxvUFduRVJDYXVRaWtRVnQ2M1ZHajljNnBOQ09GR2N3WTNVVElJSXluYnJFSnM4ZWlWVFJ6MG94ZnI3Y1FybVhYaDlITGlLcE51bVdWNzNlUU1NWC05SlVFWngwSUxaT0gtUTdPMjFFSGNsNEtfam9WOUh5UUo4SA?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQUUNXZGRFeWJNdVhVQ3ZvaXhET2RnMVk3RHIyUWJIZExjRW8tMWNuY3lnT1M2UURxRmUzX2xmd2tPS3pQZnhZVlJGdHhDaTNmTDk2SHdKWGYyVEpTbDk3WThfNEJmckFWT2FHSFAzdzRoOGxrOWNqVDB4RWJzWW1ab3RweG9ENmExZzU3djVYRlZhY3ZseFRxNUJwQno2cVZJbTdfWEJLSmdaeWk1VEg0QnJzenVjSjVhXzg2LTFHa0IwcEdUeDNGSUx6MUhXanh2UVNYd2M1N1lDTHNaTTlsRUppMjI1VFlJTUN4S2c5XzlCNm9EN2VXVk9UZ1ZndHhubHZPc24yaklrT3BhOXUzY2dZZGVCTE9JU0dwcHhCRmU5MjdzMjMzS2dnMzZBTXVkcFRldXpOVmRRNHJMMEhuWlRBZw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "12:51",
-          "title": "中国一汽：以数据与AI融合驱动 共探EOA时代企业管理新范式 - 新华网",
-          "summary": "中国一汽：以数据与AI融合驱动 共探EOA时代企业管理新范式 新华网",
+          "time": "23:28",
+          "title": "郭可盈从演员到家族企业管理者的转型过程是怎样的？ - 手机新浪网",
+          "summary": "郭可盈从演员到家族企业管理者的转型过程是怎样的？ 手机新浪网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFJMbzU0NEltWVZfcEo3UHVXZ0JTd1Q3VF9PZE1vbVpxQjRralVzNVFRNEd2NTkzZG9HMmhaM0ZncVFpQ0ZFU2hoTG4zUGpVRVRkOUkycUhxakQ2emZSRGVZdU9xbV9FaS02bDVjR2NQN3U3Sjh4VXlnWHZPV1dXTGZB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmN4bnZmMUo5OWJveG91YUJXYkZZelNjU3Via0I4M09RbjVDNDZLaWtVTWFTenhvYlVlY19QUTUzSmdPcTkxRm5RUXVENGl0UUpPdXJHb3JGbkhzN2ZkdmJEYk5samFBUDNmSXpqemJodjZvZ3NsMDY5RmRVcE9TYWowLWp2X001TE9oNGRscFZ1UEpsb0d4TzFmM0Rsbld0S3REbw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "市场监管总局对上海奔汇企业管理有限公司罚款200万元 - 新浪财经",
+          "text": "免费参加：AI赋能供应链韧性论坛 - 新浪财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IMlRUMWNVcW81M3R2dWxJS2QtcXNnNlhZNEVNOVROVGp1YUZqejhkb3RSVnVOZzlKc3VUVUxTazNEbVhldlpJTEVrTlQ3a3RGTGtFU2tjbENKS1pIVjdvS215TkZiaTVlZXhNcEtYZXVTaWdyTDdkN1ZhRnlJdw?oc=5"
+        },
+        {
+          "text": "埃克森美孚：第二季度展望显示，公司管理及融资费用预计为7亿至9亿美元。 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd1R1UzdneV9tYS1KanNhVDNTUDU4bXUzLWF5dHZLRTk2ekV5UzV3bnJsQzBFTEpTeGpGN2RtR2F2Z19jdDFUWENldzFneFEzWTBRSF9PX2xkWHU3WVZQcEtIYnRrUTZvdkJ6a2ZVUXprX3NBMDVxWDRMdnZpaFFTVVp2TTFHaXhDVmdwUHlUUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeV9xLVU5ZU00b0NZcnlVMGZ0UmpCY3ZheEUwd0F4cThwYVVOU1VEYXhlTW1RS1RsLVpMbEY4TVZmeEUzYnVjYnFFRnVaQkFFekM2WHZBaGZMRURnN0FBMWt6Wlp1TUFYeHhWcnlyc2tneGhCQ1lZTk56UXN4TE1UbTBnUEo?oc=5"
+        },
+        {
+          "text": "贺利氏（Heraeus）公司战略转型全景解析 - Sohu",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjBtSmFPNDVxRGxZaWxvUFduRVJDYXVRaWtRVnQ2M1ZHajljNnBOQ09GR2N3WTNVVElJSXluYnJFSnM4ZWlWVFJ6MG94ZnI3Y1FybVhYaDlITGlLcE51bVdWNzNlUU1NWC05SlVFWngwSUxaT0gtUTdPMjFFSGNsNEtfam9WOUh5UUo4SA?oc=5"
         },
         {
           "text": "国泰集团：钽铌业务是公司战略新兴产业 - 东方财富",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QYV9WZkF6b3VZR3lTTkFNeFpNLVhfdUdETDRXSFJZSXdiU1lRM2N5bklkMi01cl8xNFhDeENkT2dTaTd4OWhDVTZaTkhBd2hPYXAzZExwb194dTgwdk50bg?oc=5"
-        },
-        {
-          "text": "筑博设计股东西藏筑就企业管理合伙企业（有限合伙）28天减持12.58万股，套现191.59万元 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JWHVfdkh1NVlKRy1GYm5tenBOLVh4dlRDaDJHVm83a1FUaGRHaE9GZHpKSWtORTdwN09VVU92cGdqUkJqZ1BGeGE2N0JTbTF6V0dRTGlTUm5yd2ZCWkxrcFVFR2NaZFIyZk5Eb2VrYW51UmpmLW1meVRsXzl5UQ?oc=5"
-        },
-        {
-          "text": "在最新召开的电话会议中，HF Sinclair公司管理层透露，其炼油业务板块在第二季度的原油日加工量预计将维持在60万桶至63万桶的区间内 - Bitget",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtRlo0NTZwOWFLRVc0MFpUMUt0NkZSVW85SXBXajVVOUpraVpBek94ZkxxbGdrZ1J4WkdFMXV1MzlxcHRENzBPREtjb3lYS25lTWJ0YjlKZUdPUXFqdGFrcUtGTTM4Z9IBa0FVX3lxTFBianNybHdBWUxjdEFzRjdRdUVaV0V1MlhUXzVZWjB5YW90OVR2Y1o0VGhtRFRkOEZJeHYtZDAzVVc3M1k0b090b1ExM3NHRDFBOWtvNHRUbk42T1Z5eUhUQlZxRzd0eVlkM2lr?oc=5"
         }
       ]
     }
