@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月3日",
+  "publishDate": "2026年5月4日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "Mysteel宏观周报：政治局会议部署经济工作，制造业PMI处扩张区间 - 我…",
+      "title": "全球车市最新数据曝光！国产新能源一骑绝尘，买车人都该看看 - 车家号",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Oxford physicists achieve first-ever “q…",
+      "title": "Scientists built a memory chip that bre…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:30",
-          "title": "Mysteel宏观周报：政治局会议部署经济工作，制造业PMI处扩张区间 - 我的钢铁网",
-          "summary": "Mysteel宏观周报：政治局会议部署经济工作，制造业PMI处扩张区间 我的钢铁网",
+          "time": "07:02",
+          "title": "全球车市最新数据曝光！国产新能源一骑绝尘，买车人都该看看 - 车家号",
+          "summary": "全球车市最新数据曝光！国产新能源一骑绝尘，买车人都该看看 车家号",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OcVM4THp3NVBwTWdpVF85OWtUQklybDl3OENveWtZNkcyU3BKMzUtY1hORWN5OG04dlc1bkpDU3VPcnRnQ3NvaGpXSEFnR1pBRzdQajVrSTE4a2ZkQVUwbVRNNFE1Ujhh?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96TDNQSm1paU9aOEhGczcyS3hWSTZWUnIwUzRPOU5rOUtZTmxrcUVudkdHcVdCejFBQkZxLTlGV2t6djhUZ3pueWVHN21MSzlXZGdfZi1TMHZDcTVUaE9mNk5FSjJTQkxwLVQw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:16",
-          "title": "从肯尼亚茶厂到苏里南矿山，新能源“中国方案”缘何走红海外？_时政新闻 - 大众网",
-          "summary": "从肯尼亚茶厂到苏里南矿山，新能源“中国方案”缘何走红海外？_时政新闻 大众网",
+          "time": "07:00",
+          "title": "半导体产业机遇连连 新人开启职业发展的理想舞台 - 联合早报",
+          "summary": "半导体产业机遇连连 新人开启职业发展的理想舞台 联合早报",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5RTURKb0VQbl9aT1gtcEhGUFVCcU1zV1lXRWFTcTNUYlVPd2gwWXNwYUJERm0xUGwxY3hjQWE1MnhkY09Tb05ITlYxTGI1bmZhb1M5ejBXMkRZVFk3NlRyN0RLN05yQmJEWl93ZHd4VmdhSjRyR1hZQUZXUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAydUtpMGlpRlRrLXlvNm5Ram15YlVFeEE3d0VDdHlmUm5RTGpxTUQ0bU9rbG9VRkFaQWpGdnNhN0llVGxENlZEWmc3VmtXa2k2NDF6MXZBM2ZxcWRCQnBxMzVseUZTRzlKTWRxVWJLVGVwUk0?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "智利3月铜产量下降9% 制造业亦现萎缩 - AASTOCKS.com",
+          "text": "【视频】马自达新能源双子星：EZ-60/EZ-6双车实拍，车型详解及行情奉上 - 车家号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR3JJV2ZjN3hsWWVjQzg2blBGTTE2ZXUzYVFvWlJvVER1dUNxeDdNbFpVMm1ZSmlHSjBFcHo3SWNqdnRDRkRUZ2VuazZFSHFQVE9DQU4yWlNnQWJfcWxFc054T0p6d1ZkdHRqWGdOMF95OXd3VmU3QVVjX1dpa2NDdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YVXJZSldrcFJYNnQtWGZSeTJyQjlXaGJNRGdMQmpDT3A0ZmhuVDJLQmdXeFctdi0yb210MVZ2WnNUXy1MMkZuUGpIbjBGYzNZVDhGMVFCTDkwdUk?oc=5"
         },
         {
-          "text": "今年第二批915亿元超长期特别国债支持设备更新资金已下达 - 人民日报",
+          "text": "新能源车企9月销量出炉:理想交付36060辆,小鹏汽车环比增长12% - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EOTJqbFFWTl8ybGkzYk5OUjZtdTlVLUFFRlpVcTBpTl9sVHB6TUNwYmE0X1E1WnNISGc2RjdfeVFETzVSTTJoOVpsazBqTzRfY2RGUUhGQksyTkFjd2lwWG9oMUNFQ1YzSHdxLW5ZRWtLMFctdFZTUUNRR0lEcEk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kWUwxaF9lM09Ya0tWcE5oZ2ZpUk1TYkZzUXVjUkg1YTZGWmpBZk55QTdEMV9BaGh4OVRHNnB0OG1jRVA3MU9UaWhXRnp2MWd0XzB1Um45MEo2Ym5QYUpvMEJmYUVpTkZ6RmN1dEE1NlRQRC1nMmhMZl9zeU91UQ?oc=5"
         },
         {
-          "text": "新闻周刊丨北京车展老外扎堆中国新能源车何以打动海外消费者？-腾讯新闻 - qq.com",
+          "text": "《德国数据日志》4月德国:PMI:制造业- 前值: 52.2外汇行情Forex - 外汇新闻内容News Content - AASTOCKS.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PMVJJblNLLVRXbE15dnlzdXJsMEUtMTdSdjF2MXo0LUFUZzcyTU1XUGhIcHAwNFgyUDFZSTVxdFBFYk9XS2xSb3paaE9GQVYwZThhWVV0QS11WWQ0dkpBMFd3WHF4ZERGQjZqSg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ3M0OUExR2dqQVVDajFUdU1VUzYxd1lBZXdZeWk1Tmc5UW5iSlo5RGVTM3FFVlNmVm0xUXNFSGQ4Um1Vbl9sOTA0YnNTNXRyS0FhX3VMYS11T3E0dWMtOFJXTEpyeGdDYTVlU2Q4TG1WMV9Tb0R3a1Q4YmV1YTJRMktKNHF0TlRSNHVvYjZ6c2VraEJuei1xYg?oc=5"
         },
         {
-          "text": "大众汽车2026年在华推出多款新能源车型 却是一笔单向支出 - RFI",
+          "text": "江淮汽车上半年业绩腰斩 欲借新能源翻盘陷困局 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNLWZldkx2SVEzNktJejMyTkZJMDYxSUxJazlGN2ItV2NMVTJ4TGtnM2RyV2YtM0w1SXVJUDk5NGZ2SFRoNVJ2SUdqc3F1YV9YT2NJN2xxOUdmTS00eW1tQ1pEcDdNMnBEbzhXcHFXWTEtRWpma3NNSGFyWndhS0lmbzNaOHI2NVc2Mk8wb1B0V2xTU2lURW5yRFZLU2QtMkZucUVPUGRiY1lJOHlTZzFLRTBKV1ZYM25pTUFabEZDTlp3T2J6VVd5Rk5QWWFNNnlwcjYtd05XQm1OSE9HaHNqX0tCMVIyLS1XSjVDTUMxVk56QVM5OHgwWktLMWVjNkdSUXhWaUJaempqUFhjRUpUUmNSTklhd242Q3J6eVhDeXBKUnJJYmNxNWp2dDNScnV3NGZaWFJOMWZqV2t3bVQwUndvbFBrbl9rbTVHSV9hMUNKSEJmQWVkYkFLVGpzYWZiNE9zbnBqd0Q3dUJ6LXh2c3ZsbUJRQ3ZiTWM3Z2JwYmNtdnJndFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tNTQtbjByaWNxcEhDdFFyeDEyT0ZkNHM1dlpKQVdjZF82LUlKbXVLUG5UYm40c1o5MXVweTNROGFYUm1mOGp0MGRBU0NMdzNBWmVlUm5hMDd5bWw5cFZCNWp6UTgwNlRJSmducFNkSmVRVE9Dc2JlbmxsbElUZw?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:54",
-          "title": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum physics",
-          "summary": "Scientists have created a powerful new way to control quantum systems, achieving the first-ever demonstration…",
+          "time": "15:08",
+          "title": "Scientists built a memory chip that breaks the rules of miniaturization",
+          "summary": "A new kind of memory device may finally solve the problem of overheating and battery drain in electronics. By…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260502233908.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "12:56",
+          "title": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme worlds",
+          "summary": "Astronomers have unleashed a powerful new AI tool called RAVEN to comb through data from NASA’s TESS mission—…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260502233926.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum ph…",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "14:44",
-          "title": "This AI knew the answers but didn’t understand the questions",
-          "summary": "For decades, psychologists have debated whether the human mind can be explained by one unified theory or must…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "This AI knew the answers but didn’t understand the questions",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "A photon was teleported across 270 meters in stunning quantum breakthrough",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Scientists just captured a mysterious quantum “dance” inside superconductors",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/04/260427050550.htm"
-        },
-        {
-          "text": "New “optical tornado” technology could transform quantum communication",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260424233215.htm"
-        },
-        {
-          "text": "AI just discovered new physics in the fourth state of matter",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm"
         }
       ]
     },
@@ -314,21 +314,21 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:50",
-          "title": "偷拍员工如厕照示众 企业管理岂能越界失度 - MSN",
-          "summary": "偷拍员工如厕照示众 企业管理岂能越界失度 MSN",
+          "time": "10:11",
+          "title": "巴菲特盛赞苹果CEO蒂姆·库克：美国企业管理史的一大奇迹 - 风闻",
+          "summary": "巴菲特盛赞苹果CEO蒂姆·库克：美国企业管理史的一大奇迹 风闻",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQUUNXZGRFeWJNdVhVQ3ZvaXhET2RnMVk3RHIyUWJIZExjRW8tMWNuY3lnT1M2UURxRmUzX2xmd2tPS3pQZnhZVlJGdHhDaTNmTDk2SHdKWGYyVEpTbDk3WThfNEJmckFWT2FHSFAzdzRoOGxrOWNqVDB4RWJzWW1ab3RweG9ENmExZzU3djVYRlZhY3ZseFRxNUJwQno2cVZJbTdfWEJLSmdaeWk1VEg0QnJzenVjSjVhXzg2LTFHa0IwcEdUeDNGSUx6MUhXanh2UVNYd2M1N1lDTHNaTTlsRUppMjI1VFlJTUN4S2c5XzlCNm9EN2VXVk9UZ1ZndHhubHZPc24yaklrT3BhOXUzY2dZZGVCTE9JU0dwcHhCRmU5MjdzMjMzS2dnMzZBTXVkcFRldXpOVmRRNHJMMEhuWlRBZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTURsYUJoTlNwOGpBSElvVG9HOElYbUFXNFRlclYwWUJSemxoTUhqdXdkQ3E5VkxFaWk2emhSbTBGVHMtaUF0TVhGeUdCYmFhRk81bmdTRUU1SHVVN1AyNEIwYVhjZTRxa3dvVjJnUmVBdUxn?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:28",
-          "title": "郭可盈从演员到家族企业管理者的转型过程是怎样的？ - 手机新浪网",
-          "summary": "郭可盈从演员到家族企业管理者的转型过程是怎样的？ 手机新浪网",
+          "time": "23:22",
+          "title": "郭可盈从演员到家族企业管理者的转型过程是怎样的？ - 新浪财经",
+          "summary": "郭可盈从演员到家族企业管理者的转型过程是怎样的？ 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdmN4bnZmMUo5OWJveG91YUJXYkZZelNjU3Via0I4M09RbjVDNDZLaWtVTWFTenhvYlVlY19QUTUzSmdPcTkxRm5RUXVENGl0UUpPdXJHb3JGbkhzN2ZkdmJEYk5samFBUDNmSXpqemJodjZvZ3NsMDY5RmRVcE9TYWowLWp2X001TE9oNGRscFZ1UEpsb0d4TzFmM0Rsbld0S3REbw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2aGdNSE1QeEVLVll3bDlhRXV2VWwtaTUzUWpqcVhiUjMyaXdPcmtrUXVlZ2JCU05CanMtYnJEcmIzdy1HWVZFOHpFNnJQdnY5dUpLZjYtR2UzRkw1cHJoRW95dF84RE11LXN4azg0UllSWmI1dlkwSi1KbkxTZw?oc=5"
         }
       ],
       "briefs": [
@@ -343,14 +343,14 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeV9xLVU5ZU00b0NZcnlVMGZ0UmpCY3ZheEUwd0F4cThwYVVOU1VEYXhlTW1RS1RsLVpMbEY4TVZmeEUzYnVjYnFFRnVaQkFFekM2WHZBaGZMRURnN0FBMWt6Wlp1TUFYeHhWcnlyc2tneGhCQ1lZTk56UXN4TE1UbTBnUEo?oc=5"
         },
         {
-          "text": "贺利氏（Heraeus）公司战略转型全景解析 - Sohu",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjBtSmFPNDVxRGxZaWxvUFduRVJDYXVRaWtRVnQ2M1ZHajljNnBOQ09GR2N3WTNVVElJSXluYnJFSnM4ZWlWVFJ6MG94ZnI3Y1FybVhYaDlITGlLcE51bVdWNzNlUU1NWC05SlVFWngwSUxaT0gtUTdPMjFFSGNsNEtfam9WOUh5UUo4SA?oc=5"
+          "text": "中国一汽：以数据与AI融合驱动 共探EOA时代企业管理新范式 - 新华网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOFJMbzU0NEltWVZfcEo3UHVXZ0JTd1Q3VF9PZE1vbVpxQjRralVzNVFRNEd2NTkzZG9HMmhaM0ZncVFpQ0ZFU2hoTG4zUGpVRVRkOUkycUhxakQ2emZSRGVZdU9xbV9FaS02bDVjR2NQN3U3Sjh4VXlnWHZPV1dXTGZB?oc=5"
         },
         {
-          "text": "国泰集团：钽铌业务是公司战略新兴产业 - 东方财富",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QYV9WZkF6b3VZR3lTTkFNeFpNLVhfdUdETDRXSFJZSXdiU1lRM2N5bklkMi01cl8xNFhDeENkT2dTaTd4OWhDVTZaTkhBd2hPYXAzZExwb194dTgwdk50bg?oc=5"
+          "text": "路德科技股东武汉德天众享企业管理合伙企业（有限合伙）拟减持150万股套现3822万元，为首次减持 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mSTVRYjVKTTV1TTNOQ2prVmQtSFpxRlVGMDlZUHRPSFk5UjlPZ3hsZ08zOHFfMmI2bmJHemlQd18ybUZhSFN5Zl9qNFJiWUUwTS16OXZKZzNxaDc1Wmlac1VXOEhCUDBqeEc5RkxnTjZ1MGEzT0JuSXFadHpiZw?oc=5"
         }
       ]
     }
