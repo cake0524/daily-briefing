@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月5日",
+  "publishDate": "2026年5月6日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "为啥说今年买车，比往年都更“简单”？网友：看这两样就可以了 - 车家号",
+      "title": "岚图卢放谈传统豪华品牌搬经典老车“卖情怀”，称中国新能源汽车突围是靠持续创新、…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "MIT scientists finally reveal the hidde…",
+      "title": "Scientists connect “time crystal” to re…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:02",
-          "title": "为啥说今年买车，比往年都更“简单”？网友：看这两样就可以了 - 车家号",
-          "summary": "为啥说今年买车，比往年都更“简单”？网友：看这两样就可以了 车家号",
+          "time": "07:44",
+          "title": "岚图卢放谈传统豪华品牌搬经典老车“卖情怀”，称中国新能源汽车突围是靠持续创新、不断超越自我 - 新浪财经",
+          "summary": "岚图卢放谈传统豪华品牌搬经典老车“卖情怀”，称中国新能源汽车突围是靠持续创新、不断超越自我 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VUk9IWktOaWZFTUV6dnI2VkxTSzZyNklUcXVFNnpYNTBwaG5EMl9VUnRGTXNUdGxITTdMcFZNbnFCM1l5VHNRNlNDVlRRU3JFdF95cE5neGdIZkE?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEeDNMdXRtRjFmcU5XUjg2eHRBUTRaWEZXaWMxQUk2Nm9QLTFGUWdSVHROU0Nsb01pdmhmckR4NE1oU1FVYURPMXlBQTBmZlF2MlZfbVFNREdsTkhjYVZQVm9EdURZUFdxajU1Y1dXRWJ0Qm1uYXQ5VzFYM09TSzA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:59",
-          "title": "【视频】为什么新能源轿车的外观普遍都保时捷化 - 车家号",
-          "summary": "【视频】为什么新能源轿车的外观普遍都保时捷化 车家号",
+          "time": "06:40",
+          "title": "维通利开启申购 产品供应电力电工、新能源车、风光储等领域 - 同花顺",
+          "summary": "维通利开启申购 产品供应电力电工、新能源车、风光储等领域 同花顺",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAybmVEZi00c1RyVHdvamlEVkt1WHpmVWZvTDIwejZ4OUo0aTFscXNOM3Qwd1ZlLWJDSkk1MVY5cXdWNEwxQzhBOW1OVUdtYnRpSHE5Q1o4TDJvOXhBMDJfQmxBU2d3T3VwVC0w?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wNTFmcXdJcVgzUDlGU3FqQ0tHQy13OGEwSFJZQzdqNlBFQU56eHNpOU5ONkhDVGVSS045bDd0blg4cXV3TkpBNGljaUxtRkItUnZpVmRWYXlvZUFGcmVaYjh3?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "【视频】国产新能源盛行，BBA电车还有人看吗？ - 车家号",
+          "text": "每日债市速递 | 我国制造业PMI连续两个月处于扩张区间 - Sohu",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DX2pqRGM5aVdVS1duNmFscU83aHRWUmlUTnVZVDRLME5HREtjN2ttN3habzlWZVE3ZnJKUDNKWkMxVjgwVkVTZmRPSHd5M0tUdm5KTHlNZUgyV3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oelNmN1BGVmNZOVZDQjNfS0Y0UmJ1WUZtZko2bU0xM2VoOVJMaHBzM25UQzhjNndGcm15cmFBODhpc1c4cThyOGdNM25DV3hOZWJTZA?oc=5"
         },
         {
-          "text": "四川新能源商用车迎“风”快跑 - 四川日报",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3OGJ6MGZSWENrYkFRdUIzcmtqTURkNjFQVjlMcVhXLTdkQnprWFFkQTkzVjhJYlR2czhqQ3pGbWZTczJzdVg3dThINGtrejliZk12bHdoYWdMbzNVYmFlWmsxWVpxVENiaWc?oc=5"
+          "text": "比亚迪、赛力斯、长安汽车发布4月产销快报；浙江投用新能源车高速移动充电设备 | 汽车早参 - mrjjxw.com",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBNNG4xcXlYbWxKeWhETGZIMWdLM2dxckpNOTdLTVpGVXNZeFhtdVhKRkdOZktDaFB4UTAzT19WVlZaQThwbk42bExoMlQ3S1ZuVFBxVHo5WlF1bEdXYVZwMG5yOTdQUQ?oc=5"
         },
         {
-          "text": "美国3月工厂订单全面超预期，AI热潮推动制造业复苏 - 华尔街见闻",
+          "text": "【视频】路虎发现运动新能源 - 车家号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rSkdNODZaM1MyMnRfeWgzbnZGZ1NVWjJ0b0xIeFQyOXF6cUtwVTdEdUxWbEdsS01fSWxESE1KV3FjaUxKQm9ySkZFU0poYUpqLUJB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UcmRSSG1fdDEyUTJBMWZ0bHowczlnc0x4NWZ1V3M2X2dPbXRBZV84c0FTbm5kVlFDUlZIOUp3RnJSLWQtTkVlWklud3ZaQ0MwTnRGSjJaUkxQMlE?oc=5"
         },
         {
-          "text": "协鑫新能源（00451.HK）：5月4日南向资金减持143股 - Sohu",
+          "text": "打造环保交通体系 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUlxdm5KdFdSRUNBYUdGbDIzWDNaTnpzaGo5TTR5dEpMVkdoQXR2cnlDQVByMUhVOGdCa0VjMTM4bmpYS0hydG9ud2lTU1hZYmdPZXhCNUU2WHRfNDFDYS1FWFRyYS1RbHRxNi1USjBfYWZvSG5fblAyZzdoX3ZHeGVvUnJlWkMtcGdlUw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oTkstNkVLbmp0ZlJJazVLcUFMbHNNTXd4Wjc5Z0huTUI3S2VxSElUUEZ4dWdBRlpDbjl2YnQ3ZjdqT2NBbjd2U00tYTlhS2JqUTAxcm9iYXNuTHVZVC1KalhDMUVLYUkxdkEwdFJmNkdyWVZsRjBPdw?oc=5"
         }
       ]
     },
@@ -74,43 +74,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:14",
-          "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
-          "summary": "For decades, relaxor ferroelectrics have powered everything from medical ultrasounds to sonar systems, yet th…",
+          "time": "04:53",
+          "title": "Scientists connect “time crystal” to real device in quantum breakthrough",
+          "summary": "A strange kind of matter that “ticks” forever without energy input has just taken a major leap toward real-wo…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504154024.htm"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:08",
-          "title": "Scientists built a memory chip that breaks the rules of miniaturization",
-          "summary": "A new kind of memory device may finally solve the problem of overheating and battery drain in electronics. By…",
+          "time": "04:21",
+          "title": "Stanford’s new chip boosts light 100x with surprisingly low energy",
+          "summary": "Researchers at Stanford have developed a compact optical amplifier that dramatically boosts light signals usi…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260502233908.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504154021.htm"
         }
       ],
       "briefs": [
         {
+          "text": "Scientists just created exotic new forms of matter that shouldn’t exist",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm"
+        },
+        {
+          "text": "MIT scientists finally reveal the hidden structure of a mysterious high-tech ma…",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm"
+        },
+        {
+          "text": "Scientists built a memory chip that breaks the rules of miniaturization",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260502233908.htm"
+        },
+        {
           "text": "Powerful AI finds 100+ hidden planets in NASA data including rare and extreme w…",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260502233926.htm"
-        },
-        {
-          "text": "Oxford physicists achieve first-ever “quadsqueezing” breakthrough in quantum ph…",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260501052828.htm"
-        },
-        {
-          "text": "This AI knew the answers but didn’t understand the questions",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260429102035.htm"
-        },
-        {
-          "text": "A photon was teleported across 270 meters in stunning quantum breakthrough",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/04/260429102030.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:51",
-          "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "time": "18:00",
+          "title": "GPT-5.5 Instant System Card",
+          "summary": "GPT-5.5 Instant System Card",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-5-5-instant-system-card"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:00",
-          "title": "How OpenAI delivers low-latency voice AI at scale",
-          "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless…",
+          "time": "18:00",
+          "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+          "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations,…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale"
+          "url": "https://openai.com/index/gpt-5-5-instant"
         }
       ],
       "briefs": [
         {
-          "text": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all,…",
+          "text": "A blueprint for using AI to strengthen democracy",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
+          "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/"
         },
         {
-          "text": "Cyber-Insecurity in the AI Era",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/"
+          "text": "New ways to buy ChatGPT ads",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads"
         },
         {
-          "text": "Operationalizing AI for Scale and Sovereignty",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/"
+          "text": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/openai-pwc-finance-collaboration"
         },
         {
-          "text": "A new US phone network for Christians aims to block porn and gender-related con…",
+          "text": "Week one of the Musk v. Altman trial: What it was like in the room",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/"
+          "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "From Simulation Checkpoints To Continuous Physics",
-          "summary": "Reasoning in semiconductor design. The post From Simulation Checkpoints To Continuous Physics appeared first…",
+          "time": "05:14",
+          "title": "A Detailed Evaluation of A Production Server With High-End MRDIMM Main Memory (BSC, Micron, Intel, UPC)",
+          "summary": "A new technical paper, “Performance and Energy Benefits of MRDIMMs,” was published by researchers at Barcelon…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/from-simulation-checkpoints-to-continuous-physics/"
+          "url": "https://semiengineering.com/a-detailed-evaluation-of-a-production-server-with-high-end-mrdimm-main-memory-bsc-micron-intel-upc/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Designing Chips In The Context Of Rapidly Evolving AI",
-          "summary": "Long‑running agents, tool-calling LLMs, and multimodal chaos are rewriting edge compute rules, and making chi…",
+          "time": "04:45",
+          "title": "GPU Power Prediction Tool for AI Workloads (MIT, IBM)",
+          "summary": "A new technical paper, “EnergAIzer: Fast and Accurate GPU Power Estimation Framework for AI Workloads,” was p…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/designing-chips-in-the-context-of-rapidly-evolving-ai/"
+          "url": "https://semiengineering.com/gpu-power-prediction-tool-for-ai-workloads-mit-ibm/"
         }
       ],
       "briefs": [
         {
-          "text": "Potential Route To Photonic FPCA Using NV Low-Loss Phase Change Material (Oxfor…",
+          "text": "Pre-Silicon Verification and Validation Methodology Targeting Robust RISC-V Chi…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/potential-route-to-photonic-fpca-using-nv-low-loss-phase-change-material-oxford/"
+          "url": "https://semiengineering.com/pre-silicon-verification-and-validation-methodology-targeting-robust-risc-v-chip-designs-bsc/"
         },
         {
-          "text": "Chip Industry Week in Review",
+          "text": "Foundry-Compatible Grating Couplers Using an Inverse Design Framework (Yale)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-136/"
+          "url": "https://semiengineering.com/foundry-compatible-grating-couplers-using-an-inverse-design-framework-yale/"
         },
         {
-          "text": "Chips Sense Free Radicals With Speed",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/epr-spectroscopy-free-radicals-chip"
+          "text": "SDVs: Modular Drive Architecture Using Power-Packet-Based Sensorless Control (K…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/sdvs-modular-drive-architecture-using-power-packet-based-sensorless-control-kyoto-u/"
         },
         {
-          "text": "Transforming DRC Closure At Advanced Nodes",
+          "text": "Replacing GPU Compute Dies With PNM-Enabled HBM Cubes For Long-Context Decode A…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/transforming-drc-closure-at-advanced-nodes/"
+          "url": "https://semiengineering.com/replacing-gpu-compute-dies-with-pnm-enabled-hbm-cubes-for-long-context-decode-attention-ucsd-columbia-yonsei-u-nvidia-samsung/"
         }
       ]
     },
@@ -314,24 +314,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:01",
-          "title": "格尔软件（603232.SH）新增一起对外投资，被投资公司为上海无量中天企业管理合伙企业（有限合伙） - 证券之星",
-          "summary": "格尔软件（603232.SH）新增一起对外投资，被投资公司为上海无量中天企业管理合伙企业（有限合伙） 证券之星",
+          "time": "10:03",
+          "title": "免费参加：AI赋能供应链韧性论坛 - 新浪财经",
+          "summary": "免费参加：AI赋能供应链韧性论坛 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zRkVTNzVjVm9xZkMta1NwWWJ5U2pEMFpiMC1RN1c0MUhxb1ktSVFnNjZMZ0VQaEhSVXpZTk00VFJsam5vWGhYaXNaQWR1OWlVa0FMM2Z1aTI2Mk9TVlhjSTdKQVo?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSXFUeHdQZTY5QXFqeDZKd2RIYkxGRmJoOWVCLTk2TERsSW1pRW51NEUyV1diZjRoNGNTTkhxOWt2RUU4SkVxb2JMdnRuVjRJZm1lNlVYOFJHMlhycmc3b2tmUFRhOHFpUFJwdGx3Q0JFTG5lZFB2S1VnemFiNGg2c0dsVGU?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "05:15",
-          "title": "Trinity Capital Inc. 旗下基金已获得资格，可发行由美国小企业管理局（SBA）提供担保的债券，总额最高可达1.75亿美元 - Bitget",
-          "summary": "Trinity Capital Inc. 旗下基金已获得资格，可发行由美国小企业管理局（SBA）提供担保的债券，总额最高可达1.75亿美元 Bitget",
+          "time": "05:00",
+          "title": "什么是比特币财库公司？策略深度解析与数字储备的未来 - TradingKey",
+          "summary": "什么是比特币财库公司？策略深度解析与数字储备的未来 TradingKey",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3UFZXQkdmNWVTYW5MUjBCVVJvOERBM0VpMHFYOWR2Tkx1emxKaG83eFdhbl9GckRsUk9NRWtCUnhuM1JHOWhYbWVjbl85UmJiQVhYVHVrZlR6QVlwZ3Nydy1fYndUUdIBa0FVX3lxTFBQVk5Jb3dPM2FHNHNqUDRmeU5yRW9ESWlXOWJ0R0U0TENCVV95SkR6SFNBblgzckZKbGV1XzBLVzh0REgzWXB5WFRoamFnTXBRTTFvaEhaX1VEVmhNUHRPNUJ4Z2hFN0N5Y0xN?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeEszVjlUQnpRRXF6OF9mZ094bzVIM3lsYkJpNHNzLTUwZHRQeTlXR2R0aURUZWt4S1oyLV85RmxUSWlVdEZxa1B6cDREVk1xczhBTE1zX1pyX3pBZ1RyeXdLSmptc0Q2bHpXX2gyUFRBdXR0eGMwdVRTNUJGaF9wQ2JSb0xndVpobm5sR3c3bFFvX2ZqLVpSUmRlV3hhamU4aGZBUjVDWG0xTEI5djVlcG45eXA2YzhJdTNBVzV4TzVhbTUxWWtfd0oxUQ?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "格尔软件（603232.SH）新增一起对外投资，被投资公司为上海无量中天企业管理合伙企业（有限合伙） - 证券之星",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zRkVTNzVjVm9xZkMta1NwWWJ5U2pEMFpiMC1RN1c0MUhxb1ktSVFnNjZMZ0VQaEhSVXpZTk00VFJsam5vWGhYaXNaQWR1OWlVa0FMM2Z1aTI2Mk9TVlhjSTdKQVo?oc=5"
+        },
         {
           "text": "大型企业战略规划咨询：如何构建可持续发展的竞争未来 - O Maringá",
           "source": "Google News 商业分析",
@@ -341,11 +346,6 @@ window.dailyBrief = {
           "text": "巴菲特盛赞苹果CEO蒂姆·库克：美国企业管理史的一大奇迹 - 风闻",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTURsYUJoTlNwOGpBSElvVG9HOElYbUFXNFRlclYwWUJSemxoTUhqdXdkQ3E5VkxFaWk2emhSbTBGVHMtaUF0TVhGeUdCYmFhRk81bmdTRUU1SHVVN1AyNEIwYVhjZTRxa3dvVjJnUmVBdUxn?oc=5"
-        },
-        {
-          "text": "郭可盈从演员到家族企业管理者的转型过程是怎样的？ - 手机新浪网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc3lVdmtmSnJScXFRXzhJaHNvamlLbjVOOUg1Ry1PeHN6djhDTDM3X0U1cUQzT3dVM1FYVjh0NmZUZ0Q2UkZ0aFJ5aFVnMENLTU15NUFuZmRlYU95XzZpeFhncjFYZ3pZYmhPeUFYNjhZSEd2bE1JSEV2d2FwLXhGdFdTUnBSYXo2STRQSTVuaHBUektQNjd5dm55T19ORXRGSnNSUGsxcHlvc0JE?oc=5"
         },
         {
           "text": "郭可盈从演员到家族企业管理者的转型过程是怎样的？ - 新浪财经",
