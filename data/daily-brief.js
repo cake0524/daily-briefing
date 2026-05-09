@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月8日",
+  "publishDate": "2026年5月9日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "不装老好人了？特斯拉，对国产电动车“贴脸开大”，关键没法反驳 - 车家号",
+      "title": "【理响中国·经视图】更加突出先进制造业骨干作用 - 搜狐网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:03",
-          "title": "不装老好人了？特斯拉，对国产电动车“贴脸开大”，关键没法反驳 - 车家号",
-          "summary": "不装老好人了？特斯拉，对国产电动车“贴脸开大”，关键没法反驳 车家号",
+          "time": "07:40",
+          "title": "【理响中国·经视图】更加突出先进制造业骨干作用 - 搜狐网",
+          "summary": "【理响中国·经视图】更加突出先进制造业骨干作用 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4YUlSa3pVWnI1ZHNPY1NQYlJoZmZQdnRHRTFQUTU0VTV2WkZ3bzJZRWVnU2N4b0ZUQndydVlPRFJ0RkN2MGlVeDNoQVJ2T2hwcUYzdTNWRjVMVzQ?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRTJZVVZjWjd5RmdPVDRmU2tRWmREcEJRX3lVQm0zRnI1TGotQnB4cUhUY19UUzFmU25sRVVpTDZDcVF1VE5fZW11Y1JQSHcxRmF5MTVjcXlrVmFHZDBDNXBobmpMdzZ1Y0s0bVlIdFg1dzBJT0daaUhKYzYwV2ZXd0NvZDdDYTFmSGQyaA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:42",
-          "title": "特斯拉大降价加拿大网友感谢中国 中国新能源车推动竞争 - 中华网",
-          "summary": "特斯拉大降价加拿大网友感谢中国 中国新能源车推动竞争 中华网",
+          "time": "07:11",
+          "title": "向绿向新 能源强国建设加速推进 - 中国经济网",
+          "summary": "向绿向新 能源强国建设加速推进 中国经济网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DV093aEkxeWJqc0psOFJBSjdqVXE2S0t2MTdfNGNwQ1JISVdZbVFxSlhpRVA4SDlEY2tHUDRJQ05kVWFFVjQ1T3pXbFMwMERqci1SVFQ3eUpkNldVc0ZxZmI0eGk2U3pEd05EaEp0MjI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3MzVtekptVzBkai1mdDBnSDlhVGVpZFVGZlY0UVhJYXVtc29JTE1LQnh6Y1pUUFpIVDBBdGpGRm1vdkNJQUZyZEVKZHRjZm5zSDJucUx1ejZUYWNtaE5FdDM2RE50Y2s5YldRYWk1Yw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "吉利控股集团新能源渗透率达52.4% 被曝收购福特西班牙工厂车身车间 - Sina finance",
+          "text": "“世界工厂”变身新能源“超级试验场” - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93MVplcWZVVVBLX094Y1YzYmExMHRKTWROYjZXdWQxSGlRRTM0bWtJS29Gdlo2cG9VT2FSVlc1aG1va1pNai1waXZLSnRISmozWTB4c2VLN1BHNWpCb0llTXZIa19jY1M0QWt0MXduYWpnOGJRNkFTdg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTBMR2o5N1lqa2xONkFzN1RGLW1fRWpGSVBlQmtHMzRTcmk0dlJjNXd3YmlZRWJyZ25XQWpQaDJuSld3b0s4SXpJWU9KN01Ic0E2blpZbHVZSWdlMUp4RVBoQ3BFNnotZDJwMFl5c3hOUEtPU005bHdXWlNhX0FGNGVYQW1kUHot?oc=5"
         },
         {
-          "text": "技术深耕+生态共生 欧曼赋能新能源重卡高质量进阶 - 中国商用汽车网",
+          "text": "【理响中国·经视图】更加突出先进制造业骨干作用 - 中国经济网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xamlmdmdwaGxDenJQZnduazFtS1U4YWNzblBabFFfUXExMWFRR3JVQ0Ixclc2ZXZyMGg0ME9YZnJfNTNEVkxyMWlBRjNacnhSeGZWaUE2TXBmeE01eVhMYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aNjBjSnd4TWl3dGc1RVdwaTBrUXl0NnpCa3Y1YkN0cmxOZFVoallLLUpmNkotV0FhSjBfQ1lMQUhCUlNPaDUzRnVJb29MTUh5TEs1T2FDZ1E0cFVJa040?oc=5"
         },
         {
-          "text": "欧普泰董事长王振：向全链条新能源 综合解决方案提供商转型 - 东方财富",
+          "text": "【理响中国·经视图】更加突出先进制造业骨干作用 - 中国经济网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VTDFrYjljS2twUmRKbjc5THRTU3ZVZEJJbzk5bjlDQVhvODRheTRNQzhfdnpHWGd4aFpza0tYVHNwTm51dy1wUXhiR19oeTc0eUR2U1NVQjNzMVEzdFd5ag?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFcnFpWGgxd0cwR3ZrVkdVbjZhM1ItelNWRkFxenBGU0FVNnNISGhzd2ZqLWRUVk9PcDFZOThtYjEzMHAtTHE5NE9LdXdUSzZMWnZxX0lHQmhxNGhTWjdvYnRIekQ5UlhrSXc?oc=5"
         },
         {
-          "text": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越 - thepaper.cn",
+          "text": "正扬科技IPO获受理：新能源产品毛利持续为负，涉境外专利诉讼 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ESDhkRzRwLV9fZ3lGRWpuYmk4NDA0TW5JeGoxV2p5Z0VNck02VGttbDRRUFEyTnpjYjY1UC0xNEF0R0d1RzBmc0tRVThsNjZpRVpCcVBoZHRpd29uSklwdg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWnhHRGxQVHEtUTFKelBUZ1U3a0I2RThqdTJGV3VmLWRiQmQ3dXNKcU8tYmZ3dE9EeVZzYjNpWXdGY0RnWWhfckxKd0drcl9sS1VudmZOSmZka0ZHak5aamlHSzFxZEJ2NWxNMDhtaWppRjllMDB0bWNNNVdib3poOWZEQTdZdWMxN1Z4Yg?oc=5"
         }
       ]
     },
@@ -170,33 +170,33 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "20:30",
+          "title": "Running Codex safely at OpenAI",
+          "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to su…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/running-codex-safely"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "21:00",
           "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
           "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
           "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "19:00",
-          "title": "Parloa builds service agents customers want to talk to",
-          "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterpris…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/parloa"
         }
       ],
       "briefs": [
         {
+          "text": "Parloa builds service agents customers want to talk to",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/parloa"
+        },
+        {
           "text": "Advancing voice intelligence with new models in the API",
           "source": "OpenAI",
           "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api"
-        },
-        {
-          "text": "Introducing Trusted Contact in ChatGPT",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt"
         },
         {
           "text": "Testing ads in ChatGPT",
@@ -204,9 +204,9 @@ window.dailyBrief = {
           "url": "https://openai.com/index/testing-ads-in-chatgpt"
         },
         {
-          "text": "Simplex rethinks software development with Codex",
+          "text": "Introducing Trusted Contact in ChatGPT",
           "source": "OpenAI",
-          "url": "https://openai.com/index/simplex"
+          "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:01",
+          "title": "Chip Industry Week In Review",
+          "summary": "New Taiwan adv. packaging site; M&A activity; GF's CPO solution; Apple looks beyond TSMC; EU chip companies m…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-137/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:09",
           "title": "The Emergence Of Electronics Digital Twins For Software-Defined Vehicles",
           "summary": "Why it's no longer sufficient to simulate a physical vehicle or subsystem. The post The Emergence Of Electron…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/the-emergence-of-electronics-digital-twins-for-software-defined-vehicles/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:09",
-          "title": "Securing Chiplet-Based Platforms: Distributed Trust With Centralized Authority",
-          "summary": "A security model where every chiplet can prove identity, boot correctly, and communicate securely without bec…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/securing-chiplet-based-platforms-distributed-trust-with-centralized-authority/"
         }
       ],
       "briefs": [
+        {
+          "text": "Securing Chiplet-Based Platforms: Distributed Trust With Centralized Authority",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/securing-chiplet-based-platforms-distributed-trust-with-centralized-authority/"
+        },
         {
           "text": "Powering AI At Scale: Why 3D-ICs Demand A New Approach To Power Integrity",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "Building AI Without Guardrails",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/building-ai-without-guardrails/"
-        },
-        {
-          "text": "2.5D + 3D = “3.5D”!",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/2-5d-3d-3-5d/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:20",
-          "title": "亚细安加强区域合作 以推动供应链韧性 - 8world",
-          "summary": "亚细安加强区域合作 以推动供应链韧性 8world",
+          "time": "01:34",
+          "title": "东方铁塔：2026年公司管理层将继续推进双主业均衡发展战略 - 东方财富",
+          "summary": "东方铁塔：2026年公司管理层将继续推进双主业均衡发展战略 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRTc0X1A3d1pMLWx5Sjc5c1JEczA1d2FQQ1Fqcl9ub0pERVJRa0JiZWZ0ZzdwQURELTU0b0tRZHJNNm5NMFhPVE1LUjQtYS1ieUpYWmoyUGw4dDZGanBDWFdieUwxMjFLdVUxRWZkV1AzOFlndkFRU3F3cVR4Q1lkSWNJS1VaajlR?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04QkZxajFJRE5oOGFYQUdrTXpUV3REVDBBRVBtZ3FTaWpqSU5UN0gxenhrWEtBbDhyNFJ2cjduQTMxSlhzWm43cHdkWkpRMmRtZmZqZ1dVR2t4UU9JdE4xZ0RkVFIwZw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:25",
-          "title": "中晶科技：公司管理层积极关注产业链的发展趋势及潜在机会 - 东方财富",
-          "summary": "中晶科技：公司管理层积极关注产业链的发展趋势及潜在机会 东方财富",
+          "time": "01:34",
+          "title": "中粮科工：并购是企业发展的一种路径，公司一直积极寻找契合公司战略发展的投资目标 - 东方财富",
+          "summary": "中粮科工：并购是企业发展的一种路径，公司一直积极寻找契合公司战略发展的投资目标 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5blQ0XzBuMlEyVURScEFtd3p1RUVNVW1rZ2pjRWliREhkTHByTzh3c1VtTzVVZWZvVXVubU9fcmpOOVVNTTZfRkdQUFYwbE83YTlwSkx5QlVRLUJCTUtmamlEeGI?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XVnNHcWZFOE5pb25HRkJSanZwQVM2YzVqamNBc1RJRmh0bzRvZ080WmplTTQ1QkhmdnRyYlF1b1U3dG1RQUtTWlVGbEtLYVlfdXk2cEdQeXRBZDdDb29Sc2Npa1o?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "东华软件：公司管理层始终高度重视公司价值与投资者回报工作 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KM1JMWlRzNG41RzBnbjViVjQ2Q0xWbmFpZW1ySEhrcE5VNE1BaE9JUC1SOEJTMkl2c3NwV0EyYkN4T2NKVml1c2oxekFoNGFtWDNMa2w5YUdWYVYtYUJMLUN0WnQ?oc=5"
-        },
-        {
-          "text": "亚细安加强区域合作 推动供应链韧性 - 8world",
+          "text": "方正科技：公司将根据公司战略发展规划、业务发展需要、外部经营环境等情况，统筹考量资产收购事项 - 东方财富",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYXFTMnByTG43YnZLeXlqLVdEcnBGWDZOekl3TEV6UU5ySmlmckJ1VW1landkWE5FeVM0VFpKOWhoM2s2ZmQzU0UzM08xanNfY1hUSTVCaUVVSjlfMnZwaHg0NFNKQTdsS3dTeHRfUmxfb01PVFRHWVBvS0ZzeDdtMC1XaUxqb2M0WFpCRHQ5YXFhMTRjaWJJYUF3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3TkcwZHc3QWQteUpYQkk2NERNb2FTTklqOEx0RXY4VFFtUzBRckdwYnhhWUFqcmk1MTVIdWswTWxGN18tVk5leERfOG93Snh2ZXkxUWQwdm1qX3RkeWlRaQ?oc=5"
         },
         {
-          "text": "明阳电气：中山华慧企业管理咨询合伙企业（有限合伙）减持3840000股完毕 - 东方财富",
+          "text": "投资者提问：中航西飞股价屡创新低，公司管理层不干预吗？ - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kcFlJcEE3NVM5cW1yaTlYbHJXWGJDZThWV29jaVFVUDhpM3c5VVNRYWlQU2hKWXcxSzJkbHhkZlNnYjd3dlZWSlktdS0yNlgxSmZkdkVBNXl5dHF5NEVodTR4SkN6Zw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2VXdXhFZ1M5LWtTTnNPMmJGQ0NQWEs5aGlzTGREZldyUXg2RVhEeHZBdmpGZ0NJd24wSzFGQ2hEQWNrRXAxUnFGS0FpMHdSMXBTdUE4MDRvWlFIOW1VZ05MZXhiSWxWMnFNUk9BWXpMSVgyOFI4bGE2Z1ZUNElrbzdSUXhoblBuWHE2SjJ3d1Y?oc=5"
         },
         {
-          "text": "正弦电气：宁波鑫智驱远企业管理合伙企业（有限合伙）已减持0.94%股份 - 东方财富",
+          "text": "华安鑫创：公司管理层与全体股东利益高度一致，重大决策均以提升经营质量为目标 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RVTNiTEVtMnZoZXI4bTNOT3dMMVlpM0RVd1hDRXpGdU1Xbjk2VTFza3NKZEJpbElfTEEtVWNWdWVFT3RFNFZTdS1uMU9HZ3lEZTRpbmhFd3BBaS1ncXNzd09EWjNwZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96eUdIeXd1dnRDN0VONjN0eEhKTDhtbmVlRlVabXBHMTRXOVZ3U18xcG9sQ1hjakk4YktHemNxYU5JUUVIZndsNkM5ZEpRdGoyMWRkTjU0R0ZWTnFKMERNSFg4d0s?oc=5"
+        },
+        {
+          "text": "太极股份：人工智能是公司战略转型的重要驱动力之一 - 东方财富",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TRmVDc3REc2JDUWdDeXBlQWVIMkZXRlFDM21MZEVoN3VNWmFsX1FQUTk0VkV3MVpQWlh5eU5OZVJpNWRTN01lM1NaRWY4QXB3LWRLRVlrNUVQZHFiVUpET0JfME8?oc=5"
         }
       ]
     }
