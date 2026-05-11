@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月10日",
+  "publishDate": "2026年5月11日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "公交延伸至企业门口！青岛新能源汽车产业有了“量身定制”服务 - 新浪财经",
+      "title": "新能源电池领域竞争换“赛道”？ 北工大教授：放心我们早有布局 - chinan…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "New AI method tackles one of science’s…",
+      "title": "Scientists just sent unhackable quantum…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "WHO chief heads to Tenerife to oversee…",
+      "title": "Passengers leave hantavirus-hit cruise…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:41",
-          "title": "公交延伸至企业门口！青岛新能源汽车产业有了“量身定制”服务 - 新浪财经",
-          "summary": "公交延伸至企业门口！青岛新能源汽车产业有了“量身定制”服务 新浪财经",
+          "time": "07:56",
+          "title": "新能源电池领域竞争换“赛道”？ 北工大教授：放心我们早有布局 - chinanews.com.cn",
+          "summary": "新能源电池领域竞争换“赛道”？ 北工大教授：放心我们早有布局 chinanews.com.cn",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNlZiR0tkWXhmUzZZa2VhT0ZWckZ1QWcySng4VDhsQmZVX0NUWDhwWk5Za1h1RkdOU0FOSVRaUW9hMDl6Snd4VWcxQTJuT1gyWjZabUN4dHlGLWxyNmdNTTJXVGZQbm45RkZ5QkVrdHFxRExsUi1CeEF0bWdtdGtwWHBGRjZmN09TaVhrOGhZX2QzRVJINGRKYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kRTl6b1VzUWlQb0RFaE5WeWV3TG9Jci1aclZ2YWdBVE1UMm9IMXBKYU1fUkNlWER3UU5VQkRKeGV0OHNNSEgwWVB0YjlLN3FWZDdCZWlqT2QzR3AzZzNUeGw1UmwwSEE1eEVlLVg4Tm96UFVNUGRrMU13?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:39",
-          "title": "“OTA锁电”风波起 中汽协、八家“涉事”车企集体辟谣 - 新浪财经",
-          "summary": "“OTA锁电”风波起 中汽协、八家“涉事”车企集体辟谣 新浪财经",
+          "time": "07:49",
+          "title": "外媒：中国129个新能源汽车品牌 多数撑不到2030年 - 搜狐网",
+          "summary": "外媒：中国129个新能源汽车品牌 多数撑不到2030年 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQajZraE5YNDFTbFNJTURmTUdqZTFjU3BrYk5SMTh0VFFMVjhhNVZYSGNtT1U5YXVVTkxIR2t4ZXkxVVJpX0N6RkhFRktab3BzMFYwUFhHZURuM1p2U2hCM1BqSmliS1RGWW9GSHZfYlZUaDBsVUFJT1hEdXRpNzNHWnBUOFVuUkxhNzl1ZTd6bWZRNU1rWk9wTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTVEUFRkcEt1a1dscEV1WDBOcWhRM1B5NUM1TndCSzJoNnpMQ0l6Nm94Z3dRbjZIRTJoMlkzNXVZb1I4MlBTQXVoTkl5RGVlRE1vUXZFZENRYUI5RjlfdjVtTmNRN1UzbURTVnFBY191RFdBSkM2Ui1sRm5oZVhEblZUTzRpY1dX?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "重庆启动制造业数智化转型免费诊断 面向“33618”集群企业征集“体检对象” - 重庆市人民政府",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fV1JYOWNmdW00Rko1OExtd0ZIaDJnODE1M21tTFhfbUp5UFpIWkhkUUlCVXBNdzdIWkI1OUh3VGdOZVZKekg4X3RnNmhRV3ExOWN0cDJ5MWdFMk9OczVZUGlQOGlGX21SdVVTME1LVDhiejVN?oc=5"
+          "text": "着力打造高端装备关键零部件制造强县 - 邢台网",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SQjFTU2xMTFFRWTQ1Wmx0U3BobnA4OTJWWFpXRFhTUDdUREFWdWJTMlFrWkU5NFpRcm04dnd6SThXNWhrWlVsQXpUSk1hNTNrUGZxSFpsMU5aRmQwcXRDSDR3?oc=5"
         },
         {
-          "text": "新能源车锁电遭海量投诉！网传车企被约谈立案？官方紧急辟谣 - 车家号",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaDNlNVN0RTJOUl9DZTJNbUtuOXZRS3cwYkxmSkRSUXQ0cUgwRk1LSkhSTDBiQnZOenZnSFVYMG9XaUhCaWxVN1RrdUYyakwxU0ZiY21mYkR3ZjQ?oc=5"
+          "text": "中欧数字经济混合型发起式证券投资基金恢复大额申购、转换转入及定期定额投资业务的公告 - 搜狐网",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQallUNmE0LTY3R0dGX0Y1Z1FGcEJJZXNtaVBZQy1SMFVTTl9Oby1kZ2ZvYkswbFFUeEtaUGJhcGcyb2JaR1o1MVMzNkZJUDlYR0VENVdUSDFiWGhOS2pIOFVtVXBVa2VuTHdqT3RHb1EzZ1F5YmcwT3FGOTRVek5LZDc2MFVrSFFu?oc=5"
         },
         {
-          "text": "中國新能源車企被爆遠程更改電池參數 引關注 - 大纪元",
+          "text": "【盖世快讯】中汽协回应多家新能源车企因锁电问题被约谈；李想谈理想L9四年才换代 - 盖世汽车社区",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ucmVtQU5LODJtZkFscVpzdVpGV0hpdjk3bm9nTEthOE5WbG1PMC1MeVBMSldlNVVTYlRRRkU1cTJhTEJ6alZCQ3dHa2g3dzBqdU9lUHdoWE5CT3BLendN0gFkQVVfeXFMUGtjMzN1TGxhVEl5eDFkNWR5M2M5QWFyR185a1JzNnNkdUNPdDhzNElBWTM0MXlYcWFtaEcyaHFtai1rVXE0ekZkTTZpMDVVVFBaYkNJXzhVUjhubkdMa3Bab1A0Tg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBUWG5oQ0NJeWV2UHRQNjkxVmFNaGRJckR5NDZBUExIOVJvT3ZMTGJqbmNqNGFsWVZtVUtvX2J5T1hHcGpXamhoS2gxNFlrRHBj?oc=5"
         },
         {
-          "text": "智能网联汽车、游艇制造、低空经济……莱西先进制造业跃升 - 青岛日报",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rNzJ5RlZiNWNDbmdLY3ZwSFBEQzliT1k2MmhJYlhkTll3VXJfWjQxLWpCbnozY2d0LXBOVlZ2cVBxYzcyTW9fV05oalI3OUZQc2gyRmtwTG4?oc=5"
+          "text": "从招人的角色转向“产业合伙人” - 新浪财经",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkN6MEFCYTJGVnYwaGFFd05lMHVDbWRTbzRjMG9hUV8zMWhyMUgzcUFSNWxGT2FJREdEYVNYTXMtSEo0NlRnaFA2VGxhdzhQSjlZWWs2VWNZVk5fQXMyRnBNYmFhaHl5ZGhVRE5jTGwwMklZbEMzZ0RkLUtOTW13emZicUd6X1Bqekd3R2U3ZkdPQjVUSEVweldkMVpZVHZxbS1ubDFNUk1kWDBpUFZr?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "16:24",
-          "title": "New AI method tackles one of science’s hardest math problems",
-          "summary": "Penn researchers have developed a smarter AI method for solving notoriously difficult inverse equations, whic…",
+          "time": "07:19",
+          "title": "Scientists just sent unhackable quantum keys across 120 kilometers",
+          "summary": "Scientists have taken a major step toward ultra-secure quantum communication by demonstrating a remarkably st…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260508003129.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "06:48",
+          "title": "The hidden atomic gap that could break next-generation computer chips",
+          "summary": "A major obstacle may be standing in the way of the next generation of ultra-tiny computer chips. Researchers…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260508003125.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "New AI method tackles one of science’s hardest math problems",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260505234605.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "08:20",
-          "title": "AI lets chemists design molecules by simply describing them",
-          "summary": "Creating complex molecules usually requires years of experience and countless decisions, but a new AI system…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "AI lets chemists design molecules by simply describing them",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504023844.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Scientists connect “time crystal” to real device in quantum breakthrough",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Stanford’s new chip boosts light 100x with surprisingly low energy",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260504154021.htm"
-        },
-        {
-          "text": "Scientists just created exotic new forms of matter that shouldn’t exist",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260504154014.htm"
-        },
-        {
-          "text": "MIT scientists finally reveal the hidden structure of a mysterious high-tech ma…",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm"
         }
       ]
     },
@@ -123,23 +123,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "WHO chief heads to Tenerife to oversee Sunday arrival of hantavirus-hit ship",
-          "summary": "The Director-General of the World Health Organization (WHO), Tedros Adhanom Ghebreyesus, has issued a direct…",
+          "title": "Passengers leave hantavirus-hit cruise ship in Tenerife as WHO says outbreak ‘not another COVID’",
+          "summary": "Passengers and crew from the cruise ship MV Hondius began disembarking in Tenerife on Sunday under a tightly…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167476"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167477"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Nuclear energy in the Middle East: A realistic choice or a risk?",
-          "summary": "As global electricity demand grows, so does the popularity of nuclear energy. In the Middle East, several cou…",
+          "title": "First Person: Surviving death row in Thailand",
+          "summary": "A Thai woman who spent more than 20 years in prison after being found guilty of drugs trafficking – including…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167448"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167466"
         }
       ],
       "briefs": [
+        {
+          "text": "WHO chief heads to Tenerife to oversee Sunday arrival of hantavirus-hit ship",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167476"
+        },
+        {
+          "text": "Nuclear energy in the Middle East: A realistic choice or a risk?",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167448"
+        },
         {
           "text": "World News in Brief: Haiti crisis continues, Gaza-West Bank update, Sir David A…",
           "source": "United Nations News",
@@ -149,16 +159,6 @@ window.dailyBrief = {
           "text": "Central African Republic: Funding cuts put humanitarian support at risk",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/05/1167474"
-        },
-        {
-          "text": "Somalia teeters on the brink of catastrophe as hunger crisis deepens",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167473"
-        },
-        {
-          "text": "Malaria vaccine is saving children’s lives: WHO",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167472"
         }
       ]
     },
@@ -267,23 +267,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "WHO chief heads to Tenerife to oversee Sunday arrival of hantavirus-hit ship",
-          "summary": "The Director-General of the World Health Organization (WHO), Tedros Adhanom Ghebreyesus, has issued a direct…",
+          "title": "Passengers leave hantavirus-hit cruise ship in Tenerife as WHO says outbreak ‘not another COVID’",
+          "summary": "Passengers and crew from the cruise ship MV Hondius began disembarking in Tenerife on Sunday under a tightly…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167476"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167477"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Nuclear energy in the Middle East: A realistic choice or a risk?",
-          "summary": "As global electricity demand grows, so does the popularity of nuclear energy. In the Middle East, several cou…",
+          "title": "First Person: Surviving death row in Thailand",
+          "summary": "A Thai woman who spent more than 20 years in prison after being found guilty of drugs trafficking – including…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167448"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167466"
         }
       ],
       "briefs": [
+        {
+          "text": "WHO chief heads to Tenerife to oversee Sunday arrival of hantavirus-hit ship",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167476"
+        },
+        {
+          "text": "Nuclear energy in the Middle East: A realistic choice or a risk?",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167448"
+        },
         {
           "text": "World News in Brief: Haiti crisis continues, Gaza-West Bank update, Sir David A…",
           "source": "UN News",
@@ -293,16 +303,6 @@ window.dailyBrief = {
           "text": "Central African Republic: Funding cuts put humanitarian support at risk",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/05/1167474"
-        },
-        {
-          "text": "Somalia teeters on the brink of catastrophe as hunger crisis deepens",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167473"
-        },
-        {
-          "text": "Malaria vaccine is saving children’s lives: WHO",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167472"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "11:54",
-          "title": "华安鑫创：公司管理层与全体股东利益高度一致，重大决策均以提升经营质量为目标 - 东方财富",
-          "summary": "华安鑫创：公司管理层与全体股东利益高度一致，重大决策均以提升经营质量为目标 东方财富",
+          "time": "22:06",
+          "title": "乌克兰农业巨头用企业管理逻辑组建部队：数据驱动为核心，擅长无人机和地面机器人作战 - 凤凰网",
+          "summary": "乌克兰农业巨头用企业管理逻辑组建部队：数据驱动为核心，擅长无人机和地面机器人作战 凤凰网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WGVsc1dBcC1pUGdKWDlVVThuZ3MwUUdRT19YdHdBdUlKdlczcElYU3IyUEFQOVNVSmloTktfbUhCaWZGNTlnTUxxNmo4VHNMZFlLNXhVaFZUc2p4UFlrSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9FNUZJdFhSZXdGYldoN1BYUjhEWDQ2aW1NbFFNaURZMlo4SzFkTEVoU1NwLUowZjBUdkpwaDZSYm45TUtCei16M2g1OE4?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "11:33",
-          "title": "中粮科工：并购是企业发展的一种路径，公司一直积极寻找契合公司战略发展的投资目标 - 东方财富",
-          "summary": "中粮科工：并购是企业发展的一种路径，公司一直积极寻找契合公司战略发展的投资目标 东方财富",
+          "time": "16:06",
+          "title": "外贸从沿海“独唱”转向全域协同发力 跨境供应链韧性持续增强 - 央视网",
+          "summary": "外贸从沿海“独唱”转向全域协同发力 跨境供应链韧性持续增强 央视网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GV0llSEZYMFQwcjlod2ppQ2VqR2h0NV9mSF9JMGpSaTg5eGZ0VDduSnJUZ3N1SUxTNVpHUUhUWUtRaTlUWERiMDlVNTBqS2pkNElQbjdsX0NRLVBhZmFISw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjX0hSWmgtMUxyNWVyYU9ZR2hkSklsNF9GZFMwX2ltcjVnX3BJY2xXRW1JTWVEZi13NzhVODR0dFgxOHRpenUtU3FISUM2SllBYmZLeTRuUlh6ZXlxUVZKU01YUm9uZUhybUtnZERvMXdwa1MtcGZLeQ?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "免费参加：AI赋能供应链韧性论坛 - 新浪财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94YlIwaUtHWE02MFRDRWlfLXBEdUd6VEdJRVZPV19LN0pSeHBzalpBT25XVXYydXoybG1qS25QOHlXZ2FCZUZZd1VlcWpIN0VMV0d6U2x1UFcyX3BUWHAxVXJEVGRGT2hwc1B3RldRWmpIc29lLUE?oc=5"
+        },
+        {
+          "text": "华安鑫创：公司管理层与全体股东利益高度一致，重大决策均以提升经营质量为目标 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43WGVsc1dBcC1pUGdKWDlVVThuZ3MwUUdRT19YdHdBdUlKdlczcElYU3IyUEFQOVNVSmloTktfbUhCaWZGNTlnTUxxNmo4VHNMZFlLNXhVaFZUc2p4UFlrSQ?oc=5"
+        },
+        {
+          "text": "中粮科工：并购是企业发展的一种路径，公司一直积极寻找契合公司战略发展的投资目标 - 东方财富",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GV0llSEZYMFQwcjlod2ppQ2VqR2h0NV9mSF9JMGpSaTg5eGZ0VDduSnJUZ3N1SUxTNVpHUUhUWUtRaTlUWERiMDlVNTBqS2pkNElQbjdsX0NRLVBhZmFISw?oc=5"
+        },
+        {
           "text": "太极股份：人工智能是公司战略转型的重要驱动力之一 - 东方财富",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91QnJCMkkwU0tfd0h0WUVrR2tvNUxocDFRcGh3eG9vX2pFWVNfZmtGLUt5Wjdqd01Ib3pPV091dVdPOWdpMEFUeUMyaDRvVTZEeWkxWmZDWnV5RXBBS2ttTw?oc=5"
-        },
-        {
-          "text": "浙江正特：2025年是公司战略转型的关键之年 - 东方财富",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Pc240a3RnYnVwb21fbXRrempKRm5xdVV5YTZ3Mk04ODBYYkpFc2NwQjZfZ2tOZEw3QmJHMGt6cHd3V3l3cGptSlliVlNZaFlJQU5jWllsZ25ZUTVwSkd3ZQ?oc=5"
-        },
-        {
-          "text": "东方铁塔：2026年公司管理层将继续推进双主业均衡发展战略 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wSmtCMFIwckZXdzFMYnBIRm81Ui1LMzNtekFlOWV2ajhkRWF0aERFQWZ6cFYxWGN6UTktTWFtVWF1MWVwSUxyVk5XNkpFbU53NTBPNXFIMTZ5OFhnQ1gxSA?oc=5"
-        },
-        {
-          "text": "永臻股份：公司管理层将积极把握市场机遇 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kZEgwaEs1TEtFZWZ5QndiekstV0MzWlpSbmlXZjVfNTNydDBUQ1AtWFpOY1VzRXl1Wm83c1F3emYzQW81QWg1dlNNRVpOdHNUdWlUVzdsRkVINmRJM3RGTA?oc=5"
         }
       ]
     }
