@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月14日",
+  "publishDate": "2026年5月15日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "10.98万拿下个人一手宝马5系新能源，商务家用兼顾首选 - 汽车之家",
+      "title": "新能源车三大趋势已抬头，盲目听信销售话术，今年买车明年就后悔 - 凤凰网汽车",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Quantum breakthrough could revolutioniz…",
+      "title": "Scientists discover hidden math secret…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:04",
-          "title": "10.98万拿下个人一手宝马5系新能源，商务家用兼顾首选 - 汽车之家",
-          "summary": "10.98万拿下个人一手宝马5系新能源，商务家用兼顾首选 汽车之家",
+          "time": "08:08",
+          "title": "新能源车三大趋势已抬头，盲目听信销售话术，今年买车明年就后悔 - 凤凰网汽车",
+          "summary": "新能源车三大趋势已抬头，盲目听信销售话术，今年买车明年就后悔 凤凰网汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IZzNNdDNncXhLM3VoRzQtMjZFQlNJZ1FveVFyMS1qcmlvMTJhM214ckpxZG5Qc2VpWU95MDEwZlB3c1hMZ2dqTmo0UFlOSmV3SllER1FJMGJJWk0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QQ0R1eXQzWGd4bEc4MHNiLTFxVXB6bVFIRFBWd0RKVHlnYmk1ckRsRXJHbWJSQlZiNFhZMVNUekFTbTExVXFna0V3TS0?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:04",
-          "title": "8.18万拿下个人一手比亚迪宋Pro新能源，家用代步省油首选 - 汽车之家",
-          "summary": "8.18万拿下个人一手比亚迪宋Pro新能源，家用代步省油首选 汽车之家",
+          "time": "08:00",
+          "title": "系统升级后，500公里续航变不到300公里？新能源车“锁电”咋回事？ - 新浪财经",
+          "summary": "系统升级后，500公里续航变不到300公里？新能源车“锁电”咋回事？ 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oeVpmdWpyUWJVRklLY0NyN1pjTUFOM21idGh1MXF6bzRtUktOcVRBM2ZlR3BxQU9pTW5fY3VpN3djUGpFVlNxNGxRVGNneEl0b1JKa1BCb21McGs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3NqMmtCNUhoeEdnMW5PdURsNkx0X1JCdWNiMDNBYzdXRHNxTlBOVmx6OFRUU2hlQW1wRkRRcnV5VkNlUGJOZGhfX291dDliYmJMV0tOdkdxWDY0ZENwUU1mZkl1UnVGWThSb0YzbU5lM19jTGstUldPMU55WmVRWmx6LXNZdVBKOFlJYlVEZjhfWTR4VXB1Mg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新能源车搞“大床”，啥用没有？经过这两件事，才知道车企没胡闹 - 汽车之家",
+          "text": "假期高速公路新能源汽车充电量同比增长52.8% - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iLTRpLTNYNHp6TFMxTlVFTV9ndmc1ZWExcUpSaEJMdFdDaTdfQkpQOEVGR0J5NERHVXhSeDc0cmRydDVGMk1Yd2ozUkl0ZmxfU3ZJZVdwYjd4QWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaG5TT04tekxqOENiSjZGdVk5MXhDV0dyTlA3SnJ2RW5SXzktNXhMb0lDQjhnQjRTOGprUXdwbGNVT0lDYXpjRFJjTFdOQUk0Z1M4ZHEtdUxIQ3FCdDEyZEx4aTF6Wm5qY0k1NEF1eTc2bjRlQW5pdC1Wek44YXN4dHVkTGRXN3B5TC1tVlFPLVNoU2pfM1dNNTB2LWZySVcweXZ4LXE1MG0wcnE5dkZV?oc=5"
         },
         {
-          "text": "斗门区 U形突围 - epaper.nfnews.com",
+          "text": "中汽协会组织召开新能源商用车质量和可靠性提升专题工作会 - 中国商用汽车网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02Nk9FMlJGVXhRajlIR1BQZzVOMDV6U1FZN0NkU2k0MU9aX1JmQ2l3akRzazRIQUg0VVdwRGtnWXJIQVM4WkhUNTlCWko3RTFMSHhTSkk5WkxqLXBmeER4aDVKOEwyank3MHRWNmlERjNOZ09PUGlZTlRn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JWEw5SGsxZk9iZW5ZY042bmZZalU5REtTaUtIOGtHRHV0SHE2czlqeE5FWGJ5YVBDWjdlODk3SE91Q3o4cVRzQWlQb0lGZHhYSTFpLTBqczI4LThTak5SMA?oc=5"
         },
         {
-          "text": "金湾区 向“新”而行 - epaper.nfnews.com",
+          "text": "你的车多少钱！崔东树：2026年4月油车、新能源车均价分别18.1万、16.5万 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JUk5aM2JxRlpLNFhYbC1hNzZsUFJhblgyY2ZsMTlJeTg3a0NXQnItaUtqSDJUc0s4b2dSelJkZjY5TlFtN3RndWJVZ1NyYUpha0JIRGM2aHNGZWhoZ1NDUDdnOHVQMzRsNFQ1aFJpLV9DUm8wdDRfOVpn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYmZmRlctNlEzS0x6OW0zMWtJa21vamVBSVRvd3E1X2h2Y0VyUEE4UFJlXzM0eGphMTJRcUVtc1RibVBUOU1OQ1dUTDNqZUtyMWhxYU96VlFvVDQ1V1ljQndOSjF6bzMtQy1RZi1SMEx4SFhkTDBIOTd5Z3VQcldiZThUbnZzTmthY3I2V29GVjRWaUFmeXQxT1NkZEl1V3d0dXpEbW12NGo1ZTlUREVUUFBNaFo1QVdSa3hHaVpoMC1xMThQRVJwTnYxQlFaTk9JT05IWVdzaWk1aWNDemh5Y1l4S2tORUsyTFZCaUUzMXpiUzVvQzQybnVPR3otUQ?oc=5"
         },
         {
-          "text": "现在的新能源汽车居然卷到这种地步了，开始打造高端越野新体验 - 搜狐网",
+          "text": "塔吉克斯坦总统重庆参访：期盼中国制造企业赴塔兴业 - 中国网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeE5iaXpUTjNza1JDa2hyUnNQbU52bFlwSVdRVWJsdEVzREY4V1N3TXgyaGp3SGZwc0dmVUdJcWtvSS1YY2hobG1HZVZ3WHNiWVN5NFBvcDluVDh1VXMwOWp5bWJadjRZMkl4Sk5oVU5uQXVfUVhCd1RtNkZMQ1FHY0lHTzVQZVNnbTlWeQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUDZGYVFFREx4bnBwQzRCWjlCT0FfUEJCY0Z0RjBXdFRQWjVQcVRIUWZrazJpUFdrMTlmd3ZyVmRhaHp1amhGVXJVUUdKeDI2LXc1bDBLN0VtdlR4aHJrWlc1NkhJd1lKSUZLdzNXYw?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:48",
+          "title": "Scientists discover hidden math secret inside Chinese money plant leaves",
+          "summary": "Scientists have uncovered a hidden mathematical secret inside the leaves of the Chinese money plant: a natura…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260513221754.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:55",
           "title": "Quantum breakthrough could revolutionize teleportation and computing",
           "summary": "Scientists in Japan have developed a new way to instantly detect elusive quantum “W states,” a major mileston…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:33",
-          "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-          "summary": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle t…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "New quantum algorithm solves “impossible” materials problem in seconds",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm"
+        },
         {
           "text": "Your “um” and pauses could reveal early dementia risk",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "JUPITER supercomputer breaks world record with 50-qubit quantum simulation",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260510234715.htm"
-        },
-        {
-          "text": "Scientists just sent unhackable quantum keys across 120 kilometers",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260508003129.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:09",
-          "title": "AI chatbots are giving out people’s real phone numbers",
-          "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way t…",
+          "time": "21:00",
+          "title": "Work with Codex from anywhere",
+          "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/work-with-codex-from-anywhere"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:00",
-          "title": "Building a safe, effective sandbox to enable Codex on Windows",
-          "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with con…",
+          "time": "21:00",
+          "title": "Data readiness for agentic AI in financial services",
+          "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/building-codex-windows-sandbox"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
         }
       ],
       "briefs": [
         {
-          "text": "How finance teams use Codex",
-          "source": "OpenAI",
-          "url": "https://openai.com/academy/how-finance-teams-use-codex"
+          "text": "Establishing AI and data sovereignty in the age of autonomous systems",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
         },
         {
-          "text": "What Parameter Golf taught us about AI-assisted research",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/what-parameter-golf-taught-us"
+          "text": "The shock of seeing your body used in deepfake porn",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/"
         },
         {
-          "text": "AutoScout24 scales engineering with AI-powered workflows",
+          "text": "Helping ChatGPT better recognize context in sensitive conversations",
           "source": "OpenAI",
-          "url": "https://openai.com/index/autoscout24"
+          "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations"
         },
         {
-          "text": "How NVIDIA engineers and researchers build with Codex",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/nvidia"
+          "text": "AI chatbots are giving out people’s real phone numbers",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:05",
-          "title": "DFT In Automotive",
-          "summary": "What's needed to ensure reliability of automotive chips, and why it’s about to get even tougher. The post DFT…",
+          "time": "18:00",
+          "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
+          "summary": "This sponsored article is brought to you by Applied Materials . At pivotal moments in history, progress has r…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/dft-in-automotive/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/applied-materials-epic-center"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Lasers Are The Heartbeat Of The Optical AI Data Center",
-          "summary": "These III-V semiconductors are essential for super-high-bandwidth optical interconnects. The post Lasers Are…",
+          "time": "15:07",
+          "title": "Why Vision LLMs Force A Rethink Of Edge AI Hardware",
+          "summary": "Peak TOPS is becoming a weaker proxy for delivered edge performance. The post Why Vision LLMs Force A Rethink…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/lasers-are-the-heartbeat-of-the-optical-ai-data-center/"
+          "url": "https://semiengineering.com/why-vision-llms-force-a-rethink-of-edge-ai-hardware/"
         }
       ],
       "briefs": [
         {
-          "text": "Scaling PCIe Controllers for AI Bandwidth: A Multistream Architecture Analysis…",
+          "text": "SOCAMM2: Bringing LPDDR5X Benefits To AI Servers",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/scaling-pcie-controllers-for-ai-bandwidth-a-multistream-architecture-analysis-for-64-gt-s-and-128-gt-s/"
+          "url": "https://semiengineering.com/socamm2-bringing-lpddr5x-benefits-to-ai-servers/"
         },
         {
-          "text": "Blog Review: May 13",
+          "text": "Vision-Language-Action Models Arrive",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-may-13-3/"
+          "url": "https://semiengineering.com/vision-language-action-models-arrive/"
         },
         {
-          "text": "Neutralizing the Gigascale Problem: How to Solve the Physical Power Paradox of…",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/gigascale-ai-datacenter-power"
+          "text": "Introducing “The Architecture Speaks”",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/introducing-the-architecture-speaks/"
         },
         {
-          "text": "A Comprehensive Study Of Integrating 2D Materials With CFET Architecture (SKKU,…",
+          "text": "Chiplets Need A New Workflow",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/a-comprehensive-study-on-integrating-2d-materials-with-cfet-architecture-skku-et-al/"
+          "url": "https://semiengineering.com/chiplets-need-a-new-workflow/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:30",
-          "title": "父亲病危女子请假被拒后因旷工遭辞退，企业管理岂能丢掉人情味 - 搜狐网",
-          "summary": "父亲病危女子请假被拒后因旷工遭辞退，企业管理岂能丢掉人情味 搜狐网",
+          "time": "04:02",
+          "title": "安正时尚（603839.SH）新增一起对外投资，被投资公司为杭州淳安浙环企业管理咨询合伙企业（有限合伙） - 证券之星",
+          "summary": "安正时尚（603839.SH）新增一起对外投资，被投资公司为杭州淳安浙环企业管理咨询合伙企业（有限合伙） 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeHRZR0tZVnpZRGlaZEt3aDJfekhWWVRxZUp2ZjVFTG4xLVN2RVJTT1JVN2hVLXBHVjA4OFJVLW1paG9tdVRtZFBNUDhCS2haUGMxR21xMDFaQnR2TnZuUTdScndhOWRienQ4ejBKejdCSW9fMHhHd2dFUXVPMXVheTdkaWFFTkZSVkNFcQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OTGN1S0NoTGd5T2MwVnJSZEdZODN0UGdUZkRNSm1XUTN3UzJPeU8zYThmYkZxN3BCR2F1NElNenVuSUYwQkEtaU1ub1JOSzdhdTlWQ0RMa1N4WFNFT052alJDNno?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "02:01",
-          "title": "中电伙品质保证局推共建气候韧性倡议平台 助企业管理气候风险 - 香港01",
-          "summary": "中电伙品质保证局推共建气候韧性倡议平台 助企业管理气候风险 香港01",
+          "time": "21:01",
+          "title": "飞龙股份：基于行业发展趋势及公司战略远景，公司构建了清晰的增长曲线矩阵 - 东方财富",
+          "summary": "飞龙股份：基于行业发展趋势及公司战略远景，公司构建了清晰的增长曲线矩阵 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOOHA0c0ZjRUpXdDA4Y1RidHE0dkUzNUR0d0I5cmUtNXRVQ3BYWWtwNjBFdjJrZE5Lc2FBa0Y2VTBQdExHcWhmM0dITUM5SzdCNmlIU3R6UkdSb1BHSmN4MnRqOHVSaXUwMllxeDZ4RndiLVl5ckRReHdwRWprMmd1UWNVUHN0RUd3UnhTRmdfRE1EbWF0a2hKblU4cWdkaEtWTjBEbjQxX05hTkR3YVZmTFpxZjlBenN4UDlYS2d1UmV4dGFxN3BxYlRTbHdKdGs5TFY4WHY0c0c2My1ETURvX0JiMFl3QVJhRlQ4Rk0yYVdCR3BqR1owRk42Sy01SWp2VENMaDdmVWVydEJfWVFFdjQzeG5NakxvTWpFWlVEQ0Q2MnBJT01RdkJKV2laM0VQN0FHRUtoV2lFeENiT3ZRWkVSdkJNQ0JyMVVienZMZUJaOXE2M3FLZ0FfTmNGdDRzUXBjSHBrYVBrZVNsNVFHVUp4Y0lYNnNNX3dvVjlRLUtKaHVoYmExTFpGX09nQndoaUZ4LXVRUzZ5OVhNSXIxazd3bzE3WURLM3JzUDBWWmgxYi04TE8zUVdnRXA3cWZwellfUHZmR0dnS1k?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoOEpQWFBfbi1oMHRUckNJM0t1V0E4b3ROM0hsQkdXQmRYOS13elh6b1F2VlE3UzZLbnZxR3R5RG9sRVNDaGxDelZoNXNNQmRBOEVUbFgzT25KRFRhUFVuTVJaRE9UQQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "【调研快报】穗恒运A接待广州市激扬企业管理咨询有限公司等5家机构调研 - 东方财富",
+          "text": "跨国公司企业家视角下的吐鲁番| 礼蓝（上海）企业管理有限公司注册及市场准入总监闫明：只要是吐鲁番出品必是精品 - tlfw.net",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VTWdLR3V5NUNDMHpLZndjWGNfZV9PVXl0RXoyczUwR0pQX1JFNUh3YjRVcDZWTGJ6eGduU1QzUWdTSEMwaVR2eHAydFVxWHZxTHk3WWhVNk5FOXRqNEREWQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JU2g5eVJKc0F1QzlVYXZLMVRYZDMtNU1pRzRDa3lVbFNGTmtMSjU3VTh3X0VFUWF1REVqdjVYZDJ2dzd1YzRwcUU0VEJfYXJzUnVxVHRCdnRPT284cWdVaWozd18?oc=5"
         },
         {
-          "text": "索宝蛋白：公司管理层对公司未来发展充满信心，将致力于通过聚焦主业保障公司业绩稳步增长 - 同花顺财经",
+          "text": "华图山鼎：天津华图宏阳企业管理有限公司持股比例已降至48.01% - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80bjFvYl9ZTWwtMDI3T1NnNU40OXhGTFhrczdvS0NJbWlPVWxHUWlmZS11bzFhcDAwcG1oWjhHcUNSQXpuTms0MEhtZWhOQWN2SHRXTnVZZlRBNFJKS3c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45R3VZSlVyYkpkWnhHUGs0UGZoWHhrQTdSWl96aXRFY0x2ekhWU2ZSZ2pOSm93MFBkekVMVENmeXJNT0U4ZkFJaV8xSWpzTVR3MTRSN0FLWTU4OTgtVHVzdHd5eHBHZw?oc=5"
         },
         {
-          "text": "朗科科技：目前公司战略方向是在稳定存储主业的基础上，积极响应国家“东数西算”战略及粤港澳大湾区算力枢纽建设部署 - 新浪财经",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iR1lrdXRvTUdtVFlPZVRPYnZ1dHlMN0pnbE8zUmMwbWNzZXIwX25RUTJVdkN4bzREVld2dWVwbGZ3MlYyN1hCMlRtZllmbjRSQzNiM290VzJzWkt3NUVrdEl4RGVjWnpPRDdxb3NR?oc=5"
+          "text": "【调研快报】金明精机接待广州市激扬企业管理咨询有限公司等3家机构调研 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aT0NzWXhVbHRsQW0xMzE0VjZIN2tkWEJvcGNOWm8tQU5lSlFXLWtYWmtoM2JSanZRUkd1ekZTT0VsNUdDS3hPQXJLb0kzUHFuZWpWUFpaWERVaGhXV0dEUQ?oc=5"
         },
         {
-          "text": "五矿资本：公司管理层始终对公司未来发展充满信心 - 同花顺财经",
+          "text": "长青科技：常州国润九号企业管理咨询合伙企业（有限合伙）及其一致行动人持股比例已降至6.69% - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MemQyQ2tNUzFXenZFaUhXVXJPT3l5LTVxcW9KODBBMkF0cldOYV9tU0VGeDVrX0ljd3FhdmdKVEJuTlJkSlRYenprMnFuVkJ6eUpKLWpVMTJJTUFNZEE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiSW5qOTc3SXJXTU5rZU1TcDFmRGN5RmoxT3JRXy02UmFTR0diQnVxQ1E4TmVhQ251S1hwbVNkRTRLTDRwWUxTN0pFU1c3QWlHd1c5YVdmOU1FT2trVlFjV0pUNlAxUQ?oc=5"
         }
       ]
     }
