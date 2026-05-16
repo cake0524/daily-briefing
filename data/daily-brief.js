@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月15日",
+  "publishDate": "2026年5月16日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "新能源车三大趋势已抬头，盲目听信销售话术，今年买车明年就后悔 - 凤凰网汽车",
+      "title": "【视频】15万元合资新能源SUV，马自达EZ-60和东风日产NX8，各有什么优…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Scientists discover hidden math secret…",
+      "title": "NASA’s new AI space chip could let spac…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:08",
-          "title": "新能源车三大趋势已抬头，盲目听信销售话术，今年买车明年就后悔 - 凤凰网汽车",
-          "summary": "新能源车三大趋势已抬头，盲目听信销售话术，今年买车明年就后悔 凤凰网汽车",
+          "time": "07:55",
+          "title": "【视频】15万元合资新能源SUV，马自达EZ-60和东风日产NX8，各有什么优势 - 车家号",
+          "summary": "【视频】15万元合资新能源SUV，马自达EZ-60和东风日产NX8，各有什么优势 车家号",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QQ0R1eXQzWGd4bEc4MHNiLTFxVXB6bVFIRFBWd0RKVHlnYmk1ckRsRXJHbWJSQlZiNFhZMVNUekFTbTExVXFna0V3TS0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtV0N1eFF5bXU4d3JHWXlxTVdQV2RrNldqWXFCb2tQVHhoTjBUa2ZoQ01EMjN6Si01VHZmWVg2QjdmTUM2a2lnWXRXOVlQc1ZZenBsZVJSSC1oaDA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:00",
-          "title": "系统升级后，500公里续航变不到300公里？新能源车“锁电”咋回事？ - 新浪财经",
-          "summary": "系统升级后，500公里续航变不到300公里？新能源车“锁电”咋回事？ 新浪财经",
+          "time": "07:23",
+          "title": "完成全年目标任务近八成 - 新浪财经",
+          "summary": "完成全年目标任务近八成 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3NqMmtCNUhoeEdnMW5PdURsNkx0X1JCdWNiMDNBYzdXRHNxTlBOVmx6OFRUU2hlQW1wRkRRcnV5VkNlUGJOZGhfX291dDliYmJMV0tOdkdxWDY0ZENwUU1mZkl1UnVGWThSb0YzbU5lM19jTGstUldPMU55WmVRWmx6LXNZdVBKOFlJYlVEZjhfWTR4VXB1Mg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaDI0b0hyRW1tOHN6bzhsWnpUcXQ0azBydDl6ZW93TFNua1E2amU1QzBVYmg5TVROaWtRaHVrZFpWV192Q29kamxiTWhUaFJWdm4xaVpBUGpLY014RlRCSHJJY3FhSnVfQ3NnNTg3NlZObTZkNGdaUTZCSGVfZG1KTjhlUWhBMjhRc1JoVTIyZFZ6ZVRCVGRtcHBuOEZpWVF1dFgtQUNyaDZDb0pzaTBz?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "假期高速公路新能源汽车充电量同比增长52.8% - 新浪财经",
+          "text": "荆州加速迈向先进制造业中心 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaG5TT04tekxqOENiSjZGdVk5MXhDV0dyTlA3SnJ2RW5SXzktNXhMb0lDQjhnQjRTOGprUXdwbGNVT0lDYXpjRFJjTFdOQUk0Z1M4ZHEtdUxIQ3FCdDEyZEx4aTF6Wm5qY0k1NEF1eTc2bjRlQW5pdC1Wek44YXN4dHVkTGRXN3B5TC1tVlFPLVNoU2pfM1dNNTB2LWZySVcweXZ4LXE1MG0wcnE5dkZV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdTgxVXpNaHFxTFh6TThRU2RPNXBWRmQ2dWFubUl4WnZkOG1EcjBSRVRmYlQ4aUFIaS1LXzBiaTVsdC05NnRyelg0SkFhaTV6WUQycUFId0RQWXlOakRZc043dFM1SjlNdk01QVh6eW1XUlVSN0FGMjlhWVcyQ2hwRGVzWGwySEJCZm41Zw?oc=5"
         },
         {
-          "text": "中汽协会组织召开新能源商用车质量和可靠性提升专题工作会 - 中国商用汽车网",
+          "text": "星光730新能源有哪些轮毂样式 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JWEw5SGsxZk9iZW5ZY042bmZZalU5REtTaUtIOGtHRHV0SHE2czlqeE5FWGJ5YVBDWjdlODk3SE91Q3o4cVRzQWlQb0lGZHhYSTFpLTBqczI4LThTak5SMA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmeHFTdlNlNXU2YlN2SDlZbW5MSW15QXRVWkdRQng3NEpZMWVOaGxyWWhEOU1GbjhpclhPc1JweENwQWJOWHVEdnJFcTVuN0p0Ri1MVVZUbjA?oc=5"
         },
         {
-          "text": "你的车多少钱！崔东树：2026年4月油车、新能源车均价分别18.1万、16.5万 - 手机新浪网",
+          "text": "【专刊·理论】依靠科技创新推动装备制造业绿色发展 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPYmZmRlctNlEzS0x6OW0zMWtJa21vamVBSVRvd3E1X2h2Y0VyUEE4UFJlXzM0eGphMTJRcUVtc1RibVBUOU1OQ1dUTDNqZUtyMWhxYU96VlFvVDQ1V1ljQndOSjF6bzMtQy1RZi1SMEx4SFhkTDBIOTd5Z3VQcldiZThUbnZzTmthY3I2V29GVjRWaUFmeXQxT1NkZEl1V3d0dXpEbW12NGo1ZTlUREVUUFBNaFo1QVdSa3hHaVpoMC1xMThQRVJwTnYxQlFaTk9JT05IWVdzaWk1aWNDemh5Y1l4S2tORUsyTFZCaUUzMXpiUzVvQzQybnVPR3otUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3ZidVZNbThUdm5NZFVDTG9kbEh2aXJTMmJ5NWdUWjU3RnpZR0lDWldiQ0VRY0hkYVZaOGVrOVUzMjBpX2h5VURkNTV4c0c2UVczWHl6SkJFMkxnUWU3Wi1oSkIzRlVpUEVSTW9UeUQ3VDFFeVNuSDhXQmoteTBpMktkVFItdDJCcTJaMlN0elF5U3dvbkFSTzlGNnRzSU95bEpPTFNKTzBneTM2NENZ?oc=5"
         },
         {
-          "text": "塔吉克斯坦总统重庆参访：期盼中国制造企业赴塔兴业 - 中国网",
+          "text": "五菱宏光新能源的电池容量是多少 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zUDZGYVFFREx4bnBwQzRCWjlCT0FfUEJCY0Z0RjBXdFRQWjVQcVRIUWZrazJpUFdrMTlmd3ZyVmRhaHp1amhGVXJVUUdKeDI2LXc1bDBLN0VtdlR4aHJrWlc1NkhJd1lKSUZLdzNXYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xQzBfUDNGRjUyODZ6ejlabVBDb1R3M3RBU2lkNTlkeDVuODllaWQtLVlmOW5SX29tSHg1amQtWkVFZE5JQUdXc0lhaHFuUFRQTnJqbHJBaWY?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "16:13",
+          "title": "NASA’s new AI space chip could let spacecraft think for themselves",
+          "summary": "NASA is testing a next-generation space computer chip that could give spacecraft the ability to operate far m…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:48",
           "title": "Scientists discover hidden math secret inside Chinese money plant leaves",
           "summary": "Scientists have uncovered a hidden mathematical secret inside the leaves of the Chinese money plant: a natura…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260513221754.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:55",
-          "title": "Quantum breakthrough could revolutionize teleportation and computing",
-          "summary": "Scientists in Japan have developed a new way to instantly detect elusive quantum “W states,” a major mileston…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Quantum breakthrough could revolutionize teleportation and computing",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm"
+        },
         {
           "text": "New quantum algorithm solves “impossible” materials problem in seconds",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Researchers say AI chatbots may blur the line between reality and delusion",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260509210652.htm"
-        },
-        {
-          "text": "JUPITER supercomputer breaks world record with 50-qubit quantum simulation",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260510234715.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:00",
-          "title": "Work with Codex from anywhere",
-          "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across…",
+          "time": "07:39",
+          "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+          "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altma…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/work-with-codex-from-anywhere"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "Data readiness for agentic AI in financial services",
-          "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most…",
+          "time": "17:00",
+          "title": "How Chinese short dramas became AI content machines",
+          "summary": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her h…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
+          "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
         }
       ],
       "briefs": [
         {
-          "text": "Establishing AI and data sovereignty in the age of autonomous systems",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/"
-        },
-        {
-          "text": "The shock of seeing your body used in deepfake porn",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/"
-        },
-        {
-          "text": "Helping ChatGPT better recognize context in sensitive conversations",
+          "text": "A new personal finance experience in ChatGPT",
           "source": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations"
+          "url": "https://openai.com/index/personal-finance-chatgpt"
         },
         {
-          "text": "AI chatbots are giving out people’s real phone numbers",
+          "text": "Sea's View on the Future of Agentic Software Development with Codex",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/sea-david-chen"
+        },
+        {
+          "text": "Work with Codex from anywhere",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/work-with-codex-from-anywhere"
+        },
+        {
+          "text": "Data readiness for agentic AI in financial services",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/"
+          "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
         }
       ]
     },
@@ -218,24 +218,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "18:00",
-          "title": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
-          "summary": "This sponsored article is brought to you by Applied Materials . At pivotal moments in history, progress has r…",
+          "time": "02:44",
+          "title": "Micro-Transfer Printing (MTP) As A Promising Scalable Approach to Heterogeneous Integration for Silicon Photonics (Ghent U., imec et al)",
+          "summary": "A new technical paper, “Micro-Transfer Printing on Silicon Photonics: Tutorial, Recent Progress and Outlook,”…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/micro-transfer-printing-mtp-as-a-promising-scalable-approach-to-heterogeneous-integration-for-silicon-photonics-ghent-u-imec-et-al/"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "15:01",
+          "title": "Chip Industry Week in Review",
+          "summary": "What happened to H200 chips for China? $1.5T IC industry by 2030; new funding; AI memory tools; MRC spec; emb…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-138/"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Accelerating Chipmaking Innovation for the Energy-Efficient AI Era",
           "source": "IEEE Spectrum Semiconductors",
           "url": "https://spectrum.ieee.org/applied-materials-epic-center"
         },
         {
-          "priority": "重点看点 02",
-          "time": "15:07",
-          "title": "Why Vision LLMs Force A Rethink Of Edge AI Hardware",
-          "summary": "Peak TOPS is becoming a weaker proxy for delivered edge performance. The post Why Vision LLMs Force A Rethink…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "text": "Why Vision LLMs Force A Rethink Of Edge AI Hardware",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/why-vision-llms-force-a-rethink-of-edge-ai-hardware/"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "SOCAMM2: Bringing LPDDR5X Benefits To AI Servers",
           "source": "Semiconductor Engineering",
@@ -245,16 +255,6 @@ window.dailyBrief = {
           "text": "Vision-Language-Action Models Arrive",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/vision-language-action-models-arrive/"
-        },
-        {
-          "text": "Introducing “The Architecture Speaks”",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/introducing-the-architecture-speaks/"
-        },
-        {
-          "text": "Chiplets Need A New Workflow",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chiplets-need-a-new-workflow/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:02",
-          "title": "安正时尚（603839.SH）新增一起对外投资，被投资公司为杭州淳安浙环企业管理咨询合伙企业（有限合伙） - 证券之星",
-          "summary": "安正时尚（603839.SH）新增一起对外投资，被投资公司为杭州淳安浙环企业管理咨询合伙企业（有限合伙） 证券之星",
+          "time": "00:52",
+          "title": "国投智能：持续提升股东价值回报是公司管理层及全体员工始终为之奋斗的目标 - 东方财富",
+          "summary": "国投智能：持续提升股东价值回报是公司管理层及全体员工始终为之奋斗的目标 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OTGN1S0NoTGd5T2MwVnJSZEdZODN0UGdUZkRNSm1XUTN3UzJPeU8zYThmYkZxN3BCR2F1NElNenVuSUYwQkEtaU1ub1JOSzdhdTlWQ0RMa1N4WFNFT052alJDNno?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjQmQ1cy1yTGpKUnFFeXdpZE1IbmZiNG8weV95Sng2WHFiQmVLaG9wcW1pWU9BLS1QTFgyYVdNQWFCSnVRM0x3LUNGZjNvNUlXQUZfVFBvUFpUZmRrZENyOQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:01",
-          "title": "飞龙股份：基于行业发展趋势及公司战略远景，公司构建了清晰的增长曲线矩阵 - 东方财富",
-          "summary": "飞龙股份：基于行业发展趋势及公司战略远景，公司构建了清晰的增长曲线矩阵 东方财富",
+          "time": "21:22",
+          "title": "安卒开发公司管理层预计 周末假期将有11万名游客到访 - Shangbao Indonesia",
+          "summary": "安卒开发公司管理层预计 周末假期将有11万名游客到访 Shangbao Indonesia",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoOEpQWFBfbi1oMHRUckNJM0t1V0E4b3ROM0hsQkdXQmRYOS13elh6b1F2VlE3UzZLbnZxR3R5RG9sRVNDaGxDelZoNXNNQmRBOEVUbFgzT25KRFRhUFVuTVJaRE9UQQ?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rT1NycWhvdVQ3bXd6dlZwZlpUV0lSZ0Zzc1JFVm1nTjQydl9BVDBwSEVqbEUtcXhhVnJvendRckZSR19Gc0F5cHUyc1RoSjdNRUY5SFUzUFNVMTdWcWR6d2dBOC1fMk5zdjJueXVEdXY5U0NzTDk4clR4T05adw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "跨国公司企业家视角下的吐鲁番| 礼蓝（上海）企业管理有限公司注册及市场准入总监闫明：只要是吐鲁番出品必是精品 - tlfw.net",
+          "text": "常铝股份：2025年度，公司管理费用、销售费用、财务费用及研发费用占当期公司营业收入的比例（各项费用率指标）较上年同期均有所下降 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JU2g5eVJKc0F1QzlVYXZLMVRYZDMtNU1pRzRDa3lVbFNGTmtMSjU3VTh3X0VFUWF1REVqdjVYZDJ2dzd1YzRwcUU0VEJfYXJzUnVxVHRCdnRPT284cWdVaWozd18?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16Wjk0SUpXU0hmd3dqd3hXMWpRYm5LWWNQYmZqTlVPVnpTNFVUOUNYZmRCUjBCWnV2Wng3eGYyNllVY3RQVENiRVcyeVl4VDBVNjV5a2UxaEpnVGpQbGNXWTd0S18?oc=5"
         },
         {
-          "text": "华图山鼎：天津华图宏阳企业管理有限公司持股比例已降至48.01% - 东方财富",
+          "text": "新雷能：公司管理层将不断提升管理水平，推动技术创新 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45R3VZSlVyYkpkWnhHUGs0UGZoWHhrQTdSWl96aXRFY0x2ekhWU2ZSZ2pOSm93MFBkekVMVENmeXJNT0U4ZkFJaV8xSWpzTVR3MTRSN0FLWTU4OTgtVHVzdHd5eHBHZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50cGx0bXZhX0F6T3JHUEFsM210eEVMRjVUQ0IxV1QtOGo2dUZvTU4ySmxLZ0t3bDFPczVxNUphWVF2MEZQcmJJbkxXM2g1X2NqeUt2MEdMcUpMazh4UUhfY0tkeGlnQQ?oc=5"
         },
         {
-          "text": "【调研快报】金明精机接待广州市激扬企业管理咨询有限公司等3家机构调研 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aT0NzWXhVbHRsQW0xMzE0VjZIN2tkWEJvcGNOWm8tQU5lSlFXLWtYWmtoM2JSanZRUkd1ekZTT0VsNUdDS3hPQXJLb0kzUHFuZWpWUFpaWERVaGhXV0dEUQ?oc=5"
+          "text": "国家医保局等八部门：深化儿童用药产业链供应链韧性 - 新浪财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSN0c0T3NIZFhiaThwVmo4eGdrZW1kNzRIVUhYd1h6NmlESlgyZ2FxamVDMnZnVkw0OEZTV2cyYWhHRVZKU3JkR3dJOA?oc=5"
         },
         {
-          "text": "长青科技：常州国润九号企业管理咨询合伙企业（有限合伙）及其一致行动人持股比例已降至6.69% - 东方财富",
+          "text": "尤夫股份(002427):公司管理人账户股票分配最新进展 - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBiSW5qOTc3SXJXTU5rZU1TcDFmRGN5RmoxT3JRXy02UmFTR0diQnVxQ1E4TmVhQ251S1hwbVNkRTRLTDRwWUxTN0pFU1c3QWlHd1c5YVdmOU1FT2trVlFjV0pUNlAxUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92NmxISEJWMDBtT0FmLTY3ay1Ib25IVjY0X3pFbm1ubDhPRjY2dnBKVTcySFVEbXdZN2poSUVzeXVacXIwYUV6M1hFZGxwbGJtNHFFNTRB?oc=5"
         }
       ]
     }
