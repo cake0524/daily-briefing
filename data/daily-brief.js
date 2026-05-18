@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月17日",
+  "publishDate": "2026年5月18日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "中国汽车专利公开量全球领先 新能源领域年均增长率17.1% - 搜狐网",
+      "title": "绿控传动创业板过会！新能源商用车电驱动龙头再进阶 - 搜狐网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "In Addis Ababa, Guterres urges reforms…",
+      "title": "Ebola outbreak in Central Africa declar…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:53",
-          "title": "中国汽车专利公开量全球领先 新能源领域年均增长率17.1% - 搜狐网",
-          "summary": "中国汽车专利公开量全球领先 新能源领域年均增长率17.1% 搜狐网",
+          "time": "08:03",
+          "title": "绿控传动创业板过会！新能源商用车电驱动龙头再进阶 - 搜狐网",
+          "summary": "绿控传动创业板过会！新能源商用车电驱动龙头再进阶 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPODI5b21LWmFON3Q3Ulc1NEJ1U3Zic2NSaHlVOVVVMlJMQk9seEtxWExuNU1SVjg0dExjcnBCRmN1ZU45bkNocmlFTUUxQ01zekpaY19LSE1NbFZKRDZlanNnZHZ4ck10cDNuUHRJWUgxb0J4bF9EcUtJWWZuVlhmdzFCYTh1QlR6dHEwYg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMVBkQzZZXzNocVV1Wm9fTVk0RDNYUm84b09Cb21kTVhhYmg0UG1rS05UV3NqWmJSNzAxaDJidGVvYkNQcHktUEcyYjhIY2k1aFhkSGZfNk9OYmZkWjI3Q3I0MWFpaWZEbG1fYWhDMUVOZ25PQjN2TFBhMWYtUGREeFZGNTVTa3dBMU0tMFpETFZoa3A5MlJ4V0xGUVlUSHNERmFJd0tHQVFmNFUySEJFMjNxeU5Dam5wU1VNQjlFYlREZzZhbS1kZExUSTd1eTRmR3doQlZYekk4XzdZY2Q1TEtHaFlYcGlMcndj?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:37",
-          "title": "【视频】新能源车怎么改，这些红线绝对不能碰 - 汽车之家",
-          "summary": "【视频】新能源车怎么改，这些红线绝对不能碰 汽车之家",
+          "time": "07:43",
+          "title": "“十四五”以来川渝共生产新能源汽车370余万辆 - 重庆市人民政府",
+          "summary": "“十四五”以来川渝共生产新能源汽车370余万辆 重庆市人民政府",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NcHFfblU2a1AwVmtEZlNTSnJ0Q1FDeFJoSVRDa1FFaWRlUkx1dWhPdlV1Z1lEanBaMnpSbXFsS0dqUVRXNHExQnhmQUlmOHd4QUR1ZUJNdkpEQm8?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6UkRYcWdvNDNKNnctNlRUT3V1VDZjZjVOTGRiend6UFZmVXFfUm8wdm5kUXFvaGxreXF6dnp5T3J0YjFEU3FzRGJIaWZPQ3NZS0pJYmVpMzh2RGZxZ21oTXU5UHZfZksybTFMNWxpWXVHU3VL?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新能源SUV销量冠军！比亚迪宋Pro DM-i飞驰版，仅售9.99万！ - 汽车之家",
+          "text": "官宣降价,别克GL8新能源来到20万级了！ - 车家号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnYnB0a3h5MVIzMnlWUG1Wd0VtOXpUQWVoMFJSVEdBUURncmN5dklyMFJjSUduRmJ0R3c4emJlOEtWLWw5ak1RTmxlTTFxX3ZwMnZ3b1hvUzNvYUU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKbnFWc3hoZ1lodHlaOHl0emJtZ29BTTVLTlhyX191Sks4ekhaekNFVFh5T0JSYmlLYVJPT3BtRHEtWDAxNE5TZnFyREZBQl9Xd00xUkFwQWwxLUE?oc=5"
         },
         {
-          "text": "沃尔沃S90新能源最高降23.1万 - 太平洋汽车",
+          "text": "深市主板将迎首家注册制红筹企业 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tYi1lUGZvZXlsLUN4TEtxNjVHTVo1Ql9sUE40azBrMmt4ZDZSZGlRcHF0YVM1RVVBb0Y3UEVBRmlhNEFhUUZIdVJzYWwwTWhUclplX05qZmNZdlV0SXhNd0RVTUN0R1NB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPOHJZTko4ZW5Kc3Zndll3MXJVaGxrVHA1bE5vSzQ3T1ZKaTJVaDlwT09JNE13QWRqbzhUMFRJZmwyX09qWWJDYXNTbmFTM3dzMkJlVGZCakdJNFNodGRLUHRpQzJyRFhISVdybE9uN2JWcFpCRDE5SUJTbGs2eE5wdG5BWlBnQWVuYnZMSEs1ZjNFYUs3QVpJUTJzTVJmRVRHVnU0MDVwZEVKN01pdmJkYksxUF9KNVIzV010Nks2emN6OURKOUlleUFxWndrMGdOd3VyZHRGWHU4RkpxMThRMENIdzBuLTdhV2NGMmVR?oc=5"
         },
         {
-          "text": "中广核工布江达公司获20年发电类电力业务许可证，电力业务资质落定 - 新浪财经",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNT2dTRXdMWGxNTnE4Um5xRkNUcnU3UjdTLWRKc0ZuZk50NFVPc1cxLXRsaFFFZmFOSHdObWx3anRMRnlIcHhXaUJ0NDZ6ZDUxdVEwR0U2NGw3M2NTdVlRYkZHc2RTREFpTzE3RktiWXFVcUs5REFkUnB2ZEhDYjh1a3d5ME5nenkxOWRQMmxlZ29Ed1FqQVdwTW9reXJtem52NnVnRnZoOUJ3UXdtMmRXMnpDZzB2cFUzVHRSaHViSXE1TGZkb1drcUJKQUZEVmtTNFk1VjZma3gzc1hxVzdiTkRLV3NiN0RvVDAtMElVMGRrakxaOVhCSnVRTTlSQ3YwYUE?oc=5"
-        },
-        {
-          "text": "美報告析中共產業政策對全球供應鏈的影響 - 大纪元",
+          "text": "“十四五”以来川渝共生产新能源汽车370余万辆 - 华龙网",
           "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9icXRWaTB0TVZQWXlaRlRFNGh1YkFiUE41VmJHQk0yeG44bTlDU0dzQU1xSVhwbHRTVUJWcFNQNWF5UHZyNUlnY3VLT2FwdmlERDNhS1h2YXdFNW50WG1jdtIBZkFVX3lxTE5DODJucnd6bGFweGZGYm0zRllxbVc5RHFlVDFWTFVmTEsweUpzejdGaFV3cnJLM3JQLUstdmx6YkJHQVR4dDR3MHpiLVM0dFNuRTlRMG5RU25UMUd3eHUyNmhtUFBVUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52MlJNNVBOdkxHemFXTTV1VFppUUFoT2F4cDhDTnJpZlhWWjRiWk90Wmp3Q1hSU05haXhUdlZQZ00yQVZ5VkdsRlpoektIdmtNQVBGYkJKWVlEd3JUbTFjSjBYTlFPS2tJUUZF?oc=5"
+        },
+        {
+          "text": "【视频】央国企高端新能源第一品牌岚图汽车持续热销 - 车家号",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JeHVodnBCMnJDclBlX3g3R1h2OEhkQlpsaDY2cHRORzJDTTRONUVfdXJLcHhtQTJiUkxsZmt2NVhQYmhsV0RDYjZ1Q1lpMjMzNXRnUGRBMXFtbFk?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "In Addis Ababa, Guterres urges reforms to give Africa stronger global voice",
-          "summary": "Africa’s rising influence is being constrained by outdated global institutions, unfair borrowing costs and ca…",
+          "title": "Ebola outbreak in Central Africa declared a ‘Public Health Emergency of International Concern’",
+          "summary": "The World Health Organization (WHO) has declared the ongoing Ebola outbreak in the Democratic Republic of the…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167503"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167531"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine",
-          "summary": "Mounting waste and limited access to sanitation sites are deepening health risks for families across Gaza, as…",
+          "title": "1.1 billion people live in slums. Can they be housed in dignity?",
+          "summary": "Ministers, mayors, international organisations, urban planners and experts are in Baku, Azerbaijan, to tackle…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167502"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167530"
         }
       ],
       "briefs": [
         {
-          "text": "Afghanistan crisis deepens as record returns, drought and aid cuts strain econo…",
+          "text": "Turning silence into stories: Cambodian activist amplifies LGBTQI+ youth voices",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167500"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167529"
         },
         {
-          "text": "Funding shortfalls force deep cuts to Syria food assistance: WFP",
+          "text": "World Urban Forum opens in Baku as housing crisis and climate shocks intensify",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167499"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167517"
         },
         {
-          "text": "Recycled plastics for food use require stronger safeguards, warn UN food securi…",
+          "text": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167498"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167528"
         },
         {
-          "text": "Lebanon: UN peacekeeping force warns drone incidents near its positions are put…",
+          "text": "As war displaces millions in DR Congo, new schools offer children hope beyond v…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167496"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167527"
         }
       ]
     },
@@ -229,7 +229,7 @@ window.dailyBrief = {
           "priority": "重点看点 02",
           "time": "15:01",
           "title": "Chip Industry Week in Review",
-          "summary": "What happened to H200 chips for China? $1.5T IC industry by 2030; new funding; AI memory tools; MRC spec; emb…",
+          "summary": "Tata-ASML deal; what happened to H200 chips for China? $1.5T IC industry by 2030; new funding; AI memory tool…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/chip-industry-week-in-review-138/"
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "In Addis Ababa, Guterres urges reforms to give Africa stronger global voice",
-          "summary": "Africa’s rising influence is being constrained by outdated global institutions, unfair borrowing costs and ca…",
+          "title": "Ebola outbreak in Central Africa declared a ‘Public Health Emergency of International Concern’",
+          "summary": "The World Health Organization (WHO) has declared the ongoing Ebola outbreak in the Democratic Republic of the…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167503"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167531"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine",
-          "summary": "Mounting waste and limited access to sanitation sites are deepening health risks for families across Gaza, as…",
+          "title": "1.1 billion people live in slums. Can they be housed in dignity?",
+          "summary": "Ministers, mayors, international organisations, urban planners and experts are in Baku, Azerbaijan, to tackle…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167502"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167530"
         }
       ],
       "briefs": [
         {
-          "text": "Afghanistan crisis deepens as record returns, drought and aid cuts strain econo…",
+          "text": "Turning silence into stories: Cambodian activist amplifies LGBTQI+ youth voices",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167500"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167529"
         },
         {
-          "text": "Funding shortfalls force deep cuts to Syria food assistance: WFP",
+          "text": "World Urban Forum opens in Baku as housing crisis and climate shocks intensify",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167499"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167517"
         },
         {
-          "text": "Recycled plastics for food use require stronger safeguards, warn UN food securi…",
+          "text": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167498"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167528"
         },
         {
-          "text": "Lebanon: UN peacekeeping force warns drone incidents near its positions are put…",
+          "text": "As war displaces millions in DR Congo, new schools offer children hope beyond v…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167496"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167527"
         }
       ]
     },
@@ -343,14 +343,14 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1NW4zMnEwbFhNaG93TFhEODhzTm5CNU50VjkzT3R3cHNDaVdiX1Iwdm1walVpTno5WVVrejZzTExFYUdxejJKS3hycVM1ZmdoUjBDUDNpZG1MN24yRDROYmZJSl82dTA?oc=5"
         },
         {
+          "text": "三星电子工会：计划与公司管理层举行会谈。 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRHBhbUJoeW1PaHBDdEd0QXozWW96bENBRE1odEtkdEJEUEx0Wi1rMURMeExLR1poZUJiQVFIQ2VKeUdobGV4SGc3N1oyQXhKa1p6MjM4UXFPcTIySFFZdU5VMkhLdlF6WXA3YWQ5T1dRb2lSN3lLdXQyUEVaZFBsekRabmI?oc=5"
+        },
+        {
           "text": "三星电子韩国本土工会计划与公司管理层举行会谈。 - 新浪财经",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWmZmZDBPLTVvaW9OUklERF9CMjYtSDhBekRqX25ISjctaV9TaEdhNGFuVmxiQTB3bTRKMklhYTFPN3hXbXQ2NGQwQnBEd0ViaXhTdFktM1lWV0dRcXpsMVNqandzOUpZQ0Z6eHBCTjA0MVAybVFiV0lMSlk0M2NodU9Pb2k?oc=5"
-        },
-        {
-          "text": "赋能数智转型，共建健康生态，全国卫生产业企业管理协会卫生产业数智化分会在沪成立 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1ZlR6dFlXQVZTcjhTeUlRT1MzcDZUdzFOSU9TR0tySTNqMGhBa1pKaUFXNjU3ellOanNmcExiSW1OOWg0N29WWEhETXhGUjJncjZQbkhjMG1ZNThmTXhpcXZESVdrR1d4ZGZ5Rng3V2VJVW8zN1E?oc=5"
         }
       ]
     }
