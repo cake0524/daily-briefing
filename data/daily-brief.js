@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月20日",
+  "publishDate": "2026年5月21日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "国家数据局：推进数字经济促进法立法进程 - chinanews.com.cn",
+      "title": "从汽车、机器人到大飞机，还有什么是长三角不能造的？ - jfdaily.com",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:07",
-          "title": "国家数据局：推进数字经济促进法立法进程 - chinanews.com.cn",
-          "summary": "国家数据局：推进数字经济促进法立法进程 chinanews.com.cn",
+          "time": "08:01",
+          "title": "从汽车、机器人到大飞机，还有什么是长三角不能造的？ - jfdaily.com",
+          "summary": "从汽车、机器人到大飞机，还有什么是长三角不能造的？ jfdaily.com",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12Y25iS2dCUUNjSllmcjNlTWROQTNDYnlERUYxSExKdFpIaXFZMTlBZDlKTGF6bFBCR2dIRG11VVp0Sk1DR1N4M2lfUkFkcWwwQy1qNGlzU2t3QkFEbG8xSGdJMXNkbkk?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xZktnX3l0SjdpYmZxVHVHMTd2eG5Nb29WVTA2dC1jcE9YRFU1aTJLV1RtRXp1aGtTdjBMU2o2M1AzcGRfS29HMG4yM09mQXVoVzhqbXN6NzVVdw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:02",
-          "title": "5月19日创业板新能源ETF工银基金份额减少300万份，重仓股宁德时代、阳光电源、汇川技术_基金提醒_雷达 - 证券之星",
-          "summary": "5月19日创业板新能源ETF工银基金份额减少300万份，重仓股宁德时代、阳光电源、汇川技术_基金提醒_雷达 证券之星",
+          "time": "06:34",
+          "title": "5月20日新能源ETF博时基金份额减少100万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 - 证券之星",
+          "summary": "5月20日新能源ETF博时基金份额减少100万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 证券之星",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03UzZmWDRfT0JlM095QW9PWVQ5RmdhTHZzUzgwYy1fSWtTTG5NLVNYanVhclpHc21jakVEd1hMY0tOV3NqMFhxWllmbUpyZkx1eFN5YmJQbFBpTDl2LS1lN1Z3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HcTZDc2dvYzFackg0YlhCYXZqSjNqWG5VbnhUMHF3ZnNDSUJ3dl9uMmUwckQ5dHU3bjRLOEp5V2FHcWRWbEl3emVOOGE4VndESWU5THZkeHM2d25hRlRmQUNn?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "湖北前4月进出口2669.7亿元 AI相关产品与新能源车势头强劲 - 新浪财经",
+          "text": "5月20日新能源车ETF汇添富基金份额减少150万份，重仓股比亚迪、宁德时代、汇川技术_基金提醒_雷达 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb09Rd1AxeEZUX3hHeHB2UTZWNnpoQXdjOWg3Qk4zLURoc3I1bEphdUlrYVVwLUZ4cklNa3pCRVVZOE4xMk5CUjJKNUVpSXVvYWNEMnBWZjFtWV93YmF0RFVLOVFRdjFhUU5oVXN6SGtIdzVXamVCUUsxay13Z1VrcUppNF9FSWlPV3ZjTWRmZ2FFNHIwMWxmQUlfZUhOV2x3NXZKOWtXRG0xSEM5R29n?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zS1hlSGJ6Wk9FMDhQZTR0R3hscWNmcXhYZE4yN2ltcE9zSFFZRWRRbElrNGYwRV9JRU5pVlhkZGdqT3I4VW9VYldwNUt1NU5CdzQwcEpPNUprLW1Bd0FhSWxR?oc=5"
         },
         {
-          "text": "5月19日创业板新能源ETF富国基金份额减少200万份，重仓股宁德时代、阳光电源、汇川技术_基金提醒_雷达 - 证券之星",
+          "text": "5月20日新能源ETF华安基金份额减少600万份，重仓股宁德时代、阳光电源、亿纬锂能_基金提醒_雷达 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EOEp4WGI2WS13bnhSc0lfZUZnSXpLNnN1SmQ2TXpsNmtVR0FWbElVUHpkLTJHLWR4X0Q4UEVKajRIeko4N3dXVXVjVGlXMldQaWpGSnViY19OcExVVXl5MWl3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yOWd6UjhGM01rdFlJOXk2dDZfUkdnSklSeEFaTGFPZGJmdHVMMDV1elpNMnNjOTU2RVFGUjlpMEpuSHlWVC1qcXpBb3JRZDRnQU1SOTVDR3B2a1l2WHdvLUl3?oc=5"
         },
         {
-          "text": "新能源车集体进入9系时代，为啥都发力做9系？ - 新浪财经",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84YnpNVTgtNnY1RTZaY0ZTeWcyUF9VRkJxcC1lWjJTT3pzYUhSbWxxLUIzRnhtM3p2MHI4WUxaV0NNSjU1RThnSGVqaG5kZDRSRm8tLWJMS0t4aHp3NlpINy1uc191OHBiSFNsdjhn?oc=5"
+          "text": "三部门出手整治新能源车虚假宣传，\"吹牛皮\"终于有人管了 - 风闻",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VWnZlal9pdG5HRDgxYlJqN3hsUGdEam1kelVTQ0ctMzgzTjNrUVVuemhJR1hkM0p5c0FWZGphaDBIcnZuWXg3VXpOdjU3UUZHaDk3SGlxSzQxbU0?oc=5"
         },
         {
-          "text": "新能源电池ETF银华（159193）涨0.58%，半日成交额1216.63万元 - 新浪财经",
+          "text": "超10家主流车企部分车型涨价，新能源车市转向价值竞争新阶段 - thepaper.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkU2M0M3pvRmZGODBOdnFwN1ZCN2t0bnlPd1pnZnNnSHNUbXF6c3o2dmJBeVcwdnJzaVVaUUVucDN3NjlobVRyNGRqRE56VlQ5UW1sek1UVHVhYjZOU0RLcUI0TG1tTU5TVTRELTlWN01iLVdVSVFQVg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5naHJMdGtGaXEyNnhnWE4yTU1wcUEyNU5EOEJHTGdQVjA3RFBYakpLb0Z6WS1WN1JBaUQ3MVExTklRbGpLbFloenFncllaR1VpUnRhQWVrSDdwSlg0V0E?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:45",
-          "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-          "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a…",
+          "time": "08:00",
+          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+          "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geome…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "VentureBeat AI",
-          "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:45",
-          "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-          "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help peop…",
+          "time": "08:00",
+          "title": "How Ramp engineers accelerate code review with Codex",
+          "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substant…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/advancing-content-provenance"
+          "url": "https://openai.com/index/ramp"
         }
       ],
       "briefs": [
         {
-          "text": "Here’s why Elon Musk lost his suit against OpenAI",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/"
-        },
-        {
-          "text": "What to expect from Google this week",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/"
-        },
-        {
-          "text": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/"
-        },
-        {
-          "text": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise envi…",
+          "text": "The next phase of OpenAI’s Education for Countries",
           "source": "OpenAI",
-          "url": "https://openai.com/index/dell-codex-enterprise-partnership"
+          "url": "https://openai.com/index/the-next-phase-of-education-for-countries"
+        },
+        {
+          "text": "Introducing OpenAI for Singapore",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-openai-for-singapore"
+        },
+        {
+          "text": "Roundtables: Inside the Musk v. Altman Trial",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/"
+        },
+        {
+          "text": "Google just redesigned the search box for the first time in 25 years — here’s w…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "20:51",
-          "title": "The Next 15 Years of Moore’s Law, According to Imec",
-          "summary": "Want to know what the next 10 years of Moore’s Law is going to look like? Maybe the next 15? The Belgium-base…",
+          "time": "01:56",
+          "title": "Four-Tier Memory Hierarchy for LLM Reasoning (USC, UW)",
+          "summary": "A new technical paper, “Not All Thoughts Need HBM: Semantics-Aware Memory Hierarchy for LLM Reasoning,” was p…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/semiconductor-technology-roadmap"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/four-tier-memory-hierarchy-for-llm-reasoning-usc-uw/"
         },
         {
           "priority": "重点看点 02",
           "time": "15:01",
-          "title": "Research Bits: May 19",
-          "summary": "Photonics: Programmable PIC; small optical features in hydrogels; on-chip UV generation. The post Research Bi…",
+          "title": "Options Grow For Standardizing Data Movement And Sharing Resources",
+          "summary": "But figuring out which ones to use, and when to use them, isn't always clear. The post Options Grow For Stand…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-may-19/"
+          "url": "https://semiengineering.com/options-grow-for-standardizing-data-movement-and-sharing-resources/"
         }
       ],
       "briefs": [
         {
+          "text": "Blog Review: May 20",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/blog-review-may-20-3/"
+        },
+        {
+          "text": "The Next 15 Years of Moore’s Law, According to Imec",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/semiconductor-technology-roadmap"
+        },
+        {
+          "text": "Research Bits: May 19",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/research-bits-may-19/"
+        },
+        {
           "text": "Chip Industry Technical Paper Roundup: May 19",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-19/"
-        },
-        {
-          "text": "A Deionized Water-Based Large-Scale Transfer Process For 2D Materials Grown on…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/a-deionized-water-based-large-scale-transfer-process-for-2d-materials-grown-on-sapphire-amo-rwth-aixtron/"
-        },
-        {
-          "text": "Evaluating and Calibrating Performance On RISC-V Vector Processors (KTH, LLNL,…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/evaluating-and-calibrating-performance-on-risc-v-vector-processors-kth-llnl-bsc/"
-        },
-        {
-          "text": "Scalable Photomask Optimization With Morphological Learning (SUNY Buffalo, VU,…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/scalable-photomask-optimization-with-morphological-learning-suny-buffalo-vu-ibm/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:30",
-          "title": "柬埔寨敲定初创企业战略 以推动技术驱动型增长 - Khmer Times",
-          "summary": "柬埔寨敲定初创企业战略 以推动技术驱动型增长 Khmer Times",
+          "time": "03:47",
+          "title": "山东大学管理学院陈志军教授团队著作《企业战略管理》《集团公司人力资源管理》入选中国知网2026年高被引图书TOP 1% - media.sdu.edu.cn",
+          "summary": "山东大学管理学院陈志军教授团队著作《企业战略管理》《集团公司人力资源管理》入选中国知网2026年高被引图书TOP 1% media.sdu.edu.cn",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOdGE5cTJ5aFMxbVNqeV9ya0kyOUtGNWVtbl94QnF2clFBcFNBcjRUc1l4alVqUk05V3RnYWhnRi14d0REZXhGc05mSkVTUjhiMWVSZ25CS25sOGFkV3JWYUZVbnQ1T3ExU3VyTUpPVWxCcTRqZTdpX2xMdnc0MnhCajNCT3N2U2dhaTRwMDdTZnlTMTRkWklYOVhIbUZFVFBrNWZfcXlVOVgtRVNRLXZ2RHJNQXFNR2tqeE9FUE80OThpQWdnS2V3N3ZjWUJLcVdlWFJzSWFCZzhwel9US21udHc5Y05oRXRqVUxiOWhoaWkxdWREa0V0WklmX2tUdU1mOUdPUDBpQjNKMG8wUG51ZXBzUHBuTU1BZU9US3lUQTFtVG0zaWZGRXBHOHhPZ2hTdW44RE5vMUFfQXBOQUNCR3BCVFUzRWlFRjlzblhOYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iRVhYSmpGUFAtOEx1TVBhbFlvZ1hQS3M3eEM0MFBLNHZmajNFMy03OG10Ml9YYTR4TTFKSzV5U2JrSmdfTHpodVo0elBDYWNpcUFJeUdGT0NYNkFu?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "随着极端天气、成本和人工智能影响企业战略，加拿大企业对气候规划的信心增强 - 富途牛牛",
-          "summary": "随着极端天气、成本和人工智能影响企业战略，加拿大企业对气候规划的信心增强 富途牛牛",
+          "time": "19:57",
+          "title": "京东、洋河等成立10亿股权投资基金 - 新浪网",
+          "summary": "京东、洋河等成立10亿股权投资基金 新浪网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTW9UNWNWSzQwQ2o0Y3VZdGpRSlk0TV9kZ1hIeUhaS3BSeVA3bEFudmRoMTdSTV9zTE11eUpjOTEtM1VtY3hySEl5aGczOFdoWUdWNGdET2wxOXBtcHFERDBKWThPdGxlZ05pWWlmMXVCNWp2WVdJU2ZuNW52bDQtZXZWNjROMWtOVURmWndJY0dlZnJZTGs2Ynp4djh2Uy1IaFNqa0tLQmM0MnNSLVRONUlZZnhfZ1JC?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZnNRSmt1eGk0dnVkZmhuSUMyMFlVTnR4YUgtUlVTVVFRWU9waUZwYWtiaVRoMXVQdkliWU82eVBWTmhkN0FUcVV3MjcyRi1zYlNXcmU4ckUyeFNCdFIyaG82YlRnRERoUElYMFFYSWVYUFJSbElraGloQTdfT0VvdVR4UlRRQmQtNEtaR3pqV1lGLWx1dFpTNXgwWl9jZUNYSXpsYmtqSGh2aU9rR1R5V01KZXZBbVFncE80SmhuZEdYTVhXZDFqSmwzc1lVYTRIMk1FZlV5MHV4VXRjaEVNWGFmQ3JsdDNpNGlGSWRieHpQeFJQX1F3QlV3U0FvSUZZSmtQeUNDWFU3RzUwMTdzdVBWMVpvUi16S19IU3NWdjJoVU5YODdMRC1uV0J0bW10MmpUc1o5RTVCUGluVmsyZDJCbjNJemxlbzVhMEVLZXRmeUVfSVg1SklJcmk2bV9PVDJlbXlrcTM?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "百洋股份：目前公司战略是做强做大主营业务 - 东方财富",
+          "text": "深化产业协同 共绘合作蓝图 中阿企业战略合作交流会在京举行 - 中华网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HV3B2V0RZVWFsOERwSlpNWnRFQWsyaUZOZV95QTBXV0ItNDlFNE1VckZpSTg0bjExRzc2S2l0dXVqX1RDUzFZcDR5UHBLc2I3allEZXZzNUh2RkluR3lpQ2lzVEU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fTDd4M1RHbFRJaFlCUFk1b1MzRjhwa1lhQy1oRXJ6TU9PWTlMZmNFc3Uzek9WMkR6OWQwQTJ1QzNiQnYwOU1Qd1ZHMDhMTDJiVUtmWHBBYzJTbmEzaEM2TmRCcnRCVlFHNndfRmJB?oc=5"
         },
         {
-          "text": "中晶科技：公司管理层积极关注产业链的发展趋势及潜在机会 - 东方财富",
+          "text": "宁夏电力市场信用评价：结果作为保底售电公司管理的重要依据 - gdshe.org",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rdU5uWXZXdUtBcXEyTmMxYnZhU1VPX1diOG02UFJERTlyOXJkMVljSGd1SWd0MXdhWlhTTk11SnJjLU85ZVotWEVSMTh3MFZRV2czY0ZwVEFQLWg3WXdUa0pEUkw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNG9qVlJRUmp5NnR1OXJBXzREbEpwdTFCbXhodHRTX0Z2OFh5c0FUU3dtekZybllRUGM4bEpZeEFFcVdDclRtOWphei1BdktZZWc?oc=5"
         },
         {
-          "text": "心学赋能企业管理，助力企业文化高质量发展 - 中华网",
+          "text": "赫美集团：公司管理层始终将提升企业内在价值和可持续发展能力作为首要目标_股市要闻_市场_中金在线 - 中金在线",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42OHg3Sk1DUE1Wa3B1UTRZaldILS1aeUhobzBPVUtiTV81ZTV0SkIybmhsdlAyaXFTU3hFeUFneEZFX09vYTRUNVhWaHVwV25Ua0lvNXhyTUE1dFRxdEE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04Nm53MGRVYWp0c2sydzZXdUlGdGZ5LXNNWjRfM09jS3ViMmtSQ2dBMTFBRGpTRXFWa09rZDBEVjUyd3RJT2J3TS1PMzB1WURqLWdhY0N2dF9HckZibjMySUJDLTdzcnJmWUNDdVVB?oc=5"
         },
         {
-          "text": "韩国产业通商部19表示，以韩日领导人会谈为契机，韩国政府与日本经济产业省共同制定了加强能源安全与供应链韧性合作方案 - Bitget",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rRTNwT01nOVg5MTUwWXpVc1BxSTJya1hWSHFfcF9ZaHNqbE9NOXI3ZVZHMjJBTUR6Njc5ZEdMTEp2eVY2UnJ2V0VxSVhDNnNfMHkwdWxGemJjU2NMUXNmTWhzQ0xYUdIBa0FVX3lxTE5SNkhhM2dOaWNFbC1RSXV3MElYSXg2QV9QbjJRNm9meXNhTkZBSHQxeEprTnZ5Y0dhemFkeWRPV0ZVYW9ERlBOek9LMEFtLTh2dTdWUk1IS3hVZS1MRzU0cmgybURZc3gtRTZZ?oc=5"
+          "text": "承洛企业管理投资曲靖福牌A轮 - 亿欧",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90T1hycVlialJWbGRxZ0hCeEVsNENUajJ4MXk5azVwTmRRNWJQeGxHTGZkaklxVjNIY1A0TlJwXzJzUmtSbHZxdER2YUxvZG52Wk5GTg?oc=5"
         }
       ]
     }
