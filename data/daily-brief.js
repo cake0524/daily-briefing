@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月21日",
+  "publishDate": "2026年5月22日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "从汽车、机器人到大飞机，还有什么是长三角不能造的？ - jfdaily.com",
+      "title": "燃油车，这一次真的被逼到悬崖边上了，输得太“惨”了 - 凤凰网汽车",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Star-studded refugee football team take…",
+      "title": "UN agencies step up Ebola response in e…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:01",
-          "title": "从汽车、机器人到大飞机，还有什么是长三角不能造的？ - jfdaily.com",
-          "summary": "从汽车、机器人到大飞机，还有什么是长三角不能造的？ jfdaily.com",
+          "time": "08:08",
+          "title": "燃油车，这一次真的被逼到悬崖边上了，输得太“惨”了 - 凤凰网汽车",
+          "summary": "燃油车，这一次真的被逼到悬崖边上了，输得太“惨”了 凤凰网汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xZktnX3l0SjdpYmZxVHVHMTd2eG5Nb29WVTA2dC1jcE9YRFU1aTJLV1RtRXp1aGtTdjBMU2o2M1AzcGRfS29HMG4yM09mQXVoVzhqbXN6NzVVdw?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GRHRMU1ZCRkUyVk9zRnF0eFhFMDJxNnhhSlFpMGNGaHpzNkJkX05nckxfRXc4OGdMY0lHeF9CNzJ6RkdvY3FrR2JkVW0?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:34",
-          "title": "5月20日新能源ETF博时基金份额减少100万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 - 证券之星",
-          "summary": "5月20日新能源ETF博时基金份额减少100万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 证券之星",
+          "time": "08:04",
+          "title": "新能源车渗透率破六成 车市步入新竞逐时代 - 中金在线",
+          "summary": "新能源车渗透率破六成 车市步入新竞逐时代 中金在线",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HcTZDc2dvYzFackg0YlhCYXZqSjNqWG5VbnhUMHF3ZnNDSUJ3dl9uMmUwckQ5dHU3bjRLOEp5V2FHcWRWbEl3emVOOGE4VndESWU5THZkeHM2d25hRlRmQUNn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zNmx5S1pSdGI4ZlBBMzBBQWxGV0VRSmtpd2VUeGhadklUazlFbjVJWTNGb3ZrWFM4NTBkaHhFcFN6cUROX25oNWhRMTJwNzV0WFN5Vk9vZ2t6YnhGZ25xd3U0bDVNZUgwUjBN?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "5月20日新能源车ETF汇添富基金份额减少150万份，重仓股比亚迪、宁德时代、汇川技术_基金提醒_雷达 - 证券之星",
+          "text": "技术跑得太快，车队还敢买新能源重卡吗？ - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zS1hlSGJ6Wk9FMDhQZTR0R3hscWNmcXhYZE4yN2ltcE9zSFFZRWRRbElrNGYwRV9JRU5pVlhkZGdqT3I4VW9VYldwNUt1NU5CdzQwcEpPNUprLW1Bd0FhSWxR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUg0Z0ZfcjJDbGwyWHdIWXFXRHJMcTlMRXMzbXh6ZTVpZ2VCdEZqQndJYVpMQ1R4dmRaS0V1YmFwcTlHaXlZVlpGT1dKVS04ajMzVDlmWmMyX0ZubHh6Y3FfYms4WTNWRFlfckJWN0lZQ3AyTDVkcVdKOXpldlRJX2x0Sl9FcWo4c0JjLQ?oc=5"
         },
         {
-          "text": "5月20日新能源ETF华安基金份额减少600万份，重仓股宁德时代、阳光电源、亿纬锂能_基金提醒_雷达 - 证券之星",
+          "text": "豪华车市场现分化国产高端新能源汽车受青睐|奥迪A8L|奔驰|宝马|奔驰s级|宝马7系 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yOWd6UjhGM01rdFlJOXk2dDZfUkdnSklSeEFaTGFPZGJmdHVMMDV1elpNMnNjOTU2RVFGUjlpMEpuSHlWVC1qcXpBb3JRZDRnQU1SOTVDR3B2a1l2WHdvLUl3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmdKdXdGVkZPc2pVd1BDSHZ2SlJuWmVUUGhSUEVMY1BVUk43Uk5SZDFPZlRmd2JPeWsxc3FuYktqa0doTk02QV82YVF3bDJzbHh2a3F1ajhRcnVseE1zZG1nS25iME1uSlE3bmxSckV2QWxYMWRzQWlGTTlJbV85TjB1bjFKMGxSRjR2ckp5SQ?oc=5"
         },
         {
-          "text": "三部门出手整治新能源车虚假宣传，\"吹牛皮\"终于有人管了 - 风闻",
+          "text": "楚雄水网新能源获20年发电类电力业务许可证，电力业务运营资质落定|国家能源局|云南省|禄丰|观音山|虹吸 - 新浪财经",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNzkzVnI2bDY2eXJ6dXRZX0NISEl2NzdZTk1vUnpZSUV0V0I0QVlzYjBGeVZMQWN4bnRvaExPUGlTZTQxNWNQOGJuS3V1VjFjblJoLXhCbWJTU1lEUTJ5YnZrTFUxQ1B1M1NaR1Q0UlpJUXFnb2RnbQ?oc=5"
+        },
+        {
+          "text": "【深圳特区报】广东文化产业“政策包”实施一周年成效展示活动举行 规上文化企业营收连续22年全国居首 - 搜狐网",
           "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VWnZlal9pdG5HRDgxYlJqN3hsUGdEam1kelVTQ0ctMzgzTjNrUVVuemhJR1hkM0p5c0FWZGphaDBIcnZuWXg3VXpOdjU3UUZHaDk3SGlxSzQxbU0?oc=5"
-        },
-        {
-          "text": "超10家主流车企部分车型涨价，新能源车市转向价值竞争新阶段 - thepaper.cn",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5naHJMdGtGaXEyNnhnWE4yTU1wcUEyNU5EOEJHTGdQVjA3RFBYakpLb0Z6WS1WN1JBaUQ3MVExTklRbGpLbFloenFncllaR1VpUnRhQWVrSDdwSlg0V0E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXRJQUpCcjMxdWVuNDllMmYyQUhmUjVWRjE1Q0RGSFZsUlBUT3c5bVFTUE81MEpKR2JkdjFoTVpBcDhIcjR1NFJwMk9wRHpRYnlCdHhBM3NtRDlKc1BOeUxtWnJJb0dfQmV5VkktclNFQlFJQnM2dTFyZ3ZUM0ZHOGNrOEp0bENVSzk5Sg?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Star-studded refugee football team takes the pitch for UN",
-          "summary": "A symbolic team of famous footballers with first hand experience of life as a refugee was announced on Tuesda…",
+          "title": "UN agencies step up Ebola response in eastern DR Congo",
+          "summary": "United Nations agencies have moved swiftly to support efforts to contain the latest Ebola outbreak in eastern…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167552"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167567"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Geopolitical tensions impact global economy, Gaza aid funding shortfall, violence in South Sudan, UN condemns deadly mosque attack",
-          "summary": "The global economy is entering a more fragile period as geopolitical conflicts, rising energy costs and finan…",
+          "title": "War is becoming a death sentence for women and girls",
+          "summary": "Thirteen-year-old Mona still remembers the moment the second airstrike hit.",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167551"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167566"
         }
       ],
       "briefs": [
         {
-          "text": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
+          "text": "Building the smart city: Promise, pitfalls and the people at its heart",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167550"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167564"
         },
         {
-          "text": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks",
+          "text": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167548"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167563"
         },
         {
-          "text": "Ukraine war ‘becoming deadlier by the day’, Security Council hears",
+          "text": "General Assembly backs historic World Court climate crisis ruling",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167546"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167561"
         },
         {
-          "text": "‘I had a good life and I lost it’: How one man survived four years on the stree…",
+          "text": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert fo…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167544"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167562"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:00",
-          "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-          "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geome…",
+          "time": "04:41",
+          "title": "Roundtables: Can AI Learn to Understand the World?",
+          "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world an…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:00",
-          "title": "How Ramp engineers accelerate code review with Codex",
-          "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substant…",
+          "time": "03:16",
+          "title": "Scaling creativity in the age of AI",
+          "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and exp…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/ramp"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/"
         }
       ],
       "briefs": [
         {
+          "text": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or…",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
+        },
+        {
+          "text": "AdventHealth advances whole-person care with OpenAI",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/adventhealth"
+        },
+        {
+          "text": "How Ramp engineers accelerate code review with Codex",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/ramp"
+        },
+        {
           "text": "The next phase of OpenAI’s Education for Countries",
           "source": "OpenAI",
           "url": "https://openai.com/index/the-next-phase-of-education-for-countries"
-        },
-        {
-          "text": "Introducing OpenAI for Singapore",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-openai-for-singapore"
-        },
-        {
-          "text": "Roundtables: Inside the Musk v. Altman Trial",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/"
-        },
-        {
-          "text": "Google just redesigned the search box for the first time in 25 years — here’s w…",
-          "source": "VentureBeat AI",
-          "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:56",
-          "title": "Four-Tier Memory Hierarchy for LLM Reasoning (USC, UW)",
-          "summary": "A new technical paper, “Not All Thoughts Need HBM: Semantics-Aware Memory Hierarchy for LLM Reasoning,” was p…",
+          "time": "00:02",
+          "title": "Large-scale, SRAM-based LLM Inference Deployment (Groq)",
+          "summary": "A new technical paper, “SHIP: SRAM-Based Huge Inference Pipelines for Fast LLM Serving,” was published by res…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/four-tier-memory-hierarchy-for-llm-reasoning-usc-uw/"
+          "url": "https://semiengineering.com/large-scale-sram-based-llm-inference-deployment-groq/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Options Grow For Standardizing Data Movement And Sharing Resources",
-          "summary": "But figuring out which ones to use, and when to use them, isn't always clear. The post Options Grow For Stand…",
+          "time": "21:00",
+          "title": "Bolt Challenges Nvidia With a Focus on Cutting-Edge Graphics",
+          "summary": "Darwesh Singh thinks Nvidia has a weakness. The last decade of Nvidia’s history was among the most consequent…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/options-grow-for-standardizing-data-movement-and-sharing-resources/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/bolt-graphics-zeus-gpu"
         }
       ],
       "briefs": [
         {
-          "text": "Blog Review: May 20",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-may-20-3/"
-        },
-        {
-          "text": "The Next 15 Years of Moore’s Law, According to Imec",
+          "text": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
           "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/semiconductor-technology-roadmap"
+          "url": "https://events.bizzabo.com/868497/home"
         },
         {
-          "text": "Research Bits: May 19",
+          "text": "Beyond Ideal Crystals: The Case For Scale In Atomistic Modeling",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-may-19/"
+          "url": "https://semiengineering.com/beyond-ideal-crystals-the-case-for-scale-in-atomistic-modeling/"
         },
         {
-          "text": "Chip Industry Technical Paper Roundup: May 19",
+          "text": "Process Variation In The Era Of Scaling: Improving Uniformity With Dummy Fill",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-may-19/"
+          "url": "https://semiengineering.com/process-variation-in-the-era-of-scaling-improving-uniformity-with-dummy-fill/"
+        },
+        {
+          "text": "With Chiplets, What Role Does Economics Play?",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/with-chiplets-what-role-does-economics-play/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Star-studded refugee football team takes the pitch for UN",
-          "summary": "A symbolic team of famous footballers with first hand experience of life as a refugee was announced on Tuesda…",
+          "title": "UN agencies step up Ebola response in eastern DR Congo",
+          "summary": "United Nations agencies have moved swiftly to support efforts to contain the latest Ebola outbreak in eastern…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167552"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167567"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Geopolitical tensions impact global economy, Gaza aid funding shortfall, violence in South Sudan, UN condemns deadly mosque attack",
-          "summary": "The global economy is entering a more fragile period as geopolitical conflicts, rising energy costs and finan…",
+          "title": "War is becoming a death sentence for women and girls",
+          "summary": "Thirteen-year-old Mona still remembers the moment the second airstrike hit.",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167551"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167566"
         }
       ],
       "briefs": [
         {
-          "text": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
+          "text": "Building the smart city: Promise, pitfalls and the people at its heart",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167550"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167564"
         },
         {
-          "text": "How the Hormuz crisis keeps disrupting kitchens, ports and paychecks",
+          "text": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167548"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167563"
         },
         {
-          "text": "Ukraine war ‘becoming deadlier by the day’, Security Council hears",
+          "text": "General Assembly backs historic World Court climate crisis ruling",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167546"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167561"
         },
         {
-          "text": "‘I had a good life and I lost it’: How one man survived four years on the stree…",
+          "text": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert fo…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167544"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167562"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:47",
-          "title": "山东大学管理学院陈志军教授团队著作《企业战略管理》《集团公司人力资源管理》入选中国知网2026年高被引图书TOP 1% - media.sdu.edu.cn",
-          "summary": "山东大学管理学院陈志军教授团队著作《企业战略管理》《集团公司人力资源管理》入选中国知网2026年高被引图书TOP 1% media.sdu.edu.cn",
+          "time": "03:08",
+          "title": "Sherrif Adekoya Joins Noah’s Ark As Strategy Director - Brand Communicator",
+          "summary": "Sherrif Adekoya Joins Noah’s Ark As Strategy Director Brand Communicator",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iRVhYSmpGUFAtOEx1TVBhbFlvZ1hQS3M3eEM0MFBLNHZmajNFMy03OG10Ml9YYTR4TTFKSzV5U2JrSmdfTHpodVo0elBDYWNpcUFJeUdGT0NYNkFu?oc=5"
+          "source": "Google News 全球商业",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcktPblJQRlExTk91Z1o5a0Q2d1BCcTIwVDNGYVBHRk51QllQRjZMVUpXLUNNX0lJekNxMVhvbTFQdHNPZGhSQkdFdXhpRnRhV1Z5V2VQaHFtUUZFVHM4Z01KR1d2bnUtTXgtTWdiRnFnZG92MmI1TjRCZS1jODNqQUtBcHRMOVJZTVFKMg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:57",
-          "title": "京东、洋河等成立10亿股权投资基金 - 新浪网",
-          "summary": "京东、洋河等成立10亿股权投资基金 新浪网",
+          "time": "21:57",
+          "title": "中马港口联盟扩容 增强区域供应链韧性 - chinanews.com.cn",
+          "summary": "中马港口联盟扩容 增强区域供应链韧性 chinanews.com.cn",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPZnNRSmt1eGk0dnVkZmhuSUMyMFlVTnR4YUgtUlVTVVFRWU9waUZwYWtiaVRoMXVQdkliWU82eVBWTmhkN0FUcVV3MjcyRi1zYlNXcmU4ckUyeFNCdFIyaG82YlRnRERoUElYMFFYSWVYUFJSbElraGloQTdfT0VvdVR4UlRRQmQtNEtaR3pqV1lGLWx1dFpTNXgwWl9jZUNYSXpsYmtqSGh2aU9rR1R5V01KZXZBbVFncE80SmhuZEdYTVhXZDFqSmwzc1lVYTRIMk1FZlV5MHV4VXRjaEVNWGFmQ3JsdDNpNGlGSWRieHpQeFJQX1F3QlV3U0FvSUZZSmtQeUNDWFU3RzUwMTdzdVBWMVpvUi16S19IU3NWdjJoVU5YODdMRC1uV0J0bW10MmpUc1o5RTVCUGluVmsyZDJCbjNJemxlbzVhMEVLZXRmeUVfSVg1SklJcmk2bV9PVDJlbXlrcTM?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ESGN5YUxkbDNYaUJleHZ2ZVNqa1JEZE1BT1NjM0xtS0lMX1Z0M21NMHpRZlZtUkY1cS05RC1UUW11TVQ0WWdUWWNpODNXQXRabW1lRzRoZ05ZcGdDR1BQNFFkUUlLYzNI?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "深化产业协同 共绘合作蓝图 中阿企业战略合作交流会在京举行 - 中华网",
+          "text": "雪州积极加强经济与供应链韧性 6大惠民措施615启动！ - mediaselangor.com",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fTDd4M1RHbFRJaFlCUFk1b1MzRjhwa1lhQy1oRXJ6TU9PWTlMZmNFc3Uzek9WMkR6OWQwQTJ1QzNiQnYwOU1Qd1ZHMDhMTDJiVUtmWHBBYzJTbmEzaEM2TmRCcnRCVlFHNndfRmJB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJdGduWGlaekNkdkhuTWR6aHNHWFVUcFJJWWgtT2QwVXZmVWJEZ0h5Z0ZmRHNFeGs0alNVZUN6NVAtNkxzNHpNZVNNR0dhZm9rczBHb29R?oc=5"
         },
         {
-          "text": "宁夏电力市场信用评价：结果作为保底售电公司管理的重要依据 - gdshe.org",
+          "text": "浙江荣泰成立新企业管理公司 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1vNG9qVlJRUmp5NnR1OXJBXzREbEpwdTFCbXhodHRTX0Z2OFh5c0FUU3dtekZybllRUGM4bEpZeEFFcVdDclRtOWphei1BdktZZWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTVdTWnNMMXlCSUV4cXJWc2pTTFhadHBxMVBFeGpfby1DakoxWHh2Mi1hUWhRcU05NVRpWEdhUV9wOEE0eGd6c2hUekVPM2l4MWlYZ3JwbnZvTVVBTlBMNWxOT1ZTX3YzYjZQWDR3SGNRaVlEcmxLS292MFNwVEt2dV9Hc0VfRl90?oc=5"
         },
         {
-          "text": "赫美集团：公司管理层始终将提升企业内在价值和可持续发展能力作为首要目标_股市要闻_市场_中金在线 - 中金在线",
+          "text": "浙江荣泰成立新企业管理公司 注册资本1200万 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04Nm53MGRVYWp0c2sydzZXdUlGdGZ5LXNNWjRfM09jS3ViMmtSQ2dBMTFBRGpTRXFWa09rZDBEVjUyd3RJT2J3TS1PMzB1WURqLWdhY0N2dF9HckZibjMySUJDLTdzcnJmWUNDdVVB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JUlViUlhOajhZem5RSGxtX2k5RUxnX0JmcExVTXhWX2NLU25FLTZkTWxvQ056ZnA4UVRrNkxhaE1yRXY5VnkzcDFwbw?oc=5"
         },
         {
-          "text": "承洛企业管理投资曲靖福牌A轮 - 亿欧",
+          "text": "浙江荣泰成立新企业管理公司 注册资本1200万 - smarthey.com",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90T1hycVlialJWbGRxZ0hCeEVsNENUajJ4MXk5azVwTmRRNWJQeGxHTGZkaklxVjNIY1A0TlJwXzJzUmtSbHZxdER2YUxvZG52Wk5GTg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFdEVtVDlrT20xLVMxN2NKcFJLN1JXb2hWbEdZamZNXzR3ZzQyMl9vYWNrdloyN2JFbVcyM3dDS2x3bGoydndyZUk3MENvY085ZjZaejZ5amREOENrenc?oc=5"
         }
       ]
     }
