@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月22日",
+  "publishDate": "2026年5月23日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "燃油车，这一次真的被逼到悬崖边上了，输得太“惨”了 - 凤凰网汽车",
+      "title": "从“规模扩张”向“价值引领”转型 从“卖产品”向“输出生态”升级 新能源汽车出…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:08",
-          "title": "燃油车，这一次真的被逼到悬崖边上了，输得太“惨”了 - 凤凰网汽车",
-          "summary": "燃油车，这一次真的被逼到悬崖边上了，输得太“惨”了 凤凰网汽车",
+          "time": "07:45",
+          "title": "从“规模扩张”向“价值引领”转型 从“卖产品”向“输出生态”升级 新能源汽车出海的重庆答卷 - 重庆市人民政府",
+          "summary": "从“规模扩张”向“价值引领”转型 从“卖产品”向“输出生态”升级 新能源汽车出海的重庆答卷 重庆市人民政府",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GRHRMU1ZCRkUyVk9zRnF0eFhFMDJxNnhhSlFpMGNGaHpzNkJkX05nckxfRXc4OGdMY0lHeF9CNzJ6RkdvY3FrR2JkVW0?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YLVFVWDAzY3VfSDdyRkt6NHBkeFIzdVVkWktZcEFlcGxmOWhSQTNzb1hwMGRDNHR6Y3l4RW8zazA2X2J5SE1jMXFfNjVhdV9hQ0UzWFBnVDJ5dHBjUzNISkkxXzc1ekFheHFaUmhLY3VoWTRZ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:04",
-          "title": "新能源车渗透率破六成 车市步入新竞逐时代 - 中金在线",
-          "summary": "新能源车渗透率破六成 车市步入新竞逐时代 中金在线",
+          "time": "07:12",
+          "title": "环塔SS5赛段，新能源量产组(T2.E）成绩表:1、251号坦克700。2、263号坦克300。3、262号坦克300。相比前三名。我更关心还陷在沙漠腹地的赛车... - 新浪网",
+          "summary": "环塔SS5赛段，新能源量产组(T2.E）成绩表:1、251号坦克700。2、263号坦克300。3、262号坦克300。相比前三名。我更关心还陷在沙漠腹地的赛车... 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8zNmx5S1pSdGI4ZlBBMzBBQWxGV0VRSmtpd2VUeGhadklUazlFbjVJWTNGb3ZrWFM4NTBkaHhFcFN6cUROX25oNWhRMTJwNzV0WFN5Vk9vZ2t6YnhGZ25xd3U0bDVNZUgwUjBN?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PTm1EUGc0bnpubHNzRWJTYzY0S2k1QnpUXzl3SlVFek5KNkp0d2x6dGRDd0NqZFhzczRZZms3QXJZSE9fQjRaNHg5S19Cb0p2bGdudEx5STRkYl9xbEhjNWtLSQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "技术跑得太快，车队还敢买新能源重卡吗？ - 搜狐网",
+          "text": "落子雄安深耕新能源，央企转型跑出绿色新赛道 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUg0Z0ZfcjJDbGwyWHdIWXFXRHJMcTlMRXMzbXh6ZTVpZ2VCdEZqQndJYVpMQ1R4dmRaS0V1YmFwcTlHaXlZVlpGT1dKVS04ajMzVDlmWmMyX0ZubHh6Y3FfYms4WTNWRFlfckJWN0lZQ3AyTDVkcVdKOXpldlRJX2x0Sl9FcWo4c0JjLQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DZjc1MmR4RVlaRlB5cWFlVThWY0Q3VkFzVURqS1JKSGhiSGNSRUdJTE00TjlTcXFJajhHNTlseGQ4MU9VVGZTMFhucGxWTTFmSkZlMHNFSFFpQlhDUjVGcC1wWGFUZjF0cUhMSUN3?oc=5"
         },
         {
-          "text": "豪华车市场现分化国产高端新能源汽车受青睐|奥迪A8L|奔驰|宝马|奔驰s级|宝马7系 - 新浪财经",
+          "text": "续航缩水催生“续命”黑产 新能源汽车私改电池乱象调查 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVmdKdXdGVkZPc2pVd1BDSHZ2SlJuWmVUUGhSUEVMY1BVUk43Uk5SZDFPZlRmd2JPeWsxc3FuYktqa0doTk02QV82YVF3bDJzbHh2a3F1ajhRcnVseE1zZG1nS25iME1uSlE3bmxSckV2QWxYMWRzQWlGTTlJbV85TjB1bjFKMGxSRjR2ckp5SQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnNZVzNFbndSTkRNdHFPU3VZZVNiVVFQS3FMR2NaQ2x1ZmhRbW1MQ0cxZ1F1MzF1ejBlM2o0Nk9Vd1BxZTc1TzlPTVFacEpJWkxDcEQ0OXBHNm91WEJRUUhTcTlOYTRFT3RrSGV3WHpvRmtwUUtIR1dOYUpIcnBQdllEU3Bmam1LNXNPX0V0MGwyOXVYdFlocQ?oc=5"
         },
         {
-          "text": "楚雄水网新能源获20年发电类电力业务许可证，电力业务运营资质落定|国家能源局|云南省|禄丰|观音山|虹吸 - 新浪财经",
+          "text": "【视频】锋芒相遇开启越野新能源篇章 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZNzkzVnI2bDY2eXJ6dXRZX0NISEl2NzdZTk1vUnpZSUV0V0I0QVlzYjBGeVZMQWN4bnRvaExPUGlTZTQxNWNQOGJuS3V1VjFjblJoLXhCbWJTU1lEUTJ5YnZrTFUxQ1B1M1NaR1Q0UlpJUXFnb2RnbQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tcDFRSHFETHpjcEVYVGl2UFNSZWpfN3FCS2ZLaHBhVWpKVTV3S0IwcHJPRVNQV25vMzJXSVNISEU5OFFWWGZweDE2bGFlaUhJMGhVRkdkR2Utb28?oc=5"
         },
         {
-          "text": "【深圳特区报】广东文化产业“政策包”实施一周年成效展示活动举行 规上文化企业营收连续22年全国居首 - 搜狐网",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXRJQUpCcjMxdWVuNDllMmYyQUhmUjVWRjE1Q0RGSFZsUlBUT3c5bVFTUE81MEpKR2JkdjFoTVpBcDhIcjR1NFJwMk9wRHpRYnlCdHhBM3NtRDlKc1BOeUxtWnJJb0dfQmV5VkktclNFQlFJQnM2dTFyZ3ZUM0ZHOGNrOEp0bENVSzk5Sg?oc=5"
+          "text": "南威软件（603636.SH）新增一起对外投资，被投资公司为北京极数澜途新能源科技有限责任公司 - 证券之星",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iOEw3dDJXQTN1c09sMVEzbGlBMmItSUNjdVY3MTU5XzdDZWN4YXhFQm9FdEFnMkR5YU1vdml4dkpraHh5ZzhGSzdhX3V4M2w0SWRHanpDVWwyRmlYazRIRA?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:41",
-          "title": "Roundtables: Can AI Learn to Understand the World?",
-          "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world an…",
+          "time": "18:00",
+          "title": "Google I/O showed how the path for AI-driven science is shifting",
+          "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are curre…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/"
+          "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
         },
         {
           "priority": "重点看点 02",
-          "time": "03:16",
-          "title": "Scaling creativity in the age of AI",
-          "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and exp…",
+          "time": "08:00",
+          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recog…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
         }
       ],
       "briefs": [
         {
+          "text": "How Virgin Atlantic ships faster with Codex",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/virgin-atlantic"
+        },
+        {
+          "text": "Roundtables: Can AI Learn to Understand the World?",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/"
+        },
+        {
+          "text": "Scaling creativity in the age of AI",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/"
+        },
+        {
           "text": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or…",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
-        },
-        {
-          "text": "AdventHealth advances whole-person care with OpenAI",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/adventhealth"
-        },
-        {
-          "text": "How Ramp engineers accelerate code review with Codex",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/ramp"
-        },
-        {
-          "text": "The next phase of OpenAI’s Education for Countries",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/the-next-phase-of-education-for-countries"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:01",
+          "title": "Chip Industry Week In Review",
+          "summary": "Taiwan, Europe packaging buildout; 2nm ramps; quantum big $; 2 new university hubs; agent honeypots; Samsung…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-139/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "00:02",
           "title": "Large-scale, SRAM-based LLM Inference Deployment (Groq)",
           "summary": "A new technical paper, “SHIP: SRAM-Based Huge Inference Pipelines for Fast LLM Serving,” was published by res…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/large-scale-sram-based-llm-inference-deployment-groq/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "Bolt Challenges Nvidia With a Focus on Cutting-Edge Graphics",
-          "summary": "Darwesh Singh thinks Nvidia has a weakness. The last decade of Nvidia’s history was among the most consequent…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/bolt-graphics-zeus-gpu"
         }
       ],
       "briefs": [
+        {
+          "text": "Bolt Challenges Nvidia With a Focus on Cutting-Edge Graphics",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/bolt-graphics-zeus-gpu"
+        },
         {
           "text": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
           "source": "IEEE Spectrum Semiconductors",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "Process Variation In The Era Of Scaling: Improving Uniformity With Dummy Fill",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/process-variation-in-the-era-of-scaling-improving-uniformity-with-dummy-fill/"
-        },
-        {
-          "text": "With Chiplets, What Role Does Economics Play?",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/with-chiplets-what-role-does-economics-play/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:08",
-          "title": "Sherrif Adekoya Joins Noah’s Ark As Strategy Director - Brand Communicator",
-          "summary": "Sherrif Adekoya Joins Noah’s Ark As Strategy Director Brand Communicator",
+          "time": "03:06",
+          "title": "美凯龙(601828) 成立厦门盈泰信企业管理有限公司 - MSN",
+          "summary": "美凯龙(601828) 成立厦门盈泰信企业管理有限公司 MSN",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcktPblJQRlExTk91Z1o5a0Q2d1BCcTIwVDNGYVBHRk51QllQRjZMVUpXLUNNX0lJekNxMVhvbTFQdHNPZGhSQkdFdXhpRnRhV1Z5V2VQaHFtUUZFVHM4Z01KR1d2bnUtTXgtTWdiRnFnZG92MmI1TjRCZS1jODNqQUtBcHRMOVJZTVFKMg?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNaENZblJLbnNhWV9UYWhKTURvUk44ZktzU3BGdWZxQjdEMTBjNGlreXVpalZERGZ2TmhZX0VZTzFFRmp3UV9hX2JYcUNMV2EzODZTVFFxdFdmR3gwZGlaQlppLXd0dlVpNXpxbDVkYW1vVFpDYzFqUEF3Rk1yYTNWa3VBdnhfcHhnb1FLd2ZIelBJeng5eXF2ODRXYTBKcUlXMmpMVGRRNXQ4SGhERnhrY25lcFZFeGdoNmF0MUFCckx4YXhjd1R0aGtiWnYxNzM4R0FJYjZONzhGa0RKMllYM0luSkR3UFhNSlpFUmJuODNpNzVVR3Z0UHdBQ2E0eUw1Wl9LTXM1RjBLLW92UVVWMUlIeHFIUzRvSkcwVHlTT2VuVndmRm9kN3pVR21JM2gwZlp0amNUWU0xLUxnUkdNNQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:57",
-          "title": "中马港口联盟扩容 增强区域供应链韧性 - chinanews.com.cn",
-          "summary": "中马港口联盟扩容 增强区域供应链韧性 chinanews.com.cn",
+          "time": "19:45",
+          "title": "澜起科技：股东上海融迎企业管理合伙企业拟减持1.00%股份 - 新浪财经",
+          "summary": "澜起科技：股东上海融迎企业管理合伙企业拟减持1.00%股份 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ESGN5YUxkbDNYaUJleHZ2ZVNqa1JEZE1BT1NjM0xtS0lMX1Z0M21NMHpRZlZtUkY1cS05RC1UUW11TVQ0WWdUWWNpODNXQXRabW1lRzRoZ05ZcGdDR1BQNFFkUUlLYzNI?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05emxkOG5FbGhVb2NxRmNPWkpWSnNCbXUyU291dVQyZXJILUNKa0NkN2k5ZktkUDFuQXF6WmxGclZvbHlGNE03RXhodkVua0xYYWJrUDNZbHQtVlF5RlQ0MUZ1ZS01Zk9JanJ2SUZB?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "雪州积极加强经济与供应链韧性 6大惠民措施615启动！ - mediaselangor.com",
+          "text": "澜起科技：上海融迎企业管理合伙企业拟减持1.00%股份 - jrj.com.cn",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeGFmYThuaThlWlRTMm1URGxQT1F1MUtGMXFUbmx3aDhxU0U4a18xSEFWZURoeXlDS0x6dV8yRi1uU0NXV2dWcHg0QnZSSFk0MnBrVU1obU43TlRiQXdKbE9wNjFkdXFVN2JRUjBlaw?oc=5"
+        },
+        {
+          "text": "澜起科技：上海融迎企业管理合伙企业拟减持1.00%股份财经新闻Financial News - AASTOCKS.com",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmhBWldLbGV6VUs5dDVxcHVORnZhWlFPZGVPcUxXZS1IYnJNczF6U2xBRENIeW81c0xxR3ROTHAzN0FkbmFDelBsdGw3RDhlTFVXbnR3UDZ2Wl9SWGQzUFZCQmtHeklZdnp3cGs2QUlrLUFXVURDSWRvQnNaZmI2TkNrUElzWVQ3MjNGWXA5VDJwNDQ?oc=5"
+        },
+        {
+          "text": "如何提升产业链供应链韧性和安全水平 - thepaper.cn",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJdGduWGlaekNkdkhuTWR6aHNHWFVUcFJJWWgtT2QwVXZmVWJEZ0h5Z0ZmRHNFeGs0alNVZUN6NVAtNkxzNHpNZVNNR0dhZm9rczBHb29R?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6M3ZMOUhuRkxJMks4WjllMmNkM0NLQm5xaFB3SUZ6WjlLT0lPZG1sZXJXX2RlQXdVNW5GT2p3ZXRLbi1kT05icndhV09sOHcyakEtWi1KUUM2SnAwTnc?oc=5"
         },
         {
-          "text": "浙江荣泰成立新企业管理公司 - 搜狐网",
+          "text": "建广广新（北京）企业管理合伙企业（有限合伙）成立 - zqrb.cn",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTVdTWnNMMXlCSUV4cXJWc2pTTFhadHBxMVBFeGpfby1DakoxWHh2Mi1hUWhRcU05NVRpWEdhUV9wOEE0eGd6c2hUekVPM2l4MWlYZ3JwbnZvTVVBTlBMNWxOT1ZTX3YzYjZQWDR3SGNRaVlEcmxLS292MFNwVEt2dV9Hc0VfRl90?oc=5"
-        },
-        {
-          "text": "浙江荣泰成立新企业管理公司 注册资本1200万 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JUlViUlhOajhZem5RSGxtX2k5RUxnX0JmcExVTXhWX2NLU25FLTZkTWxvQ056ZnA4UVRrNkxhaE1yRXY5VnkzcDFwbw?oc=5"
-        },
-        {
-          "text": "浙江荣泰成立新企业管理公司 注册资本1200万 - smarthey.com",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFdEVtVDlrT20xLVMxN2NKcFJLN1JXb2hWbEdZamZNXzR3ZzQyMl9vYWNrdloyN2JFbVcyM3dDS2x3bGoydndyZUk3MENvY085ZjZaejZ5amREOENrenc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZM1RpaEVIa3AxYXdZckZDQU5jLVl3NFp0QVNKTHNWWTNyaXVhZ1dsY2JuSldNdDAzajUydVg5QmloRUhoVk16aTc0WXNpSnZzQU9OcVk3cWtfNVFCZ2lWa19sN25pdGZicGhkZGNMaw?oc=5"
         }
       ]
     }
