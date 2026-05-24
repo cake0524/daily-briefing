@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月23日",
+  "publishDate": "2026年5月24日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "从“规模扩张”向“价值引领”转型 从“卖产品”向“输出生态”升级 新能源汽车出…",
+      "title": "沃尔沃XC60新能源最高降23.9万 - 太平洋汽车",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Forget electrons, this breakthrough use…",
+      "title": "New AI body map reveals obesity’s hidde…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "UN agencies step up Ebola response in e…",
+      "title": "Review of landmark nuclear treaty break…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:45",
-          "title": "从“规模扩张”向“价值引领”转型 从“卖产品”向“输出生态”升级 新能源汽车出海的重庆答卷 - 重庆市人民政府",
-          "summary": "从“规模扩张”向“价值引领”转型 从“卖产品”向“输出生态”升级 新能源汽车出海的重庆答卷 重庆市人民政府",
+          "time": "07:44",
+          "title": "沃尔沃XC60新能源最高降23.9万 - 太平洋汽车",
+          "summary": "沃尔沃XC60新能源最高降23.9万 太平洋汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YLVFVWDAzY3VfSDdyRkt6NHBkeFIzdVVkWktZcEFlcGxmOWhSQTNzb1hwMGRDNHR6Y3l4RW8zazA2X2J5SE1jMXFfNjVhdV9hQ0UzWFBnVDJ5dHBjUzNISkkxXzc1ekFheHFaUmhLY3VoWTRZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Dd3N5SEtCLUlZcUxKRHFzR3NyYjlFTko5Q1l1VUZub3dyNEdIeWxiV202Sm9VSUdJY3ZWR3UxYXdZQWx0UE9hTUQ5YUJEZUo4Wm1jZU10bTRWWHFITnN6VVB3ajhnYUQ3?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:12",
-          "title": "环塔SS5赛段，新能源量产组(T2.E）成绩表:1、251号坦克700。2、263号坦克300。3、262号坦克300。相比前三名。我更关心还陷在沙漠腹地的赛车... - 新浪网",
-          "summary": "环塔SS5赛段，新能源量产组(T2.E）成绩表:1、251号坦克700。2、263号坦克300。3、262号坦克300。相比前三名。我更关心还陷在沙漠腹地的赛车... 新浪网",
+          "time": "07:38",
+          "title": "李斌：新能源汽车行业从品牌混沌期进入澄清期，单点竞争已难取胜 - video.sina.com.cn",
+          "summary": "李斌：新能源汽车行业从品牌混沌期进入澄清期，单点竞争已难取胜 video.sina.com.cn",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PTm1EUGc0bnpubHNzRWJTYzY0S2k1QnpUXzl3SlVFek5KNkp0d2x6dGRDd0NqZFhzczRZZms3QXJZSE9fQjRaNHg5S19Cb0p2bGdudEx5STRkYl9xbEhjNWtLSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaHBKWlFVTU1PMFA4NTRGYVRrRmVGcmZIck1iTGkyYm9QLVdZYjlyVDRMM09qcUJteW1hcl9zTDRyWW9zcFVkT1dIN1ZVM0VzSmR0RlRnTFh0empDZmRBakUzUWtYNFl5eElDT0N5bnY0T2hycE9MUTR4dnZ0OG1hVFBR?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "落子雄安深耕新能源，央企转型跑出绿色新赛道 - 新浪财经",
+          "text": "李斌：新能源汽车行业从品牌混沌期进入澄清期，单点竞争已难取胜 - thepaper.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DZjc1MmR4RVlaRlB5cWFlVThWY0Q3VkFzVURqS1JKSGhiSGNSRUdJTE00TjlTcXFJajhHNTlseGQ4MU9VVGZTMFhucGxWTTFmSkZlMHNFSFFpQlhDUjVGcC1wWGFUZjF0cUhMSUN3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMlluVmVNeWNmZlVIcTE3MDd0cklCcllHeVNyVTVBMkUwVUtoUkxTT3k2VkFxd0Znc05XaHhJN1ZFd3dnZG0zVDJRWDktQXIyTHhXSjB1SF94VkZmSVBaeg?oc=5"
         },
         {
-          "text": "续航缩水催生“续命”黑产 新能源汽车私改电池乱象调查 - 新浪财经",
+          "text": "国产新能源轿跑，搭载三电机四驱动力，支持6C超充，续航900km‍ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcnNZVzNFbndSTkRNdHFPU3VZZVNiVVFQS3FMR2NaQ2x1ZmhRbW1MQ0cxZ1F1MzF1ejBlM2o0Nk9Vd1BxZTc1TzlPTVFacEpJWkxDcEQ0OXBHNm91WEJRUUhTcTlOYTRFT3RrSGV3WHpvRmtwUUtIR1dOYUpIcnBQdllEU3Bmam1LNXNPX0V0MGwyOXVYdFlocQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhalgxLTBXSDEwcV9XZXRzNXVvR3B3NkItYW9fMVFWdXJHOEhqRWNTS2R4X2VhWF83a19CYm8yMDZOcDdqLTdOVmp4Snl4dGk5VW1WWGIyUGR2Snc?oc=5"
         },
         {
-          "text": "【视频】锋芒相遇开启越野新能源篇章 - 汽车之家",
+          "text": "贵州一季度PPI同比上涨0.4%，产业链延伸与新能源需求双轮驱动 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tcDFRSHFETHpjcEVYVGl2UFNSZWpfN3FCS2ZLaHBhVWpKVTV3S0IwcHJPRVNQV25vMzJXSVNISEU5OFFWWGZweDE2bGFlaUhJMGhVRkdkR2Utb28?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUEyZklEcktfLS1laDZXX3lCVUNRNVR2MjFnQUd0ZGJYaHIyekJZX0xvODJBeV96VUtBcXlLZDNsUXdBTldEUDZYNzdiRnZvLTZWZ05xZXJWM0tGSVhNMmZsX1diSFZiWUt4V2dwSGx1NlkweUlpZmtQb193RW8xMmFOM2lrbU84T09WalJMWTRyaDRxUXBqMA?oc=5"
         },
         {
-          "text": "南威软件（603636.SH）新增一起对外投资，被投资公司为北京极数澜途新能源科技有限责任公司 - 证券之星",
+          "text": "合资新能源该怎么玩？与众07给了一个答案 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iOEw3dDJXQTN1c09sMVEzbGlBMmItSUNjdVY3MTU5XzdDZWN4YXhFQm9FdEFnMkR5YU1vdml4dkpraHh5ZzhGSzdhX3V4M2w0SWRHanpDVWwyRmlYazRIRA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FcXQyTlF3VUM4enh3YnNrd2czWElidlhKZ3RMcjFrS05uNklnUkhOODQ4dmpZYlBaY0RacW5Eb0NFd0tNMjJWMW9ubTFvR3pXeWRUcXB1WExxcU0?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:23",
-          "title": "Forget electrons, this breakthrough uses light-matter particles to power AI",
-          "summary": "Researchers at Penn have created a hybrid light-matter particle that could dramatically speed up AI computing…",
+          "time": "20:34",
+          "title": "New AI body map reveals obesity’s hidden attack on facial nerves",
+          "summary": "Scientists have created an AI-powered system that can scan and map an entire mouse body in extraordinary deta…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260522023308.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "11:03",
+          "title": "Ordinary WiFi can now identify people with near perfect accuracy",
+          "summary": "Scientists in Germany have demonstrated a startling new form of surveillance: identifying people using nothin…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260522023127.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Forget electrons, this breakthrough uses light-matter particles to power AI",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "13:18",
-          "title": "The “impossible” LED that could change everything",
-          "summary": "Scientists at the University of Cambridge have achieved what was once considered impossible by electrically p…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "The “impossible” LED that could change everything",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260518011222.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "AI reveals the invisible magnetic chaos wasting energy inside electric motors",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "NASA’s new AI space chip could let spacecraft think for themselves",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260515002134.htm"
-        },
-        {
-          "text": "Scientists discover hidden math secret inside Chinese money plant leaves",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260513221754.htm"
-        },
-        {
-          "text": "Quantum breakthrough could revolutionize teleportation and computing",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260513034640.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "UN agencies step up Ebola response in eastern DR Congo",
-          "summary": "United Nations agencies have moved swiftly to support efforts to contain the latest Ebola outbreak in eastern…",
+          "title": "Review of landmark nuclear treaty breaks up without consensus, raising arms race fears",
+          "summary": "After four weeks of negotiations at UN Headquarters in New York, the 11th Review Conference of the nuclear No…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167567"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167580"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "War is becoming a death sentence for women and girls",
-          "summary": "Thirteen-year-old Mona still remembers the moment the second airstrike hit.",
+          "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
+          "summary": "On 23 February 2022, in her home city of Kharkiv, Dr Inna Soldatenko finished work, collected her daughter fr…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167566"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167569"
         }
       ],
       "briefs": [
         {
-          "text": "Building the smart city: Promise, pitfalls and the people at its heart",
+          "text": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167564"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167579"
         },
         {
-          "text": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress…",
+          "text": "World Urban Forum backs ‘Baku Call to Action’ on global housing crisis",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167563"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167577"
         },
         {
-          "text": "General Assembly backs historic World Court climate crisis ruling",
+          "text": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ inter…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167561"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167578"
         },
         {
-          "text": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert fo…",
+          "text": "Ebola risk ‘very high’ in eastern DR Congo as UN intensifies response",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167562"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167575"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "UN agencies step up Ebola response in eastern DR Congo",
-          "summary": "United Nations agencies have moved swiftly to support efforts to contain the latest Ebola outbreak in eastern…",
+          "title": "Review of landmark nuclear treaty breaks up without consensus, raising arms race fears",
+          "summary": "After four weeks of negotiations at UN Headquarters in New York, the 11th Review Conference of the nuclear No…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167567"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167580"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "War is becoming a death sentence for women and girls",
-          "summary": "Thirteen-year-old Mona still remembers the moment the second airstrike hit.",
+          "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
+          "summary": "On 23 February 2022, in her home city of Kharkiv, Dr Inna Soldatenko finished work, collected her daughter fr…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167566"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167569"
         }
       ],
       "briefs": [
         {
-          "text": "Building the smart city: Promise, pitfalls and the people at its heart",
+          "text": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167564"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167579"
         },
         {
-          "text": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress…",
+          "text": "World Urban Forum backs ‘Baku Call to Action’ on global housing crisis",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167563"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167577"
         },
         {
-          "text": "General Assembly backs historic World Court climate crisis ruling",
+          "text": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ inter…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167561"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167578"
         },
         {
-          "text": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert fo…",
+          "text": "Ebola risk ‘very high’ in eastern DR Congo as UN intensifies response",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167562"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167575"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "13:27",
+          "title": "苑东生物：公司战略发展目标清晰， 目前各项业务经营正常 - MSN",
+          "summary": "苑东生物：公司战略发展目标清晰， 目前各项业务经营正常 MSN",
+          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPZklCYWZUdXhxQmtyZzFXdFVMbXV0STNsbWh1ZG1hbnFvTW5WSHhkWU5jQS1wbkUxMHlNMFl2cE9BZzRXX2FybGpOS1dSN0hoSlN4Q2U1OTRsYko1NWU0NU5ueUVLX3AtenVYQW84UHRMWEthOHhqbU1LN3J6dlpzYjhaeC1QUkFCektQVjkxeXBici12YTRvNVNvdGJiOVFMelZOMGlvX3djTGNfTEJLNFRfVE5iUFpRaGVuR2xtZE4xMlp4cFJXZnFtU2xTdFdLMTZRdG10MFE1X3pPWDVWbzhNd2RYVy1DVlB3VWFTV3llUVZuMHpxR2FCQkU4TXJwc1NMZkRkZ2xFZzNqWWRocWR2V3hXX1JHNHRYbGF4Q3FFa2hpRTJKT2VUN0dMXzJWYjJWakc1bzlqSFZyZks1aUVQWGhlNnhvX184Z2RGUTh5ampBV2g5X1AzZ0E5bVpTT0FGdU4xcENncnFHd2tUSDFBX3FnOVNpNTBUR2pvQm9NTS14RGI1cElyZFVJVElQUFBkbXlyUXdzY3NNUkx5VDZTd1V2WUViTWhCNUd2THZycGtROWNBZWNoOXBCVFFVZzFrYVRwb2lXWUR5ZHRjSWQxbnNYZFg2OG41QTBHdFJEdXFRcVJtUDFMZk96djlyNlk5cmFxdE14cmlCcDI4ZTNRZ1ZFT3Y2TjlmdzRPYzBFQmJJd0hF?oc=5"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "03:06",
           "title": "美凯龙(601828) 成立厦门盈泰信企业管理有限公司 - MSN",
           "summary": "美凯龙(601828) 成立厦门盈泰信企业管理有限公司 MSN",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNaENZblJLbnNhWV9UYWhKTURvUk44ZktzU3BGdWZxQjdEMTBjNGlreXVpalZERGZ2TmhZX0VZTzFFRmp3UV9hX2JYcUNMV2EzODZTVFFxdFdmR3gwZGlaQlppLXd0dlVpNXpxbDVkYW1vVFpDYzFqUEF3Rk1yYTNWa3VBdnhfcHhnb1FLd2ZIelBJeng5eXF2ODRXYTBKcUlXMmpMVGRRNXQ4SGhERnhrY25lcFZFeGdoNmF0MUFCckx4YXhjd1R0aGtiWnYxNzM4R0FJYjZONzhGa0RKMllYM0luSkR3UFhNSlpFUmJuODNpNzVVR3Z0UHdBQ2E0eUw1Wl9LTXM1RjBLLW92UVVWMUlIeHFIUzRvSkcwVHlTT2VuVndmRm9kN3pVR21JM2gwZlp0amNUWU0xLUxnUkdNNQ?oc=5"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "19:45",
-          "title": "澜起科技：股东上海融迎企业管理合伙企业拟减持1.00%股份 - 新浪财经",
-          "summary": "澜起科技：股东上海融迎企业管理合伙企业拟减持1.00%股份 新浪财经",
-          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05emxkOG5FbGhVb2NxRmNPWkpWSnNCbXUyU291dVQyZXJILUNKa0NkN2k5ZktkUDFuQXF6WmxGclZvbHlGNE03RXhodkVua0xYYWJrUDNZbHQtVlF5RlQ0MUZ1ZS01Zk9JanJ2SUZB?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "澜起科技：上海融迎企业管理合伙企业拟减持1.00%股份 - jrj.com.cn",
+          "text": "澜起科技：股东上海融迎企业管理合伙企业拟减持1.00%股份 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05emxkOG5FbGhVb2NxRmNPWkpWSnNCbXUyU291dVQyZXJILUNKa0NkN2k5ZktkUDFuQXF6WmxGclZvbHlGNE03RXhodkVua0xYYWJrUDNZbHQtVlF5RlQ0MUZ1ZS01Zk9JanJ2SUZB?oc=5"
+        },
+        {
+          "text": "澜起科技：上海融迎企业管理合伙企业拟减持1.00%股份 - 金融界",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXeGFmYThuaThlWlRTMm1URGxQT1F1MUtGMXFUbmx3aDhxU0U4a18xSEFWZURoeXlDS0x6dV8yRi1uU0NXV2dWcHg0QnZSSFk0MnBrVU1obU43TlRiQXdKbE9wNjFkdXFVN2JRUjBlaw?oc=5"
+        },
+        {
+          "text": "澜起科技：上海融迎企业管理合伙企业拟减持1.00%股份 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYeHpHbVNkUlpsUjl0V21SdVE1NHBvd2pZbjZvTzNwQldmbnNWZE52NU1YdjA5dXdXMnVrSGQwb0NpUWlDOE9vWFJlOUF4T3ZLODg5SHNRaXJpX1pfaF8zbEhDa2RjUXl2UlZ2dEdYdS1PN3VTOXpFdEotN09wdw?oc=5"
         },
         {
           "text": "澜起科技：上海融迎企业管理合伙企业拟减持1.00%股份财经新闻Financial News - AASTOCKS.com",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmhBWldLbGV6VUs5dDVxcHVORnZhWlFPZGVPcUxXZS1IYnJNczF6U2xBRENIeW81c0xxR3ROTHAzN0FkbmFDelBsdGw3RDhlTFVXbnR3UDZ2Wl9SWGQzUFZCQmtHeklZdnp3cGs2QUlrLUFXVURDSWRvQnNaZmI2TkNrUElzWVQ3MjNGWXA5VDJwNDQ?oc=5"
-        },
-        {
-          "text": "如何提升产业链供应链韧性和安全水平 - thepaper.cn",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6M3ZMOUhuRkxJMks4WjllMmNkM0NLQm5xaFB3SUZ6WjlLT0lPZG1sZXJXX2RlQXdVNW5GT2p3ZXRLbi1kT05icndhV09sOHcyakEtWi1KUUM2SnAwTnc?oc=5"
-        },
-        {
-          "text": "建广广新（北京）企业管理合伙企业（有限合伙）成立 - zqrb.cn",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZM1RpaEVIa3AxYXdZckZDQU5jLVl3NFp0QVNKTHNWWTNyaXVhZ1dsY2JuSldNdDAzajUydVg5QmloRUhoVk16aTc0WXNpSnZzQU9OcVk3cWtfNVFCZ2lWa19sN25pdGZicGhkZGNMaw?oc=5"
         }
       ]
     }
