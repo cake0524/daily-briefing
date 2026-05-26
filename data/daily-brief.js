@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月25日",
+  "publishDate": "2026年5月26日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "油车销量、价格突降，多款新能源车涨价，“韭菜”已经长好了？ - 汽车之家",
+      "title": "今天10时，北京配置新能源小客车指标 - 搜狐网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "AI scans 400,000 Reddit posts and finds…",
+      "title": "AI won’t replace you but someone using…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:03",
-          "title": "油车销量、价格突降，多款新能源车涨价，“韭菜”已经长好了？ - 汽车之家",
-          "summary": "油车销量、价格突降，多款新能源车涨价，“韭菜”已经长好了？ 汽车之家",
+          "time": "08:14",
+          "title": "今天10时，北京配置新能源小客车指标 - 搜狐网",
+          "summary": "今天10时，北京配置新能源小客车指标 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WdEdDSkhDMWxxdTg2TTJvelhVS2MxSWdYNGhiekxuM0xKRWY2REZnS2xRTXcxcnpzLU1BVFpUeGtQZzBoemY1WHh5bFhUd3lxSlltSVIxLXNQeUk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1M5VTVZLTRyWVBBdFY2Vl9KcjJIU3RiUGZDNU5aLXBUMEZRV2lOMlo3ak5SMEFzZW5haDIzSzF2U1VxTFpEbER1TDZUTm4tQWlpWjJQRENkVkF6VnJwM0dNdGM1V3JGVGlBcHRFbmNwV1ZuNTZWbVR5dmxpZE16cGtSeFhqa1Zz?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:57",
-          "title": "5月车市温和修复，新能源渗透率有望攀升至62.5% - 中金在线",
-          "summary": "5月车市温和修复，新能源渗透率有望攀升至62.5% 中金在线",
+          "time": "08:04",
+          "title": "【视频】开括二手新能源了丨是亏是赚，全凭天意了 - 汽车之家",
+          "summary": "【视频】开括二手新能源了丨是亏是赚，全凭天意了 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HVVFjZTJJNnJ3bWozZGdPbGF1dUM0NGEyT3JtYlJiRFdIUG55a1hMWlpVbGhnSHFGZ04xOUF2THd6YUd3c3NmcWFzWjhSTXBhR256SFdnVkxwODllcUdfLXo0MWxUWTJoZWlB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jRHp1WGx4eWhFWW55b05GY05ueXZwSDliMUppbnNGM3RKTUJNWmlwbjBRVXFKQ2UtVFk2MDhXUzBHQTFkcjY1S3BCYmxGN1BxOUVuWEZLUWt2a2NFMWlQbFZUOFN6dC1qOWtn?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "扬州博恒高端电容膜获国家级权威鉴定 打破国外垄断实现自主可控 - 中国能源新闻网",
+          "text": "北京日报社区小板报 | 新能源车指标公布在即，全民采摘季开启 - 京报网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ddjl4MnBHQWVmeXNKdmxCVFlxMTFDREw4VjJQQlVqX25KdTF0WVR4Y09NSVF1UkZMcVFtMjNFNVF6R0FpcGpCTldxRkMza0hVZ0tXbzctQlZJYzVZS3VxLUo2NGV3QWViWnE3NWt0Nnpac19TemUzaA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmSnhWVDlrVFZJVlhmLUd6UmViVjV3WW9yV1prOWEwYm9oV1N3SjJpZXBqUkM2MG51c29aTUNfZnZwMV9CYk5Kal9pUXA1dXdxYkNKZzB5SUxnRUtRNVE?oc=5"
         },
         {
-          "text": "合资新能源跑进\"万台俱乐部\" - 富途牛牛",
+          "text": "从七十年造车底蕴到新能源新锐 一汽悦意08 5月29日预售背后思考 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PTWVzbV9ZdkJIVDFnQWp5UThBU28zQ29OXzBQY0VDSllEWjE5TDdzYWFQcUJocHotTEo3SUVEUS1DZkFsWnBVYUlxcTlTdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16TU1xLWstSHQtd2dTck9VWTFPMktVeVhjRVYySFhodk1PeDNpYXI3bmVJdXNOUEhjczBJZjlUX2NmclZtbmpoTm1BdHA1OHRSTXV6em12MDJidHM?oc=5"
         },
         {
-          "text": "工信部开展2026年新能源汽车隐患排查工作,车企们要忙起来了 - 汽车之家",
+          "text": "岚图汽车董事长卢放：新能源渗透率60%不是终点，而是决战的起点 - 手机鳳凰網",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81Y3FGRC1uaTlYNlN1U0RDUVN0eHo3eEQ5dUNPLTNBeWJBNkhqeUpBVFBUTTdHUUZpUXJxeEV6Y0V6QzhPQ1ZDamVJalo4anRRNXBIeVRpcjRVdTg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BVzVDakZ2RnY1bFpJeXl6emRMbjR2dDdJQmx6QXlLT01aR0NIZTFXOE55RmpLVDlTTGJMbTgzUEFpTmNBNDRSWg?oc=5"
         },
         {
-          "text": "国产新能源性能车，采用900V高压平台、加速3秒级，续航536km‍ - 汽车之家",
+          "text": "国产新能源家轿，车长4916mm，充电/换电可选，最大续航660km - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52SnhGWWJhd2Nrek5YSHo5QTk4a0RYSW1aMmZZS0U2Q1IyQUkyVnZQd1pSeVFjcDJ4eTE4ZG8yaWhPeEEtTm9MXzh0NnE0WWtKZkczZWVuc0VEeUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oVlc1ODFUZU9Wd0tQbU9JRkR4NFE1UE5RbFhUd1JuZi1meElBbmFIWXA2ZjE1eXJUWVV2OC1PdS1lZVFtaWJmZ3J6cFFpM3JyMlVmMUtBMVJrNGs?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "19:21",
+          "title": "AI won’t replace you but someone using AI might",
+          "summary": "Generative AI is transforming the workplace faster than ever, but new research from the University of Vaasa s…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260525000448.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "19:30",
           "title": "AI scans 400,000 Reddit posts and finds hidden Ozempic side effects",
           "summary": "By analyzing over 400,000 Reddit posts, researchers discovered that users of popular GLP-1 weight-loss drugs…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260523103914.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "18:21",
-          "title": "Scientists discover atoms suddenly spinning backward in quantum experiment",
-          "summary": "Scientists have directly watched angular momentum move through a crystal for the very first time — and discov…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260523103903.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Scientists discover atoms suddenly spinning backward in quantum experiment",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260523103903.htm"
+        },
         {
           "text": "New AI body map reveals obesity’s hidden attack on facial nerves",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Forget electrons, this breakthrough uses light-matter particles to power AI",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260518041341.htm"
-        },
-        {
-          "text": "The “impossible” LED that could change everything",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260518011222.htm"
         }
       ]
     },
@@ -170,21 +170,21 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "08:00",
+          "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+          "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding ac…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "18:00",
           "title": "Google I/O showed how the path for AI-driven science is shifting",
           "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are curre…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "08:00",
-          "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-          "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recog…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
         }
       ],
       "briefs": [
@@ -192,6 +192,11 @@ window.dailyBrief = {
           "text": "How Virgin Atlantic ships faster with Codex",
           "source": "OpenAI",
           "url": "https://openai.com/index/virgin-atlantic"
+        },
+        {
+          "text": "OpenAI named a Leader in enterprise coding agents by Gartner",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
         },
         {
           "text": "Roundtables: Can AI Learn to Understand the World?",
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "Scaling creativity in the age of AI",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/"
-        },
-        {
-          "text": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or…",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Chip Industry Week In Review",
-          "summary": "Taiwan, Europe packaging buildout; 2nm ramps; quantum big $; 2 new university hubs; agent honeypots; Samsung…",
+          "time": "07:48",
+          "title": "Detecting Defect-Induced Silent Data Corruptions in CPUs (Stanford, Google)",
+          "summary": "Researchers from Stanford University and Google have published “ITHICA: Intra-Thread Instruction Checking App…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-139/"
+          "url": "https://semiengineering.com/detecting-defect-induced-silent-data-corruptions-in-cpus-stanford-google/"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:02",
-          "title": "Large-scale, SRAM-based LLM Inference Deployment (Groq)",
-          "summary": "A new technical paper, “SHIP: SRAM-Based Huge Inference Pipelines for Fast LLM Serving,” was published by res…",
+          "time": "07:31",
+          "title": "Impact of Band-to-Band Tunneling in the CTL of V-NAND Flash Memory (U. of Seoul, Samsung)",
+          "summary": "A new technical paper, “Impact of Band-to-Band Tunneling in the Charge Trap Layer of NAND Flash Memory,” was…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/large-scale-sram-based-llm-inference-deployment-groq/"
+          "url": "https://semiengineering.com/impact-of-band-to-band-tunneling-in-the-ctl-of-v-nand-flash-memory-u-of-seoul-samsung/"
         }
       ],
       "briefs": [
         {
-          "text": "Bolt Challenges Nvidia With a Focus on Cutting-Edge Graphics",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/bolt-graphics-zeus-gpu"
-        },
-        {
-          "text": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://events.bizzabo.com/868497/home"
-        },
-        {
-          "text": "Beyond Ideal Crystals: The Case For Scale In Atomistic Modeling",
+          "text": "An Agent-Driven End-to-End HW-SW Co-Design Benchmark for Heterogeneous SoCs (Co…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/beyond-ideal-crystals-the-case-for-scale-in-atomistic-modeling/"
+          "url": "https://semiengineering.com/an-agent-driven-end-to-end-hw-sw-co-design-benchmark-for-heterogeneous-socs-columbia-ibm/"
         },
         {
-          "text": "Process Variation In The Era Of Scaling: Improving Uniformity With Dummy Fill",
+          "text": "Side-Channel Risks Across 2.5D/3D Integration and Chiplet-Based Systems (Grenob…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/process-variation-in-the-era-of-scaling-improving-uniformity-with-dummy-fill/"
+          "url": "https://semiengineering.com/side-channel-risks-across-advanced-chiplet-packages-uga-cnrs/"
+        },
+        {
+          "text": "Improving GPU Energy Efficiency With Component-Level Power Management (AMD)",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/improving-gpu-energy-efficiency-with-component-level-power-management-amd/"
+        },
+        {
+          "text": "Pavona Launches Open Hardware Ecosystem for Secure Chips",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/open-source-hardware"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:42",
-          "title": "威马农机股东威创企业管理拟减持8.8万股套现272.27万元，此前已累计减持126.25万股套现4492.31万元 - video.sina.com.cn",
-          "summary": "威马农机股东威创企业管理拟减持8.8万股套现272.27万元，此前已累计减持126.25万股套现4492.31万元 video.sina.com.cn",
+          "time": "01:40",
+          "title": "爱博医疗： 公司管理层重视股东利益 - MSN",
+          "summary": "爱博医疗： 公司管理层重视股东利益 MSN",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLVQ4blVRMTIxSEQ4R1U4aTk0RDFMeDQ5NnNIY2RTOUd4eWl0cE5Lcjk1MDEtb0RjanRTLVpvOU51NmpZNVlZekRCd2w0VnNZSjNxeS1sVVFlMDhEdFFJallObW8yZHlvZVZNaFZtdDNxZGFwZjlXUUp0NTBKeWZ0QUdB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPQjZKSWZsb3JpUUhlZm5SU2ZJSWZxLTYwWURXUmVVQkJBbTZHZ3JJT3dYM1dkYU9HeVhfbmdIZzRyZEpxUW5fUU1CZ3E4NVN6dlNUYlFWWXFLUkZMVU43dWIxOUpWclIzZGItdzlUNGRmX2VaZDM1bTJ3RDd3WXB4b1RuMUxSTXRSU2NmSFNTTi0wQUttUW5qNHM5c2pwM2NtdFN4ZnU2d3RRWHFZUWRyTnZmc1A1VTZmU1laYVJxalF4R08wSVoyZkw0Z1Y3dmNwRkdZMTBqZ0xOd1ZWTk5MR3ZIX0NwUnlabXFoUkpKRXBZaEtjRUNuS1VZZjQ5dzB1c215NkQwT3A4akVzdlRfVGtndw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:50",
-          "title": "APEC贸易部长会议声明:维护供应链韧性 - 澳門廣播電視股份有限公司",
-          "summary": "APEC贸易部长会议声明:维护供应链韧性 澳門廣播電視股份有限公司",
+          "time": "00:30",
+          "title": "美凯龙(601828) 成立厦门盈泰信企业管理有限公司 - MSN",
+          "summary": "美凯龙(601828) 成立厦门盈泰信企业管理有限公司 MSN",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OcDFIX1VWamZEbmhxUkRUSG5YSHZia2tmRVlMOHNCY2FpY1BoaXUyalptMlplRnRVRF9WODlvdjJWQV9OaFRtVU9RR0hxTkxYeldNc0ZIclQ5TXdQeUhN?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNaENZblJLbnNhWV9UYWhKTURvUk44ZktzU3BGdWZxQjdEMTBjNGlreXVpalZERGZ2TmhZX0VZTzFFRmp3UV9hX2JYcUNMV2EzODZTVFFxdFdmR3gwZGlaQlppLXd0dlVpNXpxbDVkYW1vVFpDYzFqUEF3Rk1yYTNWa3VBdnhfcHhnb1FLd2ZIelBJeng5eXF2ODRXYTBKcUlXMmpMVGRRNXQ4SGhERnhrY25lcFZFeGdoNmF0MUFCckx4YXhjd1R0aGtiWnYxNzM4R0FJYjZONzhGa0RKMllYM0luSkR3UFhNSlpFUmJuODNpNzVVR3Z0UHdBQ2E0eUw1Wl9LTXM1RjBLLW92UVVWMUlIeHFIUzRvSkcwVHlTT2VuVndmRm9kN3pVR21JM2gwZlp0amNUWU0xLUxnUkdNNQ?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "前SE高管公开批评公司策略！思维僵化错失IP革新良机 - 17173",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CcTBQM1JBakg0RDR5SE9OcFNYNG5jWUZYV2xoVzZ6OE1xT05JbjVqMVctbklsMjZ5TVRiNUdsY2loRWdqcjg3THh0T3U4bHNjeUZsTXp4ejFzaXVabGJDVnVCaVZhUQ?oc=5"
+        },
+        {
+          "text": "威马农机股东威创企业管理拟减持8.8万股套现272.27万元，此前已累计减持126.25万股套现4492.31万元 - video.sina.com.cn",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLVQ4blVRMTIxSEQ4R1U4aTk0RDFMeDQ5NnNIY2RTOUd4eWl0cE5Lcjk1MDEtb0RjanRTLVpvOU51NmpZNVlZekRCd2w0VnNZSjNxeS1sVVFlMDhEdFFJallObW8yZHlvZVZNaFZtdDNxZGFwZjlXUUp0NTBKeWZ0QUdB?oc=5"
+        },
+        {
+          "text": "APEC贸易部长会议声明:维护供应链韧性 - 澳門廣播電視股份有限公司",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVjRLWFJkZVE4bEM3ZWdFRkJNSVNaUTFpb2hfYzJPRGJSb21aQ0tzTDZJLXgwU0plLVFIbmZxUUl0VWdmUTJ6WkRSQlpwMTRmMUR1Ulg0VW5kaGN2Vy1KNlhidE5IbG9TamZZSUxaZHBUTno5YkdDOEtBVEk1MU03MkRkOXRacUhBVlpDSUl3Z2o2VFk?oc=5"
+        },
+        {
           "text": "澜起科技：股东上海融迎企业管理合伙企业拟减持1.00%股份 - 新浪财经",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05emxkOG5FbGhVb2NxRmNPWkpWSnNCbXUyU291dVQyZXJILUNKa0NkN2k5ZktkUDFuQXF6WmxGclZvbHlGNE03RXhodkVua0xYYWJrUDNZbHQtVlF5RlQ0MUZ1ZS01Zk9JanJ2SUZB?oc=5"
-        },
-        {
-          "text": "澜起科技：上海融迎企业管理合伙企业拟减持1.00%股份财经新闻Financial News - AASTOCKS.com",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmhBWldLbGV6VUs5dDVxcHVORnZhWlFPZGVPcUxXZS1IYnJNczF6U2xBRENIeW81c0xxR3ROTHAzN0FkbmFDelBsdGw3RDhlTFVXbnR3UDZ2Wl9SWGQzUFZCQmtHeklZdnp3cGs2QUlrLUFXVURDSWRvQnNaZmI2TkNrUElzWVQ3MjNGWXA5VDJwNDQ?oc=5"
-        },
-        {
-          "text": "如何提升产业链供应链韧性和安全水平 - thepaper.cn",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB6M3ZMOUhuRkxJMks4WjllMmNkM0NLQm5xaFB3SUZ6WjlLT0lPZG1sZXJXX2RlQXdVNW5GT2p3ZXRLbi1kT05icndhV09sOHcyakEtWi1KUUM2SnAwTnc?oc=5"
-        },
-        {
-          "text": "苑东生物：公司战略发展目标清晰， 目前各项业务经营正常 - MSN",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxPZklCYWZUdXhxQmtyZzFXdFVMbXV0STNsbWh1ZG1hbnFvTW5WSHhkWU5jQS1wbkUxMHlNMFl2cE9BZzRXX2FybGpOS1dSN0hoSlN4Q2U1OTRsYko1NWU0NU5ueUVLX3AtenVYQW84UHRMWEthOHhqbU1LN3J6dlpzYjhaeC1QUkFCektQVjkxeXBici12YTRvNVNvdGJiOVFMelZOMGlvX3djTGNfTEJLNFRfVE5iUFpRaGVuR2xtZE4xMlp4cFJXZnFtU2xTdFdLMTZRdG10MFE1X3pPWDVWbzhNd2RYVy1DVlB3VWFTV3llUVZuMHpxR2FCQkU4TXJwc1NMZkRkZ2xFZzNqWWRocWR2V3hXX1JHNHRYbGF4Q3FFa2hpRTJKT2VUN0dMXzJWYjJWakc1bzlqSFZyZks1aUVQWGhlNnhvX184Z2RGUTh5ampBV2g5X1AzZ0E5bVpTT0FGdU4xcENncnFHd2tUSDFBX3FnOVNpNTBUR2pvQm9NTS14RGI1cElyZFVJVElQUFBkbXlyUXdzY3NNUkx5VDZTd1V2WUViTWhCNUd2THZycGtROWNBZWNoOXBCVFFVZzFrYVRwb2lXWUR5ZHRjSWQxbnNYZFg2OG41QTBHdFJEdXFRcVJtUDFMZk96djlyNlk5cmFxdE14cmlCcDI4ZTNRZ1ZFT3Y2TjlmdzRPYzBFQmJJd0hF?oc=5"
         }
       ]
     }
