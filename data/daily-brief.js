@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月28日",
+  "publishDate": "2026年5月29日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "订单饱满叠加海外扩张 科创板新能源公司抢抓行业高增长机遇 - 搜狐网",
+      "title": "深化沪鲁协同，2026上海人工智能高端装备创新发展大会举办 - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Ebola outbreak in DR Congo collides wit…",
+      "title": "Security Council LIVE: Mounting attacks…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:00",
-          "title": "订单饱满叠加海外扩张 科创板新能源公司抢抓行业高增长机遇 - 搜狐网",
-          "summary": "订单饱满叠加海外扩张 科创板新能源公司抢抓行业高增长机遇 搜狐网",
+          "time": "08:01",
+          "title": "深化沪鲁协同，2026上海人工智能高端装备创新发展大会举办 - 新浪财经",
+          "summary": "深化沪鲁协同，2026上海人工智能高端装备创新发展大会举办 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUHIxc08xYVktVmJrcVpoekw0S3hvODlJUXlUNEdaY0puSk8wWUpNXzlLbGc5UDlxZUtETE9oOFA2WUFlRlZhMzlKbHU0V1Rwa2ViYVZkYWwtZXBhU1JJeXdrRm1DRS1qdUp2RVVadk12eXFLcUxYV0tvWkt5N3RydnRSZ0hYS05IdkR5TA?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGY5c3BBd29TUVpQUE1DRVdOcERaaktiODk0cEcxM2JaWDhnMFBpVlB5SW5tbVlNMnEwbkp1TUxlRUZyUUFYRGNYNmhlR2FPbHBTNDNJd015ZkJKZnFyX25DTDJEenpoeHhJV0Vkd3hfYi1STkhOTVVlbFhUR0ROaWJRLXBuU0Y2cDJia2JrVmhTVUZEOHhzOGdleG1Rbks2eWFzMl8tVGZDT3REdGtqOFRB?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:52",
-          "title": "【视频】传祺E8新能源2024款 1000公里 - 汽车之家",
-          "summary": "【视频】传祺E8新能源2024款 1000公里 汽车之家",
+          "time": "07:58",
+          "title": "购置税优惠退坡，最便宜的新能源车先卖不动了 - Sina finance",
+          "summary": "购置税优惠退坡，最便宜的新能源车先卖不动了 Sina finance",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKamlDTHlveGxsTzhEUWtHU3NWS1BFbnpxRC11U3FWZ3A2NUNUWjc2VGdrUzR6akw5SThXWDZ2bGU5bWJ2Y29Mb3hxR1lYM0EyaVEzQ01uWWlBcy1TRVFPQ2dNaHhFdFBXOFd3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51V1NINXdLbDdKZ3ZBM0RERlVoVTRPeEJIMTRYUGV5SmUxTUNiU3ZXQ1lqRkwxRjNrdWVFX2E5UGZVVURqVWYwWEdnaGszS1pOaDRhV3NCMlpDQmtwbVppT2xia1BvY18zVXEyeHVvaW1FTjUwNEE?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "华能环县新能源获20年发电类电力业务许可证，电力业务运营资质落定 - 新浪财经",
+          "text": "1659辆新能源车运往欧洲 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLTB0cTNVTEJ6TjhoS19aNF8wLU9nZzh1aW5Gc0pCdXZZb19yTjQwVVBXTGNEbjU2a2NZUXlIaXBTSWJJQWRrQkk4UXpjMHp0eTBnakhEaVhMUnNidG92WGRsWVh0WURFNnB4RGJrUWhSUUtYbzA2dVpDQVh3V0xzb29NNXo2R1BzWUZkQUZJbFJzM2tnQmxlb1FLYTNJWjdsQS1EbU1zc2NRV3FKS1ZvZUdOMEZzemlJWHdWM1FtS2FwMW5hT2Fia2xkbFZpYU9FWWhPTm4ySFRURGJDUVVzWURxa0pGLUdBWXdFNzUyaHRJbm1HbVZYUURpOEl0QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM0NlLTZYanFiNVhmeDFBNnczRGxNdTU0U2lDVHNvV2RiOFc2UWlyenZDMW1NUzdVaXlFR1VvdFVwMWNmdWFMWmkwQVRFRUhvZm9hRjFJWFlGQzUwQVkxSEFUb2ZVemh0REJyU0ZwLXRwMGdzQTF0bE1SSlNWdGROM2pRUm9TMzd3Q0tyV2dn?oc=5"
         },
         {
-          "text": "【技研】新能源汽车技术课件：纯电动汽车的热管理系统 - 电子工程专辑",
+          "text": "【深圳特区报】27项新能源汽车国家标准外文版发布 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Pc0l4anFwd1R5NlRTV2M0ZjlxT0l4YVVpbEM3RDFtZjVsYlR5cXJidmZ6a0hDa1djRmZ2bzE0QVBkallrRXBBbXp2MzBULUg3VVRj?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUZfenF6dGFkNjQtYU5Sclh6cmVVOG5WUUhESnJIU05Tcy01TWRzUDVKUzZPbjhqSWNkQmxwN3NNTF91NnRyd0ItaUpNSFRFSzQ0UUEwM1dZbGxBbmhYUTJjdmhjclVHb2VVc2RVZmQ0QTR3X2R1ZUoyYUhJYUt5bzVoQ2tlajhYUU9aRg?oc=5"
         },
         {
-          "text": "【视频】一手精品过三方！保时捷 Cayenne新能源2.0T - 汽车之家",
+          "text": "谁“偷”走了报废新能源车的电池？追踪电池“洗白”产业链｜视频 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ONllRYVM0QWFOVzR1cm9KMWVrcFVMSVRsUklDTGl5MHpzcnFjeTlTSlNkZHBXQU40VmlUZ1hwM2F0Vi11Zk9SeHJ0MVY0dWZ5ajdRUF9lNXBJOHV3WHJSMlhvbkVPbEFqNmZZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTJDMFlHUkZjT3NHS2w4OExaV1ZJMjJNeXZueHQxMDNVa3dKVG9SRUUtYWhCb1VXX3ZVaWVuNFR6Rm5tRXNLWlN0U253MGM0YndlRWtmZXhMY1FkT2xya2ZWbFpjcV94V1J4aXcyaVZfVG9YNE5CbHpEbUpSVl94MmZuUzZ3cnc0MTNEeA?oc=5"
         },
         {
-          "text": "新能源车正常行驶突发变道冲破护栏坠落，路边目睹两大妈当场拍手 - 手机网易网",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IV2pST2g1cW41ODNkMjV4a19lTnFNV1A2TjR4WmhXc3VOLUo2aTAzWGZXa1JsTFB1bmVfU2poMXZHQU1EVlJCcmNMSDJEd19PeVpuaA?oc=5"
+          "text": "新能源汽车如何跑得“既快又稳” 听听业内人士怎么说 - 中青在线",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtZ1l3QlZZYURQdVJuaUFCZ1drNTJHNFpNUy13MG1jV2dJb3ZDWEhjay1IZV9DOVcxOUZBUEd4ZmQyNERVYy11QUZ4SHctTFQyMWxFdGVtaVAzSnFXUDJZX0lQbF9JUlZVNkN6S0lhZW5hQQ?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Ebola outbreak in DR Congo collides with conflict and hunger, WHO warns",
-          "summary": "The UN World Health Organization (WHO) on Wednesday warned that eastern Democratic Republic of the Congo face…",
+          "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting",
+          "summary": "The UN Security Council is meeting in emergency session on Ukraine, with Secretary-General António Guterres t…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167592"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167597"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
-          "summary": "The United Nations is raising alarm over continued drone attacks in Sudan’s Darfur region after multiple stri…",
+          "title": "Global temperatures set to stay near record levels: UN weather agency",
+          "summary": "The world is heading into another period of dangerous heat, a new UN report warns on Thursday, and it’s nearl…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167591"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167596"
         }
       ],
       "briefs": [
         {
-          "text": "Middle East update: Airstrikes and evacuation orders in Lebanon, aid restrictio…",
+          "text": "WHO chief calls for ceasefire amid DR Congo Ebola outbreak",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167590"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167594"
         },
         {
-          "text": "Wars and geopolitical divisions constitute ‘dangerous erosion’ of world order,…",
+          "text": "UN80 Initiative: ‘Critical new phase’ for UN reform effort",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167589"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167593"
         },
         {
-          "text": "Ukraine: Russian attack destroys humanitarian food aid in Dnipro",
+          "text": "Ebola outbreak in DR Congo collides with conflict and hunger, WHO warns",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167586"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167592"
         },
         {
-          "text": "International airlines urged to stick to safety measures in wake of Ebola outbr…",
+          "text": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167587"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167591"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:00",
-          "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-          "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development,…",
+          "time": "20:00",
+          "title": "How Endava builds an agentic organization with Codex",
+          "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing req…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/cisco"
+          "url": "https://openai.com/index/endava"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:00",
-          "title": "Building self-improving tax agents with Codex",
-          "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving…",
+          "time": "17:51",
+          "title": "The AI Hype Index: AI gets booed in graduation season",
+          "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/"
         }
       ],
       "briefs": [
         {
+          "text": "OpenAI’s Frontier Governance Framework",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/openai-frontier-governance-framework"
+        },
+        {
+          "text": "Cisco and OpenAI redefine enterprise engineering with Codex",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/cisco"
+        },
+        {
+          "text": "Building self-improving tax agents with Codex",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
+        },
+        {
           "text": "Warp’s big bet on building open source with GPT-5.5",
           "source": "OpenAI",
           "url": "https://openai.com/index/warp"
-        },
-        {
-          "text": "Election information and safeguards in 2026",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/election-safeguards-2026"
-        },
-        {
-          "text": "Rethinking organizational design in the age of agentic AI",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
-        },
-        {
-          "text": "A reality check on the AI jobs hysteria",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:00",
-          "title": "Junctionless Transistors Show a New Path to 3D Chips",
-          "summary": "Chipmakers are struggling to shrink the amount of area a transistor takes up, so researchers are trying to bu…",
+          "time": "21:00",
+          "title": "Finding Success in Industry as a Chip Designer",
+          "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved t…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/3d-chips"
+          "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:15",
-          "title": "Overcoming Bottlenecks In Data Movement",
-          "summary": "Where the choke points are in AI systems and what to do about them. The post Overcoming Bottlenecks In Data M…",
+          "time": "18:00",
+          "title": "Understanding Phase Noise and Its Impact on RF System Performance",
+          "summary": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems an…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/overcoming-bottlenecks-in-data-movement/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/"
         }
       ],
       "briefs": [
         {
-          "text": "Curvilinear Masks Push The Limits Of Inspection And Metrology",
+          "text": "Swapping Out Chiplets: I/Os Vs. Compute",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/curvilinear-masks-push-the-limits-of-inspection-and-metrology/"
+          "url": "https://semiengineering.com/swapping-out-chiplets-i-os-vs-compute/"
         },
         {
-          "text": "Deterministic, Solver-Accurate Thermal and Warpage Analysis at Manufacturing Re…",
+          "text": "Toward Agentic Verification",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/deterministic-solver-accurate-thermal-and-warpage-analysis-at-manufacturing-resolution-for-advanced-2-5d-hbm-packages/"
+          "url": "https://semiengineering.com/toward-agentic-verification/"
         },
         {
-          "text": "Rethinking AI-Scale Data Center Validation",
+          "text": "Observability Is Essential For Modern Silicon",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/rethinking-ai-scale-data-center-validation/"
+          "url": "https://semiengineering.com/observability-is-essential-for-modern-silicon/"
         },
         {
-          "text": "Blog Review: May 27",
+          "text": "Why Your NoC Verification Strategy Must Consider Using Formal",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-may-27-3/"
+          "url": "https://semiengineering.com/why-your-noc-verification-strategy-must-consider-using-formal/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Ebola outbreak in DR Congo collides with conflict and hunger, WHO warns",
-          "summary": "The UN World Health Organization (WHO) on Wednesday warned that eastern Democratic Republic of the Congo face…",
+          "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting",
+          "summary": "The UN Security Council is meeting in emergency session on Ukraine, with Secretary-General António Guterres t…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167592"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167597"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
-          "summary": "The United Nations is raising alarm over continued drone attacks in Sudan’s Darfur region after multiple stri…",
+          "title": "Global temperatures set to stay near record levels: UN weather agency",
+          "summary": "The world is heading into another period of dangerous heat, a new UN report warns on Thursday, and it’s nearl…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167591"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167596"
         }
       ],
       "briefs": [
         {
-          "text": "Middle East update: Airstrikes and evacuation orders in Lebanon, aid restrictio…",
+          "text": "WHO chief calls for ceasefire amid DR Congo Ebola outbreak",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167590"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167594"
         },
         {
-          "text": "Wars and geopolitical divisions constitute ‘dangerous erosion’ of world order,…",
+          "text": "UN80 Initiative: ‘Critical new phase’ for UN reform effort",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167589"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167593"
         },
         {
-          "text": "Ukraine: Russian attack destroys humanitarian food aid in Dnipro",
+          "text": "Ebola outbreak in DR Congo collides with conflict and hunger, WHO warns",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167586"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167592"
         },
         {
-          "text": "International airlines urged to stick to safety measures in wake of Ebola outbr…",
+          "text": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167587"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167591"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:13",
-          "title": "Hyundai Motor India appoints Gaurav Mathur as vice president and head of corporate planning - Indian Television Dot Com",
-          "summary": "Hyundai Motor India appoints Gaurav Mathur as vice president and head of corporate planning Indian Television…",
+          "time": "21:58",
+          "title": "正邦科技：新振邦企业管理中心拟减持公司不超1%股份 - 搜狐网",
+          "summary": "正邦科技：新振邦企业管理中心拟减持公司不超1%股份 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaEhjYWJCdC1GZ1lWLUNwakVRaTdhMkswQjJlQ1Y3U2dTUGVxcnhTazNyV3RlMzFnRDhZUVdwRFZDb21Ha044emJ1WS1zLWVuUUFBclpZOEY3R0ltaWltYm9aX3JiemlzQ2pGeXNWd1g4UFRrbm90Vlg0eTB2dUVKckdJbzh2QkZwRDNhUkJBeGFfUjdOU1JmcEdNRnpyLXZnOFRJdUh6cE5pNkNJaGlpdllPaDRzNUlqTm15N1hiZWpBOEk?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGlTeGs2YWJvOUduYkxPdDZ5Umxoa2htLWsxa1NNa3Fmbk1IT0dLRU9VMENJMXY0aHBtU1ZWN0ZjZXAxSG8xdlRST1BiWXJuRUxVa3VGckROODllQWh6US1obVhTWWZ0d3VPY2J6NHJDR2dPQUxSTmlOOTdmM3hGMk5mdGdkMldw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:10",
-          "title": "必易微(688045):必易微股东询价转让计划书 - 中财网",
-          "summary": "必易微(688045):必易微股东询价转让计划书 中财网",
+          "time": "21:06",
+          "title": "鼎捷数智发布企业智能运行空间（EIOS），推动企业管理从“操作工具”向“AI交付成果”转型 - video.sina.com.cn",
+          "summary": "鼎捷数智发布企业智能运行空间（EIOS），推动企业管理从“操作工具”向“AI交付成果”转型 video.sina.com.cn",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUX2MzY1Ywd3VLb20tZmNmYzd2SG1vZXNGa3psaUdfV0RRMjBSaVBiSGg0cHVaREJ2NUhpbk55dGd2bzRNcmlDTFh6ck9VREs4OUNMMFRB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc2dQek8zdVBYNnBZa3VTcHEweHVRQ0xsT1RjcGtNZ3lNd3c3Uk55UHo1RVlBbVlvT3hpZmhxaGJ5ck9yaTY1Zmt2cU9oRGxIZXlJTnp2SElLdnNKdElXemxwLVdhcmVWSnZJVEgxNjBHbmJGRFJCTW11Qm1BbmFDa29B?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "北外获批举办商业分析专业硕士学位教育中外合作办学项目 - 北外新闻网",
+          "text": "王晓平提任建行股权投资与子公司管理部总经理！47万亿大行中层大轮岗 - Sina finance",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUoxNjZqX1FfaEF6Ry01VjBoYV8tbDU3MTVadURCMDJwUWl2WnlSOGRDSkpkRTQxOXZmWWlQT3RFQzdIUWYxcERxekliVkg0SnY0MzlGQThDU1JxRi1sbV93RGwycHcxV1hUWkhCTndmTk1JblNFZjhUbTc1cFN0M1JhRkxsRHM?oc=5"
+        },
+        {
+          "text": "STT GDC：AI基础设施已成企业战略议程，不能再由IT部门单独决策 - 디지털투데이",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1Um1UNl9CNXlLOG0tcExfdU1RVGw2N3BtbXcwYW5WZFAtRDlRRktYRUEzdDg1ejhqRWVRWDJodXdVeHlRWEwxbFJNVGw5WGtka2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW9JSVg0eHROSnBic09uZVFnRUdYM292ckVILTNmRWFaV1FiQzJvZkdyVWU0S1NZWnF4X1pRQ1FNbnFicTFCYXdacnNpMGRad1Vpd0ZxMC1iSTNvZjhYel9YVk5ia2pFUHZQSnFWdXEtT3hZbjFnNjdRdERyZHd4bUFiM0RJOWlhMWo2RlpPQVR0ZkFYbnh2LXloTHhtUDhhMkhlQ3lkY1dDZW0wZmJCTEVacDNVZ3ZDYUZncXF3ZEhZdw?oc=5"
         },
         {
-          "text": "大家人寿全资收购大连盛西企业管理公司 - DoNews",
+          "text": "Gap公司管理层在电话会议中指出，其季节性女装业务在第二季度的市场表现，依然未能达到公司先前设定的预期目标 - Bitget",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKSEFZXzJlV24wRlA4cDNjdV80M3M2YzdhY1VSZjZwYXBPUTgzRnF0R3RLT3pWN1B4MUlTbkR4S0hZRDB6NmFWTVJZWnE3eXlKU29sUXZGOTFwZ1NUNWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44Rk5QTjd4emtFV1lXUFFEY3NtQUU1QmFrT3d4UUNDa2NsQkt3cFUzc1pJRENlNWJnRkx2bXBmN2wzV0t5dk84SzBBbXMtSXI2N19VZHNqWGIyOFpxdmVwYkUteWhHUdIBa0FVX3lxTE9zeUc4OXZ5cUtQZ3hMMHJhT1BMeXJvMXFTMXVBYmpYQWI3X1VqakpubnN6dzh1ZmdHYVN6MjRMM3NzcmptQm9mbTNBLUpscTZYNHBfTUhKcWdsVmlJckctbFBGd19vSlpYakhF?oc=5"
         },
         {
-          "text": "必易微3员工持股平台拟套现1.9亿 2022年上市超募2亿 - 中国经济网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wNDJ1RFNzNDRCaVJzdDRTTkh0WWdxZTZVYlEzbXhtVnhtOVdNRVB1eWJNOEJJS3dqTXhYTF9VNVl4Zlo4dXRTcVc4bnVhLVFHcW5leVl5MHVyVmV5dnlTUjhTNlluUzlaLWs0WFZSYUVtQQ?oc=5"
-        },
-        {
-          "text": "赛富时公司重申，对于在2027财年下半年达成有机收入增速提升的目标，公司管理层持坚定乐观态度 - Bitget",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96TTd5NGlnb1Qyck5udWhPdUdsTzBVUjVtcjBERzkzMHBzeFBzQ1Z2M01lRTYxMHdfTzREYjd0bzRtY25QYnE3dTN1a1JBZG9GVVllT1h2c0ZEZzVIOVdYVFNOeXV3UdIBa0FVX3lxTE9LbXM5UFZXb1NPVTQtZ0NLSnFhSkFaeVpoTXpZVWdHOXdOVUx1YW1CMFJQeENYRVBzOXU4TjJUUk9ydHRydktTajhWU3NDaWp2bDlGSjh4VFpELXpQVFhmemJ5bkxtekZYS3Fr?oc=5"
+          "text": "陕西环保集团与西安机场公司战略携手，围绕生态治理联动、智慧环保等开展务实合作 - 国际能源网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nQ25Ubm10QUltUjhYWnA3al9lUlpHVnpYeEFHa1dFT0R4MmxzejdPVk5Lc0UySktNR0xCZDYteGtDMzNrU3l0RFdsRmNEZlRhNnlpV0dPUm5ueW5oSWFxZ0s4Zw?oc=5"
         }
       ]
     }
