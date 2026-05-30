@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月29日",
+  "publishDate": "2026年5月30日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "深化沪鲁协同，2026上海人工智能高端装备创新发展大会举办 - 新浪财经",
+      "title": "摩洛哥最大商业银行联席CEO：中国在非洲掀起工业投资热潮，令人鼓舞 - jwv…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Security Council LIVE: Mounting attacks…",
+      "title": "Gaza children trapped ‘in an endless cy…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:01",
-          "title": "深化沪鲁协同，2026上海人工智能高端装备创新发展大会举办 - 新浪财经",
-          "summary": "深化沪鲁协同，2026上海人工智能高端装备创新发展大会举办 新浪财经",
+          "time": "08:00",
+          "title": "摩洛哥最大商业银行联席CEO：中国在非洲掀起工业投资热潮，令人鼓舞 - jwview.com",
+          "summary": "摩洛哥最大商业银行联席CEO：中国在非洲掀起工业投资热潮，令人鼓舞 jwview.com",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGY5c3BBd29TUVpQUE1DRVdOcERaaktiODk0cEcxM2JaWDhnMFBpVlB5SW5tbVlNMnEwbkp1TUxlRUZyUUFYRGNYNmhlR2FPbHBTNDNJd015ZkJKZnFyX25DTDJEenpoeHhJV0Vkd3hfYi1STkhOTVVlbFhUR0ROaWJRLXBuU0Y2cDJia2JrVmhTVUZEOHhzOGdleG1Rbks2eWFzMl8tVGZDT3REdGtqOFRB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1VDRlVFpST1VtVUdSd1BMNWJUVHBRaGF5dERKbHcyYkZfd3V5aE96eWRHbzkwc3dIa3hwdDl3WkxPSG5FTzZJZU05a3hYWVlPbzFXc1lPdV9iZ0F4VVdIbFZuWVU?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:58",
-          "title": "购置税优惠退坡，最便宜的新能源车先卖不动了 - Sina finance",
-          "summary": "购置税优惠退坡，最便宜的新能源车先卖不动了 Sina finance",
+          "time": "08:00",
+          "title": "为啥修车的老师傅，都不建议你买新能源？两个字，网友恍然大悟 - 凤凰网汽车",
+          "summary": "为啥修车的老师傅，都不建议你买新能源？两个字，网友恍然大悟 凤凰网汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51V1NINXdLbDdKZ3ZBM0RERlVoVTRPeEJIMTRYUGV5SmUxTUNiU3ZXQ1lqRkwxRjNrdWVFX2E5UGZVVURqVWYwWEdnaGszS1pOaDRhV3NCMlpDQmtwbVppT2xia1BvY18zVXEyeHVvaW1FTjUwNEE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96ZjNQNDVNal9LN3pqV1hsQ1U2NHNTTHNlZ2VVTTVOMkFVaVN4M29MaGNrZjVvTDRla2Rma09JN25iOUk3Vjhvb2Y2SFc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "1659辆新能源车运往欧洲 - 搜狐网",
+          "text": "新能源汽车集体“增重” 背后多重因素叠加 - 中华网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM0NlLTZYanFiNVhmeDFBNnczRGxNdTU0U2lDVHNvV2RiOFc2UWlyenZDMW1NUzdVaXlFR1VvdFVwMWNmdWFMWmkwQVRFRUhvZm9hRjFJWFlGQzUwQVkxSEFUb2ZVemh0REJyU0ZwLXRwMGdzQTF0bE1SSlNWdGROM2pRUm9TMzd3Q0tyV2dn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93UXM5aUYzdUVaZjlUVDZNUEJJbzhYN3dzOHBudjJxMkdhSmNKREJDS3MyZ09tRFVmRmNUNTRZcUUyNEFFNmxwQTdFZ0V2QlZQUUcxU2JOR2J3VXUtT0JBdU4waTJBT2Ryc0Frcm5jVjg?oc=5"
         },
         {
-          "text": "【深圳特区报】27项新能源汽车国家标准外文版发布 - 搜狐网",
+          "text": "增量领跑深圳，一个制造业大区的IPO密度与速度 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYUZfenF6dGFkNjQtYU5Sclh6cmVVOG5WUUhESnJIU05Tcy01TWRzUDVKUzZPbjhqSWNkQmxwN3NNTF91NnRyd0ItaUpNSFRFSzQ0UUEwM1dZbGxBbmhYUTJjdmhjclVHb2VVc2RVZmQ0QTR3X2R1ZUoyYUhJYUt5bzVoQ2tlajhYUU9aRg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVBPQ0RxdGZYRW16V0VlUFZKWUhQS3E4QUJ1TmV6a21ESlJ5ay1za0Vwc2JUTk9LZVhHX3I4aXFqaDdQb1JuZ00xalJBdVBsRzJqbENCeGxMV0FvajhoZ1FNbVRDZ2FYU3JXUWlwbE9veWVHbmxWcUNnQm4wTlBKamdsWW1FQ21J?oc=5"
         },
         {
-          "text": "谁“偷”走了报废新能源车的电池？追踪电池“洗白”产业链｜视频 - 搜狐网",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTJDMFlHUkZjT3NHS2w4OExaV1ZJMjJNeXZueHQxMDNVa3dKVG9SRUUtYWhCb1VXX3ZVaWVuNFR6Rm5tRXNLWlN0U253MGM0YndlRWtmZXhMY1FkT2xya2ZWbFpjcV94V1J4aXcyaVZfVG9YNE5CbHpEbUpSVl94MmZuUzZ3cnc0MTNEeA?oc=5"
+          "text": "新排名：印度AI表现全球第四，数字经济规模全球第五 - 搜狐网",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnhCSHZSWmhHZ3pmTXZaM2JWUEtDTlRjcWp1TXNBR3pocVFFTGcxdlNCNWRMU2J4SFFWVVJNaG00LXFtc09XaHFEWWdYNHRxM0NxaElHVUJhczRsY1NGSnlpWkhCQU1UNHhMeElEV2FSSVN1Z1o5T2xiSDNkeUhmR2Vxa3hjOU96VUlETA?oc=5"
         },
         {
-          "text": "新能源汽车如何跑得“既快又稳” 听听业内人士怎么说 - 中青在线",
+          "text": "【视频】温州新能源，21年欧拉黑猫EV，个人非营运私家车，四门四坐 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtZ1l3QlZZYURQdVJuaUFCZ1drNTJHNFpNUy13MG1jV2dJb3ZDWEhjay1IZV9DOVcxOUZBUEd4ZmQyNERVYy11QUZ4SHctTFQyMWxFdGVtaVAzSnFXUDJZX0lQbF9JUlZVNkN6S0lhZW5hQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ybF9TQWhjV1ZmUG93eXlseTZ6UkFJSDg2OS1zS2pOY3MxOWxfMWVoQzJmQWMzMUxkWjlVUUY3ZmxlOGdyZE1kdTVnMF94SDEtM3RHY1JPaDY3WDQ?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting",
-          "summary": "The UN Security Council is meeting in emergency session on Ukraine, with Secretary-General António Guterres t…",
+          "title": "Gaza children trapped ‘in an endless cycle of suffering’: UNICEF",
+          "summary": "The dire conditions in the Gaza Strip are trapping children “in an endless cycle of suffering” and their hear…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167597"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167604"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Global temperatures set to stay near record levels: UN weather agency",
-          "summary": "The world is heading into another period of dangerous heat, a new UN report warns on Thursday, and it’s nearl…",
+          "title": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
+          "summary": "Nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year – more than double…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167596"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167603"
         }
       ],
       "briefs": [
         {
-          "text": "WHO chief calls for ceasefire amid DR Congo Ebola outbreak",
+          "text": "‘A disease you get when you care for someone’: WHO on the Ebola frontline",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167594"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167602"
         },
         {
-          "text": "UN80 Initiative: ‘Critical new phase’ for UN reform effort",
+          "text": "UN honours blue helmets and calls for renewed investment in peace",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167593"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167601"
         },
         {
-          "text": "Ebola outbreak in DR Congo collides with conflict and hunger, WHO warns",
+          "text": "UN warns Ukraine war risks spiralling ‘out of control’",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167592"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167599"
         },
         {
-          "text": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
+          "text": "World News in Brief: Lebanon violence continues, Israel ‘severs ties’ with UN c…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167591"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167598"
         }
       ]
     },
@@ -171,42 +171,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "How Endava builds an agentic organization with Codex",
-          "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing req…",
+          "title": "Boston Children’s uses AI to unlock new diagnoses",
+          "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and hel…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/endava"
+          "url": "https://openai.com/index/boston-childrens-hospital"
         },
         {
           "priority": "重点看点 02",
-          "time": "17:51",
-          "title": "The AI Hype Index: AI gets booed in graduation season",
-          "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In…",
+          "time": "20:00",
+          "title": "How Braintrust turns customer requests into code with Codex",
+          "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/braintrust"
         }
       ],
       "briefs": [
         {
-          "text": "OpenAI’s Frontier Governance Framework",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/openai-frontier-governance-framework"
+          "text": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet th…",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/"
         },
         {
-          "text": "Cisco and OpenAI redefine enterprise engineering with Codex",
+          "text": "Strengthening societal resilience with Rosalind Biodefense",
           "source": "OpenAI",
-          "url": "https://openai.com/index/cisco"
+          "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
         },
         {
-          "text": "Building self-improving tax agents with Codex",
+          "text": "A shared playbook for trustworthy third party evaluations",
           "source": "OpenAI",
-          "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex"
+          "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
         },
         {
-          "text": "Warp’s big bet on building open source with GPT-5.5",
+          "text": "How Endava builds an agentic organization with Codex",
           "source": "OpenAI",
-          "url": "https://openai.com/index/warp"
+          "url": "https://openai.com/index/endava"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:00",
-          "title": "Finding Success in Industry as a Chip Designer",
-          "summary": "I have been an application-specific IC (ASIC) designer for almost three decades. Over that time, I’ve moved t…",
+          "time": "02:01",
+          "title": "Building Fixed HW Implementations of Neural Networks (Yale, Cornell et al.)",
+          "summary": "Researchers from Yale University, Cornell University, Boston University, and NTT Research have published “Phy…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/building-fixed-hw-implementations-of-neural-networks-yale-cornell-et-al/"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:00",
-          "title": "Understanding Phase Noise and Its Impact on RF System Performance",
-          "summary": "A practical introduction to phase noise concepts, explaining how oscillator instability affects RF systems an…",
+          "time": "15:15",
+          "title": "Moving Defect Detection And Classification To The Edge",
+          "summary": "Explosion in defectivity requires much faster determination of critical and non-critical defects. The post Mo…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/moving-defect-detection-and-classification-to-the-edge/"
         }
       ],
       "briefs": [
         {
-          "text": "Swapping Out Chiplets: I/Os Vs. Compute",
+          "text": "Chip Industry Week In Review",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/swapping-out-chiplets-i-os-vs-compute/"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-140/"
         },
         {
-          "text": "Toward Agentic Verification",
+          "text": "From Billions Of Violations To Actionable Insights: Calibre Vision AI",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/toward-agentic-verification/"
+          "url": "https://semiengineering.com/from-billions-of-violations-to-actionable-insights-calibre-vision-ai/"
         },
         {
-          "text": "Observability Is Essential For Modern Silicon",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/observability-is-essential-for-modern-silicon/"
+          "text": "Finding Success in Industry as a Chip Designer",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry"
         },
         {
-          "text": "Why Your NoC Verification Strategy Must Consider Using Formal",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/why-your-noc-verification-strategy-must-consider-using-formal/"
+          "text": "Understanding Phase Noise and Its Impact on RF System Performance",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting",
-          "summary": "The UN Security Council is meeting in emergency session on Ukraine, with Secretary-General António Guterres t…",
+          "title": "Gaza children trapped ‘in an endless cycle of suffering’: UNICEF",
+          "summary": "The dire conditions in the Gaza Strip are trapping children “in an endless cycle of suffering” and their hear…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167597"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167604"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Global temperatures set to stay near record levels: UN weather agency",
-          "summary": "The world is heading into another period of dangerous heat, a new UN report warns on Thursday, and it’s nearl…",
+          "title": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
+          "summary": "Nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year – more than double…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167596"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167603"
         }
       ],
       "briefs": [
         {
-          "text": "WHO chief calls for ceasefire amid DR Congo Ebola outbreak",
+          "text": "‘A disease you get when you care for someone’: WHO on the Ebola frontline",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167594"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167602"
         },
         {
-          "text": "UN80 Initiative: ‘Critical new phase’ for UN reform effort",
+          "text": "UN honours blue helmets and calls for renewed investment in peace",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167593"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167601"
         },
         {
-          "text": "Ebola outbreak in DR Congo collides with conflict and hunger, WHO warns",
+          "text": "UN warns Ukraine war risks spiralling ‘out of control’",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167592"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167599"
         },
         {
-          "text": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
+          "text": "World News in Brief: Lebanon violence continues, Israel ‘severs ties’ with UN c…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167591"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167598"
         }
       ]
     },
@@ -314,26 +314,31 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:58",
-          "title": "正邦科技：新振邦企业管理中心拟减持公司不超1%股份 - 搜狐网",
-          "summary": "正邦科技：新振邦企业管理中心拟减持公司不超1%股份 搜狐网",
+          "time": "00:16",
+          "title": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押220万股，占总股本1.07% - 搜狐网",
+          "summary": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押220万股，占总股本1.07% 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGlTeGs2YWJvOUduYkxPdDZ5Umxoa2htLWsxa1NNa3Fmbk1IT0dLRU9VMENJMXY0aHBtU1ZWN0ZjZXAxSG8xdlRST1BiWXJuRUxVa3VGckROODllQWh6US1obVhTWWZ0d3VPY2J6NHJDR2dPQUxSTmlOOTdmM3hGMk5mdGdkMldw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHFOdW4tMEpTLVlzdEtFNG5DeUswRjY5cks1S0xjTXNmUnRlMFhOSUtvMXJRTEVtYVFhYW5jOXRrLU1JUERXVHdja0QtY1RvS3BUMjlBQkJmaVNUc2loWS1fUmw2ZFpUMzhPRVJ5b0JoQlhFSE52TFNvNXFlNncxbnYxVDFsYXdr?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:06",
-          "title": "鼎捷数智发布企业智能运行空间（EIOS），推动企业管理从“操作工具”向“AI交付成果”转型 - video.sina.com.cn",
-          "summary": "鼎捷数智发布企业智能运行空间（EIOS），推动企业管理从“操作工具”向“AI交付成果”转型 video.sina.com.cn",
+          "time": "18:24",
+          "title": "新高教集团(02001)出售嵩明新巨企业管理全部股权料获收益 - AASTOCKS.com",
+          "summary": "新高教集团(02001)出售嵩明新巨企业管理全部股权料获收益 AASTOCKS.com",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc2dQek8zdVBYNnBZa3VTcHEweHVRQ0xsT1RjcGtNZ3lNd3c3Uk55UHo1RVlBbVlvT3hpZmhxaGJ5ck9yaTY1Zmt2cU9oRGxIZXlJTnp2SElLdnNKdElXemxwLVdhcmVWSnZJVEgxNjBHbmJGRFJCTW11Qm1BbmFDa29B?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTdTcGpVZHdCLVd4LUxWSERWX3NFbGVMUXBuUUVCM3ZLZ0FId1cyV242TTdXZHlpbkNFckg1dWdycW1zbmQxWm96emRncGRoelB3aXNaM3J0M19lOGI0Q1h2cHlkWXM5bW83U3ExWFRlMlM0elYwRFB1S3FHMVBlaU5PTVQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "王晓平提任建行股权投资与子公司管理部总经理！47万亿大行中层大轮岗 - Sina finance",
+          "text": "正邦科技：新振邦企业管理中心拟减持公司不超1%股份 - 搜狐网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGlTeGs2YWJvOUduYkxPdDZ5Umxoa2htLWsxa1NNa3Fmbk1IT0dLRU9VMENJMXY0aHBtU1ZWN0ZjZXAxSG8xdlRST1BiWXJuRUxVa3VGckROODllQWh6US1obVhTWWZ0d3VPY2J6NHJDR2dPQUxSTmlOOTdmM3hGMk5mdGdkMldw?oc=5"
+        },
+        {
+          "text": "王晓平提任建行股权投资与子公司管理部总经理！47万亿大行中层大轮岗 - 新浪财经",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUoxNjZqX1FfaEF6Ry01VjBoYV8tbDU3MTVadURCMDJwUWl2WnlSOGRDSkpkRTQxOXZmWWlQT3RFQzdIUWYxcERxekliVkg0SnY0MzlGQThDU1JxRi1sbV93RGwycHcxV1hUWkhCTndmTk1JblNFZjhUbTc1cFN0M1JhRkxsRHM?oc=5"
         },
@@ -346,11 +351,6 @@ window.dailyBrief = {
           "text": "Gap公司管理层在电话会议中指出，其季节性女装业务在第二季度的市场表现，依然未能达到公司先前设定的预期目标 - Bitget",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44Rk5QTjd4emtFV1lXUFFEY3NtQUU1QmFrT3d4UUNDa2NsQkt3cFUzc1pJRENlNWJnRkx2bXBmN2wzV0t5dk84SzBBbXMtSXI2N19VZHNqWGIyOFpxdmVwYkUteWhHUdIBa0FVX3lxTE9zeUc4OXZ5cUtQZ3hMMHJhT1BMeXJvMXFTMXVBYmpYQWI3X1VqakpubnN6dzh1ZmdHYVN6MjRMM3NzcmptQm9mbTNBLUpscTZYNHBfTUhKcWdsVmlJckctbFBGd19vSlpYakhF?oc=5"
-        },
-        {
-          "text": "陕西环保集团与西安机场公司战略携手，围绕生态治理联动、智慧环保等开展务实合作 - 国际能源网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5nQ25Ubm10QUltUjhYWnA3al9lUlpHVnpYeEFHa1dFT0R4MmxzejdPVk5Lc0UySktNR0xCZDYteGtDMzNrU3l0RFdsRmNEZlRhNnlpV0dPUm5ueW5oSWFxZ0s4Zw?oc=5"
         }
       ]
     }
