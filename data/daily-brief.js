@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月30日",
+  "publishDate": "2026年5月31日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "摩洛哥最大商业银行联席CEO：中国在非洲掀起工业投资热潮，令人鼓舞 - jwv…",
+      "title": "岚图、高山、GL8新能源实测：谁家MPV真能带全家轻松出游？ - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "AI-powered spectrometer chip shrinks la…",
+      "title": "New 3D silicon chip breakthrough could…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Gaza children trapped ‘in an endless cy…",
+      "title": "Borrowed boots, borrowed joy: Football…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:00",
-          "title": "摩洛哥最大商业银行联席CEO：中国在非洲掀起工业投资热潮，令人鼓舞 - jwview.com",
-          "summary": "摩洛哥最大商业银行联席CEO：中国在非洲掀起工业投资热潮，令人鼓舞 jwview.com",
+          "time": "08:10",
+          "title": "岚图、高山、GL8新能源实测：谁家MPV真能带全家轻松出游？ - 汽车之家",
+          "summary": "岚图、高山、GL8新能源实测：谁家MPV真能带全家轻松出游？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1VDRlVFpST1VtVUdSd1BMNWJUVHBRaGF5dERKbHcyYkZfd3V5aE96eWRHbzkwc3dIa3hwdDl3WkxPSG5FTzZJZU05a3hYWVlPbzFXc1lPdV9iZ0F4VVdIbFZuWVU?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xdFJRYi1YNUk0QzR3MlFrRG9Cc0pQc2d4Rm9Vd1BuRFY1RUVta1J4QzE3anc4RF9iTzhQbFFBczdXOEJIbE5iY05FTnQ3U25yUUNBNXR1bm9fLUV3a180VVdZZmJEdE8wcXEw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:00",
-          "title": "为啥修车的老师傅，都不建议你买新能源？两个字，网友恍然大悟 - 凤凰网汽车",
-          "summary": "为啥修车的老师傅，都不建议你买新能源？两个字，网友恍然大悟 凤凰网汽车",
+          "time": "08:06",
+          "title": "【视频】5.31高能周评：新能源车主的尚方宝剑 - 汽车之家",
+          "summary": "【视频】5.31高能周评：新能源车主的尚方宝剑 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96ZjNQNDVNal9LN3pqV1hsQ1U2NHNTTHNlZ2VVTTVOMkFVaVN4M29MaGNrZjVvTDRla2Rma09JN25iOUk3Vjhvb2Y2SFc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jMS1TZGV2WFhrNVlETUhpMnVsMkRxaGdDY1RtcW5Hc29DVzFzUTFVeUxXT2pINkRFSElqM2FfMnRVUFpUVHQ3ZHZYajBwMUhnMGFwTUx1QVhxcHM?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新能源汽车集体“增重” 背后多重因素叠加 - 中华网",
+          "text": "物理AI万亿赛道上，一家新能源公司凭什么拿到“未来门票”？ - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93UXM5aUYzdUVaZjlUVDZNUEJJbzhYN3dzOHBudjJxMkdhSmNKREJDS3MyZ09tRFVmRmNUNTRZcUUyNEFFNmxwQTdFZ0V2QlZQUUcxU2JOR2J3VXUtT0JBdU4waTJBT2Ryc0Frcm5jVjg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qV1NmeGtldl9td3locllhRnRfalZnX3NURUUxR0ZpTHotX1JSc2RJMWwzMzdza2hzX1pUcGhzLU5SckJxeW1RbUtPeXYxMkdTQjk0SWQ2Y1YydG1SMF83cjQ1ZkcwRzR3N21SeTIwMXpGeEI2UVozd0h3dmw?oc=5"
         },
         {
-          "text": "增量领跑深圳，一个制造业大区的IPO密度与速度 - 搜狐网",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOVBPQ0RxdGZYRW16V0VlUFZKWUhQS3E4QUJ1TmV6a21ESlJ5ay1za0Vwc2JUTk9LZVhHX3I4aXFqaDdQb1JuZ00xalJBdVBsRzJqbENCeGxMV0FvajhoZ1FNbVRDZ2FYU3JXUWlwbE9veWVHbmxWcUNnQm4wTlBKamdsWW1FQ21J?oc=5"
+          "text": "股价直线拉升！新能源车巨头密集传来大动作 - 证券时报",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1ekdtbDJHbjRoQ3c5cDhIcG9nbFY0ZUdaOEZqYWdCb2hmTjJrSGRySk41M2tMWGxSSXloYlA0eFFwMkpHVmpFWHZNZGxoUjVSZjhaVXpBdXpoZ0JD?oc=5"
         },
         {
-          "text": "新排名：印度AI表现全球第四，数字经济规模全球第五 - 搜狐网",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnhCSHZSWmhHZ3pmTXZaM2JWUEtDTlRjcWp1TXNBR3pocVFFTGcxdlNCNWRMU2J4SFFWVVJNaG00LXFtc09XaHFEWWdYNHRxM0NxaElHVUJhczRsY1NGSnlpWkhCQU1UNHhMeElEV2FSSVN1Z1o5T2xiSDNkeUhmR2Vxa3hjOU96VUlETA?oc=5"
+          "text": "兆新股份（002256.SZ）新增一起对外投资，被投资公司为优得新能源科技（宁波）有限公司_公司新闻 - 证券之星",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WbDg4Y3NPLTBEZlduVGZXZnhvWW5RY2NSZkNENW5UZ3p1LXdNcDlqZ3JUdVhDdDlkTFRkVTVqdGJjOWZLeVJiRjRvRk5vVFpEYXppWnBDOE5WODZ2UGdULWY3SW8?oc=5"
         },
         {
-          "text": "【视频】温州新能源，21年欧拉黑猫EV，个人非营运私家车，四门四坐 - 汽车之家",
+          "text": "【视频】极狐问道V9 新能源MPV市场强力搅局者 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ybF9TQWhjV1ZmUG93eXlseTZ6UkFJSDg2OS1zS2pOY3MxOWxfMWVoQzJmQWMzMUxkWjlVUUY3ZmxlOGdyZE1kdTVnMF94SDEtM3RHY1JPaDY3WDQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5b0lJY3N1WFhsdzdTZXd3ME5wSzBqc19BVjAtSXNoNHJvMkJRakJ4akRyZWdXVkV5RC1ZWXRzMUN5MzBjNndCMW9XNWNzWENTOWpLRWh1M19QaXc?oc=5"
         }
       ]
     },
@@ -74,43 +74,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:09",
-          "title": "AI-powered spectrometer chip shrinks lab technology to the size of a grain of sand",
-          "summary": "A new AI-powered chip from UC Davis can analyze light and chemicals using a device tiny enough to fit almost…",
+          "time": "18:26",
+          "title": "New 3D silicon chip breakthrough could extend Moore’s Law for years",
+          "summary": "As traditional chip miniaturization slows, researchers have found a way to pack more computing power into the…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260525000501.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/05/260530053412.htm"
         },
         {
           "priority": "重点看点 02",
-          "time": "20:40",
-          "title": "Scientists create global treasure map pointing to hidden rare earth deposits",
-          "summary": "Scientists have created a global “treasure map” for rare earth elements by uncovering where the strange volca…",
+          "time": "15:31",
+          "title": "This strange new phase of matter could transform quantum technology",
+          "summary": "By stacking custom-designed silver nanoparticles like nanoscale LEGO bricks, scientists stabilized a mysterio…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260525000450.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/05/260529043638.htm"
         }
       ],
       "briefs": [
         {
+          "text": "Stanford quantum computing breakthrough uses twisted light to work without extr…",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260528074028.htm"
+        },
+        {
+          "text": "AI-powered spectrometer chip shrinks lab technology to the size of a grain of s…",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260525000501.htm"
+        },
+        {
+          "text": "Scientists create global treasure map pointing to hidden rare earth deposits",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/05/260525000450.htm"
+        },
+        {
           "text": "AI won’t replace you but someone using AI might",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260525000448.htm"
-        },
-        {
-          "text": "AI scans 400,000 Reddit posts and finds hidden Ozempic side effects",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260523103914.htm"
-        },
-        {
-          "text": "Scientists discover atoms suddenly spinning backward in quantum experiment",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260523103903.htm"
-        },
-        {
-          "text": "New AI body map reveals obesity’s hidden attack on facial nerves",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260522023308.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Gaza children trapped ‘in an endless cycle of suffering’: UNICEF",
-          "summary": "The dire conditions in the Gaza Strip are trapping children “in an endless cycle of suffering” and their hear…",
+          "title": "Borrowed boots, borrowed joy: Football thrives in Gaza camps",
+          "summary": "Matches organised by a former professional player are providing a brief respite from the harsh reality of lif…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167604"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167606"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
-          "summary": "Nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year – more than double…",
+          "title": "Gaza: 26 killed over Eid holiday, UN rights investigators report",
+          "summary": "At least 26 Palestinians were killed in the Gaza Strip since Tuesday – the eve of one of the most important h…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167603"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167610"
         }
       ],
       "briefs": [
         {
-          "text": "‘A disease you get when you care for someone’: WHO on the Ebola frontline",
+          "text": "World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167602"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167609"
         },
         {
-          "text": "UN honours blue helmets and calls for renewed investment in peace",
+          "text": "Banning children from social media is not enough, UN warns – platforms must be…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167601"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167608"
         },
         {
-          "text": "UN warns Ukraine war risks spiralling ‘out of control’",
+          "text": "Gaza children trapped ‘in an endless cycle of suffering’: UNICEF",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167599"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167604"
         },
         {
-          "text": "World News in Brief: Lebanon violence continues, Israel ‘severs ties’ with UN c…",
+          "text": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167598"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167603"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:16",
-          "title": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押220万股，占总股本1.07% - 搜狐网",
-          "summary": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押220万股，占总股本1.07% 搜狐网",
+          "time": "18:45",
+          "title": "新意签署供应链韧性合作备忘录 加强国防供应链应对突发干扰 - 8world",
+          "summary": "新意签署供应链韧性合作备忘录 加强国防供应链应对突发干扰 8world",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVHFOdW4tMEpTLVlzdEtFNG5DeUswRjY5cks1S0xjTXNmUnRlMFhOSUtvMXJRTEVtYVFhYW5jOXRrLU1JUERXVHdja0QtY1RvS3BUMjlBQkJmaVNUc2loWS1fUmw2ZFpUMzhPRVJ5b0JoQlhFSE52TFNvNXFlNncxbnYxVDFsYXdr?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50SVltRHdSaFMyQ3U1LTJwZ3FpV0M3TFE4Vk9UZTNxSTBGN1l0V29BdElnT0pwZXRrUzhZNHdhZEZQUC05UHpyeHdsVVd3TVZDVW5NQmRWYy1sbmFQMVhna1ZkWEY?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:24",
-          "title": "新高教集团(02001)出售嵩明新巨企业管理全部股权料获收益 - AASTOCKS.com",
-          "summary": "新高教集团(02001)出售嵩明新巨企业管理全部股权料获收益 AASTOCKS.com",
+          "time": "16:17",
+          "title": "我国与意大利同意强化国防供应链韧性 - 8world",
+          "summary": "我国与意大利同意强化国防供应链韧性 8world",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTdTcGpVZHdCLVd4LUxWSERWX3NFbGVMUXBuUUVCM3ZLZ0FId1cyV242TTdXZHlpbkNFckg1dWdycW1zbmQxWm96emRncGRoelB3aXNaM3J0M19lOGI0Q1h2cHlkWXM5bW83U3ExWFRlMlM0elYwRFB1S3FHMVBlaU5PTVQ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYncyRVNBVFIwaWN3SkZNNTJUcWU2UThydy11RlNUX2NmUjBlR3Uzbld0MUUtV3VfZlNYRF8wOGY3LWdiNFV1NkEwaGJLTmVZM19HVWZhZlVFVkE1X2ZYU0lTQ1VxUktsNmJnTXZ0WldPUGNSZzFmbVY3dDk2TXp6Y1JxZjJHWGQtRHA1SWNoSF9sNWJD?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "正邦科技：新振邦企业管理中心拟减持公司不超1%股份 - 搜狐网",
+          "text": "来稿｜AI 时代的企业管理：别让算法成了内卷的推手 - 香港01",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGlTeGs2YWJvOUduYkxPdDZ5Umxoa2htLWsxa1NNa3Fmbk1IT0dLRU9VMENJMXY0aHBtU1ZWN0ZjZXAxSG8xdlRST1BiWXJuRUxVa3VGckROODllQWh6US1obVhTWWZ0d3VPY2J6NHJDR2dPQUxSTmlOOTdmM3hGMk5mdGdkMldw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQQnlnY0xDY0NqTE1WSUwya0hIQzFTR2lMWHd3WDhfWUF6R2F6QW5tNC03Q0NHdmd2Z1BFZWpVNDdhSTB6WkhVTzJjOWVGYVF6RGgzaGZoNUx2UkFNd2Z5cGhWSU82VTVyODM3RHliX05XQmJWRzlWUDJxV2FoZUFOSjQwekhiRFRPUGVGWW9EUl9vLThuVFhiNGZXdlUwd3RIRGJuSU9rVG1lZWV6cUxJQjdCR21jMEhPRkZ1dkRKanpuNzZJVW9na3RYSHMyNEU1WWNxRk8wYS1jQkpVNU5HR3ZmbVBVeXFra1FFRU1wVXVjcXhXR0xYLXVSSk9BVjZCOWVTR0NCejIzcklYZlhWaWw2VlJ3QnBkOTVuUlJLNnE0S0hGd0MyRXVuSl9tZDdrMDZRcWhISURMQXRBbi1QdmR2OTNYc1I0VUNOSkxXb0s3c0RrN1dza3llUQ?oc=5"
         },
         {
-          "text": "王晓平提任建行股权投资与子公司管理部总经理！47万亿大行中层大轮岗 - 新浪财经",
+          "text": "联迪信息股东南京联瑞迪福企业管理咨询中心（有限合伙）47天减持29.95万股，套现731.23万元 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLUoxNjZqX1FfaEF6Ry01VjBoYV8tbDU3MTVadURCMDJwUWl2WnlSOGRDSkpkRTQxOXZmWWlQT3RFQzdIUWYxcERxekliVkg0SnY0MzlGQThDU1JxRi1sbV93RGwycHcxV1hUWkhCTndmTk1JblNFZjhUbTc1cFN0M1JhRkxsRHM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6Y2FmVXBobmdpRHYwWlBpNTNUM2FkeUtLY2VCX2dNZFhsYXItOHlEbW5GbmFuQUZFQmFtRVJicXhuVElWX1VLOVlTUkRfR0w3SXRCS3NZVWg4VTdkNUxCMzZtcFRhcDYyV2ZuWXdZQlB5UDNWNVZMS05lMy1jZw?oc=5"
         },
         {
-          "text": "STT GDC：AI基础设施已成企业战略议程，不能再由IT部门单独决策 - 디지털투데이",
+          "text": "罗博特科股东宁波科骏企业管理咨询中心（有限合伙）18天减持75.05万股，套现4.42亿元 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtVU9palRDQ1VhNWlYQmxONnBsRzNmRG9kVHdUcVNIYnpObk5iMzhJTnd4MWI3cGhqVjQ1SHNXb1Y5c1c2blpERG1LSkpEMTZ4WXMtU2QtZFpfODlSaEhkMWV1XzRpN0tnUjN0NnRMbmFHZG5aMzRjdDFrMXVGZw?oc=5"
+        },
+        {
+          "text": "免费参加：AI赋能供应链韧性论坛 - 新浪财经",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW9JSVg0eHROSnBic09uZVFnRUdYM292ckVILTNmRWFaV1FiQzJvZkdyVWU0S1NZWnF4X1pRQ1FNbnFicTFCYXdacnNpMGRad1Vpd0ZxMC1iSTNvZjhYel9YVk5ia2pFUHZQSnFWdXEtT3hZbjFnNjdRdERyZHd4bUFiM0RJOWlhMWo2RlpPQVR0ZkFYbnh2LXloTHhtUDhhMkhlQ3lkY1dDZW0wZmJCTEVacDNVZ3ZDYUZncXF3ZEhZdw?oc=5"
-        },
-        {
-          "text": "Gap公司管理层在电话会议中指出，其季节性女装业务在第二季度的市场表现，依然未能达到公司先前设定的预期目标 - Bitget",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE44Rk5QTjd4emtFV1lXUFFEY3NtQUU1QmFrT3d4UUNDa2NsQkt3cFUzc1pJRENlNWJnRkx2bXBmN2wzV0t5dk84SzBBbXMtSXI2N19VZHNqWGIyOFpxdmVwYkUteWhHUdIBa0FVX3lxTE9zeUc4OXZ5cUtQZ3hMMHJhT1BMeXJvMXFTMXVBYmpYQWI3X1VqakpubnN6dzh1ZmdHYVN6MjRMM3NzcmptQm9mbTNBLUpscTZYNHBfTUhKcWdsVmlJckctbFBGd19vSlpYakhF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mcDFUc0w1aktWUUNVNENXcy0yVFNQMGVOaEt2elNZTnRQaTk5VE42cGwwWmFBNDRmT0hUZzRBdGRWbXlXanVPN3R5Sjk2OUJOS1U5a2gwcTJlUVc1SC12dFpVcWhkRXBSazRXcEJZaXNFN2g3Smc?oc=5"
         }
       ]
     }
