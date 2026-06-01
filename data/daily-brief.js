@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年5月31日",
+  "publishDate": "2026年6月1日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "岚图、高山、GL8新能源实测：谁家MPV真能带全家轻松出游？ - 汽车之家",
+      "title": "中国经济总体产出保持扩张（锐财经） - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Borrowed boots, borrowed joy: Football…",
+      "title": "Under fire, Kharkiv is already building…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:10",
-          "title": "岚图、高山、GL8新能源实测：谁家MPV真能带全家轻松出游？ - 汽车之家",
-          "summary": "岚图、高山、GL8新能源实测：谁家MPV真能带全家轻松出游？ 汽车之家",
+          "time": "08:05",
+          "title": "中国经济总体产出保持扩张（锐财经） - 新浪财经",
+          "summary": "中国经济总体产出保持扩张（锐财经） 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xdFJRYi1YNUk0QzR3MlFrRG9Cc0pQc2d4Rm9Vd1BuRFY1RUVta1J4QzE3anc4RF9iTzhQbFFBczdXOEJIbE5iY05FTnQ3U25yUUNBNXR1bm9fLUV3a180VVdZZmJEdE8wcXEw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFpvT0NvQ05VOVBzOVU5LTBEVFVXMEI0S2NDVHNFYVFKMVE1c3ZBXzFvRjk0RnNvaTJpVl9acG4yWGhjUVRUWUtNaVpVZFhOdnNqLUZEblBabS1pckdJYnRmS25DRmdiR3lLZTJza3Q4T0dmU2VpNjlKdFA3emlYazdOZGEwdzJXMWlnTW82bE9HM1pnb1ZuOFdtaFktVG1UdE9oaEZtM3h1TWRwYlJr?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:06",
-          "title": "【视频】5.31高能周评：新能源车主的尚方宝剑 - 汽车之家",
-          "summary": "【视频】5.31高能周评：新能源车主的尚方宝剑 汽车之家",
+          "time": "08:04",
+          "title": "新能源汽车不能一味比拼“大”与“重” - 新浪财经",
+          "summary": "新能源汽车不能一味比拼“大”与“重” 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jMS1TZGV2WFhrNVlETUhpMnVsMkRxaGdDY1RtcW5Hc29DVzFzUTFVeUxXT2pINkRFSElqM2FfMnRVUFpUVHQ3ZHZYajBwMUhnMGFwTUx1QVhxcHM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHJxS2EyVlhfU2p3Q3ZWalI5X3BBTWFjVndMdHZIWVN6aTJKajA4QnNXUmxIY3phM3Q2a3VaVlFIYjZmcG9jT3IzRXZWcGVBdUNPcTNuVTBQQVB0UTY4cE5mcDFNSDRzQjBMaXBOSkV4U2c0ei10N01HM3JVb3E2Zm9FaUdXdw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "物理AI万亿赛道上，一家新能源公司凭什么拿到“未来门票”？ - 新浪财经",
+          "text": "【视频】宝马新能源宝马i5二手车 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qV1NmeGtldl9td3locllhRnRfalZnX3NURUUxR0ZpTHotX1JSc2RJMWwzMzdza2hzX1pUcGhzLU5SckJxeW1RbUtPeXYxMkdTQjk0SWQ2Y1YydG1SMF83cjQ1ZkcwRzR3N21SeTIwMXpGeEI2UVozd0h3dmw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HaXlnd2NtcGFVUkhla0c3cFZqMjEzUDhCcWZhVlc4dm1WVnZlMHBzaVE1VGtwcHhQUElTRXhCWEVoQ3llaHRKZ0ZzQmNpQlhDZE5GdVRTX0ZLQWc?oc=5"
         },
         {
-          "text": "股价直线拉升！新能源车巨头密集传来大动作 - 证券时报",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1ekdtbDJHbjRoQ3c5cDhIcG9nbFY0ZUdaOEZqYWdCb2hmTjJrSGRySk41M2tMWGxSSXloYlA0eFFwMkpHVmpFWHZNZGxoUjVSZjhaVXpBdXpoZ0JD?oc=5"
+          "text": "新能源汽车“锁电”选择权应属于消费者 - 新浪财经",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWxDeTBBMjdta2VZMmtrVlJnNHJaQkxOLUNLTGJHeUtXMnRDN1lHMF8wQU9tMS12WkNyRHhEZzBaWEwxaG5ROUd3NVROZGZhcm9pdlpyM2JqMlhJQnNaWG5PRTc0WkR5b1VkRXN0WHZBQ01hWFF5bk12SWVMb2c2Sl9hYmJ1YzBod1dkTng3S1AtajB2clFybA?oc=5"
         },
         {
-          "text": "兆新股份（002256.SZ）新增一起对外投资，被投资公司为优得新能源科技（宁波）有限公司_公司新闻 - 证券之星",
+          "text": "中国5月份制造业活动持平，受能源成本上升拖累 - 华尔街日报中文网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WbDg4Y3NPLTBEZlduVGZXZnhvWW5RY2NSZkNENW5UZ3p1LXdNcDlqZ3JUdVhDdDlkTFRkVTVqdGJjOWZLeVJiRjRvRk5vVFpEYXppWnBDOE5WODZ2UGdULWY3SW8?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXpIQ28tS1NLblZIWXR1ekFPeWxUUGRwajNqdTVqOTZ0Z084U29LVC1MdGF1cEdvdVEydHlXeV9FUkR0VkphenRTdTlfWW1XeTQ1U3BNWHlHTGxweDlvNFBWZEoyMDcwN2JMajdRME5rc01YSHBYcGVVQTlxTEd0Ml81VTZXcFdSVlU4LVRDTk1ZN0NTaUtubDh6X3FUOGVYWER6RFJnSmk?oc=5"
         },
         {
-          "text": "【视频】极狐问道V9 新能源MPV市场强力搅局者 - 汽车之家",
+          "text": "一汽官宣：独立新能源汽车品牌，正式发布 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5b0lJY3N1WFhsdzdTZXd3ME5wSzBqc19BVjAtSXNoNHJvMkJRakJ4akRyZWdXVkV5RC1ZWXRzMUN5MzBjNndCMW9XNWNzWENTOWpLRWh1M19QaXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jSjJoaElxNXgwdHNtTDdpUElOOV9IcWpDckRtUnV5Z2FHNnNxTEhOMS1OUWJLSGR0bjlZdHFNM01KVktESWJ4MXlYbXpYS3p4ZVpEZUtNTUdpSkE?oc=5"
         }
       ]
     },
@@ -123,23 +123,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Borrowed boots, borrowed joy: Football thrives in Gaza camps",
-          "summary": "Matches organised by a former professional player are providing a brief respite from the harsh reality of lif…",
+          "title": "Under fire, Kharkiv is already building for a peaceful tomorrow",
+          "summary": "Every day in Kharkiv begins with uncertainty: air raid sirens interrupt sleep; missiles strike residential ne…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167606"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167611"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Gaza: 26 killed over Eid holiday, UN rights investigators report",
-          "summary": "At least 26 Palestinians were killed in the Gaza Strip since Tuesday – the eve of one of the most important h…",
+          "title": "‘You are not alone’: WHO chief vows to stand with DR Congo through Ebola outbreak",
+          "summary": "Community trust will be decisive in bringing the rapidly evolving Ebola outbreak in eastern Democratic Republ…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167610"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167612"
         }
       ],
       "briefs": [
+        {
+          "text": "Borrowed boots, borrowed joy: Football thrives in Gaza camps",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167606"
+        },
+        {
+          "text": "Gaza: 26 killed over Eid holiday, UN rights investigators report",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167610"
+        },
         {
           "text": "World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan…",
           "source": "United Nations News",
@@ -149,16 +159,6 @@ window.dailyBrief = {
           "text": "Banning children from social media is not enough, UN warns – platforms must be…",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/05/1167608"
-        },
-        {
-          "text": "Gaza children trapped ‘in an endless cycle of suffering’: UNICEF",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167604"
-        },
-        {
-          "text": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167603"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Gaza children trapped ‘in an endless cycle of suffering’: UNICEF",
-          "summary": "The dire conditions in the Gaza Strip are trapping children “in an endless cycle of suffering” and their hear…",
+          "title": "Under fire, Kharkiv is already building for a peaceful tomorrow",
+          "summary": "Every day in Kharkiv begins with uncertainty: air raid sirens interrupt sleep; missiles strike residential ne…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167604"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167611"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
-          "summary": "Nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year – more than double…",
+          "title": "‘You are not alone’: WHO chief vows to stand with DR Congo through Ebola outbreak",
+          "summary": "Community trust will be decisive in bringing the rapidly evolving Ebola outbreak in eastern Democratic Republ…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167603"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167612"
         }
       ],
       "briefs": [
         {
-          "text": "‘A disease you get when you care for someone’: WHO on the Ebola frontline",
+          "text": "Borrowed boots, borrowed joy: Football thrives in Gaza camps",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167602"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167606"
         },
         {
-          "text": "UN honours blue helmets and calls for renewed investment in peace",
+          "text": "Gaza: 26 killed over Eid holiday, UN rights investigators report",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167601"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167610"
         },
         {
-          "text": "UN warns Ukraine war risks spiralling ‘out of control’",
+          "text": "World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167599"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167609"
         },
         {
-          "text": "World News in Brief: Lebanon violence continues, Israel ‘severs ties’ with UN c…",
+          "text": "Banning children from social media is not enough, UN warns – platforms must be…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/05/1167598"
+          "url": "https://news.un.org/feed/view/en/story/2026/05/1167608"
         }
       ]
     },
@@ -343,14 +343,14 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6Y2FmVXBobmdpRHYwWlBpNTNUM2FkeUtLY2VCX2dNZFhsYXItOHlEbW5GbmFuQUZFQmFtRVJicXhuVElWX1VLOVlTUkRfR0w3SXRCS3NZVWg4VTdkNUxCMzZtcFRhcDYyV2ZuWXdZQlB5UDNWNVZMS05lMy1jZw?oc=5"
         },
         {
-          "text": "罗博特科股东宁波科骏企业管理咨询中心（有限合伙）18天减持75.05万股，套现4.42亿元 - 新浪财经",
+          "text": "新高教集团(02001)出售嵩明新巨企业管理全部股权料获收益 - AASTOCKS.com",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtVU9palRDQ1VhNWlYQmxONnBsRzNmRG9kVHdUcVNIYnpObk5iMzhJTnd4MWI3cGhqVjQ1SHNXb1Y5c1c2blpERG1LSkpEMTZ4WXMtU2QtZFpfODlSaEhkMWV1XzRpN0tnUjN0NnRMbmFHZG5aMzRjdDFrMXVGZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTdTcGpVZHdCLVd4LUxWSERWX3NFbGVMUXBuUUVCM3ZLZ0FId1cyV242TTdXZHlpbkNFckg1dWdycW1zbmQxWm96emRncGRoelB3aXNaM3J0M19lOGI0Q1h2cHlkWXM5bW83U3ExWFRlMlM0elYwRFB1S3FHMVBlaU5PTVQ?oc=5"
         },
         {
-          "text": "免费参加：AI赋能供应链韧性论坛 - 新浪财经",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mcDFUc0w1aktWUUNVNENXcy0yVFNQMGVOaEt2elNZTnRQaTk5VE42cGwwWmFBNDRmT0hUZzRBdGRWbXlXanVPN3R5Sjk2OUJOS1U5a2gwcTJlUVc1SC12dFpVcWhkRXBSazRXcEJZaXNFN2g3Smc?oc=5"
+          "text": "正邦科技：新振邦企业管理中心拟减持公司不超1%股份 - 搜狐网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGlTeGs2YWJvOUduYkxPdDZ5Umxoa2htLWsxa1NNa3Fmbk1IT0dLRU9VMENJMXY0aHBtU1ZWN0ZjZXAxSG8xdlRST1BiWXJuRUxVa3VGckROODllQWh6US1obVhTWWZ0d3VPY2J6NHJDR2dPQUxSTmlOOTdmM3hGMk5mdGdkMldw?oc=5"
         }
       ]
     }
