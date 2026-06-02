@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月1日",
+  "publishDate": "2026年6月2日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "中国经济总体产出保持扩张（锐财经） - 新浪财经",
+      "title": "华电在黑龙江成立新能源公司 - 国际风力发电网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "New 3D silicon chip breakthrough could…",
+      "title": "The forgotten organ that could predict…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:05",
-          "title": "中国经济总体产出保持扩张（锐财经） - 新浪财经",
-          "summary": "中国经济总体产出保持扩张（锐财经） 新浪财经",
+          "time": "09:22",
+          "title": "华电在黑龙江成立新能源公司 - 国际风力发电网",
+          "summary": "华电在黑龙江成立新能源公司 国际风力发电网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFpvT0NvQ05VOVBzOVU5LTBEVFVXMEI0S2NDVHNFYVFKMVE1c3ZBXzFvRjk0RnNvaTJpVl9acG4yWGhjUVRUWUtNaVpVZFhOdnNqLUZEblBabS1pckdJYnRmS25DRmdiR3lLZTJza3Q4T0dmU2VpNjlKdFA3emlYazdOZGEwdzJXMWlnTW82bE9HM1pnb1ZuOFdtaFktVG1UdE9oaEZtM3h1TWRwYlJr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kd051c3pyaWpnZk0tOHJ0QnlxUk82UDZQN29td0tPaUhTNGQwOWtwS2dORUhYMG1wTkNpM0RPdmxDQlNJclNlRlZHbmstOFlBczM1Z2tYaHhFZw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:04",
-          "title": "新能源汽车不能一味比拼“大”与“重” - 新浪财经",
-          "summary": "新能源汽车不能一味比拼“大”与“重” 新浪财经",
+          "time": "09:18",
+          "title": "2026年新能源车集体涨价：成本压力倒逼行业从价格战转向价值战 - 虎嗅",
+          "summary": "2026年新能源车集体涨价：成本压力倒逼行业从价格战转向价值战 虎嗅",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHJxS2EyVlhfU2p3Q3ZWalI5X3BBTWFjVndMdHZIWVN6aTJKajA4QnNXUmxIY3phM3Q2a3VaVlFIYjZmcG9jT3IzRXZWcGVBdUNPcTNuVTBQQVB0UTY4cE5mcDFNSDRzQjBMaXBOSkV4U2c0ei10N01HM3JVb3E2Zm9FaUdXdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YMzlhMW5oOFZ1bE5iaGNHaDFnS1hacWlvQlg1Y1RRWlBNOFFucndCTWJteFgzbkY1endxaGtlMnB1VlJfQ3piOUMtbGl0WV81SGJWTg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "【视频】宝马新能源宝马i5二手车 - 汽车之家",
+          "text": "《经济》加拿大5月标普制造业PMI降至52.9 基金行情Funds - 基金新闻内容News Content - AASTOCKS.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HaXlnd2NtcGFVUkhla0c3cFZqMjEzUDhCcWZhVlc4dm1WVnZlMHBzaVE1VGtwcHhQUElTRXhCWEVoQ3llaHRKZ0ZzQmNpQlhDZE5GdVRTX0ZLQWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGJHekc3VVBTN1ctaU4yTjVIdUVNX25JUnF6eVZ0Q01UeFZPckh4UllFOERKQUdOTEs2TmRpT1NBTHMxRE5vZHhzY3VnNHl1WVVsV1hMbjNnUDc1TmJjb3N5bU05RUJrUFdsXzh2a09XUVdjckxiTUJFWkVyZTVwUG5vZ0FRRmN0emc?oc=5"
         },
         {
-          "text": "新能源汽车“锁电”选择权应属于消费者 - 新浪财经",
+          "text": "工信部发文：开展2026年新能源汽车安全隐患排查工作 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWxDeTBBMjdta2VZMmtrVlJnNHJaQkxOLUNLTGJHeUtXMnRDN1lHMF8wQU9tMS12WkNyRHhEZzBaWEwxaG5ROUd3NVROZGZhcm9pdlpyM2JqMlhJQnNaWG5PRTc0WkR5b1VkRXN0WHZBQ01hWFF5bk12SWVMb2c2Sl9hYmJ1YzBod1dkTng3S1AtajB2clFybA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWa29NRkpPWGNBdmNsSEs0UWJEaVZmNTRPbEsySUVCWmpZYWxCZ1R6bGVCWWdwM0dYV3lkZnljNDN1N3RKbWR1czZUNWNsLTkxaGhuQTNpazUwdms?oc=5"
         },
         {
-          "text": "中国5月份制造业活动持平，受能源成本上升拖累 - 华尔街日报中文网",
+          "text": "新能源最新渗透率突破70%！燃油车越反攻销量越低？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXpIQ28tS1NLblZIWXR1ekFPeWxUUGRwajNqdTVqOTZ0Z084U29LVC1MdGF1cEdvdVEydHlXeV9FUkR0VkphenRTdTlfWW1XeTQ1U3BNWHlHTGxweDlvNFBWZEoyMDcwN2JMajdRME5rc01YSHBYcGVVQTlxTEd0Ml81VTZXcFdSVlU4LVRDTk1ZN0NTaUtubDh6X3FUOGVYWER6RFJnSmk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53NTZBM29YaHZ6bmJrR3kwTnpsQ1E4UUNuYkdLRWJyckV0MjJKOGNha203T29kMFJDaUVlV18wLTRQS0pGTUdtdldMbHdUTkdLS1NJbUlmMnJWcUU?oc=5"
         },
         {
-          "text": "一汽官宣：独立新能源汽车品牌，正式发布 - 汽车之家",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jSjJoaElxNXgwdHNtTDdpUElOOV9IcWpDckRtUnV5Z2FHNnNxTEhOMS1OUWJLSGR0bjlZdHFNM01KVktESWJ4MXlYbXpYS3p4ZVpEZUtNTUdpSkE?oc=5"
+          "text": "科技金融育新质① | 重庆银行助飞先进制造企业“钛”空之旅 - Sina finance",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uQ05QTlhXNzBZbm5zT2RzVG9tdk5fYVducDdaNll4c0hNdjFLUEhpck8xZTRCNUduMEJsSUNzcm1KY2IwVWNNV0t0LTlObU1EU1JPYUZWVzBxNU9nZ2w4VFdPTF9LTXI1WktSbU80RWxCTlhSOFE?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "18:26",
-          "title": "New 3D silicon chip breakthrough could extend Moore’s Law for years",
-          "summary": "As traditional chip miniaturization slows, researchers have found a way to pack more computing power into the…",
+          "time": "18:17",
+          "title": "The forgotten organ that could predict how long you live",
+          "summary": "A long-overlooked organ may hold surprising clues to healthy aging and cancer survival. Researchers at Mass G…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "15:25",
+          "title": "This strange crystal acts like metal and glass at the same time",
+          "summary": "A remarkable crystal called molybdenum oxychloride could help make futuristic technologies like smart contact…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260601025322.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "New 3D silicon chip breakthrough could extend Moore’s Law for years",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260530053412.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "15:31",
-          "title": "This strange new phase of matter could transform quantum technology",
-          "summary": "By stacking custom-designed silver nanoparticles like nanoscale LEGO bricks, scientists stabilized a mysterio…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "This strange new phase of matter could transform quantum technology",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260529043638.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Stanford quantum computing breakthrough uses twisted light to work without extr…",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "AI-powered spectrometer chip shrinks lab technology to the size of a grain of s…",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260525000501.htm"
-        },
-        {
-          "text": "Scientists create global treasure map pointing to hidden rare earth deposits",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260525000450.htm"
-        },
-        {
-          "text": "AI won’t replace you but someone using AI might",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260525000448.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "20:00",
-          "title": "Boston Children’s uses AI to unlock new diagnoses",
-          "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and hel…",
+          "time": "01:00",
+          "title": "Our views on AI policy and political advocacy",
+          "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safe…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/boston-childrens-hospital"
+          "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "How Braintrust turns customer requests into code with Codex",
-          "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+          "title": "Building the infrastructure for the Intelligence Age in Michigan",
+          "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/braintrust"
+          "url": "https://openai.com/index/stargate-michigan-data-center"
         }
       ],
       "briefs": [
         {
+          "text": "OpenAI frontier models and Codex are now available on AWS",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws"
+        },
+        {
+          "text": "Boston Children’s uses AI to unlock new diagnoses",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/boston-childrens-hospital"
+        },
+        {
+          "text": "How Braintrust turns customer requests into code with Codex",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/braintrust"
+        },
+        {
           "text": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet th…",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/"
-        },
-        {
-          "text": "Strengthening societal resilience with Rosalind Biodefense",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
-        },
-        {
-          "text": "A shared playbook for trustworthy third party evaluations",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
-        },
-        {
-          "text": "How Endava builds an agentic organization with Codex",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/endava"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:01",
+          "title": "The Sub-2nm Paradox",
+          "summary": "Reducing variation in manufacturing, monitoring behavior over time, and targeting specific workloads can have…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/the-sub-2nm-paradox/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "02:01",
           "title": "Building Fixed HW Implementations of Neural Networks (Yale, Cornell et al.)",
           "summary": "Researchers from Yale University, Cornell University, Boston University, and NTT Research have published “Phy…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/building-fixed-hw-implementations-of-neural-networks-yale-cornell-et-al/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:15",
-          "title": "Moving Defect Detection And Classification To The Edge",
-          "summary": "Explosion in defectivity requires much faster determination of critical and non-critical defects. The post Mo…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/moving-defect-detection-and-classification-to-the-edge/"
         }
       ],
       "briefs": [
+        {
+          "text": "Moving Defect Detection And Classification To The Edge",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/moving-defect-detection-and-classification-to-the-edge/"
+        },
         {
           "text": "Chip Industry Week In Review",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "Finding Success in Industry as a Chip Designer",
           "source": "IEEE Spectrum Semiconductors",
           "url": "https://spectrum.ieee.org/chip-design-academic-vs-industry"
-        },
-        {
-          "text": "Understanding Phase Noise and Its Impact on RF System Performance",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://content.knowledgehub.wiley.com/understanding-phase-noise-fundamentals/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "18:45",
-          "title": "新意签署供应链韧性合作备忘录 加强国防供应链应对突发干扰 - 8world",
-          "summary": "新意签署供应链韧性合作备忘录 加强国防供应链应对突发干扰 8world",
+          "time": "20:42",
+          "title": "供销大集：公司管理层持续根据经营情况开展全面复盘，梳理问题并不断优化调整、提质增效 - 东方财富",
+          "summary": "供销大集：公司管理层持续根据经营情况开展全面复盘，梳理问题并不断优化调整、提质增效 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50SVltRHdSaFMyQ3U1LTJwZ3FpV0M3TFE4Vk9UZTNxSTBGN1l0V29BdElnT0pwZXRrUzhZNHdhZEZQUC05UHpyeHdsVVd3TVZDVW5NQmRWYy1sbmFQMVhna1ZkWEY?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yRkZycnFxM3YtcmVkS3BPMTFTYzJTRFJzaFZpU0UtMFludkdMNUw4aEFORVBJcnRrWktmM2dlT2NYeGlqbjl4cXJMd3FEYnZDQ3M1WjN3Y2l1TVhGbUhOVVBPb3ppdw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "16:17",
-          "title": "我国与意大利同意强化国防供应链韧性 - 8world",
-          "summary": "我国与意大利同意强化国防供应链韧性 8world",
+          "time": "20:10",
+          "title": "锦江在线：公司管理层专注于主业发展 - 东方财富",
+          "summary": "锦江在线：公司管理层专注于主业发展 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYncyRVNBVFIwaWN3SkZNNTJUcWU2UThydy11RlNUX2NmUjBlR3Uzbld0MUUtV3VfZlNYRF8wOGY3LWdiNFV1NkEwaGJLTmVZM19HVWZhZlVFVkE1X2ZYU0lTQ1VxUktsNmJnTXZ0WldPUGNSZzFmbVY3dDk2TXp6Y1JxZjJHWGQtRHA1SWNoSF9sNWJD?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wQV9MRncwbUZNQXFhQjZpaWxYQkJKSnNTc2RITXhSV3JXNmVDZlNtRzdHaFFhVENucmdDZUx5Tk5jQ2V3aU9fX25ZbGE5RzhpQVJhVURKV2FFLS04ZVBkRGNVQzZadw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "来稿｜AI 时代的企业管理：别让算法成了内卷的推手 - 香港01",
+          "text": "ISEA“合规治理——企业管理隐形成本洞察及应对策略分享”活动，成功举办 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQQnlnY0xDY0NqTE1WSUwya0hIQzFTR2lMWHd3WDhfWUF6R2F6QW5tNC03Q0NHdmd2Z1BFZWpVNDdhSTB6WkhVTzJjOWVGYVF6RGgzaGZoNUx2UkFNd2Z5cGhWSU82VTVyODM3RHliX05XQmJWRzlWUDJxV2FoZUFOSjQwekhiRFRPUGVGWW9EUl9vLThuVFhiNGZXdlUwd3RIRGJuSU9rVG1lZWV6cUxJQjdCR21jMEhPRkZ1dkRKanpuNzZJVW9na3RYSHMyNEU1WWNxRk8wYS1jQkpVNU5HR3ZmbVBVeXFra1FFRU1wVXVjcXhXR0xYLXVSSk9BVjZCOWVTR0NCejIzcklYZlhWaWw2VlJ3QnBkOTVuUlJLNnE0S0hGd0MyRXVuSl9tZDdrMDZRcWhISURMQXRBbi1QdmR2OTNYc1I0VUNOSkxXb0s3c0RrN1dza3llUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVJybGJfczNPaWlTUmRtanVJYk53bGU0ck1WUkQ1dDFHOUdMR3pIRFByQ0xUQjRETzgtNXZZanpsbXRZNUNfS0V0bUpORG1RYmtwMmhQSm8tS2p3WDZxS1owd2VUX1JMSElhUDNxMlkyVU4zeTRhRVJyNjctenpYbEZZcDFvN2p5?oc=5"
         },
         {
-          "text": "联迪信息股东南京联瑞迪福企业管理咨询中心（有限合伙）47天减持29.95万股，套现731.23万元 - 新浪财经",
+          "text": "伦交所陈芳：跨国公司管理，换位思考是核心技能 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6Y2FmVXBobmdpRHYwWlBpNTNUM2FkeUtLY2VCX2dNZFhsYXItOHlEbW5GbmFuQUZFQmFtRVJicXhuVElWX1VLOVlTUkRfR0w3SXRCS3NZVWg4VTdkNUxCMzZtcFRhcDYyV2ZuWXdZQlB5UDNWNVZMS05lMy1jZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRTdXT1lfVTJTNEFwWWd1S3I0VTdoUXFGMklIaU9xa0J0MEdoX3VQRHZ1dnBleUprSU5XM01OUUJHN1ItUFlxc2xwdTJrcG5Pc0JlM2p0UWZfZGJ3ZlNDVjBPU2l3eWdFVGVBakNoVFV2eHB4WGtQc3hodVhjWFFQaE5vR09qc1lBWHdCNw?oc=5"
         },
         {
-          "text": "新高教集团(02001)出售嵩明新巨企业管理全部股权料获收益 - AASTOCKS.com",
+          "text": "浙江荣泰成立新企业管理公司，注册资本1200万 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYTdTcGpVZHdCLVd4LUxWSERWX3NFbGVMUXBuUUVCM3ZLZ0FId1cyV242TTdXZHlpbkNFckg1dWdycW1zbmQxWm96emRncGRoelB3aXNaM3J0M19lOGI0Q1h2cHlkWXM5bW83U3ExWFRlMlM0elYwRFB1S3FHMVBlaU5PTVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BdmZXbndUWFVzcjhXX0ZDM0lpeXdQZThzallreW5rSzF3VEVjcXAtZlR5eElfeXp3eUJrTDhTY0prZW5zVURnM29yYW51dUhtenRCUzdXbFA5dzFwdVFMTg?oc=5"
         },
         {
-          "text": "正邦科技：新振邦企业管理中心拟减持公司不超1%股份 - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGlTeGs2YWJvOUduYkxPdDZ5Umxoa2htLWsxa1NNa3Fmbk1IT0dLRU9VMENJMXY0aHBtU1ZWN0ZjZXAxSG8xdlRST1BiWXJuRUxVa3VGckROODllQWh6US1obVhTWWZ0d3VPY2J6NHJDR2dPQUxSTmlOOTdmM3hGMk5mdGdkMldw?oc=5"
+          "text": "新意签署供应链韧性合作备忘录 加强国防供应链应对突发干扰 - 8world",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50SVltRHdSaFMyQ3U1LTJwZ3FpV0M3TFE4Vk9UZTNxSTBGN1l0V29BdElnT0pwZXRrUzhZNHdhZEZQUC05UHpyeHdsVVd3TVZDVW5NQmRWYy1sbmFQMVhna1ZkWEY?oc=5"
         }
       ]
     }
