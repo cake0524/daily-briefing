@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月3日",
+  "publishDate": "2026年6月4日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "坦克700新能源，5.6秒破百+三把锁，泥地脱困真硬核 - 汽车之家",
+      "title": "暴雨露营选哪台SUV？坦克700新能源 vs 岚图泰山实测 - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "UN urges world not to forget Rohingya r…",
+      "title": "Yemen: Hunger crisis deepens as funding…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:41",
-          "title": "坦克700新能源，5.6秒破百+三把锁，泥地脱困真硬核 - 汽车之家",
-          "summary": "坦克700新能源，5.6秒破百+三把锁，泥地脱困真硬核 汽车之家",
+          "time": "09:37",
+          "title": "暴雨露营选哪台SUV？坦克700新能源 vs 岚图泰山实测 - 汽车之家",
+          "summary": "暴雨露营选哪台SUV？坦克700新能源 vs 岚图泰山实测 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82RUdKUEV6RHoyb0J0ZERlWkpjNkNDZmhaMlI0UW05SzlwdlBMNVJkZEphYnZYRDFnTUpMRGlpRzEwblM5Rk9FR0h6TVA5emtzdlBnRm1Fc2lKOFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OaXRhdVJ3d1QzajFqd1pTbTlJaENhMW1Kb09MWWlyczBXV3dETS16Y2hIYk9BM1p5eEpnZGR2dmpJYkZibnFEUVo5SlV2YlVseTB6NkJ4LWN3RUE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:37",
-          "title": "新能源车ETF国泰（159806）开盘跌0.12%，重仓股比亚迪跌0.79%，宁德时代涨0.72% - 新浪财经",
-          "summary": "新能源车ETF国泰（159806）开盘跌0.12%，重仓股比亚迪跌0.79%，宁德时代涨0.72% 新浪财经",
+          "time": "09:34",
+          "title": "岚县召开新能源项目暨绿电园区建设推进会 - 搜狐网",
+          "summary": "岚县召开新能源项目暨绿电园区建设推进会 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHhpYklDM2tFTHZoMWE4aDhCd3dvQmNUZWZRUENmdkxfQjRNOWNyU1VmTDhSaFVZWkh1NXZRdUl1d19GZHlCa201MHVEUWNTaW5YMXFVLU5NQXh1dE51amxzd3JuMnpYTlZuQzk2NEpnQTUwMnBBY08yZkNacmQ5RjE1cGxlRGw0TVlUVGhPNzFFcTJ3NE5jLQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQmoxTWtmQXZfc20tcTFjcmV4cFVPVTVOVGVZZ2xadnBHaXEzc1hGeGRBS3ZBWEUtV1JPNzJ5cHZOeldTODZmQXgxZzNYTWVBTW5NWTlHYWJPMVhwdldJT3RQTDZpVWdiUjJXWVZ0YzY2bkxOR2R0VGxjSmo0SUJ1LXZvMXA2OC1X?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "【视频】油价上涨怎么选新能源？年轻动感轿跑VS稳重家用轿车，看完便知！ - 汽车之家",
+          "text": "临汾恒源新能源有限公司曲沃县恒源200MW/400MWh储能电站建设项目工程总承包中标候选人公示 - 碳索储能网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wemNWNlRlMmgtZk5lakhzbElJYnltVXU1eWl4YXo1V1BoQXd6TF93Wlp6dGFuTmpCU1BVbjFXTHpKQWtCLU1lZGZxanQxQ1RXN1ZaZUlSY2tFNVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSbGEyUEdZVmphZFM1dTBMbkZwQ2VhSDc1OTNEMS15Z1lGcTJNS1Q3T2x2NWZqeEM1Z0hWck0tRXFWcEdoZnFnMFdJQ2RKLVVkRW5CMzNvWVpTRF9XdkI1Uw?oc=5"
         },
         {
-          "text": "中国一汽首个独立新能源品牌亮相：一汽悦意品牌扬帆起航 - 新华网",
+          "text": "国企进化论 | 一艘新能源船舶的“绿色账本” - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3NGM2OGZ3akJBcEVDd01NUVBHcnFLa3FVZjFzQ2k3WHhBbFZGNk5ZV05QSzE4WW9tN0o1ZVBMck9TNWc4cEt2OTJ1eXNEbFZCbkJBd2ZSUFk4U0ZscU1JcGU5T0ttUS0tWDk5YWY0VnZnc2NqWHZHWnB3Qy0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWNiSXpvNW0wa2VWemRTZ0sxdzJyLTA2WUM2UkhGbHExTHBhQW9XRzV2VHVNM1FwamExQWVpTEM2MEZfVmxGNzFWNW9mQVNmMVU1M2VwSXM1UUhabUhGUDlKX0lYdTBvSExRZ0J2TU1zWGU1Nkg5cndDY0dVTm5sQXlRUjNKZGlaYWFMdQ?oc=5"
         },
         {
-          "text": "汽车图谱㉘｜头部车企5月海外销量大涨，零跑汽车单月破8万辆 - 新浪财经",
+          "text": "安徽智杰新能源获6年承装（修、试）电力设施许可证，电力业务资质落定 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUE04aDdBcXViZTkwQ3ZsbXBqdDJiZ1lnWl9nd252Y0NtVDROT25Oa2l2OF9HeGVVSUxPZ1Y4UGs3TkQweGFIeElGN3FUSmd0aUx2SUN1amlFN2JEWWVJeURfOGtRX3BqR3JBdFl4YURTak1yRFNtR0dwVU00Tms0ZWJ6NExBSUZlTkFUeEFzMlByaTFPSW5rTkRRWmFROFlaSzJua2gwQ2twU2Z1Vmw0VXh2NS00Y0JYbnAxOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMENYa2FwV2VSbmhpQjN6Y2pBTEVTQkstTG83T0JUSjBzLW9HOW45TExCdWNyZTJ6Z0tqcVYwRkFyb3lwQ2lUNm1XRTFHVWdaZVFadzlfM3RiRVdha1JtWFg3QWxSVE42Ync2MlhjdGZHQTVXaGhCZGU1cnhYbk82SVlfVjZxRUM5Zm9GRzdLamRoWDZHREZZeXlReTdXZGd1c0pMYWd3WnF0TVlCZmdHWWlJSDZ2emkzWWlMMThPeS1RbzRZYXViV1daaTYzOVJaYThtQVhDQmxFTUtJRG9JbE9yWjI5TlRCR3ZQWWYyRzVhM3drdm0zRElfeEo?oc=5"
         },
         {
-          "text": "丰富新能源产品矩阵 上汽大众ID.ERA 5S搭高阶智能辅助驾驶系统 - 新浪财经",
+          "text": "5月新能源渗透率63%，卖得越多反而越焦虑？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96WUtqamJfQXJJenpyZ01vclB6T2I1dFcxQ3ItMVZ0LXZWR3VzbTM1REFlMjBhYnNMeVhrVDVLMnFRZ3J1WlFFNFRublZDV1RaTi1LekxHMFUwLVFVVHN2WHNzd0pQM2MzWDhiUHlhOFNlbG9QclkzSA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5US2ZEeC00NWw0MGktRXVZTXBZUkhSemJoWTRoSzk0MjJZazVsM0Y0Z3l3LTZJQ0xva1ItZG0tZGVsd2szdUtBTWJNNUw3dFZkR2ROQUxMaWZCYm8?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "UN urges world not to forget Rohingya refugees as aid cuts threaten vital support",
-          "summary": "As the world approaches nine years since the mass displacement of Rohingya refugees from Myanmar into Banglad…",
+          "title": "Yemen: Hunger crisis deepens as funding cuts leave millions without support",
+          "summary": "Nearly half of the population in Government-controlled areas of Yemen are facing high levels of acute food in…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167623"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167643"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN deplores another wave of Russian attacks across Ukraine",
-          "summary": "Overnight attacks in three key cities in Ukraine have left several civilians dead, scores more injured, and h…",
+          "title": "Regional health agency issues measles alert for World Cup",
+          "summary": "As World Cup fever rises in the Americas, countries are urged to strengthen measles surveillance and vaccinat…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167622"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167642"
         }
       ],
       "briefs": [
         {
-          "text": "Lebanon hospital strikes impact most vulnerable patients, warns WHO",
+          "text": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167621"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167641"
         },
         {
-          "text": "El Niño confirmed, set to fuel more extreme weather, says WMO",
+          "text": "World News in Brief: UN urges restraint as Gulf tensions rise, fear and uncerta…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167620"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167639"
         },
         {
-          "text": "UN stresses the need for de-escalation in Ukraine war as attacks rise",
+          "text": "Kyrgyzstan wins seat on UN Security Council for first time ever",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167619"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167636"
         },
         {
-          "text": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pa…",
+          "text": "‘We are catching up’ – WHO chief on DR Congo’s Ebola fight",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167618"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167632"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "20:00",
-          "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-          "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 2…",
+          "time": "21:15",
+          "title": "Introducing new capabilities to GPT-Rosalind",
+          "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertis…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/travelers"
+          "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:23",
-          "title": "Rehumanizing global health care with agentic AI",
-          "summary": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints…",
+          "time": "20:00",
+          "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+          "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/wasmer"
         }
       ],
       "briefs": [
         {
-          "text": "Codex for every role, tool, and workflow",
+          "text": "A blueprint for democratic governance of frontier AI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/codex-for-every-role-tool-workflow"
+          "url": "https://openai.com/index/frontier-safety-blueprint"
         },
         {
-          "text": "How small businesses can leverage AI",
+          "text": "OpenAI public policy agenda",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/public-policy-agenda"
+        },
+        {
+          "text": "Travelers deploys AI-powered claims countrywide with OpenAI",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/travelers"
+        },
+        {
+          "text": "Rehumanizing global health care with agentic AI",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/"
-        },
-        {
-          "text": "Advancing youth safety and opportunity through global leadership",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership"
-        },
-        {
-          "text": "Codex is becoming a productivity tool for everyone",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/codex-for-knowledge-work"
+          "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:58",
-          "title": "Using Graph Attention for Virtual Metrology in Semiconductor Manufacturing (Intel Foundry, ASU)",
-          "summary": "Researchers from Arizona State University and Intel Foundry have published “Graph Attention-Based Virtual Met…",
+          "time": "01:45",
+          "title": "Scaling Nanoribbon Transistors with Monolayer TMDs (Stanford, Chalmers, Horiba, SLAC)",
+          "summary": "Researchers from Stanford University, Chalmers University of Technology, HORIBA Scientific, and SLAC National…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/using-graph-attention-for-virtual-metrology-in-semiconductor-manufacturing-asu-intel-foundry/"
+          "url": "https://semiengineering.com/scaling-nanoribbon-transistors-with-monolayer-tmds-stanford-chalmers-horiba-slac/"
         },
         {
           "priority": "重点看点 02",
-          "time": "04:48",
-          "title": "Surface Modification for III-V Selective Area MBE of Non-Selective Mask Materials (UT Austin, Harvard)",
-          "summary": "Researchers from University of Texas at Austin and Harvard University published “Surface Modification for III…",
+          "time": "22:38",
+          "title": "Blog Review: Jun. 3",
+          "summary": "Verification IP; system-technology co-optimization; PCIe 7.0 ordering; design data challenges; process digita…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/surface-modification-for-iii-v-selective-area-mbe-of-non-selective-mask-materials-ut-austin-harvard/"
+          "url": "https://semiengineering.com/blog-review-jun-3/"
         }
       ],
       "briefs": [
         {
-          "text": "Scaling Open-Source HW Accelerator for Deep NN Inference (UDE, Fraunhofer IMS)",
+          "text": "1 Megawatt Racks In Data Centers",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/scaling-open-source-hw-accelerator-for-deep-nn-inference-ude-fraunhofer-ims/"
+          "url": "https://semiengineering.com/1-megawatt-racks-in-data-centers/"
         },
         {
-          "text": "Moving Intelligence Closer to the Sensor Edge (IBM Research)",
+          "text": "From Circuits to Systems: Unlocking the Power of Periodic Steady-State Analysis…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/moving-intelligence-closer-to-the-sensor-edge-ibm-research/"
+          "url": "https://semiengineering.com/from-circuits-to-systems-unlocking-the-power-of-periodic-steady-state-analysis-ebook/"
         },
         {
-          "text": "Flexible AI-MCU For Fast Inference of Transformer Models At The Ultra-Low-Power…",
+          "text": "Centralized Architecture for Automotive ADAS/AD Radar Based on Raw-ADC-Data",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/flexible-ai-mcu-for-fast-inference-of-transformer-models-at-the-ultra-low-power-edge-eth-zurich-u-bologna/"
+          "url": "https://semiengineering.com/centralized-architecture-for-automotive-adas-ad-radar-based-on-raw-adc-data/"
         },
         {
-          "text": "The Evolution Of UCIe",
+          "text": "Connectivity and Compute in Next-Gen Edge Devices",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-evolution-of-ucie/"
+          "url": "https://semiengineering.com/connectivity-and-compute-in-next-gen-edge-devices/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "UN urges world not to forget Rohingya refugees as aid cuts threaten vital support",
-          "summary": "As the world approaches nine years since the mass displacement of Rohingya refugees from Myanmar into Banglad…",
+          "title": "Yemen: Hunger crisis deepens as funding cuts leave millions without support",
+          "summary": "Nearly half of the population in Government-controlled areas of Yemen are facing high levels of acute food in…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167623"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167643"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN deplores another wave of Russian attacks across Ukraine",
-          "summary": "Overnight attacks in three key cities in Ukraine have left several civilians dead, scores more injured, and h…",
+          "title": "Regional health agency issues measles alert for World Cup",
+          "summary": "As World Cup fever rises in the Americas, countries are urged to strengthen measles surveillance and vaccinat…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167622"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167642"
         }
       ],
       "briefs": [
         {
-          "text": "Lebanon hospital strikes impact most vulnerable patients, warns WHO",
+          "text": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167621"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167641"
         },
         {
-          "text": "El Niño confirmed, set to fuel more extreme weather, says WMO",
+          "text": "World News in Brief: UN urges restraint as Gulf tensions rise, fear and uncerta…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167620"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167639"
         },
         {
-          "text": "UN stresses the need for de-escalation in Ukraine war as attacks rise",
+          "text": "Kyrgyzstan wins seat on UN Security Council for first time ever",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167619"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167636"
         },
         {
-          "text": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pa…",
+          "text": "‘We are catching up’ – WHO chief on DR Congo’s Ebola fight",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167618"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167632"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:07",
-          "title": "滨海投资与中石化新星新能源公司战略合作协议实现高质量可持续发展前景值得期待 评论 - 评论内容Commentary Content - AASTOCKS.com",
-          "summary": "滨海投资与中石化新星新能源公司战略合作协议实现高质量可持续发展前景值得期待 评论 - 评论内容Commentary Content AASTOCKS.com",
+          "time": "09:40",
+          "title": "如何破解AI落地断层？SAP在华发布“自主运营企业”战略 - 搜狐网",
+          "summary": "如何破解AI落地断层？SAP在华发布“自主运营企业”战略 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZeC1JTkRhbFZINUIzd1ZuTHlzRTNBZnlpVV81aFdiV2otdExaVkZnVjFsbHp3bzNWZDlNdWllcjRkZG8tXzlSdUVFM0xaVlI0dzUySkJHWTF2NkRKOXZmYWF5NUlvQ1lTLVpkMA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzFEYklENWpmeXZLVzF5WmlVWmREelI4dmlWOExmTUZNTWFvd2t3TFhtdWZQT0E5ZkRMeWRjUVI0WWpoWkR2TXNvcmFBMjFObTZVUDM1S1Z5alRFcTRLVWQ1TWtXNndNOUlXWGZFVGROV0tLVm1sTnVxMGxhb19LSDdjQ0Q0d2ZQZDk5OA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "05:42",
-          "title": "农发种业：公司管理层高度重视市值管理 - 东方财富",
-          "summary": "农发种业：公司管理层高度重视市值管理 东方财富",
+          "time": "09:12",
+          "title": "2026年成都股权变更代办机构实测评测：成都财税公司/成都会计服务/成都公司注册/合规与效率对比 - 邢台网",
+          "summary": "2026年成都股权变更代办机构实测评测：成都财税公司/成都会计服务/成都公司注册/合规与效率对比 邢台网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zWWJTVHNfdS1oVVNrRUR0ZmIzR0R2R0t3dkpxQ1d4SVFMZGZabTZzdVZnTmU2MHRLdk1idG44UlhQTXllUEFhRzVUZ2wyNmZhNld4WHdJaHlublB0MG13Rw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZSnp4amZ2OFdDMTgxRDRlRWpCcFU1SWx0bHJVRlRYRlJxLWhHQzdXU05tWHU4SDFyRk5fTVZYdmd1dlp3UmlPOW1TeGpnU0dqdUNKLVN2eTBSWHM1X1hIeXZkN25xQQ?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "马印外长周四出席JCBC会议 加强经济合作保障供应链韧性 - mediaselangor.com",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uTUp2SnY1TFIxRmIzSDBscGlvUEdxX01HMkdIVzFBRVR4eW1rZlRVNm1xYXhlOWFhT1pMd29DeVpxLTJRZE1JUDZDOXFXN1FXSXV1ODR3?oc=5"
+        },
+        {
+          "text": "Global initiative releases draft framework for corporate social disclosures - E…",
+          "source": "Google News 全球商业",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmdjSFo1aW9ucDhSYVpGX1J6Y0MtMGR6NmNWdVNpRDREbUlSbTN6UFVodDJMVUkyclhJeEF5b0dRb1ZGVWdXVms3WUF3RTZUMTVVUU93a01HVnBmdi1qTFRLUS04WHUxWGhNcUQxcmNWamJpTFM5RmF0a3VrY1NNamlKb3lSRHFNa0I1SzZ4NUdNdXYtX0ZjR2FPOGNqNEpyOVQ2U2JXYUEweDBMV1ZtaEd3?oc=5"
+        },
         {
           "text": "IGL Appoints Ajai Tyagi as Head of Business Development & Corporate Strategy to…",
           "source": "Google News 全球商业",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzlGM1g0YUlaZmlCd2E5Sm9LNzhaVV9KUDRTTzljUTREMmNQekhoS0tlRW9nTm9zZmREVm9yRG1lUEdNOFVfRlF4cXB3MEVBdU5NMjZ6cVo5N0FIdGRYQWVuWnVZdU5LbUZWUTB1dUgxaFkxazdEelpOZW5tWm1xNWJsN3lpbnZ3Q29FNXhSd19VeFlyUGpDR1BfSFN1a0JuOUFNRVF2dWVMSWFGdDhBbA?oc=5"
         },
         {
-          "text": "爱博医疗：公司管理层重视股东利益 - 东方财富",
+          "text": "代理公司管理层轮番上阵，狠薅外卖骑手与公司“羊毛”，4人被判刑 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41RmZYdDRBZXNmcUFpdmxuWFBMckR5SXl2bkFRWVBzRnhnRFJqU0RiaUd2MWg4SExoNFZxNE44VXpNSVR1RTNXX09fOWN2ZmxoN0RONGZiYi1iemE2Y1RudQ?oc=5"
-        },
-        {
-          "text": "山鹰国际：公司战略核心将由“规模扩张”转向成本控制、精益运营与创新能力协同驱动的“高质量发展” - 东方财富",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fVnd5MzNNVXFGMkRMMVdVSmNReWQyYld2ejFqSDI1bjNsa1Zfb3RwZ0JFOW1BSnUxT0ZrakRpSnRBQXhmbEU0MFdHWndzTjZPOGpGT3I0a3hsblFXWS03cw?oc=5"
-        },
-        {
-          "text": "美国小企业管理局(SBA) 为首尔高新企业招募美国市场考察代表团……支持其进入纽约和波士顿市场。 - 벤처스퀘어",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5UVjU2OGVHV1pSLWtpXzFrb2lsRnl0dndRdEV6S3JiVV84NWgwNFpxM1NZcnpONTRrUjduYS1NLVV3bUhOa01Uc1N4WXVKYjRmVHJv?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDhHc2FOVjhkbktRVGlpMUlzcHNnekwzTTd0NVgzSjVpeXN3UmJTYmx0T0J6M3RmYzNFbXRvckFkaU4zcnEyQS03SERzZTBUbHhpbG5DdjMyem5wU2FGdElFTmh6VEZzbW5uVHpZMmJjaEVwcVJ5YW9nSFRNWkM3WllQSnJ2eDg4WHNFSQ?oc=5"
         }
       ]
     }
