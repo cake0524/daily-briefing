@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月4日",
+  "publishDate": "2026年6月5日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "暴雨露营选哪台SUV？坦克700新能源 vs 岚图泰山实测 - 汽车之家",
+      "title": "【冰火两重天：国内燃油车价格大幅跳水新能源车坚挺未见松动】近期燃油车掀降价狂潮…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "New light-powered chip could accelerate…",
+      "title": "Scientists discover a quantum effect th…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:37",
-          "title": "暴雨露营选哪台SUV？坦克700新能源 vs 岚图泰山实测 - 汽车之家",
-          "summary": "暴雨露营选哪台SUV？坦克700新能源 vs 岚图泰山实测 汽车之家",
+          "time": "09:08",
+          "title": "【冰火两重天：国内燃油车价格大幅跳水新能源车坚挺未见松动】近期燃油车掀降价狂潮，部分豪华车型最高降30万，平价款裸价下探到5万区间，头部新能源品牌终端售价几乎无松动，热门款还需等车，业内判断当前燃油车价已接近底部，后续大幅下探空间很小。 - 手机新浪网",
+          "summary": "【冰火两重天：国内燃油车价格大幅跳水新能源车坚挺未见松动】近期燃油车掀降价狂潮，部分豪华车型最高降30万，平价款裸价下探到5万区间，头部新能源品牌终端售价几乎无松动，热门款还需等车，业内判断当前燃油车价已接近底部，后续…",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OaXRhdVJ3d1QzajFqd1pTbTlJaENhMW1Kb09MWWlyczBXV3dETS16Y2hIYk9BM1p5eEpnZGR2dmpJYkZibnFEUVo5SlV2YlVseTB6NkJ4LWN3RUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91VG1ENlNaWXdiQnV1eHFmYTZwOVdKbzRSekdIMzZZUFBMWTQ0UjBCR1hMa1NxS0lWalBUMFJiSlN4Q2hTS3dUdldzN2k0YnQxU0JVc0RaRmRvdjBrOElmTE44OA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:34",
-          "title": "岚县召开新能源项目暨绿电园区建设推进会 - 搜狐网",
-          "summary": "岚县召开新能源项目暨绿电园区建设推进会 搜狐网",
+          "time": "09:06",
+          "title": "冰火两重天：国内燃油车价格大幅跳水 新能源车坚挺未见松动 - 驱动之家",
+          "summary": "冰火两重天：国内燃油车价格大幅跳水 新能源车坚挺未见松动 驱动之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQmoxTWtmQXZfc20tcTFjcmV4cFVPVTVOVGVZZ2xadnBHaXEzc1hGeGRBS3ZBWEUtV1JPNzJ5cHZOeldTODZmQXgxZzNYTWVBTW5NWTlHYWJPMVhwdldJT3RQTDZpVWdiUjJXWVZ0YzY2bkxOR2R0VGxjSmo0SUJ1LXZvMXA2OC1X?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SR1ZYYWJjamVJWk43bzAzc3VjS1RIVVRYYld2OUNfVHJLYnRWMElBVkdONWc4U0U2ZkxVZDJ3dlJPUGFMVElnYzU5dmZvR1pmYzUwbWFWTng?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "临汾恒源新能源有限公司曲沃县恒源200MW/400MWh储能电站建设项目工程总承包中标候选人公示 - 碳索储能网",
+          "text": "完善纯电+插混产品布局，加速新能源转型落地。 市场表现战绩斐然，ID. ERA 9X上市5天交付2326台 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBSbGEyUEdZVmphZFM1dTBMbkZwQ2VhSDc1OTNEMS15Z1lGcTJNS1Q3T2x2NWZqeEM1Z0hWck0tRXFWcEdoZnFnMFdJQ2RKLVVkRW5CMzNvWVpTRF9XdkI1Uw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80a3hXUzI0Q0FEN3prY0Fnanl3VHZRVTJVTllMX3hwRU9leUhNMDdQa1BpbzctMEtnOEdLejM0NWlLMjdCc2l3eklaaDlCU2ZGRmlIa1hCc0RURWk2YTBscy16UQ?oc=5"
         },
         {
-          "text": "国企进化论 | 一艘新能源船舶的“绿色账本” - 搜狐网",
+          "text": "5月新能源车企销量：月销首破8万台，谁能阻止零跑？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcWNiSXpvNW0wa2VWemRTZ0sxdzJyLTA2WUM2UkhGbHExTHBhQW9XRzV2VHVNM1FwamExQWVpTEM2MEZfVmxGNzFWNW9mQVNmMVU1M2VwSXM1UUhabUhGUDlKX0lYdTBvSExRZ0J2TU1zWGU1Nkg5cndDY0dVTm5sQXlRUjNKZGlaYWFMdQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qOWhxTk1UYjFfdkdIcTVwQUNvdTlCY21mSkkxMkpidE5jdWpNUlp6aEVSc25GWG1iOTVyUzJHb3FUWGh5ajFYek9hNnlaSHhLQzl5dU9zVmc5MnM?oc=5"
         },
         {
-          "text": "安徽智杰新能源获6年承装（修、试）电力设施许可证，电力业务资质落定 - 新浪财经",
+          "text": "新能源车开了四年就要换？新能源车迭代过快该咋看？ - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMENYa2FwV2VSbmhpQjN6Y2pBTEVTQkstTG83T0JUSjBzLW9HOW45TExCdWNyZTJ6Z0tqcVYwRkFyb3lwQ2lUNm1XRTFHVWdaZVFadzlfM3RiRVdha1JtWFg3QWxSVE42Ync2MlhjdGZHQTVXaGhCZGU1cnhYbk82SVlfVjZxRUM5Zm9GRzdLamRoWDZHREZZeXlReTdXZGd1c0pMYWd3WnF0TVlCZmdHWWlJSDZ2emkzWWlMMThPeS1RbzRZYXViV1daaTYzOVJaYThtQVhDQmxFTUtJRG9JbE9yWjI5TlRCR3ZQWWYyRzVhM3drdm0zRElfeEo?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVaUlpWWVhblk3QUcycjh6SXFaeURvWU5uMWs1UW9BbTJuTi1IYko0ZURBYUVCTVBlUWhfVTJwdzhnNlVPUk10UHRWdVkzcUpHUUE?oc=5"
         },
         {
-          "text": "5月新能源渗透率63%，卖得越多反而越焦虑？ - 汽车之家",
+          "text": "福田欧马可智蓝新能源压缩垃圾车，容积6.5方 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5US2ZEeC00NWw0MGktRXVZTXBZUkhSemJoWTRoSzk0MjJZazVsM0Y0Z3l3LTZJQ0xva1ItZG0tZGVsd2szdUtBTWJNNUw3dFZkR2ROQUxMaWZCYm8?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02TjR5M0FGTkQ0TlY5M0E0Q185TE9OWEV3XzRDMG5GaXRNd24wS2ZkWjBTcVRXaUJURV9uZ3ZHbkEyLTNyU29IeEpTanpIelJQNVNqb3kwWkNES00?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:14",
+          "title": "Scientists discover a quantum effect that could eliminate batteries",
+          "summary": "Researchers have discovered how microscopic imperfections and atomic vibrations can be used to control a powe…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260603023917.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "12:30",
           "title": "New light-powered chip could accelerate AI and quantum computing",
           "summary": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one dev…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "18:17",
-          "title": "The forgotten organ that could predict how long you live",
-          "summary": "A long-overlooked organ may hold surprising clues to healthy aging and cancer survival. Researchers at Mass G…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "The forgotten organ that could predict how long you live",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm"
+        },
         {
           "text": "This strange crystal acts like metal and glass at the same time",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "This strange new phase of matter could transform quantum technology",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/05/260529043638.htm"
-        },
-        {
-          "text": "Stanford quantum computing breakthrough uses twisted light to work without extr…",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260528074028.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:15",
-          "title": "Introducing new capabilities to GPT-Rosalind",
-          "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertis…",
+          "time": "20:00",
+          "title": "How Endava is redesigning software delivery around AI agents",
+          "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
+          "url": "https://openai.com/index/endava-frontiers"
         },
         {
           "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-          "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x…",
+          "time": "18:50",
+          "title": "How courts are coping with a flood of AI-generated lawsuits",
+          "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stac…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/wasmer"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
         }
       ],
       "briefs": [
         {
-          "text": "A blueprint for democratic governance of frontier AI",
+          "text": "Dreaming: Better memory for a more helpful ChatGPT",
           "source": "OpenAI",
-          "url": "https://openai.com/index/frontier-safety-blueprint"
+          "url": "https://openai.com/index/chatgpt-memory-dreaming"
         },
         {
-          "text": "OpenAI public policy agenda",
+          "text": "Biodefense in the Intelligence Age",
           "source": "OpenAI",
-          "url": "https://openai.com/index/public-policy-agenda"
+          "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
         },
         {
-          "text": "Travelers deploys AI-powered claims countrywide with OpenAI",
+          "text": "Introducing new capabilities to GPT-Rosalind",
           "source": "OpenAI",
-          "url": "https://openai.com/index/travelers"
+          "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
         },
         {
-          "text": "Rehumanizing global health care with agentic AI",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/"
+          "text": "How Wasmer used Codex to build a Node.js runtime for the edge",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/wasmer"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:45",
-          "title": "Scaling Nanoribbon Transistors with Monolayer TMDs (Stanford, Chalmers, Horiba, SLAC)",
-          "summary": "Researchers from Stanford University, Chalmers University of Technology, HORIBA Scientific, and SLAC National…",
+          "time": "21:00",
+          "title": "NSF Experiments With New Kind of Science Funding",
+          "summary": "Uncle Sam wants you to solve big scientific and engineering bottlenecks outside the hallowed walls of academi…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/scaling-nanoribbon-transistors-with-monolayer-tmds-stanford-chalmers-horiba-slac/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/nsf-x-labs"
         },
         {
           "priority": "重点看点 02",
-          "time": "22:38",
-          "title": "Blog Review: Jun. 3",
-          "summary": "Verification IP; system-technology co-optimization; PCIe 7.0 ordering; design data challenges; process digita…",
+          "time": "15:13",
+          "title": "Orbital Data Centers Are Souped-Up Satellites – For Now",
+          "summary": "Satellite constellations with extra onboard compute are several steps away from handling full AI workloads fo…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-jun-3/"
+          "url": "https://semiengineering.com/orbital-data-centers-are-souped-up-satellites-for-now/"
         }
       ],
       "briefs": [
         {
-          "text": "1 Megawatt Racks In Data Centers",
+          "text": "Keeping Security Algorithms Current Is Getting Harder",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/1-megawatt-racks-in-data-centers/"
+          "url": "https://semiengineering.com/keeping-security-algorithms-current-is-getting-harder/"
         },
         {
-          "text": "From Circuits to Systems: Unlocking the Power of Periodic Steady-State Analysis…",
+          "text": "AI-Defined Vehicles Increase Pressure On Auto Ethernet Reliability",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/from-circuits-to-systems-unlocking-the-power-of-periodic-steady-state-analysis-ebook/"
+          "url": "https://semiengineering.com/ai-defined-vehicles-increase-pressure-on-auto-ethernet-reliability/"
         },
         {
-          "text": "Centralized Architecture for Automotive ADAS/AD Radar Based on Raw-ADC-Data",
+          "text": "Securing Terabit Ethernet For AI: Where MACsec, IPsec, And UET TSS Each Fit (An…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/centralized-architecture-for-automotive-adas-ad-radar-based-on-raw-adc-data/"
+          "url": "https://semiengineering.com/securing-terabit-ethernet-for-ai-where-macsec-ipsec-and-uet-tss-each-fit-and-why-you-need-more-than-one/"
         },
         {
-          "text": "Connectivity and Compute in Next-Gen Edge Devices",
+          "text": "Breaking The “Unhackable” Xbox One",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/connectivity-and-compute-in-next-gen-edge-devices/"
+          "url": "https://semiengineering.com/breaking-the-unhackable-xbox-one/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:40",
-          "title": "如何破解AI落地断层？SAP在华发布“自主运营企业”战略 - 搜狐网",
-          "summary": "如何破解AI落地断层？SAP在华发布“自主运营企业”战略 搜狐网",
+          "time": "04:53",
+          "title": "久祺股份：公司管理层持续聚焦主业经营，夯实内在经营价值 - 东方财富",
+          "summary": "久祺股份：公司管理层持续聚焦主业经营，夯实内在经营价值 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzFEYklENWpmeXZLVzF5WmlVWmREelI4dmlWOExmTUZNTWFvd2t3TFhtdWZQT0E5ZkRMeWRjUVI0WWpoWkR2TXNvcmFBMjFObTZVUDM1S1Z5alRFcTRLVWQ1TWtXNndNOUlXWGZFVGROV0tLVm1sTnVxMGxhb19LSDdjQ0Q0d2ZQZDk5OA?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zN1kwRGtJSWZDRTFOYTZZaEFEQmVQZWR2dGFlRUsxRGIxR2k4LVJIem9zVEY0UXRMalpiLVpVSzdjdElQZ0pZdmp4QllaVlhhaWY0WWdWcUxOWExQeFhhUzBwS2FQZw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:12",
-          "title": "2026年成都股权变更代办机构实测评测：成都财税公司/成都会计服务/成都公司注册/合规与效率对比 - 邢台网",
-          "summary": "2026年成都股权变更代办机构实测评测：成都财税公司/成都会计服务/成都公司注册/合规与效率对比 邢台网",
+          "time": "19:51",
+          "title": "怡合达(301029):控股股东、实际控制人及其一致行动人权益变动的提示性公告 - 中财网",
+          "summary": "怡合达(301029):控股股东、实际控制人及其一致行动人权益变动的提示性公告 中财网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZSnp4amZ2OFdDMTgxRDRlRWpCcFU1SWx0bHJVRlRYRlJxLWhHQzdXU05tWHU4SDFyRk5fTVZYdmd1dlp3UmlPOW1TeGpnU0dqdUNKLVN2eTBSWHM1X1hIeXZkN25xQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aRUF1Z3lxZU1BdFIwTWVneHV0RE5KLWFnRVhwZk5tbl9BVlg5eF9PdVdlc3pUWGNlME5NTVg0UDBQeHZqcW1PTldBa2xEVVFSNkNvSEZn?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "马印外长周四出席JCBC会议 加强经济合作保障供应链韧性 - mediaselangor.com",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uTUp2SnY1TFIxRmIzSDBscGlvUEdxX01HMkdIVzFBRVR4eW1rZlRVNm1xYXhlOWFhT1pMd29DeVpxLTJRZE1JUDZDOXFXN1FXSXV1ODR3?oc=5"
-        },
-        {
-          "text": "Global initiative releases draft framework for corporate social disclosures - E…",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRmdjSFo1aW9ucDhSYVpGX1J6Y0MtMGR6NmNWdVNpRDREbUlSbTN6UFVodDJMVUkyclhJeEF5b0dRb1ZGVWdXVms3WUF3RTZUMTVVUU93a01HVnBmdi1qTFRLUS04WHUxWGhNcUQxcmNWamJpTFM5RmF0a3VrY1NNamlKb3lSRHFNa0I1SzZ4NUdNdXYtX0ZjR2FPOGNqNEpyOVQ2U2JXYUEweDBMV1ZtaEd3?oc=5"
-        },
-        {
-          "text": "IGL Appoints Ajai Tyagi as Head of Business Development & Corporate Strategy to…",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzlGM1g0YUlaZmlCd2E5Sm9LNzhaVV9KUDRTTzljUTREMmNQekhoS0tlRW9nTm9zZmREVm9yRG1lUEdNOFVfRlF4cXB3MEVBdU5NMjZ6cVo5N0FIdGRYQWVuWnVZdU5LbUZWUTB1dUgxaFkxazdEelpOZW5tWm1xNWJsN3lpbnZ3Q29FNXhSd19VeFlyUGpDR1BfSFN1a0JuOUFNRVF2dWVMSWFGdDhBbA?oc=5"
-        },
-        {
-          "text": "代理公司管理层轮番上阵，狠薅外卖骑手与公司“羊毛”，4人被判刑 - 搜狐网",
+          "text": "科德教育(300192):子公司管理制度（2026年6月） - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDhHc2FOVjhkbktRVGlpMUlzcHNnekwzTTd0NVgzSjVpeXN3UmJTYmx0T0J6M3RmYzNFbXRvckFkaU4zcnEyQS03SERzZTBUbHhpbG5DdjMyem5wU2FGdElFTmh6VEZzbW5uVHpZMmJjaEVwcVJ5YW9nSFRNWkM3WllQSnJ2eDg4WHNFSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92TWEwaUdoMkpYUmlydXZxU1VnYy1zWmprS3R6YTViY2tUR3hTdWJEZFBXemRfdk85dU5BNHBEeERSTGZBbFRlbUxlNm9lMEJldHJMRm9B?oc=5"
+        },
+        {
+          "text": "当好“服务员+牵线人”哈尔滨新区促成中俄企业战略合作 - 搜狐网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONnJVcjJuNWxPdERJWFBtVWJRN19RNllzVUtkb2huLTlXNTBhWExlbjFDNHlMOVFLdFhnY0pFem5MbVBBVnJ3cWVsa2V4MFBpYlFINkRkVTBSRkN5SzROWVdEeWphWHpQWl9BRENkTko4Z1RobXpuaFNqTEtUWnBGOXg2YUJYOXJtS01UTg?oc=5"
+        },
+        {
+          "text": "成都市华格展益企业管理合伙企业成立，出资额约1.45亿 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYVpoQ0tGN1ZpSWtpZ2VvSTZsdjFFOGtwdlpCaXBYSUJVTS1tcVNOeEtpUFJCTFVhQ1dUQTJuNEZGd1VNSU1fWVhuS0RMMHBTeWRTV3VUajRjMEh3Y1BuM2liOVkwRnh3MHo5NkNIbThYdXBsdGFJS2FHdTZwOHhGSzk4YUdmQXNZWVdlSU5nS2RrY3M2RFhxNQ?oc=5"
+        },
+        {
+          "text": "泸州老窖等在成都成立新合伙企业 出资额约1.45亿 - 观点网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFa2lxRE1xbm9wWWFpLTJ1V0FFMDhkbGpVam9hZUsxMUhEQmxBSzNNWXc0cFBMbHVMWnNfTklVOTRkcHloYW9lUTFVWUdQREFrV1RHOTBiNzdrRkMzdlg1TVdB?oc=5"
         }
       ]
     }
