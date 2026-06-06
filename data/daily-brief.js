@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月5日",
+  "publishDate": "2026年6月6日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【冰火两重天：国内燃油车价格大幅跳水新能源车坚挺未见松动】近期燃油车掀降价狂潮…",
+      "title": "深圳出台新能源车险高质量发展“深十条” - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Scientists discover a quantum effect th…",
+      "title": "AI-designed universal coronavirus vacci…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Yemen: Hunger crisis deepens as funding…",
+      "title": "Haiti: Harrowing needs must be met with…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:08",
-          "title": "【冰火两重天：国内燃油车价格大幅跳水新能源车坚挺未见松动】近期燃油车掀降价狂潮，部分豪华车型最高降30万，平价款裸价下探到5万区间，头部新能源品牌终端售价几乎无松动，热门款还需等车，业内判断当前燃油车价已接近底部，后续大幅下探空间很小。 - 手机新浪网",
-          "summary": "【冰火两重天：国内燃油车价格大幅跳水新能源车坚挺未见松动】近期燃油车掀降价狂潮，部分豪华车型最高降30万，平价款裸价下探到5万区间，头部新能源品牌终端售价几乎无松动，热门款还需等车，业内判断当前燃油车价已接近底部，后续…",
+          "time": "08:11",
+          "title": "深圳出台新能源车险高质量发展“深十条” - 新浪财经",
+          "summary": "深圳出台新能源车险高质量发展“深十条” 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91VG1ENlNaWXdiQnV1eHFmYTZwOVdKbzRSekdIMzZZUFBMWTQ0UjBCR1hMa1NxS0lWalBUMFJiSlN4Q2hTS3dUdldzN2k0YnQxU0JVc0RaRmRvdjBrOElmTE44OA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLU9IbEhqTXJIVDBYQURuVHhWZHR2NWpwNU9Yb1ZlTmJJZmhwRzBSUnVTcTg3RTVrbU9za3hfelY1QXYtdE9wZ3hRUTgxVmNVVzVuOV9KV0JXeG5UUjdYZlBwejA1U3JYU3g0elFwaE9iLXRBYVFUT21JdzBETDlISzF6RDZ1OElGdFRUQ3NJaTdMWDdRdFBtSWZPckRnb3loRmdtb01PNTBvMnpRajV5LVhXRXQtVWh3ell6SVVldjVNMjE4blk3OFU2VEFLRmdmZnJtS0NXZnNrdw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:06",
-          "title": "冰火两重天：国内燃油车价格大幅跳水 新能源车坚挺未见松动 - 驱动之家",
-          "summary": "冰火两重天：国内燃油车价格大幅跳水 新能源车坚挺未见松动 驱动之家",
+          "time": "07:47",
+          "title": "新能源汽车“越长越胖”，轻量化成行业发展必答题！ - 新浪财经",
+          "summary": "新能源汽车“越长越胖”，轻量化成行业发展必答题！ 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SR1ZYYWJjamVJWk43bzAzc3VjS1RIVVRYYld2OUNfVHJLYnRWMElBVkdONWc4U0U2ZkxVZDJ3dlJPUGFMVElnYzU5dmZvR1pmYzUwbWFWTng?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWJKN1JuWVFhNXBLTC1XaTFoQnRNcGMtcnM3dVNLSzVSN0RhdS1FdUNaQ2JKSDBlcmUxOG9ONVkzdjdZaExWRFJDOWVKYXJ0SkhuRlJTMkpkbXhNdTFydnVwY0dZclFZMVR1THlmNkdGSjZ5eTdDbmhiTlk5S3dmQw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "完善纯电+插混产品布局，加速新能源转型落地。 市场表现战绩斐然，ID. ERA 9X上市5天交付2326台 - 手机新浪网",
+          "text": "“电车是时候交养路费了”冲上热搜！网友吵翻 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80a3hXUzI0Q0FEN3prY0Fnanl3VHZRVTJVTllMX3hwRU9leUhNMDdQa1BpbzctMEtnOEdLejM0NWlLMjdCc2l3eklaaDlCU2ZGRmlIa1hCc0RURWk2YTBscy16UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZk9jWDRWTlZCbENackQyWTZYd3NVTFBxY3ZGaDFDVmN4THBUTzA4UGNCRmIwYnZQTGxYd0NVMEhuWkZ4aXFHdkZ6VmJsa2pCNmNjYkt4enh5NFp2enktcTlEQlVMS29iUjVoSjhhX3ZncmJFUUlZakVvT25yamNncENVX1QwZTV1ckhHQjFSMUczODVTWm9uZw?oc=5"
         },
         {
-          "text": "5月新能源车企销量：月销首破8万台，谁能阻止零跑？ - 汽车之家",
+          "text": "6月5日新能源ETF华夏基金份额增加200万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qOWhxTk1UYjFfdkdIcTVwQUNvdTlCY21mSkkxMkpidE5jdWpNUlp6aEVSc25GWG1iOTVyUzJHb3FUWGh5ajFYek9hNnlaSHhLQzl5dU9zVmc5MnM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DbXAxa0w2Vl9zSGtmWjJpSDZ1QVk3eWhfSkpkaFFSaWZOQk1TOHJYY21NUUNJYUpzQ1lsSS1oZ0U3bHBKb2JIanFKTk82X3hJa1RuS3VNY3JmWFhQZHVJMGln?oc=5"
         },
         {
-          "text": "新能源车开了四年就要换？新能源车迭代过快该咋看？ - 搜狐网",
+          "text": "6月5日新能源车ETF华安基金份额减少100万份，重仓股比亚迪、宁德时代、汇川技术_基金提醒_雷达 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVaUlpWWVhblk3QUcycjh6SXFaeURvWU5uMWs1UW9BbTJuTi1IYko0ZURBYUVCTVBlUWhfVTJwdzhnNlVPUk10UHRWdVkzcUpHUUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wTnRPXzNobW9teWZ0YlB3SWlVczV4Q3puQURvREpiV19jOEhOYWk1MUYtTmNDRHREZWJyTGg0QTJNZHk2Yl8tM2JnRlE4cXNCNHBfVzFkX2xiQ3NTTW92TlVB?oc=5"
         },
         {
-          "text": "福田欧马可智蓝新能源压缩垃圾车，容积6.5方 - 汽车之家",
+          "text": "6月5日新能源ETF博时基金份额增加100万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02TjR5M0FGTkQ0TlY5M0E0Q185TE9OWEV3XzRDMG5GaXRNd24wS2ZkWjBTcVRXaUJURV9uZ3ZHbkEyLTNyU29IeEpTanpIelJQNVNqb3kwWkNES00?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91bEZPa3Jhd2lHT1RWWlg5OUxHTDNsdk1pMVc3dkxsSG5QZkFZdHNMUlZKNVZSLVZRS19fQTNfU0VqLUtuaFNhNXBIa1Y1SjFrREQ2cTZsc3VtNHp3ZDhmek13?oc=5"
         }
       ]
     },
@@ -74,43 +74,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:14",
-          "title": "Scientists discover a quantum effect that could eliminate batteries",
-          "summary": "Researchers have discovered how microscopic imperfections and atomic vibrations can be used to control a powe…",
+          "time": "23:42",
+          "title": "AI-designed universal coronavirus vaccine passes first human trial",
+          "summary": "Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260603023917.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm"
         },
         {
           "priority": "重点看点 02",
-          "time": "12:30",
-          "title": "New light-powered chip could accelerate AI and quantum computing",
-          "summary": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one dev…",
+          "time": "17:07",
+          "title": "Scientists discover a hidden quantum world inside cobalt",
+          "summary": "Scientists have uncovered unexpected quantum complexity inside cobalt, a metal long thought to be fully under…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm"
         }
       ],
       "briefs": [
         {
+          "text": "Scientists are seriously asking if bees and ChatGPT are conscious",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm"
+        },
+        {
+          "text": "Scientists discover a quantum effect that could eliminate batteries",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260603023917.htm"
+        },
+        {
+          "text": "New light-powered chip could accelerate AI and quantum computing",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm"
+        },
+        {
           "text": "The forgotten organ that could predict how long you live",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm"
-        },
-        {
-          "text": "This strange crystal acts like metal and glass at the same time",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260601025322.htm"
-        },
-        {
-          "text": "New 3D silicon chip breakthrough could extend Moore’s Law for years",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260530053412.htm"
-        },
-        {
-          "text": "This strange new phase of matter could transform quantum technology",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/05/260529043638.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Yemen: Hunger crisis deepens as funding cuts leave millions without support",
-          "summary": "Nearly half of the population in Government-controlled areas of Yemen are facing high levels of acute food in…",
+          "title": "Haiti: Harrowing needs must be met with long-term engagement",
+          "summary": "Escalating gang violence across Haiti has pushed displacement to record levels, deepening an already severe h…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167643"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167661"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Regional health agency issues measles alert for World Cup",
-          "summary": "As World Cup fever rises in the Americas, countries are urged to strengthen measles surveillance and vaccinat…",
+          "title": "Lebanon crisis: Needs soar as UN launches new funding appeal",
+          "summary": "The UN in Lebanon appealed for an additional $331.5 million on Friday to help 1.4 million people in crisis as…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167642"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167659"
         }
       ],
       "briefs": [
         {
-          "text": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia…",
+          "text": "AI’s environmental costs threaten water, land and climate",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167641"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167658"
         },
         {
-          "text": "World News in Brief: UN urges restraint as Gulf tensions rise, fear and uncerta…",
+          "text": "Building trust on patrol: One police officer’s peacekeeping journey in South Su…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167639"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167656"
         },
         {
-          "text": "Kyrgyzstan wins seat on UN Security Council for first time ever",
+          "text": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa,…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167636"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167655"
         },
         {
-          "text": "‘We are catching up’ – WHO chief on DR Congo’s Ebola fight",
+          "text": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shock…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167632"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167653"
         }
       ]
     },
@@ -170,24 +170,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "17:00",
+          "title": "The Meta hack shows there’s more to AI security than Mythos",
+          "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagr…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "20:00",
           "title": "How Endava is redesigning software delivery around AI agents",
           "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
           "url": "https://openai.com/index/endava-frontiers"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "18:50",
-          "title": "How courts are coping with a flood of AI-generated lawsuits",
-          "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stac…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
         }
       ],
       "briefs": [
+        {
+          "text": "How courts are coping with a flood of AI-generated lawsuits",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
+        },
         {
           "text": "Dreaming: Better memory for a more helpful ChatGPT",
           "source": "OpenAI",
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "Introducing new capabilities to GPT-Rosalind",
           "source": "OpenAI",
           "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
-        },
-        {
-          "text": "How Wasmer used Codex to build a Node.js runtime for the edge",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/wasmer"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:00",
-          "title": "NSF Experiments With New Kind of Science Funding",
-          "summary": "Uncle Sam wants you to solve big scientific and engineering bottlenecks outside the hallowed walls of academi…",
+          "time": "01:18",
+          "title": "Read-Centric DTCO for IGZO FeFETs 3D Heterogeneous AI memories (imec, KU Leuven)",
+          "summary": "Researchers from imec and KU Leuven have published “DTCO of NOR-Type IGZO FeFETs for 3D Heterogeneous AI Memo…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/nsf-x-labs"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/read-centric-dtco-for-igzo-fefets-3d-heterogeneous-ai-memories-imec-ku-leuven/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:13",
-          "title": "Orbital Data Centers Are Souped-Up Satellites – For Now",
-          "summary": "Satellite constellations with extra onboard compute are several steps away from handling full AI workloads fo…",
+          "time": "00:55",
+          "title": "Accelerating Zero-Knowledge Proof Generation With Reconfigurable Hardware (KAIST)",
+          "summary": "Researchers from Korea Advanced Institute of Science and Technology (KAIST) have published “ZK-Flex: A Flexib…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/orbital-data-centers-are-souped-up-satellites-for-now/"
+          "url": "https://semiengineering.com/accelerating-zero-knowledge-proof-generation-with-reconfigurable-hardware-kaist/"
         }
       ],
       "briefs": [
         {
-          "text": "Keeping Security Algorithms Current Is Getting Harder",
+          "text": "Analyzing Rowhammer Vulnerability in Monolithic 3D IWO eDRAM for Edge (ASU, Geo…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/keeping-security-algorithms-current-is-getting-harder/"
+          "url": "https://semiengineering.com/analyzing-rowhammer-vulnerability-in-monolithic-3d-iwo-edram-for-edge-asu-georgia-tech/"
         },
         {
-          "text": "AI-Defined Vehicles Increase Pressure On Auto Ethernet Reliability",
+          "text": "Reduce Memory Redesigns With Shift-Left",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-defined-vehicles-increase-pressure-on-auto-ethernet-reliability/"
+          "url": "https://semiengineering.com/reduce-memory-redesigns-with-shift-left/"
         },
         {
-          "text": "Securing Terabit Ethernet For AI: Where MACsec, IPsec, And UET TSS Each Fit (An…",
+          "text": "Chip Industry Week In Review",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/securing-terabit-ethernet-for-ai-where-macsec-ipsec-and-uet-tss-each-fit-and-why-you-need-more-than-one/"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-141/"
         },
         {
-          "text": "Breaking The “Unhackable” Xbox One",
+          "text": "A Comprehensive Approach To 3D-IC Physical Verification",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/breaking-the-unhackable-xbox-one/"
+          "url": "https://semiengineering.com/a-comprehensive-approach-to-3d-ic-physical-verification/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Yemen: Hunger crisis deepens as funding cuts leave millions without support",
-          "summary": "Nearly half of the population in Government-controlled areas of Yemen are facing high levels of acute food in…",
+          "title": "Haiti: Harrowing needs must be met with long-term engagement",
+          "summary": "Escalating gang violence across Haiti has pushed displacement to record levels, deepening an already severe h…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167643"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167661"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Regional health agency issues measles alert for World Cup",
-          "summary": "As World Cup fever rises in the Americas, countries are urged to strengthen measles surveillance and vaccinat…",
+          "title": "Lebanon crisis: Needs soar as UN launches new funding appeal",
+          "summary": "The UN in Lebanon appealed for an additional $331.5 million on Friday to help 1.4 million people in crisis as…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167642"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167659"
         }
       ],
       "briefs": [
         {
-          "text": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia…",
+          "text": "AI’s environmental costs threaten water, land and climate",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167641"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167658"
         },
         {
-          "text": "World News in Brief: UN urges restraint as Gulf tensions rise, fear and uncerta…",
+          "text": "Building trust on patrol: One police officer’s peacekeeping journey in South Su…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167639"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167656"
         },
         {
-          "text": "Kyrgyzstan wins seat on UN Security Council for first time ever",
+          "text": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa,…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167636"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167655"
         },
         {
-          "text": "‘We are catching up’ – WHO chief on DR Congo’s Ebola fight",
+          "text": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shock…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167632"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167653"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:53",
-          "title": "久祺股份：公司管理层持续聚焦主业经营，夯实内在经营价值 - 东方财富",
-          "summary": "久祺股份：公司管理层持续聚焦主业经营，夯实内在经营价值 东方财富",
+          "time": "00:45",
+          "title": "小小陪考假，映照企业管理的大智慧 - 搜狐网",
+          "summary": "小小陪考假，映照企业管理的大智慧 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zN1kwRGtJSWZDRTFOYTZZaEFEQmVQZWR2dGFlRUsxRGIxR2k4LVJIem9zVEY0UXRMalpiLVpVSzdjdElQZ0pZdmp4QllaVlhhaWY0WWdWcUxOWExQeFhhUzBwS2FQZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjd5TXQxc0JWV3B6RzFEZ0hFYjE4TDI0N1hyeWdsSHg0UlA0Rmtqc3pCNXlmY2daNU1GY2pLU3p2aEhTbUxjMmVING5PcE9HTm10T25lZ2NnSkdHaGNqaXRzclVNalZRT3lWbVlKX1MyVUlEUDRqUWlRVW5KTDRfUFVJRV9mOEcteEMwQQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:51",
-          "title": "怡合达(301029):控股股东、实际控制人及其一致行动人权益变动的提示性公告 - 中财网",
-          "summary": "怡合达(301029):控股股东、实际控制人及其一致行动人权益变动的提示性公告 中财网",
+          "time": "00:20",
+          "title": "金帝股份（603270）股东聊城市金帝企业管理咨询有限公司质押924万股，占总股本4.22% - 证券之星",
+          "summary": "金帝股份（603270）股东聊城市金帝企业管理咨询有限公司质押924万股，占总股本4.22% 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aRUF1Z3lxZU1BdFIwTWVneHV0RE5KLWFnRVhwZk5tbl9BVlg5eF9PdVdlc3pUWGNlME5NTVg0UDBQeHZqcW1PTldBa2xEVVFSNkNvSEZn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GVzBpVlNVTjMxZjVmNjdITjR1SzFwZEJrenc3ME9zRThESHJRS1pWVndCdUVBdHZKMkplN01IWklQeFJfNnVxcUR5aUZKOFNQUFJISXVlaXFFa000aEk5bUNB?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "科德教育(300192):子公司管理制度（2026年6月） - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92TWEwaUdoMkpYUmlydXZxU1VnYy1zWmprS3R6YTViY2tUR3hTdWJEZFBXemRfdk85dU5BNHBEeERSTGZBbFRlbUxlNm9lMEJldHJMRm9B?oc=5"
-        },
-        {
-          "text": "当好“服务员+牵线人”哈尔滨新区促成中俄企业战略合作 - 搜狐网",
+          "text": "Here Group第三财季营收下滑，公司战略重心转向自有IP 提供者 Investing.com - 英为财情 Investing.com",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONnJVcjJuNWxPdERJWFBtVWJRN19RNllzVUtkb2huLTlXNTBhWExlbjFDNHlMOVFLdFhnY0pFem5MbVBBVnJ3cWVsa2V4MFBpYlFINkRkVTBSRkN5SzROWVdEeWphWHpQWl9BRENkTko4Z1RobXpuaFNqTEtUWnBGOXg2YUJYOXJtS01UTg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SY00zcW94MUppWkRHUksxeVFUZl9LZUtuM1hURVZ2TGRaYUxBb2VtTHNiMkNhSnpWM0NmdnZDY1lWNEdlZS1kUE5NODQ2dTJkekVoQUd6dFRFOHU5MWs0QllXMUMwTVlBT2h5ajhtUQ?oc=5"
         },
         {
-          "text": "成都市华格展益企业管理合伙企业成立，出资额约1.45亿 - 新浪财经",
+          "text": "蔚严春｜《思想政治工作与企业管理》出版发行后的思考 - 乌有之乡",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYVpoQ0tGN1ZpSWtpZ2VvSTZsdjFFOGtwdlpCaXBYSUJVTS1tcVNOeEtpUFJCTFVhQ1dUQTJuNEZGd1VNSU1fWVhuS0RMMHBTeWRTV3VUajRjMEh3Y1BuM2liOVkwRnh3MHo5NkNIbThYdXBsdGFJS2FHdTZwOHhGSzk4YUdmQXNZWVdlSU5nS2RrY3M2RFhxNQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BWXNIU0dMQ1BxU2dyZkhXTHA1eWc1OFVzZnBjdzlxZ25aN05vRmVKbkxHWGlmMlZvYjV1QmFUbkRScTV5VUg5T2NIX3ZCc2h5eTNoOW9SVDRXLVQydFVOOHIzc2dxTzBTWXc?oc=5"
         },
         {
-          "text": "泸州老窖等在成都成立新合伙企业 出资额约1.45亿 - 观点网",
+          "text": "美邦股份(605033):陕西美邦药业集团股份有限公司关于股东名称变更 - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFa2lxRE1xbm9wWWFpLTJ1V0FFMDhkbGpVam9hZUsxMUhEQmxBSzNNWXc0cFBMbHVMWnNfTklVOTRkcHloYW9lUTFVWUdQREFrV1RHOTBiNzdrRkMzdlg1TVdB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zTkQwSy14WEtFYVI1ZHpVSGZzb1VGSmdaZ0V4VzlMYlJERk9PdkV3aEs2QjB6NTFnMTZsTURpZVdlYzMxMWhUZXdTX0oyNUcweTJBX2lR?oc=5"
+        },
+        {
+          "text": "“传统文化进企业”暨全民阅读公益活动在京举办 - 新华网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONDl2VHNyRndjV0dlSFZURkhUTVhHNXBnZXhYNEFsSjdvSGk2SHNhLUg5Rk54MUhkLW1LUjMzTC15X1puVGhfRmRWQUZoVFhkQ2RyN2REWXRVMkk3SGlCc3Y5WGVONDZRZXEwelNWR3NNRC00ZUtNZVZoZ3NFWTc0Yzk5NHFiOXcxNnZ1NzNzU0szMmk3VGtqcDN3?oc=5"
         }
       ]
     }
