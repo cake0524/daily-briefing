@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月6日",
+  "publishDate": "2026年6月7日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "深圳出台新能源车险高质量发展“深十条” - 新浪财经",
+      "title": "【网通社快报】全球37国新能源车销量创单月新高，多国市场加速转向电动车 - 凤…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "AI-designed universal coronavirus vacci…",
+      "title": "A tiny atomic shift gives scientists po…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Haiti: Harrowing needs must be met with…",
+      "title": "‘The ocean has no boundaries’: Beauty a…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:11",
-          "title": "深圳出台新能源车险高质量发展“深十条” - 新浪财经",
-          "summary": "深圳出台新能源车险高质量发展“深十条” 新浪财经",
+          "time": "08:07",
+          "title": "【网通社快报】全球37国新能源车销量创单月新高，多国市场加速转向电动车 - 凤凰网汽车",
+          "summary": "【网通社快报】全球37国新能源车销量创单月新高，多国市场加速转向电动车 凤凰网汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLU9IbEhqTXJIVDBYQURuVHhWZHR2NWpwNU9Yb1ZlTmJJZmhwRzBSUnVTcTg3RTVrbU9za3hfelY1QXYtdE9wZ3hRUTgxVmNVVzVuOV9KV0JXeG5UUjdYZlBwejA1U3JYU3g0elFwaE9iLXRBYVFUT21JdzBETDlISzF6RDZ1OElGdFRUQ3NJaTdMWDdRdFBtSWZPckRnb3loRmdtb01PNTBvMnpRajV5LVhXRXQtVWh3ell6SVVldjVNMjE4blk3OFU2VEFLRmdmZnJtS0NXZnNrdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wdGprUmsybXVvTXJ6aHJlSXNqOG1hM2ctVHJ3TldCYjdSVUZFOFktcF8wRmtTQjZId001OUgyRkpUUVFUQzhlUkZEVUM?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:47",
-          "title": "新能源汽车“越长越胖”，轻量化成行业发展必答题！ - 新浪财经",
-          "summary": "新能源汽车“越长越胖”，轻量化成行业发展必答题！ 新浪财经",
+          "time": "07:41",
+          "title": "深耕细分赛道 乐安聚力打造新能源新材料产业集群 - 凤凰网江西",
+          "summary": "深耕细分赛道 乐安聚力打造新能源新材料产业集群 凤凰网江西",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWJKN1JuWVFhNXBLTC1XaTFoQnRNcGMtcnM3dVNLSzVSN0RhdS1FdUNaQ2JKSDBlcmUxOG9ONVkzdjdZaExWRFJDOWVKYXJ0SkhuRlJTMkpkbXhNdTFydnVwY0dZclFZMVR1THlmNkdGSjZ5eTdDbmhiTlk5S3dmQw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE40OFZVMGtvNXctdVlzWG5ENHZoSzNBVzlQZFpQcG8wSlVTU1BKUzFWZkhISkR0UGV2R19YN0VTdDBXTEh3X085OENB?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "“电车是时候交养路费了”冲上热搜！网友吵翻 - 新浪财经",
+          "text": "车规级存储芯片价格暴涨180%！多款新能源车涨价了 - 凤凰网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZk9jWDRWTlZCbENackQyWTZYd3NVTFBxY3ZGaDFDVmN4THBUTzA4UGNCRmIwYnZQTGxYd0NVMEhuWkZ4aXFHdkZ6VmJsa2pCNmNjYkt4enh5NFp2enktcTlEQlVMS29iUjVoSjhhX3ZncmJFUUlZakVvT25yamNncENVX1QwZTV1ckhHQjFSMUczODVTWm9uZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLSGpyQWtja2N4RF9LTElHRWNtOXlxNk55c3c5RjFOQ0lqZFFwdlJlU1B4cmNaMm1mTnpyWUxMMGNhUDV6djNHSQ?oc=5"
         },
         {
-          "text": "6月5日新能源ETF华夏基金份额增加200万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 - 证券之星",
+          "text": "多款新能源汽车售价小幅上调 芯片涨价影响选装价格 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DbXAxa0w2Vl9zSGtmWjJpSDZ1QVk3eWhfSkpkaFFSaWZOQk1TOHJYY21NUUNJYUpzQ1lsSS1oZ0U3bHBKb2JIanFKTk82X3hJa1RuS3VNY3JmWFhQZHVJMGln?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UeW8yZFlFZUVoZlJaVXZHMnhKSzI5UWk2Y2ptSkpVTm5xeVhPMEZaZVh6aXVpcGF6Z2VpUzdCQjRIWERnaUgwUGQ5LVNrZEVNZng3MjBFbGFpV3Vod0NOSlVkZ0JiLTJGU0Qwa3Z0d1RCNDY4Y0NiOQ?oc=5"
         },
         {
-          "text": "6月5日新能源车ETF华安基金份额减少100万份，重仓股比亚迪、宁德时代、汇川技术_基金提醒_雷达 - 证券之星",
+          "text": "车市“电涨油降”？原因几何 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wTnRPXzNobW9teWZ0YlB3SWlVczV4Q3puQURvREpiV19jOEhOYWk1MUYtTmNDRHREZWJyTGg0QTJNZHk2Yl8tM2JnRlE4cXNCNHBfVzFkX2xiQ3NTTW92TlVB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNTBNSWRvSUlzY3B0alBKa3dBVnRsdzVSSURfY3JGV1RERUltOW1Ia2hMQnBWVi14aF9KTFJwQnhlYlExVElsbkpQMVFidENaY3JyV2JxX3JMdEh2c2VCazNtdGV1MnVRb2RXOWNLdXBzRWNjSGc2dUh4N1RXOHNKLTY4WDNxN1lJRFc1WENhZzgyNU5VdWwwSndldlZyRHJwbktxaGxoZ1dkdTVhUkdfRzJB?oc=5"
         },
         {
-          "text": "6月5日新能源ETF博时基金份额增加100万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 - 证券之星",
+          "text": "回归标准身材，新能源车“瘦身”进行时 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE91bEZPa3Jhd2lHT1RWWlg5OUxHTDNsdk1pMVc3dkxsSG5QZkFZdHNMUlZKNVZSLVZRS19fQTNfU0VqLUtuaFNhNXBIa1Y1SjFrREQ2cTZsc3VtNHp3ZDhmek13?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xZkQ3a3E5NTNCd19ISVhsbFp4RHFiTkhJQ1hYLXA5ckhwVVdCbHFnNFdsV1YwdG1rX19kQnBYTzRJYUp4dXNJRjJrMF91emg5dFE?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:42",
-          "title": "AI-designed universal coronavirus vaccine passes first human trial",
-          "summary": "Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time…",
+          "time": "13:27",
+          "title": "A tiny atomic shift gives scientists powerful control over metals",
+          "summary": "A team at the University of Minnesota discovered that changing a metal film's thickness by just a few nanomet…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023415.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "12:24",
+          "title": "NASA just proved spacecraft can switch between multiple satellite networks",
+          "summary": "NASA’s PExT terminal has shown that spacecraft can seamlessly communicate through multiple government and com…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023405.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "AI-designed universal coronavirus vaccine passes first human trial",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "17:07",
-          "title": "Scientists discover a hidden quantum world inside cobalt",
-          "summary": "Scientists have uncovered unexpected quantum complexity inside cobalt, a metal long thought to be fully under…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Scientists discover a hidden quantum world inside cobalt",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Scientists are seriously asking if bees and ChatGPT are conscious",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Scientists discover a quantum effect that could eliminate batteries",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260603023917.htm"
-        },
-        {
-          "text": "New light-powered chip could accelerate AI and quantum computing",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm"
-        },
-        {
-          "text": "The forgotten organ that could predict how long you live",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260601025352.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Haiti: Harrowing needs must be met with long-term engagement",
-          "summary": "Escalating gang violence across Haiti has pushed displacement to record levels, deepening an already severe h…",
+          "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
+          "summary": "When US and Israeli forces launched strikes on Iran on 28 February, triggering one of the most serious geopol…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167661"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167648"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Lebanon crisis: Needs soar as UN launches new funding appeal",
-          "summary": "The UN in Lebanon appealed for an additional $331.5 million on Friday to help 1.4 million people in crisis as…",
+          "title": "World News in Brief: Millions displaced in South Sudan, global meat supply quadruples, Middle East crisis deepens global hunger",
+          "summary": "Months of fighting and insecurity have forced hundreds of thousands of people to flee their homes in South Su…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167659"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167668"
         }
       ],
       "briefs": [
         {
-          "text": "AI’s environmental costs threaten water, land and climate",
+          "text": "Faith, fear and trust: Inside DR Congo’s fight against Ebola",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167658"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167667"
         },
         {
-          "text": "Building trust on patrol: One police officer’s peacekeeping journey in South Su…",
+          "text": "‘The true cost of peace’: UN honours fallen peacekeepers as dangers mount",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167656"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167665"
         },
         {
-          "text": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa,…",
+          "text": "Haiti: Harrowing needs must be met with long-term engagement",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167655"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167661"
         },
         {
-          "text": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shock…",
+          "text": "Lebanon crisis: Needs soar as UN launches new funding appeal",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167653"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167659"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Haiti: Harrowing needs must be met with long-term engagement",
-          "summary": "Escalating gang violence across Haiti has pushed displacement to record levels, deepening an already severe h…",
+          "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
+          "summary": "When US and Israeli forces launched strikes on Iran on 28 February, triggering one of the most serious geopol…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167661"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167648"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Lebanon crisis: Needs soar as UN launches new funding appeal",
-          "summary": "The UN in Lebanon appealed for an additional $331.5 million on Friday to help 1.4 million people in crisis as…",
+          "title": "World News in Brief: Millions displaced in South Sudan, global meat supply quadruples, Middle East crisis deepens global hunger",
+          "summary": "Months of fighting and insecurity have forced hundreds of thousands of people to flee their homes in South Su…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167659"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167668"
         }
       ],
       "briefs": [
         {
-          "text": "AI’s environmental costs threaten water, land and climate",
+          "text": "Faith, fear and trust: Inside DR Congo’s fight against Ebola",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167658"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167667"
         },
         {
-          "text": "Building trust on patrol: One police officer’s peacekeeping journey in South Su…",
+          "text": "‘The true cost of peace’: UN honours fallen peacekeepers as dangers mount",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167656"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167665"
         },
         {
-          "text": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa,…",
+          "text": "Haiti: Harrowing needs must be met with long-term engagement",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167655"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167661"
         },
         {
-          "text": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shock…",
+          "text": "Lebanon crisis: Needs soar as UN launches new funding appeal",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167653"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167659"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "03:40",
+          "title": "中力股份(603194.SH)：湖州中提升企业管理合伙企业(有限合伙)减持792.45万股公司股份 - Moomoo",
+          "summary": "中力股份(603194.SH)：湖州中提升企业管理合伙企业(有限合伙)减持792.45万股公司股份 Moomoo",
+          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5naDJTSEJndURMX3VHWGQxYkFYT0pUdXRETktHSFZPQnpMNFhFVkxnNjdCWXBBbmlQWkJoZUNzZHNFSUI2T1lMRHhCRE1DNUcxS3R3V3lLa1h0Zw?oc=5"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "00:45",
           "title": "小小陪考假，映照企业管理的大智慧 - 搜狐网",
           "summary": "小小陪考假，映照企业管理的大智慧 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjd5TXQxc0JWV3B6RzFEZ0hFYjE4TDI0N1hyeWdsSHg0UlA0Rmtqc3pCNXlmY2daNU1GY2pLU3p2aEhTbUxjMmVING5PcE9HTm10T25lZ2NnSkdHaGNqaXRzclVNalZRT3lWbVlKX1MyVUlEUDRqUWlRVW5KTDRfUFVJRV9mOEcteEMwQQ?oc=5"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "00:20",
-          "title": "金帝股份（603270）股东聊城市金帝企业管理咨询有限公司质押924万股，占总股本4.22% - 证券之星",
-          "summary": "金帝股份（603270）股东聊城市金帝企业管理咨询有限公司质押924万股，占总股本4.22% 证券之星",
-          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GVzBpVlNVTjMxZjVmNjdITjR1SzFwZEJrenc3ME9zRThESHJRS1pWVndCdUVBdHZKMkplN01IWklQeFJfNnVxcUR5aUZKOFNQUFJISXVlaXFFa000aEk5bUNB?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "金帝股份（603270）股东聊城市金帝企业管理咨询有限公司质押924万股，占总股本4.22% - 搜狐网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15Nzl1VWxqYmk5ZzdnTkVsTXZCSG5jZkpXX3ppNVhTUUxiMUprd3NIc2Zma09OX0xNN3hzMVBac1lwc0RtY0pCVkdKRk56bzhqVkE?oc=5"
+        },
+        {
+          "text": "久祺股份：公司管理层持续聚焦主业经营，夯实内在经营价值 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05MElVTE03ZXFrYzRLZTVqbzQxbW0wdEJRbm9GSTZVSEpuUVh3aWhIQUVydWJJalNEcm5TTUR2bXF6blNidDQ5SmQ1TEx2OHJVc3RXZUpxT2t6aUZ3Umlsbg?oc=5"
+        },
+        {
+          "text": "东软智行与高通技术公司战略合作 共推智能座舱与舱驾融合等汽车智能化发展 - 富途牛牛",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Na01GRlJELUhXYzlhZEdTd1NTUmhWcHRmZG5wbVJObXdxdU5iTk5NOVlIelgzNWdiYjdpVEtIelI5ek1FX2xINF9qb2dEZ2FmVlE?oc=5"
+        },
+        {
           "text": "Here Group第三财季营收下滑，公司战略重心转向自有IP 提供者 Investing.com - 英为财情 Investing.com",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SY00zcW94MUppWkRHUksxeVFUZl9LZUtuM1hURVZ2TGRaYUxBb2VtTHNiMkNhSnpWM0NmdnZDY1lWNEdlZS1kUE5NODQ2dTJkekVoQUd6dFRFOHU5MWs0QllXMUMwTVlBT2h5ajhtUQ?oc=5"
-        },
-        {
-          "text": "蔚严春｜《思想政治工作与企业管理》出版发行后的思考 - 乌有之乡",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BWXNIU0dMQ1BxU2dyZkhXTHA1eWc1OFVzZnBjdzlxZ25aN05vRmVKbkxHWGlmMlZvYjV1QmFUbkRScTV5VUg5T2NIX3ZCc2h5eTNoOW9SVDRXLVQydFVOOHIzc2dxTzBTWXc?oc=5"
-        },
-        {
-          "text": "美邦股份(605033):陕西美邦药业集团股份有限公司关于股东名称变更 - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zTkQwSy14WEtFYVI1ZHpVSGZzb1VGSmdaZ0V4VzlMYlJERk9PdkV3aEs2QjB6NTFnMTZsTURpZVdlYzMxMWhUZXdTX0oyNUcweTJBX2lR?oc=5"
-        },
-        {
-          "text": "“传统文化进企业”暨全民阅读公益活动在京举办 - 新华网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONDl2VHNyRndjV0dlSFZURkhUTVhHNXBnZXhYNEFsSjdvSGk2SHNhLUg5Rk54MUhkLW1LUjMzTC15X1puVGhfRmRWQUZoVFhkQ2RyN2REWXRVMkk3SGlCc3Y5WGVONDZRZXEwelNWR3NNRC00ZUtNZVZoZ3NFWTc0Yzk5NHFiOXcxNnZ1NzNzU0szMmk3VGtqcDN3?oc=5"
         }
       ]
     }
