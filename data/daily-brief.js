@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月8日",
+  "publishDate": "2026年6月9日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "政策集中释放，新能源板块结构性机会或显现，南方基金旗下新能源系列ETF布局机遇…",
+      "title": "新能源车掉价太快，燃油车保值？最近这三件事，快把车贩子气晕了 - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Scientists finally complete Schrödinger…",
+      "title": "Heat breaks the rules at the nanoscale…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:29",
-          "title": "政策集中释放，新能源板块结构性机会或显现，南方基金旗下新能源系列ETF布局机遇备受关注 - Jiemian.com",
-          "summary": "政策集中释放，新能源板块结构性机会或显现，南方基金旗下新能源系列ETF布局机遇备受关注 Jiemian.com",
+          "time": "08:02",
+          "title": "新能源车掉价太快，燃油车保值？最近这三件事，快把车贩子气晕了 - 汽车之家",
+          "summary": "新能源车掉价太快，燃油车保值？最近这三件事，快把车贩子气晕了 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxMUlEM04wRGhNVzh3TVlxSlRPLVVoSkx4aHpxQk9hdUtSV3lFX2hZOUxOSkNWNlVXYlNPekpsX3gtV05tbnNYeWQ4WWNfWUk2X3dOWGtiQmM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4T3N4bWp3RWRheU1oejlDdFNqX2hQVS1mRXRQYW9qSkw1TTVMeWs1N1VKZTVTZDhmb1RkRVN6NXdWc2pQbGw5NUp5VTVJVTcxcDdBRm5nb2ZoMWM?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:19",
-          "title": "宝新能源（000690）6月5日主力资金净卖出1.40亿元_主力研究 - 证券之星",
-          "summary": "宝新能源（000690）6月5日主力资金净卖出1.40亿元_主力研究 证券之星",
+          "time": "08:01",
+          "title": "6月8日创业板新能源ETF富国基金份额减少800万份，重仓股宁德时代、阳光电源、汇川技术_基金提醒_雷达 - 证券之星",
+          "summary": "6月8日创业板新能源ETF富国基金份额减少800万份，重仓股宁德时代、阳光电源、汇川技术_基金提醒_雷达 证券之星",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE80T0Z6MDdzSFRQbWh2VDlJbGdPdmdzQ1p6LXBHN3JJWTlQUUF4UFVFWVprQTI5Qk1RSHF1V3loYnk3MnJvX2lkb3VtckktaVJVc1ZDZ2VWQ2FEaWRzT2k0S1JR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hWFF4elRMb2xJTXRCSTBpUU84WG9wLUt1c0xfSDRYcDRtMHFJem4wSGZNQ3Nmd1VtZ2dkOUdNRXYtc2JzSTZVOVVMOU5CRm44WTFfVlV4Vmc2TFh5ajYtVDl3?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "2026年15-20万级智驾新能源推荐：空间、配置与性价比全维度对比 - 汽车之家",
+          "text": "7000辆！合资品牌，终于有了30万级畅销新能源车，但就怕是独苗 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4eEpJQV9heEJrNDlSX2o2clBXQ0VlVVIySy1TVW95aEdhcHVsbXNiSldzb1o2NWxYLUdRNW5Zem5NR3ppMWxjdDFSX1RsMXNYdGxzMFpsZEt1OWM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rc2U1WVB3S3lwQmhoNTROUFU2UUZESHZUZVhhTE0wVmMtRGF3bXpsY0NueUFwV0dRWGpYWThUaU4yNmZJaXA3Q05mY0RhR0owUDNROU83WWN4UQ?oc=5"
         },
         {
-          "text": "当新能源渗透率再创新高时，CR-V月销稳定破万说明了什么？ - Jiemian.com",
+          "text": "海南首艘纯电动新能源智能休闲渔船下水启航 探路渔业新质生产力 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByWE1pdVhHMWVGUlJFZE1GcTNPREp6b3F3UHh3Xy03MmJUa0ZLX3E3TGloNnNLVG5zMmFTdUFwZU5vQjJ4YjVnZnNXY0o5dVdZMGVta3Nn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWRfenZGcWZLbURFUWNodThaUF9yampQZzl1Z3FYZnZvT3VLdkxVSlByVF9FdlZNVXlKN2RBZkVuTHNzLWpwQXRVMTNDLS1iRnRwcXljZFFZWjBCcnlCUEw1RFFrRmthR2ZpZ2VJS015allTR1Z1RVdjMGl2c19Ia0tQRzJGSlFTbEJONg?oc=5"
         },
         {
-          "text": "告别增重内卷，新能源车“瘦身”需讲究平衡之道？ - 汽车之家",
+          "text": "上观时评 | 越做越大的新能源车，正在让全社会埋单? - 新浪新闻_手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fS1FBbUU1aF9rOG83RXMzZVRXdjJCb3VqY0tUcmg1MkZmSVg3WVB0ZmVIMUxXajE2ODVKOE9hLUVnRWpYM2lyd3NrNFVEenh2aUJ5a0s0RmVXXzQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yXy1jZUZTOTJqZjR4eDBqS29ieVVmRkl3Y3UwQlo1bjl6Z0xCMXR0VG1UeU02YW5oT2l2M2dSdk1zcDduNEMwUFhhaTNXMkVSSkFKQ2ZPaXFmWUZRRTk1NWcwYWZZRC1GbGZtT05fZmhHMjBLY3R5czJR?oc=5"
         },
         {
-          "text": "【ESG动态】中广核新能源（01811.HK）获华证指数ESG最新评级BBB，行业排名第10_公司新闻 - 证券之星",
+          "text": "新能源二手车越来越“香”了 保值率显著提升 - 中华网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42eFpjN2U4T1NfcXVNUEdkMUxHalViSkp0eS1TVzc1c3prQXpvYm5tMnA0TVh2MC1OWlYyR2I0MU1ObGZ6eDJ4RThYc0JWM25mZEE3cWtPSGNFQ2ZDRGNCY3dR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBOFNtVGE5dW4wTUpZREgxLW10UHhaZjUyZGtXNzhidnVJQjVKb2lnR2hxT2ttYWlCN256YVVKb0x1ZWYtb29iczY5eW0wOEkzSWp1ZEc1NV91Wk9teHNlRjVFRWhxWGdQZHdGY0JSbWY?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "19:17",
+          "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
+          "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to f…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:55",
           "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
           "summary": "Researchers have finally resolved a key problem in a 100-year-old theory of color, showing that the qualities…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "13:27",
-          "title": "A tiny atomic shift gives scientists powerful control over metals",
-          "summary": "A team at the University of Minnesota discovered that changing a metal film's thickness by just a few nanomet…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260605023415.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "A tiny atomic shift gives scientists powerful control over metals",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260605023415.htm"
+        },
         {
           "text": "NASA just proved spacecraft can switch between multiple satellite networks",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Scientists discover a hidden quantum world inside cobalt",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm"
-        },
-        {
-          "text": "Scientists are seriously asking if bees and ChatGPT are conscious",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "17:00",
-          "title": "The Meta hack shows there’s more to AI security than Mythos",
-          "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagr…",
+          "time": "22:00",
+          "title": "Confidential submission of draft S-1 to the SEC",
+          "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/openai-submits-confidential-s-1"
         },
         {
           "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "How Endava is redesigning software delivery around AI agents",
-          "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate…",
+          "time": "09:30",
+          "title": "Built to benefit everyone: our plan",
+          "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AG…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/endava-frontiers"
+          "url": "https://openai.com/index/built-to-benefit-everyone-our-plan"
         }
       ],
       "briefs": [
         {
+          "text": "Introducing the OpenAI Economic Research Exchange",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/economic-research-exchange"
+        },
+        {
+          "text": "The Meta hack shows there’s more to AI security than Mythos",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
+        },
+        {
+          "text": "How Endava is redesigning software delivery around AI agents",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/endava-frontiers"
+        },
+        {
           "text": "How courts are coping with a flood of AI-generated lawsuits",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
-        },
-        {
-          "text": "Dreaming: Better memory for a more helpful ChatGPT",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-memory-dreaming"
-        },
-        {
-          "text": "Biodefense in the Intelligence Age",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
-        },
-        {
-          "text": "Introducing new capabilities to GPT-Rosalind",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:18",
-          "title": "Read-Centric DTCO for IGZO FeFETs 3D Heterogeneous AI memories (imec, KU Leuven)",
-          "summary": "Researchers from imec and KU Leuven have published “DTCO of NOR-Type IGZO FeFETs for 3D Heterogeneous AI Memo…",
+          "time": "15:01",
+          "title": "Disturbance In Verification",
+          "summary": "We have started to see what may be the largest disturbance in the role of a verification engineer since the f…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/read-centric-dtco-for-igzo-fefets-3d-heterogeneous-ai-memories-imec-ku-leuven/"
+          "url": "https://semiengineering.com/disturbance-in-verification/"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:55",
-          "title": "Accelerating Zero-Knowledge Proof Generation With Reconfigurable Hardware (KAIST)",
-          "summary": "Researchers from Korea Advanced Institute of Science and Technology (KAIST) have published “ZK-Flex: A Flexib…",
+          "time": "15:01",
+          "title": "Chip Industry Technical Paper Roundup: June 8",
+          "summary": "IGZO FeFET AI memories; zero-knowledge proof acceleration; Rowhammer in monolithic 3D eDRAM; monolayer TMD na…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/accelerating-zero-knowledge-proof-generation-with-reconfigurable-hardware-kaist/"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-8/"
         }
       ],
       "briefs": [
         {
+          "text": "Research Bits: June 8",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/research-bits-june-8-2/"
+        },
+        {
+          "text": "Read-Centric DTCO for IGZO FeFETs 3D Heterogeneous AI memories (imec, KU Leuven)",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/read-centric-dtco-for-igzo-fefets-3d-heterogeneous-ai-memories-imec-ku-leuven/"
+        },
+        {
+          "text": "Accelerating Zero-Knowledge Proof Generation With Reconfigurable Hardware (KAIS…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/accelerating-zero-knowledge-proof-generation-with-reconfigurable-hardware-kaist/"
+        },
+        {
           "text": "Analyzing Rowhammer Vulnerability in Monolithic 3D IWO eDRAM for Edge (ASU, Geo…",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/analyzing-rowhammer-vulnerability-in-monolithic-3d-iwo-edram-for-edge-asu-georgia-tech/"
-        },
-        {
-          "text": "Reduce Memory Redesigns With Shift-Left",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/reduce-memory-redesigns-with-shift-left/"
-        },
-        {
-          "text": "Chip Industry Week In Review",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-141/"
-        },
-        {
-          "text": "A Comprehensive Approach To 3D-IC Physical Verification",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/a-comprehensive-approach-to-3d-ic-physical-verification/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:35",
-          "title": "中力股份(603194.SH)：湖州中提升企业管理合伙企业(有限合伙)减持792.45 万股公司股份 - msn.com",
-          "summary": "中力股份(603194.SH)：湖州中提升企业管理合伙企业(有限合伙)减持792.45 万股公司股份 msn.com",
+          "time": "00:22",
+          "title": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押331万股，占总股本1.6% - 搜狐网",
+          "summary": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押331万股，占总股本1.6% 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxOemNsQWV5NlBlcEhZVDdnaUtkcS1aSEpJR2R0R3BwcFJqWXJBN0JPRVF3bHNuR0NVNG5yc1dGZ29JWFcxQkhqUzFUUXVpMXJtLUx2V3dxMU12NEswUGlmcEVwZUQ1d0F2VVMzNXozNzNvbkt6b2RDa3pYRHQ4SFR1X2NhNEJUdVY3SDI1MFlJeTdDOGgwQXpUZllfcWg0bEQ1b1dpMW5zaFo1Y0tvNWJGTThWeVdqVU13dWZVeEpNRDdPbVItNGVpVjlzeVZ5R2JsTDNuekcxRnJ1RkZPWFdsUVUwMm1jMHIzSlFOTTJrTzc5Z3NWZUlTVnpFRDdGNXNkMUVsZ1BHNi1YTk5PSXVXb2lUWEh1bGx2R2RaSHN1RWRITjMwMFBNNHgtcWdJR0dKT0JKMVU4YldfeDJrTjZPLWN1cDRtVlJMWThsanYyX2R4bVFLcGZQSjVBU0l6eXpKUnJxc0R3dWtubjBEREVtVzZNekE2dUczQUVZTmxONnExcEVjLUFHWU01X3FwdUk4R08tX0hwSEF2Q250VDYwWWxRaVNNZTZrcXBUa3M5ZlRkNHhXZVBZVmRxczhiUEk2SExyRUF2RXR3ZU8z?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUN6NVFPZnVBS3k0a3dzY3czSFhabmVDM1hYaFBSek80Ry1GUFlzdEl2WkhMWGJLMkZPZE1zclZELVdvX1hyQklmck5rQ2NqR2ExVFdvaG1pVnhISXR1RUdYUC1iZUoxTVFUTlR6YzFfaWhiMVJKZEVnQVpBOVYtSXM5ZlRieFRQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:42",
-          "title": "银龙股份：公司管理层始终致力于通过提升主营业务盈利能力和经营质量来夯实公司内在价值 - 东方财富",
-          "summary": "银龙股份：公司管理层始终致力于通过提升主营业务盈利能力和经营质量来夯实公司内在价值 东方财富",
+          "time": "21:12",
+          "title": "天汽模：德盛拾陆号企业管理（天津）合伙企业（有限合伙）持股比例已升至9.94% - 东方财富",
+          "summary": "天汽模：德盛拾陆号企业管理（天津）合伙企业（有限合伙）持股比例已升至9.94% 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rUHA0VDItNGxYQUlaQ3RLRnY0SEJucnd6UFZmc3RxRGRTdDhxZlJPcVF2cndzNlhwLUZqMnBia0gyUDBiM3FKRE0xYUpRREZOWW9zVy1vdmpKa1pjZ1daUA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83T2RzNlQ1ZUNvYXFxY2dTV0h5aDZSWi1xZHRyeV9ka2NRVlkwYm9oU1BBajNpUGdfLWhUVlgtQVN2MlhFeTlMWF8wdm1LYl8tRHFwVEU2YXE1VG5CVUtacTR0eTg2Zw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "ASML CEO富凯：欧盟不应该干预企业战略项目 - 搜狐网",
+          "text": "奥比中光(688322):深圳市他山企业管理咨询有限公司关于奥比中光2022年限制性股票激励计划首次授予第三个归属期归属条件成就及部分限制性股票作废事项的独立…",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43dy0tOUNpem9jMDV0RVBZTk1sMDItSlhMakJfanRMRFNUMU5pZmJjRk9nT0VyZ1pOWFdVQWZoWG9fN0Q5eFhVNGRRNG1Ka195YkxUdDVn?oc=5"
+        },
+        {
+          "text": "体面裁员 企业管理必修课 - enanyang.my",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YNFc1ZklYWWxQd1FyY1hxcTNIaGpYZGN1RFJNTzhkNF9HTE5rOWtMYTMxM2NaN0g1WFlNTkV6R2xTRk50ZTNTX2FsOVpvTF91ZlJPQzVyVmk0LVJITGZlVGlaY3lBU0E?oc=5"
+        },
+        {
+          "text": "中力股份(603194.SH)：湖州中提升企业管理合伙企业(有限合伙)减持792.45 万股公司股份 - MSN",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxPdXRLdEZyeDBNZGRTc2FJMVR4ek1ib2N3NkR1TXZDVnd5YVItaTlsbTFqb2lURGVlWnR1WkpLVXFvTktZRFV5NmRrcm9YNUhydEZfV3R2cXdPQmJXZnV5X2RzS2M3YUFnQnQ5blhESkVmblBkMVc2amZkWXpsZzE4WWFWVnRuR2tfSThxRW9jMlY1NUs5djZMTXR5VnBQeUw0TnBaajBtdHJ5OWNzQWJhaVQzOFZmM3RxajBTV3p4d2czWVFRTkoyQVRHcW01ZDF1YTJMNEJWT1JidUVYTERmYlEzc1BIRHFHLVJmVzlKTGQ1cHR3enhUc3BNZHpkTWxGckQ3RWVZMV9MZUR6d084MEpWcERiV2VxdEpJTjJLSU8tUHlETWJZaDVSUzhOUzBydnpWY1NrQVJCdV9ZZHBsLWVaOFlrMzhscWt6TVZUS2RSdVVwTzEyWGVRNlVnaVJmV3hhS1hrUGp2eHZLWmo0dHFQU09HaUlXZklUVHZ4Tk5jVEMtcmJpeGtEbS1EblZadHJEd1lOcUlJa1BOcnBpdE5uUHRwMWFLUXE3M0Nva0Z4dmlyTWVST2xRVUJiU25Mb2t2bEZyWXhiTDRhS01fSS1vX0RFTHktNDhwdFUxcHEwMGxiTlZ1aVpnVUxYTHZOeUZMYUFwcnItMnVwTHdxOU9ENFEweElvZklXM2JWRk1TWVlfRXpRMFc0b29Vd1g1WVNMZjFjdUM0TmpGX3Uwa3FRcWN5aWdBZmNXbFJ5M2lDSmEyUWh0M1kxZUdSNnFfSG9TeDh5MUJSSzYxQm1WVFpaMA?oc=5"
+        },
+        {
+          "text": "以“优质电”筑牢产业供应链韧性 - 中华网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObFk2SE15Y0ZCLW1jZWRITEQ4b3NGSk8wNWtOMmNrclpNQnBIdnk3MmY0QnIzc19mU1NMWHM4ck5GaDNtN2N6RWdDUF9ReEtSVTBtTUU4XzJYX1NUQzRRSGRMTWVCX0llNzlsVUNWV1BpdmtwNFhKU2pzU2tMNjVzcXhvZ0lHYjc5?oc=5"
-        },
-        {
-          "text": "中力股份(603194.SH)：湖州中提升企业管理合伙企业(有限合伙)减持792.45万股公司股份 - Moomoo",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5naDJTSEJndURMX3VHWGQxYkFYT0pUdXRETktHSFZPQnpMNFhFVkxnNjdCWXBBbmlQWkJoZUNzZHNFSUI2T1lMRHhCRE1DNUcxS3R3V3lLa1h0Zw?oc=5"
-        },
-        {
-          "text": "小小陪考假，映照企业管理的大智慧 - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjd5TXQxc0JWV3B6RzFEZ0hFYjE4TDI0N1hyeWdsSHg0UlA0Rmtqc3pCNXlmY2daNU1GY2pLU3p2aEhTbUxjMmVING5PcE9HTm10T25lZ2NnSkdHaGNqaXRzclVNalZRT3lWbVlKX1MyVUlEUDRqUWlRVW5KTDRfUFVJRV9mOEcteEMwQQ?oc=5"
-        },
-        {
-          "text": "金帝股份（603270）股东聊城市金帝企业管理咨询有限公司质押924万股，占总股本4.22% - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15Nzl1VWxqYmk5ZzdnTkVsTXZCSG5jZkpXX3ppNVhTUUxiMUprd3NIc2Zma09OX0xNN3hzMVBac1lwc0RtY0pCVkdKRk56bzhqVkE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNHFVTWZyMktKakVBMzdKSFREOWs1czdUWkhIcjUtc3FnNjFxaGFVRGxsTWhEUGRoN3huUy1tYUlOWUJuQnVicy1xbnVQcUZMQWlOakM3NWJmRG1zOGc?oc=5"
         }
       ]
     }
