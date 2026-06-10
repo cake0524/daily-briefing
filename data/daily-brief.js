@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月9日",
+  "publishDate": "2026年6月10日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "新能源车掉价太快，燃油车保值？最近这三件事，快把车贩子气晕了 - 汽车之家",
+      "title": "2026年5月新能源车销量排行榜！比亚迪稳居第一，特斯拉进入前五 - 爱咖号",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:02",
-          "title": "新能源车掉价太快，燃油车保值？最近这三件事，快把车贩子气晕了 - 汽车之家",
-          "summary": "新能源车掉价太快，燃油车保值？最近这三件事，快把车贩子气晕了 汽车之家",
+          "time": "09:26",
+          "title": "2026年5月新能源车销量排行榜！比亚迪稳居第一，特斯拉进入前五 - 爱咖号",
+          "summary": "2026年5月新能源车销量排行榜！比亚迪稳居第一，特斯拉进入前五 爱咖号",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4T3N4bWp3RWRheU1oejlDdFNqX2hQVS1mRXRQYW9qSkw1TTVMeWs1N1VKZTVTZDhmb1RkRVN6NXdWc2pQbGw5NUp5VTVJVTcxcDdBRm5nb2ZoMWM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VckF6N2hkeDVQUmphV3NhSldHb0h3cDBBbURMYmgzcmM5bVUwWWVCRm9ENnFaUVRsZS1DbVlwMXhZeXNsb2c4cFhIbUppaFRtY29uY0tYNGE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:01",
-          "title": "6月8日创业板新能源ETF富国基金份额减少800万份，重仓股宁德时代、阳光电源、汇川技术_基金提醒_雷达 - 证券之星",
-          "summary": "6月8日创业板新能源ETF富国基金份额减少800万份，重仓股宁德时代、阳光电源、汇川技术_基金提醒_雷达 证券之星",
+          "time": "09:05",
+          "title": "6月9日创业板新能源ETF易方达（159009）份额减少400.00万份，最新份额5139.27万份，最新规模5427.07万元 - Sina finance",
+          "summary": "6月9日创业板新能源ETF易方达（159009）份额减少400.00万份，最新份额5139.27万份，最新规模5427.07万元 Sina finance",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hWFF4elRMb2xJTXRCSTBpUU84WG9wLUt1c0xfSDRYcDRtMHFJem4wSGZNQ3Nmd1VtZ2dkOUdNRXYtc2JzSTZVOVVMOU5CRm44WTFfVlV4Vmc2TFh5ajYtVDl3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1k2dm5UUk1GUzZNX1UtcXRKbTA4WGpPZncxZFktQVZDb2FGT0Q5cVlmRUdEVEVjUmRpeXZwcUVVWlZPNEdnS2RtWHF5WFRmUWJVT2lSNnR0U1l2eTRJNGQyTkVxb1dSNkhMOGl0RnZQZkhXTS1lR0w3SmFUc3QtYWV2TkRIaThMUjAtaGw5WGlwUjJEczdkMmdvTQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "7000辆！合资品牌，终于有了30万级畅销新能源车，但就怕是独苗 - 汽车之家",
+          "text": "6月9日新能源电池ETF银华（159193）份额减少800.00万份，最新份额2.42亿份，最新规模2.30亿元 - Sina finance",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Rc2U1WVB3S3lwQmhoNTROUFU2UUZESHZUZVhhTE0wVmMtRGF3bXpsY0NueUFwV0dRWGpYWThUaU4yNmZJaXA3Q05mY0RhR0owUDNROU83WWN4UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjFxSzJlYTJBanNJd0Nqd0dBZFdOZHZhVU1FSnVHVGhEa21abE9iYlZ5OW9feVJfa3FWemNXa2FRMm5VVW0xd242UVNHSnFEaHFlSG1BRWdhUXJXbkFaUm50RDlDVzAteWNJT2VUeGdqUzJ4N3VlMGlZOXZ5V1VKaTlUMnpJWUwtU2lkemg3YTFoTjRCc21jOHBVVQ?oc=5"
         },
         {
-          "text": "海南首艘纯电动新能源智能休闲渔船下水启航 探路渔业新质生产力 - 搜狐网",
+          "text": "6月9日创业板新能源ETF工银（159149）份额减少100.00万份，最新份额5551.53万份，最新规模5734.73万元 - Sina finance",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWRfenZGcWZLbURFUWNodThaUF9yampQZzl1Z3FYZnZvT3VLdkxVSlByVF9FdlZNVXlKN2RBZkVuTHNzLWpwQXRVMTNDLS1iRnRwcXljZFFZWjBCcnlCUEw1RFFrRmthR2ZpZ2VJS015allTR1Z1RVdjMGl2c19Ia0tQRzJGSlFTbEJONg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGZOakVfSWpjeHhZUGZ3bU1XdGtoWmhldlBGQnpyR1VXUVRuaDJaSV9XeDY0cWx2Yjl0SnZiSHpxdmJYdkVoRVNaT1Z5ZGl5d0lqZEY4QXVNc0REbnJvVU9qdnFETUUtRnl2OTRCZjhsRG8yTG83Mk1UdnVSY3N3UnFlb1BUN0JBVnBzLVJfR2g1WktzQkEyM3MtWQ?oc=5"
         },
         {
-          "text": "上观时评 | 越做越大的新能源车，正在让全社会埋单? - 新浪新闻_手机新浪网",
+          "text": "6月9日创业板新能源ETF富国（159122）份额减少200.00万份，最新份额7716.09万份，最新规模8341.10万元 - Sina finance",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1yXy1jZUZTOTJqZjR4eDBqS29ieVVmRkl3Y3UwQlo1bjl6Z0xCMXR0VG1UeU02YW5oT2l2M2dSdk1zcDduNEMwUFhhaTNXMkVSSkFKQ2ZPaXFmWUZRRTk1NWcwYWZZRC1GbGZtT05fZmhHMjBLY3R5czJR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb3BQb0tIdWhyNXNuTzlBT3pzZko4cVpNMEdtSnJaSmxFN2xBLU1WNFIyQmVzUFA0Qm43Qy03MlJ1TXNXUEozb2dGV2xab2hsZG5hRGtkTUZYYVNOSzNNTlB3QXhmcmdtdFZLcmwycW13LTdJaFpVRlJPMy1BdHZBaW96VjJueGprcFpVSEV4VXkyNVZxN1BzS3dyTQ?oc=5"
         },
         {
-          "text": "新能源二手车越来越“香”了 保值率显著提升 - 中华网",
+          "text": "6月9日创业板新能源ETF鹏华（159261）份额减少400.00万份，最新份额5181.49万份，最新规模8716.30万元 - Sina finance",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBOFNtVGE5dW4wTUpZREgxLW10UHhaZjUyZGtXNzhidnVJQjVKb2lnR2hxT2ttYWlCN256YVVKb0x1ZWYtb29iczY5eW0wOEkzSWp1ZEc1NV91Wk9teHNlRjVFRWhxWGdQZHdGY0JSbWY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPempHMWlFWTY4NWlOOEhwdzJUazdvUUEtbjJwcWRkc3B1SUZDVlpaZmlLbkEwdzFoVHBmSVdVb3pGLUJiWHdTZzBzcTNOYlpHTGRJYmJDemQzQTgtRzBsbnFiYjNlbkp2eW5HMUFvU0RKMVRjQVJrX1VFZ3p4YmlVQjVUTEdoeHNBWGk4OVRfak1CZVJtN0lsV3ZjMA?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:00",
-          "title": "Confidential submission of draft S-1 to the SEC",
-          "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+          "time": "20:00",
+          "title": "How engineers at Nextdoor use Codex to build without limits",
+          "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platfo…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/openai-submits-confidential-s-1"
+          "url": "https://openai.com/index/nextdoor"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:30",
-          "title": "Built to benefit everyone: our plan",
-          "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AG…",
+          "time": "18:20",
+          "title": "Learning to lead in a hybrid human-AI enterprise",
+          "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are ca…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/built-to-benefit-everyone-our-plan"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
         }
       ],
       "briefs": [
         {
-          "text": "Introducing the OpenAI Economic Research Exchange",
+          "text": "What Codex unlocks for Notion",
           "source": "OpenAI",
-          "url": "https://openai.com/index/economic-research-exchange"
+          "url": "https://openai.com/index/notion"
         },
         {
-          "text": "The Meta hack shows there’s more to AI security than Mythos",
+          "text": "Five things you need to know about AI",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
+          "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/"
         },
         {
-          "text": "How Endava is redesigning software delivery around AI agents",
+          "text": "Industrial policy for the Intelligence Age",
           "source": "OpenAI",
-          "url": "https://openai.com/index/endava-frontiers"
+          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
         },
         {
-          "text": "How courts are coping with a flood of AI-generated lawsuits",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
+          "text": "Confidential submission of draft S-1 to the SEC",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/openai-submits-confidential-s-1"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Disturbance In Verification",
-          "summary": "We have started to see what may be the largest disturbance in the role of a verification engineer since the f…",
+          "time": "15:15",
+          "title": "AI Models Transform Defect Inspection And Review, But Can Fail To Scale",
+          "summary": "Majority of AI initiatives falter; synthetic data gaining traction due to limited real-world data. The post A…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/disturbance-in-verification/"
+          "url": "https://semiengineering.com/ai-models-transform-defect-inspection-and-review-but-can-fail-to-scale/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Chip Industry Technical Paper Roundup: June 8",
-          "summary": "IGZO FeFET AI memories; zero-knowledge proof acceleration; Rowhammer in monolithic 3D eDRAM; monolayer TMD na…",
+          "time": "15:07",
+          "title": "What I Learned At The 2026 GSA Tech Summit: The Future Of Semiconductor Collaboration Is Full Stack",
+          "summary": "Advanced node manufacturing and heterogeneous integration require partnerships that span the full value chain…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-8/"
+          "url": "https://semiengineering.com/what-i-learned-at-the-2026-gsa-tech-summit-the-future-of-semiconductor-collaboration-is-full-stack/"
         }
       ],
       "briefs": [
         {
-          "text": "Research Bits: June 8",
+          "text": "Effective UX/UI Is A Critical Link Between AI Insights And Yield Improvement",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-june-8-2/"
+          "url": "https://semiengineering.com/effective-ux-ui-is-a-critical-link-between-ai-insights-and-yield-improvement/"
         },
         {
-          "text": "Read-Centric DTCO for IGZO FeFETs 3D Heterogeneous AI memories (imec, KU Leuven)",
+          "text": "High-Speed Manufacturing And In-Field Scan Test Access Via PCI Express For GPIO…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/read-centric-dtco-for-igzo-fefets-3d-heterogeneous-ai-memories-imec-ku-leuven/"
+          "url": "https://semiengineering.com/high-speed-manufacturing-and-in-field-scan-test-access-via-pci-express-for-gpio-limited-socs/"
         },
         {
-          "text": "Accelerating Zero-Knowledge Proof Generation With Reconfigurable Hardware (KAIS…",
+          "text": "Why Analog And Mixed-Signal Chips Resist Adaptive Test",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/accelerating-zero-knowledge-proof-generation-with-reconfigurable-hardware-kaist/"
+          "url": "https://semiengineering.com/why-analog-and-mixed-signal-chips-resist-adaptive-test/"
         },
         {
-          "text": "Analyzing Rowhammer Vulnerability in Monolithic 3D IWO eDRAM for Edge (ASU, Geo…",
+          "text": "Co-Packaged Optics Testing Faces Steep Data Center Ramp",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/analyzing-rowhammer-vulnerability-in-monolithic-3d-iwo-edram-for-edge-asu-georgia-tech/"
+          "url": "https://semiengineering.com/co-packaged-optics-testing-faces-steep-data-center-ramp/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:22",
-          "title": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押331万股，占总股本1.6% - 搜狐网",
-          "summary": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押331万股，占总股本1.6% 搜狐网",
+          "time": "06:12",
+          "title": "说话4分钟、离座9分钟算“严重违纪”？企业管理不能违反常识 - 新浪财经",
+          "summary": "说话4分钟、离座9分钟算“严重违纪”？企业管理不能违反常识 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSUN6NVFPZnVBS3k0a3dzY3czSFhabmVDM1hYaFBSek80Ry1GUFlzdEl2WkhMWGJLMkZPZE1zclZELVdvX1hyQklmck5rQ2NqR2ExVFdvaG1pVnhISXR1RUdYUC1iZUoxTVFUTlR6YzFfaWhiMVJKZEVnQVpBOVYtSXM5ZlRieFRQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNblFrckJRYlRCa2FjLUFyRlZLUG04YUhibEdiU09RRFN3R3pjREg3UjdERFdsbVA5aWtsTW1OMEF1d2x2MmlWNnpfNEhVN3RRSkZITlp0S1hSazJjRTlYakxGb2hieTlSZENYSWRLbUNoc2ZBTEtISENiV3BvNHV4aXZOTjN6TUw4WVFSNWc3RzZzVHhnM0p0bA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:12",
-          "title": "天汽模：德盛拾陆号企业管理（天津）合伙企业（有限合伙）持股比例已升至9.94% - 东方财富",
-          "summary": "天汽模：德盛拾陆号企业管理（天津）合伙企业（有限合伙）持股比例已升至9.94% 东方财富",
+          "time": "00:43",
+          "title": "人工智能产业日报(12.11)：AI行业动态与公司战略调整 - 积墨 AI",
+          "summary": "人工智能产业日报(12.11)：AI行业动态与公司战略调整 积墨 AI",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83T2RzNlQ1ZUNvYXFxY2dTV0h5aDZSWi1xZHRyeV9ka2NRVlkwYm9oU1BBajNpUGdfLWhUVlgtQVN2MlhFeTlMWF8wdm1LYl8tRHFwVEU2YXE1VG5CVUtacTR0eTg2Zw?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYXBBNUF6OF9ibEpvVmlGUDFlMEIzMFRHYkphdUE2S1FGaG5NTU4wNGFfTE9LMTY1TnM5UzA2MjA4cWFOLTJkR3g0Q1libk1Ibi1EdE5uRUQ4Rk9VeWROblZnMDFxQXVxa0QwdTY4OGl2WVByM295aHY3SGt0XzRPSXppTElhT0VrZUJMb2Y1S3N3QQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "奥比中光(688322):深圳市他山企业管理咨询有限公司关于奥比中光2022年限制性股票激励计划首次授予第三个归属期归属条件成就及部分限制性股票作废事项的独立…",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43dy0tOUNpem9jMDV0RVBZTk1sMDItSlhMakJfanRMRFNUMU5pZmJjRk9nT0VyZ1pOWFdVQWZoWG9fN0Q5eFhVNGRRNG1Ka195YkxUdDVn?oc=5"
-        },
-        {
-          "text": "体面裁员 企业管理必修课 - enanyang.my",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YNFc1ZklYWWxQd1FyY1hxcTNIaGpYZGN1RFJNTzhkNF9HTE5rOWtMYTMxM2NaN0g1WFlNTkV6R2xTRk50ZTNTX2FsOVpvTF91ZlJPQzVyVmk0LVJITGZlVGlaY3lBU0E?oc=5"
-        },
-        {
-          "text": "中力股份(603194.SH)：湖州中提升企业管理合伙企业(有限合伙)减持792.45 万股公司股份 - MSN",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxPdXRLdEZyeDBNZGRTc2FJMVR4ek1ib2N3NkR1TXZDVnd5YVItaTlsbTFqb2lURGVlWnR1WkpLVXFvTktZRFV5NmRrcm9YNUhydEZfV3R2cXdPQmJXZnV5X2RzS2M3YUFnQnQ5blhESkVmblBkMVc2amZkWXpsZzE4WWFWVnRuR2tfSThxRW9jMlY1NUs5djZMTXR5VnBQeUw0TnBaajBtdHJ5OWNzQWJhaVQzOFZmM3RxajBTV3p4d2czWVFRTkoyQVRHcW01ZDF1YTJMNEJWT1JidUVYTERmYlEzc1BIRHFHLVJmVzlKTGQ1cHR3enhUc3BNZHpkTWxGckQ3RWVZMV9MZUR6d084MEpWcERiV2VxdEpJTjJLSU8tUHlETWJZaDVSUzhOUzBydnpWY1NrQVJCdV9ZZHBsLWVaOFlrMzhscWt6TVZUS2RSdVVwTzEyWGVRNlVnaVJmV3hhS1hrUGp2eHZLWmo0dHFQU09HaUlXZklUVHZ4Tk5jVEMtcmJpeGtEbS1EblZadHJEd1lOcUlJa1BOcnBpdE5uUHRwMWFLUXE3M0Nva0Z4dmlyTWVST2xRVUJiU25Mb2t2bEZyWXhiTDRhS01fSS1vX0RFTHktNDhwdFUxcHEwMGxiTlZ1aVpnVUxYTHZOeUZMYUFwcnItMnVwTHdxOU9ENFEweElvZklXM2JWRk1TWVlfRXpRMFc0b29Vd1g1WVNMZjFjdUM0TmpGX3Uwa3FRcWN5aWdBZmNXbFJ5M2lDSmEyUWh0M1kxZUdSNnFfSG9TeDh5MUJSSzYxQm1WVFpaMA?oc=5"
-        },
-        {
-          "text": "以“优质电”筑牢产业供应链韧性 - 中华网",
+          "text": "如何破解AI落地断层？SAP在华发布“自主运营企业”战略|智能体|数据|商业|流程|系统_手机新浪网 - 新浪财经",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBJNHFVTWZyMktKakVBMzdKSFREOWs1czdUWkhIcjUtc3FnNjFxaGFVRGxsTWhEUGRoN3huUy1tYUlOWUJuQnVicy1xbnVQcUZMQWlOakM3NWJmRG1zOGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTVzbnE0WW01TjJxMjlYTHhCc3RUZzNFTEpQYURhd3FhT3pGS0VGdXo0SHpuRmlaOXFIWFlaREliTTl2WDA3Y1JfUGxDc0ZJYXNhYUJUc1FHNEhOMWVPdnVXTFpOV0Etc095MV8tR2FFSm9GZmtTSWZkRDh1cE1vUnpjcDI1eGs?oc=5"
+        },
+        {
+          "text": "TD Cowen重申Evolv Technologies买入评级，看好公司战略改进 提供者 Investing.com - 英为财情 Investing.com",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FdXZZTjlwOUw1MTI4Z2J6ek04MFlZSEpCdGlVNWFkNW9NS3lDTTRqYTZvZ2ctWGlSU19ya2k1OF9hUDdhaS1pUDBqYlBHQWhHazFlVlVDd1BRbzdBbjdRcjd0M2FCdHZORjRpMEgxOVhYTTY3?oc=5"
+        },
+        {
+          "text": "中投公司管理层调整 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QNWMxSlJnZEtLN3pyRFhodWthSFRfZ2ZZRktPSEkzTlJrQUp3Y3NZVmhRc2dhSXpqc1RtOG9zSmx0UVhlVl8xTjFQY1lpT2pVLXlveGdNcVU5UTFCRkpOeUEtTE4xNEpxbVlfQlZ0TQ?oc=5"
+        },
+        {
+          "text": "强邦新材(001279):与上海强邦企业管理咨询有限公司关联交易 - 中财网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGai0yYy1lS2NIWENNZE1sdGlWMjJKVTJzRUZUWWN4a2Jod1lyZVRCc1FPS29QS0ppajVPa2Vvb0g0ejF4QVRJd3VvcGIya3otaHVJdWd3?oc=5"
         }
       ]
     }
