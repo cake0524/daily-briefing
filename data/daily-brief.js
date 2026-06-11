@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月10日",
+  "publishDate": "2026年6月11日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "2026年5月新能源车销量排行榜！比亚迪稳居第一，特斯拉进入前五 - 爱咖号",
+      "title": "【视频】15万预算买新能源SUV，自主和合资怎么选？老司机给你推荐几款 - 汽…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Heat breaks the rules at the nanoscale…",
+      "title": "A classic brain test exposed AI's bigge…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:26",
-          "title": "2026年5月新能源车销量排行榜！比亚迪稳居第一，特斯拉进入前五 - 爱咖号",
-          "summary": "2026年5月新能源车销量排行榜！比亚迪稳居第一，特斯拉进入前五 爱咖号",
+          "time": "09:34",
+          "title": "【视频】15万预算买新能源SUV，自主和合资怎么选？老司机给你推荐几款 - 汽车之家",
+          "summary": "【视频】15万预算买新能源SUV，自主和合资怎么选？老司机给你推荐几款 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VckF6N2hkeDVQUmphV3NhSldHb0h3cDBBbURMYmgzcmM5bVUwWWVCRm9ENnFaUVRsZS1DbVlwMXhZeXNsb2c4cFhIbUppaFRtY29uY0tYNGE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxeEJsRXlfdy1sQnVUa3RrbmdNYkV6aS1wX1NrX3AxOHp1T0xEaEhDLXk4bWxRcmlLLXhSWWFzbWI1UHdtcmMwbXFlVUF2RzcyaDVKOU03N3N4TlE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:05",
-          "title": "6月9日创业板新能源ETF易方达（159009）份额减少400.00万份，最新份额5139.27万份，最新规模5427.07万元 - Sina finance",
-          "summary": "6月9日创业板新能源ETF易方达（159009）份额减少400.00万份，最新份额5139.27万份，最新规模5427.07万元 Sina finance",
+          "time": "09:30",
+          "title": "【视频】新能源车越来越大，停车位不够用？你的车有哨兵模式吗？ - 汽车之家",
+          "summary": "【视频】新能源车越来越大，停车位不够用？你的车有哨兵模式吗？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPN1k2dm5UUk1GUzZNX1UtcXRKbTA4WGpPZncxZFktQVZDb2FGT0Q5cVlmRUdEVEVjUmRpeXZwcUVVWlZPNEdnS2RtWHF5WFRmUWJVT2lSNnR0U1l2eTRJNGQyTkVxb1dSNkhMOGl0RnZQZkhXTS1lR0w3SmFUc3QtYWV2TkRIaThMUjAtaGw5WGlwUjJEczdkMmdvTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhSkUtVUJkR3dnQUt2bE1IRDhIY2tYaTNXa2tWMnJhVjNyZzBIdi1hRE8wdzc0VDNGUDFjYW5sZWFOMkk1SmpERExLRExSQ3RSX3lpR3U3a04zX1RwOTFfRERmWF9RQVNiOUpj?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "6月9日新能源电池ETF银华（159193）份额减少800.00万份，最新份额2.42亿份，最新规模2.30亿元 - Sina finance",
+          "text": "宝骏5月全线下滑：新能源转型慢，低端标签锁死！ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjFxSzJlYTJBanNJd0Nqd0dBZFdOZHZhVU1FSnVHVGhEa21abE9iYlZ5OW9feVJfa3FWemNXa2FRMm5VVW0xd242UVNHSnFEaHFlSG1BRWdhUXJXbkFaUm50RDlDVzAteWNJT2VUeGdqUzJ4N3VlMGlZOXZ5V1VKaTlUMnpJWUwtU2lkemg3YTFoTjRCc21jOHBVVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45cUk4bTZubEhrZV9CUWFsdlpmR3dLR0RFN294QkN1VlNURFdMcUQxNFBDU1JJVEJJWm9HTWtEcVFiNjRnSXV0bEViSGM1ZkhHNnJETEpGQXUxajA?oc=5"
         },
         {
-          "text": "6月9日创业板新能源ETF工银（159149）份额减少100.00万份，最新份额5551.53万份，最新规模5734.73万元 - Sina finance",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVGZOakVfSWpjeHhZUGZ3bU1XdGtoWmhldlBGQnpyR1VXUVRuaDJaSV9XeDY0cWx2Yjl0SnZiSHpxdmJYdkVoRVNaT1Z5ZGl5d0lqZEY4QXVNc0REbnJvVU9qdnFETUUtRnl2OTRCZjhsRG8yTG83Mk1UdnVSY3N3UnFlb1BUN0JBVnBzLVJfR2g1WktzQkEyM3MtWQ?oc=5"
+          "text": "精准对接大湾区资源 深化蒙深产业合作 我市赴深圳参加自治区低空经济和数字经济产业推介活动 - 新浪财经",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQzlxQ1prRnQxNVBkZFZFWWZxUmdIRVJvYllnOFNfOXF1bkJrRFY0Rzg5SUNHMVR2MUNhUUFwM29lSE9FNFNkU0lDV0haWkM5ajF0SDc5NnJtVERDUDV4eXdxdThjZEVWT1F4WjVEb3MtYjNPUDRZU3c2cG1naUl4LTc1N19OV2czazY0VlJZeE5UcFBqQUdFeGM5bEoyS3UyaUhJNlFrdXprRnV0bHJhT2xsV2dqOXRWeXczb2dDbFpXVWcyQXBXMkMtTmdjTkxDR0tKWlVfUk9ZQQ?oc=5"
         },
         {
-          "text": "6月9日创业板新能源ETF富国（159122）份额减少200.00万份，最新份额7716.09万份，最新规模8341.10万元 - Sina finance",
+          "text": "合资新能源车5月销量 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb3BQb0tIdWhyNXNuTzlBT3pzZko4cVpNMEdtSnJaSmxFN2xBLU1WNFIyQmVzUFA0Qm43Qy03MlJ1TXNXUEozb2dGV2xab2hsZG5hRGtkTUZYYVNOSzNNTlB3QXhmcmdtdFZLcmwycW13LTdJaFpVRlJPMy1BdHZBaW96VjJueGprcFpVSEV4VXkyNVZxN1BzS3dyTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VY3o4RExaOGkzUF9fSFBNUHYyN2VGVVlCSUo0azR2X1FrTDlGOS1pTF9iOVpYeTJuUk0tZTdycm5EaEdyd2Y5ZTdZWWt4ejFkRVVhVHVVSXJheDRMVFFaVHNDWQ?oc=5"
         },
         {
-          "text": "6月9日创业板新能源ETF鹏华（159261）份额减少400.00万份，最新份额5181.49万份，最新规模8716.30万元 - Sina finance",
+          "text": "A级新能源SUV怎么选？埃安i60用“持续宠粉”能力给你理性答案 - 爱咖号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPempHMWlFWTY4NWlOOEhwdzJUazdvUUEtbjJwcWRkc3B1SUZDVlpaZmlLbkEwdzFoVHBmSVdVb3pGLUJiWHdTZzBzcTNOYlpHTGRJYmJDemQzQTgtRzBsbnFiYjNlbkp2eW5HMUFvU0RKMVRjQVJrX1VFZ3p4YmlVQjVUTEdoeHNBWGk4OVRfak1CZVJtN0lsV3ZjMA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9PRm55elZzSEtyUTFyanFFYXZnNTF4ZWJVN0ZBZGkxaEtyZnZvOE1VelVxN1FLNWtmbkU1dGNPN2tNM0xMVkZ0ei00N19reXc1dm1YeTlnOEY?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "18:52",
+          "title": "A classic brain test exposed AI's biggest weakness",
+          "summary": "Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "19:17",
           "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
           "summary": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to f…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:55",
-          "title": "Scientists finally complete Schrödinger’s 100-year-old color theory",
-          "summary": "Researchers have finally resolved a key problem in a 100-year-old theory of color, showing that the qualities…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Scientists finally complete Schrödinger’s 100-year-old color theory",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260606015140.htm"
+        },
         {
           "text": "A tiny atomic shift gives scientists powerful control over metals",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "AI-designed universal coronavirus vaccine passes first human trial",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm"
-        },
-        {
-          "text": "Scientists discover a hidden quantum world inside cobalt",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260604044255.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "20:00",
-          "title": "How engineers at Nextdoor use Codex to build without limits",
-          "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platfo…",
+          "time": "08:00",
+          "title": "How an astrophysicist uses Codex to help simulate black holes",
+          "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists stud…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/nextdoor"
+          "url": "https://openai.com/index/using-codex-to-simulate-black-holes"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:20",
-          "title": "Learning to lead in a hybrid human-AI enterprise",
-          "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are ca…",
+          "time": "04:00",
+          "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+          "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with e…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/openai-on-oracle-cloud"
         }
       ],
       "briefs": [
         {
-          "text": "What Codex unlocks for Notion",
+          "text": "PRC-linked influence operations are targeting AI debates in the US",
           "source": "OpenAI",
-          "url": "https://openai.com/index/notion"
+          "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
         },
         {
-          "text": "Five things you need to know about AI",
+          "text": "From data to decisions: how LSEG is scaling trusted AI",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/lseg"
+        },
+        {
+          "text": "How engineers at Nextdoor use Codex to build without limits",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/nextdoor"
+        },
+        {
+          "text": "Learning to lead in a hybrid human-AI enterprise",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/"
-        },
-        {
-          "text": "Industrial policy for the Intelligence Age",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
-        },
-        {
-          "text": "Confidential submission of draft S-1 to the SEC",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/openai-submits-confidential-s-1"
+          "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
         }
       ]
     },
@@ -219,42 +219,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "15:15",
-          "title": "AI Models Transform Defect Inspection And Review, But Can Fail To Scale",
-          "summary": "Majority of AI initiatives falter; synthetic data gaining traction due to limited real-world data. The post A…",
+          "title": "Building Multi-Agent Systems For ASIC Flows",
+          "summary": "How agents can be used to divide and conquer IC design problems. The post Building Multi-Agent Systems For AS…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-models-transform-defect-inspection-and-review-but-can-fail-to-scale/"
+          "url": "https://semiengineering.com/building-multi-agent-systems-for-asic-flows/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:07",
-          "title": "What I Learned At The 2026 GSA Tech Summit: The Future Of Semiconductor Collaboration Is Full Stack",
-          "summary": "Advanced node manufacturing and heterogeneous integration require partnerships that span the full value chain…",
+          "time": "15:03",
+          "title": "PCIe Benefits From AI, Despite Scaling Protocols",
+          "summary": "CXL is also gaining traction in AI processing, while MIPI and others are growing at the edge. The post PCIe B…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/what-i-learned-at-the-2026-gsa-tech-summit-the-future-of-semiconductor-collaboration-is-full-stack/"
+          "url": "https://semiengineering.com/pcie-benefits-from-ai-despite-scaling-protocols/"
         }
       ],
       "briefs": [
         {
+          "text": "CPO Will Dominate Scale-Up: Link Budgets For dB And $ Are Key",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/cpo-will-dominate-scale-up-link-budgets-for-db-and-are-key/"
+        },
+        {
+          "text": "AI Models Transform Defect Inspection And Review, But Can Fail To Scale",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/ai-models-transform-defect-inspection-and-review-but-can-fail-to-scale/"
+        },
+        {
+          "text": "What I Learned At The 2026 GSA Tech Summit: The Future Of Semiconductor Collabo…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/what-i-learned-at-the-2026-gsa-tech-summit-the-future-of-semiconductor-collaboration-is-full-stack/"
+        },
+        {
           "text": "Effective UX/UI Is A Critical Link Between AI Insights And Yield Improvement",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/effective-ux-ui-is-a-critical-link-between-ai-insights-and-yield-improvement/"
-        },
-        {
-          "text": "High-Speed Manufacturing And In-Field Scan Test Access Via PCI Express For GPIO…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/high-speed-manufacturing-and-in-field-scan-test-access-via-pci-express-for-gpio-limited-socs/"
-        },
-        {
-          "text": "Why Analog And Mixed-Signal Chips Resist Adaptive Test",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/why-analog-and-mixed-signal-chips-resist-adaptive-test/"
-        },
-        {
-          "text": "Co-Packaged Optics Testing Faces Steep Data Center Ramp",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/co-packaged-optics-testing-faces-steep-data-center-ramp/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:12",
-          "title": "说话4分钟、离座9分钟算“严重违纪”？企业管理不能违反常识 - 新浪财经",
-          "summary": "说话4分钟、离座9分钟算“严重违纪”？企业管理不能违反常识 新浪财经",
+          "time": "23:15",
+          "title": "保利发展：面对复杂的市场环境，公司管理层始终积极应对 - 新浪财经",
+          "summary": "保利发展：面对复杂的市场环境，公司管理层始终积极应对 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNblFrckJRYlRCa2FjLUFyRlZLUG04YUhibEdiU09RRFN3R3pjREg3UjdERFdsbVA5aWtsTW1OMEF1d2x2MmlWNnpfNEhVN3RRSkZITlp0S1hSazJjRTlYakxGb2hieTlSZENYSWRLbUNoc2ZBTEtISENiV3BvNHV4aXZOTjN6TUw4WVFSNWc3RzZzVHhnM0p0bA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GOVVDc2loajVySXdkbmo0M0VEc3RWOVg0X2w1dEdXVDVFTlNfVzh6X0hUVGNaQnhndk1taXZuRzRZUDVjenhaMkM2MHVlZE5nY1U4WGN1SHBYb0pWTjU4R21VZjBXdC1QZVJ3LVJnZGpXSDJDdS0tYQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:43",
-          "title": "人工智能产业日报(12.11)：AI行业动态与公司战略调整 - 积墨 AI",
-          "summary": "人工智能产业日报(12.11)：AI行业动态与公司战略调整 积墨 AI",
+          "time": "20:01",
+          "title": "喜马拉雅运动盐糖 受委国体院企业战略伙伴 - e南洋",
+          "summary": "喜马拉雅运动盐糖 受委国体院企业战略伙伴 e南洋",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYXBBNUF6OF9ibEpvVmlGUDFlMEIzMFRHYkphdUE2S1FGaG5NTU4wNGFfTE9LMTY1TnM5UzA2MjA4cWFOLTJkR3g0Q1libk1Ibi1EdE5uRUQ4Rk9VeWROblZnMDFxQXVxa0QwdTY4OGl2WVByM295aHY3SGt0XzRPSXppTElhT0VrZUJMb2Y1S3N3QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hanYzekx3a2xHOVROLUNJaE10M2c4VlZaaVJZS0kxR1JCU2pCdWc0VGJ5WVpUdl96YS1qc2RWTFY3RlFmYUF4aXdlcXBub01LVGk5dmdjMEpVbzczNnpCTWdZRQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "如何破解AI落地断层？SAP在华发布“自主运营企业”战略|智能体|数据|商业|流程|系统_手机新浪网 - 新浪财经",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTVzbnE0WW01TjJxMjlYTHhCc3RUZzNFTEpQYURhd3FhT3pGS0VGdXo0SHpuRmlaOXFIWFlaREliTTl2WDA3Y1JfUGxDc0ZJYXNhYUJUc1FHNEhOMWVPdnVXTFpOV0Etc095MV8tR2FFSm9GZmtTSWZkRDh1cE1vUnpjcDI1eGs?oc=5"
-        },
-        {
-          "text": "TD Cowen重申Evolv Technologies买入评级，看好公司战略改进 提供者 Investing.com - 英为财情 Investing.com",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FdXZZTjlwOUw1MTI4Z2J6ek04MFlZSEpCdGlVNWFkNW9NS3lDTTRqYTZvZ2ctWGlSU19ya2k1OF9hUDdhaS1pUDBqYlBHQWhHazFlVlVDd1BRbzdBbjdRcjd0M2FCdHZORjRpMEgxOVhYTTY3?oc=5"
-        },
-        {
-          "text": "中投公司管理层调整 - 新浪财经",
+          "text": "潮评丨企业管理，不能靠把人“钉”在工位上 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QNWMxSlJnZEtLN3pyRFhodWthSFRfZ2ZZRktPSEkzTlJrQUp3Y3NZVmhRc2dhSXpqc1RtOG9zSmx0UVhlVl8xTjFQY1lpT2pVLXlveGdNcVU5UTFCRkpOeUEtTE4xNEpxbVlfQlZ0TQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYjNMcnh2S1IyeUtacGFNWFc3LWxzZnlVUDgxTkpJOEVZZXBZWGdPQnFrYnFDMFlXUFVGWE82Y3M2b2FpMUJ4LTZMbmJ4dmFlaXYzamJOT0hQX1RpejUzZFhrMUNKeGNGQzBYUlkzTHJPcEgxZDVrUmtYWmlxXzV1Rzk5YTR4SlotWGpWbA?oc=5"
         },
         {
-          "text": "强邦新材(001279):与上海强邦企业管理咨询有限公司关联交易 - 中财网",
+          "text": "泰金新能：胜宏科技参与了公司战略配售 - 新浪财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UVE1lWU8xcUFSSlhpM1d6UEVDdUpCWWV0SzFsYTVybjlMLUN1ZGlsUldGNmJxUVdXRDg4Z3NOUEdYckg5Y3BrbzRMOGk0R0pmSjNXV2RRLV82UjRPU1BUU0FUQVM0djFBMzdPWndR?oc=5"
+        },
+        {
+          "text": "中投公司管理层调整 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGai0yYy1lS2NIWENNZE1sdGlWMjJKVTJzRUZUWWN4a2Jod1lyZVRCc1FPS29QS0ppajVPa2Vvb0g0ejF4QVRJd3VvcGIya3otaHVJdWd3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNenMxeU9odWNsS2tBUFVXeXczUVVERGk1aVI5SUtRaktFUDdpZkxHek5QMC1DeHMwWThwRmgxUUlCQmVZZjZiZk9uSGQwLTZjc2hyVS13dHlUT194MXUwb1AtMTVQX0pFWmNvSFFSM2gwTExpZTItTjdEaklsWDJ5RXVkaF9SRW1WRHcxaA?oc=5"
+        },
+        {
+          "text": "【中安时评·青年说】碎片监控粗暴辞退，企业管理当存温度 - 中安在线",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13OFhNdVVjWklyRFZ4SVZWQ2dLRThiTndiWWt6RENkYXJZTndkQ2NvTllTbEptYTJCMk1aSVJKdXEzOEdPT3ZjWnR2bWIxZ3VnMkRuZXBfd3RodnAwVVBRcGg0Y1VzTHdpQnBHQjFtUGo3Undy?oc=5"
         }
       ]
     }
