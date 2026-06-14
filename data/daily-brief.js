@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月13日",
+  "publishDate": "2026年6月14日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "爱旭新能源2025年参保人数11人，较上期持平、同比无变化 - video.s…",
+      "title": "【视频】开着新能源去戈壁沙漠是一种什么样的体验？ - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "More strikes impact Lebanon hospitals a…",
+      "title": "Instability, war and closed borders: Ho…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:22",
-          "title": "爱旭新能源2025年参保人数11人，较上期持平、同比无变化 - video.sina.com.cn",
-          "summary": "爱旭新能源2025年参保人数11人，较上期持平、同比无变化 video.sina.com.cn",
+          "time": "08:51",
+          "title": "【视频】开着新能源去戈壁沙漠是一种什么样的体验？ - 汽车之家",
+          "summary": "【视频】开着新能源去戈壁沙漠是一种什么样的体验？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOHFXTTFXbVZhWElpczhEUWZlUjAwSGtJTUxLN0RTbWE2QmV2M1FTc2RUbnFkWl9CVXFwUVJ6d0dtczJlN1FPU2JIOTZSSHVhbWFfaEdKZE9VaktWUXNlQVFUOXVycG9TX1FHUEl3Yy1VUjNuaHFqc01Md2EyX2hqN2RB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVMTNCMXozcWRERkdEbGE0b0FGYm12RUxtTVRLdWt4UzVLXzdDdEQyTVZZM0t5MzJfQ1lRcEhFMjhlTVFWQndPMV9SUG0zdnFYbDFuZG1CbEhobDA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:17",
-          "title": "【视频】21年12月上牌路虎发现运动新能源 - 汽车之家",
-          "summary": "【视频】21年12月上牌路虎发现运动新能源 汽车之家",
+          "time": "08:48",
+          "title": "经济政策不确定性下的数字经济、区域人工智能导向与产业结构升级：来自中国省级面板数据的实证研究 - 生物通",
+          "summary": "经济政策不确定性下的数字经济、区域人工智能导向与产业结构升级：来自中国省级面板数据的实证研究 生物通",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Kd0Itak1yUUpNVmFRaHR3b1NHSFZqZ3QwaXdWNUJvN0UxWXUyeDVrajlDZ3h0RndSbFZiWWgyNXpDQUNvQWhhYWszbWQxdHE0WlBuczZydjJGOG8?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwY0liMndHU1pKRHhEU01RSTFHcDM0Q1pfWE45dldzc2pJdEdNTXZtcktGQXAxQ2ZfTG1aNTVZOE5UV1ZSTjdwbnJ3bDhYU0V6dGNPQWdRams2NE8yUkMxVVlDZXMtY00yNzR1bw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "30-40万新能源越野SUV推荐：全新猛士M817解锁5+2+X生活 - 爱咖号",
+          "text": "广汽好车牵手广货好物促消费 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kaEc0Y3UzOXh4c1JKRlJFVHJMdXRKQ3E5ZmNaLWxRNEJyQVZhbEViX2RDUTNwTlFZSTBFYkZEMWQxQ0toZEVzSXRObDBORVFOVGJuN3R5X2k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXo5bng2WVZjTUE3TVZ0WDJBQURyTUFwN3BNYVhPRUJ2SzZJOVFRODVGaGdTVzBEeExGZmV2RENsME92YllfWHZWM1hieUJVSkloQTk5el9zN3FWajJhR3BraGpxTnB1YzNEOGVGUjZQRjRxT01ReW5tc2pETHB1YjdUcnJEWHB4VWpTUHhUOWdSRGR1dVp5cg?oc=5"
         },
         {
-          "text": "制造业商业模式创新驱动因素的组态揭示：数字资源与能力的互动作用 - 生物通",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96RExkaUZ5RnV5NXBZN3hFdWRCOHE3NTJSdGYwdURMckc2LWpCMVh1c3VfSXBnT3lKaXpxUy1URWoyaVYxSDZ5NEZfa0t2Mm51UGtoOHpVNU83RTAxOTNIVXRIVzBRVHVscGMwaw?oc=5"
+          "text": "乘联会专家：油车不会彻底消失，但后半句说完，合资品牌心都凉了 - 凤凰网汽车",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUOGZDTGdQRl9VS01seHk4NDFvRWoxeVhnbFYtSzRSbG9aem9zR1ZmQ3RoeFNaR3dONEtFWGxQbmU0YzRWV054VnJDMmQ?oc=5"
         },
         {
-          "text": "【视频】BBA车主换什么新能源SUV？ - 汽车之家",
+          "text": "五菱推出星光L新能源SUV，解锁年轻人周末出游新姿势 - 凤凰网科技",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92RDVKSFZKVzIwSnFkY091OUpXNWgxT2xMSzRNVjdlUlBpaEJMek9tWGhlalRrVXQwM2I0S0dWR18xRmM0c2Z4aVFUTlp1R2Q4RWVUY01jTU05ZEE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84blJ2MmxjQXhHeS1Yd21NVk1pMnBhbW1lTUhZV0VDMnU0QmJ6bk8zRlVjamxzSGZmM1ZOMlRjRS1fUWl5aU9MbENodmw?oc=5"
         },
         {
-          "text": "12年暴涨400公斤！国家喊新能源车“减肥”_车市动态 - 中金在线",
+          "text": "15万级长续航低油耗新能源SUV求推荐，五菱新推星光L - 凤凰网科技",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QRjRGakJxVDYxQWVOQzZiY2s3RWFqNlo2eFo1ejFEQ3pubGtoR19PN195ZDVOYUhRaGd2eGViaDRVQkotcy1LdHZZb1NuNlBhQ3B0WmJCTHJkSjJlbnFRQW15LXlhZzEyX2M0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SMmdTODJBSWVMVVcwdFZMbGxwNGQyUmJ4c0lqSGJnSUJhSFg1ekEtVm4wRVlCdlhIMFhPM0FDUU50aHdpbEZwejRLU2M?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "More strikes impact Lebanon hospitals as humanitarian situation deteriorates",
-          "summary": "The humanitarian situation in Lebanon is being pushed further into crisis as hostilities continue between Isr…",
+          "title": "Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children",
+          "summary": "The odyssey begins in Indonesia and ends, 15,000 kilometres later, in Kabul, the capital of Afghanistan. Alon…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167714"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167684"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN ‘encouraged’ by talk of possible US-Iran ceasefire deal",
-          "summary": "The United Nations continues to monitor developments amid conflicting reports on Friday of a possible ceasefi…",
+          "title": "Security Council weighs future of UN war crimes mechanism as closure nears",
+          "summary": "The Security Council on Friday weighed the future of the UN mechanism responsible for completing the remainin…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167713"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167715"
         }
       ],
       "briefs": [
         {
+          "text": "Women and girls caught up in Yemen’s ‘forgotten crisis’ bear the heaviest toll…",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167708"
+        },
+        {
+          "text": "More strikes impact Lebanon hospitals as humanitarian situation deteriorates",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167714"
+        },
+        {
+          "text": "UN ‘encouraged’ by talk of possible US-Iran ceasefire deal",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167713"
+        },
+        {
           "text": "World News in Brief: State-supported safe houses in Haiti, EU pact strengthens…",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/06/1167712"
-        },
-        {
-          "text": "‘Perilous moment’ threatens to reverse years of gains in HIV/AIDS response",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167710"
-        },
-        {
-          "text": "Ukraine civilian casualty toll in May highest in four years, UN monitors say",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167707"
-        },
-        {
-          "text": "WHO report shows progress in blood safety, but there are worrying gaps",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167703"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "More strikes impact Lebanon hospitals as humanitarian situation deteriorates",
-          "summary": "The humanitarian situation in Lebanon is being pushed further into crisis as hostilities continue between Isr…",
+          "title": "Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children",
+          "summary": "The odyssey begins in Indonesia and ends, 15,000 kilometres later, in Kabul, the capital of Afghanistan. Alon…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167714"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167684"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN ‘encouraged’ by talk of possible US-Iran ceasefire deal",
-          "summary": "The United Nations continues to monitor developments amid conflicting reports on Friday of a possible ceasefi…",
+          "title": "Security Council weighs future of UN war crimes mechanism as closure nears",
+          "summary": "The Security Council on Friday weighed the future of the UN mechanism responsible for completing the remainin…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167713"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167715"
         }
       ],
       "briefs": [
         {
+          "text": "Women and girls caught up in Yemen’s ‘forgotten crisis’ bear the heaviest toll…",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167708"
+        },
+        {
+          "text": "More strikes impact Lebanon hospitals as humanitarian situation deteriorates",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167714"
+        },
+        {
+          "text": "UN ‘encouraged’ by talk of possible US-Iran ceasefire deal",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167713"
+        },
+        {
           "text": "World News in Brief: State-supported safe houses in Haiti, EU pact strengthens…",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/06/1167712"
-        },
-        {
-          "text": "‘Perilous moment’ threatens to reverse years of gains in HIV/AIDS response",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167710"
-        },
-        {
-          "text": "Ukraine civilian casualty toll in May highest in four years, UN monitors say",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167707"
-        },
-        {
-          "text": "WHO report shows progress in blood safety, but there are worrying gaps",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167703"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:35",
-          "title": "Fonix向首席财务官及员工授予企业管理激励期权 提供者 Investing.com - 英为财情 Investing.com",
-          "summary": "Fonix向首席财务官及员工授予企业管理激励期权 提供者 Investing.com 英为财情 Investing.com",
+          "time": "18:42",
+          "title": "资生堂注销中国子公司！战略收缩重组能否破解增长困局？ - Sohu",
+          "summary": "资生堂注销中国子公司！战略收缩重组能否破解增长困局？ Sohu",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IVG43NC1OcHR6NFNBdWtnMi1DQUxDVEtQSUpGQlJkSFRfUXN4Vm1GQUdscUFFWnNhOHRxUlRUYXdYdUtZYk5pNkpGVk9JTkhJXzAzY3NFT0IyMjJOeTlPbGd4bksydy03VGxHMTV1elE?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hYnlleWE3RXB6M05nN0JYMHlBX2FXcWVNcjVHeWZXOUd2d0xfUk1lWi1HeFRRVjkxMnZ3S0s5YXk4VS1rX1ZMOGt2T3IzcUI1T0E?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:05",
-          "title": "华光源海(920351):股东减持股份结果 - 中财网",
-          "summary": "华光源海(920351):股东减持股份结果 中财网",
+          "time": "12:00",
+          "title": "实干出实绩丨西和中宝公司：管理“沉”下去 执行“提”上来 - 新浪财经",
+          "summary": "实干出实绩丨西和中宝公司：管理“沉”下去 执行“提”上来 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zVW1oM2pod2gyYTZyam1DaFlyQ2ZYNlZ6cmRXd05YQzlWLUhrTEZocHRURTFBbWxFdjB1YXpLeTdGa2VjSU0ta1EzZVFFeVpHN2lBOGJB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9seHk4Ukc5TURlWlpBVk1lRFVZRFNLeGxMZTNMMEQ4aEFTaUQxaFUyaFpSUzJKbEo2MlFqaWZWWFNNZHlzRGdoU3JhUzJxc0xjckpNeEhpVlBJRTVabmVRYlQ1Q3Ezc0lUNl8wT05RSGdnelgxeGc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "越秀资本(000987):控股子公司管理制度（2026年6月） - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMb1VKODhjeGQ0b2ZvUE9aVDZqTUVEX25PM1ZWYUZxVGNINFdYdm9uelJOX0RfTzRWZEJZZG5xQWl2ek5zTVpjU0VPbklXbmJxTXdaYnBn?oc=5"
-        },
-        {
-          "text": "凯龙股份(002783):子公司管理制度（2026年6月） - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OUzM2ZDZRcERzRTAxSlA4eTdzc3M2THdtRU1nZExNejBYMldyNzd3V2hJeHY4bk9sMlIzM0RlQTlzbXhCVTNlVzVHVC1Xc3VmYXRmSWVn?oc=5"
-        },
-        {
-          "text": "关于同意对岛津企业管理（中国）有限公司GC-2060型气相色谱仪最终用户使用活动实行豁免管理的复函 - 中华人民共和国生态环境部",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSHQzdzR3X1Q0cU9jQzd6Y2xPZVU3R2lmX29rWDBxZlBRbk9KUkhaYTRRc2tlV2xibDNyUnowYTZzOXMwX2h3Y0tkdnZwdlAtY1V2d1AwUGdnMDJfWVN0U0FLYVNqNndaZEFGQkExX1EzS0t6Yk5udU45RzhfUQ?oc=5"
-        },
-        {
-          "text": "杜邦（DuPont）百年企业战略转型深度研究报告 - 搜狐网",
+          "text": "AI打通本地运营 双链协同稳拓出海丨美云智数AI跨境供应链韧性保障方案 - 中华网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRmhIWE80bzdrUzF4d2Zra2xNVTRScGNiTS1oeWVKNGsxNGF5VzQ2RTBUbVJ0MHlZMFBGOGx2cGxnQ3MyRUI4RXdSRGE3TnJzTnAyREFkZ0VNMjBQSUhULXJDYXlITnlDaE9HaXplX2htNmRWVllsMTZtSTBSSkJiMmJpczBUcUQyZ2haNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ROXJINlQteUloem94SktrMWlzemJpc3ZQNjhXcHlENkl6Vlk4cVIyQ0phbEhEYkFqUDRxMHJacENWMnNDRF8tUWNQdkxpMmlWM2V4dU1JejZRVWMwbjk1OGRzbWxLbHA2dmtEdkdn?oc=5"
+        },
+        {
+          "text": "毕得医药股东舟山兰旦企业管理合伙企业（有限合伙）2天减持13万股，套现591.17万元 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXo5NnktcllrWlZJYU9saTBnbkFUamJVVnZ6QW1RbmwyQWtObEhGU0RNdl96N3FiN0dpc01PZFhLdXpvRFpVaTU5eHRaa1Fld0ZkVnZpTy1oQUxQZTVZMHlfZ1pOOTB4ZExaQ3dlaWxRa2ZzRndoWU8yWHo5dkFLMWdCaFpCWUJHeWxTb0FwQmVvd3BNYzZ3aUtQVGc?oc=5"
+        },
+        {
+          "text": "万业企业管理人员薪酬显著提升 - 财富号",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPLXpZUFA5MWd0WF9UcWtpZ1FZM2dENVZiWHlCeS00R240Z1ZKd1M4RTQ4VjIxd3VWOVlIc1RsSy0xd1J4YXc4RTR2ei1hTU1IaF9Pc1hDbXZkdTFyMFlzdFYxY1ZnZEVTMTYydTlmb0phOS1WeEpuM0dEenpJcTdyMkNTdGxta1QydTNHdkpqb1ZJbTd2RklON0xZNDAwaGpQV1Z5Yk9YSnBEWFFTRTlWTnFuc0RuSWdtSzdiXzBMaG44WTlBcjVaN1paT05jRWE0al80dXE5SzdRZUJ5QXRLZWRJYmsweWlZS09YakxtNlRQNzhjZnA1TS13cnJiNFFLdWc?oc=5"
+        },
+        {
+          "text": "华光源海股东长沙源玖企业管理咨询合伙企业（有限合伙）4天减持20.62万股，套现283.67万元 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1ZUT1UzVDZLOUkyMndvelB2S2RVamdtRUJlcS14SkQzUEItYUZZOXFmSEhYWG4tcFV5OUVwTnJ4OG53X1hTMGJRblN2QWRnR05MekVRcnRCczNLblNRcFJMT2E5d3FnM3h5TlZ6Z19CZEJFVlpVX2VmWEJqa1lobWp3eWk?oc=5"
         }
       ]
     }
