@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月14日",
+  "publishDate": "2026年6月15日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【视频】开着新能源去戈壁沙漠是一种什么样的体验？ - 汽车之家",
+      "title": "【视频】新能源MPV遍地开花！为啥丰田赛那依旧稳居冠军？ - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Instability, war and closed borders: Ho…",
+      "title": "Refugee turned peacemaker: The young wo…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:51",
-          "title": "【视频】开着新能源去戈壁沙漠是一种什么样的体验？ - 汽车之家",
-          "summary": "【视频】开着新能源去戈壁沙漠是一种什么样的体验？ 汽车之家",
+          "time": "09:38",
+          "title": "【视频】新能源MPV遍地开花！为啥丰田赛那依旧稳居冠军？ - 汽车之家",
+          "summary": "【视频】新能源MPV遍地开花！为啥丰田赛那依旧稳居冠军？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVMTNCMXozcWRERkdEbGE0b0FGYm12RUxtTVRLdWt4UzVLXzdDdEQyTVZZM0t5MzJfQ1lRcEhFMjhlTVFWQndPMV9SUG0zdnFYbDFuZG1CbEhobDA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5idVlOOGw0OUdwZ09Ed2hTdE1uR3VSSDVtZkE1NDRCcFFYNGtheFZSazhpTi1CRXFvT3V6ZGpoVXVCYVdhT3FtY2kxME1JOHFaWlZPQ28zV1hGeGZFa2NZWGdVdWZwZUpTaUxn?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:48",
-          "title": "经济政策不确定性下的数字经济、区域人工智能导向与产业结构升级：来自中国省级面板数据的实证研究 - 生物通",
-          "summary": "经济政策不确定性下的数字经济、区域人工智能导向与产业结构升级：来自中国省级面板数据的实证研究 生物通",
+          "time": "09:32",
+          "title": "三一重能、华能新能源合资成立新能源公司 - 东方财富",
+          "summary": "三一重能、华能新能源合资成立新能源公司 东方财富",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwY0liMndHU1pKRHhEU01RSTFHcDM0Q1pfWE45dldzc2pJdEdNTXZtcktGQXAxQ2ZfTG1aNTVZOE5UV1ZSTjdwbnJ3bDhYU0V6dGNPQWdRams2NE8yUkMxVVlDZXMtY00yNzR1bw?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jNWJyMkRyMF81dU94S3kzaVFybTI5QnZXZXpxSk1wYXZYZ3pScXdMbDlfWmd6Z0lVNWJhTDhOM0IwRG85RnhrMF9QX084Z0xvN2NoV0syS3BHdDhzNjBQVV9lTmV0QQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "广汽好车牵手广货好物促消费 - 新浪财经",
+          "text": "年产值4亿元，抚州这家新能源线缆企业生产忙 - 凤凰网江西",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSXo5bng2WVZjTUE3TVZ0WDJBQURyTUFwN3BNYVhPRUJ2SzZJOVFRODVGaGdTVzBEeExGZmV2RENsME92YllfWHZWM1hieUJVSkloQTk5el9zN3FWajJhR3BraGpxTnB1YzNEOGVGUjZQRjRxT01ReW5tc2pETHB1YjdUcnJEWHB4VWpTUHhUOWdSRGR1dVp5cg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BTnFnWkdSUldLRGpoSFVnZnUtOEdzLXBfRExjemQxMlRTNkEtMGJYNWxiMHFodTl0TC1IMFpCclBUZG1DMHRXU2tB?oc=5"
         },
         {
-          "text": "乘联会专家：油车不会彻底消失，但后半句说完，合资品牌心都凉了 - 凤凰网汽车",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUOGZDTGdQRl9VS01seHk4NDFvRWoxeVhnbFYtSzRSbG9aem9zR1ZmQ3RoeFNaR3dONEtFWGxQbmU0YzRWV054VnJDMmQ?oc=5"
+          "text": "长安汽车否认“四折出售长安福特新能源股权” 后者还有业务吗？ - 新浪财经",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wUVF3VzBkQmJ4SDYxX0NRVTlvS3FicjJiZkdnRnN2VGJnS2xDbFNLVnFYa09HaUtYMkM3d2xsWngtVUNvNDRNV3ByOGt6NmpUU1c1VU1Bckw0Tm9YVWFpZ3ZmNjdsazNzVmJYeDg4MW5zaG56a2hwZWZGV0FUb1E?oc=5"
         },
         {
-          "text": "五菱推出星光L新能源SUV，解锁年轻人周末出游新姿势 - 凤凰网科技",
+          "text": "腾势济南三车齐发，重新定义豪华新能源出行：把“充电焦虑”变成“充电自由 - 爱咖号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84blJ2MmxjQXhHeS1Yd21NVk1pMnBhbW1lTUhZV0VDMnU0QmJ6bk8zRlVjamxzSGZmM1ZOMlRjRS1fUWl5aU9MbENodmw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ReHhORjhSMDkwb2JKaDQ0TEwyVVpKLXhJSFNQODVuOGpId3VkMWUwLVNvQ1BraDBtMi1jbnpvdXo0UU9aYzZnb0pHbndHNmNTSFlwVUYySGZpUQ?oc=5"
         },
         {
-          "text": "15万级长续航低油耗新能源SUV求推荐，五菱新推星光L - 凤凰网科技",
+          "text": "14.98万元起售！真新能源皮卡长城炮Hi4-T夯爆了 - 爱咖号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5SMmdTODJBSWVMVVcwdFZMbGxwNGQyUmJ4c0lqSGJnSUJhSFg1ekEtVm4wRVlCdlhIMFhPM0FDUU50aHdpbEZwejRLU2M?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BTjBaWWNmTktaQ3hZbmcwTVlfSHh6UlRjakhWb2FVMndFWTFyY1hKdjFKNHltXzdvclNIVkZJcEwzd0ZRa181NVpadGdmVkptb1pVajNTaUNaQQ?oc=5"
         }
       ]
     },
@@ -123,23 +123,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
+          "title": "Refugee turned peacemaker: The young woman leader transforming communities in the Central African Republic",
+          "summary": "In the heart of the Central African Republic (CAR), a nation long marked by conflict, Nina Mireille Yankinon…",
+          "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167705"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:00",
           "title": "Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children",
           "summary": "The odyssey begins in Indonesia and ends, 15,000 kilometres later, in Kabul, the capital of Afghanistan. Alon…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/06/1167684"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "Security Council weighs future of UN war crimes mechanism as closure nears",
-          "summary": "The Security Council on Friday weighed the future of the UN mechanism responsible for completing the remainin…",
-          "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167715"
         }
       ],
       "briefs": [
+        {
+          "text": "Security Council weighs future of UN war crimes mechanism as closure nears",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167715"
+        },
         {
           "text": "Women and girls caught up in Yemen’s ‘forgotten crisis’ bear the heaviest toll…",
           "source": "United Nations News",
@@ -154,11 +159,6 @@ window.dailyBrief = {
           "text": "UN ‘encouraged’ by talk of possible US-Iran ceasefire deal",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/06/1167713"
-        },
-        {
-          "text": "World News in Brief: State-supported safe houses in Haiti, EU pact strengthens…",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167712"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "01:00",
+          "title": "Introducing the OpenAI Partner Network",
+          "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoptio…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-openai-partner-network"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "18:00",
           "title": "New OpenAI Academy courses for the next era of work",
           "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflo…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
           "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "08:00",
-          "title": "How Preply combines AI and human tutors to personalize learning",
-          "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language lear…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/preply"
         }
       ],
       "briefs": [
+        {
+          "text": "How Preply combines AI and human tutors to personalize learning",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/preply"
+        },
         {
           "text": "Google DeepMind is worried about what happens when millions of agents start to…",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
         },
         {
-          "text": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+          "text": "OpenAI to acquire Ona",
           "source": "OpenAI",
-          "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
+          "url": "https://openai.com/index/openai-to-acquire-ona"
         },
         {
           "text": "BBVA puts AI at the core of banking with OpenAI",
           "source": "OpenAI",
           "url": "https://openai.com/index/bbva"
-        },
-        {
-          "text": "OpenAI to acquire Ona",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/openai-to-acquire-ona"
         }
       ]
     },
@@ -267,23 +267,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
+          "title": "Refugee turned peacemaker: The young woman leader transforming communities in the Central African Republic",
+          "summary": "In the heart of the Central African Republic (CAR), a nation long marked by conflict, Nina Mireille Yankinon…",
+          "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167705"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:00",
           "title": "Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children",
           "summary": "The odyssey begins in Indonesia and ends, 15,000 kilometres later, in Kabul, the capital of Afghanistan. Alon…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/06/1167684"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "Security Council weighs future of UN war crimes mechanism as closure nears",
-          "summary": "The Security Council on Friday weighed the future of the UN mechanism responsible for completing the remainin…",
-          "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167715"
         }
       ],
       "briefs": [
+        {
+          "text": "Security Council weighs future of UN war crimes mechanism as closure nears",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167715"
+        },
         {
           "text": "Women and girls caught up in Yemen’s ‘forgotten crisis’ bear the heaviest toll…",
           "source": "UN News",
@@ -298,11 +303,6 @@ window.dailyBrief = {
           "text": "UN ‘encouraged’ by talk of possible US-Iran ceasefire deal",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/06/1167713"
-        },
-        {
-          "text": "World News in Brief: State-supported safe houses in Haiti, EU pact strengthens…",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167712"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "18:42",
-          "title": "资生堂注销中国子公司！战略收缩重组能否破解增长困局？ - Sohu",
-          "summary": "资生堂注销中国子公司！战略收缩重组能否破解增长困局？ Sohu",
+          "time": "17:52",
+          "title": "资生堂注销旗下一家中国子公司！战略收缩重组与组织架构调整，能否破解增长困局？ - Sohu",
+          "summary": "资生堂注销旗下一家中国子公司！战略收缩重组与组织架构调整，能否破解增长困局？ Sohu",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hYnlleWE3RXB6M05nN0JYMHlBX2FXcWVNcjVHeWZXOUd2d0xfUk1lWi1HeFRRVjkxMnZ3S0s5YXk4VS1rX1ZMOGt2T3IzcUI1T0E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTlE2LS1CdlRDX29reWFibUU4a0NsOXNsdWxzTHRjelBvbmxTOVRMdURmZlNwcTNEOF9pZjJEWXNRcmdqay1xa0d4YndUYXNiSUtzYk9GNDdGbmM3SnZLT1A0cWpPNy1Wck5ybFhuRW51RWw1SGZaWUFvXzNGNlMzNlVfVzlJQnFuTUxHSA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "12:00",
-          "title": "实干出实绩丨西和中宝公司：管理“沉”下去 执行“提”上来 - 新浪财经",
-          "summary": "实干出实绩丨西和中宝公司：管理“沉”下去 执行“提”上来 新浪财经",
+          "time": "11:37",
+          "title": "百年零部件企业战略重组，动力总成与电气化版图再落一子！ - 电子工程专辑",
+          "summary": "百年零部件企业战略重组，动力总成与电气化版图再落一子！ 电子工程专辑",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9seHk4Ukc5TURlWlpBVk1lRFVZRFNLeGxMZTNMMEQ4aEFTaUQxaFUyaFpSUzJKbEo2MlFqaWZWWFNNZHlzRGdoU3JhUzJxc0xjckpNeEhpVlBJRTVabmVRYlQ1Q3Ezc0lUNl8wT05RSGdnelgxeGc?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4cjlqZmpWaDVVbmRiX1QwTVFDSjlvZFJQZGw2d0VBYnE5c2pjU2ZnWGRQY2hFeWdCSWtOLXpjS0NGQnR6ZWVSOXJwRDQ1c3J0dUpN?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "AI打通本地运营 双链协同稳拓出海丨美云智数AI跨境供应链韧性保障方案 - 中华网",
+          "text": "美国下架涉冒充\"美国制造\"餐具,打击中国供应链 - wenxuecity",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PT1hfTnNCSS1XMFBSa2pqRm1LR3JiQTZ3WW1zRGdFcUdwb25hZlFoS1J0UkRuUm5EX21vSnhfY3c3MEtfd0ozbFVuMW5JNzhvUVJldHM2Y1Ztcld4QU5QcUF2V0o5WUtQ?oc=5"
+        },
+        {
+          "text": "中投公司管理层调整 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Tb05LZWx0THpBQnA5YzNlVG5Uei1uQ2Zqc2kzVmpxa0pRZTNMNEhveUZ6OWJTUV9qb2MwdG9sQXlIallUYmtnTWM4dGVxeUZiUGozb1NJamVvOU0xc3pvaWVlYWJBMnROQjJXalkzQnh2N3lteG1mQw?oc=5"
+        },
+        {
+          "text": "免费参加：AI赋能供应链韧性论坛 - 新浪财经",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ROXJINlQteUloem94SktrMWlzemJpc3ZQNjhXcHlENkl6Vlk4cVIyQ0phbEhEYkFqUDRxMHJacENWMnNDRF8tUWNQdkxpMmlWM2V4dU1JejZRVWMwbjk1OGRzbWxLbHA2dmtEdkdn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lamxiNjhNR0pTRDFQemlhM3kzLXBhRXlLeFVGZTkyMTRHSjlTWl9fVFhyYmVNV0N6U3Z1emZmLXlDdS15QlVteENLS0lGS1dBNlZDMFEtaWRiLTJFYmd4UGdOS2pJOGt3Tno1TjYtaDJZalZxRUtzeTFDc3J3dw?oc=5"
         },
         {
-          "text": "毕得医药股东舟山兰旦企业管理合伙企业（有限合伙）2天减持13万股，套现591.17万元 - 新浪财经",
+          "text": "实干出实绩丨西和中宝公司：管理“沉”下去 执行“提”上来 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXo5NnktcllrWlZJYU9saTBnbkFUamJVVnZ6QW1RbmwyQWtObEhGU0RNdl96N3FiN0dpc01PZFhLdXpvRFpVaTU5eHRaa1Fld0ZkVnZpTy1oQUxQZTVZMHlfZ1pOOTB4ZExaQ3dlaWxRa2ZzRndoWU8yWHo5dkFLMWdCaFpCWUJHeWxTb0FwQmVvd3BNYzZ3aUtQVGc?oc=5"
-        },
-        {
-          "text": "万业企业管理人员薪酬显著提升 - 财富号",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPLXpZUFA5MWd0WF9UcWtpZ1FZM2dENVZiWHlCeS00R240Z1ZKd1M4RTQ4VjIxd3VWOVlIc1RsSy0xd1J4YXc4RTR2ei1hTU1IaF9Pc1hDbXZkdTFyMFlzdFYxY1ZnZEVTMTYydTlmb0phOS1WeEpuM0dEenpJcTdyMkNTdGxta1QydTNHdkpqb1ZJbTd2RklON0xZNDAwaGpQV1Z5Yk9YSnBEWFFTRTlWTnFuc0RuSWdtSzdiXzBMaG44WTlBcjVaN1paT05jRWE0al80dXE5SzdRZUJ5QXRLZWRJYmsweWlZS09YakxtNlRQNzhjZnA1TS13cnJiNFFLdWc?oc=5"
-        },
-        {
-          "text": "华光源海股东长沙源玖企业管理咨询合伙企业（有限合伙）4天减持20.62万股，套现283.67万元 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQ1ZUT1UzVDZLOUkyMndvelB2S2RVamdtRUJlcS14SkQzUEItYUZZOXFmSEhYWG4tcFV5OUVwTnJ4OG53X1hTMGJRblN2QWRnR05MekVRcnRCczNLblNRcFJMT2E5d3FnM3h5TlZ6Z19CZEJFVlpVX2VmWEJqa1lobWp3eWk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5NTQ4U25CcmRDRVZtOUZVTXVNM3U0VUJPcG0wN1VEblI2am0yNHNwTm41S2Q3Vjg0WTF1VWRRTTlMUjJibjdqbGRtRzhtVWdNb0FDcFdSWEJGZEJmV0hEWXpLZVAtUUU4ZlFwd3NaTGwwNWhx?oc=5"
         }
       ]
     }
