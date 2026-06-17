@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月16日",
+  "publishDate": "2026年6月17日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "#财经# 新能源汽车驱动车规芯片爆发 - Sohu",
+      "title": "合资新能源轿车 与众07与日产N6怎么选？ - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Oxford physicists just made Schrödinger…",
+      "title": "Your brain was never designed for this…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:45",
-          "title": "#财经# 新能源汽车驱动车规芯片爆发 - Sohu",
-          "summary": "#财经# 新能源汽车驱动车规芯片爆发 Sohu",
+          "time": "09:38",
+          "title": "合资新能源轿车 与众07与日产N6怎么选？ - 汽车之家",
+          "summary": "合资新能源轿车 与众07与日产N6怎么选？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcW12TUxxOHB0Xy16ZGtsZlI3bG9jbFUwa3NraS1OUEpQQ2QtRk9BQnBmTWlvQktKQ3RISUFrbnE2QjZLNXNSSXQ3c1ptVGdsYzVkTjRwcjJTRE1jRmF3bkloNUtrb0RvaXJHRmsxUmo3OHZ6R0FoaGVjODg1bEtCNkFsS3h3cHlt?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QU1NzOWxSeWNseFp2Um90VFF2ZWxjNnRGR21DYXhFbER0YVBCem9uUjRmQmZoQUJ0dTFPVDc3bldLYTVxdUo1bUxHb1FLV1I0MEhlb3hLcmhndnM?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:37",
-          "title": "1-5月比亚迪新能源累计销量超140万辆，持续领跑国内车市 - 新浪网",
-          "summary": "1-5月比亚迪新能源累计销量超140万辆，持续领跑国内车市 新浪网",
+          "time": "09:31",
+          "title": "零跑全新C系列焕新上市，定义中国新能源经典车标准 - 新浪网",
+          "summary": "零跑全新C系列焕新上市，定义中国新能源经典车标准 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnYjE4SWd0NU5kZFdRWFZOa1I0WmRzbVNybHY3anBjWEF1RkZVdDV6MTVqMWU1NWx4MHkwa2Vld2t6dE0xZnJMUVhwbTlETE44QnpDMmdvdzRSbnFQWURJV25qM19IYnR5dWdnRnp4U2p3UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOVWh6Wm5sSGR2TFpCUnNiSEpXUkNYVmJVc0YtNTFSRk5WandVajdlRk83Q19iUXI3aG52U3lvTUpDVzVkNUpnbU0yeHhPOWFkR25vNWNSWGJQQl9kc1dvUFU3NDJDLW1uakFlWWdfYW0?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新能源渗透率创历史新高，二手燃油车保值神话破灭价格狂跌 - Sohu",
+          "text": "中国车企“全链条”出海受到世界市场欢迎 - 新华网客户端",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUh4RU14ZFRGTDVJQjJlLXpDcHpwQ25XeVV0TFI5dC1TMGdmYnN0SnM4LVZSRG5ORWJMdlJQRFRHRE11UGNMZjFRSDlmckswY2VacmxMdnZTWExSbmhFZ3VaZi1kRWdCU2VEcmpSRkljdTRWd0lLUUZ2SFFSUVFwUTlFNnh2RjZORlNIaA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWxJRHdfQVo5WnVDVmltYnpiYm9XRGtKUlc1MU91RUFVVVFjUTA0elNpaW84bWV0YWFkYnFrdUlaLWN2T3Z1cXMxZS1ubEFCaGFkdXVPRXA2b0R5Zm9jN0lqaUdxUllnSnJRQzJuRlctVk54eDlaTDJ5dW5wcTVtaFhlQlVHOGVMNlN1U0hVOEdkcmJvS2NRbHJB?oc=5"
         },
         {
-          "text": "国家能源局：1—4月可再生能源发电装机突破24亿千瓦 - 21财经",
+          "text": "国电电力山西新能源_行业新闻 - worldmr.net",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGVrbjJnSHhIVkIxLUNrMUpfTm5xb1JYd01ZUXBYUkJlVmlNTENFNjZrREM4T1l6U3ViQjllTW41ZWR1NXpNTF94RGl3d1N4QjJ1ZHRCNWI2QkxsR2NyTDgtM3RheFBPamhVSkFHQWZUZTVpYTV6ZmxTNHowdV95aDQ4Z1hsdmJaRXlKRExpOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWGk3cE0yOWdDRks3MDNpdlhCakl1NEhhdi1UVE9LRENnWWRTMmJHLUwtd01zS0JGRm5uaVBKVkVVVkxpWkplM2hiM0drNWhBYTlQSExGZHFVSEw0SkpfUWNsQXJxOEl2MDZCOURKS1dLTDE2X09BdmpPUzJ5S0pkMkZtbmJvUQ?oc=5"
         },
         {
-          "text": "面包车品牌推荐：商用运输优选，福田新能源面包车凭实力领跑 - 汽车之家",
+          "text": "新能源车ETF招商（159183）涨2.34%，半日成交额478.63万元 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DbHpNWkxCTXpxR3FZTVlrdTZrZThhUnZUY29EQWJXdUM0MHR3R1JrdDFhYnZ0ZWtrMm9aay02czY1SjV2QlJQdmVSbERDZ0NwdlEteDh1LTh4Smc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rLTY0bVNZdDB3dW1zdGVmM0Jpd1NkM2lHa0pldG5oQ1czUGw3VzE3eEYyaF9XZEZtQUtjdWFLMkZ6NHgwY2g1V2FyY2VtOEI2N2wxc1hqd3kzRDYtN0tuMUVmNzcteTlpclMzb2U5MWxGdw?oc=5"
         },
         {
-          "text": "6月15日新能源电池ETF嘉实（159052）份额减少2600.00万份，最新份额4.03亿份，最新规模4.05亿元 - 新浪财经",
+          "text": "宝新能源（000690）6月16日主力资金净卖出7334.89万元 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUxUZF9oQWRqRGFnX3JaRzdfVzZibmozc2U1cHY4OHFTSUNyY3ZZZE5iUFJTUlNZZDFiSWJUcVJzRzJ5aHNqcEoxOFJoNXVzMFpKSkM5ZHpnSFVSYUN6UFFQdE1lNHl5RGNLQ2FzZVFIY1R2Mlc0MThsdkpGR1FHbG1pdXFjVGFxN1BIMzFOUVZjYmNWUU43QXMxbw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObWZUZUl1ZXczVV9IM0hHdm5HdnE4TGFfRmw2QzJqdkRDTzBrdjA2ZXNvY0JTWnRTSldjVWJZLVRac0RWSGtyU0xaTWZJT0UyYjg4RlRZSnRNN0JnZWdJZllQeTVFUXRZdk8tQmplNXJ2MDFibFlWdHlsZWNYMFN4RzhCbE4yZDNu?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:32",
+          "title": "Your brain was never designed for this much bad news",
+          "summary": "Humans evolved to pay close attention to danger, but today that instinct is being overwhelmed by an endless s…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:29",
           "title": "Oxford physicists just made Schrödinger’s cat even stranger",
           "summary": "Oxford physicists have created an entirely new type of Schrödinger’s cat-like quantum state using components…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "18:38",
-          "title": "Brain-inspired chip runs near absolute zero and could transform quantum computing",
-          "summary": "Scientists at the University of Hong Kong have created a remarkable new type of brain-inspired chip that can…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Brain-inspired chip runs near absolute zero and could transform quantum computi…",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260612032024.htm"
+        },
         {
           "text": "One-way quantum synchronization could make quantum computers more reliable",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "AI could uncover new physics faster but there’s a surprising catch",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm"
-        },
-        {
-          "text": "A classic brain test exposed AI's biggest weakness",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260610003049.htm"
         }
       ]
     },
@@ -170,24 +170,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:46",
-          "title": "Why do South Koreans love AI so much?",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "time": "17:00",
+          "title": "Want to get a data center online quickly? Give it some flex.",
+          "summary": "At the end of a tense and scoreless first half of a soccer match between the English men’s team and rival Ger…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "08:00",
+          "title": "Predicting model behavior before release by simulating deployment",
+          "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real c…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/deployment-simulation"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Why do South Koreans love AI so much?",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
         },
         {
-          "priority": "重点看点 02",
-          "time": "01:00",
-          "title": "Introducing the OpenAI Partner Network",
-          "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoptio…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "Introducing the OpenAI Partner Network",
           "source": "OpenAI",
           "url": "https://openai.com/index/introducing-openai-partner-network"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "New OpenAI Academy courses for the next era of work",
           "source": "OpenAI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "How Preply combines AI and human tutors to personalize learning",
           "source": "OpenAI",
           "url": "https://openai.com/index/preply"
-        },
-        {
-          "text": "Google DeepMind is worried about what happens when millions of agents start to…",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
-        },
-        {
-          "text": "BBVA puts AI at the core of banking with OpenAI",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/bbva"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:30",
-          "title": "Modeling Multi-GPU Traffic For Distributed AI Workloads (UW Madison, AMD)",
-          "summary": "Researchers from University of Wisconsin-Madison and AMD Research and Advanced Development published a techni…",
+          "time": "06:30",
+          "title": "Google Details Five Generations Of TPU Training Supercomputers",
+          "summary": "Researchers from Google and University of California, Berkeley published a technical paper titled “Google’s T…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/modeling-multi-gpu-traffic-for-distributed-ai-workloads-uw-madison-amd/"
+          "url": "https://semiengineering.com/google-details-five-generations-of-tpu-training-supercomputers/"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:07",
-          "title": "Physical Neural Networks: A Survey (U. of Lübeck, TU Hamburg)",
-          "summary": "Researchers from the University of Lübeck and TU Hamburg published a technical paper titled “Beyond Silicon:…",
+          "time": "18:00",
+          "title": "Semiconductor Startup Builds Alternatives for Vital Legacy Chips",
+          "summary": "When the U.S. Navy’s fleet of F/A-18F Super Hornet fighter jets is headed for the scrap heap because an essen…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/physical-neural-networks-a-survey-u-of-lubeck-tu-hamburg/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems"
         }
       ],
       "briefs": [
         {
+          "text": "Chip Industry Technical Paper Roundup: June 16",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-16/"
+        },
+        {
+          "text": "Modeling Multi-GPU Traffic For Distributed AI Workloads (UW Madison, AMD)",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/modeling-multi-gpu-traffic-for-distributed-ai-workloads-uw-madison-amd/"
+        },
+        {
+          "text": "Physical Neural Networks: A Survey (U. of Lübeck, TU Hamburg)",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/physical-neural-networks-a-survey-u-of-lubeck-tu-hamburg/"
+        },
+        {
           "text": "Wi-Fi Flies Higher As Edge AI Build-Out Takes Root",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/wi-fi-flies-higher-as-edge-ai-build-out-takes-root/"
-        },
-        {
-          "text": "Research Bits: June 15",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-june-15/"
-        },
-        {
-          "text": "Fault Injection Framework Targets RISC-V Security Weak Spots",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/fault-injection-framework-targets-risc-v-security-weak-spots/"
-        },
-        {
-          "text": "Cross-Validated Timing Analysis for Automotive CAN Networks (NYCU et al.)",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/cross-validated-timing-analysis-for-automotive-can-networks-nycu-et-al/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "18:28",
-          "title": "迅策与沐曦股份等三家国产GPU企业战略合作 深化算力数据融合 - 富途牛牛",
-          "summary": "迅策与沐曦股份等三家国产GPU企业战略合作 深化算力数据融合 富途牛牛",
+          "time": "07:02",
+          "title": "丰原药业：蚌埠涂山企业管理有限公司质押337.07万股用于融资，安徽省无为制药厂质押1855.90万股用于融资 - 东方财富",
+          "summary": "丰原药业：蚌埠涂山企业管理有限公司质押337.07万股用于融资，安徽省无为制药厂质押1855.90万股用于融资 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUUnduWUdoa3FwSlQtS051Q3ZuTjVIc29qVmhoUU4zOTNaWmthOXAzUnI0NFAtb0hzejJqaGx4WEJGUTEzcmp3SEdvV1RNQQ?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sbmdpWHVzRW9QaDU0a0xiRlZMVDgtMmUyRFpVRUNlLW1sZUh3d29VaFJSU0Z2NVRKYTVTMExmRlN5SUFKWXRnNmUtWUs2VjdNZG1uNXVRbGNXbEdEVFJ0QmNtOA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "16:42",
-          "title": "“安全生产月”里的“关键一课”：深航江苏分公司管理层带头讲安全 - CARNOC.com",
-          "summary": "“安全生产月”里的“关键一课”：深航江苏分公司管理层带头讲安全 CARNOC.com",
+          "time": "03:31",
+          "title": "如何破解AI落地断层？SAP在华发布“自主运营企业”战略|智能体|数据|商业|流程|系统_手机新浪网 - 新浪财经",
+          "summary": "如何破解AI落地断层？SAP在华发布“自主运营企业”战略|智能体|数据|商业|流程|系统_手机新浪网 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWMDVGWVhWR2FsdU9XMzh0ZkNUMXo1alRuSmlUSXNtbGF2dGdTLUVYdW1UQkxkUzZUZ0VFbl95d2F4akI4T1lPUHd4RWdiQV9iMV9LYmh3?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPRi0wY1dsejd4elV3ZDBzM0Ytc08tMTIyX2JqZTZPRl9qRHdxaXl2ckpVcGtKNzhHWmxvcERtSmF6ZTNhRVpMblJfNWwzOFdMNFpiOTByenE1VnFTU0lzenJ4ZW1iSGJKYlVoMHdBaEVfTU0zalRzbnVfcjVtTFY0TlhwblFYY1FmNGZtVmFpVnRZQmJERWVtVFZoNGk2dEw4NDhvLTdqaHN5NEtNenZZdFo0YjQyUzlRanN2elNscy02RnAxcTYybEVfdjBqNjE2RlVVTWdEZXd2OHZSUkRlTEw2bzJ1TE9SaUd6N1ZTUE5hV25mT3dLMy1qYTBwdEZlZjBKa2dQUC1RZWc5N2pUcENiV0NKQQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "港股异动 | 蓝思科技涨超10%，子公司战略收购同昇光电，正式切入空芯光纤赛道 港美股资讯 - hstong.com",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LVXBPZllKeEtsTE4tOVF2QldGMmxHN05SUG52QUhIM3hXUU9RUGV2aXkwQ2pQblFKYmNYa2JfU1V4MERnbGpDSlI3WVJNMlYza05Tb1BJZFAzWFF2bWxtYnl3?oc=5"
-        },
-        {
-          "text": "百年零部件企业战略重组，动力总成与电气化版图再落一子！ - 电子工程专辑",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4cjlqZmpWaDVVbmRiX1QwTVFDSjlvZFJQZGw2d0VBYnE5c2pjU2ZnWGRQY2hFeWdCSWtOLXpjS0NGQnR6ZWVSOXJwRDQ1c3J0dUpN?oc=5"
-        },
-        {
-          "text": "美国下架涉冒充\"美国制造\"餐具,打击中国供应链 - wenxuecity",
+          "text": "Agent推高企业管理难度？复旦管院教授这样建议 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSS02SGtSeUwzTnFyaWtuZW1CZWxnQTJUWEZsQjVUcm5ZSkZaNW9IWlVOYXpxNEo4YWxLaHVfREN3OXZCdzRxcEp4Sm4tWVhyendJVkZPMjhweEFKbkR5MnFDdW9hRnBrOU1BMGFDSm44cGFiS0R5Szh6ZFNJWGpBbQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSEtLQ0NpUC1yQUZRdlduYndNMW1TaGU3RXg5WEJQdkNjVlg4SlVsWGJWRDk2M3RSWVZKTmIzcFVRZGJ4UVc3blBoUjhmN3VvRy1vT3RDLTVnWkppNzRsMWEwM3ljaW9OYkVJOGRUMHYya0Qtd0JfWU1Yb3BLN0I2TlViMkNVci1Sc3Z5Ug?oc=5"
         },
         {
-          "text": "中投公司管理层调整 - 新浪财经",
+          "text": "中国信达等在北京新设企业管理中心 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Tb05LZWx0THpBQnA5YzNlVG5Uei1uQ2Zqc2kzVmpxa0pRZTNMNEhveUZ6OWJTUV9qb2MwdG9sQXlIallUYmtnTWM4dGVxeUZiUGozb1NJamVvOU0xc3pvaWVlYWJBMnROQjJXalkzQnh2N3lteG1mQw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWTJ1RDRod3VWRjNYcEhRVWx4RGdmcGhZUWt2WFFhR0tvOWhHYVItYkh2SGpFOGRCSWFFbEhDNFdkMmY0ZkRoSFZFNkNfMWNuV3ItdjB2OFdIbE1sb1pscTU5djFqdmEyblZXUnlOa2N0VEh4OTBhOTdqM0wzQTVlcVBmWQ?oc=5"
+        },
+        {
+          "text": "蓝思科技在长沙成立新企业管理咨询公司 - 搜狐网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCSFBxOEdQd1poSTJPR3QtT3dNeWduNWJNRkh1UHYyVUI3c1FKTU5PdWVPNDhvQXYtbnJGcUVIaTVRQk1FQjV0R2FOcGdGVzdFTEE?oc=5"
+        },
+        {
+          "text": "蓝思科技在长沙成立新企业管理咨询公司 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLZmg5UUE1Y3FfY3Bqb3Y0TUFaRGhwaElWUm5TbkxyS29SSTlHS1ZkQkJuR2hHMjlReVFyQ1l4Q0JnbzNFZFpiT2NJM2pMdDZMWU5Td1FYQ21rUVhkNnhZc3JpMkladzFlMUJMaXRqMWw0VlZ3VXR4LQ?oc=5"
         }
       ]
     }
