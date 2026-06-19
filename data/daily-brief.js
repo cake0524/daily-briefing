@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月18日",
+  "publishDate": "2026年6月19日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "#财经# 新能源汽车市场波动但韧性十足 - Sohu",
+      "title": "2026新能源汽车下乡，车型目录速览→ - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Rights defender killings hit record hig…",
+      "title": "US makes $1 billion contribution to UN…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:35",
-          "title": "#财经# 新能源汽车市场波动但韧性十足 - Sohu",
-          "summary": "#财经# 新能源汽车市场波动但韧性十足 Sohu",
+          "time": "10:04",
+          "title": "2026新能源汽车下乡，车型目录速览→ - 新浪财经",
+          "summary": "2026新能源汽车下乡，车型目录速览→ 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVo3UWdrLWRIYm53Z1F0eGh2Z1ljOUJIWlhpMkFEZVN2Ui00dWdGdGp5akdJWWFkMmpCX0ZZZVZXaGlscS1WZzM0akpJelpuMG9SNDMyNkRIVGY4cVk5TEtjQllUazlIV1p2MXZGV1hXSEZKZmpRM2pvSW01RFFLQzJqQ1IwbGlS?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mSjR2Q2NvaHo4YzRfcWtDV19Nc0s2RC02azJYejVEakhGeXc3SHpRRmxFb0lQV1BnenV1bDFHVmlHbldwLW9tV2FKeWZGS05nUWFLZmUyTWxLb0Qyc3NYSWhOSk1McF9hZzRua3FYaDRnUQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:30",
-          "title": "美好出行So easy！江铃集团新能源全新易至EV3通勤代步新选择 - Sohu",
-          "summary": "美好出行So easy！江铃集团新能源全新易至EV3通勤代步新选择 Sohu",
+          "time": "09:59",
+          "title": "中国汽研新能源公司获得IECEE CB测试实验室（CBTL）资质 - 东方财富",
+          "summary": "中国汽研新能源公司获得IECEE CB测试实验室（CBTL）资质 东方财富",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTnByV19yY01SREV3RzZrWmwteXRKRWtIemlmUGZ4M0lxYV9KS2RqcmlQa3JRVV9kX09XVGM2TXpoQk9JZ1czN2pYY253Z3U3eFdmNkxhR2ktd29XSlRfMUsxYlcxNVJJV05wVFpYekJrc2l6Sk0wZmFUS21sRGFMUFBVR21jUHl3TVZPTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TaDA2cTdjWHF5eXNhVER0TVE3dlhTcTVEQkw2NTB1cEI3X3hGRU9sMkZTTlcxZ0FPdEdsSzNOcFFSdFItTjZvVkdIUXpQSk1ZNDlXQmpwOGszYkZVaGVRdQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "【人民财讯·大观】发展规划需要确定性 德国制造业选择加码中国 - 证券时报",
+          "text": "哪些品牌新能源车保值率相对更高？ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iS0hYaGttZDFLR2Q0b0RYeTdHX1NmQnJMMUllbGJMTkNtRDh5NERQSEx3Y2pIZTI4VGs3aWtaaEpPWFBGZWltMk96OF9sbHR3YUQ4QWtUcnQ2VUw5dlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMU9hM1hKV1gtYXVXUGxZQTBKOWpNWGVlR0ZDTEFRUkdHQ0lld2tpVGxBc25DcTdzcVZqN2lyeTMzU3VXdHg1U003X0tCZVlNOHpwNHRPaW9fczRIM28yYjZQMkRHQjUzVTUzNTFBalp0MFM1NG5nUTIxamk4dUdJMlB3bE5TUmtMLVVCSG9yUQ?oc=5"
         },
         {
-          "text": "国开行：已累计发放技术改造和设备更新贷款2133亿元 - 川观新闻",
+          "text": "2026新能源汽车下乡，阿维塔、小米、特斯拉等在列 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91Qk9pd19WQnJ5Q0doaEw0VS1WX04wcmFla3dmTWsxd2Zzc0lYdWFlVUNPTWVRTzdkb2JjUVZUZ1pITVRFcE13ZDVhWTlBdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XMThBLWV4bUNPSHdqRFpRNWRUbjFtaFB4cmlzZzlvaDRqX0lNemlTRUZzd3pFMG1aLV96YjlETlRTUEw2WnpCLTY4TzdlTURhRkZNWkl3NFJZTlhyZjB2MHNNQjQ5N3FpdEl3?oc=5"
         },
         {
-          "text": "新能源车高速碰撞解体 鸿蒙智行紧急发文澄清：“并非旗下车型” - 证券时报",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBobE1CaHBOTThtMTFMbHF0Z2hRV1ZxYUZSbHJZdDFBNFZyazF3M2R5YTNZTXU5clRhSkhWVGRaSGhKMi1LNlB2YXBRR2lWaVFnUkhjUWhMeW83dzdLaFE?oc=5"
+          "text": "湖南华电永江新能源20年发电类电力业务许可证，电力业务资质落定 - 新浪财经",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxORzBnOTdlbU1PQ0l3Rk55MUtWLVBRNEtGTklYODVFdVBUd0RuMWFmLW50aEJiUDFQcEhibnBaTEZLUGo2ZHVDUkdUdHdZTDZ4WHNNM0ZfdHY0OXhsUG9xTzlGXzF1YXB0cVlhYWxBOElZTGdWS1VIRWJDNllNdVN1NkNpdXVFREdOTjdBUlpVMS14RlpTTUtvYzNDQjRUSXVFaTFSdHZFNTQxQ21EVE5UeVUzZzhwdG5STC1oRVJRN3hsRlhWMnpuZnRaSkYtRnpBbDNYbWV0eXBnTXFnR0VndXl5UDVRMTdsRjFiN3NpZmptam1FN3NaWDZHRzh3cVhxVVBkRWhYRUVyTmNIM0Ftc3Exc2FUeDZlV1JFLU52ZUNKOGlFdmlXTFRHazIwbGR5MC15VDV3?oc=5"
         },
         {
-          "text": "思格新能源与北京科锐战略签约，聚焦光储充、智能配电与AI能源管理 - 碳索储能网",
+          "text": "五部门开展2026年新能源汽车下乡活动 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SMzE4QTBGOWl4ZWVRVVJGeEJubFIxcElXRVRDWHZBZC1uUkExVmdndFcxUUJNUTlqOFd0NkNCa0xSLXVmMV9LcGhsYnI1MkpXYThFUkNQaWI2TkdENmh5Mg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamw0U3hvQnl1dFA3bEVDSnR0WXlmZXlEeDNENHZyYU00TkpyUWd5TDcyektCZUZORVV2QnkyTUlGUlNZZm5fSlJyWm5YaDAzMFhDWjhSMmhYVi1MYmtrejRVOHk2cXlaRlNsRHZpUkx2am52VWRtME9Ec3VwelFVNWhXQkRCQm9YMV81MWhXV2FtUDVGc09OM1NrSWdqYk81YkVQSERjUk1zd1hUSlEw?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Rights defender killings hit record high as UN pushes to shore up humanitarian action",
-          "summary": "Attacks against human right defenders have reached record levels over the past year, according to a new repor…",
+          "title": "US makes $1 billion contribution to UN child rights and food agencies",
+          "summary": "Two United Nations agencies have together welcomed more than $1 billion in assistance from the United States…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167746"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167751"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Hate speech is ‘first step down the path of dehumanisation’",
-          "summary": "As online platforms continue to fuel a surge in real-world violence against vulnerable communities, UN Secret…",
+          "title": "‘Stop this madness’: Rights chief warns of impending atrocities as militia closes in on El Obeid, Sudan",
+          "summary": "The UN’s top human rights official has issued an urgent warning that an imminent offensive against El Obeid,…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167745"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167752"
         }
       ],
       "briefs": [
         {
-          "text": "Worsening hunger could push millions closer to famine in 13 global hotspots",
+          "text": "US-Iran deal: technical work can begin, says atomic energy agency",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167742"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167748"
         },
         {
-          "text": "Ebola treatment capacity expands in DR Congo as WHO issues new guidelines",
+          "text": "‘Darkest chapter’: Record child violations in 2025, with national forces leadin…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167738"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167747"
         },
         {
-          "text": "Lebanon: 12 children killed, maimed daily, despite Hezbollah-Israel truce",
+          "text": "Rights defender killings hit record high as UN pushes to shore up humanitarian…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167736"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167746"
         },
         {
-          "text": "Security Council LIVE: Open debate on women, peace and security",
+          "text": "Hate speech is ‘first step down the path of dehumanisation’",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167735"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167745"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "18:00",
-          "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-          "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reacti…",
+          "time": "01:00",
+          "title": "New usage analytics and updated spend controls for enterprises",
+          "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/ai-chemist-improves-reaction"
+          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:00",
-          "title": "Introducing LifeSciBench",
-          "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle…",
+          "time": "19:00",
+          "title": "Improving health intelligence in ChatGPT",
+          "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better co…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-life-sci-bench"
+          "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
         }
       ],
       "briefs": [
         {
+          "text": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
+        },
+        {
+          "text": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemi…",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/ai-chemist-improves-reaction"
+        },
+        {
+          "text": "Introducing LifeSciBench",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-life-sci-bench"
+        },
+        {
           "text": "Want to get a data center online quickly? Give it some flex.",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/"
-        },
-        {
-          "text": "Predicting model behavior before release by simulating deployment",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/deployment-simulation"
-        },
-        {
-          "text": "Why do South Koreans love AI so much?",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
-        },
-        {
-          "text": "Introducing the OpenAI Partner Network",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-openai-partner-network"
         }
       ]
     },
@@ -219,42 +219,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "15:15",
-          "title": "Signoff Of Synthesis-Optimized Registers",
-          "summary": "When is a complex chip design ready to be shipped to manufacturing? The post Signoff Of Synthesis-Optimized R…",
+          "title": "Scaling ADAS To 10+ Cameras",
+          "summary": "A robust OBGA packaging solution for automotive-grade reliability. The post Scaling ADAS To 10+ Cameras appea…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/signoff-of-synthesis-optimized-registers/"
+          "url": "https://semiengineering.com/scaling-adas-to-10-cameras/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Designing Chips That Can Explain Themselves",
-          "summary": "On-die monitors, localized analytics, and lifecycle data are giving architects new ways to close the gap betw…",
+          "time": "15:06",
+          "title": "Accelerating GAA Logic Yield Optimization With Digital Twins",
+          "summary": "Overcoming manufacturing variation at advanced nodes. The post Accelerating GAA Logic Yield Optimization With…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/designing-chips-that-can-explain-themselves/"
+          "url": "https://semiengineering.com/accelerating-gaa-logic-yield-optimization-with-digital-twins-2/"
         }
       ],
       "briefs": [
         {
-          "text": "Blog Review: June 17",
+          "text": "How To Build Billions of Bumps",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-june-17-3/"
+          "url": "https://semiengineering.com/how-to-build-billions-of-bumps/"
         },
         {
-          "text": "Google Details Five Generations Of TPU Training Supercomputers",
+          "text": "VLSI 2026: Intel 18A Platform Momentum From Devices To Routed Designs",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/google-details-five-generations-of-tpu-training-supercomputers/"
+          "url": "https://semiengineering.com/vlsi-2026-intel-18a-platform-momentum-from-devices-to-routed-designs/"
         },
         {
-          "text": "Semiconductor Startup Builds Alternatives for Vital Legacy Chips",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacy-chips-oems"
+          "text": "A New Fracture Engine For Curvilinear Masks And MULTIGON Mask Data",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/a-new-fracture-engine-for-curvilinear-masks-and-multigon-mask-data/"
         },
         {
-          "text": "Chip Industry Technical Paper Roundup: June 16",
+          "text": "Randomizing Wafers To Zero In On Process Problems Much Faster",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-june-16/"
+          "url": "https://semiengineering.com/randomizing-wafers-to-zero-in-on-process-problems-much-faster/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Rights defender killings hit record high as UN pushes to shore up humanitarian action",
-          "summary": "Attacks against human right defenders have reached record levels over the past year, according to a new repor…",
+          "title": "US makes $1 billion contribution to UN child rights and food agencies",
+          "summary": "Two United Nations agencies have together welcomed more than $1 billion in assistance from the United States…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167746"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167751"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Hate speech is ‘first step down the path of dehumanisation’",
-          "summary": "As online platforms continue to fuel a surge in real-world violence against vulnerable communities, UN Secret…",
+          "title": "‘Stop this madness’: Rights chief warns of impending atrocities as militia closes in on El Obeid, Sudan",
+          "summary": "The UN’s top human rights official has issued an urgent warning that an imminent offensive against El Obeid,…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167745"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167752"
         }
       ],
       "briefs": [
         {
-          "text": "Worsening hunger could push millions closer to famine in 13 global hotspots",
+          "text": "US-Iran deal: technical work can begin, says atomic energy agency",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167742"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167748"
         },
         {
-          "text": "Ebola treatment capacity expands in DR Congo as WHO issues new guidelines",
+          "text": "‘Darkest chapter’: Record child violations in 2025, with national forces leadin…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167738"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167747"
         },
         {
-          "text": "Lebanon: 12 children killed, maimed daily, despite Hezbollah-Israel truce",
+          "text": "Rights defender killings hit record high as UN pushes to shore up humanitarian…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167736"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167746"
         },
         {
-          "text": "Security Council LIVE: Open debate on women, peace and security",
+          "text": "Hate speech is ‘first step down the path of dehumanisation’",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167735"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167745"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:46",
-          "title": "关于沪业帮（上海）企业管理有限公司从事代理记账业务的公告 - shmh.gov.cn",
-          "summary": "关于沪业帮（上海）企业管理有限公司从事代理记账业务的公告 shmh.gov.cn",
+          "time": "07:19",
+          "title": "锦江在线： 公司管理层高度重视股东回报 - MSN",
+          "summary": "锦江在线： 公司管理层高度重视股东回报 MSN",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5ZGpHZ0ZEN2lfdmIzTV9pNDQ4MDBxbXdacHFPaTNkRjJtT0tBdUxxVG04STd3X3FMNVRrVlprc0I4ekhhU3pxMHlpcGFnRjYtMU9oYzlidHdkbjhuaUwwbkp2cFJDN1k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNUWZveVRwN1Rsdi1mTU9KSWlHRjNjM205MVRJR0k2cVhiWnBmemdFQmZCeV9IOHljdGdXMjNrbUFXNWZMTkVVNVp5d0dhQ0tXNzZUTldIaHVVamtoWXdrZUJIaUxMN3JId2NlcGw2bEhRUUVXaFFZS2dfdi1mTkZhSTBoUFphUGdQYTBGMzJOcWRvV2laMmdRdnpxcllQMC1kX3RRMFM0TUlnNkFibHU2ZmVHeGg2TFhqZ1pzM0xKOXJMMmhGTkJLSVQzc1JHaHlKX3hJRG9TQVI0SjBMZ0NuZDhyRFVoVW4xNllUbWJuLUJuLTljR05MVG91Zk5tOXBSeFRMLVRVTVAwWTZoaHc4akluNUhHNF9DM2wtRFpmT2wwd1NNLVlwajJHNA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:00",
-          "title": "怡合达股东上海众复晖企业管理有限公司50天减持864.26万股，套现2.59亿元 - 新浪财经",
-          "summary": "怡合达股东上海众复晖企业管理有限公司50天减持864.26万股，套现2.59亿元 新浪财经",
+          "time": "18:50",
+          "title": "华金资本： 公司子公司管理的基金少量参与了钧崴电子的投资 - MSN",
+          "summary": "华金资本： 公司子公司管理的基金少量参与了钧崴电子的投资 MSN",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcTNWbGRYSW1FTVJPNXFhbEItRUI1WGlmTGpNQ3hHOTVkOGFJTkpVWFpkR3dxZ0Vxa1MxMlFzM3hiR2I3SVJSbGpWcTNxMndJVFdMZkM1d2gxODFBRW93bF9xUGpQOU9iUUdPV0xZNEFVdXZMaXFVQmhDS1Zfazl4WVdJSW5GRXItS0wxbWl3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNSWZFRi0xTmJld3luTDJsdzJodUtWdTBEemtqS3ZSUXBvZzZJOGx4VUNTR3JwRWQ0U3gtM0NZaUpmREwwZi1TcDdSSTNWZHRsUVVVY01aTzdTNVdyTk5XOEh2cG5SMW9DN09IOFNwcFUyMm1jTlFwOVRBckFrb3M5cWdIY2lJRWRxWjVqSkNldTFpY0R0bkczTUFZMUJiUUlaV1NqYWt6WGsxNk5SWTh6NWtwWDl6aEtROFhJcm5RWDA4Tkl3LUJ3Tm40bDFTWmJ5eU1hRmloTzRTUTQ4QUZ2S3l0RWFYQko4ZlZKX1FESGJSSDNMUkp6SW8wUkJiNXpoVktmLVNnVDE4Ym82Q3RPSU1NcXNDdGRkUDR3aG1qZTY5SE1qR2RZOVZ0VGUwQjJWMU9vaGpIazBfMllSd21fck4zODdWdHBPU1B3MlBGci1MUE15Q2RJV1M3cnpXTXFFQnFHNFd0TlpIY0tTUHVGajNvc01hYmZEenhCbGZyWk01U0NPb19BbXVkTHhWNUxEODJ1Q0V3QnF4bkp5TklDYXpNNGRmbWdadGlpeW9kbHZ3eHZveDdET2dCbnNEcWRxVjBjWllBWlJNWE1NbTR1MElxTTRHOVFwUklQU3R1ZUp6X2JvZ2dUWk9QeWF1c2ZMYkxsQnlpMjhCNlFaYTZlamhEUnowRkg0bS1VRWktZFRRUGtMZllKOVhIOWZaU1RaZnRDZlpkaWpwTHVFekE?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "土家族吊脚楼营造技艺传承人、恩施州木屋大叔企业管理有限公司创始人贺茂宣 - 中华网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LQjZlaVlyMU56c2E3d0Q1b3F2T2w5a0hKQVEzNGE1dTFRSi05dTlCLUFyckNTSkgwaFpWVVc1U0hkdVEtQlU3MmdqMzN3bEZ4ZlFtTmNGaENPUmlNS3p5enRSa012ODVWci1Ed2tn?oc=5"
-        },
-        {
-          "text": "中国平安：公司战略清晰、基本面稳固、各项主营业务经营向好 - 富途牛牛",
+          "text": "PUMM品牌协会强强联手 构建大马企业策略生态圈 - e南洋",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pWm55Q3pXQlhVRGZ3NndteUlzckhJTUFFZTAzSlNkNkZEa1Z2UkFLaWRNOXllVWpsRmI5VldpU0RocUxCbG5jcGxiTTZqZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NamJKdGgyRjRzVGh4T2FhUVdtU1ZCckFQMm83VVVab3kwcE05ZnBYazNqeUF1RzFCTjlZQ3ZVX1lJVEtzQkNvR3paUURZZS1wd1F3WGJ5SUk1eHVwUFhtLUJiTQ?oc=5"
         },
         {
-          "text": "Pearson Joins Fox Ridge Capital as Head of Corporate Strategy and Planning - Mo…",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZzdZdWFQT1FSY1d6Q21pUVVCVG03TUdpZEZSUkkwYW1OeElQSzMtQlY2d1FrSDJIN01ROXRZX0Nld01Xd2JXQ0o5T0ZsMVA4WmR5VXdLeHJMR24tRm00eElEMmlnQ194anNFTGNpODkwQjRLME83T1dCLVFRdEhfcGpWYzNjTUkxMkpNdHFUUXJCRFIyOGxyUTV3ZE1DbHRmRXFuOGlFaw?oc=5"
+          "text": "业绩速览 | 顶级手套第三季净利暴增133%，营收破10亿令吉，供应链韧性显威 - sharesinfo4u.com",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPanY0Mms3MldReHB1N3l4ZVBmSGJiR3VaVzN2cTRpMFI0NXlMTmo1ZER1R0M4U2pEdFRkSmZoNmlWZG5FNm5aeDZydzY2REJLa1hLSjBEVktEdF9Cc1lnbmdWTnpJN2pWRmtxRlVvUGE2MHBYcGZoWlFJY2RhM3N2Ti0xU1A1OWpwc2ZCVDVxX3VrYTRuOGpKLWVETlNEdVA1MDNPaFZrbW16blpldThDV3N2UlZtSVdtR1lWSXoycnk3R19URV81eER5Nk9SVVNKbV93bEF6bWg2bncwRG5vOC16M1BQU2FReHBHZFFGVEQxMHpIYVFuOTBtN3NGenQzUWlhMk85QUUza19Td0ljVmlKazRuMVdjb3BSOVhIU1FncDYtRWxrSnJYS2ZHQWEycGlXZXN0VXVtb0Fmc2pHOUxiU1M1ZDVfekxtUXBaZWFydkt0TjhvQnlmdTc?oc=5"
         },
         {
-          "text": "蓝思科技成立企业管理咨询公司 周群飞任法定代表人 - 新浪财经",
+          "text": "“银发浪潮”下中国养老产业竞争格局与头部企业战略特征分析 - AgeClub",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5STGJ3dV9ZbkU4SEwwNzhzOUdHS3BnTUd4NFVUa1ZYNXM5ZWtac2JTOGgxU20tNzJwZFpaR0hXNXRMcE5nbS1lY1l0UXZ6N285bGhQYQ?oc=5"
+        },
+        {
+          "text": "首部《金融资产管理公司管理办法》要来了 - Sohu",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9heXFMMEFpOE5kWmVoTlRNdFBXZmNwQXZqV3d3ajFtSWszVVFCTUJkWmJZODNpWk5FeTBCZFA4VmhaTFVndlMyS3Jpaw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdjFxVlVSNVZtTTdKNG92dUR1S2d2b19sQzk4dml0Z3hKZ0prTnp5MXA0T0h2SU9nN1JaVjg3QWRMcGZsOUMtbWZ5eVNBdGxVdG41QVZsMGJZbzllXzVCNWxjeEpJS0laUHdaSmpqYkhCbFZsZmdDTWFZQkpDLUR1eHRQX2Z1WWIzckcxZA?oc=5"
         }
       ]
     }
