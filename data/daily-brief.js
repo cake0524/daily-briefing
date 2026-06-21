@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月20日",
+  "publishDate": "2026年6月21日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【视频】依然马自达长安马自达携全系新能源阵容亮相重庆国际车展 - 汽车之家",
+      "title": "青岛峰会服务业外资占比破纪录，会是沿海城市转型的新密码吗？ - 新浪新闻_手机…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Researchers found a Wordle strategy tha…",
+      "title": "This simple twist could bring quantum c…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:47",
-          "title": "【视频】依然马自达长安马自达携全系新能源阵容亮相重庆国际车展 - 汽车之家",
-          "summary": "【视频】依然马自达长安马自达携全系新能源阵容亮相重庆国际车展 汽车之家",
+          "time": "08:56",
+          "title": "青岛峰会服务业外资占比破纪录，会是沿海城市转型的新密码吗？ - 新浪新闻_手机新浪网",
+          "summary": "青岛峰会服务业外资占比破纪录，会是沿海城市转型的新密码吗？ 新浪新闻_手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FdUZtSkN6My0zcE9rcVhDSThSaEdrczkxZ2JOVWVOWHM5VDN1T1Y5dHJBYjFaTWlwYll3eWFrcWtUWWFRVnBmYTNIdW1Cbk9JOTNTYXlYZG15cHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUDh4eFVzRlVPa3NxNjJqT2hZem8zc29vUEx1VUFlU1hHalhlREQ2Um9MVGxRYVVOWW1lVm8zNmdyR0NJTVY4Z1RFOGt4aXR1Z1hhcmJnN2VVeTdobDR0RHdPMUdEN2xRTW95bHNFVTlDYzVESGxLUTFXV1lUem5ydXFpRQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:30",
-          "title": "钢材下游周报：5月汽车等出口数据公布，新能源车下乡活动启动 - news.mysteel.com",
-          "summary": "钢材下游周报：5月汽车等出口数据公布，新能源车下乡活动启动 news.mysteel.com",
+          "time": "08:44",
+          "title": "能同时为4辆新能源车充电 湖北首台移动充电宝上线 - 荆楚网",
+          "summary": "能同时为4辆新能源车充电 湖北首台移动充电宝上线 荆楚网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlU0M5NGxTNTF6RW1kMDNrbm04SDNTTmRfVk5EdHZ4LWlLLURKZUVuRy1vb29oUTN5bklrWmRGaUhtODM4d3dPRnhSR201b3lTcGljSmoyWlNISkY3NlViYlowX0Jsb05Z?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91c1dRTEwxRG4wVnlfSDJWWkFTbDNUM0hYNlZlNHZ2T1hTd3VtSWdZYVpoeTcySVpmTVNkRm1GOGllUDR5ekRnU0daVHdMc1lqTkY4eExJd2d3ZEtCUi0tZjJpZ2EwMXR2R1A3R2hBSkJpQQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "一汽解放大换血，老班子只剩一人！ - 新浪网",
+          "text": "能耗成本节约50%！新能源商用车逆势增长，甲醇电动成绿色交通“最优解”？ - 富途牛牛",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUjZtOUZZbHFMNXA4ZUpxMVYydnJyZktQUENsY2ozNDlrV0tHTjQxeElIYkRsRllLUEx4QUwxLUxqQ0l1aXUwdnZKN3NkOXpHc3VvTnlDOWdkQnFNcXhjUEg0cFIyQVAxV2sxbEdobm5hZFJBU25SS0Q0NzBFVHRqaXlR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kVnhXMjkyQUVLM2lrUmp0alR3YlJlTW80WUpXVS1fTC1zcFhScFp3VDVWdXRzMnlmVTc5TXhadGFPdDJGNDhJWjZ4ZnlrZw?oc=5"
         },
         {
-          "text": "【视频】试驾体验问界M6 买家用新能源豪华智能运动型SUV双赢的选择 - 汽车之家",
+          "text": "内河浅海规模化新能源智能船舶在南宁集中试航 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxVjRoNG1jaVlXV0xQaUJyeVppbkNVM3pONTNNVngyekdtSlRzZUJYNThvYzJXUjRjLUNpTEoyNTg1MVZkUFdlNE5XbW9jcjNOb3EyZGtaTi0xODA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbkFHVndZemM1ZHVGZDJma0M3d1BXRXZSckZJcFZsNWVIMEpDZTVmMFB3UnpDNk9OT2kxdlRjYlZLNHo2OXF0YTF4TjRwanhmekQ0d09UalZCTlpiRmlhRHY3VmtqbWNValRMcXhxQU1VZUVOTEd0aGZycmVpb2xUV19oYklWTzZV?oc=5"
         },
         {
-          "text": "【忠阳车评】打通新能源重卡应用堵点 - Sina finance",
+          "text": "月销破万!合资新能源终于 “支棱” 起来了!别克至境E7为啥能火? - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40UW5YbnI0MDhUQVhKLUtqUVFibmJSNkpISkRHVVVXckhJYVZhV3poWkVSOWhvUmM4akd5NDFSendITF9RcVV2dnNla1ViVlVFOXc4ajFlSTdfNzl5Y0VrS1ZSQ1M2UzkxWEJXR0pkT2VuX2JCdGtzZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4eE1jajR2TXREcGRNQTVMTzdWVTZCUzZLOWt3X2NiU2VjNExuRTZlYXR6cHR4Qzl4djhTVl8tSzR3WXVKbDlfMzhGM1ZDNDNIdkNBdUxDU2UwY0Vibl90cUFRc3VhZ3BKV0dfc3RfVlA1QQ?oc=5"
         },
         {
-          "text": "长三角议事厅｜上海构建企业出海综合服务枢纽的进阶路径 - 新浪财经",
+          "text": "别克至境背后:合资车企新能源转型,驶入深水区 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzM2bHlzaXpUS2tiaXNOelU4bk1XSEtRdkI1MDIyRmlHcW5sWE5WOWRXZWd6NDRWQzdGTnlmR0pmWmVacW9lb0FZMTJlTkdCYzFocnVLNlAydWpVQ3lCa1RCd0lRbk91U0RoRUptSHVtSGtsamljNnRpVUFsNTRCbF9WVnBJXzFKZjh3RkZVcm43OC1ON290WV8wM1g1OWVTbVU3cGN0MXdtUE9mc2M4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VMFY3TnR4T0ZkbnhJc0RCLUpzLVRydkpPZm5GcFpKQWJZQUVNckZLTzJpWUxMbnpQY21xWFlIRjRGS3VIRlVLbi1yOTJybXE1Q3hjc3RiSjJwcWlOUWNncHFiVllMVGJIMmppTklBRUpXZw?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "00:37",
+          "title": "This simple twist could bring quantum computers closer to reality",
+          "summary": "Researchers found that twisting layered sheets of hexagonal boron nitride can dramatically change the light p…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "20:50",
           "title": "Researchers found a Wordle strategy that wins 99% of the time",
           "summary": "Researchers developed a Wordle-solving strategy that succeeds 99% of the time by focusing on information gain…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "11:43",
-          "title": "SpaceX wants to build AI data centers in space. Will it work?",
-          "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing p…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "SpaceX wants to build AI data centers in space. Will it work?",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm"
+        },
         {
           "text": "Superconductivity breakthrough could unlock ultra-efficient electronics",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Your brain was never designed for this much bad news",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm"
-        },
-        {
-          "text": "Oxford physicists just made Schrödinger’s cat even stranger",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "12:38",
-          "title": "蓝思科技(300433) 成立长沙蓝思企业管理咨询有限公司 - MSN",
-          "summary": "蓝思科技(300433) 成立长沙蓝思企业管理咨询有限公司 MSN",
+          "time": "18:09",
+          "title": "18个月，261人！期货公司管理层密集调整，谁在重组期货业的基因？ - 新浪网",
+          "summary": "18个月，261人！期货公司管理层密集调整，谁在重组期货业的基因？ 新浪网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOeWFHSnI4WFdmMERobVRKVkdCeFJzN0R5U1NhUXdYaV8tc3lKZ211a0Q0cnkxYnhCd0p5WW44YW53dVVveFRFR3hqeTc0YXN6bjRtSjBRcm1ySnlkbGJmeVFYRzktWFFxSlgwSUxFQXB1U0Z3MkcxbVl4RjQyMWtrVEU5UHlJN3JOZDg4Q2xjMVpCTE9sQVY3V3dxTkN6R1RpdmFySmpyWGNGRWRweksyd1VWNXFrZ0E4TGxFYVdYcWNsZy0tTkk0Snc3bWt4enkxeTNPMUFXLV9ZbmNFTGhRLVlETUw3Q0xmZXNSTmpVVUNueHhiaHdfUDUzbWdvUTNNN2k1UlV2UFZpWW1NZHJyQXd5LUVHbGVnMVBxOE0tVkpOdmhuLXRvc194czdTYTI1cjQtcDVKaHFjTnlTRnNkdlRUWGhRU2xFYmVxd0J3U0Z2S2dOTHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vLUdhaFRFdmg1UHNZd0VHaEdLUXBfNFExby1PUjhpRGtLVmVHcnAzOGhEVEVOMEZaamVRXzZpb3VlSklsMHo2V2RnWnRycmlhYk5wbGxfYTVkOUgzTTVVdjZ3ZUFEekhmOFM4Y3NoZWszdw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:20",
-          "title": "锦江在线： 公司管理层高度重视股东回报 - MSN",
-          "summary": "锦江在线： 公司管理层高度重视股东回报 MSN",
+          "time": "17:40",
+          "title": "光峰科技：公司管理层正在全力以赴攻坚经营拐点 - 富途牛牛",
+          "summary": "光峰科技：公司管理层正在全力以赴攻坚经营拐点 富途牛牛",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOUFBTNFFkc0ZsOUJkVnVHNUV0Y241UDM3NHExR2dYMHR4Qm1BcXVtVHpuVC01M2NXMFFNdnpXOW0wdXBpOGpxc3JqNUR2NDJtQzVYaTVGaVlUSFdkbFBUbm5tajlVQ0c2V016cl94RjlteTVPSkJRelpoLTJBY2k3YXpPbTVvVVdVZXFCc3ktQi1IX3RaVzNUTE1qTVBlOW9fd1hjcFdQUHlBd1hTVlVlMzhsWGJDMWlPeVdsbzRGOVRKbktGTEhaRm9RZ1JqR2FOdFRqUVU4VFBBaE5vRmRUb2dVM0l2ejNJUk9vSUVINUd3dm8tNGN3enVRaUlVb1lTN2FTTWdKRGRFT284WEpfLWgtcEk4VFlXRTBUNXpwR0lUVWhHQWt4VUd3aUdUYjE3SW5wVGttZGR0R3lSMEF0c0pSTDR5Wnh1R2FQeW1fNk9iM0NWdDk1TVlicHN3R19iRlFTZW5kTXZSTXdTTUdxOGlNR0RXUERROXEycGdQNmFXLVpzNGt4VGxRVjdsaG8yT2Q3em1iVjJMN0hVX3NESnU2ellSSkxhWWRadE53djZlZGNFNjdRWlJCTWlobWZic2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBteVhzOVkyTEZfQUJibWk4MW85YzJnMnZwNTBLYWRSNTJ1aUo2VlRPenB5NnFOUXFPME5hSENmTmllWEtTVkktdHpwaDIwSExwNGc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "因履约能力发生较大变化 祥源文旅终止与四家子公司管理服务合同 - 观点网",
+          "text": "美国汽车行已对其信贷协议进行了修订，此举旨在为当前正在进行的公司战略评估流程提供支持 - Bitget",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIWFVKc1RMd0NBaFdDRHRIbUNCelBCUHM0UV9fTGY4eWpfcHZuc3JfWkE4a2ZyTnBkcFphODFXR2pXZllwOWtfMWpiWVFIM3lJTnN3SzN5eDQwZmIzWEJoN0U0bVRnUdIBa0FVX3lxTE1ZRlBMTHNHSEd4NWFqem0yOVFxZjJKdWU4VzlYcXpSYXdXU3c2SUU5ZlQ0dDM1YVpYbE1uVUprVWhwUUwySEthX2JleFBMT3JNUW9aTnYwUG9oTTA4MlRmaDJ1YVZsc3V5SG9n?oc=5"
+        },
+        {
+          "text": "重磅！首部《金融资产管理公司管理办法》进入立法清单 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qNFVIdU1LODFBcVNZbGo2di1uTHBPQ3VEVXVTT0FpZF9pQTg3a2FKZWVJN1FxbTI3UjVmWkM4dEJTUk4tY0ZrSk5Ed0Ezdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qbU9KT2tPT0ttV2VmR3Zib0tKOUx4MGF1X192UFM5MF9XNU01VVMxWk5ha2Zuc000bW1nYmZnc3RoNk84S244M010SlNUTWIyT0Z2OTlnRWVYOW9fVFZ0cW9aOThELVdab1lLMHZJUldSMUVtRU1GcU9rd0VBUQ?oc=5"
         },
         {
-          "text": "PUMM品牌协会强强联手 构建大马企业策略生态圈 - e南洋",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NamJKdGgyRjRzVGh4T2FhUVdtU1ZCckFQMm83VVVab3kwcE05ZnBYazNqeUF1RzFCTjlZQ3ZVX1lJVEtzQkNvR3paUURZZS1wd1F3WGJ5SUk1eHVwUFhtLUJiTQ?oc=5"
+          "text": "锦江在线： 公司管理层高度重视股东回报 - MSN",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOUFBTNFFkc0ZsOUJkVnVHNUV0Y241UDM3NHExR2dYMHR4Qm1BcXVtVHpuVC01M2NXMFFNdnpXOW0wdXBpOGpxc3JqNUR2NDJtQzVYaTVGaVlUSFdkbFBUbm5tajlVQ0c2V016cl94RjlteTVPSkJRelpoLTJBY2k3YXpPbTVvVVdVZXFCc3ktQi1IX3RaVzNUTE1qTVBlOW9fd1hjcFdQUHlBd1hTVlVlMzhsWGJDMWlPeVdsbzRGOVRKbktGTEhaRm9RZ1JqR2FOdFRqUVU4VFBBaE5vRmRUb2dVM0l2ejNJUk9vSUVINUd3dm8tNGN3enVRaUlVb1lTN2FTTWdKRGRFT284WEpfLWgtcEk4VFlXRTBUNXpwR0lUVWhHQWt4VUd3aUdUYjE3SW5wVGttZGR0R3lSMEF0c0pSTDR5Wnh1R2FQeW1fNk9iM0NWdDk1TVlicHN3R19iRlFTZW5kTXZSTXdTTUdxOGlNR0RXUERROXEycGdQNmFXLVpzNGt4VGxRVjdsaG8yT2Q3em1iVjJMN0hVX3NESnU2ellSSkxhWWRadE53djZlZGNFNjdRWlJCTWlobWZic2c?oc=5"
         },
         {
-          "text": "总部董事长变更，山姆最新回应：不涉及业务经营、股权及公司战略调整 - thepaper.cn",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02ZDQ3VzhDM0VEcW1pa3FITGJ6WWYtb3Zabi11S29OWHdsdWsyV1lTVTBqTk1SSzdfYmk1a3dnQXNva1dZWnNZNzFkLTNhNzk5Y0l3SWp3NXZxZnR1UVE?oc=5"
-        },
-        {
-          "text": "“银发浪潮”下中国养老产业竞争格局与头部企业战略特征分析 - AgeClub",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5STGJ3dV9ZbkU4SEwwNzhzOUdHS3BnTUd4NFVUa1ZYNXM5ZWtac2JTOGgxU20tNzJwZFpaR0hXNXRMcE5nbS1lY1l0UXZ6N285bGhQYQ?oc=5"
+          "text": "锦江在线： 公司管理层高度重视股东回报 - MSN",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNUWZveVRwN1Rsdi1mTU9KSWlHRjNjM205MVRJR0k2cVhiWnBmemdFQmZCeV9IOHljdGdXMjNrbUFXNWZMTkVVNVp5d0dhQ0tXNzZUTldIaHVVamtoWXdrZUJIaUxMN3JId2NlcGw2bEhRUUVXaFFZS2dfdi1mTkZhSTBoUFphUGdQYTBGMzJOcWRvV2laMmdRdnpxcllQMC1kX3RRMFM0TUlnNkFibHU2ZmVHeGg2TFhqZ1pzM0xKOXJMMmhGTkJLSVQzc1JHaHlKX3hJRG9TQVI0SjBMZ0NuZDhyRFVoVW4xNllUbWJuLUJuLTljR05MVG91Zk5tOXBSeFRMLVRVTVAwWTZoaHc4akluNUhHNF9DM2wtRFpmT2wwd1NNLVlwajJHNA?oc=5"
         }
       ]
     }
