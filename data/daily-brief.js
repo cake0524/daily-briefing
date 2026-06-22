@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月21日",
+  "publishDate": "2026年6月22日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "青岛峰会服务业外资占比破纪录，会是沿海城市转型的新密码吗？ - 新浪新闻_手机…",
+      "title": "华润新能源启动申购，深交所史上最大规模IPO来了 - Jiemian.com",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Old and new challenges for the Human Ri…",
+      "title": "Conflicts command headlines…protecting…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:56",
-          "title": "青岛峰会服务业外资占比破纪录，会是沿海城市转型的新密码吗？ - 新浪新闻_手机新浪网",
-          "summary": "青岛峰会服务业外资占比破纪录，会是沿海城市转型的新密码吗？ 新浪新闻_手机新浪网",
+          "time": "09:33",
+          "title": "华润新能源启动申购，深交所史上最大规模IPO来了 - Jiemian.com",
+          "summary": "华润新能源启动申购，深交所史上最大规模IPO来了 Jiemian.com",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUDh4eFVzRlVPa3NxNjJqT2hZem8zc29vUEx1VUFlU1hHalhlREQ2Um9MVGxRYVVOWW1lVm8zNmdyR0NJTVY4Z1RFOGt4aXR1Z1hhcmJnN2VVeTdobDR0RHdPMUdEN2xRTW95bHNFVTlDYzVESGxLUTFXV1lUem5ydXFpRQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyUUxINUJBSXVNeXFwVmZsenJocGszcmdPTnBubDRtU2RteUZ0dkMxREt3Mk9RV2ZMazNrUWtZZnZPMTVoQURQcDdtTkY0UWJiV2pWV2dzTTE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:44",
-          "title": "能同时为4辆新能源车充电 湖北首台移动充电宝上线 - 荆楚网",
-          "summary": "能同时为4辆新能源车充电 湖北首台移动充电宝上线 荆楚网",
+          "time": "09:21",
+          "title": "155款！2026新能源汽车下乡车型名单公布 - 新浪网",
+          "summary": "155款！2026新能源汽车下乡车型名单公布 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE91c1dRTEwxRG4wVnlfSDJWWkFTbDNUM0hYNlZlNHZ2T1hTd3VtSWdZYVpoeTcySVpmTVNkRm1GOGllUDR5ekRnU0daVHdMc1lqTkY4eExJd2d3ZEtCUi0tZjJpZ2EwMXR2R1A3R2hBSkJpQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CY1hmVHgtZGhuUHUyb0NQaE1CS1dMU1EtMVVLWHRFckpGXzUzUHJoS3V5ekJ3Sm43Nkl1NV9TMGFBLVM0RVMzdW1jelUyQUdHRUtMamEwQWZfZTZ3TkhOR2RieEd2Zm9DbXg0Tnk1aWdUa3lvZ0tjaTJwNVAwc0k?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "能耗成本节约50%！新能源商用车逆势增长，甲醇电动成绿色交通“最优解”？ - 富途牛牛",
+          "text": "今日，2只新股申购！“高中签率”新股来了 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kVnhXMjkyQUVLM2lrUmp0alR3YlJlTW80WUpXVS1fTC1zcFhScFp3VDVWdXRzMnlmVTc5TXhadGFPdDJGNDhJWjZ4ZnlrZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWlUcm1lbW5xSGNFTWk1T1lIVkhPc25pMjVDelFhdUlLRjdCbHozbWd1bWRvdndkWkJrUl95SVcwRER0RUw3a0pZQ09rSUVINDBLeVViRmlmYm9JaDVrSVduNGtYSTZ4bGdqM2IySzBtYTRtLTlPYkJXVEQ2dldMSWpnX21TdmItUTR3MUc0NnU3NWlOX3BkeE94aDFtclRVMll5NFluMA?oc=5"
         },
         {
-          "text": "内河浅海规模化新能源智能船舶在南宁集中试航 - 搜狐网",
+          "text": "开盘早知道｜深市华润新能源今日申购 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbkFHVndZemM1ZHVGZDJma0M3d1BXRXZSckZJcFZsNWVIMEpDZTVmMFB3UnpDNk9OT2kxdlRjYlZLNHo2OXF0YTF4TjRwanhmekQ0d09UalZCTlpiRmlhRHY3VmtqbWNValRMcXhxQU1VZUVOTEd0aGZycmVpb2xUV19oYklWTzZV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUZ4OHRDVmpsX29kaVFlNEJaNW9SWlVsVkphcmhlQzczSm5NR25HU2ZyV3BBVXBrM3ZGZzJ4bEFrMFVQUVhJVVJadi1iMno5c0NLc0dQVk1WbXdiNzB0aHBJNkxGVlVUd1MzczlYTkdwNkpYcWs2RTRDSnZZaGRWd2l4WVNRczRxTnFoWA?oc=5"
         },
         {
-          "text": "月销破万!合资新能源终于 “支棱” 起来了!别克至境E7为啥能火? - 新浪网",
+          "text": "【视频】新能源时代下的经典SUV沃尔沃XC60 会是你绕了一圈回头的选择？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4eE1jajR2TXREcGRNQTVMTzdWVTZCUzZLOWt3X2NiU2VjNExuRTZlYXR6cHR4Qzl4djhTVl8tSzR3WXVKbDlfMzhGM1ZDNDNIdkNBdUxDU2UwY0Vibl90cUFRc3VhZ3BKV0dfc3RfVlA1QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SY0Z2eFY2dzVjZ0lMeXVneEtpYThoQmp0c0hzSGhsanVWdUVfMlQ0aWJzNGlmZ1owNWZKVzcwNm0ycmRwc2k0Q0RDWWJ0eHZ4UnFIUl9vTzZrUGlXRHhNN0dsaFZZSUp0Ym9B?oc=5"
         },
         {
-          "text": "别克至境背后:合资车企新能源转型,驶入深水区 - 新浪网",
+          "text": "《江西省增量新能源项目机制电价竞价实施细则（修订稿）》意见建议 - 国际能源网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VMFY3TnR4T0ZkbnhJc0RCLUpzLVRydkpPZm5GcFpKQWJZQUVNckZLTzJpWUxMbnpQY21xWFlIRjRGS3VIRlVLbi1yOTJybXE1Q3hjc3RiSjJwcWlOUWNncHFiVllMVGJIMmppTklBRUpXZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qTWJVN3hKb19xQUhDRnFLT3M3aE9pLXd4SE12elFvY0x0UE5vYnFXb3RiUGxPSE8yX19iQVBMUi1MRWV3bGhhUWFxM1cydmR0V3M1YVNhaDY1dDA0?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Old and new challenges for the Human Rights Council as it turns 20",
-          "summary": "It’s 20 years to the day since the UN Human Rights Council began its work as the world’s principal forum task…",
+          "title": "Conflicts command headlines…protecting peace, less so: The UN Peacebuilding Fund explained",
+          "summary": "Wars regularly make headlines. Preventing them rarely does.",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167769"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167764"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN welcomes fresh Lebanon ceasefire reports as rights experts urge Iran accountability",
-          "summary": "The United Nations has welcomed reports of a new ceasefire agreement between Israel and Hezbollah on Friday w…",
+          "title": "From malaria to energy: Why solutions from the Global South aren’t reaching the people who need them most",
+          "summary": "Innovators – especially in the Global South – are too often locked out of funding and opportunity despite off…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167768"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167759"
         }
       ],
       "briefs": [
         {
-          "text": "World Refugee Day: UN calls for renewed commitment and solidarity",
+          "text": "Sudan: Security Council warns of mass atrocity risk in El Obeid",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167766"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167773"
         },
         {
-          "text": "Survivors of wartime rape share stories of trauma and survival",
+          "text": "Ebola in DR Congo: One month on, scaled up response remains insufficient",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167767"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167763"
         },
         {
-          "text": "DR Congo: Efforts ramp up as Ebola outbreak accelerates beyond borders",
+          "text": "Art and culture can both fuel and counter hate, UN discussion hears on Juneteen…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167765"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167772"
         },
         {
-          "text": "Gaza: Sneeze and you might get shot, warns UNICEF in alert on child killings",
+          "text": "For one young refugee in Uganda, basketball is more than a game",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167760"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167743"
         }
       ]
     },
@@ -170,24 +170,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "07:00",
+          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+          "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s larg…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "18:40",
           "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
           "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "01:00",
-          "title": "New usage analytics and updated spend controls for enterprises",
-          "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
         }
       ],
       "briefs": [
+        {
+          "text": "New usage analytics and updated spend controls for enterprises",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+        },
         {
           "text": "Improving health intelligence in ChatGPT",
           "source": "OpenAI",
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemi…",
           "source": "OpenAI",
           "url": "https://openai.com/index/ai-chemist-improves-reaction"
-        },
-        {
-          "text": "Introducing LifeSciBench",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-life-sci-bench"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Old and new challenges for the Human Rights Council as it turns 20",
-          "summary": "It’s 20 years to the day since the UN Human Rights Council began its work as the world’s principal forum task…",
+          "title": "Conflicts command headlines…protecting peace, less so: The UN Peacebuilding Fund explained",
+          "summary": "Wars regularly make headlines. Preventing them rarely does.",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167769"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167764"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN welcomes fresh Lebanon ceasefire reports as rights experts urge Iran accountability",
-          "summary": "The United Nations has welcomed reports of a new ceasefire agreement between Israel and Hezbollah on Friday w…",
+          "title": "From malaria to energy: Why solutions from the Global South aren’t reaching the people who need them most",
+          "summary": "Innovators – especially in the Global South – are too often locked out of funding and opportunity despite off…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167768"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167759"
         }
       ],
       "briefs": [
         {
-          "text": "World Refugee Day: UN calls for renewed commitment and solidarity",
+          "text": "Sudan: Security Council warns of mass atrocity risk in El Obeid",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167766"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167773"
         },
         {
-          "text": "Survivors of wartime rape share stories of trauma and survival",
+          "text": "Ebola in DR Congo: One month on, scaled up response remains insufficient",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167767"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167763"
         },
         {
-          "text": "DR Congo: Efforts ramp up as Ebola outbreak accelerates beyond borders",
+          "text": "Art and culture can both fuel and counter hate, UN discussion hears on Juneteen…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167765"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167772"
         },
         {
-          "text": "Gaza: Sneeze and you might get shot, warns UNICEF in alert on child killings",
+          "text": "For one young refugee in Uganda, basketball is more than a game",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167760"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167743"
         }
       ]
     },
@@ -314,28 +314,33 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "18:09",
-          "title": "18个月，261人！期货公司管理层密集调整，谁在重组期货业的基因？ - 新浪网",
-          "summary": "18个月，261人！期货公司管理层密集调整，谁在重组期货业的基因？ 新浪网",
+          "time": "22:25",
+          "title": "温湛滨出席华侨试验区管委会与瑞讯公司战略合作协议签订仪式 - 搜狐网",
+          "summary": "温湛滨出席华侨试验区管委会与瑞讯公司战略合作协议签订仪式 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vLUdhaFRFdmg1UHNZd0VHaEdLUXBfNFExby1PUjhpRGtLVmVHcnAzOGhEVEVOMEZaamVRXzZpb3VlSklsMHo2V2RnWnRycmlhYk5wbGxfYTVkOUgzTTVVdjZ3ZUFEekhmOFM4Y3NoZWszdw?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWFSdVctUUtZczRXcHlZQ3ZiTDYxRVFYUHVYRDNKXzd4STZRUFpwTFFBUHFzQ2NiVTl4bWNmTnAwZlZxZE82c1gyZU5NQkc0R0R1ek9ZRTc1STN4WWZQaE11T01STjJwanV5Tm9jNTF0WFJ0SW9ZMl90X04xSzFRWXdORTZEcl9WdWhZVg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "17:40",
-          "title": "光峰科技：公司管理层正在全力以赴攻坚经营拐点 - 富途牛牛",
-          "summary": "光峰科技：公司管理层正在全力以赴攻坚经营拐点 富途牛牛",
+          "time": "06:52",
+          "title": "可口可乐聘请重组专家协助Costa咖啡架构重组和运营优化 - TradingView",
+          "summary": "可口可乐聘请重组专家协助Costa咖啡架构重组和运营优化 TradingView",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBteVhzOVkyTEZfQUJibWk4MW85YzJnMnZwNTBLYWRSNTJ1aUo2VlRPenB5NnFOUXFPME5hSENmTmllWEtTVkktdHpwaDIwSExwNGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OU1pKN3hJVjB5bkhlWndreXhydEtDZWpCaXVoTkxvMDlKWmx0b3VVTWV6UE9RM0NRekJiR21MWVQ2MVZpcUM3YW5jZFVqbmYxeEJHam1RN0N2Z0djbWhacUdOdFlBT2MzRWxn?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "美国汽车行已对其信贷协议进行了修订，此举旨在为当前正在进行的公司战略评估流程提供支持 - Bitget",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIWFVKc1RMd0NBaFdDRHRIbUNCelBCUHM0UV9fTGY4eWpfcHZuc3JfWkE4a2ZyTnBkcFphODFXR2pXZllwOWtfMWpiWVFIM3lJTnN3SzN5eDQwZmIzWEJoN0U0bVRnUdIBa0FVX3lxTE1ZRlBMTHNHSEd4NWFqem0yOVFxZjJKdWU4VzlYcXpSYXdXU3c2SUU5ZlQ0dDM1YVpYbE1uVUprVWhwUUwySEthX2JleFBMT3JNUW9aTnYwUG9oTTA4MlRmaDJ1YVZsc3V5SG9n?oc=5"
+          "text": "18个月，261人！期货公司管理层密集调整，谁在重组期货业的基因？ - 新浪网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vLUdhaFRFdmg1UHNZd0VHaEdLUXBfNFExby1PUjhpRGtLVmVHcnAzOGhEVEVOMEZaamVRXzZpb3VlSklsMHo2V2RnWnRycmlhYk5wbGxfYTVkOUgzTTVVdjZ3ZUFEekhmOFM4Y3NoZWszdw?oc=5"
+        },
+        {
+          "text": "总经理换帅！昔日光伏企业管理层大调整 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYldLeUN5WmZMcnNuZnRtMnRKLUdnQmhZVnFsdkhLUTBIdHQxRlUwQnYtdDMzNS0zaUhFaGZ0SkdaRUxJTUVidWRoS2FRM0hoQUlVOGNUR2NvNEtOclZrb2QtcGNWR3ozREVNS1lFdTF3c3dFd2doM09rUGpTUFZjVWM0Wmw?oc=5"
         },
         {
           "text": "重磅！首部《金融资产管理公司管理办法》进入立法清单 - 新浪财经",
@@ -343,14 +348,9 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qbU9KT2tPT0ttV2VmR3Zib0tKOUx4MGF1X192UFM5MF9XNU01VVMxWk5ha2Zuc000bW1nYmZnc3RoNk84S244M010SlNUTWIyT0Z2OTlnRWVYOW9fVFZ0cW9aOThELVdab1lLMHZJUldSMUVtRU1GcU9rd0VBUQ?oc=5"
         },
         {
-          "text": "锦江在线： 公司管理层高度重视股东回报 - MSN",
+          "text": "蓝思科技(300433) 成立长沙蓝思企业管理咨询有限公司 - MSN",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxOUFBTNFFkc0ZsOUJkVnVHNUV0Y241UDM3NHExR2dYMHR4Qm1BcXVtVHpuVC01M2NXMFFNdnpXOW0wdXBpOGpxc3JqNUR2NDJtQzVYaTVGaVlUSFdkbFBUbm5tajlVQ0c2V016cl94RjlteTVPSkJRelpoLTJBY2k3YXpPbTVvVVdVZXFCc3ktQi1IX3RaVzNUTE1qTVBlOW9fd1hjcFdQUHlBd1hTVlVlMzhsWGJDMWlPeVdsbzRGOVRKbktGTEhaRm9RZ1JqR2FOdFRqUVU4VFBBaE5vRmRUb2dVM0l2ejNJUk9vSUVINUd3dm8tNGN3enVRaUlVb1lTN2FTTWdKRGRFT284WEpfLWgtcEk4VFlXRTBUNXpwR0lUVWhHQWt4VUd3aUdUYjE3SW5wVGttZGR0R3lSMEF0c0pSTDR5Wnh1R2FQeW1fNk9iM0NWdDk1TVlicHN3R19iRlFTZW5kTXZSTXdTTUdxOGlNR0RXUERROXEycGdQNmFXLVpzNGt4VGxRVjdsaG8yT2Q3em1iVjJMN0hVX3NESnU2ellSSkxhWWRadE53djZlZGNFNjdRWlJCTWlobWZic2c?oc=5"
-        },
-        {
-          "text": "锦江在线： 公司管理层高度重视股东回报 - MSN",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNUWZveVRwN1Rsdi1mTU9KSWlHRjNjM205MVRJR0k2cVhiWnBmemdFQmZCeV9IOHljdGdXMjNrbUFXNWZMTkVVNVp5d0dhQ0tXNzZUTldIaHVVamtoWXdrZUJIaUxMN3JId2NlcGw2bEhRUUVXaFFZS2dfdi1mTkZhSTBoUFphUGdQYTBGMzJOcWRvV2laMmdRdnpxcllQMC1kX3RRMFM0TUlnNkFibHU2ZmVHeGg2TFhqZ1pzM0xKOXJMMmhGTkJLSVQzc1JHaHlKX3hJRG9TQVI0SjBMZ0NuZDhyRFVoVW4xNllUbWJuLUJuLTljR05MVG91Zk5tOXBSeFRMLVRVTVAwWTZoaHc4akluNUhHNF9DM2wtRFpmT2wwd1NNLVlwajJHNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOeWFHSnI4WFdmMERobVRKVkdCeFJzN0R5U1NhUXdYaV8tc3lKZ211a0Q0cnkxYnhCd0p5WW44YW53dVVveFRFR3hqeTc0YXN6bjRtSjBRcm1ySnlkbGJmeVFYRzktWFFxSlgwSUxFQXB1U0Z3MkcxbVl4RjQyMWtrVEU5UHlJN3JOZDg4Q2xjMVpCTE9sQVY3V3dxTkN6R1RpdmFySmpyWGNGRWRweksyd1VWNXFrZ0E4TGxFYVdYcWNsZy0tTkk0Snc3bWt4enkxeTNPMUFXLV9ZbmNFTGhRLVlETUw3Q0xmZXNSTmpVVUNueHhiaHdfUDUzbWdvUTNNN2k1UlV2UFZpWW1NZHJyQXd5LUVHbGVnMVBxOE0tVkpOdmhuLXRvc194czdTYTI1cjQtcDVKaHFjTnlTRnNkdlRUWGhRU2xFYmVxd0J3U0Z2S2dOTHc?oc=5"
         }
       ]
     }
