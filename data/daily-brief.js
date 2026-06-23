@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月22日",
+  "publishDate": "2026年6月23日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "华润新能源启动申购，深交所史上最大规模IPO来了 - Jiemian.com",
+      "title": "20万级新能源轿车：阿维塔06T、小米SU7等四款实力解析_太平洋号 - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Conflicts command headlines…protecting…",
+      "title": "Global Ebola cases top 1,000 as UN race…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:33",
-          "title": "华润新能源启动申购，深交所史上最大规模IPO来了 - Jiemian.com",
-          "summary": "华润新能源启动申购，深交所史上最大规模IPO来了 Jiemian.com",
+          "time": "08:49",
+          "title": "20万级新能源轿车：阿维塔06T、小米SU7等四款实力解析_太平洋号 - 新浪网",
+          "summary": "20万级新能源轿车：阿维塔06T、小米SU7等四款实力解析_太平洋号 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyUUxINUJBSXVNeXFwVmZsenJocGszcmdPTnBubDRtU2RteUZ0dkMxREt3Mk9RV2ZMazNrUWtZZnZPMTVoQURQcDdtTkY0UWJiV2pWV2dzTTE?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40VGU5eWZXU2R3R3FXZFRHemlGTm9laXJYdS12S1NiOTZjdEF5MzdXS3AxbGpoUWxHS2lqWTZDMzR4ZmNQb3RUZVBiSmNRX3Z2UlNTS3pHSElqQm1TVDZrWngwR2w1a1JkWVJ1dEpqUFc0dw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:21",
-          "title": "155款！2026新能源汽车下乡车型名单公布 - 新浪网",
-          "summary": "155款！2026新能源汽车下乡车型名单公布 新浪网",
+          "time": "08:42",
+          "title": "本田汽车社长三部敏宏：面对中国新能源汽车产业，我们毫无胜算 - 新浪财经",
+          "summary": "本田汽车社长三部敏宏：面对中国新能源汽车产业，我们毫无胜算 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CY1hmVHgtZGhuUHUyb0NQaE1CS1dMU1EtMVVLWHRFckpGXzUzUHJoS3V5ekJ3Sm43Nkl1NV9TMGFBLVM0RVMzdW1jelUyQUdHRUtMamEwQWZfZTZ3TkhOR2RieEd2Zm9DbXg0Tnk1aWdUa3lvZ0tjaTJwNVAwc0k?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53YlUwVGllWWJMZFFOT1pTcWxsWFFnWFRpQ2tsUUJpa2tqa3lfZUJuUGlHNEdYQkU3LXVsbGVjOUQxQ255dXJ3MHN4dk5JWkdNektOckhqdmR0MjdSWEEza0M4VHB3VTJ6Rzhvc2xwLVdueWhQSlE?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "今日，2只新股申购！“高中签率”新股来了 - 新浪财经",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdWlUcm1lbW5xSGNFTWk1T1lIVkhPc25pMjVDelFhdUlLRjdCbHozbWd1bWRvdndkWkJrUl95SVcwRER0RUw3a0pZQ09rSUVINDBLeVViRmlmYm9JaDVrSVduNGtYSTZ4bGdqM2IySzBtYTRtLTlPYkJXVEQ2dldMSWpnX21TdmItUTR3MUc0NnU3NWlOX3BkeE94aDFtclRVMll5NFluMA?oc=5"
+          "text": "5月新能源车渗透率提升至56.9% - 温州新闻网",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EbjR0X2RQN3FyWnkzQ0RzdlM2UXc2NmRuck5wbW1XcF83TDk1dlVRVDE1cXlpdTdmbnMxV2dJc3Y0dVJZRnBKQVhQUG40SVBOY3NDdkktMjVKR0ItX1d5MW5Xc2lUZw?oc=5"
         },
         {
-          "text": "开盘早知道｜深市华润新能源今日申购 - 搜狐网",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUZ4OHRDVmpsX29kaVFlNEJaNW9SWlVsVkphcmhlQzczSm5NR25HU2ZyV3BBVXBrM3ZGZzJ4bEFrMFVQUVhJVVJadi1iMno5c0NLc0dQVk1WbXdiNzB0aHBJNkxGVlVUd1MzczlYTkdwNkpYcWs2RTRDSnZZaGRWd2l4WVNRczRxTnFoWA?oc=5"
+          "text": "热点精选：新能源车+液冷+证券+氦气 - 新浪财经",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSEdSTUtRRjZXM2NqZFpxbUlaX1VwWVBJQ3F0eVRVRlVDekJVTlM5dDVXdEEtRzIzZkt4LWdrTkpQcjNpeExpM296WTlWZUl5RHkwbXpHYkdyWnVvWjdoRk9UdkxabmttRENRd2NYbGwwcW53NFplQlZkRVZwSjV5VF9vRjlwZWRVS2VJ?oc=5"
         },
         {
-          "text": "【视频】新能源时代下的经典SUV沃尔沃XC60 会是你绕了一圈回头的选择？ - 汽车之家",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SY0Z2eFY2dzVjZ0lMeXVneEtpYThoQmp0c0hzSGhsanVWdUVfMlQ0aWJzNGlmZ1owNWZKVzcwNm0ycmRwc2k0Q0RDWWJ0eHZ4UnFIUl9vTzZrUGlXRHhNN0dsaFZZSUp0Ym9B?oc=5"
+          "text": "第九届政务服务博览会暨数字经济发展峰会在深圳隆重举办_时政要闻 - 中国台湾网",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TZ1RrWndINzN4NXYwcEFqekVKajlfbUNrVVROQ0lObU8tQk1WQzRSVmdmVFhLTmp2YW5vY3VIQTVMWWpLN0g4V2dBVnp5TzdONDFuVGJuNURwOXZSMG4xaTZtcFAxVm5TUnVXMVNyZzVHNzY4U1lHeQ?oc=5"
         },
         {
-          "text": "《江西省增量新能源项目机制电价竞价实施细则（修订稿）》意见建议 - 国际能源网",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qTWJVN3hKb19xQUhDRnFLT3M3aE9pLXd4SE12elFvY0x0UE5vYnFXb3RiUGxPSE8yX19iQVBMUi1MRWV3bGhhUWFxM1cydmR0V3M1YVNhaDY1dDA0?oc=5"
+          "text": "李强：要大力发展高端装备制造业，加快建设现代化产业体系 - 中金在线",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GVGhFYjVrYXBqT2F1YmM1N3pGdklnallaQ3VCU3lNQWlxOGpBS2psc3ZCM0JpQlhJdGVjRWtkaDRidUtneE5XM1BMa1BvQTZIQjlab0lnVXhVNm1UNzZ3b3g5SjJISElZUU9F?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Conflicts command headlines…protecting peace, less so: The UN Peacebuilding Fund explained",
-          "summary": "Wars regularly make headlines. Preventing them rarely does.",
+          "title": "Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable",
+          "summary": "As global confirmed Ebola cases reach 1,000, nearly three million children and adolescents are at risk in the…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167764"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167783"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "From malaria to energy: Why solutions from the Global South aren’t reaching the people who need them most",
-          "summary": "Innovators – especially in the Global South – are too often locked out of funding and opportunity despite off…",
+          "title": "World News in Brief: Pope Leo urges action on hunger, humanitarian strain deepens in Gaza, families return to Lebanon",
+          "summary": "Pope Leo called on the international community to renew its commitment to tackling hunger and malnutrition, d…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167759"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167782"
         }
       ],
       "briefs": [
         {
-          "text": "Sudan: Security Council warns of mass atrocity risk in El Obeid",
+          "text": "Sudan: Drone attacks endanger civilians and shut down critical services in El O…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167773"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167781"
         },
         {
-          "text": "Ebola in DR Congo: One month on, scaled up response remains insufficient",
+          "text": "Security Council LIVE: Warnings of ‘dangerous cycle of escalation’ in Ukraine",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167763"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167775"
         },
         {
-          "text": "Art and culture can both fuel and counter hate, UN discussion hears on Juneteen…",
+          "text": "World at ‘perilous moment’ as leaders warn HIV gains are at risk",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167772"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167780"
         },
         {
-          "text": "For one young refugee in Uganda, basketball is more than a game",
+          "text": "‘Better future for Syria remains within reach,’ UN Security Council hears",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167743"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167779"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:00",
-          "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-          "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s larg…",
+          "time": "02:00",
+          "title": "Three things to watch amid Anthropic’s latest feud with the government",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:40",
-          "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-          "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that…",
+          "time": "18:00",
+          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+          "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/patch-the-planet"
         }
       ],
       "briefs": [
         {
-          "text": "New usage analytics and updated spend controls for enterprises",
+          "text": "Daybreak: Tools for securing every organization in the world",
           "source": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+          "url": "https://openai.com/index/daybreak-securing-the-world"
         },
         {
-          "text": "Improving health intelligence in ChatGPT",
+          "text": "Codex-maxxing for long-running work",
           "source": "OpenAI",
-          "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+          "url": "https://openai.com/index/codex-maxxing-long-running-work"
         },
         {
-          "text": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+          "text": "Samsung Electronics brings ChatGPT and Codex to employees",
           "source": "OpenAI",
-          "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
+          "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
         },
         {
-          "text": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemi…",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/ai-chemist-improves-reaction"
+          "text": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Chip Industry Week In Review",
-          "summary": "Apple-Intel is on, says Trump; Amkor's big win; Intel 18A-P; Amazon to sell its AI chips; Rambus' automotive…",
+          "time": "02:42",
+          "title": "Advancements In Atomic-Scale Plasma Processing",
+          "summary": "Researchers from Nagoya University, Boise State University, Korea Institute of Fusion Energy, Hitachi High-Te…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-143/"
+          "url": "https://semiengineering.com/advancements-in-atomic-scale-plasma-processing/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:15",
-          "title": "Scaling ADAS To 10+ Cameras",
-          "summary": "A robust OBGA packaging solution for automotive-grade reliability. The post Scaling ADAS To 10+ Cameras appea…",
+          "time": "02:05",
+          "title": "Interference Risks In Processing-Using-DRAM (U. of Tokyo, ETH Zurich, CISPA, Riken)",
+          "summary": "Researchers from The University of Tokyo, ETH Zurich, CISPA, and RIKEN published a technical paper titled “Pu…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/scaling-adas-to-10-cameras/"
+          "url": "https://semiengineering.com/pudghost-reveals-interference-risks-in-processing-using-dram/"
         }
       ],
       "briefs": [
         {
-          "text": "Accelerating GAA Logic Yield Optimization With Digital Twins",
+          "text": "Atom Probe Framework Tracks Phase Instability In Si-Doped Gallium Oxide (SUNY,…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/accelerating-gaa-logic-yield-optimization-with-digital-twins-2/"
+          "url": "https://semiengineering.com/atom-probe-framework-tracks-phase-instability-in-si-doped-gallium-oxide-suny-ohio-state-llnl/"
         },
         {
-          "text": "How To Build Billions of Bumps",
+          "text": "Will Your Chip’s Memory Work As Expected?",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/how-to-build-billions-of-bumps/"
+          "url": "https://semiengineering.com/will-your-chips-memory-work-as-expected/"
         },
         {
-          "text": "VLSI 2026: Intel 18A Platform Momentum From Devices To Routed Designs",
+          "text": "Cloud HPC For AI: Addressing Latency, Cost, And Scale At The Architectural Level",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/vlsi-2026-intel-18a-platform-momentum-from-devices-to-routed-designs/"
+          "url": "https://semiengineering.com/cloud-hpc-for-ai-addressing-latency-cost-and-scale-at-the-architectural-level/"
         },
         {
-          "text": "A New Fracture Engine For Curvilinear Masks And MULTIGON Mask Data",
+          "text": "Mask Economics Shape High-NA EUV Adoption",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/a-new-fracture-engine-for-curvilinear-masks-and-multigon-mask-data/"
+          "url": "https://semiengineering.com/mask-economics-shape-high-na-euv-adoption/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Conflicts command headlines…protecting peace, less so: The UN Peacebuilding Fund explained",
-          "summary": "Wars regularly make headlines. Preventing them rarely does.",
+          "title": "Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable",
+          "summary": "As global confirmed Ebola cases reach 1,000, nearly three million children and adolescents are at risk in the…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167764"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167783"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "From malaria to energy: Why solutions from the Global South aren’t reaching the people who need them most",
-          "summary": "Innovators – especially in the Global South – are too often locked out of funding and opportunity despite off…",
+          "title": "World News in Brief: Pope Leo urges action on hunger, humanitarian strain deepens in Gaza, families return to Lebanon",
+          "summary": "Pope Leo called on the international community to renew its commitment to tackling hunger and malnutrition, d…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167759"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167782"
         }
       ],
       "briefs": [
         {
-          "text": "Sudan: Security Council warns of mass atrocity risk in El Obeid",
+          "text": "Sudan: Drone attacks endanger civilians and shut down critical services in El O…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167773"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167781"
         },
         {
-          "text": "Ebola in DR Congo: One month on, scaled up response remains insufficient",
+          "text": "Security Council LIVE: Warnings of ‘dangerous cycle of escalation’ in Ukraine",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167763"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167775"
         },
         {
-          "text": "Art and culture can both fuel and counter hate, UN discussion hears on Juneteen…",
+          "text": "World at ‘perilous moment’ as leaders warn HIV gains are at risk",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167772"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167780"
         },
         {
-          "text": "For one young refugee in Uganda, basketball is more than a game",
+          "text": "‘Better future for Syria remains within reach,’ UN Security Council hears",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167743"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167779"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:25",
-          "title": "温湛滨出席华侨试验区管委会与瑞讯公司战略合作协议签订仪式 - 搜狐网",
-          "summary": "温湛滨出席华侨试验区管委会与瑞讯公司战略合作协议签订仪式 搜狐网",
+          "time": "00:47",
+          "title": "全球供应链韧性指数矩阵扩围 - 新浪财经",
+          "summary": "全球供应链韧性指数矩阵扩围 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWFSdVctUUtZczRXcHlZQ3ZiTDYxRVFYUHVYRDNKXzd4STZRUFpwTFFBUHFzQ2NiVTl4bWNmTnAwZlZxZE82c1gyZU5NQkc0R0R1ek9ZRTc1STN4WWZQaE11T01STjJwanV5Tm9jNTF0WFJ0SW9ZMl90X04xSzFRWXdORTZEcl9WdWhZVg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nYmpza25GVURwVURnanZ2TGxqaGxOZExuVkRnc01wODJuaDhvd3Z0aVhTLXZSTUE5VndJS0xiTXVHTDREZ19OZ21LcDJna1dudWFZRlVzLUdab25ZMmNyOXhNTFk0VnpMN1psSnVEZXRyRFVJYndQVw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:52",
-          "title": "可口可乐聘请重组专家协助Costa咖啡架构重组和运营优化 - TradingView",
-          "summary": "可口可乐聘请重组专家协助Costa咖啡架构重组和运营优化 TradingView",
+          "time": "21:12",
+          "title": "香港云端企业管理平台供应商易系科技(ECST.US)IPO定价5-6美元/股筹资规模上调244%至2800万美元 - 凤凰网",
+          "summary": "香港云端企业管理平台供应商易系科技(ECST.US)IPO定价5-6美元/股筹资规模上调244%至2800万美元 凤凰网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OU1pKN3hJVjB5bkhlWndreXhydEtDZWpCaXVoTkxvMDlKWmx0b3VVTWV6UE9RM0NRekJiR21MWVQ2MVZpcUM3YW5jZFVqbmYxeEJHam1RN0N2Z0djbWhacUdOdFlBT2MzRWxn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wSWxpV2phWFFBWWtKemozeDNnM2xPYnJCU1gtWmxCR3V0T1lrOFJEcUItejM1RVdDS0lKVVpOeTVoWVJiOXotZQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "18个月，261人！期货公司管理层密集调整，谁在重组期货业的基因？ - 新浪网",
+          "text": "玲珑轮胎：现阶段公司管理层正在更加努力地推动战略落地、全力提升生产效率及效益、夯实经营根基 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vLUdhaFRFdmg1UHNZd0VHaEdLUXBfNFExby1PUjhpRGtLVmVHcnAzOGhEVEVOMEZaamVRXzZpb3VlSklsMHo2V2RnWnRycmlhYk5wbGxfYTVkOUgzTTVVdjZ3ZUFEekhmOFM4Y3NoZWszdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQzZDaXlidTB2a0MtTW1XNVI3MUc0SnBNd0ZiVjNQSEdsOFlkbUY0Z2k0TzEwX3g0QjZVa3pXczlXTTJIeEl0VVlWemdJamVneU1XN3VGcFhWRGFLWmFuTGdXdkRvTHBDYlllMjF0ajVMbTlucnpnN21NYU5BeldOSi1yWQ?oc=5"
         },
         {
-          "text": "总经理换帅！昔日光伏企业管理层大调整 - 新浪财经",
+          "text": "每体：奥亚萨瓦尔4年拿下企业管理学位 - 懂球帝",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYldLeUN5WmZMcnNuZnRtMnRKLUdnQmhZVnFsdkhLUTBIdHQxRlUwQnYtdDMzNS0zaUhFaGZ0SkdaRUxJTUVidWRoS2FRM0hoQUlVOGNUR2NvNEtOclZrb2QtcGNWR3ozREVNS1lFdTF3c3dFd2doM09rUGpTUFZjVWM0Wmw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xU1NMbUpYc2NNa3RMbkFOZ21kazJEa3V1Sy1jdDVjY2o0TDd3T1pyUWEtMnQ2RkNPcjBkWFRGN0hKN2JlQjk4X1QyVm5HdXFLVjNNeDZGYw?oc=5"
         },
         {
-          "text": "重磅！首部《金融资产管理公司管理办法》进入立法清单 - 新浪财经",
+          "text": "倍搏集团：开拓职业经理人及企业管理咨询业务 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qbU9KT2tPT0ttV2VmR3Zib0tKOUx4MGF1X192UFM5MF9XNU01VVMxWk5ha2Zuc000bW1nYmZnc3RoNk84S244M010SlNUTWIyT0Z2OTlnRWVYOW9fVFZ0cW9aOThELVdab1lLMHZJUldSMUVtRU1GcU9rd0VBUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vcmtES1B6UkVLVjR1cFVaUjhDUURsc015RmxGTVZpZWJNR0VWMDdBSTlIc3JzUFVpcmFVYndzZmdxVkV1RW85ODlvZm5qYzk5aUdpSXZEMU4wTTVxaWgzbg?oc=5"
         },
         {
-          "text": "蓝思科技(300433) 成立长沙蓝思企业管理咨询有限公司 - MSN",
+          "text": "突发！开业16年，福州一座万达广场转让 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOeWFHSnI4WFdmMERobVRKVkdCeFJzN0R5U1NhUXdYaV8tc3lKZ211a0Q0cnkxYnhCd0p5WW44YW53dVVveFRFR3hqeTc0YXN6bjRtSjBRcm1ySnlkbGJmeVFYRzktWFFxSlgwSUxFQXB1U0Z3MkcxbVl4RjQyMWtrVEU5UHlJN3JOZDg4Q2xjMVpCTE9sQVY3V3dxTkN6R1RpdmFySmpyWGNGRWRweksyd1VWNXFrZ0E4TGxFYVdYcWNsZy0tTkk0Snc3bWt4enkxeTNPMUFXLV9ZbmNFTGhRLVlETUw3Q0xmZXNSTmpVVUNueHhiaHdfUDUzbWdvUTNNN2k1UlV2UFZpWW1NZHJyQXd5LUVHbGVnMVBxOE0tVkpOdmhuLXRvc194czdTYTI1cjQtcDVKaHFjTnlTRnNkdlRUWGhRU2xFYmVxd0J3U0Z2S2dOTHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZTUyc1ZYLTY3Qy1Zb2tTUGtHUDAwYmpldUstdHVkc09BX1hUZWJSQ1ZtNDZEWk56OERIUGlfQVhlZHhGQ25OcXZvNU0tRzdXN3FDRlo5ZFlvNTRtS3pzc3RfRFg4UWdSLURRWTcwZVV0U2tTMmJCVkhIc3dhLXN1aF9PNHNjTkRX?oc=5"
         }
       ]
     }
