@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月23日",
+  "publishDate": "2026年6月24日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "20万级新能源轿车：阿维塔06T、小米SU7等四款实力解析_太平洋号 - 新浪网",
+      "title": "引领新能源时代四驱变革：长城汽车智能四驱SUV多维度深度评测 - 爱咖号",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:49",
-          "title": "20万级新能源轿车：阿维塔06T、小米SU7等四款实力解析_太平洋号 - 新浪网",
-          "summary": "20万级新能源轿车：阿维塔06T、小米SU7等四款实力解析_太平洋号 新浪网",
+          "time": "08:07",
+          "title": "引领新能源时代四驱变革：长城汽车智能四驱SUV多维度深度评测 - 爱咖号",
+          "summary": "引领新能源时代四驱变革：长城汽车智能四驱SUV多维度深度评测 爱咖号",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40VGU5eWZXU2R3R3FXZFRHemlGTm9laXJYdS12S1NiOTZjdEF5MzdXS3AxbGpoUWxHS2lqWTZDMzR4ZmNQb3RUZVBiSmNRX3Z2UlNTS3pHSElqQm1TVDZrWngwR2w1a1JkWVJ1dEpqUFc0dw?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qUVhVM2xKNmRSb19HNFRQTDdFU0VoZDQwZktTUUlQeC1BbTVHdTBXOFpWR3Zya1c0SXI0cFR0NDAxMmFBcW01dkJXcU5mRng5YkNoQTJOeGQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:42",
-          "title": "本田汽车社长三部敏宏：面对中国新能源汽车产业，我们毫无胜算 - 新浪财经",
-          "summary": "本田汽车社长三部敏宏：面对中国新能源汽车产业，我们毫无胜算 新浪财经",
+          "time": "08:07",
+          "title": "新能源汽车L2+辅助驾驶装车率达87.4% 甩开燃油车一大截 - 驱动之家",
+          "summary": "新能源汽车L2+辅助驾驶装车率达87.4% 甩开燃油车一大截 驱动之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53YlUwVGllWWJMZFFOT1pTcWxsWFFnWFRpQ2tsUUJpa2tqa3lfZUJuUGlHNEdYQkU3LXVsbGVjOUQxQ255dXJ3MHN4dk5JWkdNektOckhqdmR0MjdSWEEza0M4VHB3VTJ6Rzhvc2xwLVdueWhQSlE?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03NnlOUE9nUGRhRWNGRTRNMDhOR0Z1RjVzMFg2ci0xRGQyQmROVzdPbGVfN2I1YmgwNWdMY1RSdzAxMnVJY05zenVjc2txQ2Q3MElvTzVwZXk?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "5月新能源车渗透率提升至56.9% - 温州新闻网",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EbjR0X2RQN3FyWnkzQ0RzdlM2UXc2NmRuck5wbW1XcF83TDk1dlVRVDE1cXlpdTdmbnMxV2dJc3Y0dVJZRnBKQVhQUG40SVBOY3NDdkktMjVKR0ItX1d5MW5Xc2lUZw?oc=5"
+          "text": "能源早报｜华润新能源网上摇号中签结果出炉；富临精工拟建年产20万吨磷酸二氢锂项目 - 搜狐网",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPejNHQ012MWwwYm9NUWFZMkIxcXEzdVQta29RTlRRNnhVaEtzUlNRU052RTdEREFUUWg0NmhPQVJaak5MSVFnc0VoeWx2dGVGQWRIMU5NU3NES1hObktiNjdZbC00ZEVyVXlaZ2p1b2NZSDVOaVRPWDRrbnF4OUZiMEowbkhFQXAx?oc=5"
         },
         {
-          "text": "热点精选：新能源车+液冷+证券+氦气 - 新浪财经",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSEdSTUtRRjZXM2NqZFpxbUlaX1VwWVBJQ3F0eVRVRlVDekJVTlM5dDVXdEEtRzIzZkt4LWdrTkpQcjNpeExpM296WTlWZUl5RHkwbXpHYkdyWnVvWjdoRk9UdkxabmttRENRd2NYbGwwcW53NFplQlZkRVZwSjV5VF9vRjlwZWRVS2VJ?oc=5"
+          "text": "新能源电池ETF华宝（159071）跌2.91%，半日成交额1944.63万元 - 新浪财经",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQZHBVTWdkOC16UGhwTE1YVzJ1ZWtEZE9wMFpmTEpaeE1lUGpjTDJtcFNrb1lkUWRYbzl0Y0pIMlEyZWZLS25nOXR0UDZJM1hPeXZfLWI1YXdDS0lyWTNqZkhlc2llYVpWcGtPR3NGX25zYW5jTmJoZnpISTlEbWZtZzBsVnFWckdsSklUX09NcGNKY21EdEt4UGlYMmJWbkJEMlN0c2F4b2ZNcE41U25NOFcxZFVvQXBtdGFzSHotR09LSmhaOFM0Y1RwWDlBLVVCTy0wR1h5MmhMcGdDV3NoTkhjcEdjQnBVY3FIQjJvRWYtalloZnppanhNdXRQV0NQNDlDS2dwVGt5Zm5R?oc=5"
         },
         {
-          "text": "第九届政务服务博览会暨数字经济发展峰会在深圳隆重举办_时政要闻 - 中国台湾网",
+          "text": "东风日产NX8增程版“三大标准”落定，20万级混动SUV进入“价值锚定”时代 - 新浪财经",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGlWNVFhRHpOeHFSZGRZQWlQZWJ2SjZqZHJwWVF6cjFCRllic2Vzb0dnUXRUQ1hWdnc2eVFUVlk0RjgyOFF6VFUySmZQUElvY3BPQUMxbHdmSkstMnFCSlh0YzVUOU1KdDgwY2JtanQ0UDlBNlFrdXdxSWtsWGFIX3pUX0dsQ3pzUm5xR0pUcGptNDZjUGVjUQ?oc=5"
+        },
+        {
+          "text": "万联证券高端装备行业......_7x24快讯_新浪财经 - 新浪财经",
           "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TZ1RrWndINzN4NXYwcEFqekVKajlfbUNrVVROQ0lObU8tQk1WQzRSVmdmVFhLTmp2YW5vY3VIQTVMWWpLN0g4V2dBVnp5TzdONDFuVGJuNURwOXZSMG4xaTZtcFAxVm5TUnVXMVNyZzVHNzY4U1lHeQ?oc=5"
-        },
-        {
-          "text": "李强：要大力发展高端装备制造业，加快建设现代化产业体系 - 中金在线",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GVGhFYjVrYXBqT2F1YmM1N3pGdklnallaQ3VCU3lNQWlxOGpBS2psc3ZCM0JpQlhJdGVjRWtkaDRidUtneE5XM1BMa1BvQTZIQjlab0lnVXhVNm1UNzZ3b3g5SjJISElZUU9F?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9zYWRfTnhrZV92TjZtSTFUY3YwMzUzMDRlVE1rbEpGSVAxYktSck04ZFltRm5jWWEwMURORlRvcWpOQllOMjJaT1BoVQ?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:00",
-          "title": "Three things to watch amid Anthropic’s latest feud with the government",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "time": "01:00",
+          "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+          "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthro…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-5-immunology-mystery"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:00",
-          "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-          "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and…",
+          "time": "21:00",
+          "title": "Helping build shared standards for advanced AI",
+          "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/patch-the-planet"
+          "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
         }
       ],
       "briefs": [
         {
-          "text": "Daybreak: Tools for securing every organization in the world",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/daybreak-securing-the-world"
-        },
-        {
-          "text": "Codex-maxxing for long-running work",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/codex-maxxing-long-running-work"
-        },
-        {
-          "text": "Samsung Electronics brings ChatGPT and Codex to employees",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
-        },
-        {
-          "text": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+          "text": "The $400 million machine powering the future of chipmaking",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+          "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/"
+        },
+        {
+          "text": "How Omio is building the future of conversational travel",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/omio"
+        },
+        {
+          "text": "Three things to watch amid Anthropic’s latest feud with the government",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
+        },
+        {
+          "text": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/patch-the-planet"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:42",
-          "title": "Advancements In Atomic-Scale Plasma Processing",
-          "summary": "Researchers from Nagoya University, Boise State University, Korea Institute of Fusion Energy, Hitachi High-Te…",
+          "time": "18:00",
+          "title": "The EU Wants Its Own Tech Supply Chain",
+          "summary": "It’s little secret that Europe is dependent on foreign technology—particularly U.S. tech—for office software,…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/advancements-in-atomic-scale-plasma-processing/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/europe-tech-sovereignty-package"
         },
         {
           "priority": "重点看点 02",
-          "time": "02:05",
-          "title": "Interference Risks In Processing-Using-DRAM (U. of Tokyo, ETH Zurich, CISPA, Riken)",
-          "summary": "Researchers from The University of Tokyo, ETH Zurich, CISPA, and RIKEN published a technical paper titled “Pu…",
+          "time": "15:15",
+          "title": "New USB Standards: Benefits And Incompatibilities",
+          "summary": "A roadmap for integrating different versions of the USB and eUSB. The post New USB Standards: Benefits And In…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/pudghost-reveals-interference-risks-in-processing-using-dram/"
+          "url": "https://semiengineering.com/new-usb-standards-benefits-and-incompatibilities/"
         }
       ],
       "briefs": [
         {
+          "text": "Research Bits: June 23",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/research-bits-june-23/"
+        },
+        {
+          "text": "Advancements In Atomic-Scale Plasma Processing",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/advancements-in-atomic-scale-plasma-processing/"
+        },
+        {
+          "text": "Interference Risks In Processing-Using-DRAM (U. of Tokyo, ETH Zurich, CISPA, Ri…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/pudghost-reveals-interference-risks-in-processing-using-dram/"
+        },
+        {
           "text": "Atom Probe Framework Tracks Phase Instability In Si-Doped Gallium Oxide (SUNY,…",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/atom-probe-framework-tracks-phase-instability-in-si-doped-gallium-oxide-suny-ohio-state-llnl/"
-        },
-        {
-          "text": "Will Your Chip’s Memory Work As Expected?",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/will-your-chips-memory-work-as-expected/"
-        },
-        {
-          "text": "Cloud HPC For AI: Addressing Latency, Cost, And Scale At The Architectural Level",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/cloud-hpc-for-ai-addressing-latency-cost-and-scale-at-the-architectural-level/"
-        },
-        {
-          "text": "Mask Economics Shape High-NA EUV Adoption",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/mask-economics-shape-high-na-euv-adoption/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:47",
-          "title": "全球供应链韧性指数矩阵扩围 - 新浪财经",
-          "summary": "全球供应链韧性指数矩阵扩围 新浪财经",
+          "time": "22:40",
+          "title": "正行创新完成近亿美元融资 多家上市公司战略押注 - 搜狐网",
+          "summary": "正行创新完成近亿美元融资 多家上市公司战略押注 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nYmpza25GVURwVURnanZ2TGxqaGxOZExuVkRnc01wODJuaDhvd3Z0aVhTLXZSTUE5VndJS0xiTXVHTDREZ19OZ21LcDJna1dudWFZRlVzLUdab25ZMmNyOXhNTFk0VnpMN1psSnVEZXRyRFVJYndQVw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSk9tQ2xKT1VrRGlDeGdVNndtRHBkRy1HeXA0LUlHZF9yZHQyTHlCRThpV3V5RkxBY2U2ZzBXUkJyWEFOdUhUQmV3OGdTb3prZ1dYNmNndXE3TkhNMHgtaWJ0Q2VjbWVSM2c5WE9SNmN6QW13cFFsMnFLdUZvX3VYaEJ5WlpRSzF3c19EMw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:12",
-          "title": "香港云端企业管理平台供应商易系科技(ECST.US)IPO定价5-6美元/股筹资规模上调244%至2800万美元 - 凤凰网",
-          "summary": "香港云端企业管理平台供应商易系科技(ECST.US)IPO定价5-6美元/股筹资规模上调244%至2800万美元 凤凰网",
+          "time": "19:06",
+          "title": "与中国企业战略合作 VANZO开拓家庭洗护市场 - KLSE Screener",
+          "summary": "与中国企业战略合作 VANZO开拓家庭洗护市场 KLSE Screener",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wSWxpV2phWFFBWWtKemozeDNnM2xPYnJCU1gtWmxCR3V0T1lrOFJEcUItejM1RVdDS0lKVVpOeTVoWVJiOXotZQ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNNHYxWGFmZDNBcmp0V2swZGZ0X1dUUzd6aHZxVnBEQkMyOE5hV0t6Qk5Eb0hYNldIMTR1R3AtbjV1REVfa2lsZnNMVHNoWmkzcEpObXphZGR2UV83NU1nVk9rXzlKV3hQcEhDVzlxSlZoTlRzT0x1UXZxYUEzSWRDcVZTbjBRUnVYWll1Y0plRURQVEE4YUQ1YXUwcnJWSWRmalNkYWpfdGN0NEl5cmIzYzBHNDVNMHUwcTc3eXhQeEx0LXRaSTZ4MUlWdEhwejV1MFFiTHl5WUlwR3RwN3VXM1h4aC1XcU1IOTJlZi1sUDFURVpyZ1NHMk1jUmxhU1RSYl9ZTjRrSTFqWlZDZDZ4SlZHNURoN0toR3Z3WkdyLTJyamtIX1hWbEJ2MzE1SXJMbnRr?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "玲珑轮胎：现阶段公司管理层正在更加努力地推动战略落地、全力提升生产效率及效益、夯实经营根基 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQzZDaXlidTB2a0MtTW1XNVI3MUc0SnBNd0ZiVjNQSEdsOFlkbUY0Z2k0TzEwX3g0QjZVa3pXczlXTTJIeEl0VVlWemdJamVneU1XN3VGcFhWRGFLWmFuTGdXdkRvTHBDYlllMjF0ajVMbTlucnpnN21NYU5BeldOSi1yWQ?oc=5"
+          "text": "与中国企业战略合作 VANZO开拓家庭洗护市场 - e南洋",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ZREw2X3ZnMGhiTk9EVmM5b0V3UkFWeHZzWjg3dXFkVGlZRi1ZdGxtQmRTOFlId1VQczB1angwbm5obUZrUU1yVGN6TWNmVnQzTnN5aXpvWF95UjBTa1JsZmxKZw?oc=5"
         },
         {
-          "text": "每体：奥亚萨瓦尔4年拿下企业管理学位 - 懂球帝",
+          "text": "南宁百货副总经理被实施留置 公司管理层稳定性再受考验 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xU1NMbUpYc2NNa3RMbkFOZ21kazJEa3V1Sy1jdDVjY2o0TDd3T1pyUWEtMnQ2RkNPcjBkWFRGN0hKN2JlQjk4X1QyVm5HdXFLVjNNeDZGYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04bkZOa3MxTkRnd3ktYXlXamt0bmdBUG1PX2ladWRwdkoxR1JURXhkaUVnVlpKTVBFMlEyNm9XZkJ2ZW9scFN5cERpaExRbVdQRmtFS0ZxcHZ4OUF4SHJ3STBIRQ?oc=5"
         },
         {
-          "text": "倍搏集团：开拓职业经理人及企业管理咨询业务 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vcmtES1B6UkVLVjR1cFVaUjhDUURsc015RmxGTVZpZWJNR0VWMDdBSTlIc3JzUFVpcmFVYndzZmdxVkV1RW85ODlvZm5qYzk5aUdpSXZEMU4wTTVxaWgzbg?oc=5"
+          "text": "FDE热潮来袭！顶尖AI公司战略转向，私募与咨询行业如何应对？ - blog.csdn.net",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hRFpNM2tnV28zVjZuaUxwN2ZfOF8taFVOWEFmdExMTjdyazJYUTlwMVNyQzF3QndPVkZOSWpfM09NRmpoMUtFUEFoNHVzWmxKWEwzRlRQcGdkbGRURlhZY0l3MFJGeFVDcF9r?oc=5"
         },
         {
-          "text": "突发！开业16年，福州一座万达广场转让 - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZTUyc1ZYLTY3Qy1Zb2tTUGtHUDAwYmpldUstdHVkc09BX1hUZWJSQ1ZtNDZEWk56OERIUGlfQVhlZHhGQ25OcXZvNU0tRzdXN3FDRlo5ZFlvNTRtS3pzc3RfRFg4UWdSLURRWTcwZVV0U2tTMmJCVkhIc3dhLXN1aF9PNHNjTkRX?oc=5"
+          "text": "山东移动泰安分公司战略客户中心党支部开展“诉本领”交流活动 - 搜狐网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUFiVUZ0bVFBd3J5RE44RDlYWms2WUFvWm5tdE9RLV9zS2ExMHZQaVhUSEROWktOb1QzM2lIOTNYek5GV2wybVlQMGFvcDhoVTBNRHlVYm8wV2duTUxGb2hVdzBEOFRSa1lFUnp6aElFREtqQWNxcEVBOWczRy04cmREQVRhWTRm?oc=5"
         }
       ]
     }
