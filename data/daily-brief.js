@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月25日",
+  "publishDate": "2026年6月26日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "先进制造2026｜鄂尔多斯打造“车能路云一体化”融合创新示范样板（先进制造区域…",
+      "title": "视频丨2026年新能源汽车下乡启动 覆盖155款车型 - 搜狐网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:20",
-          "title": "先进制造2026｜鄂尔多斯打造“车能路云一体化”融合创新示范样板（先进制造区域解码第3期） - 搜狐网",
-          "summary": "先进制造2026｜鄂尔多斯打造“车能路云一体化”融合创新示范样板（先进制造区域解码第3期） 搜狐网",
+          "time": "09:14",
+          "title": "视频丨2026年新能源汽车下乡启动 覆盖155款车型 - 搜狐网",
+          "summary": "视频丨2026年新能源汽车下乡启动 覆盖155款车型 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2hvZnhCbDlmaGJ1ZHIxN3FINDR6MUZ6ZnpLelkxSkNNUVN2R0J2OEVKTC1Fc1FNQ3JMdkp4N0k2RkpOYVJRRVZCY193ZnliQVZRUFpPTFB5VFhGWVh1UFNLYW5UaDRfdzdkcU5aOFF0UDVmN0pCMzV5c0dWa05sa09LMkV4MGNO?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb2x2YjlfeG81M0lmYjNST1lPMzY3RXJjS1pLazljVW9tVXdlc25NLUgxS0I2Qk5GNjJCcEJVa1BEY2V2eTJNaUI0NWkxUWttb2MtQmhHbWVWQlVYV3VhYmN1cWdDbWM0NmJWSXoyWWZjU1U1WGUtNjQ1ZDBzZVE3QTR3eFVrLUljanNTOQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:02",
-          "title": "华夏中证新能源汽车ETF发起式联接A净值上涨1.52% - video.sina.com.cn",
-          "summary": "华夏中证新能源汽车ETF发起式联接A净值上涨1.52% video.sina.com.cn",
+          "time": "09:11",
+          "title": "易立竞灵魂发问奥迪高管 新能源转型压力测试 - 中华网",
+          "summary": "易立竞灵魂发问奥迪高管 新能源转型压力测试 中华网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZDQxX1dGTU04QnFMY2RRM0lXaWd5MWxSZXV3YkhoM2J6eUR6WEJLcnNJcGtrUEREMEdZSEp4VFlkX3JtanMydzc1Z3VqWnd4X0ttakxUMlBNc3lnNzc3RWREdkZuTWNvMjNDLXV1RVBXbWNnNWFBZk13NWRNbnlkVm9n?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fWGFzenROU1pfeFVyS3lvUlA4b2g3SXBrVTJrZmNtYmN3UnJTb1k1QmFWX2tlc212eGxsTGljaUtiLUx1VzdvMm1jZm5hT09tcGN4MUVxektkUHFlbGVQYnBVOUl5YXRVUmRLMjhRVUY?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "【视频】五部门：开展2026年新能源汽车下乡 - 汽车之家",
+          "text": "广西武宣新能源获20年发电类电力业务许可证，电力项目运营资质落定 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VTDFkU2ItbGM2d0poTUNtdThwT2otSkpwVXJmdTBJUGdMYlAySnVfV1N0bWN1SGV1d1hWU18zanNxRTJsMk9GWEhMWUN4OTI5XzVQTjZzSUNUR00?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcmE5TXpnelFSSWl2OXVldmQ3Nk5NUG03aVFLdVZrenFXVXNKbHJ1ZzEzT1VIU1VkTWRkdEpMUVBUOFQ0dnF0NnRjbVNtRkdDS1BwM29rX1hHSjNycTNlaDNjaC14RWZ2eW9Ba0lfV3VUbmxoaWZfcmVBOUYydjNFeXVFa09VRUNmTThRXzZuMEN4a05IcUNuQWZEU0tsaXFtSE5YNURFQVNrckdZZHJ1bjZnRzNnV0JKSkFsX2hOS2lZTElyb2pBdXViemZCWkxDZzA4ZFVsX3lVbWh3LWtMSHFua1RRLXNNam9lRjlRX2hSOWtlcVJNb0hSb21FZ0tzR05jMktVdDA?oc=5"
         },
         {
-          "text": "华润新能源中签结果出炉 - 新浪网",
+          "text": "6月25日新能源电池ETF华宝（159071）份额减少2000.00万份，最新份额1.72亿份，最新规模1.78亿元 - Sina finance",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTbDJaOEVTYklYY3RPVDZNSFhVdE5iRWFmXzIyZ0JnbHhINnZTaDRsXzVuNHI5WS1BY0gzaDJtZ1hYbHlEaFk1QmYtWmtraDh0RE41Z0RnRC1BNm9wODcxWlRFLWdMdnk3WkVxMEQ4TjNuQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHU3RkQtcFc2anBPeVVWUEZTZ04ycVBBQ0JNVExZT0o2aVdTRVI2Yk5iM1JvQ3pWRlNYbEZOanoyVGo2M0VGV3dMQ2xnM202NEFuaHVTMnJyUXZnMXB3Mlh0ZkE0bzYtdkxyRks2NjVIdzBYenFVNHo0V3Qwd2xpVGJwMDg4QzBGRkRpVHBDWi1IN0RCMWEyU2FzVQ?oc=5"
         },
         {
-          "text": "6月24日新能源ETF嘉实基金份额减少9750万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 - 证券之星",
+          "text": "6月25日创业板新能源ETF景顺（159187）份额减少100.00万份，最新份额5217.63万份，最新规模5519.73万元 - Sina finance",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85OVZiM1BsV184Zk5TQmI5ZGZEMkFmUm9zQWpRcjk5UXZ4YWFTSUN0UzNPd0luMWRHOHlnTHI1eTVaOERYUmJpOXo4aUNTaGRoNzRJV3I0cjFVZGNuMnJySjhR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdks2Z2RPZ0w3SnBtaGUzLVVLMmtidVg3S1hfOGxGdkttM21fZEdpUE0wWU9JNHhzb1ZZamhlOFYxUWZrVjlabUZ0Q3ZwRmNnV2p2WWM2NmJVQ3BJMTZaaHozNHFZNEtHZW54ZjRXSTR3d1NuMFBYM2R3bXZPeC1raml2eVhEZHd4QloyRDNDT2dsTERZcExFaUhFdw?oc=5"
         },
         {
-          "text": "特变电工新能源：让光储学会主动“构网” - 搜狐网",
+          "text": "6月25日新能源电池ETF银华（159193）份额减少300.00万份，最新份额2.13亿份，最新规模2.11亿元 - Sina finance",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONnpwNDc2ZEJiSmtiWFlfdXFoZm9SekwzRDc5M2lIdUEtekFicnJWNmsycGgwVmIxUXA5X3gzRDA3Zm42LVRNTl9TWURHMU5NemowQnNhWDRDSlpESHdWYVRVMnRsS3RZd1dwelQ2REZaa0ljRVhIcGRTa1ZIZEY1ZEJ1ZjU4d0RtOUhuNw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYnZxaG82aWhORmtCMElKM3Mtbks4V1VyYmZXa2RRWWFLNnkwb0R2UUx6OVJxc290bElIS25VU2FGNWI0V3RyYmVvY0lTWDdaVWg3aURvaXowemRCaXVaMXZlV3hwNmhMMXpWeUhjdkIxWVlETGQwMkpDNkozLVk3N2ptQUFTSzJrX1RNdktqMGlFbzdxTU1Ya0JvRQ?oc=5"
         }
       ]
     },
@@ -170,24 +170,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:59",
-          "title": "The emergence of the web data infrastructure layer for AI",
-          "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises…",
+          "time": "22:22",
+          "title": "Repositioning retail for the AI era",
+          "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice.…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "10:00",
+          "title": "How agents are transforming work",
+          "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks an…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/how-agents-are-transforming-work"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "The emergence of the web data infrastructure layer for AI",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
         },
         {
-          "priority": "重点看点 02",
-          "time": "14:00",
-          "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-          "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, effi…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "OpenAI and Broadcom unveil LLM-optimized inference chip",
           "source": "OpenAI",
           "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
           "source": "OpenAI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "Helping build shared standards for advanced AI",
           "source": "OpenAI",
           "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
-        },
-        {
-          "text": "The $400 million machine powering the future of chipmaking",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/"
-        },
-        {
-          "text": "How Omio is building the future of conversational travel",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/omio"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:00",
-          "title": "AI Is Designing Radio Chips That Humans Couldn’t Even Imagine",
-          "summary": "Summary RFIC design is a complex “ dark art ” that limits progress in wireless technologies like 5G, autonomo…",
+          "time": "22:00",
+          "title": "Records Fall for 3D Chip Tech",
+          "summary": "As transistor sizes shrink to their atomic limits, computing demands are only growing. Sending chips to the t…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/ai-radio-chip-design"
+          "url": "https://spectrum.ieee.org/hybrid-bonding-2677022836"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:15",
-          "title": "How Far Left Can You Shift?",
-          "summary": "Complex chips require much more work earlier in the flow. The post How Far Left Can You Shift? appeared first…",
+          "time": "19:41",
+          "title": "Future Transistor Stacking Plans Start to Diverge",
+          "summary": "Chipmakers agree that the transistor of the next decade will actually be two transistors stacked atop one ano…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/how-far-left-can-you-shift/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/cfet-ibm-plan"
         }
       ],
       "briefs": [
         {
-          "text": "Continuous Physics Reasoning: Definition, Minimum Criteria, and the Role of Fou…",
+          "text": "I/O Design Challenges Grow In AI Data Centers And HPC Clusters",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/continuous-physics-reasoning-definition-minimum-criteria-and-the-role-of-foundation-models-for-physics/"
+          "url": "https://semiengineering.com/i-o-design-challenges-grow-in-ai-data-centers-and-hpc-clusters/"
         },
         {
-          "text": "UCIe vs. BoW: Practical Insights For Choosing The Right Chiplet Standards",
+          "text": "Verification Methodologies Struggle To Keep Up With AI",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ucie-vs-bow-practical-insights-for-choosing-the-right-chiplet-standards/"
+          "url": "https://semiengineering.com/verification-methodologies-struggle-to-keep-up-with-ai/"
         },
         {
-          "text": "Automate the Pain Away: HW/SW Interface Design Methodology",
+          "text": "Executive Outlook: Agentic AI’s Impact On Chip Design",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/automate-the-pain-away-hw-sw-interface-design-methodology/"
+          "url": "https://semiengineering.com/executive-outlook-agentic-ais-impact-on-chip-design/"
         },
         {
-          "text": "Optimizing Curvilinear OPC: Vector- Based Site and Anchor Decoupling",
+          "text": "How Far Left Can We Really Shift Verification?",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/optimizing-curvilinear-opc-vector-based-site-and-anchor-decoupling/"
+          "url": "https://semiengineering.com/how-far-left-can-we-really-shift-verification/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:40",
-          "title": "报名即将关闭 免费参加：AI赋能供应链韧性论坛 - 新浪网",
-          "summary": "报名即将关闭 免费参加：AI赋能供应链韧性论坛 新浪网",
+          "time": "06:39",
+          "title": "人工智能如何重构供应链韧性 - 新浪财经",
+          "summary": "人工智能如何重构供应链韧性 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84NlpoLVNzOUVMOC1uOVA3czdBVEdQT2pJV3FhNExGMUVKMjRXNzZEN0FXSzlhYmRvc1lRRllKN2hhYnVlVVA5Q09sRXFlUG5kMmdfTHh2WEMyS3VaZWpwX295cjZEeGF5OVhWc1VaN2VfQUFyRWR2RFFvOW96RnM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vc01OYmVVSTZsWEhxVGs1b18wUFFTZ3ZtZGlGS2JYbEVSVHU1NmlFUGR3aWtJYjBKamdMejAzSXpQX2NtenoxR3UzUDVGa01NRjc0bFBuSXFGN0IyUElXMWJoQjdpNXBGczJYRU55MUU?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:44",
-          "title": "立昂技术：公司管理层正多措并举拓宽市场订单、加快应收账款回收、优化成本管控 - 东方财富",
-          "summary": "立昂技术：公司管理层正多措并举拓宽市场订单、加快应收账款回收、优化成本管控 东方财富",
+          "time": "19:00",
+          "title": "FPT Software 公司的 Frank Bignone 高级副总裁和企业战略与增长负责人 – 采访系列 - Unite.AI",
+          "summary": "FPT Software 公司的 Frank Bignone 高级副总裁和企业战略与增长负责人 – 采访系列 Unite.AI",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzQjAxR0NBZlRpVGk0LXRCdHBBVThGLWdvWkVWcWdJR0J4SXhoaThtaXE4ZnN5ajhKdHVzLU1oS3JWNEFOSEw0Y2dFdFBobF9TVUh1YmUxb0tseWNKSkZyOQ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbm1majJ1SXJ5eS11Q2xoQnc3OF95Rk5wMEY2eWtRTmZNZlpBQ0ljaWlOckczVVFoR01RdEVYZjJrM25sTDlnaDhBWG5sN3c5c19NcEZEYWlRZExMVGZ5QnRIMDI1NlBMRlF3cDZiTy1nNW5kUlBHQ2R0U2VYREl3T1pVVkxwa21GanpNNDBfLXlQaG80X1cwQ28ySHJMeERpemJ2LXdpeVNsOXpaa3FIZ0l6MzFHUXM?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "麦克奥迪(300341):公司股东减持股份预披露公告（1） - 中财网",
+          "text": "金煤科技（600844）股东内蒙古金睿泓吉企业管理有限责任公司质押3300万股，占总股本3.25% - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92VnZVZ0hkMjB3XzRFbEI5WTNnREdKMWM3M09FNC03S0lQTm5PZUpodTBWZ2lRS2w2QVpPOGNVZVZxSGtxMHY3VVJmYXJDTldQVk90RDl3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalZxNWl4LVlwNHhrRjk1QlBtd2N5RVlYSkhlSU9UYktqbERoZjdXYWxFY1JZaGlrdXdCa1ZRNDdIUks1bE9TbkdEbklpc21sdWgtUS05N1pNOWdwRWpSQjg4ZXdnUktuZ09RVXNuV3RhV083NG42TUVjeE9xUDdualJ0TmUyMWps?oc=5"
         },
         {
-          "text": "大众公用（600635）股东上海大众企业管理有限公司质押400万股，占总股本0.14% - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXFOeFVQdEFib003WTNiSVlBZkJHcnp1V1hJdXhMcEZKeFRfUHRBcUVjYnFsSXB6bVh6OHpiTGlxVjdQd3hLQVhLU2l0Y2JkMEVselVNZGpOV3BtOUI2NGR4XzJDbXJMTjFXRkhCTmhNR2R4eFkwUm9xVkdXZkJkYUhJelB1em9S?oc=5"
-        },
-        {
-          "text": "从制造到供应链，14座灯塔锚定海尔智家全产业领跑位 - 中华网",
+          "text": "（经济观察）链博会聚焦供应链韧性：需要全球协作合作共赢 - 搜狐网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjSkd6eEFCN0pidzUwOEJOeExWMXNGaFd3aDZEUXdYNUhZeU9PclpsTmZST1BCUEExeVRBMmlHNm5haXVOOFZCVkhyYllpVVd0NzFEamZxNHY5VHdFQUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOblB2UFdxSUU1aThyMkV2TGJYWFZkMU5tUDVYS0JNZXJJRWpkZW5XWEkyTVZPVld6eGNyXzRlOU9OeEdabi1CaDJlSGlSenNpOHU1Vm9WTm1USmp0SjZZODJ6ck9EYUh4MUw0XzFXaVcyVkY1aDVraGpmWkpTVDJKVUY3dWNKMGpF?oc=5"
         },
         {
-          "text": "泸州老窖旗下公司成立成都金嘉企业管理合伙企业 出资额约3.4亿 - 新浪财经",
+          "text": "广汽资本等成立佛山广祺祺工贰号企业管理合伙企业 出资额约5.05亿元 - 观点网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wWmRHSVIyNmRiVDR5cnlMQ3VCOHY2Q0I0Z0s1U1pvZEFEMHg1OFFtZi1hMmV5Y0FCRV8xbkd6N0RHTWUzVU8yMExvcXNuUlNYMzhVUG1ud1Nzc1RSM0RrZW1wemFibXZDd2pabWh3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoMkV3UXNKSUNpbUF0N3lwdDRNUGlBSzBxQVFocUVZRzVsdzZpbUloN0xlcmlfVmNlbXdhQjhPSzdGQTVoMEpLX0FtN1FMak1xNll1QmhaYnVMTmF2ci0xZTN3?oc=5"
+        },
+        {
+          "text": "中国链是全球竞争看家本领 供应链韧性成核心标尺 - 中华军事",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iY2RoZkhnYzBUc3ViNm5wNDZwR2dKVXZCR1NsWU9rUEtzRGx1STFWYWcxbTJvdjE5ZHdlNUhIRm9zVm4xNFk3SzRGeGU0SkJRTHdyUHFmWnVWc2lmdlBiazdRZ0puNGZxYWRFSlJkaGU?oc=5"
         }
       ]
     }
