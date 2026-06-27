@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月26日",
+  "publishDate": "2026年6月27日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "视频丨2026年新能源汽车下乡启动 覆盖155款车型 - 搜狐网",
+      "title": "【山证高端装备】科远智慧动态点评：工业AI加速落地，高端装备控制国产替代持续推…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "World News in Brief: Students injured i…",
+      "title": "World News in Brief: Violence displaces…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:14",
-          "title": "视频丨2026年新能源汽车下乡启动 覆盖155款车型 - 搜狐网",
-          "summary": "视频丨2026年新能源汽车下乡启动 覆盖155款车型 搜狐网",
+          "time": "08:18",
+          "title": "【山证高端装备】科远智慧动态点评：工业AI加速落地，高端装备控制国产替代持续推进 - 新浪网",
+          "summary": "【山证高端装备】科远智慧动态点评：工业AI加速落地，高端装备控制国产替代持续推进 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb2x2YjlfeG81M0lmYjNST1lPMzY3RXJjS1pLazljVW9tVXdlc25NLUgxS0I2Qk5GNjJCcEJVa1BEY2V2eTJNaUI0NWkxUWttb2MtQmhHbWVWQlVYV3VhYmN1cWdDbWM0NmJWSXoyWWZjU1U1WGUtNjQ1ZDBzZVE3QTR3eFVrLUljanNTOQ?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFBsYXZ3WFR4ZUJ1bVBoYXFmMUd1djZGM01OTHVNMzdvbGFaQVc2WHppRldpd3B3SmJCV0Q5NkdQc0tsaElCTlpQbHpHVVZmT0FwaU5VUXVjX3dKQ2lrSFBEUHF0X0RLLXpHaWVHRloyUUtiSEVQdnhFb3pjZnQ2MkVBTQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:11",
-          "title": "易立竞灵魂发问奥迪高管 新能源转型压力测试 - 中华网",
-          "summary": "易立竞灵魂发问奥迪高管 新能源转型压力测试 中华网",
+          "time": "08:14",
+          "title": "人工智能与机器人技术深度重塑制造业，如何建立智能制造解决方案？ - 新浪网",
+          "summary": "人工智能与机器人技术深度重塑制造业，如何建立智能制造解决方案？ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fWGFzenROU1pfeFVyS3lvUlA4b2g3SXBrVTJrZmNtYmN3UnJTb1k1QmFWX2tlc212eGxsTGljaUtiLUx1VzdvMm1jZm5hT09tcGN4MUVxektkUHFlbGVQYnBVOUl5YXRVUmRLMjhRVUY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZkRIS1JBU01nOXlZR2xoZnlwY3VaNVpJWEpzU205SGRtR3ZZWFQzYjdMLTZTRXN5a0tKWTVMdXRaQ2E3YkVFazVSXy1MQUFSVGMzczU5WVk4S2xGYUJXZTFHY2RsTUVKWXVpSDUxN2kyS0ZqdW55cGJFU3FfcnhDVUZQV1dNcWJPYlRRSGVmRQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "广西武宣新能源获20年发电类电力业务许可证，电力项目运营资质落定 - 新浪财经",
+          "text": "2026 新能源 SUV 车型选购攻略 靠谱车型核心对比及选买建议 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQcmE5TXpnelFSSWl2OXVldmQ3Nk5NUG03aVFLdVZrenFXVXNKbHJ1ZzEzT1VIU1VkTWRkdEpMUVBUOFQ0dnF0NnRjbVNtRkdDS1BwM29rX1hHSjNycTNlaDNjaC14RWZ2eW9Ba0lfV3VUbmxoaWZfcmVBOUYydjNFeXVFa09VRUNmTThRXzZuMEN4a05IcUNuQWZEU0tsaXFtSE5YNURFQVNrckdZZHJ1bjZnRzNnV0JKSkFsX2hOS2lZTElyb2pBdXViemZCWkxDZzA4ZFVsX3lVbWh3LWtMSHFua1RRLXNNam9lRjlRX2hSOWtlcVJNb0hSb21FZ0tzR05jMktVdDA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZeUsxSGw1V1BjNkE3Y0RzczQ5eXhyblQ1LTJBdXNfNzYxbFN2UWQ3cmx1c3NWMmpHQXNkdnNJZ05GVElXLUxjXzY1MjdoS2pENVZBRkRfcDdWNEdBS0NLcF9FYi1XbjlMSkpqdXRIZGcxdw?oc=5"
         },
         {
-          "text": "6月25日新能源电池ETF华宝（159071）份额减少2000.00万份，最新份额1.72亿份，最新规模1.78亿元 - Sina finance",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHU3RkQtcFc2anBPeVVWUEZTZ04ycVBBQ0JNVExZT0o2aVdTRVI2Yk5iM1JvQ3pWRlNYbEZOanoyVGo2M0VGV3dMQ2xnM202NEFuaHVTMnJyUXZnMXB3Mlh0ZkE0bzYtdkxyRks2NjVIdzBYenFVNHo0V3Qwd2xpVGJwMDg4QzBGRkRpVHBDWi1IN0RCMWEyU2FzVQ?oc=5"
+          "text": "一年价格翻倍，新能源车成本最高涨6000元，车主还是车企扛？ - 凤凰网财经",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53bzdleURKLWtmWHYteFdCS1VRT3EzVWxqYUpwbU9uRHp5UTNiYWJtNVdEc0NjTUFMVlJXZzdIXzNyYnMycUN3dkNIZFptZEkw?oc=5"
         },
         {
-          "text": "6月25日创业板新能源ETF景顺（159187）份额减少100.00万份，最新份额5217.63万份，最新规模5519.73万元 - Sina finance",
+          "text": "【视频】新能源汽车下滑16%，为何宁德时代利润大涨50%至207亿 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdks2Z2RPZ0w3SnBtaGUzLVVLMmtidVg3S1hfOGxGdkttM21fZEdpUE0wWU9JNHhzb1ZZamhlOFYxUWZrVjlabUZ0Q3ZwRmNnV2p2WWM2NmJVQ3BJMTZaaHozNHFZNEtHZW54ZjRXSTR3d1NuMFBYM2R3bXZPeC1raml2eVhEZHd4QloyRDNDT2dsTERZcExFaUhFdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bzh4Q0FOaXpYbC1VZU1aY2JnaVZZSkRmZ2NvU2RDNDl5eGVLN1VmbC0zTFYzX3U3WmoxN2FLZE5VYnhueURVVzJBT25meTRjSkVxMXpZaG5uLVk?oc=5"
         },
         {
-          "text": "6月25日新能源电池ETF银华（159193）份额减少300.00万份，最新份额2.13亿份，最新规模2.11亿元 - Sina finance",
+          "text": "21.99万起高端新能源轿跑怎么选？启境GT7 vs 极氪001 vs 小米SU7参数全对比 - 网通社",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYnZxaG82aWhORmtCMElKM3Mtbks4V1VyYmZXa2RRWWFLNnkwb0R2UUx6OVJxc290bElIS25VU2FGNWI0V3RyYmVvY0lTWDdaVWg3aURvaXowemRCaXVaMXZlV3hwNmhMMXpWeUhjdkIxWVlETGQwMkpDNkozLVk3N2ptQUFTSzJrX1RNdktqMGlFbzdxTU1Ya0JvRQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tQTBaOXh6ZmZ0Z205QVo2RXhlenhmNnlvaDRYcndCaXIwTDZPdk1oV0hnZ20wbmJfa3pVMld0VlZaUjlXRmdENHA4VmpKaFFyejliSmxjTjBFVTg?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "World News in Brief: Students injured in Sudan drone strike, dangerous returns in south Lebanon, celebrating women diplomats",
-          "summary": "Ongoing fighting in the Sudanese city of El Obeid continues to endanger civilians and damage infrastructure,…",
+          "title": "World News in Brief: Violence displaces thousands in Haiti and Lebanon, Gaza updates, UN food agency delivers in Ebola-stricken DR Congo",
+          "summary": "More than 2,600 people were displaced in the Artibonite department of Haiti following clashes between armed g…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167804"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167823"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Young peacebuilders: Funding matters, but so do trust and partnerships",
-          "summary": "Young people working on promoting peace in some of the world’s most fragile and polarized places say financia…",
+          "title": "Sudan: Window is closing to prevent wider escalation in El Obeid",
+          "summary": "A senior United Nations official warned on Friday that the opportunity to prevent a major escalation in the S…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167803"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167821"
         }
       ],
       "briefs": [
         {
-          "text": "UN chief: Targeting methane is a climate battle ‘we can win’",
+          "text": "Guterres urges renewed commitment to multilateralism on UN Charter Day",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167802"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167820"
         },
         {
-          "text": "Lives at risk in DR Congo as Ebola outbreak continues to outpace response",
+          "text": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue ope…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167801"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167818"
         },
         {
-          "text": "How the stories we tell about ageing shape our future",
+          "text": "Global drug use reaches record high as increasingly potent synthetic drugs spre…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167799"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167817"
         },
         {
-          "text": "New global rules clear the road for driverless vehicles",
+          "text": "Deaths in US immigration custody must be investigated: UN rights chief",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167797"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167816"
         }
       ]
     },
@@ -170,24 +170,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "18:00",
+          "title": "Previewing GPT-5.6 Sol: a next-generation model",
+          "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cyber…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "22:22",
           "title": "Repositioning retail for the AI era",
           "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice.…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "10:00",
-          "title": "How agents are transforming work",
-          "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks an…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/how-agents-are-transforming-work"
         }
       ],
       "briefs": [
+        {
+          "text": "How agents are transforming work",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/how-agents-are-transforming-work"
+        },
         {
           "text": "The emergence of the web data infrastructure layer for AI",
           "source": "MIT Technology Review AI",
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
           "source": "OpenAI",
           "url": "https://openai.com/index/gpt-5-immunology-mystery"
-        },
-        {
-          "text": "Helping build shared standards for advanced AI",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:01",
+          "title": "Chip Industry Week In Review",
+          "summary": "Onsemi to buy Synaptics; IBM's 7Å chip w/40% more SRAM area; 1nm MoS2 nanotubes; AI pressure points; memory u…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-144/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "22:00",
           "title": "Records Fall for 3D Chip Tech",
           "summary": "As transistor sizes shrink to their atomic limits, computing demands are only growing. Sending chips to the t…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "IEEE Spectrum Semiconductors",
           "url": "https://spectrum.ieee.org/hybrid-bonding-2677022836"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "19:41",
-          "title": "Future Transistor Stacking Plans Start to Diverge",
-          "summary": "Chipmakers agree that the transistor of the next decade will actually be two transistors stacked atop one ano…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/cfet-ibm-plan"
         }
       ],
       "briefs": [
+        {
+          "text": "Future Transistor Stacking Plans Start to Diverge",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/cfet-ibm-plan"
+        },
         {
           "text": "I/O Design Challenges Grow In AI Data Centers And HPC Clusters",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "Executive Outlook: Agentic AI’s Impact On Chip Design",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/executive-outlook-agentic-ais-impact-on-chip-design/"
-        },
-        {
-          "text": "How Far Left Can We Really Shift Verification?",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/how-far-left-can-we-really-shift-verification/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "World News in Brief: Students injured in Sudan drone strike, dangerous returns in south Lebanon, celebrating women diplomats",
-          "summary": "Ongoing fighting in the Sudanese city of El Obeid continues to endanger civilians and damage infrastructure,…",
+          "title": "World News in Brief: Violence displaces thousands in Haiti and Lebanon, Gaza updates, UN food agency delivers in Ebola-stricken DR Congo",
+          "summary": "More than 2,600 people were displaced in the Artibonite department of Haiti following clashes between armed g…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167804"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167823"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Young peacebuilders: Funding matters, but so do trust and partnerships",
-          "summary": "Young people working on promoting peace in some of the world’s most fragile and polarized places say financia…",
+          "title": "Sudan: Window is closing to prevent wider escalation in El Obeid",
+          "summary": "A senior United Nations official warned on Friday that the opportunity to prevent a major escalation in the S…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167803"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167821"
         }
       ],
       "briefs": [
         {
-          "text": "UN chief: Targeting methane is a climate battle ‘we can win’",
+          "text": "Guterres urges renewed commitment to multilateralism on UN Charter Day",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167802"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167820"
         },
         {
-          "text": "Lives at risk in DR Congo as Ebola outbreak continues to outpace response",
+          "text": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue ope…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167801"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167818"
         },
         {
-          "text": "How the stories we tell about ageing shape our future",
+          "text": "Global drug use reaches record high as increasingly potent synthetic drugs spre…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167799"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167817"
         },
         {
-          "text": "New global rules clear the road for driverless vehicles",
+          "text": "Deaths in US immigration custody must be investigated: UN rights chief",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/06/1167797"
+          "url": "https://news.un.org/feed/view/en/story/2026/06/1167816"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:39",
-          "title": "人工智能如何重构供应链韧性 - 新浪财经",
-          "summary": "人工智能如何重构供应链韧性 新浪财经",
+          "time": "02:13",
+          "title": "从“数字”到“数智”：AI重塑供应链韧性 - 新浪财经",
+          "summary": "从“数字”到“数智”：AI重塑供应链韧性 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vc01OYmVVSTZsWEhxVGs1b18wUFFTZ3ZtZGlGS2JYbEVSVHU1NmlFUGR3aWtJYjBKamdMejAzSXpQX2NtenoxR3UzUDVGa01NRjc0bFBuSXFGN0IyUElXMWJoQjdpNXBGczJYRU55MUU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkME02UEJ0SS1fVmhhNmI5aU5xblYyekVPMEQ2MjIzWnFBeHc3OVVfM2w0Ukd1T2NqRS1zV2d0QjRwTVEzSmtQaUZucXNoRGprWU1lTmM3ODdKcklRNThvd0Z4M0otZWNWdXZkUWFIdGRWMTVlN21yZQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:00",
-          "title": "FPT Software 公司的 Frank Bignone 高级副总裁和企业战略与增长负责人 – 采访系列 - Unite.AI",
-          "summary": "FPT Software 公司的 Frank Bignone 高级副总裁和企业战略与增长负责人 – 采访系列 Unite.AI",
+          "time": "21:08",
+          "title": "永泰能源：公司管理层坚定且长期看好公司发展与前景，并致力于不断夯实能源主业基础 - 东方财富",
+          "summary": "永泰能源：公司管理层坚定且长期看好公司发展与前景，并致力于不断夯实能源主业基础 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbm1majJ1SXJ5eS11Q2xoQnc3OF95Rk5wMEY2eWtRTmZNZlpBQ0ljaWlOckczVVFoR01RdEVYZjJrM25sTDlnaDhBWG5sN3c5c19NcEZEYWlRZExMVGZ5QnRIMDI1NlBMRlF3cDZiTy1nNW5kUlBHQ2R0U2VYREl3T1pVVkxwa21GanpNNDBfLXlQaG80X1cwQ28ySHJMeERpemJ2LXdpeVNsOXpaa3FIZ0l6MzFHUXM?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtUks3Z0hrZld0UEZoU0oxaGhzNzF6Z1hEUkVxQWlhTlAxV3Ixd2tPWEpsSzM2dWhsTFdnOE5tQ3ZCNlo3Rm93SFR3QnhFSHJEbWdkVFVldmlsS3FNMVlNWlhtUHNPZw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "金煤科技（600844）股东内蒙古金睿泓吉企业管理有限责任公司质押3300万股，占总股本3.25% - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalZxNWl4LVlwNHhrRjk1QlBtd2N5RVlYSkhlSU9UYktqbERoZjdXYWxFY1JZaGlrdXdCa1ZRNDdIUks1bE9TbkdEbklpc21sdWgtUS05N1pNOWdwRWpSQjg4ZXdnUktuZ09RVXNuV3RhV083NG42TUVjeE9xUDdualJ0TmUyMWps?oc=5"
-        },
-        {
-          "text": "（经济观察）链博会聚焦供应链韧性：需要全球协作合作共赢 - 搜狐网",
+          "text": "中微公司战略收购杭州众硅圆满收官 配套募资获大基金三期支持 - 东方财富",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOblB2UFdxSUU1aThyMkV2TGJYWFZkMU5tUDVYS0JNZXJJRWpkZW5XWEkyTVZPVld6eGNyXzRlOU9OeEdabi1CaDJlSGlSenNpOHU1Vm9WTm1USmp0SjZZODJ6ck9EYUh4MUw0XzFXaVcyVkY1aDVraGpmWkpTVDJKVUY3dWNKMGpF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4Tkgwdzd1T19hY0JmbTNSYUpZTmJyeEhKNzhGMWF0ZU01VUlpWkhZX1h4VnZIbTFnN0xsMnRYcHVqa1pqdzJabHV4OWN4OUdhckxDZVYwUHVXam8zU0tWZkF1bjBIUQ?oc=5"
         },
         {
-          "text": "广汽资本等成立佛山广祺祺工贰号企业管理合伙企业 出资额约5.05亿元 - 观点网",
+          "text": "返利科技：上海享锐企业管理咨询事务所（有限合伙）持股比例拟降至2.86% - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoMkV3UXNKSUNpbUF0N3lwdDRNUGlBSzBxQVFocUVZRzVsdzZpbUloN0xlcmlfVmNlbXdhQjhPSzdGQTVoMEpLX0FtN1FMak1xNll1QmhaYnVMTmF2ci0xZTN3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Vb2ZkR0N5bzV2eDM0NFZNUVZDYjdsczM0ZkJJWEx6U0xIWXZPZFBYSk5vSHRVUHpkQ3VRRXVTNjJGU015V1ZBV2hlVm5JVFNrVTUzcUF3QS1hT0dJNGZ0TnpPWWw?oc=5"
         },
         {
-          "text": "中国链是全球竞争看家本领 供应链韧性成核心标尺 - 中华军事",
+          "text": "链博会聚焦供应链韧性：需要全球协作合作共赢 - azchinesenews1.com",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iY2RoZkhnYzBUc3ViNm5wNDZwR2dKVXZCR1NsWU9rUEtzRGx1STFWYWcxbTJvdjE5ZHdlNUhIRm9zVm4xNFk3SzRGeGU0SkJRTHdyUHFmWnVWc2lmdlBiazdRZ0puNGZxYWRFSlJkaGU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNXy11ZnVhaGp4bWR4cDlCRWUxMGhPOUtlNkJ2TEowazg0WHhENTMya0ZxalFjaS1VZlk0WE9lU0hxVFZnei11Zm1OejlfNDkxOTNqTXlVSC1nZEZ6TWhZNmlyaUhZSk1vM1ZGaklvWnpmdnRtTThoblhHOFhLNUZBWTJYT0dzZE9Ga3pVSQ?oc=5"
+        },
+        {
+          "text": "供应链“韧性为王”时代来临，外资巨头加码投资中国先进制造｜聚焦链博会 - 搜狐网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNU0waHgycjVzNk45Vm5PQUdoR29odDl5YXdXakpHaFNqLWFibjN0ZkkzWUlRVkNOa0ZpNlhsZU5JVm1sTGd4THFtaUpTbmg3bXhLeDNfNnNncnZoanN0ZThNaDh3NFh3d3ZlQmJVOUt5a2JLWnh1UVY0ZVVRSDhQYVdoUXNjWWtM?oc=5"
         }
       ]
     }
