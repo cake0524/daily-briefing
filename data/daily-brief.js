@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月27日",
+  "publishDate": "2026年6月28日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【山证高端装备】科远智慧动态点评：工业AI加速落地，高端装备控制国产替代持续推…",
+      "title": "从新能源车到智能运营，物流跑出新思路！ - 搜狐网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:18",
-          "title": "【山证高端装备】科远智慧动态点评：工业AI加速落地，高端装备控制国产替代持续推进 - 新浪网",
-          "summary": "【山证高端装备】科远智慧动态点评：工业AI加速落地，高端装备控制国产替代持续推进 新浪网",
+          "time": "07:41",
+          "title": "从新能源车到智能运营，物流跑出新思路！ - 搜狐网",
+          "summary": "从新能源车到智能运营，物流跑出新思路！ 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFBsYXZ3WFR4ZUJ1bVBoYXFmMUd1djZGM01OTHVNMzdvbGFaQVc2WHppRldpd3B3SmJCV0Q5NkdQc0tsaElCTlpQbHpHVVZmT0FwaU5VUXVjX3dKQ2lrSFBEUHF0X0RLLXpHaWVHRloyUUtiSEVQdnhFb3pjZnQ2MkVBTQ?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdEFOTU9nclBscTlFQS1KdTBLQUlXUWNScW54cG9SODV0VTR0R2VnYXJ6ZHNzc01POHBQTWFoc2E0SmlpY3lRanN1dGlEckk0RUVBcGRIX2lCSnVqMTAxX3gzX1ZldmlsbnVZLWJaMXh5NGduVXhJQmE5MzNIOXp6bEgzX2d3SUdCS2tKcF91SW82YU9ZLWw4aElVcl9OWktlWVFlbnhhRUliSzlsbmdidTRWQWh4UGs4SUxjT2pJREtEdTNzSldTSXUySnZQZ0lVSlRkTXRoTkN1MjV0aWNvZ0tUV2c4eXhYVFZqdG1ZUHl3NmNJWEV6RWsxQjA0cmd4MmpNUA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:14",
-          "title": "人工智能与机器人技术深度重塑制造业，如何建立智能制造解决方案？ - 新浪网",
-          "summary": "人工智能与机器人技术深度重塑制造业，如何建立智能制造解决方案？ 新浪网",
+          "time": "07:30",
+          "title": "制造业深陷内卷式低价竞争？破解之道在这里→ - 新浪财经",
+          "summary": "制造业深陷内卷式低价竞争？破解之道在这里→ 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZkRIS1JBU01nOXlZR2xoZnlwY3VaNVpJWEpzU205SGRtR3ZZWFQzYjdMLTZTRXN5a0tKWTVMdXRaQ2E3YkVFazVSXy1MQUFSVGMzczU5WVk4S2xGYUJXZTFHY2RsTUVKWXVpSDUxN2kyS0ZqdW55cGJFU3FfcnhDVUZQV1dNcWJPYlRRSGVmRQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WektIOXktc0Rpc3VLWC1uN1k5STVKdTlLd2NiSnd5YlU5aE1vTlMtV3B5TDBkRWV4UFM3cWQxMnRxcGFwdGFEZWM5ZUZlT19RbU85NTFVMl91OW40ektJZC1ScDBKR2ZBTVhEVWxSNkxsamZhZnc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "2026 新能源 SUV 车型选购攻略 靠谱车型核心对比及选买建议 - 新浪网",
+          "text": "7月起一批新规将施行，涉及新能源车两项新国标等 - thepaper.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZeUsxSGw1V1BjNkE3Y0RzczQ5eXhyblQ1LTJBdXNfNzYxbFN2UWQ3cmx1c3NWMmpHQXNkdnNJZ05GVElXLUxjXzY1MjdoS2pENVZBRkRfcDdWNEdBS0NLcF9FYi1XbjlMSkpqdXRIZGcxdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12QzZTSlNEZzRLLUdzZ1VuRHphRlJwMjEzTFJQQlNHRDdmemtKRUpwbzhFbnV6MTd0Q19hQzNXUjR4bWdIZFg2VE9ta2RXQQ?oc=5"
         },
         {
-          "text": "一年价格翻倍，新能源车成本最高涨6000元，车主还是车企扛？ - 凤凰网财经",
+          "text": "7月起一批新规将施行，涉及新能源车两项新国标等 - 新浪财经",
           "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53bzdleURKLWtmWHYteFdCS1VRT3EzVWxqYUpwbU9uRHp5UTNiYWJtNVdEc0NjTUFMVlJXZzdIXzNyYnMycUN3dkNIZFptZEkw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55d3FMc3R0d2EwN2dCODF6angySFVKWUdnMXBJX0lYUlRTMWZwa1FyaTZfX0U2WnJoMDVUWlVYYnNqdmZtaGJoTkU2b3Mxc0g4ZGxEV2VQZmJkelRYWXBKaFBXQnpSbmFKREEyMXBlcGtGTUo0b3NfcA?oc=5"
         },
         {
-          "text": "【视频】新能源汽车下滑16%，为何宁德时代利润大涨50%至207亿 - 汽车之家",
+          "text": "第五名: 长安汽车，80%存活家庭豪华大六座SUV‌ 腾势icon N8L 闪充版正式上市，官方指导价‌31. ​_新浪新闻 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93bzh4Q0FOaXpYbC1VZU1aY2JnaVZZSkRmZ2NvU2RDNDl5eGVLN1VmbC0zTFYzX3U3WmoxN2FLZE5VYnhueURVVzJBT25meTRjSkVxMXpZaG5uLVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TeG1xUWY0ZTJlUWYtQUMxRFBkNkgzOXFQdDlqWGxjMENaOFVoWVQzczJXeU1USXJ5TWNzeHpqVDFKTFg3dHpNRFdXWEprLUNPaTFoWWZLN2d0ckRab3FVTGJlSQ?oc=5"
         },
         {
-          "text": "21.99万起高端新能源轿跑怎么选？启境GT7 vs 极氪001 vs 小米SU7参数全对比 - 网通社",
+          "text": "20家陕西制造业企业亮相第九届中国—亚欧博览会 - 华商网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tQTBaOXh6ZmZ0Z205QVo2RXhlenhmNnlvaDRYcndCaXIwTDZPdk1oV0hnZ20wbmJfa3pVMld0VlZaUjlXRmdENHA4VmpKaFFyejliSmxjTjBFVTg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41dks2OXctSG1CMUpXcHVrRFd2d2pENmJOYVZhQk80djZrVHZRUjdNc2hORW5LZnJtLW5hMXF1c1RRTmJtNUM0M3hrbFVlNWpfM25xdEpZUnpqMWNLR0Qw?oc=5"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:13",
-          "title": "从“数字”到“数智”：AI重塑供应链韧性 - 新浪财经",
-          "summary": "从“数字”到“数智”：AI重塑供应链韧性 新浪财经",
+          "time": "23:10",
+          "title": "日日顺获评全球供应链韧性灯塔 - 新浪财经",
+          "summary": "日日顺获评全球供应链韧性灯塔 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkME02UEJ0SS1fVmhhNmI5aU5xblYyekVPMEQ2MjIzWnFBeHc3OVVfM2w0Ukd1T2NqRS1zV2d0QjRwTVEzSmtQaUZucXNoRGprWU1lTmM3ODdKcklRNThvd0Z4M0otZWNWdXZkUWFIdGRWMTVlN21yZQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qNmNia0hmdXpzS2VjRmM2X2FfZEhIbFo4bDkxVDRrYTZVTlZQLUg3NE5OTm5ZVjZWeEZILUhjUHdKTlFhM1l0QTA0akJJSmtZUjh4TTY1YzE4UVlTbXYtc1EyMEpZRlB4R0V0N0NNTUFaaFIzQzA4VQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:08",
-          "title": "永泰能源：公司管理层坚定且长期看好公司发展与前景，并致力于不断夯实能源主业基础 - 东方财富",
-          "summary": "永泰能源：公司管理层坚定且长期看好公司发展与前景，并致力于不断夯实能源主业基础 东方财富",
+          "time": "21:54",
+          "title": "军事生产部长探讨了加强与美国公司“庄臣公司”战略伙伴关系的方法 - الهيئة العامة للاستعلامات",
+          "summary": "军事生产部长探讨了加强与美国公司“庄臣公司”战略伙伴关系的方法 الهيئة العامة للاستعلامات",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtUks3Z0hrZld0UEZoU0oxaGhzNzF6Z1hEUkVxQWlhTlAxV3Ixd2tPWEpsSzM2dWhsTFdnOE5tQ3ZCNlo3Rm93SFR3QnhFSHJEbWdkVFVldmlsS3FNMVlNWlhtUHNPZw?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNVDhuMmlYOTREN3FaYUxNcV9nX0xTX2dvZEp6aUZsUUdlU0hKRGtuQnRsbGdsaWNCaDloVTZiZlFQNHZVdU5aYzVQWWx2QlNfdnNtMmg4dEJRRXhnNkJSZEhiZ1dJNU9oOVBoc2Y0ZlBtWDJnQ3JkdGlpQ0l2Z3MwSDMzM3F1SUdVbHJCdHQwdF85SFRkT19WZU1OSTVpZ1Q4T2tSRURfZDJEb0VFYy1YTUtOaEt4c2k0Z2xXRVhyQ0pKLXBjZm1MQUt4MmpjWFlEdmpUaEhkTVVtd1FQWlFfeHc0aGxJQ0dEV2pzZUxZZTRPV0pvZEpUTUszVTY2YTFKOUllSHFSalBLWEROM3R3Y0RPQXMxX1BCanlvNGc4YnYtUFFEd2NOVU43SG1IWkZjT3QxSENIQV9HaXY1OEx6a1ZmVDJmb1RKYmVYR1pYS1h2ZFR6NzJFNm5JdnlFMF9fTGVjY2d5Z3BlYklPNTlTVTZ1bFBCeUUzcF9WS1hlXy14XzBDSmRiYndRZkI1aTRTdzRXeDdYMFdSQXZiMXRPSTZ1VXNRUlJTSUhlQy1zN1R6VEttbk5Edkk3dHEwaVNxY3FvQ3JQTTdtb1IzWFRRTFEtV19kYlpUdUItZzF5Q2NlaFNO?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "中微公司战略收购杭州众硅圆满收官 配套募资获大基金三期支持 - 东方财富",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4Tkgwdzd1T19hY0JmbTNSYUpZTmJyeEhKNzhGMWF0ZU01VUlpWkhZX1h4VnZIbTFnN0xsMnRYcHVqa1pqdzJabHV4OWN4OUdhckxDZVYwUHVXam8zU0tWZkF1bjBIUQ?oc=5"
-        },
-        {
-          "text": "返利科技：上海享锐企业管理咨询事务所（有限合伙）持股比例拟降至2.86% - 东方财富",
+          "text": "先达股份： 公司管理层及大股东始终对公司的长期内在价值充满信心 - MSN",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Vb2ZkR0N5bzV2eDM0NFZNUVZDYjdsczM0ZkJJWEx6U0xIWXZPZFBYSk5vSHRVUHpkQ3VRRXVTNjJGU015V1ZBV2hlVm5JVFNrVTUzcUF3QS1hT0dJNGZ0TnpPWWw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPdVd6NWFKVmV0OVZabURCQkd6NkNqd0RXRXZTSElKRU9mLWpoQWJ0SFpVelNuX0JoekJfTzlnMlg4c0hmNVBPWnd3MFhuY2hmZ0ZEN2poNjJQR3Y0RzNFTnBYb1FRclQ5d1U0UUlPa19SMGxvelF3SmxUc2lqdnNlaE5EUHVoYzI5aW9UaHd5MWI3VWFmN2taU2dYVHZIcVlESG9CcUtrZG0zc3RTMkE3c3VRN0ZaUFJNWmZfam91ajN4VE9DeWc5R0VTS19xYUlwOFoyS3dwdWF1MC1BSEthWDFOQWs5dDJobnVFMmRqLXYydFhPRXNoeS12WVdpUC1ncm83ZDlSVEppYkc0T1hwODhNeHhsaVByZFk3LUYyT245QTJoUjVCRlIyaENWenlPNWNGdlBzeGlueDd2NkRMVmpmR0RHM3IzRHdicllJeXVvMzJyQ1hGM2ZndTBkZUhmT2RyOTVIc2ZIWVhsbHc0QXpmdGR2R2wzNGJKNE9OcjFQZUU5TS13TmE1YzBvNXAzMnNHWERvbWV1ZmRydnZJengxUnJuSTl1TXVza25DaHV5elNkeGlxZ2t1cw?oc=5"
         },
         {
-          "text": "链博会聚焦供应链韧性：需要全球协作合作共赢 - azchinesenews1.com",
+          "text": "跨里海通道助力供应链韧性提升，DHL完成首个土耳其至中国进口铁路包列运输 - 中华网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNXy11ZnVhaGp4bWR4cDlCRWUxMGhPOUtlNkJ2TEowazg0WHhENTMya0ZxalFjaS1VZlk0WE9lU0hxVFZnei11Zm1OejlfNDkxOTNqTXlVSC1nZEZ6TWhZNmlyaUhZSk1vM1ZGaklvWnpmdnRtTThoblhHOFhLNUZBWTJYT0dzZE9Ga3pVSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SdnZHbVBYUzhDbUxPYXA4aWFYeEJ3WnhuZ2NQbU1Pampfbk1Ick02eVlMV3M3clBJYkpsTGJvam9JZDZSc2hoTWg1TmRnY0t3NDYyS21DTW04SWVsejdfSUdsVmRSZENzcVYyVWVR?oc=5"
         },
         {
-          "text": "供应链“韧性为王”时代来临，外资巨头加码投资中国先进制造｜聚焦链博会 - 搜狐网",
+          "text": "从“数字”到“数智”：AI重塑供应链韧性 - 新浪财经",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNU0waHgycjVzNk45Vm5PQUdoR29odDl5YXdXakpHaFNqLWFibjN0ZkkzWUlRVkNOa0ZpNlhsZU5JVm1sTGd4THFtaUpTbmg3bXhLeDNfNnNncnZoanN0ZThNaDh3NFh3d3ZlQmJVOUt5a2JLWnh1UVY0ZVVRSDhQYVdoUXNjWWtM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TREVmdGdYR1RpWHhqMnBITFFoYWNsdml5V0dqWEFrQTlUZGFUUlJxdFJ1eUYwbWFvVWlPUVhHblZrMmhHODYzVzJwemF3eGxrbkRzbU5Ka2VVdS1LTlc1QlBRSWJLSkdqZXhjelFlWGI?oc=5"
+        },
+        {
+          "text": "盛洋科技：公司管理层密切关注二级市场走势 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnV3B2NVdzdnk1dTM0VzBVRHVMUERZTzliSGl4bjlWLXg2Q2cwamxJTjFicE1tRzl2ci1CbFRiS0RFdzNjWGNQNzZ1VDFPTl9XV3ZXTkNDXzJ1VXFCOENiMTlyYzRNZw?oc=5"
         }
       ]
     }
