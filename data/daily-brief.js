@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月28日",
+  "publishDate": "2026年6月29日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "从新能源车到智能运营，物流跑出新思路！ - 搜狐网",
+      "title": "AI接管场站运营，某新能源企业将问题发现到解决时间缩短60%｜案例研究 - 电…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:41",
-          "title": "从新能源车到智能运营，物流跑出新思路！ - 搜狐网",
-          "summary": "从新能源车到智能运营，物流跑出新思路！ 搜狐网",
+          "time": "08:00",
+          "title": "AI接管场站运营，某新能源企业将问题发现到解决时间缩短60%｜案例研究 - 电子工程专辑",
+          "summary": "AI接管场站运营，某新能源企业将问题发现到解决时间缩短60%｜案例研究 电子工程专辑",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdEFOTU9nclBscTlFQS1KdTBLQUlXUWNScW54cG9SODV0VTR0R2VnYXJ6ZHNzc01POHBQTWFoc2E0SmlpY3lRanN1dGlEckk0RUVBcGRIX2lCSnVqMTAxX3gzX1ZldmlsbnVZLWJaMXh5NGduVXhJQmE5MzNIOXp6bEgzX2d3SUdCS2tKcF91SW82YU9ZLWw4aElVcl9OWktlWVFlbnhhRUliSzlsbmdidTRWQWh4UGs4SUxjT2pJREtEdTNzSldTSXUySnZQZ0lVSlRkTXRoTkN1MjV0aWNvZ0tUV2c4eXhYVFZqdG1ZUHl3NmNJWEV6RWsxQjA0cmd4MmpNUA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WMnFUdFFkbDhITW4zM3pUS09PRXI0YTk2OGZnb1NiRlZodHFsOHVkeGUxVFE3THdqU0tzMG1CV3lIWGwtX3FiU1JLWGlqVXVHYU5J?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:30",
-          "title": "制造业深陷内卷式低价竞争？破解之道在这里→ - 新浪财经",
-          "summary": "制造业深陷内卷式低价竞争？破解之道在这里→ 新浪财经",
+          "time": "07:57",
+          "title": "摘地仅13个月！深远新能源电动车生产基地建成投产 - huizhou.cn",
+          "summary": "摘地仅13个月！深远新能源电动车生产基地建成投产 huizhou.cn",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WektIOXktc0Rpc3VLWC1uN1k5STVKdTlLd2NiSnd5YlU5aE1vTlMtV3B5TDBkRWV4UFM3cWQxMnRxcGFwdGFEZWM5ZUZlT19RbU85NTFVMl91OW40ektJZC1ScDBKR2ZBTVhEVWxSNkxsamZhZnc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWNsT0gtWXRQOE1vMmRlUko5NXZvYy1yM3RiaVpGNUlxX2pKQXljVG5TbUwya1l2ejBqVk44SEhodldzR1NaUWcyQ2laMUdzMVdjYjdvQVE2dHpIUF9xRHB5X2RvaFlmN1hCeGhSWEc1cnJWMWROMXQxbTZUdUtMRTFnVW1BejA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "7月起一批新规将施行，涉及新能源车两项新国标等 - thepaper.cn",
+          "text": "南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数前一交易日收跌3.41% - 财联社",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12QzZTSlNEZzRLLUdzZ1VuRHphRlJwMjEzTFJQQlNHRDdmemtKRUpwbzhFbnV6MTd0Q19hQzNXUjR4bWdIZFg2VE9ta2RXQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xdUMyRTlRU2treEFQcUEza0liWl9Wd2ZVWmg5RWc3MDFmYk9ldGZ5dkNBZWF0a19meGJKT2ZaWDI2NU1UbVJfOA?oc=5"
         },
         {
-          "text": "7月起一批新规将施行，涉及新能源车两项新国标等 - 新浪财经",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55d3FMc3R0d2EwN2dCODF6angySFVKWUdnMXBJX0lYUlRTMWZwa1FyaTZfX0U2WnJoMDVUWlVYYnNqdmZtaGJoTkU2b3Mxc0g4ZGxEV2VQZmJkelRYWXBKaFBXQnpSbmFKREEyMXBlcGtGTUo0b3NfcA?oc=5"
+          "text": "福特CEO承认落后25年，百年车企新能源败在哪？ - 汽车头条",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBGUWZHeEpDUHFKUjlUQ0RtLTQydVlBN0xMRkZJZFNLbl9WbG9ZRkswTGVUTERRc3hUd0dHbGM5TUNfSTJq?oc=5"
         },
         {
-          "text": "第五名: 长安汽车，80%存活家庭豪华大六座SUV‌ 腾势icon N8L 闪充版正式上市，官方指导价‌31. ​_新浪新闻 - 新浪网",
+          "text": "从锂矿到“城市矿山”头部企业全链条布局锂电循环 - 东方财富",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TeG1xUWY0ZTJlUWYtQUMxRFBkNkgzOXFQdDlqWGxjMENaOFVoWVQzczJXeU1USXJ5TWNzeHpqVDFKTFg3dHpNRFdXWEprLUNPaTFoWWZLN2d0ckRab3FVTGJlSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UWXF3NGdVQW5NeWNJeVQ5N0R4cXhxVzZ0OHBCV05IeVNxUVgyMmlkMGJ2R2NHNEN0LU1nckM3ZlEzRkF0SEsyS1lGQ1NCbnBtVkhtUTRmUlozeWM2Z2t0dQ?oc=5"
         },
         {
-          "text": "20家陕西制造业企业亮相第九届中国—亚欧博览会 - 华商网",
+          "text": "【视频】一周车坛，宝马停产新能源，汽车下乡巨额补贴 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41dks2OXctSG1CMUpXcHVrRFd2d2pENmJOYVZhQk80djZrVHZRUjdNc2hORW5LZnJtLW5hMXF1c1RRTmJtNUM0M3hrbFVlNWpfM25xdEpZUnpqMWNLR0Qw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQaXA4ZE9FMUgxVFhILXNLQ2Q3aXlEZlVHUXQtcVg5VVRMYURFQmxWd3R1ZkIwYVZlTW1WMFVMRFJUdlV1bzk2UXlKakNIUlVqYXE0ck9iS2hzZXM?oc=5"
         }
       ]
     },
@@ -170,24 +170,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "01:00",
+          "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+          "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/hp-frontier-partnership"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "18:00",
           "title": "Previewing GPT-5.6 Sol: a next-generation model",
           "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cyber…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
           "url": "https://openai.com/index/previewing-gpt-5-6-sol"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "22:22",
-          "title": "Repositioning retail for the AI era",
-          "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice.…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
         }
       ],
       "briefs": [
+        {
+          "text": "Repositioning retail for the AI era",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
+        },
         {
           "text": "How agents are transforming work",
           "source": "OpenAI",
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "OpenAI and Broadcom unveil LLM-optimized inference chip",
           "source": "OpenAI",
           "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
-        },
-        {
-          "text": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/gpt-5-immunology-mystery"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:10",
-          "title": "日日顺获评全球供应链韧性灯塔 - 新浪财经",
-          "summary": "日日顺获评全球供应链韧性灯塔 新浪财经",
+          "time": "06:58",
+          "title": "什么是多模态AI？2026企业策略指南 - 新浪网",
+          "summary": "什么是多模态AI？2026企业策略指南 新浪网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qNmNia0hmdXpzS2VjRmM2X2FfZEhIbFo4bDkxVDRrYTZVTlZQLUg3NE5OTm5ZVjZWeEZILUhjUHdKTlFhM1l0QTA0akJJSmtZUjh4TTY1YzE4UVlTbXYtc1EyMEpZRlB4R0V0N0NNTUFaaFIzQzA4VQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zaldpTVFVYVJWSnEwazl2MXI1Q01jNUlhVlpsZWpUSkNaQVhqZEp4cW4zTTkxeFV5UkR5SzVYSXdMUldCRTNoUU5JcThWRmtEVXlycFNMbmN6MjI0M0xVUVE5bUZOSGlQclpuWEVSX0hFS2N6bjlTOXN0R2dWdGM?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:54",
-          "title": "军事生产部长探讨了加强与美国公司“庄臣公司”战略伙伴关系的方法 - الهيئة العامة للاستعلامات",
-          "summary": "军事生产部长探讨了加强与美国公司“庄臣公司”战略伙伴关系的方法 الهيئة العامة للاستعلامات",
+          "time": "14:07",
+          "title": "【管理提升】神东煤炭：强化“四基建设”激发企业管理新效能 - 搜狐网",
+          "summary": "【管理提升】神东煤炭：强化“四基建设”激发企业管理新效能 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNVDhuMmlYOTREN3FaYUxNcV9nX0xTX2dvZEp6aUZsUUdlU0hKRGtuQnRsbGdsaWNCaDloVTZiZlFQNHZVdU5aYzVQWWx2QlNfdnNtMmg4dEJRRXhnNkJSZEhiZ1dJNU9oOVBoc2Y0ZlBtWDJnQ3JkdGlpQ0l2Z3MwSDMzM3F1SUdVbHJCdHQwdF85SFRkT19WZU1OSTVpZ1Q4T2tSRURfZDJEb0VFYy1YTUtOaEt4c2k0Z2xXRVhyQ0pKLXBjZm1MQUt4MmpjWFlEdmpUaEhkTVVtd1FQWlFfeHc0aGxJQ0dEV2pzZUxZZTRPV0pvZEpUTUszVTY2YTFKOUllSHFSalBLWEROM3R3Y0RPQXMxX1BCanlvNGc4YnYtUFFEd2NOVU43SG1IWkZjT3QxSENIQV9HaXY1OEx6a1ZmVDJmb1RKYmVYR1pYS1h2ZFR6NzJFNm5JdnlFMF9fTGVjY2d5Z3BlYklPNTlTVTZ1bFBCeUUzcF9WS1hlXy14XzBDSmRiYndRZkI1aTRTdzRXeDdYMFdSQXZiMXRPSTZ1VXNRUlJTSUhlQy1zN1R6VEttbk5Edkk3dHEwaVNxY3FvQ3JQTTdtb1IzWFRRTFEtV19kYlpUdUItZzF5Q2NlaFNO?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXBYNFJnZHRvYXJiUUdTZmZPZkNBenU0RXMzZUh6Mm9qZ2p6WWdKVnpVNXEtT0lfbmFlbDFuQ1dWV2xZOXFuV0kwdENSbWlzSUJmZ0FsZWZOOUFGakgzUUMzMjRYb0tsS016akpFMVN4a1pxZXU2di1IY2RJa1V3TDI5WktzOW1kVjVUdg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "先达股份： 公司管理层及大股东始终对公司的长期内在价值充满信心 - MSN",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxPdVd6NWFKVmV0OVZabURCQkd6NkNqd0RXRXZTSElKRU9mLWpoQWJ0SFpVelNuX0JoekJfTzlnMlg4c0hmNVBPWnd3MFhuY2hmZ0ZEN2poNjJQR3Y0RzNFTnBYb1FRclQ5d1U0UUlPa19SMGxvelF3SmxUc2lqdnNlaE5EUHVoYzI5aW9UaHd5MWI3VWFmN2taU2dYVHZIcVlESG9CcUtrZG0zc3RTMkE3c3VRN0ZaUFJNWmZfam91ajN4VE9DeWc5R0VTS19xYUlwOFoyS3dwdWF1MC1BSEthWDFOQWs5dDJobnVFMmRqLXYydFhPRXNoeS12WVdpUC1ncm83ZDlSVEppYkc0T1hwODhNeHhsaVByZFk3LUYyT245QTJoUjVCRlIyaENWenlPNWNGdlBzeGlueDd2NkRMVmpmR0RHM3IzRHdicllJeXVvMzJyQ1hGM2ZndTBkZUhmT2RyOTVIc2ZIWVhsbHc0QXpmdGR2R2wzNGJKNE9OcjFQZUU5TS13TmE1YzBvNXAzMnNHWERvbWV1ZmRydnZJengxUnJuSTl1TXVza25DaHV5elNkeGlxZ2t1cw?oc=5"
-        },
-        {
-          "text": "跨里海通道助力供应链韧性提升，DHL完成首个土耳其至中国进口铁路包列运输 - 中华网",
+          "text": "全球首座大件供应链韧性灯塔！ 日日顺AI智能决策提质降本 - 凤凰网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SdnZHbVBYUzhDbUxPYXA4aWFYeEJ3WnhuZ2NQbU1Pampfbk1Ick02eVlMV3M3clBJYkpsTGJvam9JZDZSc2hoTWg1TmRnY0t3NDYyS21DTW04SWVsejdfSUdsVmRSZENzcVYyVWVR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51dFdId1hKMjhqeFJXSnJZSGpmM1RlTHp5eTdTektBb2hOd0VJZGY5VEhPSUhrMU9RdmFqWTdUS1RGZENYV1pUUg?oc=5"
         },
         {
-          "text": "从“数字”到“数智”：AI重塑供应链韧性 - 新浪财经",
+          "text": "日日顺获评全球供应链韧性灯塔 - 新浪财经",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TREVmdGdYR1RpWHhqMnBITFFoYWNsdml5V0dqWEFrQTlUZGFUUlJxdFJ1eUYwbWFvVWlPUVhHblZrMmhHODYzVzJwemF3eGxrbkRzbU5Ka2VVdS1LTlc1QlBRSWJLSkdqZXhjelFlWGI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qNmNia0hmdXpzS2VjRmM2X2FfZEhIbFo4bDkxVDRrYTZVTlZQLUg3NE5OTm5ZVjZWeEZILUhjUHdKTlFhM1l0QTA0akJJSmtZUjh4TTY1YzE4UVlTbXYtc1EyMEpZRlB4R0V0N0NNTUFaaFIzQzA4VQ?oc=5"
         },
         {
-          "text": "盛洋科技：公司管理层密切关注二级市场走势 - 东方财富",
+          "text": "军事生产部长探讨了加强与美国公司“庄臣公司”战略伙伴关系的方法 - الهيئة العامة للاستعلامات",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNVDhuMmlYOTREN3FaYUxNcV9nX0xTX2dvZEp6aUZsUUdlU0hKRGtuQnRsbGdsaWNCaDloVTZiZlFQNHZVdU5aYzVQWWx2QlNfdnNtMmg4dEJRRXhnNkJSZEhiZ1dJNU9oOVBoc2Y0ZlBtWDJnQ3JkdGlpQ0l2Z3MwSDMzM3F1SUdVbHJCdHQwdF85SFRkT19WZU1OSTVpZ1Q4T2tSRURfZDJEb0VFYy1YTUtOaEt4c2k0Z2xXRVhyQ0pKLXBjZm1MQUt4MmpjWFlEdmpUaEhkTVVtd1FQWlFfeHc0aGxJQ0dEV2pzZUxZZTRPV0pvZEpUTUszVTY2YTFKOUllSHFSalBLWEROM3R3Y0RPQXMxX1BCanlvNGc4YnYtUFFEd2NOVU43SG1IWkZjT3QxSENIQV9HaXY1OEx6a1ZmVDJmb1RKYmVYR1pYS1h2ZFR6NzJFNm5JdnlFMF9fTGVjY2d5Z3BlYklPNTlTVTZ1bFBCeUUzcF9WS1hlXy14XzBDSmRiYndRZkI1aTRTdzRXeDdYMFdSQXZiMXRPSTZ1VXNRUlJTSUhlQy1zN1R6VEttbk5Edkk3dHEwaVNxY3FvQ3JQTTdtb1IzWFRRTFEtV19kYlpUdUItZzF5Q2NlaFNO?oc=5"
+        },
+        {
+          "text": "神州数码首席执行官李映：技术驱动的企业管理和组织生产力跃迁决定企业长期竞争力 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnV3B2NVdzdnk1dTM0VzBVRHVMUERZTzliSGl4bjlWLXg2Q2cwamxJTjFicE1tRzl2ci1CbFRiS0RFdzNjWGNQNzZ1VDFPTl9XV3ZXTkNDXzJ1VXFCOENiMTlyYzRNZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3Z3FicDBiRnVHZ1h5U0NoUXQta0Q0ZS1jUXBxcjZJRWJhaTJMTExmQThrVE45ZnZsVE5pM2JlZkpYODZiMUhoV0tpNF9iZmhFZE5tclFZdm1iQm5CVnZkLQ?oc=5"
         }
       ]
     }
