@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年6月29日",
+  "publishDate": "2026年6月30日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "AI接管场站运营，某新能源企业将问题发现到解决时间缩短60%｜案例研究 - 电…",
+      "title": "“情绪场景体验”点燃新能源汽车消费新引擎 - 央广网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "This simple twist could bring quantum c…",
+      "title": "Millions of exploding stars could soon…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:00",
-          "title": "AI接管场站运营，某新能源企业将问题发现到解决时间缩短60%｜案例研究 - 电子工程专辑",
-          "summary": "AI接管场站运营，某新能源企业将问题发现到解决时间缩短60%｜案例研究 电子工程专辑",
+          "time": "08:01",
+          "title": "“情绪场景体验”点燃新能源汽车消费新引擎 - 央广网",
+          "summary": "“情绪场景体验”点燃新能源汽车消费新引擎 央广网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1WMnFUdFFkbDhITW4zM3pUS09PRXI0YTk2OGZnb1NiRlZodHFsOHVkeGUxVFE3THdqU0tzMG1CV3lIWGwtX3FiU1JLWGlqVXVHYU5J?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zUnBiaHI3bEUzb1ZWaFBhVVo5QTloS1JYekZlV2xzU24xUW1qMkxyQ3Y1YTdNM2M5MHdqRlY4ZWZUNHBiWm5GdjBEZldRaURGakVuN2xjNWRXemNSbHdKc3kxYS1OWFJH?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:57",
-          "title": "摘地仅13个月！深远新能源电动车生产基地建成投产 - huizhou.cn",
-          "summary": "摘地仅13个月！深远新能源电动车生产基地建成投产 huizhou.cn",
+          "time": "07:53",
+          "title": "南昌公交105辆新能源公交车身披“中国红”“七一”前正式上线运营 - 凤凰网江西",
+          "summary": "南昌公交105辆新能源公交车身披“中国红”“七一”前正式上线运营 凤凰网江西",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYWNsT0gtWXRQOE1vMmRlUko5NXZvYy1yM3RiaVpGNUlxX2pKQXljVG5TbUwya1l2ejBqVk44SEhodldzR1NaUWcyQ2laMUdzMVdjYjdvQVE2dHpIUF9xRHB5X2RvaFlmN1hCeGhSWEc1cnJWMWROMXQxbTZUdUtMRTFnVW1BejA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BNWNBTk1uMXV1WXhoV21uYjM3dW1ycThLaGM1aXVWS2ZWZkpwM2xBX2QtYUtVY05sSS1iSVp3bFl0aExLeVVEV0Fn?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数前一交易日收跌3.41% - 财联社",
+          "text": "6月29日新能源ETF嘉实基金份额增加2100万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xdUMyRTlRU2treEFQcUEza0liWl9Wd2ZVWmg5RWc3MDFmYk9ldGZ5dkNBZWF0a19meGJKT2ZaWDI2NU1UbVJfOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43SWFqVG1iLTFMeEl2bEN5cHh1d1N3Rk5IcFVUc0ZrbGpwa1ZncWh5bXpjeWUwRV9IWEpHYTZudDllVlhPS0xNS2ZRc3N0SXFlZGVaUF9MR3JScGFUamZiQUVB?oc=5"
         },
         {
-          "text": "福特CEO承认落后25年，百年车企新能源败在哪？ - 汽车头条",
+          "text": "【视频】当下油车新能源车怎么选择 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBGUWZHeEpDUHFKUjlUQ0RtLTQydVlBN0xMRkZJZFNLbl9WbG9ZRkswTGVUTERRc3hUd0dHbGM5TUNfSTJq?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuUFJWMERCYWpwelJZWXM3N2h2ZDZxdTZSZnFHSVpDaldsS0xXRERNb01jTkZpaVlVQ2s1cExYSXhzQTVVaUliT3dKRUswMUxDZmsyWXR4TDdhTGM?oc=5"
         },
         {
-          "text": "从锂矿到“城市矿山”头部企业全链条布局锂电循环 - 东方财富",
+          "text": "船舶制造业专属有害化学物质设施标准实施...允许使用移动式集水设施 - 亚洲日报",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UWXF3NGdVQW5NeWNJeVQ5N0R4cXhxVzZ0OHBCV05IeVNxUVgyMmlkMGJ2R2NHNEN0LU1nckM3ZlEzRkF0SEsyS1lGQ1NCbnBtVkhtUTRmUlozeWM2Z2t0dQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85QXlWb0wwVF9ISk02dlBfVmZneVY5VC14ajdxTHoxMGdjcDM1MHNoWUI5MHl2N0xwZkFEQ3kxMTBySHBra0wxaXpybVJPekZIVUhmWHBxNFZMbDQ?oc=5"
         },
         {
-          "text": "【视频】一周车坛，宝马停产新能源，汽车下乡巨额补贴 - 汽车之家",
+          "text": "5月新能源销量榜：渗透率突破62.9%，比亚迪领跑 - 网通社",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQaXA4ZE9FMUgxVFhILXNLQ2Q3aXlEZlVHUXQtcVg5VVRMYURFQmxWd3R1ZkIwYVZlTW1WMFVMRFJUdlV1bzk2UXlKakNIUlVqYXE0ck9iS2hzZXM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YSW5tVmZ2QTFtUDIzTDc2OTFDNk42MWZ4WTNRUXZpNGVZT2xHRWE2bVI2cmNnaHpib2NBcWlRQklpVFNoUkUxdW1PSGxYRElBSmZ5NFhZeTlNTzA?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "05:57",
+          "title": "Millions of exploding stars could soon reveal dark energy's secrets",
+          "summary": "A new AI-powered framework could transform how astronomers measure the expansion of the Universe. By analyzin…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "00:37",
           "title": "This simple twist could bring quantum computers closer to reality",
           "summary": "Researchers found that twisting layered sheets of hexagonal boron nitride can dramatically change the light p…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:50",
-          "title": "Researchers found a Wordle strategy that wins 99% of the time",
-          "summary": "Researchers developed a Wordle-solving strategy that succeeds 99% of the time by focusing on information gain…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Researchers found a Wordle strategy that wins 99% of the time",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm"
+        },
         {
           "text": "SpaceX wants to build AI data centers in space. Will it work?",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "New plasma trick could unlock smaller, more powerful computer chips",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260616102219.htm"
-        },
-        {
-          "text": "Your brain was never designed for this much bad news",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:00",
-          "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-          "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development…",
+          "time": "02:00",
+          "title": "AI agents are not your “coworkers”",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/hp-frontier-partnership"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:00",
-          "title": "Previewing GPT-5.6 Sol: a next-generation model",
-          "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cyber…",
+          "time": "22:44",
+          "title": "Agent confidence on the technical frontier",
+          "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to ali…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
         }
       ],
       "briefs": [
         {
+          "text": "Mapping Europe’s AI Workforce Opportunity",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+        },
+        {
+          "text": "HP Inc. launches Frontier strategic partnership with OpenAI",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/hp-frontier-partnership"
+        },
+        {
+          "text": "Previewing GPT-5.6 Sol: a next-generation model",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+        },
+        {
           "text": "Repositioning retail for the AI era",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
-        },
-        {
-          "text": "How agents are transforming work",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/how-agents-are-transforming-work"
-        },
-        {
-          "text": "The emergence of the web data infrastructure layer for AI",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
-        },
-        {
-          "text": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Chip Industry Week In Review",
-          "summary": "Onsemi to buy Synaptics; IBM's 7Å chip w/40% more SRAM area; 1nm MoS2 nanotubes; AI pressure points; memory u…",
+          "time": "02:46",
+          "title": "HW Fingerprinting Technique for Silicon Photonic ICs Using Photonic Crystal-based Density-Controlled Patterns (U. of Florida)",
+          "summary": "Researchers from University of Florida published a technical paper titled “Enhancing Co-packaging Optics Enab…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-144/"
+          "url": "https://semiengineering.com/photonic-crystal-fingerprints-target-silicon-photonics-supply-chain-security/"
         },
         {
           "priority": "重点看点 02",
-          "time": "22:00",
-          "title": "Records Fall for 3D Chip Tech",
-          "summary": "As transistor sizes shrink to their atomic limits, computing demands are only growing. Sending chips to the t…",
+          "time": "02:35",
+          "title": "LLM-driven, Formal Verification-Assisted Framework For Functional-Safety-Oriented Fault Criticality Assessment (ASU, TI)",
+          "summary": "Researchers from Arizona State University and Texas Instruments India published a technical paper titled “Saf…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/hybrid-bonding-2677022836"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/llm-driven-formal-verification-assisted-framework-for-functional-safety-oriented-fault-criticality-assessment-asu-ti/"
         }
       ],
       "briefs": [
         {
-          "text": "Future Transistor Stacking Plans Start to Diverge",
+          "text": "Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z.,…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/open-source-risc-v-platform-trains-chip-designers-from-rtl-to-silicon-eth-z-lowrisc-u-of-bologna/"
+        },
+        {
+          "text": "The Lab Mistake That Might Revolutionize Computing",
           "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/cfet-ibm-plan"
+          "url": "https://spectrum.ieee.org/artificial-neurons-on-silicon-chips"
         },
         {
-          "text": "I/O Design Challenges Grow In AI Data Centers And HPC Clusters",
+          "text": "Rethinking Chip Verification",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/i-o-design-challenges-grow-in-ai-data-centers-and-hpc-clusters/"
+          "url": "https://semiengineering.com/rethinking-chip-verification/"
         },
         {
-          "text": "Verification Methodologies Struggle To Keep Up With AI",
+          "text": "Chip Industry Week In Review",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/verification-methodologies-struggle-to-keep-up-with-ai/"
-        },
-        {
-          "text": "Executive Outlook: Agentic AI’s Impact On Chip Design",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/executive-outlook-agentic-ais-impact-on-chip-design/"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-144/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:58",
-          "title": "什么是多模态AI？2026企业策略指南 - 新浪网",
-          "summary": "什么是多模态AI？2026企业策略指南 新浪网",
+          "time": "20:09",
+          "title": "圆通速递：杭州灏月企业管理有限公司持股比例已降至5.31% - 东方财富",
+          "summary": "圆通速递：杭州灏月企业管理有限公司持股比例已降至5.31% 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zaldpTVFVYVJWSnEwazl2MXI1Q01jNUlhVlpsZWpUSkNaQVhqZEp4cW4zTTkxeFV5UkR5SzVYSXdMUldCRTNoUU5JcThWRmtEVXlycFNMbmN6MjI0M0xVUVE5bUZOSGlQclpuWEVSX0hFS2N6bjlTOXN0R2dWdGM?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BOU9EQ2wxQnZ4LXZtU2RoeFFiZ0g0MmtSU19DWEpZZ1dFS0hka05zNjF3ODZhdkxQbW1NSnhJak9hQ0FJZl8zb0JHVVZSNWtRYVpramplRUFyT1FLQTgxU3owQjFsUQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "14:07",
-          "title": "【管理提升】神东煤炭：强化“四基建设”激发企业管理新效能 - 搜狐网",
-          "summary": "【管理提升】神东煤炭：强化“四基建设”激发企业管理新效能 搜狐网",
+          "time": "19:11",
+          "title": "超越科技：公司管理层会积极考虑投资者的合理建议 - 东方财富",
+          "summary": "超越科技：公司管理层会积极考虑投资者的合理建议 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMXBYNFJnZHRvYXJiUUdTZmZPZkNBenU0RXMzZUh6Mm9qZ2p6WWdKVnpVNXEtT0lfbmFlbDFuQ1dWV2xZOXFuV0kwdENSbWlzSUJmZ0FsZWZOOUFGakgzUUMzMjRYb0tsS016akpFMVN4a1pxZXU2di1IY2RJa1V3TDI5WktzOW1kVjVUdg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qWkt4eFViN3hYNEhDamJiQi1UaEhSWkUzY2hsV3ZPR1hZcVB4RGw2djhva21ybGIxMWlUdGFPb0l3bFZZNW45ZEJRVmpDMzNtYVRXTW9kRkZYRkNhM2MyVjFDaUg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "全球首座大件供应链韧性灯塔！ 日日顺AI智能决策提质降本 - 凤凰网",
+          "text": "NCSOFT发布《ESG报告》，增强游戏竞争力与企业战略协同 - 亚洲日报",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE51dFdId1hKMjhqeFJXSnJZSGpmM1RlTHp5eTdTektBb2hOd0VJZGY5VEhPSUhrMU9RdmFqWTdUS1RGZENYV1pUUg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VYnJ6OEtuZVZWNWJiNHRnc0p5bWRWVDBGcnh1VjVtd1g1Ti02cHR0TnQ3UlVnLVpQdjQ1WkdxX2c3ODh1SGVMUVR3RmVhOUw2LWJnZ29jekJkQk0?oc=5"
         },
         {
-          "text": "日日顺获评全球供应链韧性灯塔 - 新浪财经",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qNmNia0hmdXpzS2VjRmM2X2FfZEhIbFo4bDkxVDRrYTZVTlZQLUg3NE5OTm5ZVjZWeEZILUhjUHdKTlFhM1l0QTA0akJJSmtZUjh4TTY1YzE4UVlTbXYtc1EyMEpZRlB4R0V0N0NNTUFaaFIzQzA4VQ?oc=5"
-        },
-        {
-          "text": "军事生产部长探讨了加强与美国公司“庄臣公司”战略伙伴关系的方法 - الهيئة العامة للاستعلامات",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxNVDhuMmlYOTREN3FaYUxNcV9nX0xTX2dvZEp6aUZsUUdlU0hKRGtuQnRsbGdsaWNCaDloVTZiZlFQNHZVdU5aYzVQWWx2QlNfdnNtMmg4dEJRRXhnNkJSZEhiZ1dJNU9oOVBoc2Y0ZlBtWDJnQ3JkdGlpQ0l2Z3MwSDMzM3F1SUdVbHJCdHQwdF85SFRkT19WZU1OSTVpZ1Q4T2tSRURfZDJEb0VFYy1YTUtOaEt4c2k0Z2xXRVhyQ0pKLXBjZm1MQUt4MmpjWFlEdmpUaEhkTVVtd1FQWlFfeHc0aGxJQ0dEV2pzZUxZZTRPV0pvZEpUTUszVTY2YTFKOUllSHFSalBLWEROM3R3Y0RPQXMxX1BCanlvNGc4YnYtUFFEd2NOVU43SG1IWkZjT3QxSENIQV9HaXY1OEx6a1ZmVDJmb1RKYmVYR1pYS1h2ZFR6NzJFNm5JdnlFMF9fTGVjY2d5Z3BlYklPNTlTVTZ1bFBCeUUzcF9WS1hlXy14XzBDSmRiYndRZkI1aTRTdzRXeDdYMFdSQXZiMXRPSTZ1VXNRUlJTSUhlQy1zN1R6VEttbk5Edkk3dHEwaVNxY3FvQ3JQTTdtb1IzWFRRTFEtV19kYlpUdUItZzF5Q2NlaFNO?oc=5"
-        },
-        {
-          "text": "神州数码首席执行官李映：技术驱动的企业管理和组织生产力跃迁决定企业长期竞争力 - 东方财富",
+          "text": "福斯特(603806):转让子公司部分股权暨关联交易的进展公告 - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3Z3FicDBiRnVHZ1h5U0NoUXQta0Q0ZS1jUXBxcjZJRWJhaTJMTExmQThrVE45ZnZsVE5pM2JlZkpYODZiMUhoV0tpNF9iZmhFZE5tclFZdm1iQm5CVnZkLQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yTXhmSGJlcTJGaU50eFQ2d2dVbGM0WG0xTmx6ekV0Z1hSVzg0RFo0d1JveW1yby1VTy15TWk0d2NORUctNlFuYzVGX0pWcmR2cEFNU1ZR?oc=5"
+        },
+        {
+          "text": "什么是多模态AI？2026企业策略指南 - 新浪网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zaldpTVFVYVJWSnEwazl2MXI1Q01jNUlhVlpsZWpUSkNaQVhqZEp4cW4zTTkxeFV5UkR5SzVYSXdMUldCRTNoUU5JcThWRmtEVXlycFNMbmN6MjI0M0xVUVE5bUZOSGlQclpuWEVSX0hFS2N6bjlTOXN0R2dWdGM?oc=5"
+        },
+        {
+          "text": "全球首座大件供应链韧性灯塔！ 日日顺AI智能决策提质降本 - 凤凰网科技",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE92R1hFbGQ0ck1VMjZsdjY5T3RDVTJBUERRODAxY3gyOTBOcFZUSkx1Z3BIWUhkdGQxekdjcnU3RTgyQVlJeFR5a1g1cUY?oc=5"
         }
       ]
     }
