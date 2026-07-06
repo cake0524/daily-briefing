@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月5日",
+  "publishDate": "2026年7月6日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【视频】全国飞跑长途！平台运输选新能源还是天然气！ - 汽车之家",
+      "title": "“油电同权”大幕拉开，新能源汽车产业步入市场驱动新阶段 - 36 Kr",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Tiny magnetic waves could unlock quantu…",
+      "title": "Quantum mechanics once baffled scientis…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:03",
-          "title": "【视频】全国飞跑长途！平台运输选新能源还是天然气！ - 汽车之家",
-          "summary": "【视频】全国飞跑长途！平台运输选新能源还是天然气！ 汽车之家",
+          "time": "08:02",
+          "title": "“油电同权”大幕拉开，新能源汽车产业步入市场驱动新阶段 - 36 Kr",
+          "summary": "“油电同权”大幕拉开，新能源汽车产业步入市场驱动新阶段 36 Kr",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMTYwNjgxRXMxVGI1bTJPRmF6TGYyT2FXQmpXeTRhNEpsdjdMdGZidXBsUVZsQ3Jsek8wZ0VZUEtnTXg0VTNQN2E5Y2xyamZtOHVqcTFFcWxBLUk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1WRmR2Wkd2dDg2TjYzdm5QTWxCQWhMWGUwWWN2R09lQ3J2d1h6YUQ4R3BoTm5OVzVaZXM4UWJWOTlObDdzVHJnX2trenA5eU41MEhlemVSZU5vTWhSV0E?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:40",
-          "title": "403472辆！比亚迪6月销量刷新年内纪录 - 新浪网",
-          "summary": "403472辆！比亚迪6月销量刷新年内纪录 新浪网",
+          "time": "08:00",
+          "title": "科技部党组书记、部长阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展 - video.sina.com.cn",
+          "summary": "科技部党组书记、部长阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展 video.sina.com.cn",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FVWtJcnRISHZfZjJfenhWbW1RT25LTTZHWUZfZ1R6VElYaXBMYUJkMERYb1ZWWGlnRng5LV91S1NXRHdxdU9TWG5OeXVLX05pVnF0RnhnOTFSVzREcEgyVjIwWUQxT2wzNU96RmFabng?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbUdmZFlzZm5iZWc0ZW9zaXJUdnZfM2FPWHk0N2hjdEp0QUdwTFVMN0I0TFVqeDl4aGJQemlubGF4ZXpWOGFXWnRhaEtNbE16WHNOWE1NQXlvaEpwX1MxZWRkeGx4ckdkeTFBNjdPNkk5X092RTVkWGNmamFMbTFOTkdn?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "2026上海汽车音响改装测评:新能源无损改装,解决改装乱象痛点 - 新浪网",
+          "text": "科技部部长阴和俊：加快新能源、新材料、航空航天、低空经济等战略性新兴产业集群发展 - 东方财富",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fSDJ4amtNd0hkVGRNLTVrUlBjWEJqVXhHcG56MjkzMU1jdFZWTFpLZnExSmZWa0RaYjdkVGhRUjNFSjk5OC1ja1JyTVJ3c3lKZTlJcEliTnZOMkJYZFpZbjV5T3JDU2kzVVBzM2FENVJEUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RVFBMekZ0ZlktanhKWVNBY1NTaDB1VzZiem1zV1ZnN3Uxckxnbjl3UzdpWEVWTS1fUmZHdjNra0FrOWVaTlVfLWkwOXR4emtMNU54cU01V2R5RXJQbm81Yw?oc=5"
         },
         {
-          "text": "智行众维：构筑AI具身智能体与物理真实世界之间的桥梁 - 中国金融信息网",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYLXFUUXlNeExDRURWWHB0enpNOHNlaWVscUd0VDM4RlkwdnB6Qk14MmJ1ZmhDYXM2OHJvYnNmNnlZZFlTY2VjQVVzYV82REFIVnM1ZWRFeExkVWY0Y1kxWjhzbmZnV3RtOHBGQ1JRdjZ3TzNs?oc=5"
-        },
-        {
-          "text": "视频丨今年2000亿元“两新”设备更新资金已全部下达 - 新浪财经",
+          "text": "宝新能源伦交所ESG评级较上年上升至D+，位居A股同行业25家公司第22名，与申能股份等同级、高于皖能电力等 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXA0LXZqVzhBQm1zN2VTQlo1ZUI3VTlIbHluTUF6a2hod1Jhd05rT2JOSGlqWDh0cDlnM19IakRyMWx3bl9DSGx3Mm9kXzBUTHpuWU1jUVJSbGxTRnZ6a2VQVW80ZGJWZGNaVy11SE9HeDZPWjJnVnJ2SFhZVlRjdGtOU2wxMjNBakdfWDZOd0V0UFNYNFd0dg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rQWVGTmlBeXFaMHV3OVE5aUE5cWF3blptSFI2V0ZrY043V21TT2J5NzUteFFuQmFWNDVLWG1LbXNpbE1LeFVUMTZHVzZVaXVHdzlVX2lVakVYM1RNWEpqQW5pd2ltRFZlSHpFQzR1SmdjMUo1bW1rUQ?oc=5"
         },
         {
-          "text": "一封信，叩问未来——从一部AI短剧看数字经济的人文底线与人机共生 - 中国网新闻中心",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pcl9jTlNLandiRWk4amhvaDdSNmdIWHRNbDNiSUsxMjFubnZ5RmFaTjRhZVpPeS11UmYtN0RfWGhacG80UVA1UnMyWUQwZ3VBZEtObFZrTEU5OEhvLXV4a056MjBEZDY3YnJR?oc=5"
+          "text": "吉利汽车半年出口47.4万辆增158% 新能源海外销量涨585%实现精准适配 - 新浪财经",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OWWFlaWFaOW1BXzRXTzJfQllFbjQ1U3J1R3M4djY0bGhQSXlFSFdVd2ZoX0VZZjA2ZFpIWUFPX21rYTdYd1AzUXZXMHJ2WjZ1MHlvUVBteURPT181eG5pLUIzSUhoTU9wUkFRbzlqZjl5TjVaTndTRg?oc=5"
+        },
+        {
+          "text": "雨天接娃山里露营，坦克300新能源和至境E7的实用差异在哪？ - 汽车之家",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkQ1gtY1J3LXZJOF91cFlYRFc4c2Fta1QzOTJQZ2xfYm5CaEpFX1JqZE5ZdE9GU3g5aGdfUHlVUGhjcjJXWU5HSnFyN2ZCVV9JS3BnY2puXzk4Yms?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "02:13",
+          "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+          "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "14:48",
           "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
           "summary": "A major breakthrough in quantum technology has turned magnons, tiny magnetic waves once considered too short-…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260626030431.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "10:11",
-          "title": "Scientists create quantum sound device that could transform communications",
-          "summary": "A new quantum device can generate precisely controlled bursts of sound-like particles, or phonons, by forcing…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260626030435.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Scientists create quantum sound device that could transform communications",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626030435.htm"
+        },
         {
           "text": "The Milky Way’s weird gamma-ray glow may be dark matter after all",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "This simple twist could bring quantum computers closer to reality",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm"
-        },
-        {
-          "text": "Researchers found a Wordle strategy that wins 99% of the time",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619020508.htm"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "14:42",
-          "title": "代理公司管理层轮番上阵，狠薅外卖骑手与公司“羊毛”，4人被判刑 - 搜狐网",
-          "summary": "代理公司管理层轮番上阵，狠薅外卖骑手与公司“羊毛”，4人被判刑 搜狐网",
+          "time": "23:30",
+          "title": "海泰新光：青岛普奥达企业管理服务有限公司及其一致行动人持股比例已降至34.99% - MSN",
+          "summary": "海泰新光：青岛普奥达企业管理服务有限公司及其一致行动人持股比例已降至34.99% MSN",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRENrSlpaMThwVFRMOUNsT2FXWFJ1Q29jVHRwelFIeUlPUTdka1N6UGo4UTBHcEh5S014dGplREU0Nnp3RFhmYUpUcUo3SklibzBQeExXcl9pQlJ2MTNESWJScU5NSmN4WHhZVFprckxfTGUtV1A5d1ZuSHBRTGFNamF0SkRKMzAtSTVRdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxQdEd2cXg2YmJiTDdMb1lqREsxazFQcnQ1bjRyUGlpSkVGRGxGRkdSUjN0MDhXNUxjOG15RDNJcFExbEFQbVFKTDVoQVZpYkVBQ09tb1pCWnYyaFBWQnkwazQzSlNxSmNvYnM3X1VIVk9ibHdyNDl3c3RTZjdZOGJQSWFjZXdGWWRuVHZlWll3LXVwbW15UWx1aG9ZckN0N01GLVQtbmF1cTU1cVNkeDU2SnEtdzdMV2lMN0ZBWHpWUGdsSU9vUVV4QzlnOUlpcEVwNGw2dkNvYjlfdmdQdFU0cmdXRTk3eVlMVUsxTVVrYjRnN0w2a1BxMGRscmRad0pBMnRwLUdZWFhEamVfZDBfVmxMdXhsVHZaZ2RrMURMcVk1SGpYSUNaaDBNV0Jxa0JidHNiRjNlVlQ3UjZBR3hZaUhxSTZBSVh1bG44aFQxSFRMZ3R4eDJlT3BwUXRabkpoOEJXSFlOZ2hQaHhGQThGcWx4QmEyczl4Q2xqa1M4ZnZHYkRBb2xjZDRKTGRvYU9ubXhYOGY4dGhqQkRQSWl6TmRqUjVkOGhUb01wZUw2REIxMEswVWdLMmVWOG5kZTdhVW9hNU5Ud3EwcTNIekI0LV9ibnNFTnpGMmNHSW10Z0VZNE5UeXF5dTFzeE9naS1h?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "12:41",
-          "title": "成都吾三省企业管理合伙企业（有限合伙）成立 - 新浪财经",
-          "summary": "成都吾三省企业管理合伙企业（有限合伙）成立 新浪财经",
+          "time": "19:05",
+          "title": "迅策与TCL子公司战略合作 开发「Token工厂」模式 - 星島頭條",
+          "summary": "迅策与TCL子公司战略合作 开发「Token工厂」模式 星島頭條",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFk0eFN0alhlYUd5Tmh6QUZpcjBVU3J3c09IR1dwRHc1WFlnR0NkaVFiR0MwOUFvU0tVLWdwWVlpTllnZXBxR084YjdIcWdrcExKb3I5aEUyLV9kd0hOZ3JTelRDZXNjelBSQk85N29jUDRLbmo1ekVuZzhfVm9YeU0tc0F4a19WRzlmY1VVVzJWbzNRQlAwSA?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNVUJfY3FnTFRqREo3djJkRFJyeXlrN0hGQWRhcTF2ckZTX1c2S2JBVTlSVnNxRHRzNmU4SG1xNV9UcXVMR2xjX2hlYXlTN0duZkppUmFhbGVjTkJTVXNxWVhuYkxaMUh2YjdfbFBianV6UWI2cjNPMksxdUpLUTVnb0dtOVpkc3JnSXEyUjBpOFNWcUxkejE3ZkI4UGJqTHkyZGZBeWpEWkxuMktfd0IyaDV5X09yZVNJMjF4N2w2ZnlNdllNTjloM19BUGUxU2xtS1dvXzM1ZFBoaTVFMzU5MFZTN21QZDM0UWRsSEtpNlBVSm9BOGQwOVFSZFNDbUQ1OEVTN1JyeWJEQm9YNzVYY2xscTgzcU5fZ1lTSjBtb3YtVmVucHl5SmFSaTh1aWJaSWNF?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "王健林，再卖一座万达广场 - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU0YyQXo5MVd5dF9TVmFkaE5TbE84MmJHa0dCSUJGSFJSZ19VYkxDYktzakd2T2NRaG8zMFB1M2RQbEVCSVJidUdjZ1JGQzB1TS1vTldxV3pidGR3V3ZRaWtuUHZkb3NuYlpVdmc2MkZOdjhGdkVraWZFS3FzMmN0VHFuLWdZOXpO?oc=5"
+          "text": "中金公司战略部负责人马葵兼任中金国际副总裁 - 新浪财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtQzhDU0NPcFJ1YUZTeEo1SDAzMjliaHZONXFHVDA3a3BkWW9tN0dBbzZPdkxrQmttMWp3SmYwYk54WkpqbHZyQTNzNW9TMi16TmJSUk04MUpMOVlyTzBJMkNObzd1U3liUkRYM1NB?oc=5"
         },
         {
-          "text": "【丝路话语】这个企业“图腾”刺痛了谁？ - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vekRnNlVFTGhWY3R1SEE2cW0wajJEVkxDTjJwWnRQY3otR01yNWdmeHl6STM0dGZlSUM4ZHVOWXdwcmk4azlfS3cycm1OTTJZSHV5MDVPVmlZaVBLUmxYbW5IZzFFX01TLTNLbUppR1dmZXpIX2tSTQ?oc=5"
+          "text": "中金公司战略部负责人马葵兼任中金国际副总裁 - 富途牛牛",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zWlRMWmpjNUhkTjBKUDNRUXpuOU9JYlh5WjVIS1FtdkNkbUJzM2ZUUmlZNjZVdnBxMjdsa1IySVU4RjhyX1JoVWc2cUFJY3p6X3c?oc=5"
         },
         {
-          "text": "天融信：公司管理层一直高度重视盈利能力和现金流 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIYTdxUlNjU2NIcW4zYm1CRW1DZElMVDF4WERJVm9ueGV4MHFxeG01amFnS3J1d2xBc1B5Vnc5SzQ5Mkp1RUxLZzNTaGRhUzJIZjlKMkZUTkd1blB4MnczZg?oc=5"
+          "text": "中金公司战略部负责人马葵兼任中金国际副总裁 - 新浪财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSzlxY0FGQlJoWlc4dEMyTXRMWFhHbmo2bzRkMGNwZTBYdUR2U09tak1fZmdGZEtpMm5LUnVUSG9ab2ZKUXNfMHpRNGVvZDlONERqNGlnaUsyQXIxdTN2YWtzSDNXeEtvbjJvUGJQRUp4cHNQclBVMDJhMzdKWTdSUmVFZzhDX2M?oc=5"
         },
         {
-          "text": "Climate transition plans are moving to the centre of corporate strategy - Susta…",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSU12YjRlQzNwLW5RTXVaZWx4V3VTcXktVWo0QUZuNTFlam5XdWozY1YwZXRpMzZyTkxvN0JKR1FIVDZ6eXlSbEtMZkRGU2JUdHZ0ejc3TEdDYU5KT2FBQnRaR0hlRGk4dzg5WEEyVko1UzZIVzl2S2xOWFZkVk1Eay1HZlFqc3F6aW9HLUJYVWpBdE9UdlJBMF8wTjlJN09VT0ZOT1Nac0NaTlpRT3ExbVoxN2E?oc=5"
+          "text": "成都吾三省企业管理合伙企业（有限合伙）成立 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xTlRhb1FpWXZMU1dqV0VqQWl2R2dsaERXS0lGNjRDX0pRT2x6X21FR0RwNlQ3czZMWFVVbHF1S0IxdFRLblczbHVrWTJ3M1NtSHBQbEdzMmIzNExyR3N6eHFNQVc5THlRZko4Qk9FY3BnYUdyNnZGOQ?oc=5"
         }
       ]
     }
