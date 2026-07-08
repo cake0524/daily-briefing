@@ -1,5 +1,5 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月7日",
+  "publishDate": "2026年7月8日",
   "highlights": [
     {
       "topic": "六大支柱产业",
@@ -8,7 +8,7 @@ window.dailyBrief = {
     },
     {
       "topic": "六大未来产业",
-      "title": "Quantum mechanics once baffled scientis…",
+      "title": "AI just supercharged the race to find r…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "13:39",
+          "title": "AI just supercharged the race to find room temperature superconductors",
+          "summary": "Scientists have combined machine learning with quantum physics to discover two new superconductors and create…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "02:13",
           "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
           "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "14:48",
-          "title": "Tiny magnetic waves could unlock quantum computers the size of a penny",
-          "summary": "A major breakthrough in quantum technology has turned magnons, tiny magnetic waves once considered too short-…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260626030431.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Tiny magnetic waves could unlock quantum computers the size of a penny",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626030431.htm"
+        },
         {
           "text": "Scientists create quantum sound device that could transform communications",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Millions of exploding stars could soon reveal dark energy's secrets",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm"
-        },
-        {
-          "text": "This simple twist could bring quantum computers closer to reality",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260620100312.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:00",
-          "title": "Your family’s $300 stake in OpenAI",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "time": "19:10",
+          "title": "The foundational elements of AI architecture that IT leaders need to scale",
+          "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
+          "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:37",
-          "title": "Achieving operational excellence with AI",
-          "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promi…",
+          "time": "08:00",
+          "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+          "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/australian-payments-plus"
         }
       ],
       "briefs": [
         {
-          "text": "Teaching AI to run with the turbines",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
+          "text": "MUFG aims to become AI-native with OpenAI",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/mufg"
         },
         {
-          "text": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+          "text": "Your family’s $300 stake in OpenAI",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
+          "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
         },
         {
-          "text": "Claude Science is Anthropic’s newest flagship product",
+          "text": "Achieving operational excellence with AI",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+          "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
         },
         {
-          "text": "Agriculture is ready for AI, but its data isn’t",
+          "text": "Building the foundation for an autonomous enterprise",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
+          "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Research Bits: July 6",
-          "summary": "Neural net predicts semiconductor properties; ferroelectric titanium dioxide thin film; bidirectional pixels.…",
+          "time": "21:00",
+          "title": "Brain-Inspired Light Sensor Could Speed AI Image Processing",
+          "summary": "A new type of imaging sensor inspired by the functioning of the human brain can detect light and store data a…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-july-6/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/hybrid-phototransistor"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Data Center AI Growth Faces Challenging Bottlenecks",
-          "summary": "Will AI growth grind to a halt due to bottlenecks? The post Data Center AI Growth Faces Challenging Bottlenec…",
+          "time": "15:08",
+          "title": "Photoluminescence Inspection Is Changing How Manufacturers Protect Yield In SiC And GaN Devices",
+          "summary": "Detecting subsurface or crystalline defects that directly impact electrical behavior in wide-bandgap material…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/data-center-ai-growth-faces-challenging-bottlenecks/"
+          "url": "https://semiengineering.com/photoluminescence-inspection-is-changing-how-manufacturers-protect-yield-in-sic-and-gan-devices/"
         }
       ],
       "briefs": [
         {
-          "text": "Computational Strategies for Schottky Barrier Heights Prediction (NIST, U. Mary…",
+          "text": "From Data Accumulation To Data Activation: AI-Driven Data Feed Forward For Chip…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/computational-strategies-for-schottky-barrier-heights-prediction-nist-u-maryland-johns-hopkins/"
+          "url": "https://semiengineering.com/from-data-accumulation-to-data-activation-ai-driven-data-feed-forward-for-chiplet-based-test/"
         },
         {
-          "text": "LLM Agents To Refactor Software For High Level Synthesis (Carnegie Mellon, UCLA)",
+          "text": "The Test Cell Ecosystem: From Tester Performance To Production Outcomes",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/llm-agents-to-refactor-software-for-high-level-synthesis-carnegie-mellon-ucla/"
+          "url": "https://semiengineering.com/the-test-cell-ecosystem-from-tester-performance-to-production-outcomes/"
         },
         {
-          "text": "Probabilistic Memory Architecture That Bridges The Gap Between RNG Sampling and…",
+          "text": "Multi-die Testing In The Field Must Build On Established Test Methodologies",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/probabilistic-memory-architecture-that-bridges-the-gap-between-rng-sampling-and-memory-access-notre-dame-georgia-tech-villanova/"
+          "url": "https://semiengineering.com/multi-die-testing-in-the-field-must-build-on-established-test-methodologies/"
         },
         {
-          "text": "Chip Industry Week In Review",
+          "text": "Inspection And Metrology Catching Up For High-Density Fan-Out Panel Packaging",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-145/"
+          "url": "https://semiengineering.com/inspection-and-metrology-catching-up-for-high-density-fan-out-panel-packaging/"
         }
       ]
     },
