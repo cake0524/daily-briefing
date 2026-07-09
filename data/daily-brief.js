@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月8日",
+  "publishDate": "2026年7月9日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "6省“争抢”比亚迪：中部省份占一半，但最有危机感的可能是四川 - 新浪财经",
+      "title": "中国汽车三大件是什么？燃油车vs新能源说清区别+FAQ - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "AI just supercharged the race to find r…",
+      "title": "New AI model reveals how neutron star m…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:16",
-          "title": "6省“争抢”比亚迪：中部省份占一半，但最有危机感的可能是四川 - 新浪财经",
-          "summary": "6省“争抢”比亚迪：中部省份占一半，但最有危机感的可能是四川 新浪财经",
+          "time": "08:10",
+          "title": "中国汽车三大件是什么？燃油车vs新能源说清区别+FAQ - 新浪网",
+          "summary": "中国汽车三大件是什么？燃油车vs新能源说清区别+FAQ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNDczLXVUV0xqaHNLdnpiUTdpYXY4RUpsQ0dNQVo1WExFeHdIc2hPcGVZWmd4RE5ieTNTNlExUW1UTU9CS1VOMVNOYlluLWVXTHprY0U4Vnp1aGV4dEdZeUN1RWxZNDdjRXVBeXpPckEyVUFmc09MOE1IQjJYakRId1Z3c2lZNm1nZXFnZUg3N0RLRTdkdW9BZzNYNE1LeWpTZnBma2M5Mk0tMHpDWUZzeDlB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45ZGUxX1BXWVVqc0FjMVBVT0NMTHhoTm1FbkpqRE9VODNKWFQ0V3NwTWlReW03VUlfX3cyZjhmd3FXQ3Brajg2c180bjhhY1VMeV81UlhPbXpLdUJFV1pUNDBaa25tUktzd0JnWFVKSzdxdw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:08",
-          "title": "2026年新能源汽车 销量有望达到2000万辆 国内渗透率57% 新能源汽车2026销量 - 新浪汽车",
-          "summary": "2026年新能源汽车 销量有望达到2000万辆 国内渗透率57% 新能源汽车2026销量 新浪汽车",
+          "time": "08:04",
+          "title": "新能源车充电，开空调到底伤不伤车？真相一次性说清，尤其是夏天 - 汽车之家",
+          "summary": "新能源车充电，开空调到底伤不伤车？真相一次性说清，尤其是夏天 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13aWNvSklzMUZvSmpXSWw5bkFMQ2dVclVZNlJFS0o4d3FyYUZ3b09sVDhZSTNUQ0wyVVRpUUUzZXVyeDJDY284b01XUmVhdTRrNkoxaXBhMEVLTTVpdHJQU0hHbWlNT3hMM0xqdm01MG9PVkYx?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YbkdxdjFUNkJpUHRZNVBmdGVhWTctZUFvcGIwQlZselYyaHJuelE4NU1oRGlWczczVDNSOWJvQzluQ2VoSVotN09zVk8wREtUZFVTRmlTaVg1YXM?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "法国世界报 - 中国：人工智能已成为珠三角制造业新一轮转型升级的重要工具 - RFI",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOVlEzN1ZPTGFtd3hnMVQ3UG96NTZUaTh2VXhraGRTNlJuSTRyaGZFbzBUOEZNbEJPRUpvSEh5dHlIcEtsT1BWa284OEtGZW9yN21ZZU42WFdZT002Zk1HenNQM0ozMDU0QkVVVkFBdnc4M1FYNXF1VTlFVW1nbG0wZ0t4b1o4Y0JMUTZwOXQzakdyZnpxVm5hMlBYd1pwY1ZNbXlVbzhjUEpGb05ORkxHUTV1STZIV1AyVEx6Y1NUdXBWMHduc3oxMTREVUFlZ01UNlFBSGhCYjgxV2hscUdjNE8zdWNoUXk4ZTRtYzFwVDdockxvTnZOXzZVQTZLWHgwV0lqeUF1bFVuV2IwMmlzQ3hLMUVHVGljLU5FNEhENW40TTVPNkF4ZXh3NmlsMTh3RTQ5TUdSYUkzUl9KWkZYMmlfMkhHOVBCaVp3VHVyMW0tOTQxNEhQQkVRZEJiV2VrREs4QlNRZ1JXam1oVmxDbkZsYVBHNnVYR05NQmpvZlAxTC1oSUZ3eHBLVUJuOGhlRVlYN2NOekhkVlRBRXM0OUF2aUJHYzd2VjFRYk9ZV3ZRZ1Q5ZmVXdzJQclFCRkZsRDJxWG51a2RvT2pCV2w3TkZlMFZmb2RJek9XUTNUWnJ4OUhNd1B0UkxocWxTd1ByTjUtRHQxQ183UQ?oc=5"
+          "text": "险企探路“车电分离”承保新模式,有保费直降30%? - 新浪网",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpZDVqam40NnZ2XzZuZWhsQlMydUdOYWZoYnVsT1NBQ01LczRJUzJrVHlQMFhsMkhLRHhEVHdlbFIxbnZTU09seVJHa2FCeVhoWWJDT2g2dnJkeTJmbGJGU09VNHEyMVhoZ2JBeTQ3bHUtZw?oc=5"
         },
         {
-          "text": "《新能源决策参考》！ - 新浪网",
+          "text": "车船税征收政策明年调整 新能源汽车发展重心转移 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fRHN5YWlNM1JxZE1SemxXZlVPSU9rUVdiNVVLbzhtNzlGdEI1NGtzcWRFcWJlYjBVOFVrWXlHQ3JOME5IWTJqY2FaelVwSm11TjlCclduSjhjckNJcjl0VmtQY1hMV3Z3RkJmTjFZNFFmUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVNzMlNzUWczOHdrdDZ4QkMtaEFmcDdTWkRFWGZBblZFSEEtSkxQSXlkenJFWFNPS1ZmWWtCNFprWWlXY25wMGhQQllZaHk2Tk4teGRUNkJWcllfSUwycFIxT3hqUXRSV1NicmMzLWZFNWdITjNORXNkWW4zQnRIY1loSExtdk1ncERPajh1dw?oc=5"
         },
         {
-          "text": "新能源与AI需求拉动有色行业利润大增 上市公司盈利显著修复 - 观点网",
+          "text": "@重庆新能源车主：办理充电桩可“刷脸”申请 - 重庆市人民政府",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LaGpvQjYtT01tTUl2bDVISTFkU3loa0RBRHJhb0Z4Mk1yTXlWRjdqLVREaWppM2NYVTJxTzdKLXU1Xy1FOGw0cTMwTTl1Rm5lblpkX0tXLUd6TUQ2X3piU0lB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3VVBBeU9tdFdVaXpoXzJNNkxkbTNDaDIwQWxKVFl2TzExYjJXd3dsbmxNYXF4anY3aG53WGg4OG9FTDlacl8zWnV4WXdVcklvZGZ3TXctV0dHYkdMSm5HNE9LVkZQSFZLQ2pNVzgzbk4tTWky?oc=5"
         },
         {
-          "text": "重庆加速打造便捷超充之城计划3年内累计建成超75万个充电设施，满足超200万辆新能源汽车充电需求 - 重庆市人民政府",
+          "text": "车船税征收政策明年调整 新能源汽车发展重心转移 - video.sina.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96b0JWYTRUQnVXcUl0bVpnb3BISzRWajZ0ZUxtVVZmVTZnQ3c1QjI5eF9uUV9rQTcwZ21ZR0xYVVctdEJoNDlqcldzM0hONDJCSm1MYVgzMXVrZlNXUnBMYTktWC1XQlJrU3UyTkFQWmVNLURD?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3c1M2p3X1pCeGJzd09VaGpJYnMyNkxOUFBhSmFhVVUwYzNaeTJMSk9FaVFtMUhyaUxJeWNiVTdUVXhTWUlrTGtMajd2RS1BZjU2akJHVzI4X2o2cmE2OVU3MFF6aXRFR3paQkd6X1o3aVJlWEFuLXRNOXZfaU1sUWV3?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "13:39",
-          "title": "AI just supercharged the race to find room temperature superconductors",
-          "summary": "Scientists have combined machine learning with quantum physics to discover two new superconductors and create…",
+          "time": "12:07",
+          "title": "New AI model reveals how neutron star mergers forge heavy elements",
+          "summary": "Researchers have created an AI-based simulation that makes it much faster to model how neutron star mergers p…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "07:28",
+          "title": "Incredible new material makes heat programmable",
+          "summary": "A newly developed material can control and \"program\" heat, allowing it to direct thermal radiation, switch mo…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "AI just supercharged the race to find room temperature superconductors",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "02:13",
-          "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
-          "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Quantum mechanics once baffled scientists. Now it's changing the world",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Tiny magnetic waves could unlock quantum computers the size of a penny",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Scientists create quantum sound device that could transform communications",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/06/260626030435.htm"
-        },
-        {
-          "text": "The Milky Way’s weird gamma-ray glow may be dark matter after all",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260619101334.htm"
-        },
-        {
-          "text": "Millions of exploding stars could soon reveal dark energy's secrets",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260621060315.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:10",
-          "title": "The foundational elements of AI architecture that IT leaders need to scale",
-          "summary": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their…",
+          "time": "21:30",
+          "title": "Our approach to government and national security partnerships",
+          "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/government-national-security-partnerships"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:00",
-          "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-          "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity…",
+          "time": "21:00",
+          "title": "Separating signal from noise in coding evaluations",
+          "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns abou…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/australian-payments-plus"
+          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
         }
       ],
       "briefs": [
         {
-          "text": "MUFG aims to become AI-native with OpenAI",
+          "text": "Helping K–12 educators build practical AI skills",
           "source": "OpenAI",
-          "url": "https://openai.com/index/mufg"
+          "url": "https://openai.com/index/k-12-educators-practical-skills"
         },
         {
-          "text": "Your family’s $300 stake in OpenAI",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
+          "text": "Introducing GPT-Live",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-live"
         },
         {
-          "text": "Achieving operational excellence with AI",
+          "text": "The foundational elements of AI architecture that IT leaders need to scale",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
+          "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
         },
         {
-          "text": "Building the foundation for an autonomous enterprise",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/02/1138433/building-the-foundation-for-an-autonomous-enterprise/"
+          "text": "Australian Payments Plus moves faster with ChatGPT and Codex",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/australian-payments-plus"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:00",
-          "title": "Brain-Inspired Light Sensor Could Speed AI Image Processing",
-          "summary": "A new type of imaging sensor inspired by the functioning of the human brain can detect light and store data a…",
+          "time": "18:55",
+          "title": "Chip Industry Technical Paper Roundup: July 8",
+          "summary": "Schottky barriers at Si/metal interfaces; agentic HLS; probabilistic memory for edge; agentic HW design autom…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/hybrid-phototransistor"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-8-2/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:08",
-          "title": "Photoluminescence Inspection Is Changing How Manufacturers Protect Yield In SiC And GaN Devices",
-          "summary": "Detecting subsurface or crystalline defects that directly impact electrical behavior in wide-bandgap material…",
+          "time": "18:00",
+          "title": "Stacking Chips Sideways Gives AI More Memory",
+          "summary": "GPUs and other big AI chips just can’t get enough memory. Today’s datacenter computers stack DRAM 12 dies hig…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/photoluminescence-inspection-is-changing-how-manufacturers-protect-yield-in-sic-and-gan-devices/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/stacking-chips-sideways"
         }
       ],
       "briefs": [
         {
-          "text": "From Data Accumulation To Data Activation: AI-Driven Data Feed Forward For Chip…",
+          "text": "Unifying Software And Semiconductor Development",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/from-data-accumulation-to-data-activation-ai-driven-data-feed-forward-for-chiplet-based-test/"
+          "url": "https://semiengineering.com/unifying-software-and-semiconductor-development/"
         },
         {
-          "text": "The Test Cell Ecosystem: From Tester Performance To Production Outcomes",
+          "text": "Field Guide to DDR Signal Integrity Analysis",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-test-cell-ecosystem-from-tester-performance-to-production-outcomes/"
+          "url": "https://semiengineering.com/field-guide-to-ddr-signal-integrity-analysis/"
         },
         {
-          "text": "Multi-die Testing In The Field Must Build On Established Test Methodologies",
+          "text": "PCIe 7.0 in Practice: Design Considerations for Storage, Networking, and AI",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/multi-die-testing-in-the-field-must-build-on-established-test-methodologies/"
+          "url": "https://semiengineering.com/pcie-7-0-in-practice-design-considerations-for-storage-networking-and-ai/"
         },
         {
-          "text": "Inspection And Metrology Catching Up For High-Density Fan-Out Panel Packaging",
+          "text": "The Ultimate Guide to PCI Express: Specs, Features, Use Cases and PCIe 7.0",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/inspection-and-metrology-catching-up-for-high-density-fan-out-panel-packaging/"
+          "url": "https://semiengineering.com/the-ultimate-guide-to-pci-express-specs-features-use-cases-and-pcie-7-0/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:28",
-          "title": "2026豆包GEO代运营优化靠谱服务商TOP3测评：九维筛选模型与全流程SOP深度拆解 - 凤凰网科技",
-          "summary": "2026豆包GEO代运营优化靠谱服务商TOP3测评：九维筛选模型与全流程SOP深度拆解 凤凰网科技",
+          "time": "01:18",
+          "title": "张江高科：公司将市值管理纳入公司战略顶层设计 - 东方财富",
+          "summary": "张江高科：公司将市值管理纳入公司战略顶层设计 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA2dGFSZDJpR1M4QVlnRVc0OERhYlhkZGlwd1N6MTNzVk8xbHRIQUVudFNieFByTWNBOTl2cFBHU1Zid051NXdZNERkQjY?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14bWVmZVpHNEdWV3pfeDhoWmloSk1HS1lfOS1FVGNneDFrUU5GZ2QtS2RZZEctSEdDeWdzQkc5SG96akoxQUd1WnN6RmdPdVVqRWRuOXk2blpPUnB6d2lFcw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "20:16",
-          "title": "中国机械工业企业管理协会专精特新工作委员会成立 - 中国科技网",
-          "summary": "中国机械工业企业管理协会专精特新工作委员会成立 中国科技网",
+          "time": "19:58",
+          "title": "调查：面对重大风险 新加坡企业展现全球最强供应链韧性 - 联合早报",
+          "summary": "调查：面对重大风险 新加坡企业展现全球最强供应链韧性 联合早报",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wWWl1c0NzOHlYMGRNakRNT3VrdExBQ2liNTVWX1VqVVBoSDFSZXktVC1GZ0NXeVJFWkYtN1hHTlVCVnpIamZvTmUzbWhfUDlrM2pnY25wZm84ODVFaHVWMk9LdXBLRTNjUmVpRE51dkU?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54TlNUNFpnYW0wNktxUnZfOXV0R1ZMZkpLaERNUzJnR1RORHYzSWEwR3JCaVRUdWlNUGVRQ1VKbkhiQzduZzdiOXJKTmhuZzdJdDBqVUJSX3JxN21GX2dyekdHcEk5SXVFYjJ4UXB4dGI2THM?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "遥望科技：云南兆隆企业管理有限公司质押1025.00万股用于融资担保 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xbXdvZTZ0Rm5RYWtJazMyMmw1aU95RjJMY0k1WnBjaWd1UzlaQ0VxZmtSSzVyOFNPSEZhWXZYS0VsQVJKSGJaTEZuWnZrWEJsLW9XbWZWNWxyTWxmR3ZNT0ZBaTY?oc=5"
-        },
-        {
-          "text": "国城矿业：杭州吉城企业管理合伙企业（有限合伙）持股比例拟升至5.00% - MSN",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiwARBVV95cUxQZjFrVWUwSTdnamsyUVVzNWtUdXdjZkx2U1ZPVVBqYlZXYjhkTmQ5Z3RhamtzUXRFcHV5cmluUjdZY3FQQVhaQmlHWFh5dmZkVGVWVzdjbndTckJ6TUNxakowcGxCMzZOSWZoVDNPVzJId0ItU01XWjV1ZGpkblZEV3pyUWpfOFhQRkVqbXd0MGpPQVRDVnpEYXZjcjVXcWN2ZDdFRC1jYW4zZU02YWpvdl9FY3dnckdBR0stTXZVYXFsNjNaUjhjcTRJS3pCaS1EUWdSakFmekFEc1VyNFpnS2x2bFRBRmJCcGw0aXZtMk1KNUgta25DZktQdkJabS0wdC1yYjRHTU5pQlBKTDQtYWo3N0hxQ3lHYUlrTnlfMjdidHNuUmtodmEyVFFHRE9BaXA3R0NlczdDU0g0dzc2TEtHWkZSZENXNDhoQUlXemFFVS1VWTU4ZF91MHBuUEdxbTVnM3hSNWJkWldwSkF0TVBDSjFlTlUtdkdtYVRIekhKN19rU0VDdzVIT1B5OFBubUx2WGh4NThfQmR6RU5mb3QyQ0NicGN6cVVFajdfVXhxMXg4UmZpTHFTLUtFeUFsdFBVWW5sYi1OM3AybDNoMW01U05DZklvSkpvdk9VSVFzY1lyNjZmSXBNMFo2S0RNZWJFcDg1WkZJeFU3b1Y2ZGo2ZGxGcTJVbVhCdzA4MVQ1c0oyQnB3eENiWFJyWWJtUkNtbXFYVEtiVU9wdjY5aE5BZVBHeW1sZDd4dUFFbEw?oc=5"
-        },
-        {
-          "text": "AI + 核能双轮驱动微小型铅基堆提速产业化｜合肥龙启未来发布全新企业战略 - 中国日报网",
+          "text": "元器件供应链韧性升级：自营直供模式助力企业平衡保供与成本 - 新华报业网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XSWpkNFFWUEFDS2wyUTRQVkNkSy1fRzl3THlRSF8wUG10SnhNMU1EM0hWcTdaVE5TclJuc3J6b041Z3owM29RbnVHUjdFbmdFb2pKU3dIeWo0allQenBNa01NLVU3Y0F3SUxiamkwRGdtdmh6YW5KeE14M18?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QR3FXaFZJeWJMQURDYWhPNEFyMWRLcHZ3VnZBb2VqYmNZQnBlYVJrOGVzUDJ4VkFZOVlDaEpjQVhxNG5POHM5OWltazdKRUR6dkcwWjAxMHpocTc0ZEVnQTQ1TUtFbGhocEVj?oc=5"
         },
         {
-          "text": "进口政策调整引发澳牛涨价，零售终端供应链韧性凸显 - 新浪财经",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9hLWlFX3ktZEJ5QTE0b2dTQV80cW42ZF9GSS1XbEExU2tHY3pOY2hYNGpYS2k5SzNvRTJPNG9PVHRyRzAzV1Yxa0lMZDFRUW9yTmcxQXlNWUhkcmVWYjVXUlN5VnNhRGR0V3ZlNzdNM1c2M2NHUUFiSQ?oc=5"
+          "text": "毕得医药(688073):股东权益变动触及1%刻度的提示性公告 - 中财网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OcUJRWHNhMXJVc0Jicm05SVMydWNnZ2NSX3Zqb2h0MldMNlpCbzBUMEFpb1NfQ0pxdm9kaGJzTDRQVXQ1X184cWV6RTMwOW1LSTFJVnFn?oc=5"
+        },
+        {
+          "text": "资深企业管理专家吴泽民先生系列对话三：经纬七维整合理论的价值、落地路径与实践 - 中华网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zVW9ZbzRRUEQ4YjJXWEw4Qlh6enlkQWVUYVpxQ0h6eThYYmhOSmVpQWpPbGhyWmdvaXZKTnZCa2g0MVFRVkhGbDZtYkVnQ3ZHSTJwRzNuVHFvWHRXTmQyTXNEY2phcFJPS1J2aA?oc=5"
+        },
+        {
+          "text": "天山股份：公司管理层始终关注公司股价表现 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NSkswTUtFY0owWVlqbERpeEtmTy1weWJVTS0xTlJZRUtiY25oTGZIUTFTZUtIT1VVSlhybE1xYnR5LWt3aFdqcW12NWJnd0wxc0RlME1mSk5mMW8yeU1ETw?oc=5"
         }
       ]
     }
