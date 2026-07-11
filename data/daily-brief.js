@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月10日",
+  "publishDate": "2026年7月11日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "新能源车“集体发福”，一场危险的重量军备竞赛 - 网通社",
+      "title": "25万到30万新能源SUV,怎么选? - 新浪汽车",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:07",
-          "title": "新能源车“集体发福”，一场危险的重量军备竞赛 - 网通社",
-          "summary": "新能源车“集体发福”，一场危险的重量军备竞赛 网通社",
+          "time": "08:05",
+          "title": "25万到30万新能源SUV,怎么选? - 新浪汽车",
+          "summary": "25万到30万新能源SUV,怎么选? 新浪汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWbEVycUNaVURYS1VBVzBZUmVnZnJtRVdaY2d4RjZtVUJqSG1ueU54eG9qV3BmM3htamx1ckV1YkY5Vmc1SVRxYloxYlZmUjQtWXhJc1hKLU1sY2s?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zTkhqRE5qUHpodE5IbXcyZVZmX2RRZ1pFRFdZRHVuMzF3NXc2eVB3WnIzLTJNcVJiVVZ6S1d4RlpTckNqNDFrRzdOd0twY3cycU5kOENBMV82Y3dUSlhMZTJYUFJXNnNQWFRJMWln?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:03",
-          "title": "【盖世快讯】比亚迪第1700万辆新能源车下线；6月汽车出口首破百万辆_车市动态 - 中金在线",
-          "summary": "【盖世快讯】比亚迪第1700万辆新能源车下线；6月汽车出口首破百万辆_车市动态 中金在线",
+          "time": "08:05",
+          "title": "威兰达新能源和本田CR-V哪个性价比高 - 新浪汽车",
+          "summary": "威兰达新能源和本田CR-V哪个性价比高 新浪汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCekluVExpeHZ0WE1na05PSktJUlJOZVRRVHp0NXJBZXFsb3NEZHRDUHA1aS1sZXNqT2Y0S2JHOU1pRWlDdzduOHE5MFZzZnlhWjBJeUUwRlluLUpBemdsZS10cVBIZDJ5RkZJ?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mWm9oZnpjWW9QeXotdEE3djhjWTFneEd3cFVQOXdRMzFyMDJPME03aDZRckdLV0RzT3lOTHB3OE9UUFRWZWl4TFpoOE45MHFuaXppU0NaRk1sM0tyWFJ4WXYyOTkxb0twTEUtRm9R?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "中国汽车市场“期中考”揭晓 - 新浪财经",
+          "text": "油价大降,买新能源车的人又后悔了？四年电动车主,一语道破原委 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQzJLTTYtcXcwRVVWUFpWQ3NNTnJQT3ljU201TkhmNVBSVkVEcV9FZ05zcmxLb1FBVlNsd1VNZHdnam8zellKZTl2TjhCRm9GY3Ztb3JLQXlkdkpBaVBob2l6RlRLYVVFWXRTeDVhRGFDdU9HaExIQm50c3lqeTJQOUN1UlNvSFlsT1VkbHBMQW5UeExUdFJTaDgzRzRrRmJDOVhwMFlEcWc4bGJiSkpXbVhBeDV2U29OWGZLcnhZTmZoRzhRRjVsQ01NZXp5TXhMZW5mdVl1WlBCdllOaV95NFZ4cGgzVmdvTS1ldGF1dVVoQ3VWekVYdFhWSllxYW5vTHZkMmxSZ3M5YjV6?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03LUFNLWRyVDdzc25Wb282NGltUkVNVWt4NG9xN1BCMDRraWkxUnd6WXNNc3BQa0pWcWRETEMxVDJod0JMYkkwY2xFVVl1NW8tc3p6Ry05cUdIUTA?oc=5"
         },
         {
-          "text": "涉嫌违法！新能源车外挂电池乱象：7千元170公里续航升至300 怒省4万 - 驱动之家",
+          "text": "新能源重卡出口升温 我国新能源重卡加速拓展海外市场 - 经济频道",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fMmQxS25EZ2dFSUJhODVUUVcyWll5RkV0T3V5OWk0UThzeUVMYkRwTlZmaFpuMDEtTE9ycDN5VjRpWmg0YnM3NjEtaGV0SlZiU19zakYxd2o?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lSE9xa1BtQkRkZnJoNUxyU1NrZTFLcHFVRkd3NkQxazNQRXdVTG15emRrQXZGaUEwcXV5YlpFakRYY280YThGNHdOU0c2OFJybDZGdnJDc2ltWUdqUG5pNGd2LVp5bFNQWnNMa2YxTGxwVkJBYW9jSm44Yw?oc=5"
         },
         {
-          "text": "新能源汽车出海“新浪潮”：产业链本地化实现多赢 - 新浪财经",
+          "text": "新能源汽车产业版图加速重构 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVC14TDdHbjFySDJ2RkRDYndRQ1l6OU5ZcERRZmpyNjVESHB4TE9tNWRmNVBIX2dvWG5HLVZid29oUE5lMGs5aXZtTTBpRmhGcTZfRWF1dHNheDR3TUtlaHZDY3A2X0ZPZkZHM3ZPaGgtU1lYN1NCTGo1NHVZLU5Lb2lOamFCbzZYVWlIbUxRNUZYQTl4RVpaRU44VVJUMm5xNTRUNU1wZ0lxNnRlbDVCdzF3QVU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DWlZwSnJwRmVXNEswTmxncWVKVnJwclVZR1BFbHIzWXVObzRyWGtYTkxfUWN4RUQzNGRPclVIa1NCT2RwaDBmcXBuRHBBclhHUmk3REl1UTlrUV9Mc3hNdUJTek9vNllzcmZRem1vb21GX3dabUhpTg?oc=5"
         },
         {
-          "text": "从IMF报告中的“一升一降”读懂中国经济的韧性和活力 - 新浪财经",
+          "text": "历史不会重演，但会惊人相似：新能源车，正在重走智能手机的老路 - 网易",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOdzFqNERvYmZDX3lXUmRCTVNiZ09zQmN4eHVYdVMyZ3Y3em84ME5KUE1KRVA1TkpQSHV3Z0g0MlJzdDFtd0R2U0NlMndLRzhDRUR1Zk1lbExpQW5rU1g2c3g4ZXdvSVlsb25qVndJU3hKOFloeVJYUnVYMEU3Rk1VRUp0cTVfa2lXd2gyb1lvY0JtTjVsRHZQQmlJYURaVE44LW9udXZfNFRCVi1NRkQ2cV9yc0JuWWg1NGszYXVybDN3aTRpRGNHbkZuZnRMTWJQSmxNVEZCNEViOTVLdkcteFgxYzJRLUFzUHZHbXJ5OWpEVXQwSTFfNnlyQU9MZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzV0h2TU5FTzJVY0tiaE5QTGk1Wnl0U2lsVkEwVE9RakJteUhGRFd1Yld5RkRKRjN2OVNjdTJ5LTQ1LTV2d2I5UmhXd3dPMTJXN0hIR1hRZElXZlJQMkllRWJB?oc=5"
         }
       ]
     },
@@ -170,24 +170,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:00",
+          "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+          "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workf…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/deutsche-telekom"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "04:22",
           "title": "Anthropic found a hidden space where Claude puzzles over concepts",
           "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really g…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-          "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint,…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
         }
       ],
       "briefs": [
+        {
+          "text": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
+        },
+        {
+          "text": "GPT-5.6: Frontier intelligence that scales with your ambition",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-5-6"
+        },
         {
           "text": "ChatGPT is now a partner for your most ambitious work",
           "source": "OpenAI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "GPT-5.5 Bio Bug Bounty",
           "source": "OpenAI",
           "url": "https://openai.com/index/bio-bug-bounty"
-        },
-        {
-          "text": "GPT-5.6: Frontier intelligence that scales with your ambition",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/gpt-5-6"
-        },
-        {
-          "text": "Our approach to government and national security partnerships",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/government-national-security-partnerships"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:01",
+          "title": "Chip Industry Week In Review",
+          "summary": "Micron ups US investments; Apple's $30B deal; Solstice's buy; onsemi divests; diamonds for inspection; fault-…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-146/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:08",
           "title": "The Architecture Decisions Behind A Production-Ready EDA AI Agent",
           "summary": "Building an AI agent that works in semiconductor and PCB design requires solving problems that generic agenti…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/the-architecture-decisions-behind-a-production-ready-eda-ai-agent/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:07",
-          "title": "The Expansion Of LPDDR Into Edge AI Platforms",
-          "summary": "Characteristics once primarily associated with extending smartphone battery life map directly onto the needs…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-expansion-of-lpddr-into-edge-ai-platforms/"
         }
       ],
       "briefs": [
+        {
+          "text": "The Expansion Of LPDDR Into Edge AI Platforms",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/the-expansion-of-lpddr-into-edge-ai-platforms/"
+        },
         {
           "text": "AI Is Rewriting The IP Playbook",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "Where Does Quantum Computing Stand?",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/where-does-quantum-computing-stand/"
-        },
-        {
-          "text": "From Host Node To Heterogeneous Rack: Rethinking The AI CPU",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/from-host-node-to-heterogeneous-rack-rethinking-the-ai-cpu/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:12",
-          "title": "航天晨光：公司管理层将全力推进扭亏脱困各项经营举措 - 东方财富",
-          "summary": "航天晨光：公司管理层将全力推进扭亏脱困各项经营举措 东方财富",
+          "time": "03:40",
+          "title": "中科金财：公司管理层将一如既往勤勉尽责工作 - 东方财富",
+          "summary": "中科金财：公司管理层将一如既往勤勉尽责工作 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PVWxPc1QzdUhZSjF1VGFHTVhJMDg2alBORzMwREZWa2hMckQ2SFdMUHZ1QTBBVDVQbnozVzA5S2hTYVI4X3NKck5HWG83Rjh2Rjk0VF9mX0RBUlNaZllVWjROdTIxdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFdHROSkdHTTM1a19zSnlTNW1KMVFjSjA1SlpMRG5RY1VqUFpMNDJqeXhSbmd5aUZZVGplLXJGVndHS3NqdE1HNl92RVRmOUVmTkU0djJhZnU0SGZ1bElsZ0tkSENXZw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "05:19",
-          "title": "CORPORATE STRATEGY OFFSITE SPEAKERS TO KEYNOTE AT MEETINGS & VIRTUAL EVENTS - futuristsspeakers.com",
-          "summary": "CORPORATE STRATEGY OFFSITE SPEAKERS TO KEYNOTE AT MEETINGS & VIRTUAL EVENTS futuristsspeakers.com",
+          "time": "00:16",
+          "title": "中国宝安（000009）股东韶关市高创企业管理有限公司质押1.68亿股，占总股本6.52% - 搜狐网",
+          "summary": "中国宝安（000009）股东韶关市高创企业管理有限公司质押1.68亿股，占总股本6.52% 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQTgtYWJWZEh5NGJFaHF1bmluUDNjMG1YVkQzakJmYjNrelR1d1g0VWVVbTNkbE1pMDVUWWhEM3E2MnlrTkdYNVRGeUVra05vTHA2M1VRempGbDJ1ZHJTU2FjR2ltZ1dveEl2Uk5HSkNwMy0wOXlHR2hVOG9fajQ1Y0xta0U?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0tIYWNzSm45VDdYVXhEWlNVdWd6X1FTMkcyb2VjUEZRVmRYSWMwd1ZGQlRMUHI4Q29ZMDZnekZVMW5NQjNWNkhEcG1CZWdacDBYb3lTWGdMWjB6UjBtN2wtUnpwOHJVT2EwZTItS3VKVGZKc0t0SmpBbGJfYnU1SEFkTzNqU2RC?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "2026年个人所得税及移民政策更新：影响中国企业管理层及员工关键变化 - KPMG",
+          "text": "慧辰股份股东文昌琢朴企业管理事务所（有限合伙）拟减持106.3万股套现4327.54万元，此前已累计减持141.65万股套现4777.46万元 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDBwLTh1WXFNMDFONzd3dnNxWHdidzRpTUFhOUZaY3ZJMUdxYnMyQ0ZKYjJ1dFhQOTloaVRObVN4ZGR2cFNfSzZJOTJ5cFBzQlNGOXgtZ3ZQRmNJN0dDal9FVzBLMHBGTXFxTy10NjNENG5mMWg4Vzk3alIzdU12dEs1M1BIenNValJVaXc3cUNkQ2RsQ0hYTWY5Y0VEbXA2?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMm9vTHhIWEJHOE8zc2p4amJsRkFkSDkzczZOREJjZ3FjUEdjazJobzhZYVZUWVFadkVSa2VqLWJOZXB1aUJkaTAtb1BCMktWNXU3R2NuWDc0eDFkS0N1UURXUEU1dTZkUXdzaU92U2l0aDVSU0Voc3JfUHBUR2hVYjVyQU95ZTdDN1E?oc=5"
         },
         {
-          "text": "特变电工：公司管理层会持续做好四大产业协同工作，用良好业绩回报股东支持 - 东方财富",
+          "text": "五方光电：公司持续践行公司战略目标，推动主营业务稳定发展 - 搜狐网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDRyNW0xc1hwVk9VT1BIWldrNk54NjQtLUFURnhVUDZZd3E5QXIyaGJMaWhVS25iaGtvaklTRFBNblBJQklKRHZuZk9adzRGZktXN1lZdm5QTlVCNHFFNDlYSjdocXNsS0V6WUJTLVVtNEQ4VGhyUG5xTjFaWFJlMnliT1ZzMzFuU0VKNw?oc=5"
+        },
+        {
+          "text": "刘萌：“金融强企”秘诀在于将ESG理念纳入企业战略和实践 - 搜狐网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEMzaW9aOHE3bDlZaVVjRzBWaGZRYUZWM1BJT1lYNFdtV205aHBTcUV6TDNNcE9oRnFCOVZvYndXaW9pRGdsRUJUX0FDNy1EZ1Y5ajlpb2NxV29NS2hPNlpHckh6WEVtUXFYTUdnVDRzMWsxb1otRVdZQm5ULU0zQjMzVjJnUTZu?oc=5"
+        },
+        {
+          "text": "河南伯优企业管理咨询有限公司创始人代运超 - 中华网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB0cFBNNWsxd1NCLXh1SExXVVNuTlE1MEtNblVURkcwSjQtTlZkVkZDOVg3UjNHdkhPd0tmZjJySTJIbXFjOW9QeW45cThNblZQRDFzWC02aDBQby1wZHJZTURib0xBdw?oc=5"
-        },
-        {
-          "text": "和而泰：公司战略性参股了医疗实验室机器人等核心部件领域的多家企业 - 东方财富",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90VUZPa19YS2Z4Rk5nUUl6d1MycFNSc0ZxZ3NZMm1KbnpocEFKTXpWTG5LdFRkeDNkWlFYUW1JaWtFalJRNVhkclZXdVdtNzB5bWZrdXpnZGxEZmpYN2ltRw?oc=5"
-        },
-        {
-          "text": "关键矿产、半导体与跨境支付：花钱堆砌的供应链韧性昂贵但无效 - NAI500",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMmJ4U0hLbC1tc1BIVm9maXhUd0V6UVJTQi1Fbjd3d3BadnR3RHI5X2VsazhlTFlkZlN1d1lwd3N3alRzSndDWFZVSUh3SEhDT0MtR0dUVHJIRldycVE4WmROTWpMLTRLcWxkRllYR29FTFRfMW5YWWRkMDJJZEdKWmZ3VXp6YUVGZHBuZUcxdXBSaDlWNm9COTgwMm1PcF8xSDhMVHE5MThteTJ2T3I5TGxrTVFMUFRST3QyTTNNRGtieUsxeGJXbXkzWFNzLV8yRWYyUVc2VzBUUFdTQXhYTjd3aDYxVzl1SWhtQ2x1aUxRanJzWE03djVqQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZ0FfT0VTTTVuWWhZSzFTeWd0SnExNWowdDlJcE9JLXJpRHVsMGI5TW84YWY3RmVvdDRFUEk1VnVlSkwwdjBMTHFiWHFqZFljZWdjcVp3WXNKdTJQWnc?oc=5"
         }
       ]
     }
