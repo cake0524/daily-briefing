@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月11日",
+  "publishDate": "2026年7月12日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "25万到30万新能源SUV,怎么选? - 新浪汽车",
+      "title": "【视频】新能源降价潮入手？还是等？ - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Harvard scientists turn a silicon chip…",
+      "title": "Physicists finally build a quantum mate…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Diplomats go virtual to witness Gaza di…",
+      "title": "‘We face a new ordeal’: Gaza's search f…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:05",
-          "title": "25万到30万新能源SUV,怎么选? - 新浪汽车",
-          "summary": "25万到30万新能源SUV,怎么选? 新浪汽车",
+          "time": "08:06",
+          "title": "【视频】新能源降价潮入手？还是等？ - 汽车之家",
+          "summary": "【视频】新能源降价潮入手？还是等？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zTkhqRE5qUHpodE5IbXcyZVZmX2RRZ1pFRFdZRHVuMzF3NXc2eVB3WnIzLTJNcVJiVVZ6S1d4RlpTckNqNDFrRzdOd0twY3cycU5kOENBMV82Y3dUSlhMZTJYUFJXNnNQWFRJMWln?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbFp2emFpRVRka2lfSXZyQ0g4a2hQdXBXOFZHYzlJbU5lMm5JUklnM2h3Y01SWXBiNkszQU9scTVnYS1fQWdBeUNKQmNJd2VhN1huRXAzbTVwYzA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:05",
-          "title": "威兰达新能源和本田CR-V哪个性价比高 - 新浪汽车",
-          "summary": "威兰达新能源和本田CR-V哪个性价比高 新浪汽车",
+          "time": "07:53",
+          "title": "五款40万内插电混动SUV推荐:越野与家用兼得的全能之选(全文)_坦克400新能源 2026款 Hi4-T_汽车 - 新浪网",
+          "summary": "五款40万内插电混动SUV推荐:越野与家用兼得的全能之选(全文)_坦克400新能源 2026款 Hi4-T_汽车 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mWm9oZnpjWW9QeXotdEE3djhjWTFneEd3cFVQOXdRMzFyMDJPME03aDZRckdLV0RzT3lOTHB3OE9UUFRWZWl4TFpoOE45MHFuaXppU0NaRk1sM0tyWFJ4WXYyOTkxb0twTEUtRm9R?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1Z0k2SXFhN0FuVldyOVo1dm1LZzR1d1hPZ2FyWkpOQVJRdVBNRUNuQVZiMHpELVd6aWo1cmdYTU1iRXJYZGU0ZHNMNksySklwTW03QmJVa3EwTm4zSWg2OVJ5TVltcElmOHprUmFTNHB0Zw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "油价大降,买新能源车的人又后悔了？四年电动车主,一语道破原委 - 汽车之家",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03LUFNLWRyVDdzc25Wb282NGltUkVNVWt4NG9xN1BCMDRraWkxUnd6WXNNc3BQa0pWcWRETEMxVDJod0JMYkkwY2xFVVl1NW8tc3p6Ry05cUdIUTA?oc=5"
+          "text": "2026全球数字经济大会中国—东盟数字经济合作闭门会召开 - 和平日报",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQOURzQmM5dXZ3emJIcHJzT2h0TGQwajcwem8xaWZJZVQ5TDUyT2xtaHFHT3lJdDJvRFZPcElRM0o5NjgzdkRVNFZzWF9tVVA0Ylg3OHN4Rjg1ZVF4YjNiNmZpYXVyZ3N6QlpSZXQ1VjlXd2ZPMHdfUUxiRGZ3Ti0tYlBYNGJtZTZITU1GNHVseTRtNnN0WWNLeXJwWmhfWHB1QnVPMGhLc3NLeU0yNDRRRkY2bXlFZFUzT3NYX2pXU2hhXzU1WTBFZHJXZFZjTV9DYWJSTFp6eG92S2NEZWVxYWNwWFBxaUpkYUU5Sk9RWDB6ellhNERVUFhKTnc5blY5cnEzdVNQdTE1N19TZVROTHV5LUE5S045YV9YNC1hVXZzUEpxYndKVDl4WHJ1d2J2enhrMVU2QWNnNmxuYmo1bVViMEhwSzZRd2lmODZR?oc=5"
         },
         {
-          "text": "新能源重卡出口升温 我国新能源重卡加速拓展海外市场 - 经济频道",
+          "text": "备战2026：新能源重卡电池板块的变革、机遇与破局 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lSE9xa1BtQkRkZnJoNUxyU1NrZTFLcHFVRkd3NkQxazNQRXdVTG15emRrQXZGaUEwcXV5YlpFakRYY280YThGNHdOU0c2OFJybDZGdnJDc2ltWUdqUG5pNGd2LVp5bFNQWnNMa2YxTGxwVkJBYW9jSm44Yw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVX1ZHMFZhVHZXaG5KNDh4V05iMVBOQjRkdVRENUtRRWU3NHlrdXlpLXl1WXNrS1BfbzZfS0NCQk1RMEcwM0VjWlBzbk5naDhCdzlDMTRDX2htcnZPUTBRX3ItclprZ2VnYzRxZEwxX0J4TW9kQlJJb21GRkJoeVk?oc=5"
         },
         {
-          "text": "新能源汽车产业版图加速重构 - 新浪财经",
+          "text": "未雨绸缪战台风：武汉公交充电工清晨巡检新能源公交电量 - 凤凰网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DWlZwSnJwRmVXNEswTmxncWVKVnJwclVZR1BFbHIzWXVObzRyWGtYTkxfUWN4RUQzNGRPclVIa1NCT2RwaDBmcXBuRHBBclhHUmk3REl1UTlrUV9Mc3hNdUJTek9vNllzcmZRem1vb21GX3dabUhpTg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GcGxlNVpfSTkxcmNkdHRJa0QyZ25HQmFja2JiLXhyVHh4R2dzRFEwdTItc0JKcTJ2U29JRWJPOUxfWmF6b3owNw?oc=5"
         },
         {
-          "text": "历史不会重演，但会惊人相似：新能源车，正在重走智能手机的老路 - 网易",
+          "text": "大众新能源宽体轿跑，溜背式轿跑车身，搭载双电机四驱纯电动力！ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzV0h2TU5FTzJVY0tiaE5QTGk1Wnl0U2lsVkEwVE9RakJteUhGRFd1Yld5RkRKRjN2OVNjdTJ5LTQ1LTV2d2I5UmhXd3dPMTJXN0hIR1hRZElXZlJQMkllRWJB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16dFNrbFBNYksydzJ4X2ZKbFZjVHF3ZXpGcHJBOTJsWkEyZ0p1dUpaUHFnQ0dWLXE0WGd5dGlQeUFtekNPVEFERjc3Tm0yRXNrYlUtYjFmUHRfZjdRV2FHazAtbHluQkZwS0pr?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:48",
-          "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
-          "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricit…",
+          "time": "15:03",
+          "title": "Physicists finally build a quantum material predicted more than a decade ago",
+          "summary": "Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and co…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "14:32",
+          "title": "Tiny bubbles could revolutionize inkjet printing",
+          "summary": "Ultra-fine bubbles may offer a cleaner way to perfect inkjet printing for next-generation electronics. By sim…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010112.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Harvard scientists turn a silicon chip into a DNA writing machine",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "06:31",
-          "title": "Scientists used AI to crack one of water's biggest mysteries",
-          "summary": "Water’s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to comp…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Scientists used AI to crack one of water's biggest mysteries",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "New AI model reveals how neutron star mergers forge heavy elements",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Incredible new material makes heat programmable",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm"
-        },
-        {
-          "text": "AI just supercharged the race to find room temperature superconductors",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm"
-        },
-        {
-          "text": "Quantum mechanics once baffled scientists. Now it's changing the world",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Diplomats go virtual to witness Gaza displacement site up close",
-          "summary": "Representatives from 12 countries carried out a “virtual diplomatic field visit” to a displacement site in th…",
+          "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+          "summary": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and ci…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167912"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167922"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Peak heat in Europe just broke historic 1970s records",
-          "summary": "This year marks the hottest June recorded for Western Europe and the second warmest globally, according to th…",
+          "title": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
+          "summary": "The UN Educational, Scientific and Cultural Organization (UNESCO) urged international lenders to expand debt-…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167911"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167918"
         }
       ],
       "briefs": [
         {
-          "text": "World must move faster on Ebola response for DR Congo: UN relief chief",
+          "text": "South Sudan: UN acts ahead of drought to protect thousands",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167910"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167915"
         },
         {
-          "text": "Remembering the Srebrenica genocide: ‘Fear is all that kept me moving’",
+          "text": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear program…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167909"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167914"
         },
         {
-          "text": "Use of explosive weapons ‘must stop’ in eastern DR Congo: Türk",
+          "text": "New cholera outbreak alert for Sudan’s war-weary communities",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167906"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167913"
         },
         {
-          "text": "US-Iran war leaves shipping at near-standstill in Hormuz again",
+          "text": "Aid cuts leave at least one million women and girls without vital support",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167905"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167908"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Diplomats go virtual to witness Gaza displacement site up close",
-          "summary": "Representatives from 12 countries carried out a “virtual diplomatic field visit” to a displacement site in th…",
+          "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+          "summary": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and ci…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167912"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167922"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Peak heat in Europe just broke historic 1970s records",
-          "summary": "This year marks the hottest June recorded for Western Europe and the second warmest globally, according to th…",
+          "title": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
+          "summary": "The UN Educational, Scientific and Cultural Organization (UNESCO) urged international lenders to expand debt-…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167911"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167918"
         }
       ],
       "briefs": [
         {
-          "text": "World must move faster on Ebola response for DR Congo: UN relief chief",
+          "text": "South Sudan: UN acts ahead of drought to protect thousands",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167910"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167915"
         },
         {
-          "text": "Remembering the Srebrenica genocide: ‘Fear is all that kept me moving’",
+          "text": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear program…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167909"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167914"
         },
         {
-          "text": "Use of explosive weapons ‘must stop’ in eastern DR Congo: Türk",
+          "text": "New cholera outbreak alert for Sudan’s war-weary communities",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167906"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167913"
         },
         {
-          "text": "US-Iran war leaves shipping at near-standstill in Hormuz again",
+          "text": "Aid cuts leave at least one million women and girls without vital support",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167905"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167908"
         }
       ]
     },
@@ -314,28 +314,33 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:40",
-          "title": "中科金财：公司管理层将一如既往勤勉尽责工作 - 东方财富",
-          "summary": "中科金财：公司管理层将一如既往勤勉尽责工作 东方财富",
+          "time": "05:41",
+          "title": "意大利中意青年联合会举办第十三期青年讲堂共探企业管理与传承 - 网易",
+          "summary": "意大利中意青年联合会举办第十三期青年讲堂共探企业管理与传承 网易",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFdHROSkdHTTM1a19zSnlTNW1KMVFjSjA1SlpMRG5RY1VqUFpMNDJqeXhSbmd5aUZZVGplLXJGVndHS3NqdE1HNl92RVRmOUVmTkU0djJhZnU0SGZ1bElsZ0tkSENXZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZSkxoSjJRcG1aOGI2dDFqMG96TkhnU0V3d2w5X1RqRzZVT0RhQUIwbXVMREJBbl9hdzdvNERBcE15Ri1DX2xVeW16amczWTJSdzBFMnNncXhXWE5UU2w3WUNR?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:16",
-          "title": "中国宝安（000009）股东韶关市高创企业管理有限公司质押1.68亿股，占总股本6.52% - 搜狐网",
-          "summary": "中国宝安（000009）股东韶关市高创企业管理有限公司质押1.68亿股，占总股本6.52% 搜狐网",
+          "time": "05:38",
+          "title": "达意隆：公司管理层将持续聚焦主业、踏实经营 - 东方财富",
+          "summary": "达意隆：公司管理层将持续聚焦主业、踏实经营 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb0tIYWNzSm45VDdYVXhEWlNVdWd6X1FTMkcyb2VjUEZRVmRYSWMwd1ZGQlRMUHI4Q29ZMDZnekZVMW5NQjNWNkhEcG1CZWdacDBYb3lTWGdMWjB6UjBtN2wtUnpwOHJVT2EwZTItS3VKVGZKc0t0SmpBbGJfYnU1SEFkTzNqU2RC?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUU1wOVBWalE0VXNZNmN3bFlNeFJjNEFHWjl3VGpCTUpIV3RteTFtTl9HQkpMQ1FoM19MZWhZV3JnWnRDWHRYTWxtUTNMSTREamV6cjNlYUhyNHR4OXd3aQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "慧辰股份股东文昌琢朴企业管理事务所（有限合伙）拟减持106.3万股套现4327.54万元，此前已累计减持141.65万股套现4777.46万元 - 新浪财经",
+          "text": "中科金财：公司管理层将一如既往勤勉尽责工作 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMm9vTHhIWEJHOE8zc2p4amJsRkFkSDkzczZOREJjZ3FjUEdjazJobzhZYVZUWVFadkVSa2VqLWJOZXB1aUJkaTAtb1BCMktWNXU3R2NuWDc0eDFkS0N1UURXUEU1dTZkUXdzaU92U2l0aDVSU0Voc3JfUHBUR2hVYjVyQU95ZTdDN1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fYjI2ZUYwSzdNTlQ3TkVnS2dYa1RKVlluaUV0NzQ5MkhSaVBxdnNNX1JhR0RuSGZnMlM1emViY0VNOTNfaDdGQzhBb2JlMVFIQTJfYVVMNzVrWHRaaUY2SQ?oc=5"
+        },
+        {
+          "text": "中国宝安（000009）股东韶关市高创企业管理有限公司质押1.68亿股，占总股本6.52% - 搜狐网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XdTRsbjQ2ZTlEbUd3cFA0QTAxMnN6X1ozdmVuZUp6Zmk3NzZuTXpqQkZLRWx0bng1c3VUb0wwdmlSeHhNS3FwaDNneHFyb1AxU2c?oc=5"
         },
         {
           "text": "五方光电：公司持续践行公司战略目标，推动主营业务稳定发展 - 搜狐网",
@@ -346,11 +351,6 @@ window.dailyBrief = {
           "text": "刘萌：“金融强企”秘诀在于将ESG理念纳入企业战略和实践 - 搜狐网",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEMzaW9aOHE3bDlZaVVjRzBWaGZRYUZWM1BJT1lYNFdtV205aHBTcUV6TDNNcE9oRnFCOVZvYndXaW9pRGdsRUJUX0FDNy1EZ1Y5ajlpb2NxV29NS2hPNlpHckh6WEVtUXFYTUdnVDRzMWsxb1otRVdZQm5ULU0zQjMzVjJnUTZu?oc=5"
-        },
-        {
-          "text": "河南伯优企业管理咨询有限公司创始人代运超 - 中华网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VZ0FfT0VTTTVuWWhZSzFTeWd0SnExNWowdDlJcE9JLXJpRHVsMGI5TW84YWY3RmVvdDRFUEk1VnVlSkwwdjBMTHFiWHFqZFljZWdjcVp3WXNKdTJQWnc?oc=5"
         }
       ]
     }
