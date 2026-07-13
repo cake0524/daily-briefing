@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月12日",
+  "publishDate": "2026年7月13日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【视频】新能源降价潮入手？还是等？ - 汽车之家",
+      "title": "汽车出口首破百万辆，新能源车出口首超燃油车｜财富周历 动态前瞻 - 搜狐网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "‘We face a new ordeal’: Gaza's search f…",
+      "title": "UN chief urges Iran and US to ‘urgently…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:06",
-          "title": "【视频】新能源降价潮入手？还是等？ - 汽车之家",
-          "summary": "【视频】新能源降价潮入手？还是等？ 汽车之家",
+          "time": "08:00",
+          "title": "汽车出口首破百万辆，新能源车出口首超燃油车｜财富周历 动态前瞻 - 搜狐网",
+          "summary": "汽车出口首破百万辆，新能源车出口首超燃油车｜财富周历 动态前瞻 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UbFp2emFpRVRka2lfSXZyQ0g4a2hQdXBXOFZHYzlJbU5lMm5JUklnM2h3Y01SWXBiNkszQU9scTVnYS1fQWdBeUNKQmNJd2VhN1huRXAzbTVwYzA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjZ4NnEyV25KYnlFYW51aGR6Q3BQanI5NWszYXB5ZWstdWNKRVNka1BMQ21EN1NPd1llOUd3WXBFMHJaM0NacXZtTTJnSi1XS1pQY3hvYnFwa2w5RVAzS1AtekdOT1VfRUVlSXlQYUpscmZuNnl6T2ppSzRJdW94WWQxblpILTFwY0VaNg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:53",
-          "title": "五款40万内插电混动SUV推荐:越野与家用兼得的全能之选(全文)_坦克400新能源 2026款 Hi4-T_汽车 - 新浪网",
-          "summary": "五款40万内插电混动SUV推荐:越野与家用兼得的全能之选(全文)_坦克400新能源 2026款 Hi4-T_汽车 新浪网",
+          "time": "07:49",
+          "title": "新能源领跑智能化升级——第二十三届长春国际汽车博览会掠影 - 吉林省人民政府",
+          "summary": "新能源领跑智能化升级——第二十三届长春国际汽车博览会掠影 吉林省人民政府",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1Z0k2SXFhN0FuVldyOVo1dm1LZzR1d1hPZ2FyWkpOQVJRdVBNRUNuQVZiMHpELVd6aWo1cmdYTU1iRXJYZGU0ZHNMNksySklwTW03QmJVa3EwTm4zSWg2OVJ5TVltcElmOHprUmFTNHB0Zw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JcWNRLWJBQTBiZHVuRkY5WlZXcmxYSVB2MFB1YWh5ellkWjhlZ3BNQjdnWURQLWlrS1BtSElhSEFiN0NLVjFnNjhqWDg5cDBXbXBtbGZNMFd4UHNRYkJ2ZVlBNjJIX0lyaWIwdEJGZ0U?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "2026全球数字经济大会中国—东盟数字经济合作闭门会召开 - 和平日报",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQOURzQmM5dXZ3emJIcHJzT2h0TGQwajcwem8xaWZJZVQ5TDUyT2xtaHFHT3lJdDJvRFZPcElRM0o5NjgzdkRVNFZzWF9tVVA0Ylg3OHN4Rjg1ZVF4YjNiNmZpYXVyZ3N6QlpSZXQ1VjlXd2ZPMHdfUUxiRGZ3Ti0tYlBYNGJtZTZITU1GNHVseTRtNnN0WWNLeXJwWmhfWHB1QnVPMGhLc3NLeU0yNDRRRkY2bXlFZFUzT3NYX2pXU2hhXzU1WTBFZHJXZFZjTV9DYWJSTFp6eG92S2NEZWVxYWNwWFBxaUpkYUU5Sk9RWDB6ellhNERVUFhKTnc5blY5cnEzdVNQdTE1N19TZVROTHV5LUE5S045YV9YNC1hVXZzUEpxYndKVDl4WHJ1d2J2enhrMVU2QWNnNmxuYmo1bVViMEhwSzZRd2lmODZR?oc=5"
+          "text": "10万左右新能源SUV哪款最值得买？2026年深度评测+分人群推荐+FAQ - 新浪汽车",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xOGh0TFFRTkFkTDFSNUdNendWeGw2UmxQQldJaVI0cGtPMmhfU25zclNLejRCaVdzRmRUYlFzek82NF9Nc1pnLWVwWjN2UW53bVJnTXpRbFpsRVc2WV9YR0FuRDBFQzVtdGdkNGZVekp5VUJw?oc=5"
         },
         {
-          "text": "备战2026：新能源重卡电池板块的变革、机遇与破局 - 新浪网",
+          "text": "台风来袭！转给开新能源车的朋友 - ycnews.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVX1ZHMFZhVHZXaG5KNDh4V05iMVBOQjRkdVRENUtRRWU3NHlrdXlpLXl1WXNrS1BfbzZfS0NCQk1RMEcwM0VjWlBzbk5naDhCdzlDMTRDX2htcnZPUTBRX3ItclprZ2VnYzRxZEwxX0J4TW9kQlJJb21GRkJoeVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jZTF1Wi1Td2hUaWpFMzlBTkVvUkQwUXNGbUpaMnpFc0VqUFlzM2sxbjZ0cnZqeTlVaEpXaTdFOXVoU3ZDTEgwcnl2VDV5dlRlbHk2SHBxZzNJckpsS20wQm5tdw?oc=5"
         },
         {
-          "text": "未雨绸缪战台风：武汉公交充电工清晨巡检新能源公交电量 - 凤凰网",
+          "text": "15-20万安全性能最好的SUV怎么选？燃油+新能源双线对比+FAQ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5GcGxlNVpfSTkxcmNkdHRJa0QyZ25HQmFja2JiLXhyVHh4R2dzRFEwdTItc0JKcTJ2U29JRWJPOUxfWmF6b3owNw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGT2dMcTlIaVg0TnR2VWYwSWZzV0lVd0lXcW1IYThGQ1RPNVRsQm1mRHc4NjFwRm1MU2Zrek4zbVoyUEhKcS0xS1lNVFRyR0l5dzQ5RXg1MGVqLS1tYnB3ZWJoX0dCUXlpa2xOWU1fM3Z0Zw?oc=5"
         },
         {
-          "text": "大众新能源宽体轿跑，溜背式轿跑车身，搭载双电机四驱纯电动力！ - 汽车之家",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16dFNrbFBNYksydzJ4X2ZKbFZjVHF3ZXpGcHJBOTJsWkEyZ0p1dUpaUHFnQ0dWLXE0WGd5dGlQeUFtekNPVEFERjc3Tm0yRXNrYlUtYjFmUHRfZjdRV2FHazAtbHluQkZwS0pr?oc=5"
+          "text": "提前实现汽车出口“三年倍增”计划 江铃汽车何以“圈粉”海外市场 - 凤凰网江西",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CWkdJSkpuSDRDWGFndDNDMGRwRW9uaFFEc1c3ZmhYZjdiRXg4cEJsRl9rUWZteDhWZFBSYzk5WFFXa3hkSE9hSUxB?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
-          "summary": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and ci…",
+          "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
+          "summary": "Renewed strikes and counterstrikes between Iran and the United States in the Gulf region have raised fears of…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167922"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167923"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
-          "summary": "The UN Educational, Scientific and Cultural Organization (UNESCO) urged international lenders to expand debt-…",
+          "title": "Reviving communities home by home in Gaza",
+          "summary": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada,…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167918"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167921"
         }
       ],
       "briefs": [
         {
+          "text": "Thai youth leaders push for inclusion, partnership and lasting change",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167917"
+        },
+        {
+          "text": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167922"
+        },
+        {
+          "text": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison vio…",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167918"
+        },
+        {
           "text": "South Sudan: UN acts ahead of drought to protect thousands",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/07/1167915"
-        },
-        {
-          "text": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear program…",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167914"
-        },
-        {
-          "text": "New cholera outbreak alert for Sudan’s war-weary communities",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167913"
-        },
-        {
-          "text": "Aid cuts leave at least one million women and girls without vital support",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167908"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Chip Industry Week In Review",
-          "summary": "Micron ups US investments; Apple's $30B deal; Solstice's buy; onsemi divests; diamonds for inspection; fault-…",
+          "time": "02:37",
+          "title": "Open DRAM Model For PIM Analysis In 3D DRAM (Georgia Tech)",
+          "summary": "Researchers from Georgia Institute of Technology published a technical paper titled “Open DRAM Model—Part II:…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-146/"
+          "url": "https://semiengineering.com/open-dram-model-for-pim-analysis-in-3d-dram-georgia-tech/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:08",
-          "title": "The Architecture Decisions Behind A Production-Ready EDA AI Agent",
-          "summary": "Building an AI agent that works in semiconductor and PCB design requires solving problems that generic agenti…",
+          "time": "01:41",
+          "title": "Hardware Abstraction Layer Study Targets Software-Defined Vehicles (U. of Stuttgart)",
+          "summary": "Researchers from University of Stuttgart published a technical paper titled “Evaluating Hardware Abstraction…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-architecture-decisions-behind-a-production-ready-eda-ai-agent/"
+          "url": "https://semiengineering.com/hardware-abstraction-layer-study-targets-software-defined-vehicles-u-of-stuttgart/"
         }
       ],
       "briefs": [
         {
-          "text": "The Expansion Of LPDDR Into Edge AI Platforms",
+          "text": "3nm GAA-FET SRAM Review Evaluates Self-Heating And Radiation Hardness (SJSU, Sa…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-expansion-of-lpddr-into-edge-ai-platforms/"
+          "url": "https://semiengineering.com/3nm-gaa-fet-sram-review-evaluates-self-heating-and-radiation-hardness-sjsu-sandia/"
         },
         {
-          "text": "AI Is Rewriting The IP Playbook",
+          "text": "Monolithic CMOS Platform Integrates Piezo-Optomechanical Photonics (Mitre et al…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-is-rewriting-the-ip-playbook/"
+          "url": "https://semiengineering.com/monolithic-cmos-platform-integrates-piezo-optomechanical-photonics-mitre-et-al/"
         },
         {
-          "text": "UALink Under The Hood: Why Full-Stack Verification Wins",
+          "text": "Room-temperature, CMOS-compatible Photonic Quantum Processor (NUS et al.)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ualink-under-the-hood-why-full-stack-verification-wins/"
+          "url": "https://semiengineering.com/room-temperature-cmos-compatible-photonic-quantum-processor-nus-et-al/"
         },
         {
-          "text": "Where Does Quantum Computing Stand?",
+          "text": "AI Framework Maps Thermal Behavior In 3D Photonic Circuits (U. of Florida et al…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/where-does-quantum-computing-stand/"
+          "url": "https://semiengineering.com/ai-framework-maps-thermal-behavior-in-3d-photonic-circuits-u-of-florida-et-al/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "‘We face a new ordeal’: Gaza's search for the dead goes on",
-          "summary": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and ci…",
+          "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
+          "summary": "Renewed strikes and counterstrikes between Iran and the United States in the Gulf region have raised fears of…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167922"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167923"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
-          "summary": "The UN Educational, Scientific and Cultural Organization (UNESCO) urged international lenders to expand debt-…",
+          "title": "Reviving communities home by home in Gaza",
+          "summary": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada,…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167918"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167921"
         }
       ],
       "briefs": [
         {
+          "text": "Thai youth leaders push for inclusion, partnership and lasting change",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167917"
+        },
+        {
+          "text": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167922"
+        },
+        {
+          "text": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison vio…",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1167918"
+        },
+        {
           "text": "South Sudan: UN acts ahead of drought to protect thousands",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/07/1167915"
-        },
-        {
-          "text": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear program…",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167914"
-        },
-        {
-          "text": "New cholera outbreak alert for Sudan’s war-weary communities",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167913"
-        },
-        {
-          "text": "Aid cuts leave at least one million women and girls without vital support",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167908"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "05:41",
-          "title": "意大利中意青年联合会举办第十三期青年讲堂共探企业管理与传承 - 网易",
-          "summary": "意大利中意青年联合会举办第十三期青年讲堂共探企业管理与传承 网易",
+          "time": "06:00",
+          "title": "提升产业链供应链韧性筑牢现代化产业体系安全屏障 - 天津日报",
+          "summary": "提升产业链供应链韧性筑牢现代化产业体系安全屏障 天津日报",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZSkxoSjJRcG1aOGI2dDFqMG96TkhnU0V3d2w5X1RqRzZVT0RhQUIwbXVMREJBbl9hdzdvNERBcE15Ri1DX2xVeW16amczWTJSdzBFMnNncXhXWE5UU2w3WUNR?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3VlcVNTVUVPYkVkZFRVY0tVU0tBM1hYeDdUeXg1Ni1ZcmJGMnVpaHRXQmktU2pZR3Z5QkIyUk5DbU1ydldib0VodXBud2c3OExxREg2bU5PMkt0UkxjcFhZbFlCMmQxbUJRYU41ZlRqUjFNMS1aUDd6dDlkUHJpYklB?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "05:38",
-          "title": "达意隆：公司管理层将持续聚焦主业、踏实经营 - 东方财富",
-          "summary": "达意隆：公司管理层将持续聚焦主业、踏实经营 东方财富",
+          "time": "21:12",
+          "title": "心理健康方面的顶级公司:战略、市场统计 - Spherical Insights",
+          "summary": "心理健康方面的顶级公司:战略、市场统计 Spherical Insights",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUU1wOVBWalE0VXNZNmN3bFlNeFJjNEFHWjl3VGpCTUpIV3RteTFtTl9HQkpMQ1FoM19MZWhZV3JnWnRDWHRYTWxtUTNMSTREamV6cjNlYUhyNHR4OXd3aQ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZmtabnRUa0VFcjlRWmZGeDJnM3ZPejY0YklmWVV6U2Eybzc2Nmh3Q19BcUhQMXNhbjJpOFFVaUozRUxRcURJM29BYlBCLU12WVRJRURFNVA5azdBbHpqX3VuRXd1ZFdFdE1zQTBGcnhPOTc2ZXRkTk5tdDFhY0hqcTIwYjBvUjhHdHhrTWx4UTBkaFk4d09OSFdiRkQ4V2Rj?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "「百家世界一流企业管理案例精选」：台积电的“流体型组织”属于传统企业还是现代企业？ - 网易",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ON2FIbTg2N0RVQnh2ZFphaTBQcnpZcFd5X0hOTk8yTEVrSTVSeWdtNEdaU3Z5SVpFT2dtOGtSSlA5RmhWRVFPT0poaDRPR3VKeXhZaQ?oc=5"
+        },
+        {
+          "text": "达意隆：公司管理层将持续聚焦主业、踏实经营 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUU1wOVBWalE0VXNZNmN3bFlNeFJjNEFHWjl3VGpCTUpIV3RteTFtTl9HQkpMQ1FoM19MZWhZV3JnWnRDWHRYTWxtUTNMSTREamV6cjNlYUhyNHR4OXd3aQ?oc=5"
+        },
         {
           "text": "中科金财：公司管理层将一如既往勤勉尽责工作 - 东方财富",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fYjI2ZUYwSzdNTlQ3TkVnS2dYa1RKVlluaUV0NzQ5MkhSaVBxdnNNX1JhR0RuSGZnMlM1emViY0VNOTNfaDdGQzhBb2JlMVFIQTJfYVVMNzVrWHRaaUY2SQ?oc=5"
         },
         {
-          "text": "中国宝安（000009）股东韶关市高创企业管理有限公司质押1.68亿股，占总股本6.52% - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XdTRsbjQ2ZTlEbUd3cFA0QTAxMnN6X1ozdmVuZUp6Zmk3NzZuTXpqQkZLRWx0bng1c3VUb0wwdmlSeHhNS3FwaDNneHFyb1AxU2c?oc=5"
-        },
-        {
-          "text": "五方光电：公司持续践行公司战略目标，推动主营业务稳定发展 - 搜狐网",
+          "text": "恒进感应：公司在研发课题的论证时，需结合公司战略规划、下游市场客观需求、现有技术基础及研发人员配置，进行综合考量 - 东方财富",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWDRyNW0xc1hwVk9VT1BIWldrNk54NjQtLUFURnhVUDZZd3E5QXIyaGJMaWhVS25iaGtvaklTRFBNblBJQklKRHZuZk9adzRGZktXN1lZdm5QTlVCNHFFNDlYSjdocXNsS0V6WUJTLVVtNEQ4VGhyUG5xTjFaWFJlMnliT1ZzMzFuU0VKNw?oc=5"
-        },
-        {
-          "text": "刘萌：“金融强企”秘诀在于将ESG理念纳入企业战略和实践 - 搜狐网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdEMzaW9aOHE3bDlZaVVjRzBWaGZRYUZWM1BJT1lYNFdtV205aHBTcUV6TDNNcE9oRnFCOVZvYndXaW9pRGdsRUJUX0FDNy1EZ1Y5ajlpb2NxV29NS2hPNlpHckh6WEVtUXFYTUdnVDRzMWsxb1otRVdZQm5ULU0zQjMzVjJnUTZu?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0cFFjOUJJZXNpWGI0SmViM01TWFhTMFN4QnJhdTVLMm5aMVRnemhIdV9HeFF1N24xUTg3dXUtTWVLNUlDaFBZa2JOZ0JDVDI1aVluN0VEczdwdzdlbEFkcw?oc=5"
         }
       ]
     }
