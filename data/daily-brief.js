@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月13日",
+  "publishDate": "2026年7月14日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "汽车出口首破百万辆，新能源车出口首超燃油车｜财富周历 动态前瞻 - 搜狐网",
+      "title": "历史不会重演，但会惊人相似：新能源车，正在重走智能手机的老路 - 手机网易网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Physicists finally build a quantum mate…",
+      "title": "A 200-year-old physics experiment could…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:00",
-          "title": "汽车出口首破百万辆，新能源车出口首超燃油车｜财富周历 动态前瞻 - 搜狐网",
-          "summary": "汽车出口首破百万辆，新能源车出口首超燃油车｜财富周历 动态前瞻 搜狐网",
+          "time": "07:55",
+          "title": "历史不会重演，但会惊人相似：新能源车，正在重走智能手机的老路 - 手机网易网",
+          "summary": "历史不会重演，但会惊人相似：新能源车，正在重走智能手机的老路 手机网易网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjZ4NnEyV25KYnlFYW51aGR6Q3BQanI5NWszYXB5ZWstdWNKRVNka1BMQ21EN1NPd1llOUd3WXBFMHJaM0NacXZtTTJnSi1XS1pQY3hvYnFwa2w5RVAzS1AtekdOT1VfRUVlSXlQYUpscmZuNnl6T2ppSzRJdW94WWQxblpILTFwY0VaNg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBS2w4UmJHWERyRnNOOFY2T0RmVi1fTDhjTzI2ZUloUk5PUG5NTGJOalJPUWUxdEJkY19SVnBDaWhZN2VrZEVzQlhxWWwzQVVlRDQ2WVpXNlZwZ1JhOGExRWdn?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:49",
-          "title": "新能源领跑智能化升级——第二十三届长春国际汽车博览会掠影 - 吉林省人民政府",
-          "summary": "新能源领跑智能化升级——第二十三届长春国际汽车博览会掠影 吉林省人民政府",
+          "time": "07:47",
+          "title": "10万亿大产业，政策利好来了！国民健康“十五五”规划出炉（附股） - 证券时报",
+          "summary": "10万亿大产业，政策利好来了！国民健康“十五五”规划出炉（附股） 证券时报",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JcWNRLWJBQTBiZHVuRkY5WlZXcmxYSVB2MFB1YWh5ellkWjhlZ3BNQjdnWURQLWlrS1BtSElhSEFiN0NLVjFnNjhqWDg5cDBXbXBtbGZNMFd4UHNRYkJ2ZVlBNjJIX0lyaWIwdEJGZ0U?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50UHpaUUtSYmc2V2tNV21yX2hfclBhUW1sVUppUEMtRWxrMXZ4dUFuODJrbUdDWlBQYkVORlpCbmlxUFNkNXpSN1MxNGZyM1lIVlc2MVgxWmtSVDBF?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "10万左右新能源SUV哪款最值得买？2026年深度评测+分人群推荐+FAQ - 新浪汽车",
+          "text": "【深圳特区报】深圳新能源汽车出海非洲市场势头强劲 前5月同比增长超60% - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xOGh0TFFRTkFkTDFSNUdNendWeGw2UmxQQldJaVI0cGtPMmhfU25zclNLejRCaVdzRmRUYlFzek82NF9Nc1pnLWVwWjN2UW53bVJnTXpRbFpsRVc2WV9YR0FuRDBFQzVtdGdkNGZVekp5VUJw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMDBSZzlQX1RVOVlFMDFUOHFfVW1odXFHY1VMalBuSzFRMVlMc1hDZG5PWE5oLWRZSm85eWoxRVVfLS1WdTB5b3VUUERTd09qQldBN2F0bWVJYjVpTzhjNkhxbFFjTE4weXRYTUFOQmpVdFpDdHNKYUlFQnB6SkVPTjNpYjdjRTVBTUFqeg?oc=5"
         },
         {
-          "text": "台风来袭！转给开新能源车的朋友 - ycnews.cn",
+          "text": "【视频】现在买新能源，你真的捡到便宜了吗？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jZTF1Wi1Td2hUaWpFMzlBTkVvUkQwUXNGbUpaMnpFc0VqUFlzM2sxbjZ0cnZqeTlVaEpXaTdFOXVoU3ZDTEgwcnl2VDV5dlRlbHk2SHBxZzNJckpsS20wQm5tdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Qdll5eTFkMk03Tm5IekVCa3NUYzVzWGJrS1ZrVks5SDVfR0dueS03LVcyaTdISVBUWlJUYmNYRkxPdDAtNFU5b0dBcW5WT19NOEZIUGtZVnhJYTNjTThaLVpnbWxCTTgwejBJ?oc=5"
         },
         {
-          "text": "15-20万安全性能最好的SUV怎么选？燃油+新能源双线对比+FAQ - 新浪网",
+          "text": "40万以上新能源车怎么挑？3个维度说清谁最适合你+FAQ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGT2dMcTlIaVg0TnR2VWYwSWZzV0lVd0lXcW1IYThGQ1RPNVRsQm1mRHc4NjFwRm1MU2Zrek4zbVoyUEhKcS0xS1lNVFRyR0l5dzQ5RXg1MGVqLS1tYnB3ZWJoX0dCUXlpa2xOWU1fM3Z0Zw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IRVhhUWhub3gwNzNZd0J3XzZ4Y0xrR2ZEdUV4MEw4NVZrbHp5LTAyMDhlMzRfN2prQ2YwOHBGWUVjRVVvbmVZQlNNM0w2bTNDS2c5Sl84QVo5cFNqMWVuaEhTOE1fa0hCU2xvVGxOQmxHQQ?oc=5"
         },
         {
-          "text": "提前实现汽车出口“三年倍增”计划 江铃汽车何以“圈粉”海外市场 - 凤凰网江西",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CWkdJSkpuSDRDWGFndDNDMGRwRW9uaFFEc1c3ZmhYZjdiRXg4cEJsRl9rUWZteDhWZFBSYzk5WFFXa3hkSE9hSUxB?oc=5"
+          "text": "7月13日数字经济ETF鹏扬基金份额增加400万份，重仓股东方财富、寒武纪、海光信息_基金提醒_雷达 - 证券之星",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHNkVZVVRzR20ySjJVaURHcDZMdzVZa3M2T0hyb3E4VFp3b2dtdGJjZTRxRE4xSXg0clZPaDRRYVB0RXVMX2pkMVpEaVJoWUFtOUNRQUpGQ1dDbGdlWUxpaTB3?oc=5"
         }
       ]
     },
@@ -74,43 +74,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:03",
-          "title": "Physicists finally build a quantum material predicted more than a decade ago",
-          "summary": "Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and co…",
+          "time": "20:49",
+          "title": "A 200-year-old physics experiment could help build future computers",
+          "summary": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to crea…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm"
         },
         {
           "priority": "重点看点 02",
-          "time": "14:32",
-          "title": "Tiny bubbles could revolutionize inkjet printing",
-          "summary": "Ultra-fine bubbles may offer a cleaner way to perfect inkjet printing for next-generation electronics. By sim…",
+          "time": "20:12",
+          "title": "Scientists discovered the brain doesn't make decisions the way we thought",
+          "summary": "A new study suggests the brain begins making decisions much earlier than scientists previously thought. Resea…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260711010112.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm"
         }
       ],
       "briefs": [
         {
+          "text": "Physicists say quantum mechanics may not need imaginary numbers after all",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm"
+        },
+        {
+          "text": "Physicists finally build a quantum material predicted more than a decade ago",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm"
+        },
+        {
+          "text": "Tiny bubbles could revolutionize inkjet printing",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260711010112.htm"
+        },
+        {
           "text": "Harvard scientists turn a silicon chip into a DNA writing machine",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm"
-        },
-        {
-          "text": "Scientists used AI to crack one of water's biggest mysteries",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm"
-        },
-        {
-          "text": "New AI model reveals how neutron star mergers forge heavy elements",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/06/260626030426.htm"
-        },
-        {
-          "text": "Incredible new material makes heat programmable",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260707025046.htm"
         }
       ]
     },
@@ -170,38 +170,38 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "02:00",
+          "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:00",
           "title": "How Deutsche Telekom is rewiring telecommunications with AI",
           "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workf…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
           "url": "https://openai.com/index/deutsche-telekom"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "04:22",
-          "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-          "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really g…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
         }
       ],
       "briefs": [
         {
+          "text": "Getting started with ChatGPT",
+          "source": "OpenAI",
+          "url": "https://openai.com/academy/getting-started"
+        },
+        {
+          "text": "Anthropic found a hidden space where Claude puzzles over concepts",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
+        },
+        {
           "text": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
           "source": "OpenAI",
           "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
-        },
-        {
-          "text": "GPT-5.6: Frontier intelligence that scales with your ambition",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/gpt-5-6"
-        },
-        {
-          "text": "ChatGPT is now a partner for your most ambitious work",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
         },
         {
           "text": "GPT-5.5 Bio Bug Bounty",
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:37",
-          "title": "Open DRAM Model For PIM Analysis In 3D DRAM (Georgia Tech)",
-          "summary": "Researchers from Georgia Institute of Technology published a technical paper titled “Open DRAM Model—Part II:…",
+          "time": "03:36",
+          "title": "Near-memory Dequantization Architecture In Custom HBM for LLM inference (SK hynix)",
+          "summary": "Researchers from SK hynix published a technical paper titled “StreamDQ: Near-Memory Weight DeQuantization in…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/open-dram-model-for-pim-analysis-in-3d-dram-georgia-tech/"
+          "url": "https://semiengineering.com/near-memory-dequantization-architecture-in-custom-hbm-for-llm-inference-sk-hynix/"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:41",
-          "title": "Hardware Abstraction Layer Study Targets Software-Defined Vehicles (U. of Stuttgart)",
-          "summary": "Researchers from University of Stuttgart published a technical paper titled “Evaluating Hardware Abstraction…",
+          "time": "15:10",
+          "title": "Startup Funding: Q2 2026",
+          "summary": "Plenty of cash for AI and its enablers; 80 startups raise over $6B. The post Startup Funding: Q2 2026 appeare…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/hardware-abstraction-layer-study-targets-software-defined-vehicles-u-of-stuttgart/"
+          "url": "https://semiengineering.com/startup-funding-q2-2026/"
         }
       ],
       "briefs": [
         {
-          "text": "3nm GAA-FET SRAM Review Evaluates Self-Heating And Radiation Hardness (SJSU, Sa…",
+          "text": "Change Is Tough",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/3nm-gaa-fet-sram-review-evaluates-self-heating-and-radiation-hardness-sjsu-sandia/"
+          "url": "https://semiengineering.com/change-is-tough/"
         },
         {
-          "text": "Monolithic CMOS Platform Integrates Piezo-Optomechanical Photonics (Mitre et al…",
+          "text": "Innovation First, AI Second: Lessons From SSN And The Future Of Test",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/monolithic-cmos-platform-integrates-piezo-optomechanical-photonics-mitre-et-al/"
+          "url": "https://semiengineering.com/innovation-first-ai-second-lessons-from-ssn-and-the-future-of-test/"
         },
         {
-          "text": "Room-temperature, CMOS-compatible Photonic Quantum Processor (NUS et al.)",
+          "text": "Rethinking Ethernet For The AI Scale-Up Era: Inside ESUN",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/room-temperature-cmos-compatible-photonic-quantum-processor-nus-et-al/"
+          "url": "https://semiengineering.com/rethinking-ethernet-for-the-ai-scale-up-era-inside-esun/"
         },
         {
-          "text": "AI Framework Maps Thermal Behavior In 3D Photonic Circuits (U. of Florida et al…",
+          "text": "Open DRAM Model For PIM Analysis In 3D DRAM (Georgia Tech)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-framework-maps-thermal-behavior-in-3d-photonic-circuits-u-of-florida-et-al/"
+          "url": "https://semiengineering.com/open-dram-model-for-pim-analysis-in-3d-dram-georgia-tech/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:00",
-          "title": "提升产业链供应链韧性筑牢现代化产业体系安全屏障 - 天津日报",
-          "summary": "提升产业链供应链韧性筑牢现代化产业体系安全屏障 天津日报",
+          "time": "19:35",
+          "title": "锦江在线：公司管理层高度重视公司二级市场表现 - 东方财富",
+          "summary": "锦江在线：公司管理层高度重视公司二级市场表现 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3VlcVNTVUVPYkVkZFRVY0tVU0tBM1hYeDdUeXg1Ni1ZcmJGMnVpaHRXQmktU2pZR3Z5QkIyUk5DbU1ydldib0VodXBud2c3OExxREg2bU5PMkt0UkxjcFhZbFlCMmQxbUJRYU41ZlRqUjFNMS1aUDd6dDlkUHJpYklB?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12aUpaQ043TEtjNmZTRnJQa1NidUhpUVpIUVZWLXpfLVBjRzhPUVRoVDdGVTBrdVJ5dnlkVFFpYTFlcVhwWnZqM0VpNTliY3k1UkhWeTA5YU1ldGNIOVpxTw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:12",
-          "title": "心理健康方面的顶级公司:战略、市场统计 - Spherical Insights",
-          "summary": "心理健康方面的顶级公司:战略、市场统计 Spherical Insights",
+          "time": "18:58",
+          "title": "国城矿业：杭州吉城企业管理合伙企业（有限合伙）持股比例拟升至5.00% - 东方财富",
+          "summary": "国城矿业：杭州吉城企业管理合伙企业（有限合伙）持股比例拟升至5.00% 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZmtabnRUa0VFcjlRWmZGeDJnM3ZPejY0YklmWVV6U2Eybzc2Nmh3Q19BcUhQMXNhbjJpOFFVaUozRUxRcURJM29BYlBCLU12WVRJRURFNVA5azdBbHpqX3VuRXd1ZFdFdE1zQTBGcnhPOTc2ZXRkTk5tdDFhY0hqcTIwYjBvUjhHdHhrTWx4UTBkaFk4d09OSFdiRkQ4V2Rj?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WZlZsU2poRTFBVFZJT3VIYS1WRkVtNWpvUTJoZ0NGLVJjWkZCWXlteXRIeFFac0lQZGNQWW1lYVhDbXdXWFBHTEVjTm5QWllCY2ZmbFpsYl90MVd1VGh4YWthVEU3Zw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "「百家世界一流企业管理案例精选」：台积电的“流体型组织”属于传统企业还是现代企业？ - 网易",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ON2FIbTg2N0RVQnh2ZFphaTBQcnpZcFd5X0hOTk8yTEVrSTVSeWdtNEdaU3Z5SVpFT2dtOGtSSlA5RmhWRVFPT0poaDRPR3VKeXhZaQ?oc=5"
-        },
-        {
-          "text": "达意隆：公司管理层将持续聚焦主业、踏实经营 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQUU1wOVBWalE0VXNZNmN3bFlNeFJjNEFHWjl3VGpCTUpIV3RteTFtTl9HQkpMQ1FoM19MZWhZV3JnWnRDWHRYTWxtUTNMSTREamV6cjNlYUhyNHR4OXd3aQ?oc=5"
-        },
-        {
-          "text": "中科金财：公司管理层将一如既往勤勉尽责工作 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fYjI2ZUYwSzdNTlQ3TkVnS2dYa1RKVlluaUV0NzQ5MkhSaVBxdnNNX1JhR0RuSGZnMlM1emViY0VNOTNfaDdGQzhBb2JlMVFIQTJfYVVMNzVrWHRaaUY2SQ?oc=5"
-        },
-        {
-          "text": "恒进感应：公司在研发课题的论证时，需结合公司战略规划、下游市场客观需求、现有技术基础及研发人员配置，进行综合考量 - 东方财富",
+          "text": "公司战略收缩，众泰汽车：预计2026年半年度净利润7800万元~1.05亿元 - 搜狐网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0cFFjOUJJZXNpWGI0SmViM01TWFhTMFN4QnJhdTVLMm5aMVRnemhIdV9HeFF1N24xUTg3dXUtTWVLNUlDaFBZa2JOZ0JDVDI1aVluN0VEczdwdzdlbEFkcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3lUdnI1ZmNqajJQZXEzMmFuREI4SkVybnZ3U3lCZzZfZXRvZHMyempzWllYOE5Oa2hKV3pTT1ozMXpLZHNYRWdsc0N2eGJfRFhjbFVhQTJKRi1yVUxsSVZtYWt0LVI0cnJmQmQzZXBlb1pXNWF0QXJJQXFyb28wMldwN3ptUng1V2w4cA?oc=5"
+        },
+        {
+          "text": "大众公用（600635）股东上海大众企业管理有限公司质押8500万股，占总股本2.88% - 搜狐网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLU5UdXNUbTBWWmhBcVh1VzZ6XzMyQ080V1hRNktyaXF0Q2sxanltc0VtbnFBQ05ITl95ZmtZWkxJejNvQjNCUFE2c1NCX1Z4ZURkRTJSYWE1Z3ZoT0JsT2xLUkNlTzZKNl9DRklwREU1UGQ4cWlhUXRmaVhfZVhVZEttaDN1N1hD?oc=5"
+        },
+        {
+          "text": "FPLC吁企业把握优势共建东盟供应链韧性| 東方網馬來西亞東方日報 - orientaldaily.com.my",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SY1NTUWxjWWhnT2N0MGo0SGktTVNuUlo0UEtCV1Zsdkp4M1FiN2xVRm9qWC1fZzdLdjFDZGdta1FKVlNmYlZfNldBdFU5R2dsUE5ySUU3OFFLd2U4b1pybGpIRVRlcHd5cHlsNEIxM0Y?oc=5"
+        },
+        {
+          "text": "双力星 (广西）科技有限公司深耕企业管理咨询，助力企业规范品牌运营与渠道市场体系建设 - 中华网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uZDBqZFlsR2xIdXlTSGtwYjJQSHBjcEpFOGRvQmRaemxYMzE3OTBQVk5DMHdaMWdUMEFtVDJXX2l4dzh3eWotY2YydzJ2d19PNVR2WGFFbmVWQ0xMcnc?oc=5"
         }
       ]
     }
