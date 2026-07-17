@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月16日",
+  "publishDate": "2026年7月17日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "商用车双浪：新能源渗透率狂飙至29%，出口突破百万辆 - 电子工程专辑",
+      "title": "这也太横了！新能源充电简报出炉，三款车断崖领先，来自同一车企 - 凤凰网汽车",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Alan Turing's biggest AI assumption may…",
+      "title": "Quantum breakthrough links light and ma…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:03",
-          "title": "商用车双浪：新能源渗透率狂飙至29%，出口突破百万辆 - 电子工程专辑",
-          "summary": "商用车双浪：新能源渗透率狂飙至29%，出口突破百万辆 电子工程专辑",
+          "time": "08:11",
+          "title": "这也太横了！新能源充电简报出炉，三款车断崖领先，来自同一车企 - 凤凰网汽车",
+          "summary": "这也太横了！新能源充电简报出炉，三款车断崖领先，来自同一车企 凤凰网汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9nVFdyZTEwTFlDTTNkbWpScnE4d2xUQ3V1SkFKSHFJN2UxOGZHOWsxS3VZbWw1aVJtVmhiQzhrVkhfOWpSNGlPclpEemtBVXpjVDQw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5HTUNhUE94ZmhkOGFWbnpHYnJ3M3FWeWVlS3pRNzdpWldBRHhkZVBmc1NkWll3SkN6U3p2eWVaOGJHOGxfTEpCNnZyb1Y?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:52",
-          "title": "今年上半年全社会用电量同比增长5.3% - 新浪财经",
-          "summary": "今年上半年全社会用电量同比增长5.3% 新浪财经",
+          "time": "08:06",
+          "title": "看见中国经济“新”力量 - 新浪财经",
+          "summary": "看见中国经济“新”力量 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObFMtOWkyTWhzSUlHMlBLZFdDcjRoTThzcGdUYndLMWdJcFRoRnZ5NVoweWI2VjVnaG9RVm9XYlhBME5uWGxFZVRKMUlHZXluYkFNWUkwWFQ5T2dBYnFMMS11QmxsemxiWllLbDBDOUVWQVhBYzFiZGhwY2xxMC1BbFhFNHMtU3lMXzhUWHFhWWZGa0sxcTdfVA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTGV3TnBCUEhwQnBxVHNRc1BsNUdqS0l0djhNbURZVm5paTNfa0tJYXpBa2p0Q052R3lJbEllRWxITS0xdWlmZFRac2V4NEhzQXpxSE00RWtBVnB4X2hFV3NOZ3pNVm5HU0hWTXZvajFDdzRaWEhHNU5sSlQzRWMtMEpfY2NtNG1yQ0NnUmlKX3hwWHRlbVFTVDZMN1k3UlZYSXJsdVpEdlo5WVEwRTRB?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "北汽新能源副总裁刘晓萌是公司资深女将 从总助的位置上提拔 - 汽车之家",
+          "text": "一月两度落子临朐，浙江上市公司持续加码山东新能源市场 - 同花顺",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EM2FrMjF2aXFnMEdWdjJqNzgteVJuLTdQSHBUazY4Y2dubWxzeWpyUUt5M1dVR0Jma0VXLWwtRElHelh3RHRWMTNjb1lGWHBTRWM4WW5RU2ZDT0VkSWhwWkJ0dWhFaXRvUUYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HS0ZvdENqYmtDVk5oeWJsNkV2ZW5KeHVISTFkMmRaZzNFZFl0R0gzUk1CV3BVVlk5SU1ubFphTnJ6QkpfekZxcHIwbENaRklxMnlwcXRaamFhS3hwTDk4S1pR?oc=5"
         },
         {
-          "text": "上半年销量增幅逾八成新能源重卡驶入场景化运营新阶段 - 证券时报",
+          "text": "工业4.0赋能的循环经济：制造业和服务业的实证证据与战略路线图 - 生物通",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VOFNJOGNVdmVOUThOSVNNSGxraExaNDZOQ2NoQndScVMzalBSWE1JcUk3anNwYV9zUEtHN3RCbmkxT25pMVM5R2ttTGVvY3ZhVEtNRzg1U1pKNlJB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HVTVkOFBkbms2cXRLMjUxNGNGbzhIUkFVejRJZVR3UXh4UzIyMmtZdW9QWE13VGVsdkVieGI5ZUYzbnBjemxmYTNHUDl1VkQ3OTROY2ZzUVpCcHUzOUtJdjFXX3dlZm9xYWFuaQ?oc=5"
         },
         {
-          "text": "【视频】第1700万辆新能源车下线比亚迪再刷新纪录 - 汽车之家",
+          "text": "多花3万选坦克300新能源，周末越野比猛龙PLUS到底谁更值 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51MmlpOWpjMlYxVENfa3d5Z05xdFVZdDI3T202Z29wTlI4Mm4tZUIydmRIVVBFdmtKcUJpeHQxanJWRjJEc2RSVDdQZ3FOV21QN2lZMnJlMnFvYlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85aXJyRVV3Nl9FdEJxdHRvWHBjRWI4VzdxclZ1QmoxUG8yUnRiQU02NTBTeXVhQ0FnYVFQeFdya2Y3ajRKckNheEtTQmNYdU9vWFYtZkJNR1JhY2M?oc=5"
         },
         {
-          "text": "【视频】新能源车主平均车龄1.8年？这是把车当手机换了？ - 汽车之家",
+          "text": "【视频】属于中国制造的新能源世界杯 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82aGd2cEpYWXpVYUlCbHIyYmQ1ZEtGbzViYnZxNV9jWHNPd2xMck5KYmxHSzBBbnJkY1FLeTFmdFNqRTBRbm5xbkhybVVhRTNoOW5URTdyaERIX21hTllFYWtpdUZ5ZE1RLUk0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rdHo2OUlNUkZJODhmY3ZuX3FGOGJWdFJpMmxRdVNOUFFMTFAyVTNPWHJyNjVvYjdfOG1mb0hobjlBVjgyTkRudGlWcXo4SkpacVBkZlBHcHNMa00?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "12:16",
+          "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+          "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "11:12",
           "title": "Alan Turing's biggest AI assumption may have been wrong",
           "summary": "A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Pe…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:49",
-          "title": "A 200-year-old physics experiment could help build future computers",
-          "summary": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to crea…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "A 200-year-old physics experiment could help build future computers",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm"
+        },
         {
           "text": "Scientists discovered the brain doesn't make decisions the way we thought",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Physicists finally build a quantum material predicted more than a decade ago",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm"
-        },
-        {
-          "text": "Tiny bubbles could revolutionize inkjet printing",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260711010112.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:24",
-          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-          "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Clau…",
+          "time": "03:16",
+          "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+          "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "VentureBeat AI",
-          "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
+          "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:09",
-          "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-          "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other mode…",
+          "time": "03:02",
+          "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+          "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
         }
       ],
       "briefs": [
         {
-          "text": "The US is advancing AI safety through state and federal action",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
+          "text": "The AI context gap: Enterprise AI organizations have a trust problem, not a ret…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
         },
         {
-          "text": "GPT-Red: Unlocking Self-Improvement for Robustness",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+          "text": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
         },
         {
-          "text": "How to manage AI investments in the agentic era",
+          "text": "Why teens deserve access to safe AI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
         },
         {
-          "text": "How sales teams use ChatGPT Work",
+          "text": "How Cars24 scales conversations and builds faster with OpenAI",
           "source": "OpenAI",
-          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+          "url": "https://openai.com/index/cars24"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Blog Review: July 15",
-          "summary": "PCIe ATS verification; physical AI; adopting AI EDA; custom AMBA Viz plugins; V2G; fab construction workforce…",
+          "time": "15:08",
+          "title": "Why Metal TIM Warpage Simulations Fail—And How To Fix Them",
+          "summary": "Characterizing the properties of thermal interface materials under actual application conditions. The post Wh…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-july-15-3/"
+          "url": "https://semiengineering.com/why-metal-tim-warpage-simulations-fail-and-how-to-fix-them/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "AI In Chip Design: Lots Of Promise, Plenty Of Unanswered Questions",
-          "summary": "Where AI will be successful, who will benefit, and how that will affect the design process. The post AI In Ch…",
+          "time": "15:06",
+          "title": "From Feature-Scale Simulation To Digital Twins: Helping Process Engineers Tackle Growing Complexity",
+          "summary": "Physics-grounded workflows help process teams to explore, understand, and act on a rapidly expanding innovati…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-in-chip-design-lots-of-promise-plenty-of-unanswered-questions/"
+          "url": "https://semiengineering.com/from-feature-scale-simulation-to-digital-twins-helping-process-engineers-tackle-growing-complexity/"
         }
       ],
       "briefs": [
         {
-          "text": "AI Models On The Edge",
+          "text": "Can Fine-Pitch Hybrid Bonding Go High Volume?",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-models-on-the-edge/"
+          "url": "https://semiengineering.com/can-fine-pitch-hybrid-bonding-go-high-volume/"
         },
         {
-          "text": "Research Bits: July 14",
+          "text": "Optimizing The Nano-TSV-to-BPR Connection In Backside Power Networks",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-july-14/"
+          "url": "https://semiengineering.com/optimizing-the-nano-tsv-to-bpr-connection-in-backside-power-networks/"
         },
         {
-          "text": "EDA/SIP Revenue Up 12.7%; APAC Roars Back",
+          "text": "New Nonvolatile Memory Winners Emerge",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/eda-revenue-up-12-7-apac-roars-back/"
+          "url": "https://semiengineering.com/new-nonvolatile-memory-winners-emerge/"
         },
         {
-          "text": "Near-memory Dequantization Architecture In Custom HBM for LLM inference (SK hyn…",
+          "text": "Co-Packaged Optics for Multi-Die Designs",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/near-memory-dequantization-architecture-in-custom-hbm-for-llm-inference-sk-hynix/"
+          "url": "https://semiengineering.com/co-packaged-optics-for-multi-die-designs/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:14",
+          "time": "18:01",
+          "title": "中国湖北地区新能源汽车国际供应链韧性评估与障碍诊断：一种融合AHP-熵值法-TOPSIS法与fsQCA的方法 - 生物通",
+          "summary": "中国湖北地区新能源汽车国际供应链韧性评估与障碍诊断：一种融合AHP-熵值法-TOPSIS法与fsQCA的方法 生物通",
+          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sY1p1ekRwRy1OYXhXdldQbVR0U1RlbzAzREhrUDkyWF8yRXR2aDA4SjhKWnlyVFFTcmlKeXJNWm00cUFDeWFwNHh1TndxTFZXa3gtT05rOUxGSGdsWWVKMDVWdUR3ZjdkdXRseQ?oc=5"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "10:00",
           "title": "宋城演艺：公司管理层对文旅行业和公司的未来长期持续发展充满信心 - 东方财富",
           "summary": "宋城演艺：公司管理层对文旅行业和公司的未来长期持续发展充满信心 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxdUM4SDQtMDBOdk5OQ0ZtRVNKdm53eVdMcTNqeklZQnhuRDM0U21xSkJ4TXo0TGNlUEFKSnEwNVo0bkFKUnJjSlpDRWJmdG84alVxWFJPMFhlX0EtaWtpXzVfRzVUUQ?oc=5"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "22:33",
-          "title": "安图生物：公司管理层高度重视股�... - 手机网易网",
-          "summary": "安图生物：公司管理层高度重视股�... 手机网易网",
-          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wTFcxZkFiZFNKUU9zVXMwY014czE0dlBNd3RkVmlTS1ZTSVJCUGVxZUF2M2UyV3JxZnNvbTFjVlhsSmRPRV9ERmJMNmtQZGFOWnJlaDdKUHR1YzNnWFRfM0Nn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EaDgtcVFITGo4cUFSSEw2XzVJbjBQWE44TV91ZlB0cW1ZTU5oa3p5cVB1bTQzVzVKOGxhUkpaVjJWbTRuYmdLbDJzT0xDbmVLR1M2b3l6MFV1MW93XzJRcg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "安孚科技：公司战略投资杭州华昇迈5500万元，直接持有其10%的股份 - 东方财富",
+          "text": "全国卫生产业企业管理协会医学AI智能体专业委员会成立大会在京举行 - 京报网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mZVVPbk9kcE9LdXlNS1FYY0hKVFdOMjJXUmdmZS1POHBUNlBkaFdkWVZycjJrdjMwQUhJWDNNS3dTa2Eta01aOUlsY2M2a1RFVlBqdUJySVNTUzdwYVE?oc=5"
+        },
+        {
+          "text": "亚太首届医用放射性同位素研讨会聚焦区域供应链韧性与核医学协作 - 中国核技术网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85N3JJNG9kQnpoLU1UTk50NjZMZzdvdkJuY2RrU05URnNpdE1zMk5OUU05QXJIckNlX1BONHE5MmYtZDhrdnlyemQ3Ul9jZGNwVEhxdnkzOWxiNENGR1dYMkxrc3ZIUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Lall3LUdnbG96SjlKeEdzNUNHLTlaZ1I2OC1FVWFWWXVYd0xBNjYyaHZHVG05QWY4U0hCMGptMmJIaTZtU3Q4b3VUVmZYc2Z5?oc=5"
         },
         {
-          "text": "金种子酒：公司目前生产经营一切正常，公司及公司管理层一直坚持健康业绩观 - 东方财富",
+          "text": "铂科新材：公司管理层将持续聚焦主业 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBR1ZDQ09oUFlVQlZ1OXNOUGdmLUNVN1JhVWpDYUxncDlmTXd1WGo1enpoR1pzcDZrYWJBMkVUY0hIMTZhOWprMGJHVlpiVlk2T2VnTDEzMVFKamg5dkJ5c2VyN0lSQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkRnE1bUNPNlJSNFJFRzZfLUNfaHd2VGxNWUlib09mUElTOU1LOG5iMnY0ZUdBcEFKLVllYmRtQksxeTdCX2NvQlFWLXU3MGVoY3dnRV9NX3l2TzV4bTNsS2N2TWQ?oc=5"
         },
         {
-          "text": "第七届企业管理哲学与组织生态论坛暨李占祥管理哲学优秀论文奖（2026）颁奖仪式在深圳大学成功举办 - 中国经济网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CSzQ1dG9TSmFCRlNJNmlVUXZkc3lJOGZoWXBLYXhlejM1NWh6TDJLMUU3dFBRQzhUdC1FM01HbG42VnhSemFyYkVzWVhFTnJ2UFlWYVNISHp5WGMyTUV5UEZwYnQ1aXRMd3c?oc=5"
-        },
-        {
-          "text": "骏丰科技分享AI时代企业管理新思路 - 中华网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uMnlHbmhWTFhMTjRINGw3djhvdDdOOV9YNV9pTlA3dUNQV3ZWdGYyTm1VMDFFNThyLVNOeDBYNXJIYVZ3QWFkR1liS016OGJldjFFVVp5VnRhVGlMZjJvNHdrek5mR3FOTldzSQ?oc=5"
+          "text": "港股异动 | 亮晴控股(03774))涨超14% 公司战略重心锚定“AI+高端生物科技护肤” - 凤凰网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FdGUzS3lqUEVFQ25GNWJYa0gtcDBEbFJBWVZJVE55cUl0ZHJGV1M3QmstcHVsdGVfZFBnVUlVUU16RzJtWFlfcA?oc=5"
         }
       ]
     }
