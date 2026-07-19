@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月18日",
+  "publishDate": "2026年7月19日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "数字浪潮来袭！三重引擎激活制造业产业链 - 手机网易网",
+      "title": "【视频】15万级的新能源硬派方盒子，为什么说BJ40增程长续航版是黑马选手 -…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Quantum breakthrough links light and ma…",
+      "title": "“Silly sprinklers” help scientists fina…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:33",
-          "title": "数字浪潮来袭！三重引擎激活制造业产业链 - 手机网易网",
-          "summary": "数字浪潮来袭！三重引擎激活制造业产业链 手机网易网",
+          "time": "07:37",
+          "title": "【视频】15万级的新能源硬派方盒子，为什么说BJ40增程长续航版是黑马选手 - 汽车之家",
+          "summary": "【视频】15万级的新能源硬派方盒子，为什么说BJ40增程长续航版是黑马选手 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pTk5EYUxFRXFmVHdnMnZJLWlfWGllLWNTUS1aaHNRQVlScExfZ05QbE1POHNsNFJ0Vmk0OUJsWkowTzZwQS1QSm1oSFNrRUViN2RVTzRrWk5oMk9WVjNTOWhn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wcHo5VlpQcVFDNXBDdHB1WEF3a1l0SDFOVV96Wm9Ubl9xVkxXb3JKbm8wOXc2UTJnUjFIZGN5am1ySjRlaURKRDB5b1Z1OVZ6cndtcUxULTVkVG8?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:25",
-          "title": "天水区域中心城市建设① | 加力发展先进制造业集群 - 手机网易网",
-          "summary": "天水区域中心城市建设① | 加力发展先进制造业集群 手机网易网",
+          "time": "07:37",
+          "title": "【视频】15万级的新能源硬派方盒子，为什么说BJ40增程长续航版是黑马选手 - 汽车之家",
+          "summary": "【视频】15万级的新能源硬派方盒子，为什么说BJ40增程长续航版是黑马选手 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkZFJHbzBkeXF0ZDJrVm9jR0NsaU9QaEhzY3drYS02ejlpbDVhemNZMXo0a09MTC16LTFjcnF4SUlJa3Y2bXlILXgxX2tPdnItbDFNMVFhNmxPSThxOU4xdmx3?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWWC03cFZwZHdyY2FNeTM4dDk0ODdxbkJCQ3gzbWQ5TE5DU3FhWXN1S2cwanJQdkYtX2ZOVFZTUWpBV0E3UjJxWmlBVU1uMk5ULXRWVzdxaDJ0ZGpDQ29DRDFyMmFCZG9vcXdv?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "20-30万家用新能源盘点 这四款各有特色 - 新浪汽车",
+          "text": "2026年最保值的车推荐：燃油车稳坐江山，新能源黑马杀出+FAQ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53X0UxRGxSZ253R0JxUTFja1B6SkhzMGRrVWJjRGxILXc3UFRLRmlQalpOLWxtajlTQklPdGZkdURYeGtKeEdLLVFDU1pCbUstZzRKNFdJclpJTDNXMWlCajF2aDdBSUtLZzM4R093?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iYjdPX0dkSFJDM2ZqN0xIa2Zrc3F2V1RsYXJsdExHV3RfZWtHM2FmbFNyZ21nSzZITE0xZ1BqVHc2UUd0bDFtXzV2d0V2T1R6NFVqWW9DSHg3anBxdThmR2dqNU5jLVJfeVhjLVZZNzVuUQ?oc=5"
         },
         {
-          "text": "新能源市场太卷了！吉利银河TT搭载雷霆16合1电驱，800V+AI能耗优化，竞品慌了？ - 网通社",
+          "text": "对话领充新能源周强：车能融合进入深水区 技术生态化成产业突围主线 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fc0lxZkdubFVmVzV2b3ZYWGpERVZpSi1IbHZfOGdRVWNuVmUwdlZwQnhmMFdyc2h0Qk00aFBFN2szY1phVFJFVXpfRlowZ25Mc0l1cGUydjVYRVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ILUh4dFNaYzRTMEpBNlFIQ1VBRDlleFRSZ0k2ZjNGOHJoWHBUYW15ajFMeUd2Y3kxbFZya3JBVU9iUzdQYi16R3FHQVhraDFOcTlqemFhb3MxZFFQX05BdWlxUlR6QmhuRUxjUzVtYS1xc25zbFo5LQ?oc=5"
         },
         {
-          "text": "7月17日数字经济ETF鹏扬基金份额减少200万份，重仓股东方财富、寒武纪、海光信息_基金提醒_雷达 - 证券之星",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHY3lPMkdieFNZZWJjN21QQjlZVldXS05DdVlTb0dSMFVmRklzZ3l6X2M4V1BBTG1FQmJDYlBUTktMb1E1TkZEYkJ3WEFMQWdxcmpiTUZyS0JBUXRTRzRWbHd3?oc=5"
+          "text": "周末露营怕油耗高，坦克300新能源和至境E7的续航差距在哪 - 汽车之家",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WRjV5cTZZT1NHa3doUzBLTFA4bldZY0g0b3BUTkdaM202NjNTcFhNRVljQXZ4UV9Sa0otSDNZMVM0SDllUnZyeXk2ZnFiQ2Q1ZjAzbWI4Qm9ETTQ?oc=5"
         },
         {
-          "text": "锂电池消费税对新能源汽车销量有何影响？ - 新浪汽车",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KVmFiZVF3V2Q0TVRCNnRieFM2S2l4VUZwYWhEVUFFSEhScHVDY1VNNFk2TTRxUUtsbkxMbTRVRFpHakVUNjRQV3Nub3ZOekV1TkJEc3lHTzhibGhYdHE1SWdfRDhkRll6TEZIMEpB?oc=5"
+          "text": "大批新能源车通病集中爆发，车子开着没问题，电池却直接废掉 - 手机网易网",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Fc0pBeEtqSWhrU0tnZkotM05JR3d4cWZUa08wbXliTDBuT2ozTGxzcHBWcXBRcnJTMGpxTE5IS2dDSlF6c01lY0V4Qy1HZ0lqUkVJZzNnTlpIM25kRDdxRDVn?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "21:58",
+          "title": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
+          "summary": "A team of mathematicians used whimsical \"silly sprinklers\" to solve a physics mystery that has puzzled scient…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260715083535.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "12:16",
           "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
           "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "11:12",
-          "title": "Alan Turing's biggest AI assumption may have been wrong",
-          "summary": "A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Pe…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Alan Turing's biggest AI assumption may have been wrong",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm"
+        },
         {
           "text": "A 200-year-old physics experiment could help build future computers",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Physicists say quantum mechanics may not need imaginary numbers after all",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm"
-        },
-        {
-          "text": "Physicists finally build a quantum material predicted more than a decade ago",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "05:16",
-          "title": "伟星股份：公司管理层对长期可持续发展充满信心 - 东方财富网",
-          "summary": "伟星股份：公司管理层对长期可持续发展充满信心 东方财富网",
+          "time": "04:47",
+          "title": "袁记云饺/袁记食品获证监会备案！或很快香港上市聆讯 - 凤凰网",
+          "summary": "袁记云饺/袁记食品获证监会备案！或很快香港上市聆讯 凤凰网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZUE9RcDdHd0RDeFUyOWFQTlduM3dTLVJYdEhDelo0MXR3SmFkMlJ5UXlraE1lUGZabTJZMHdvc0RpZjRzWllLcmwxVTV1ZnpqMF85U0R3cXY0d2J3dnV6b0hlaGxvQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9MTzhWaml6ZVp6a1JUcHNPbjljN21DTWtDbzdkRUxmX3UwN3Zzd0FObkhyaU5MQlpyVEVybnVsNVZLNmE5QnBHNA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "03:57",
-          "title": "金科股份（000656.SZ）新增一起对外投资，被投资公司为天津金福顺企业管理合伙企业（有限合伙） - 证券之星",
-          "summary": "金科股份（000656.SZ）新增一起对外投资，被投资公司为天津金福顺企业管理合伙企业（有限合伙） 证券之星",
+          "time": "01:55",
+          "title": "路透社：美国小企业管理局局长借SpaceX创纪录IPO大赚数百万 - 手机网易网",
+          "summary": "路透社：美国小企业管理局局长借SpaceX创纪录IPO大赚数百万 手机网易网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sT3dwa1pVTVpDRU1vS1hhMmpEY1pXWWVSN3NjUlhIVXVXRGJ5YXRHR0QyMDNNbHkwZ0FpZDR1am1WX3ZFbW9BNWU2bXlJaGY0SFlPVktMWTZhR3BIVEVPcHNmRUg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yZlM1clZ6b1FCYmFGclpSYjNhWUZnYUVfVzhLYXVtVHlQdWNHYkI4UXNadzJzUl9VNldwSU5zeTlkSk9rY0lJTXlhVnlLN2cxZ1p1c0JIb3FKSjF4X09Pc3B3?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "2026年中国企业管理培训行业产业链、重点企业分析及投资战略 - 手机网易网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JbDMyZDU3V2VLWkVTdnBSWkYyV1IzaFI2WW5BUDQxNjk4cVRrN2hDMmZpdlRXbGFaVnltRy03QjZBNVRnYTBqeDl0UDM2UXVsM2NlTWNLR2pZR1lwVG1manVn?oc=5"
+        },
+        {
+          "text": "伟星股份：公司管理层对长期可持续发展充满信心 - 东方财富网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZUE9RcDdHd0RDeFUyOWFQTlduM3dTLVJYdEhDelo0MXR3SmFkMlJ5UXlraE1lUGZabTJZMHdvc0RpZjRzWllLcmwxVTV1ZnpqMF85U0R3cXY0d2J3dnV6b0hlaGxvQQ?oc=5"
+        },
+        {
+          "text": "金科股份（000656.SZ）新增一起对外投资，被投资公司为天津金福顺企业管理合伙企业（有限合伙） - 证券之星",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9sT3dwa1pVTVpDRU1vS1hhMmpEY1pXWWVSN3NjUlhIVXVXRGJ5YXRHR0QyMDNNbHkwZ0FpZDR1am1WX3ZFbW9BNWU2bXlJaGY0SFlPVktMWTZhR3BIVEVPcHNmRUg?oc=5"
+        },
+        {
           "text": "东华软件：公司管理层始终高度重视公司价值与投资者回报工作 - 东方财富",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40RWN1LTU1eGxIUUpJdGc5U2VPd0VXVEVBNi0wWjRFTUlITGZEODU5eWpYZ2JrUUw3SVlodENrTXZhTzJjSGNmRmt5TC0wQTdrMk11c2FXZFI0VkFCMy1vbA?oc=5"
-        },
-        {
-          "text": "RPM Names Andrew G. Polanco as Vice President – Operations and Anthony R. Nicho…",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSDA2RThFQWdOZUlYTnMzTlNNZ2VIU05oNWtDNW1md2dvdnd0d3c0UzhldWNWeVMzNDY5WU1fekxkWGpUbFRUSXp6RnU4c2xFdDZELVQyY2pYdmFPNERTYUdva1ZMb3pzNzJRQ1ZVT0ZsbDl2UGdTYkxyQ0Nwa0xRUnVoeElnUTJzRS1HQVE4Ny05YlFYZEtkMjM3SmRkS1ZEcVVhX0h0eEN1cThPRTV6ZnF1b196NlpvRWFzc2FNRWJzamlnbm4tcm11U0ExbmpGLVpZRFNXem1QQ0xIMEF4bDE4czEtM1RmQ2YwVG9HVVE2dE5HSnlqLW5jQWhkVmtMXzA0WVhPN3RYeUp6OE9qbW1n?oc=5"
-        },
-        {
-          "text": "天津日报：提升产业链供应链韧性 筑牢现代化产业体系安全屏障 - 南开大学新闻网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11TUdEYkc1QlhPZHpFOGpGMjRQclY0cjN4VW1mNHVIZzQ0R3ZxTzRtcDBwZl9ITmhmeEFuT3Q4TlV0cVk3UDUxcXp3RC1wZWM3Ymt6cWUweXFKVHdhNEJNcVN4aUZ1dFZPT0xJamE4X083dVk?oc=5"
-        },
-        {
-          "text": "纳睿雷达：公司管理层看好公司长期发展价值，对未来经营前景充满信心 - 东方财富网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zaXBpOEVEYUdNd203X2E2cFNHbm5wU3U3LTlCUFJOVnd5NEZIRkRFajRyWV81RGNHOTA3ZW41S2JHeGlTc0s5STNTSGY3TUlqZkI2WWZYYWZCRlk2UmtjeUZpY2E1UQ?oc=5"
         }
       ]
     }
