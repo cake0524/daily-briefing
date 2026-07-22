@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月21日",
+  "publishDate": "2026年7月22日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "光储锂电产业“多点开花” 新能源指数近一年跑出“加速度”_证券要闻 - 中金在线",
+      "title": "【视频】新能源车充电桩到底怎么选不踩坑只选对的不选贵的 - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:04",
-          "title": "光储锂电产业“多点开花” 新能源指数近一年跑出“加速度”_证券要闻 - 中金在线",
-          "summary": "光储锂电产业“多点开花” 新能源指数近一年跑出“加速度”_证券要闻 中金在线",
+          "time": "08:05",
+          "title": "【视频】新能源车充电桩到底怎么选不踩坑只选对的不选贵的 - 汽车之家",
+          "summary": "【视频】新能源车充电桩到底怎么选不踩坑只选对的不选贵的 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EbnMtRlktUG52XzVad0tRUmlaV0ZzSnVXQm5XaV9mdUlYdlRrYkNGU01YZHRueDVhUk9ld25BYmJqYVMzX3dHanM5TUwtRTJ1WkhuQzlwNVI2WDNkMHF2dnRKblpteWNGYUVibzlB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ST2lpZnFGSWZFdy15bjVKYzl5cS10a1BEVjMzNkZ1a194ZXJYRjdsd2JJLUhQY1BYRlFoRWUzQmJvQ3FnRmtZdVBFRDlyOGxEdl9yZDBrQkU2bDQ?oc=5"
         },
         {
           "priority": "重点看点 02",
           "time": "08:03",
-          "title": "动力电池收税，新能源车遭遇重创？车企更不挣钱，比亚迪占便宜了 - 汽车之家",
-          "summary": "动力电池收税，新能源车遭遇重创？车企更不挣钱，比亚迪占便宜了 汽车之家",
+          "title": "车龄比手机还少5个月？新能源车1.8年的杀伤力，只有老车主能懂 - 汽车之家",
+          "summary": "车龄比手机还少5个月？新能源车1.8年的杀伤力，只有老车主能懂 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OQldhMmFwQjBRZjdmRzJkdzYxS2VfV3p5RGJnY1lBNzNFNGVDaUtackxRUmExZUpQSGNDS084LWxYaU0tY2NVZjBuMUtUQ01TdjJtSHpBTGZwZ2s?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXd1h4c2dwb2k5R0RvdDl1RVhmZUNJaTE5Z0hxcTFPdGZ6UzBkT2FyUlAtX01qMERHYWVCVWN1Q1F1bnAxaEJ6OUFEZnAycklkenlXSlphckttaWs?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新能源汽车租赁划算吗？3个维度说清价格、保险与避坑指南+FAQ - 新浪网",
+          "text": "工业对经济增长贡献率超35% - 手机网易网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zWXY3cUt2eWhvTVNORkJqaV9yblZvUy1wNHd1aUw0My03cDQ1aFpNcHNtanRHS19qUHdzem4zMkhFaXlKZVVMRlpqRE8yTk9xWV9rRWxQY21RZ2dTRVg5NUd2VHhJVTNEUEU3RjVZenQ1UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rdERsbUF1bXZEZktuV2E0WlN3ZHBIcFJRaTRmOHNnd0taZGtuYTRzSUFOY2dwSHRnTGJlaEFTLTloUmcweWlfXzJRbXYwam9nQmRvLUFPNU1MYXRYNG1jemdB?oc=5"
         },
         {
-          "text": "上半年 上海三大先导产业制造业产值同比增长14.5% - 亿邦动力网",
+          "text": "买了新能源车，物业却不让装充电桩？法院这样判 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95N0dHQWh5akVkODZlV0t5cVdWOHJZZ0FRbEFOSE84REVYQ1R0cjc3N0ZESHdvVVk2WVlpYklXMnAta1AzN19wWnJIMXVVQ3VtQ3ZwdFh3Z0g?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWx2bTQ3WU4zX0VLZ2puSkRDbzc4YWFLaFllTGNqOVB0YzQwdjZ5dlJ0QTczaFI1TjJnc3VfQktyWnJZOUtJeG50OFBJRE1aU0JYTVFyMUxvYmZKTlpwWUtxNGVyZ2EteldnZUQ4UFEyRE5udXlXUHp6cVdXamZjOGx1bnVZTVZH?oc=5"
         },
         {
-          "text": "新能源车教学：学员学完就能适应主流家用车，你的驾校能做到吗？ - 手机网易网",
+          "text": "【报告】国内新能源乘用车市场深度分析报告 - 电子工程专辑",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FZVZzX2pTcF85X3FOeUNzekJ2X2dQYTZBYkJucVhfT3J0cDhNMDJRbWdTejJEUEpTNnoydFJsaXpYVVVBWmY3eUVNVGcyZXFqc0E1NWFsckN1NU1rUTRhVlJ3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14dU9tSkJaVmlQS2tZZ0NsNHVvaGNXdVFraUlfYk50X21ZZzJrR1F0YnBnUXBVU0FZcm5LQ1BFR0Ewb0RMV2RMNk13WkhMSXFHeUln?oc=5"
         },
         {
-          "text": "土路托底两次，坦克300新能源和至境E7的露营体验差距在哪？ - 汽车之家",
+          "text": "答问中国经济之二十四：中国新能源车平均车龄只有1.8年吗？ - 手机网易网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kUERPNlJCQVdxYXdhZUdSRFYtNFRlWlZjamVTeUhJMFpOMVFEbExVcGZpeGMyVWpubnRTbWNuLUZneFpsUHlZOE5YNVBxU3R4dVhmTVFpdS1CeVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ba2pJQVNPMHBZd3ZLTVczeTg3Sjkzc0NRbXhWcGVVS1JxOGxFNUN2Y3JZSUJUSVRhbmpIb1RGankwX3luNFNnemJJeEhIMG5uaEszVmlGRHA0QkxoLTlMTkpn?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:00",
-          "title": "China’s AI models have Trump’s AI world at war with itself",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "time": "01:00",
+          "title": "Introducing the ChatGPT for small business program",
+          "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate wor…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:00",
-          "title": "Safety and alignment in an era of long-horizon models",
-          "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures…",
+          "time": "18:37",
+          "title": "Advancing next-gen AI with materials science innovation",
+          "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconduc…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/safety-alignment-long-horizon-models"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
         }
       ],
       "briefs": [
         {
-          "text": "AI is more likely than humans to form biases when hiring",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
-        },
-        {
-          "text": "A scorecard for the AI age",
+          "text": "OpenAI and Hugging Face partner to address security incident during model evalu…",
           "source": "OpenAI",
-          "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
+          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
         },
         {
-          "text": "The risk of weather data sabotage is rising",
+          "text": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI…",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
+        },
+        {
+          "text": "China’s AI models have Trump’s AI world at war with itself",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
+          "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
         },
         {
-          "text": "The AI compute gap: Enterprises are buying infrastructure faster than they can…",
-          "source": "VentureBeat AI",
-          "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+          "text": "Safety and alignment in an era of long-horizon models",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:30",
-          "title": "Graph Transformer Speeds IC Interconnect Signal Integrity Analysis (Buffalo, Stuttgart, IBM)",
-          "summary": "Researchers at the University at Buffalo, University of Stuttgart, and IBM Research published “SI-GT: Fast In…",
+          "time": "02:41",
+          "title": "HW-based Methods to Dynamically Throttle AI Performance (Princeton University)",
+          "summary": "Researchers from Princeton University published a technical paper titled “Hardware Mechanisms to Dynamically…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/graph-transformer-speeds-ic-interconnect-signal-integrity-analysis-buffalo-stuttgart-ibm/"
+          "url": "https://semiengineering.com/hw-based-methods-to-dynamically-throttle-ai-performance-princeton-university/"
         },
         {
           "priority": "重点看点 02",
-          "time": "02:14",
-          "title": "3D Mask Effects Enhance Imaging in High-NA EUV and Hyper-NA EUV Litho (Fraunhofer, ASML)",
-          "summary": "Researchers at the Fraunhofer Institute for Integrated Systems and Device Technology IISB and ASML published…",
+          "time": "02:31",
+          "title": "Monolithic 3D-DRAM with Oxide-Semiconductor Architecture (imec, KU Leuven, Samsung, Lam)",
+          "summary": "Researchers from imec, KU Leuven, Samsung Electronics, and Lam Research published a technical paper titled “O…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/3d-mask-effects-enhance-imaging-in-high-na-euv-and-hyper-na-euv-litho-fraunhofer-asml/"
+          "url": "https://semiengineering.com/monolithic-3d-dram-with-oxide-semiconductor-architecture-imec-ku-leuven-samsung-lam/"
         }
       ],
       "briefs": [
         {
-          "text": "Inference Accelerator that Integrates Compute-in-Interconnect and Memory to Mit…",
+          "text": "Chip Industry Technical Paper Roundup: July 21",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/inference-accelerator-that-integrates-compute-in-interconnect-and-memory-to-mitigate-the-memory-wall-nus/"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-21/"
         },
         {
-          "text": "NbAs Nanowires Show Lower Resistivity as Interconnect Dimensions Shrink (Cornel…",
+          "text": "Research Bits: July 21",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/nbas-nanowires-show-lower-resistivity-as-interconnect-dimensions-shrink-cornell-nycu-ibm-et-al/"
+          "url": "https://semiengineering.com/research-bits-july-21/"
         },
         {
-          "text": "Litho Patterning of Conformal Thin-Film Coatings on Complex 3D Structures (KTH…",
+          "text": "Graph Transformer Speeds IC Interconnect Signal Integrity Analysis (Buffalo, St…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/3d-scaffold-masks-pattern-conformal-thin-films-down-to-27-nm/"
+          "url": "https://semiengineering.com/graph-transformer-speeds-ic-interconnect-signal-integrity-analysis-buffalo-stuttgart-ibm/"
         },
         {
-          "text": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207"
+          "text": "3D Mask Effects Enhance Imaging in High-NA EUV and Hyper-NA EUV Litho (Fraunhof…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/3d-mask-effects-enhance-imaging-in-high-na-euv-and-hyper-na-euv-litho-fraunhofer-asml/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:45",
-          "title": "JUPAS改选2026︱终极改选截止 都大首三志愿报读增3成 岭大商业分析与创新77人争一位 - 星島頭條",
-          "summary": "JUPAS改选2026︱终极改选截止 都大首三志愿报读增3成 岭大商业分析与创新77人争一位 星島頭條",
+          "time": "20:30",
+          "title": "燕麦科技(688312):深圳市他山企业管理咨询有限公司关于深圳市燕麦科技股份有限公司2023年限制性股票激励计划调整事项及预留授予部分第二个归属期符合归属条件事项的独立财务顾问报告- CFi.CN 中财网 - 中财网",
+          "summary": "燕麦科技(688312):深圳市他山企业管理咨询有限公司关于深圳市燕麦科技股份有限公司2023年限制性股票激励计划调整事项及预留授予部分第二个归属期符合归属条件事项的独立财务顾问报告- CFi.CN 中财网 中财网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxNOFUxTlFtUFR0RmRybzhUQTRCV3BmN3VGM1dvMXU0dXdZSGVmd0xieVQyLVYtRWlOazdkUExXZUZDX2xDZE1LOTZLa2xmYXlxNXp1X2ZDckNiaFZ3WW1NUnVibGxOVEVVLURjVEdNdC0zN29RczdYZmE5RDQ1VUFDZFRsanZIc0IyWW5ESDhpNHByQ0Q5Zmh3aktWYmZyTUlmRjc1T1FGZk9IWDIydzFOOHhmMTcwdW1paEUzYmdZa1l2TjNtcjRrSTBUY3QtQmFmSlhhRGZJLTU3bE9Xc3MwV3NGRVI2SW1DZWIxeEtyNW5zYUI4V1VjX1FPb1VfMEVLb2tXUGFSWDNxdDFxcjVSVEY2Y3NBNmFRdGUtM3V1WThwX2VlbkhieGxzeFJ6OHloVkhQUVByS0NJTHd5WTN0TVBzQXh5LUhBd081YmNOZ3pGa2pFcnkxOGJkZ2RKMDdxRVNmZmw0aldzZ0k1andnN2V6cFpxcEtrdTgza2VZbzA2RVp4TjRhWU1xZmtCb1hlLWNqV2lGdVkyaVRFN3VteVJEWUVJUXczMlk1aXNFZENXM3BpZzNOLTFrcWMtZ00tTXhzZVlsMng4czhSVlB0anNheHd0NWFSSVJiZ0ZkRncyUTMyVWRjeg?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FTFpYZ19nS0RHdTJkaUxBMm1OSTZFVXFuRjNQbG5PNlB0OFhJN0pCeWx2Uk8tR1NXN2VfUVFJenl6VUZ0eDgyY1ZWSU9uWS10MFFaM2dB?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:24",
-          "title": "中信出版：公司管理层高度重视公司价值与投资者回报 - 东方财富",
-          "summary": "中信出版：公司管理层高度重视公司价值与投资者回报 东方财富",
+          "time": "19:31",
+          "title": "安科瑞(300286):安科瑞关于公司管理层增持公司股份及后续增持计划 - 中财网",
+          "summary": "安科瑞(300286):安科瑞关于公司管理层增持公司股份及后续增持计划 中财网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wM2stMEZMVGpBRHhyTVNrOWg0WUF0LV8xSENHZjF6aDdxaDVDanZucW8zWl81YnM1WGZmeVNaY1hVNHJjTVdHRmZ2bjRhOUhfUXBLb2p2Vkl1LVVVTXU2MmRuMVI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBteDVBOVlJVm9tWllfRk1ZRHVWWXV0Z3d0M0JHR0l0RWhFM2ZHZEV0dC1qUExGMnlpOEwxY2hrM2NGdjBfZ0laMGd1UkZFcFMwVmdld1BR?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "谢贤谢霆锋无商业关联 - 新浪网",
+          "text": "百川股份：公司管理层看好新能源的发展方向 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00T3RxQU5RRU5GNHpRbTFBakg0Z0U4aEhJMGwtbkpCeGFRcGRjS1pXM0xrNS1xRkNiajJZdEF3TWtIcGd3Z1hiMHZiTDQ5bzhTVVgzRzNLTkFjZEpRNEVBejFSRlZZckdrMHF2bDlOS2I?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JOFlsVzB0aHlZWFhUam1fa01DNXhOZjk0US14RzA0bXQ5TFRFWC1yNmVtbk1WekdXRk5pX01IamhsX2RuOXpvemZ1ajI0YVkwa2JrWjhacEdqbW1ieVN2QmpGeFU?oc=5"
         },
         {
-          "text": "小微企业管理软件哪家好？2026年8款高性价比工具实测排名 - 手机网易网",
+          "text": "遥望科技：持股5%以上股东云南兆隆企业管理有限公司解除质押1600.00万股 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLbVNpQjRuVGY1TWFxUjRhbUxISnlkdjI3UlRJa2tEN0tuT2VKXzhuYVJra0xSYkxGb3ZfSDBNdThHVzZfc2xzamtESTFQNjUwWHBmSDZiRWg2bWF6X1c4LTNR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhMVRtb3pTc0ZWN0NmM25HdzdyWlpBY0x2Rmw4a3BQWm9XTk5jSWc1Uy1weTZHWW5IbVlWR0p3bmNXSk9KcjdCRkxLckR4VTVjRTZGeFh2UEYtYjRraWpDY1U1anFWdw?oc=5"
         },
         {
-          "text": "天津陇金信企业管理合伙企业（有限合伙）成立 - 新浪财经",
+          "text": "靠谱的豆包运营优化公司2026——豆包代运营全托管TOP3服务商综合测评 - 手机网易网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMjl0TGpmYzFOYjBXd0JMSzdVaFVGQnhpemZoaEtjRnI0d3lCLTByTVo2QWhBMHdWUTNDYlVxWHgxeWJNNXI5MUhNYW9DMWVPaHNEZnRqcTNLWmhHSFhpQ05Nek8xUzFiZEphUzU0NmpoUTEtejljd1ZlSHNDandXVGlxZWIwMzlHZEZ5eWM5bDBwSTYzQ2p2RQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wYkMxQ091S3RxRWlKclBjcUQ3ZkhqZlFvbFBRNTJoQ0IzVmVGXzdob2tzSDhrWThUYWVSV2EzSk1qUWxxX1FXVElyeWFtOXpSRFNaV05GNzhEcjFMcnlaSzl3?oc=5"
         },
         {
-          "text": "2026年快消品企业战略指南：心胜战略深耕快消赛道打造落地增长方案 - 邢台网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pQWlwSHdNZTZWcXBrY1pmUUhjS1F1aGF4RHhSMzk2R1k0QlJVcXUwNnZJQ21NNE4xdjdCLW80cUVPWGJXZlNWR2FTb25BSm91a1huZjJzM2NaZWR2UzZ3Q1RTbkhpUQ?oc=5"
+          "text": "欧晶科技：公司管理层持续聚焦主营业务发展 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rM2FrR1B0eFlhV29URm9zeFZMLThGUlRwVHFpdGVkTE0xTV8teVNYLWtMLUVvVmZsWGJ2U01meER5clQ0VE9SbTRZa2ZMOG1zbEJjRlo5Wk1OdjJubHZTRQ?oc=5"
         }
       ]
     }
