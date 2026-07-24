@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月23日",
+  "publishDate": "2026年7月24日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "新能源电池ETF华宝（159071）开盘涨0.00%，重仓股宁德时代涨0.17…",
+      "title": "上半年新能源车注册量近半，现存新能源汽车相关企业近180万家 - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:10",
-          "title": "新能源电池ETF华宝（159071）开盘涨0.00%，重仓股宁德时代涨0.17%，阳光电源涨2.19% - 新浪网",
-          "summary": "新能源电池ETF华宝（159071）开盘涨0.00%，重仓股宁德时代涨0.17%，阳光电源涨2.19% 新浪网",
+          "time": "08:05",
+          "title": "上半年新能源车注册量近半，现存新能源汽车相关企业近180万家 - 新浪财经",
+          "summary": "上半年新能源车注册量近半，现存新能源汽车相关企业近180万家 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBYmNwUmt5MmQ4blhOSmdCRW1OQlRJaWpJblppLTJ2U0tmQld3QmhqQV9qRGZSRHA4ZWFnVGtrcGRET0NPbmNMbzJia0tOaEhNVDZ0Q25McDZmOFk5S0JOUjNfRWF4NmswYnVmeFNILUxEdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHRXTko4N3pqRzVEaWpOaTlZMHlPVEowYXNqWlpDRGsxdzdMdGVsUmVJUnFhUWtZbkVybWpVS1BkVGdzLUE5bW1LNnd6X0l3RnVsdFpmWWdEUXlQZWtSQlNmMVRFc3RqZXpYTXEyYi1CRUJ1T2h4V1VKMzhHUG1qOE84OElxOWo2Z3d3UGxmR0pwb0lvcG9SWDBhN0ptWEJUVGhVbThYdw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:08",
-          "title": "吉安援赠阿克陶县新能源公交车上线运营 - 凤凰网江西",
-          "summary": "吉安援赠阿克陶县新能源公交车上线运营 凤凰网江西",
+          "time": "07:55",
+          "title": "固态电池龙头官宣布局AIDC储能 - 新浪网",
+          "summary": "固态电池龙头官宣布局AIDC储能 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBuVlF1RHk4blpmOHo2SDVuemJLSnAyNzI4MWxad2RSSU9QUy1qR2RWZTBNWXdJelRzZk1abWY1SklEREZDQVVrdXFn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lUnBxeXcwZDZYZWw3b09QcnRELTFDdmJXSVItWlN4RjR1WVFfZFhUbUZvNWJIY1BiRTdaS092MFp6TDdBRktKLWRKWjNEVWFpZEZId2hEUF9SWnF1N3RJSE5VTnRsNWJYVnNXNEpTaXdMdw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "混动不再免税，新能源车产业的“成人礼” - 富途牛牛",
+          "text": "9月起开征！新能源车会涨价吗？ - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBMHpQb2ZqOUpjNWdvNVkxT2IwTFFjbGhLQ3NLNFVaNXlSd1pUSFBHaGk3N2lSbUwxWUYzWHFULUVON05hdWxFWGdsVENnUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jT24ydWE4b0lrdlo4Y0c3SjlwazFKYzRPbEN0WWtDT08ySUY0UlNLYVloZTRnOW5IZ1dmZGR4VVFlamZTdGEwRFdTb05aMVZzejc3Si1kc293RksxS1lXc1Vidm9yOWJ4bkVUN1BObFNfSkRoNFE?oc=5"
         },
         {
-          "text": "【视频】新能源保值率榜单出炉，纯电、插混前15名半数以上搭载宁德时代 - 汽车之家",
+          "text": "7月新能源汽车预计销量98万辆 渗透率64.5%再创历史新高 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdEh4WDZsSlpUclJKX2pzSDBtMG02d09hNy01VEpNLUV2ZnVoNzNfTUpnR2IzSWlUeXZTeTNkTWltNW5VR21XUWE4bnVzTHdSMjdHWTZvRmwyUHM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uakJVblY2bk1IbXZnTDZFQkZyTWFyekd2cDRSUUZDZXRySkZfeDYybXZaQ3c4cTdNUWZaQTF1czFaUzlaVk5wNEVxd21VeEV5RnNGM1ZQdEJ4ZGR2cjVVdmNKYmhHT3l5NjJzazIxNFpHX252M2QtRlhoRWhXWjQ?oc=5"
         },
         {
-          "text": "宋Pro新能源价格大降？2026款全系落地价解析，9.99万起值不值+FAQ - 新浪网",
+          "text": "存量焕新增量突破，制造业提质升级 - 河北广播电视台",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HcGVHelJnWVRLVjJnQXNxTDNSZFFja0Jxa2dPQmpjY1lBR2J1QXhVa3paTDVzQW56WTVyZmR0Z1EyazM1MGc5b09sTEpRMVo2TWpJeEs4QnJ6dzBZY1ZYbVJpV2xldm9OZTFhRkpBR3Q1UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWkJlV05ELTRuNENNZVV6NUMwNDNybktKd3hZcktUTzRNbTlaN2ZOdUtfRld4TW4yeFEtS0dKM0JvSGtjU0JaWENMcTFmdFAyZzBwaS1TdEtheDdnZUJr?oc=5"
         },
         {
-          "text": "人力资源服务业与制造业融合发展试点工作取得阶段性进展 - 华龙网",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXN3ppaFQ1cmN6SzBYVkphNFNsc012M3VGSG03a3hNV3dGQVB2Sk04a2w1SXUzUXlyS3hXUHBsVTBmRC0xVnBLSndNalJsNE9seVg1THNDSHlNbWlnZ1UtU29uWnVkdldvdnNB?oc=5"
+          "text": "四川成都：借力数字经济跻身开放前沿丨央媒看四川 - 四川新闻",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xbUxfelJjb1ZMbXFYcGEtNmtrMHFzMjI1bGdSMU5NQ2otYTcyblgxM3RrNXhqbHlUUjd0UHRFb0pVU3BrS1kxRjVKYzJIZ1FZVnFfT0hGd3Uta1gzaURhNUVRTQ?oc=5"
         }
       ]
     },
@@ -170,24 +170,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:00",
-          "title": "Building AI infrastructure with the Effingham County community",
-          "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, commu…",
+          "time": "20:00",
+          "title": "How AI helps scientists design the next generation of medicines",
+          "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can t…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "08:00",
+          "title": "Launching Health in ChatGPT",
+          "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/health-in-chatgpt"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Building AI infrastructure with the Effingham County community",
           "source": "OpenAI",
           "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
         },
         {
-          "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "How news organizations are using AI to advance their vital missions",
-          "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, wit…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "How news organizations are using AI to advance their vital missions",
           "source": "OpenAI",
           "url": "https://openai.com/index/how-news-organizations-are-using-ai"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Advancing the next era of national science",
           "source": "OpenAI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "Introducing OpenAI Presence",
           "source": "OpenAI",
           "url": "https://openai.com/index/introducing-openai-presence"
-        },
-        {
-          "text": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/ntt-data"
-        },
-        {
-          "text": "Introducing the ChatGPT for small business program",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Bringing Design Data Management into the Developer Workflow",
-          "summary": "Bridging the gap between modern development environments and enterprise EDA data management. The post Bringin…",
+          "time": "20:00",
+          "title": "Sleep Patch Could Track Brain’s Nightly Cleansing Ritual",
+          "summary": "When you get a good night’s sleep, you aren’t just giving your brain a chance to rest. Sleep activates a syst…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/bringing-design-data-management-into-the-developer-workflow/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/sleep-monitoring-device"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Blog Review: July 22",
-          "summary": "Securing physical AI; agents need feedback; 3D-IC security; chiplet interoperability; RF digital twins. The p…",
+          "time": "15:11",
+          "title": "Untangling Chip Traffic Jams",
+          "summary": "Scaling NoCs across chiplets requires earlier validation of coherency, congestion, thermal effects, and fault…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-july-22-3/"
+          "url": "https://semiengineering.com/untangling-chip-traffic-jams/"
         }
       ],
       "briefs": [
         {
-          "text": "Enabling Comprehensive CWE-based Assurance for RISC-V Processors",
+          "text": "Designing Electro-Optical Chips",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/enabling-comprehensive-cwe-based-assurance-for-risc-v-processors/"
+          "url": "https://semiengineering.com/designing-electro-optical-chips/"
         },
         {
-          "text": "From Highways To Health Care: Portability Proves Key To Physical AI",
+          "text": "Chip Policy: The UK Vs. The US Vs. EU Vs. India",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/from-highways-to-health-care-portability-proves-key-to-physical-ai/"
+          "url": "https://semiengineering.com/chip-policy-the-uk-vs-the-us-vs-eu-vs-india/"
         },
         {
-          "text": "Silicon Starts with Proven IP: eBook",
+          "text": "Realizing The Future Of 3D-IC: Final Scenario And Sign-off",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/silicon-starts-with-proven-ip/"
+          "url": "https://semiengineering.com/realizing-the-future-of-3d-ic-final-scenario-and-sign-off/"
         },
         {
-          "text": "HW-based Methods to Dynamically Throttle AI Performance (Princeton University)",
+          "text": "Avoid The Hidden Bottleneck Of Integration At Scale",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/hw-based-methods-to-dynamically-throttle-ai-performance-princeton-university/"
+          "url": "https://semiengineering.com/avoid-the-hidden-bottleneck-of-integration-at-scale/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:01",
-          "title": "爱丽家居：张家港博华企业管理有限公司持股比例已降至43.71% - 东方财富",
-          "summary": "爱丽家居：张家港博华企业管理有限公司持股比例已降至43.71% 东方财富",
+          "time": "19:13",
+          "title": "久远银海：目前公司战略清晰、经营稳健 - 东方财富",
+          "summary": "久远银海：目前公司战略清晰、经营稳健 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wZW1vREdOZ25ZQXU4VDJMR0haUHhadzlaWTNFMS1fTVU5VVdmd2FWN2xXQ19kaXhDZzE4VUUyZjNGWXRXNFNITExDS1dhMlJmeUgwOEVFdG5nOXVwUkoybWVBYWk?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16Q1c5ekJpbmY2d012cDRrcDRNR1pMaEZtLU14ZDJJWjhDN2dwYmpqQjd6UHhuRmp6aDBRblhlRzVHQWxNS0Z0YzJ1NTJJUkVsT1FaWl95VnBGTkZISFl2Q0hMd3g?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "16:57",
-          "title": "高端峰会嘉宾邀请 | 宁高宁出席企业管理峰会的价值与方案 - 手机网易网",
-          "summary": "高端峰会嘉宾邀请 | 宁高宁出席企业管理峰会的价值与方案 手机网易网",
+          "time": "18:55",
+          "title": "瑞迪智驱：公司管理层始终坚持长期主义，围绕战略目标聚焦主业 - 东方财富",
+          "summary": "瑞迪智驱：公司管理层始终坚持长期主义，围绕战略目标聚焦主业 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MdDk0bVlFbnZlR0hZa1ZLVGh2dHhURW1reTducDU4c2F3SjN1RWRrczNCMVVPR1pUYjVMQkp2dEI4ZGR5c05CZm9HclR0ZzlOcGZJQmYtRldRN2VERWM2bTNn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxb095Qnc2NlhpUEJYdUMxc3Myd3dqNzlSUUtPTjBpT05RbVpFaF9ldnJKRHAyMXFFcE82cE9HSjZoTG56ZkFCS1AtMk9HeGNBNW1ObkRINFYxeWNYWldlaEpEaHN4QQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "AI在企业中为什么没有体现价值？丨WAIC2026 - 手机网易网",
+          "text": "金煤科技（600844）股东内蒙古金睿泓吉企业管理有限责任公司质押375万股，占总股本0.37% - Sohu",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42NmxTdlhCZ1dqMlRHWGw0VFI5cVJlWWJuU2xTV3FILV84RTc1bzYwZUY0TjFKeW43WjZ5SXUyRTNFeEtrck16Tnp4am5DZ2VMTjJyeXYyQ1NSQWdGUlFuQzFB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDBnSEpDWHA2VEIzekNWX3dpMk8xQkdoa2kzbEFBRnI2OU9pWklLaW5kNVFzV0VOckpDclVPUmJhVm1zczFpSEMxQ3U1a3lWZlgyS0hnSTM5dEJYMTh1eUc5aDF2Yjh5MzFQSHlzangxbHBOcXZJcXR4MkRDZHBwMTNTTnFhTnRU?oc=5"
         },
         {
-          "text": "2025年Sonic钻井机市场前30家公司:战略概览和未来趋势(2024-2035年) - Spherical Insights",
+          "text": "2025年苯市场前30家公司:战略概览和未来趋势(2024-2035年) - Spherical Insights",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNFk1S3dObHdnWkNCM0FnVUE2VDFtWXlRbTREcWFLSS1aZFpFNXc3UE5pR3VTT2g2dTdUMXNCYmx6bGQxSXlpN3UzZFZ2MjJzWU5TWmJEYlpzbklKNGc2S2N0TmZyX2NVQ29ZdFdrXzdvVXk5V01lRnFEQ0Z5SllCdHlJNjloSHJ4VWpacHhTY2dJcnNLM3lyTnhwdFlQMGhISS05SFpMdnNJMHNTZDE2akRTTGNnaUFOSVkyRzMxeDN3LXljbGFHZEFOWW5Qb3lqN1BMOVN2eGE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUVicWh5el9kczR1ZVV6WElSSGtZOTdqNFdMT3JwbGMyUDRGYUxkWTh0TmR2SXMyY1Ayczh2OXRTSUNJamhlTXpvOTJuRWZ1TThBUTEzUjVhd180TzlGNlU3Q01MSzczSTRoTGpGTGtMcDFjYmFLbktmTWluZ05ycjBEU0Z6Y0xITHBlLVBFQ0gtTWdnYzRkZlZ3S2cxTDFFOFg4aktyNVdVYzUtMndSdm9QcnVXU1B2SEU2bjVLdnFLSnRSZ1lWbg?oc=5"
         },
         {
-          "text": "顺络电子：公司战略性布局汽车电子、储能、光伏、数据中心、工业控制、物联网、模块模组等新兴产业 - 东方财富",
+          "text": "2025年空气浓缩包装市场前25家公司:战略概览和未来趋势(2024-2035年) 预测 - Spherical Insights",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VLVhhWmJ3bFhqVDBXVllPY21SN3d3TTliWlI5OFBGV0w0eEliLVYxRWZKVERwVV93dmtVb3puTy0xOGw5amcybWpTT243TzdSNnNKRUhiRGJjcWRCVHoxN2s2VFY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSUxpTUJvNzZxT1A5WkhlZS1aWWRoa3ExV0htVWtSUWxBQkxyXy1VYzcwVldDbFh1WGJodkFhb0NMMEFSQWFFbHBxNllhOTNrR0RrUVFZVVlxYWx0UGotZHM2cG9zMWVzbFE1YmlzQ1M4R3RiV3NTS1htZzJqZ0NKcVZLZ2Q2QkltZHYxU2ljSWNpSVdjcmJwQVczUXJmY3N4Y2V3b0k4bFY1Vmoxc2lveklveVpYbzNaWmlTajdkblV0WlRjU19ETENrNE1JcUVSZlJiZ2hR?oc=5"
         },
         {
-          "text": "靠谱的豆包运营优化公司2026——豆包代运营全托管服务商综合测评 - 凤凰网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IT1djc18tajhRRzNZQUkxX09zZzRfWGlJYlktaTUtcDFsNDdPWHgweVltZnEyT3lXSWZoQkQ4eFVoZXdyZmVpRw?oc=5"
+          "text": "2025年空运车辆市场前20家公司:战略概览和未来趋势(2024-2035年) - Spherical Insights",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYjhoWGFpSmtTNG52RHNFSmpfdnJrUGZ6aEJKdWltV0dxcEkwNWFjLVRNc3ZUbWFROVpQMGgzOTFoamJxaXV6TUpSd0RQc1k1c2RqNENtLThha2Q4WkVPWGhuQUhkWmY4cExTQlRqMGJER25wdE1IMFhXNHo0RE1vYk5WX3ZCZDF2WDJWQW9Ld1F5QmtydW05akxDWnJzSFNsTzd5Z2FOSjAxbVB2OWJiUmRFMlV4bXVDXzJnNlFveVYyRjREc0tTcjdFalB1UUt4b1hJ?oc=5"
         }
       ]
     }
