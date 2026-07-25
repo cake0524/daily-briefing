@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月24日",
+  "publishDate": "2026年7月25日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "上半年新能源车注册量近半，现存新能源汽车相关企业近180万家 - 新浪财经",
+      "title": "两大赛道同步爆单 我国先进制造交出亮眼成绩单 - Sohu",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "MIT’s new lidar chip could give self-dr…",
+      "title": "Sweden’s hidden rare earth deposits cou…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Thousands prevented from returning home…",
+      "title": "International Criminal Court Prosecutor…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:05",
-          "title": "上半年新能源车注册量近半，现存新能源汽车相关企业近180万家 - 新浪财经",
-          "summary": "上半年新能源车注册量近半，现存新能源汽车相关企业近180万家 新浪财经",
+          "time": "07:50",
+          "title": "两大赛道同步爆单 我国先进制造交出亮眼成绩单 - Sohu",
+          "summary": "两大赛道同步爆单 我国先进制造交出亮眼成绩单 Sohu",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSHRXTko4N3pqRzVEaWpOaTlZMHlPVEowYXNqWlpDRGsxdzdMdGVsUmVJUnFhUWtZbkVybWpVS1BkVGdzLUE5bW1LNnd6X0l3RnVsdFpmWWdEUXlQZWtSQlNmMVRFc3RqZXpYTXEyYi1CRUJ1T2h4V1VKMzhHUG1qOE84OElxOWo2Z3d3UGxmR0pwb0lvcG9SWDBhN0ptWEJUVGhVbThYdw?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT05aRkx6NjJ1UlhWUjFTRk90NGI3bU44ZWpuc2FYbEVjNmYtYmlzTktpdGE5bUQ0azZQM090SjJXcTF4MHhpeG9tdDA3c1d5TnRIYzF4dUxHYmxTaFZJVXJMdVgzblJacGlVYUxqQXZlUjlPXzQ1R0pYS3FRZ05iWHM5bTYyR2to?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:55",
-          "title": "固态电池龙头官宣布局AIDC储能 - 新浪网",
-          "summary": "固态电池龙头官宣布局AIDC储能 新浪网",
+          "time": "07:37",
+          "title": "新能源汽车成出口引擎！上半年湖北电动汽车出口实现倍增 - Sohu",
+          "summary": "新能源汽车成出口引擎！上半年湖北电动汽车出口实现倍增 Sohu",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lUnBxeXcwZDZYZWw3b09QcnRELTFDdmJXSVItWlN4RjR1WVFfZFhUbUZvNWJIY1BiRTdaS092MFp6TDdBRktKLWRKWjNEVWFpZEZId2hEUF9SWnF1N3RJSE5VTnRsNWJYVnNXNEpTaXdMdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXZCR0QzNldTdE9aZ3lkaHdKRndweGdiVnRwaVl4eklsQmxCbUV5SGR2ZEVNUFBXWDRfTW1LZkxzYk1sZ0ZMcUViQWgxOHEzSjRCbE91XzZEUy1zNDRrOTNrUTNTTFR1NmlXQ2s1X2pzWTFjN0p3QVJmaVRSZzVrODZWUFppTUpHNU9GTw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "9月起开征！新能源车会涨价吗？ - 新浪财经",
+          "text": "长华集团获新能源车企定点开发通知 总销售金额预计7.4亿元 - 东方财富",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5jT24ydWE4b0lrdlo4Y0c3SjlwazFKYzRPbEN0WWtDT08ySUY0UlNLYVloZTRnOW5IZ1dmZGR4VVFlamZTdGEwRFdTb05aMVZzejc3Si1kc293RksxS1lXc1Vidm9yOWJ4bkVUN1BObFNfSkRoNFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySnY3Wm9wWG4ycEJ4T2lsLVZyeVBnbVN3ZW5od2hJMUZsMVZQMThuQlIyblItemJGRUVDY3BqQ3doV253YVlnRUVpZHl6TTA1dnlMNUl4a3pMVUdETTRMbg?oc=5"
         },
         {
-          "text": "7月新能源汽车预计销量98万辆 渗透率64.5%再创历史新高 - 新浪网",
+          "text": "2026年新能源重卡销量年中榜：重汽升至第一 徐工/三一超2万辆 远程翻番增长 - Sohu",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uakJVblY2bk1IbXZnTDZFQkZyTWFyekd2cDRSUUZDZXRySkZfeDYybXZaQ3c4cTdNUWZaQTF1czFaUzlaVk5wNEVxd21VeEV5RnNGM1ZQdEJ4ZGR2cjVVdmNKYmhHT3l5NjJzazIxNFpHX252M2QtRlhoRWhXWjQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONEt5S1prX3U1VDdHZmZkVWFmVm5UYldOcm41TjdJWUVUSmNQalFFS0NSYk5WUjVnY0VyX0szZ2Z6Yk9ZT0dkYVFLeXBKUFQ1aTdualRxY3RTV2xPU1QyVFpVZDVwTkNqV1A1ZDhPektfMXRKb1BiSEYyVDR1NHl3ZkRycDhXeGNsaFNWMA?oc=5"
         },
         {
-          "text": "存量焕新增量突破，制造业提质升级 - 河北广播电视台",
+          "text": "魏建军： - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWkJlV05ELTRuNENNZVV6NUMwNDNybktKd3hZcktUTzRNbTlaN2ZOdUtfRld4TW4yeFEtS0dKM0JvSGtjU0JaWENMcTFmdFAyZzBwaS1TdEtheDdnZUJr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rQ25qVVpuSlNteU0weWEwSThQUVh6WV85WmFWcEFCeTI1WGtGYmlsTW9lRVpSOFJ1YnRkTTdjODJaX1BlMnZiMVlSbDdFMTd4X0ZsZE15VDBVQkVIbjAtUUxwYw?oc=5"
         },
         {
-          "text": "四川成都：借力数字经济跻身开放前沿丨央媒看四川 - 四川新闻",
+          "text": "7月24日数字经济ETF鹏扬基金份额增加200万份，重仓股兆易创新、寒武纪、北方华创_基金提醒_雷达 - 证券之星",
           "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1xbUxfelJjb1ZMbXFYcGEtNmtrMHFzMjI1bGdSMU5NQ2otYTcyblgxM3RrNXhqbHlUUjd0UHRFb0pVU3BrS1kxRjVKYzJIZ1FZVnFfT0hGd3Uta1gzaURhNUVRTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uM1lQSEktSVZBbHdYdE5RRG9aWkU2THpSZ0xYeXB3eDZySV9PNG9xLXp0WExBaWhqbnBpRG9MNzNqN29YVWhYQk1XQTE2dm13SEJZTUlmTTNRamxYc0ZWdDd3?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "16:30",
+          "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
+          "summary": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Ins…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "18:00",
           "title": "MIT’s new lidar chip could give self-driving cars a wider view",
           "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "13:41",
-          "title": "New cancer strategy could stop tumors before resistance takes hold",
-          "summary": "Researchers are applying evolutionary theory to cancer by changing treatments before tumors have time to deve…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260716023607.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "New cancer strategy could stop tumors before resistance takes hold",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260716023607.htm"
+        },
         {
           "text": "New programmable photonic chip can control how fast light moves",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "New AI blood test predicts heart disease 15 years early",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260716023603.htm"
-        },
-        {
-          "text": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mys…",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260715083535.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Thousands prevented from returning home to southern Lebanon",
-          "summary": "As months of conflict continue to devastate communities across Lebanon, families are being left without shelt…",
+          "title": "International Criminal Court Prosecutor Karim Khan dismissed",
+          "summary": "Member States of the International Criminal Court dismissed its Prosecutor Karim Khan following disciplinary…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168003"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168025"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Aid for Ukraine, drone attacks in Sudan, DR Congo deaths, neurological disorders in the Americas",
-          "summary": "UN partners launched the Winter Response Plan to help 2.1 million people in Ukraine survive another cold seas…",
+          "title": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
+          "summary": "The world needs more critical minerals than ever before for electric vehicles, wind turbines, solar panels, b…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168000"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168024"
         }
       ],
       "briefs": [
         {
-          "text": "Nicaragua continues to weaken political freedoms, UN warns",
+          "text": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela qu…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167999"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168021"
         },
         {
-          "text": "Deadly Afghanistan floods kill at least 26 as aid agencies race to reach surviv…",
+          "text": "After an Ebola centre was attacked, peacekeepers moved in next door",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167996"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168018"
         },
         {
-          "text": "Security Council LIVE: Can critical minerals fuel peace and prosperity instead…",
+          "text": "Middle East: UN warns against wider escalation after Houthi attacks in the Red…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167995"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168016"
         },
         {
-          "text": "From lithium to nickel: How the UN is helping countries make the most of critic…",
+          "text": "Wildfires surge across Europe as Spain and France battle major blazes",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167994"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168013"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:01",
+          "title": "Chip Industry Week In Review",
+          "summary": "Amkor's $1.5B deal; Intel Foundry revenue up 31%; Siemens' dual buys; SiC plant dies; AMD's big week; TSMC pr…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-148/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "20:00",
           "title": "Sleep Patch Could Track Brain’s Nightly Cleansing Ritual",
           "summary": "When you get a good night’s sleep, you aren’t just giving your brain a chance to rest. Sleep activates a syst…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "IEEE Spectrum Semiconductors",
           "url": "https://spectrum.ieee.org/sleep-monitoring-device"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:11",
-          "title": "Untangling Chip Traffic Jams",
-          "summary": "Scaling NoCs across chiplets requires earlier validation of coherency, congestion, thermal effects, and fault…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/untangling-chip-traffic-jams/"
         }
       ],
       "briefs": [
+        {
+          "text": "Untangling Chip Traffic Jams",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/untangling-chip-traffic-jams/"
+        },
         {
           "text": "Designing Electro-Optical Chips",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "Realizing The Future Of 3D-IC: Final Scenario And Sign-off",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/realizing-the-future-of-3d-ic-final-scenario-and-sign-off/"
-        },
-        {
-          "text": "Avoid The Hidden Bottleneck Of Integration At Scale",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/avoid-the-hidden-bottleneck-of-integration-at-scale/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Thousands prevented from returning home to southern Lebanon",
-          "summary": "As months of conflict continue to devastate communities across Lebanon, families are being left without shelt…",
+          "title": "International Criminal Court Prosecutor Karim Khan dismissed",
+          "summary": "Member States of the International Criminal Court dismissed its Prosecutor Karim Khan following disciplinary…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168003"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168025"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Aid for Ukraine, drone attacks in Sudan, DR Congo deaths, neurological disorders in the Americas",
-          "summary": "UN partners launched the Winter Response Plan to help 2.1 million people in Ukraine survive another cold seas…",
+          "title": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
+          "summary": "The world needs more critical minerals than ever before for electric vehicles, wind turbines, solar panels, b…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168000"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168024"
         }
       ],
       "briefs": [
         {
-          "text": "Nicaragua continues to weaken political freedoms, UN warns",
+          "text": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela qu…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167999"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168021"
         },
         {
-          "text": "Deadly Afghanistan floods kill at least 26 as aid agencies race to reach surviv…",
+          "text": "After an Ebola centre was attacked, peacekeepers moved in next door",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167996"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168018"
         },
         {
-          "text": "Security Council LIVE: Can critical minerals fuel peace and prosperity instead…",
+          "text": "Middle East: UN warns against wider escalation after Houthi attacks in the Red…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167995"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168016"
         },
         {
-          "text": "From lithium to nickel: How the UN is helping countries make the most of critic…",
+          "text": "Wildfires surge across Europe as Spain and France battle major blazes",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1167994"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168013"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:13",
-          "title": "久远银海：目前公司战略清晰、经营稳健 - 东方财富",
-          "summary": "久远银海：目前公司战略清晰、经营稳健 东方财富",
+          "time": "06:15",
+          "title": "百川股份：公司管理层看好新能源的发展方向 - 东方财富",
+          "summary": "百川股份：公司管理层看好新能源的发展方向 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16Q1c5ekJpbmY2d012cDRrcDRNR1pMaEZtLU14ZDJJWjhDN2dwYmpqQjd6UHhuRmp6aDBRblhlRzVHQWxNS0Z0YzJ1NTJJUkVsT1FaWl95VnBGTkZISFl2Q0hMd3g?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OVkczR1JBbVkxX2NtR0RVd1RhMm5rYTh6bEdiTmVCRGNacFFoT1ZuMlVBQmF4VUhUZW4xZjVMLVVhaThvakEwZTFoNmx4bWVUbzVlcHVQUUtoaFVKdF95TVRFd1RRQQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:55",
-          "title": "瑞迪智驱：公司管理层始终坚持长期主义，围绕战略目标聚焦主业 - 东方财富",
-          "summary": "瑞迪智驱：公司管理层始终坚持长期主义，围绕战略目标聚焦主业 东方财富",
+          "time": "01:26",
+          "title": "中策橡胶：控股股东杭州中策海潮企业管理有限公司解除质押1930万股 - 东方财富",
+          "summary": "中策橡胶：控股股东杭州中策海潮企业管理有限公司解除质押1930万股 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxb095Qnc2NlhpUEJYdUMxc3Myd3dqNzlSUUtPTjBpT05RbVpFaF9ldnJKRHAyMXFFcE82cE9HSjZoTG56ZkFCS1AtMk9HeGNBNW1ObkRINFYxeWNYWldlaEpEaHN4QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tazd2ZHNNRlFaekpRNlhqVmR4RHBHbU81UG5ZQmNtNjV1UnlrUnQxX3hTd0tkaHlWWVF5OHhwMktsZDdvdVQwYTBIYUxkVVdRWGhlZGgwWXFzNEZJcWNpdA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "金煤科技（600844）股东内蒙古金睿泓吉企业管理有限责任公司质押375万股，占总股本0.37% - Sohu",
+          "text": "中策橡胶：控股股东杭州中策海潮企业管理有限公司解除质押1930.00万股 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORDBnSEpDWHA2VEIzekNWX3dpMk8xQkdoa2kzbEFBRnI2OU9pWklLaW5kNVFzV0VOckpDclVPUmJhVm1zczFpSEMxQ3U1a3lWZlgyS0hnSTM5dEJYMTh1eUc5aDF2Yjh5MzFQSHlzangxbHBOcXZJcXR4MkRDZHBwMTNTTnFhTnRU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96QXRHLUJudVZNUUgtVWlTSlBpckpBUnI1WllHOFJ4R1lwbzd5VVQ0c1I2NUlHTGVIUFpQM3ppNmVYMHlCeGltSTVkalJtOHMxODZvOW5pWkhVb1FNZU9aOWpwV21kdw?oc=5"
         },
         {
-          "text": "2025年苯市场前30家公司:战略概览和未来趋势(2024-2035年) - Spherical Insights",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeUVicWh5el9kczR1ZVV6WElSSGtZOTdqNFdMT3JwbGMyUDRGYUxkWTh0TmR2SXMyY1Ayczh2OXRTSUNJamhlTXpvOTJuRWZ1TThBUTEzUjVhd180TzlGNlU3Q01MSzczSTRoTGpGTGtMcDFjYmFLbktmTWluZ05ycjBEU0Z6Y0xITHBlLVBFQ0gtTWdnYzRkZlZ3S2cxTDFFOFg4aktyNVdVYzUtMndSdm9QcnVXU1B2SEU2bjVLdnFLSnRSZ1lWbg?oc=5"
+          "text": "嘉美包装(002969):子公司管理制度（2026年7月） - 中财网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RZ2NoSVU1ZUctYkpoa2MtUXlYeDVZTm9hZ2ZRUUFicDFMX3ZUQ01lNHdTRjRWSkFrWTJNSmxiT1dCMnZBb2ZHUy02dkozTVRKQ3JmNk5n?oc=5"
         },
         {
-          "text": "2025年空气浓缩包装市场前25家公司:战略概览和未来趋势(2024-2035年) 预测 - Spherical Insights",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSUxpTUJvNzZxT1A5WkhlZS1aWWRoa3ExV0htVWtSUWxBQkxyXy1VYzcwVldDbFh1WGJodkFhb0NMMEFSQWFFbHBxNllhOTNrR0RrUVFZVVlxYWx0UGotZHM2cG9zMWVzbFE1YmlzQ1M4R3RiV3NTS1htZzJqZ0NKcVZLZ2Q2QkltZHYxU2ljSWNpSVdjcmJwQVczUXJmY3N4Y2V3b0k4bFY1Vmoxc2lveklveVpYbzNaWmlTajdkblV0WlRjU19ETENrNE1JcUVSZlJiZ2hR?oc=5"
+          "text": "斩获 “中国企业管理奥斯卡”， 玲珑轮胎蝉联 BMC 大奖 - 新浪网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lQTE2VFQyV1lwQ0Q0ak5YQjdvTFJPLVpBS3ZLbHctMW1laTRKWnRkVjh4VWUzTGtNNGg3amxGR3g2OEFjX1JHUlFydFNJTkxoTEtoUU12Skh1ZC1uM2xoTTBQaWdUcEZKRkZ4bjBmcE8?oc=5"
         },
         {
-          "text": "2025年空运车辆市场前20家公司:战略概览和未来趋势(2024-2035年) - Spherical Insights",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYjhoWGFpSmtTNG52RHNFSmpfdnJrUGZ6aEJKdWltV0dxcEkwNWFjLVRNc3ZUbWFROVpQMGgzOTFoamJxaXV6TUpSd0RQc1k1c2RqNENtLThha2Q4WkVPWGhuQUhkWmY4cExTQlRqMGJER25wdE1IMFhXNHo0RE1vYk5WX3ZCZDF2WDJWQW9Ld1F5QmtydW05akxDWnJzSFNsTzd5Z2FOSjAxbVB2OWJiUmRFMlV4bXVDXzJnNlFveVYyRjREc0tTcjdFalB1UUt4b1hJ?oc=5"
+          "text": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxQeWYzbmJLQTZLWWJsT1NmaG9FSjhwdVB5Wl9MbHpUNjZWYlFFME5PWjF3VGx5enVKaGN2ZEEyMWRDbFA4ZmdVVkYxTE1EbnBsR2F6cU9yaGtoT1UwaThyMjQ5ZTFYMUxTX3RuaFhwWkNWLW9LN0w5VXRRWTRjVmhsa2NlZUJPZEZLaXVrRDRQbkVhY0QyckhNWmVLWFc2VTJfRE83VVg5YlhyR1VPQ2Y0UVJPd3o3M2s3ai1TZEpLbktpQmluc19hU3JVV2RCWkJqYUJ6M0RpOHk1VFl4bmhEdlN1Rl9kNF9TLUIyaEFXSEVxWU44VlN0NHBfV3FQekFveERQNnlfc0kwd053NnJfOTQ0TFhGV2hrRXdob09BeTQ1RjlEZWUxM1UzS0lmZTNabmZ4b1hOYWVYWnBnX0o1SlRaSWJnXzJOelU4amVmV0FDUDd0ZVJxb2ZfczlGaExrTEZtZHZ4Qi0xdDhCQWFOcm42V3EwZkkxOTBzLWhDeWhmRXlYczg0a1pibUZpUzFZWUMtWnZDVFFkWFhzOC05RTBleDR4LThEc0F0c0J5T19NX292YmRacEpKM29SUkxwd0k1OV9JdTFDSUZiN05sSVpWdUd6T1QwaXZFemE1aUlFUDc3bkJBMmlDNE5NbTlGel9rY21sU3A5MmhkZHlDSld0MENBYTA4ZzRZcDB0RFVVM3Boelg3cUlpcW5GbFhmWFg3Z0dHZ2tOQ1d0cG9vV3U1TW9NTEoyOG1MSmc0U0lnQTdYTi10S0ZhTEd1MlVUc2poU2hLZlMtMTdzSHE0ZXNnU0daSkV1NG9zSmc1U0I1LVllYVE?oc=5"
         }
       ]
     }
