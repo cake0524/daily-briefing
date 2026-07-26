@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月25日",
+  "publishDate": "2026年7月26日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "两大赛道同步爆单 我国先进制造交出亮眼成绩单 - Sohu",
+      "title": "玉溪市以重点项目为抓手推动传统制造业转型升级：技改激活力 老厂焕新生 - 新浪…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "International Criminal Court Prosecutor…",
+      "title": "‘Judges should be superhuman’: The invi…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:50",
-          "title": "两大赛道同步爆单 我国先进制造交出亮眼成绩单 - Sohu",
-          "summary": "两大赛道同步爆单 我国先进制造交出亮眼成绩单 Sohu",
+          "time": "08:01",
+          "title": "玉溪市以重点项目为抓手推动传统制造业转型升级：技改激活力 老厂焕新生 - 新浪财经",
+          "summary": "玉溪市以重点项目为抓手推动传统制造业转型升级：技改激活力 老厂焕新生 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT05aRkx6NjJ1UlhWUjFTRk90NGI3bU44ZWpuc2FYbEVjNmYtYmlzTktpdGE5bUQ0azZQM090SjJXcTF4MHhpeG9tdDA3c1d5TnRIYzF4dUxHYmxTaFZJVXJMdVgzblJacGlVYUxqQXZlUjlPXzQ1R0pYS3FRZ05iWHM5bTYyR2to?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWhUNU5VOWRVbk9WcnUybmhlMFZhLWFZNWVZVnplQm9JajhJZlFCZ0FmcFJhTXE3ZUVVUDh5YURGRHFWRWZaalBqWmNnT3pTNktnQk1yUUpJZV9SUmhXNk9pRHM1RWFfdUM2VFYtZUw5Z1pzX2FOa0VyanBNQzNWanRpRU5FRzhrUTNVQVBQQ2tsWUZDT1Z6Uw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:37",
-          "title": "新能源汽车成出口引擎！上半年湖北电动汽车出口实现倍增 - Sohu",
-          "summary": "新能源汽车成出口引擎！上半年湖北电动汽车出口实现倍增 Sohu",
+          "time": "07:51",
+          "title": "20万内新能源车推荐：5款热门车型实测对比，哪款适合你？+FAQ - 新浪网",
+          "summary": "20万内新能源车推荐：5款热门车型实测对比，哪款适合你？+FAQ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXZCR0QzNldTdE9aZ3lkaHdKRndweGdiVnRwaVl4eklsQmxCbUV5SGR2ZEVNUFBXWDRfTW1LZkxzYk1sZ0ZMcUViQWgxOHEzSjRCbE91XzZEUy1zNDRrOTNrUTNTTFR1NmlXQ2s1X2pzWTFjN0p3QVJmaVRSZzVrODZWUFppTUpHNU9GTw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ec3RwLVYzMndJMUw2WGNPaEp5Y0phZG0xckptVGE4ajFucUtzWndKRTN5TktFdC0tTGNQWHVhNnpmNE1XckpfVzU3bExKOHp1RHowRDMtaElkU0MtazVJS1BsNnl1dF8yWERFb2dCWTBxaldrcVlBb3pieHg2dUk?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "长华集团获新能源车企定点开发通知 总销售金额预计7.4亿元 - 东方财富",
+          "text": "全国“最懂制造业”的土壤在哪？宝安PCB产业作答 - 21财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySnY3Wm9wWG4ycEJ4T2lsLVZyeVBnbVN3ZW5od2hJMUZsMVZQMThuQlIyblItemJGRUVDY3BqQ3doV253YVlnRUVpZHl6TTA1dnlMNUl4a3pMVUdETTRMbg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWRHWDZOTlJib1N1bXVDdGtXQTlsa2VSbHpKdDJHb1pQT29RamNvdDNWay1kRG1helU1NmF4MElmbmlsWE1HTi1QUVkxd2tGWW1OQm0zWnRuMDRUZkxSN09qUndjLW0xbXEzZDc2bnlWUnA4UXVBNVkzZl82aDZHTV8zMkt1bXBIbmRncg?oc=5"
         },
         {
-          "text": "2026年新能源重卡销量年中榜：重汽升至第一 徐工/三一超2万辆 远程翻番增长 - Sohu",
+          "text": "嘉兴挺起工业硬脊梁背后的“三字诀” - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONEt5S1prX3U1VDdHZmZkVWFmVm5UYldOcm41TjdJWUVUSmNQalFFS0NSYk5WUjVnY0VyX0szZ2Z6Yk9ZT0dkYVFLeXBKUFQ1aTdualRxY3RTV2xPU1QyVFpVZDVwTkNqV1A1ZDhPektfMXRKb1BiSEYyVDR1NHl3ZkRycDhXeGNsaFNWMA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUG5yZHgtajZRa0ZyUkNYeGQzVnl4Z0tFSVYzOVZsbWQ3SmN4b2pYUVYxQVlOQVBXdG0yX3RENXRCTV9sSHlqWHlkZmRSQkhuM2xKWE9XZGdoaG0waEFVTmFWNHRjZjRHWDdhaUxvZkMxdURFVDVJRUk4ODdqV1lfRHJTcTl0M09XYy1DZmxaWXlGSTItajUwTg?oc=5"
         },
         {
-          "text": "魏建军： - 新浪网",
+          "text": "35万六座新能源SUV:问界M7vs理想L8实力全解析 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rQ25qVVpuSlNteU0weWEwSThQUVh6WV85WmFWcEFCeTI1WGtGYmlsTW9lRVpSOFJ1YnRkTTdjODJaX1BlMnZiMVlSbDdFMTd4X0ZsZE15VDBVQkVIbjAtUUxwYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56ZXBSdWlWMldXRjBRaU9ZdTdhSnNFdkZUdk5PZkZZcXVqRERHWFc3SDNocE1WVFF4bmhEaDg2NmE0WEoteTkzWUVubnJDcFM3N09BdEV3MFFxT2V5T2NTOE9QS2NvREhIamtfaHhXOWRHVXFVRjVUZEJOZ3ZpUQ?oc=5"
         },
         {
-          "text": "7月24日数字经济ETF鹏扬基金份额增加200万份，重仓股兆易创新、寒武纪、北方华创_基金提醒_雷达 - 证券之星",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1uM1lQSEktSVZBbHdYdE5RRG9aWkU2THpSZ0xYeXB3eDZySV9PNG9xLXp0WExBaWhqbnBpRG9MNzNqN29YVWhYQk1XQTE2dm13SEJZTUlmTTNRamxYc0ZWdDd3?oc=5"
+          "text": "4479.9万载重吨！ - 新浪财经",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkxDQTBzU1VSbEt6NzZIYTRSYmlHakdkbFR6Z2MyczYwNEZiek1FZEZMUWpDWW5sQkNvYVd3ck9lUVdieHJPMU9GZGJjTWU3c1NpQjgyTkhwRGFucE5RMTJyTnlYblE5dzVfVG1nZjBLMmpuM3RZQVNZU09GNkJJVEZ2N0hfdnl0XzZ4QXB3QnpYVkdlQ2NRemt6MFRZYk1w?oc=5"
         }
       ]
     },
@@ -123,23 +123,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
+          "title": "‘Judges should be superhuman’: The invisible burden behind the bench",
+          "summary": "When conflict erupts, disasters strike or political crises unfold, courts are among the few institutions expe…",
+          "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168023"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:00",
           "title": "International Criminal Court Prosecutor Karim Khan dismissed",
           "summary": "Member States of the International Criminal Court dismissed its Prosecutor Karim Khan following disciplinary…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/07/1168025"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
-          "summary": "The world needs more critical minerals than ever before for electric vehicles, wind turbines, solar panels, b…",
-          "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168024"
         }
       ],
       "briefs": [
+        {
+          "text": "Security Council debrief: Race for critical minerals intensifies amidst warning…",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168024"
+        },
         {
           "text": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela qu…",
           "source": "United Nations News",
@@ -154,11 +159,6 @@ window.dailyBrief = {
           "text": "Middle East: UN warns against wider escalation after Houthi attacks in the Red…",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/07/1168016"
-        },
-        {
-          "text": "Wildfires surge across Europe as Spain and France battle major blazes",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168013"
         }
       ]
     },
@@ -267,23 +267,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
+          "title": "‘Judges should be superhuman’: The invisible burden behind the bench",
+          "summary": "When conflict erupts, disasters strike or political crises unfold, courts are among the few institutions expe…",
+          "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168023"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:00",
           "title": "International Criminal Court Prosecutor Karim Khan dismissed",
           "summary": "Member States of the International Criminal Court dismissed its Prosecutor Karim Khan following disciplinary…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/07/1168025"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
-          "summary": "The world needs more critical minerals than ever before for electric vehicles, wind turbines, solar panels, b…",
-          "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168024"
         }
       ],
       "briefs": [
+        {
+          "text": "Security Council debrief: Race for critical minerals intensifies amidst warning…",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168024"
+        },
         {
           "text": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela qu…",
           "source": "UN News",
@@ -298,11 +303,6 @@ window.dailyBrief = {
           "text": "Middle East: UN warns against wider escalation after Houthi attacks in the Red…",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/07/1168016"
-        },
-        {
-          "text": "Wildfires surge across Europe as Spain and France battle major blazes",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168013"
         }
       ]
     },
@@ -314,24 +314,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:15",
+          "time": "16:29",
           "title": "百川股份：公司管理层看好新能源的发展方向 - 东方财富",
           "summary": "百川股份：公司管理层看好新能源的发展方向 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OVkczR1JBbVkxX2NtR0RVd1RhMm5rYTh6bEdiTmVCRGNacFFoT1ZuMlVBQmF4VUhUZW4xZjVMLVVhaThvakEwZTFoNmx4bWVUbzVlcHVQUUtoaFVKdF95TVRFd1RRQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05RmNfTjV4SlgxUVc5ZFk0OVFTaDZiNnVUQmpPMmwtZkdfeWpPU0piLWoxekhkQTRHWEtqSGlhQ0YxemJUY3B3bVFCVm9JbVVSeVB4cWVHWjZYTTVPMzhWTw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:26",
-          "title": "中策橡胶：控股股东杭州中策海潮企业管理有限公司解除质押1930万股 - 东方财富",
-          "summary": "中策橡胶：控股股东杭州中策海潮企业管理有限公司解除质押1930万股 东方财富",
+          "time": "02:35",
+          "title": "2025年附属软件市场前16家公司:战略概览和未来趋势(2024-2035年) - Spherical Insights",
+          "summary": "2025年附属软件市场前16家公司:战略概览和未来趋势(2024-2035年) Spherical Insights",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tazd2ZHNNRlFaekpRNlhqVmR4RHBHbU81UG5ZQmNtNjV1UnlrUnQxX3hTd0tkaHlWWVF5OHhwMktsZDdvdVQwYTBIYUxkVVdRWGhlZGgwWXFzNEZJcWNpdA?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDJyVndLU2pSV09TSEg3YTVOQnVBaFk1MXhnS3JXdklmR3FDM3BrZml6emwtVDVzaG5fUk5ScGxFVmFfWF90RmNYRFA2N1Y3cFliQkptNzNFNXN5QjVzNURrWVpxUHZFMmpUR3hJZVkxcXo1aHlodE4yYVVINHZaeEJyR1JZRklMVWtkSUhJd0FMbEhKT3hMajduZngzSzdOUEJPVi1qdEdSYXBpYWI0ZDJpNVhUYmJvZjlab2lpR3BLT3dBb2FNX0UxMThpd1BjYWc?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "中策橡胶：控股股东杭州中策海潮企业管理有限公司解除质押1930万股 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tazd2ZHNNRlFaekpRNlhqVmR4RHBHbU81UG5ZQmNtNjV1UnlrUnQxX3hTd0tkaHlWWVF5OHhwMktsZDdvdVQwYTBIYUxkVVdRWGhlZGgwWXFzNEZJcWNpdA?oc=5"
+        },
         {
           "text": "中策橡胶：控股股东杭州中策海潮企业管理有限公司解除质押1930.00万股 - 东方财富",
           "source": "Google News 企业管理",
@@ -343,14 +348,9 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RZ2NoSVU1ZUctYkpoa2MtUXlYeDVZTm9hZ2ZRUUFicDFMX3ZUQ01lNHdTRjRWSkFrWTJNSmxiT1dCMnZBb2ZHUy02dkozTVRKQ3JmNk5n?oc=5"
         },
         {
-          "text": "斩获 “中国企业管理奥斯卡”， 玲珑轮胎蝉联 BMC 大奖 - 新浪网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lQTE2VFQyV1lwQ0Q0ak5YQjdvTFJPLVpBS3ZLbHctMW1laTRKWnRkVjh4VWUzTGtNNGg3amxGR3g2OEFjX1JHUlFydFNJTkxoTEtoUU12Skh1ZC1uM2xoTTBQaWdUcEZKRkZ4bjBmcE8?oc=5"
-        },
-        {
           "text": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMi9gRBVV95cUxQeWYzbmJLQTZLWWJsT1NmaG9FSjhwdVB5Wl9MbHpUNjZWYlFFME5PWjF3VGx5enVKaGN2ZEEyMWRDbFA4ZmdVVkYxTE1EbnBsR2F6cU9yaGtoT1UwaThyMjQ5ZTFYMUxTX3RuaFhwWkNWLW9LN0w5VXRRWTRjVmhsa2NlZUJPZEZLaXVrRDRQbkVhY0QyckhNWmVLWFc2VTJfRE83VVg5YlhyR1VPQ2Y0UVJPd3o3M2s3ai1TZEpLbktpQmluc19hU3JVV2RCWkJqYUJ6M0RpOHk1VFl4bmhEdlN1Rl9kNF9TLUIyaEFXSEVxWU44VlN0NHBfV3FQekFveERQNnlfc0kwd053NnJfOTQ0TFhGV2hrRXdob09BeTQ1RjlEZWUxM1UzS0lmZTNabmZ4b1hOYWVYWnBnX0o1SlRaSWJnXzJOelU4amVmV0FDUDd0ZVJxb2ZfczlGaExrTEZtZHZ4Qi0xdDhCQWFOcm42V3EwZkkxOTBzLWhDeWhmRXlYczg0a1pibUZpUzFZWUMtWnZDVFFkWFhzOC05RTBleDR4LThEc0F0c0J5T19NX292YmRacEpKM29SUkxwd0k1OV9JdTFDSUZiN05sSVpWdUd6T1QwaXZFemE1aUlFUDc3bkJBMmlDNE5NbTlGel9rY21sU3A5MmhkZHlDSld0MENBYTA4ZzRZcDB0RFVVM3Boelg3cUlpcW5GbFhmWFg3Z0dHZ2tOQ1d0cG9vV3U1TW9NTEoyOG1MSmc0U0lnQTdYTi10S0ZhTEd1MlVUc2poU2hLZlMtMTdzSHE0ZXNnU0daSkV1NG9zSmc1U0I1LVllYVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxPb2JIZ2wwQ1d2XzZXM215M2syNjQtM1JvQkRpVDIzdUk5Ul9nS0J3LUV5Zjk5ZHJQUkwwM3FjaWdHMHEyMjdzcEl5RE13RzZyRnNMQllSU0VReERsUDRvQ3VVRDRVaU53bzk4SWJzTnNBbkxSLVVMWDJ5LWhXYzhSajBhU0d3QXJVX1dOTFdVQUgtN0tOWjFob3BmaWJHdnZQODVDNTEwMHVvQzNEN2w4VWVuTS13YWpwQUNxaDE4WDBibWg0YkxrQVU2Wm1XeXd6bnRldEtvZUpnOUtxUUlydU12MFlPcXBaZEF1WTJkdVAycUZGb1U5c0M5YkZYcjZCcmZ0VmJIZ292dEU4LVlYSC1ZZ21hVjBkbVNGVlljVjdMSDFZdmFZZUxocWx6TlAzOFVKOHExbE5hd2szdnF1Y3RKUjJwbW1USGZ5aXh3aFhlME1ZRkNEYlRIOTExZHN0WjY0U2d1TERiZmI4eHNuRlBTZnJiNkZ4V2t0a01GSHZBaTlKelpqLThuTEtsYU9uaklzNU5iRHdxMWJ3SlF5Mm83V3FpYlZMRll0eHFESVJhUHNiZWlpUnI5cEVJdllVQWQ4V2gyT284QktkZV91b3ZEN0FjZW5xaEVTRFhES0dUa0lWX3lJZWdPZnVWQml2Q2NESDEyWWJGalgwTF93d2p3YV8tYzJVVGEzNzZWSWVpRmpEQWJxSHFmMFZHWElyblBScVRtRlQtb0VMam5mcThGY0VBbHNMRnA5TTFrVWVxMGY2SUQ2SkFVOUpQZWlqNDk5U0RvRFp0UmtDWmRpckpoZFdTaDJQZzBvb0xmQWhoZw?oc=5"
         }
       ]
     }
