@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月26日",
+  "publishDate": "2026年7月27日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "玉溪市以重点项目为抓手推动传统制造业转型升级：技改激活力 老厂焕新生 - 新浪…",
+      "title": "AI在新能源领域落地还面临哪些挑战 - 搜狐网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Sweden’s hidden rare earth deposits cou…",
+      "title": "Your AI calorie-tracking app may be off…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "‘Judges should be superhuman’: The invi…",
+      "title": "Syria’s hopes for renewal hinge on rebu…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:01",
-          "title": "玉溪市以重点项目为抓手推动传统制造业转型升级：技改激活力 老厂焕新生 - 新浪财经",
-          "summary": "玉溪市以重点项目为抓手推动传统制造业转型升级：技改激活力 老厂焕新生 新浪财经",
+          "time": "08:02",
+          "title": "AI在新能源领域落地还面临哪些挑战 - 搜狐网",
+          "summary": "AI在新能源领域落地还面临哪些挑战 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWhUNU5VOWRVbk9WcnUybmhlMFZhLWFZNWVZVnplQm9JajhJZlFCZ0FmcFJhTXE3ZUVVUDh5YURGRHFWRWZaalBqWmNnT3pTNktnQk1yUUpJZV9SUmhXNk9pRHM1RWFfdUM2VFYtZUw5Z1pzX2FOa0VyanBNQzNWanRpRU5FRzhrUTNVQVBQQ2tsWUZDT1Z6Uw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdmFRUEJsVlNtaWhELTRzak5LcHVkREEzSVRrblFMMURHOEJKZlpYVFBYUTUxTVlWRE5YWWtFRHlmYlJobGg2MDQ2Si1aWkRaNHZDZnlXNjl4bEpIa1c1OWx5QUpVRkJhMnloNk9mZVY5VFFBQ3dKSjBsbXF1UlpQdUdxaWViOUtxUlJ5VA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:51",
-          "title": "20万内新能源车推荐：5款热门车型实测对比，哪款适合你？+FAQ - 新浪网",
-          "summary": "20万内新能源车推荐：5款热门车型实测对比，哪款适合你？+FAQ 新浪网",
+          "time": "07:56",
+          "title": "30万以内三款语音控制好用新能源SUV推荐 - 爱咖号",
+          "summary": "30万以内三款语音控制好用新能源SUV推荐 爱咖号",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Ec3RwLVYzMndJMUw2WGNPaEp5Y0phZG0xckptVGE4ajFucUtzWndKRTN5TktFdC0tTGNQWHVhNnpmNE1XckpfVzU3bExKOHp1RHowRDMtaElkU0MtazVJS1BsNnl1dF8yWERFb2dCWTBxaldrcVlBb3pieHg2dUk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNcVhXODRkYVJvaXBpaWxjODVFRkJsLU9VZHAzQ0NYenJ0elV1U3FQU0dsaEgxcU56UWQ3bEh4WW1QdnNDUERhR0VDazJwc0F2ZG85S1FUVUU?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "全国“最懂制造业”的土壤在哪？宝安PCB产业作答 - 21财经",
+          "text": "港股递表周报｜用友第三次递表，奥动新能源攻坚换电赛道 - 凤凰网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWRHWDZOTlJib1N1bXVDdGtXQTlsa2VSbHpKdDJHb1pQT29RamNvdDNWay1kRG1helU1NmF4MElmbmlsWE1HTi1QUVkxd2tGWW1OQm0zWnRuMDRUZkxSN09qUndjLW0xbXEzZDc2bnlWUnA4UXVBNVkzZl82aDZHTV8zMkt1bXBIbmRncg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90Y3dQcDlnbEtUc3ZkeGJ2UVhiQWxIdlVRQjZnREdzQVFwTTE3QXR2dlNTbU4weExRb2hYb0hmT2RzZkhQNm1fYV9Rb2Q2UVJl?oc=5"
         },
         {
-          "text": "嘉兴挺起工业硬脊梁背后的“三字诀” - 新浪财经",
+          "text": "腾势可能杀出惊喜|腾势|方程豹|新能源市场_新浪新闻 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUG5yZHgtajZRa0ZyUkNYeGQzVnl4Z0tFSVYzOVZsbWQ3SmN4b2pYUVYxQVlOQVBXdG0yX3RENXRCTV9sSHlqWHlkZmRSQkhuM2xKWE9XZGdoaG0waEFVTmFWNHRjZjRHWDdhaUxvZkMxdURFVDVJRUk4ODdqV1lfRHJTcTl0M09XYy1DZmxaWXlGSTItajUwTg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VNGNwMWpEMEJLd1NaQjY0WXhPampqS01aSGVPU3pCMy1sdzBKTlo5OEp1V21RUGE4cF9qR1Q0VVlDVlpRWWtTQWdxZkR4QWFlTGNyV2k2Szl3ZE01NUhWYV9HMA?oc=5"
         },
         {
-          "text": "35万六座新能源SUV:问界M7vs理想L8实力全解析 - 新浪财经",
+          "text": "新股消息 | 微电新能源港股IPO招股书失效 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56ZXBSdWlWMldXRjBRaU9ZdTdhSnNFdkZUdk5PZkZZcXVqRERHWFc3SDNocE1WVFF4bmhEaDg2NmE0WEoteTkzWUVubnJDcFM3N09BdEV3MFFxT2V5T2NTOE9QS2NvREhIamtfaHhXOWRHVXFVRjVUZEJOZ3ZpUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2dwVGxCZVNFMlMtQ3V4NHZDUmtnRXhrb3ZWcU1DRnNpWU8tZ3ItLV80RVJrSF9jWDFTUUR6SzFKamhLakRmalZsT0JYdnJncnNCOWdBWUpfREw0NFV1aWdCWkI0TWZGOGI4T0dIZVVVUHNlYjdGbmxTUG85R2NEMGRWT3ZzUkk0U3VKaw?oc=5"
         },
         {
-          "text": "4479.9万载重吨！ - 新浪财经",
+          "text": "25-30万预算，燃油车和新能源谁更好开？ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVkxDQTBzU1VSbEt6NzZIYTRSYmlHakdkbFR6Z2MyczYwNEZiek1FZEZMUWpDWW5sQkNvYVd3ck9lUVdieHJPMU9GZGJjTWU3c1NpQjgyTkhwRGFucE5RMTJyTnlYblE5dzVfVG1nZjBLMmpuM3RZQVNZU09GNkJJVEZ2N0hfdnl0XzZ4QXB3QnpYVkdlQ2NRemt6MFRZYk1w?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4R1RqaWdFeDlCV01udlRLY1VvN0J5VXp0RGRQc3gwSUVGZXFCUGJ3a1NxN1dIN2VSN0hqRWxjWnJNNVhXQ0VObE1tZVBqaExGcTJyUldhQURKS2UtTURwSEdReFpKV3BiN0FKdG9yWnRpdw?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "16:30",
-          "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
-          "summary": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Ins…",
+          "time": "21:06",
+          "title": "Your AI calorie-tracking app may be off by 345 calories",
+          "summary": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly lar…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "16:16",
+          "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+          "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a v…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Sweden’s hidden rare earth deposits could help break China’s grip",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "18:00",
-          "title": "MIT’s new lidar chip could give self-driving cars a wider view",
-          "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "MIT’s new lidar chip could give self-driving cars a wider view",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "New cancer strategy could stop tumors before resistance takes hold",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "New programmable photonic chip can control how fast light moves",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm"
-        },
-        {
-          "text": "An ordinary laptop solved a problem thought to require a quantum computer",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm"
-        },
-        {
-          "text": "New AI blood test predicts heart disease 15 years early",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260716023603.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "‘Judges should be superhuman’: The invisible burden behind the bench",
-          "summary": "When conflict erupts, disasters strike or political crises unfold, courts are among the few institutions expe…",
+          "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
+          "summary": "A country long known as a meeting point of civilizations, Syria stands once again at a crossroads.",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168023"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168028"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "International Criminal Court Prosecutor Karim Khan dismissed",
-          "summary": "Member States of the International Criminal Court dismissed its Prosecutor Karim Khan following disciplinary…",
+          "title": "After war took her leg, this Ukrainian gymnast refused to give up",
+          "summary": "When 10-year-old Ukrainian gymnast Sasha Paskal stepped onto the stage in New York's Times Square this week,…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168025"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168020"
         }
       ],
       "briefs": [
         {
-          "text": "Security Council debrief: Race for critical minerals intensifies amidst warning…",
+          "text": "Gaza: Dialysis patients face grueling hospital journey by donkey cart",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168024"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168026"
         },
         {
-          "text": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela qu…",
+          "text": "‘I am somebody’: Street-smart youth take their declaration to the UN",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168021"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168015"
         },
         {
-          "text": "After an Ebola centre was attacked, peacekeepers moved in next door",
+          "text": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Ass…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168018"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168027"
         },
         {
-          "text": "Middle East: UN warns against wider escalation after Houthi attacks in the Red…",
+          "text": "‘Judges should be superhuman’: The invisible burden behind the bench",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168016"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168023"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "21:00",
+          "title": "Optical Tech Would Update a Robot’s AI on the Fly",
+          "summary": "Atop a lab bench, Cornell Tech postdoctoral researcher Yifan He positions the lens of an optical receiver alm…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/ai-in-robotics"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:01",
           "title": "Chip Industry Week In Review",
           "summary": "Amkor's $1.5B deal; Intel Foundry revenue up 31%; Siemens' dual buys; SiC plant dies; AMD's big week; TSMC pr…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/chip-industry-week-in-review-148/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "Sleep Patch Could Track Brain’s Nightly Cleansing Ritual",
-          "summary": "When you get a good night’s sleep, you aren’t just giving your brain a chance to rest. Sleep activates a syst…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/sleep-monitoring-device"
         }
       ],
       "briefs": [
+        {
+          "text": "Sleep Patch Could Track Brain’s Nightly Cleansing Ritual",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/sleep-monitoring-device"
+        },
         {
           "text": "Untangling Chip Traffic Jams",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "Chip Policy: The UK Vs. The US Vs. EU Vs. India",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/chip-policy-the-uk-vs-the-us-vs-eu-vs-india/"
-        },
-        {
-          "text": "Realizing The Future Of 3D-IC: Final Scenario And Sign-off",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/realizing-the-future-of-3d-ic-final-scenario-and-sign-off/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "‘Judges should be superhuman’: The invisible burden behind the bench",
-          "summary": "When conflict erupts, disasters strike or political crises unfold, courts are among the few institutions expe…",
+          "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
+          "summary": "A country long known as a meeting point of civilizations, Syria stands once again at a crossroads.",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168023"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168028"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "International Criminal Court Prosecutor Karim Khan dismissed",
-          "summary": "Member States of the International Criminal Court dismissed its Prosecutor Karim Khan following disciplinary…",
+          "title": "After war took her leg, this Ukrainian gymnast refused to give up",
+          "summary": "When 10-year-old Ukrainian gymnast Sasha Paskal stepped onto the stage in New York's Times Square this week,…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168025"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168020"
         }
       ],
       "briefs": [
         {
-          "text": "Security Council debrief: Race for critical minerals intensifies amidst warning…",
+          "text": "Gaza: Dialysis patients face grueling hospital journey by donkey cart",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168024"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168026"
         },
         {
-          "text": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela qu…",
+          "text": "‘I am somebody’: Street-smart youth take their declaration to the UN",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168021"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168015"
         },
         {
-          "text": "After an Ebola centre was attacked, peacekeepers moved in next door",
+          "text": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Ass…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168018"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168027"
         },
         {
-          "text": "Middle East: UN warns against wider escalation after Houthi attacks in the Red…",
+          "text": "‘Judges should be superhuman’: The invisible burden behind the bench",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168016"
+          "url": "https://news.un.org/feed/view/en/story/2026/07/1168023"
         }
       ]
     },
@@ -314,24 +314,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "06:51",
+          "title": "35岁互联网公司管理层，预算8万左右，适合买劳力士还是欧米茄？ - finance.sina.com.cn",
+          "summary": "35岁互联网公司管理层，预算8万左右，适合买劳力士还是欧米茄？ finance.sina.com.cn",
+          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTBaU0c2RFJ4NnlkXzBaNzlGWmstZFVXQk5MeTF6UHd1QlFMQ2J5Rmo2aXk1N3FlUUh0UWM3SGtSTXN2NG5neHUxSFkza1JXa0NWMGRVMnE3OENRUFd4cHNwbmVpRHhhNHdwQmloc1pBYmFtWE12UDdYaWZtbGdtSElKb3U?oc=5"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "16:29",
           "title": "百川股份：公司管理层看好新能源的发展方向 - 东方财富",
           "summary": "百川股份：公司管理层看好新能源的发展方向 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05RmNfTjV4SlgxUVc5ZFk0OVFTaDZiNnVUQmpPMmwtZkdfeWpPU0piLWoxekhkQTRHWEtqSGlhQ0YxemJUY3B3bVFCVm9JbVVSeVB4cWVHWjZYTTVPMzhWTw?oc=5"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "02:35",
-          "title": "2025年附属软件市场前16家公司:战略概览和未来趋势(2024-2035年) - Spherical Insights",
-          "summary": "2025年附属软件市场前16家公司:战略概览和未来趋势(2024-2035年) Spherical Insights",
-          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDJyVndLU2pSV09TSEg3YTVOQnVBaFk1MXhnS3JXdklmR3FDM3BrZml6emwtVDVzaG5fUk5ScGxFVmFfWF90RmNYRFA2N1Y3cFliQkptNzNFNXN5QjVzNURrWVpxUHZFMmpUR3hJZVkxcXo1aHlodE4yYVVINHZaeEJyR1JZRklMVWtkSUhJd0FMbEhKT3hMajduZngzSzdOUEJPVi1qdEdSYXBpYWI0ZDJpNVhUYmJvZjlab2lpR3BLT3dBb2FNX0UxMThpd1BjYWc?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "2025年附属软件市场前16家公司:战略概览和未来趋势(2024-2035年) - Spherical Insights",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMDJyVndLU2pSV09TSEg3YTVOQnVBaFk1MXhnS3JXdklmR3FDM3BrZml6emwtVDVzaG5fUk5ScGxFVmFfWF90RmNYRFA2N1Y3cFliQkptNzNFNXN5QjVzNURrWVpxUHZFMmpUR3hJZVkxcXo1aHlodE4yYVVINHZaeEJyR1JZRklMVWtkSUhJd0FMbEhKT3hMajduZngzSzdOUEJPVi1qdEdSYXBpYWI0ZDJpNVhUYmJvZjlab2lpR3BLT3dBb2FNX0UxMThpd1BjYWc?oc=5"
+        },
         {
           "text": "中策橡胶：控股股东杭州中策海潮企业管理有限公司解除质押1930万股 - 东方财富",
           "source": "Google News 企业管理",
@@ -343,12 +348,7 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96QXRHLUJudVZNUUgtVWlTSlBpckpBUnI1WllHOFJ4R1lwbzd5VVQ0c1I2NUlHTGVIUFpQM3ppNmVYMHlCeGltSTVkalJtOHMxODZvOW5pWkhVb1FNZU9aOWpwV21kdw?oc=5"
         },
         {
-          "text": "嘉美包装(002969):子公司管理制度（2026年7月） - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RZ2NoSVU1ZUctYkpoa2MtUXlYeDVZTm9hZ2ZRUUFicDFMX3ZUQ01lNHdTRjRWSkFrWTJNSmxiT1dCMnZBb2ZHUy02dkozTVRKQ3JmNk5n?oc=5"
-        },
-        {
-          "text": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - 新浪财经",
+          "text": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - finance.sina.com.cn",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMi8gRBVV95cUxPb2JIZ2wwQ1d2XzZXM215M2syNjQtM1JvQkRpVDIzdUk5Ul9nS0J3LUV5Zjk5ZHJQUkwwM3FjaWdHMHEyMjdzcEl5RE13RzZyRnNMQllSU0VReERsUDRvQ3VVRDRVaU53bzk4SWJzTnNBbkxSLVVMWDJ5LWhXYzhSajBhU0d3QXJVX1dOTFdVQUgtN0tOWjFob3BmaWJHdnZQODVDNTEwMHVvQzNEN2w4VWVuTS13YWpwQUNxaDE4WDBibWg0YkxrQVU2Wm1XeXd6bnRldEtvZUpnOUtxUUlydU12MFlPcXBaZEF1WTJkdVAycUZGb1U5c0M5YkZYcjZCcmZ0VmJIZ292dEU4LVlYSC1ZZ21hVjBkbVNGVlljVjdMSDFZdmFZZUxocWx6TlAzOFVKOHExbE5hd2szdnF1Y3RKUjJwbW1USGZ5aXh3aFhlME1ZRkNEYlRIOTExZHN0WjY0U2d1TERiZmI4eHNuRlBTZnJiNkZ4V2t0a01GSHZBaTlKelpqLThuTEtsYU9uaklzNU5iRHdxMWJ3SlF5Mm83V3FpYlZMRll0eHFESVJhUHNiZWlpUnI5cEVJdllVQWQ4V2gyT284QktkZV91b3ZEN0FjZW5xaEVTRFhES0dUa0lWX3lJZWdPZnVWQml2Q2NESDEyWWJGalgwTF93d2p3YV8tYzJVVGEzNzZWSWVpRmpEQWJxSHFmMFZHWElyblBScVRtRlQtb0VMam5mcThGY0VBbHNMRnA5TTFrVWVxMGY2SUQ2SkFVOUpQZWlqNDk5U0RvRFp0UmtDWmRpckpoZFdTaDJQZzBvb0xmQWhoZw?oc=5"
         }
