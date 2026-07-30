@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年7月29日",
+  "publishDate": "2026年7月30日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "大唐新能源遭BlackRock,Inc.减持3190.8万股 每股作价约1.2…",
+      "title": "7月29日易方达创业板新能源ETF基金份额增加200万份，重仓股阳光电源、宁德…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:56",
-          "title": "大唐新能源遭BlackRock,Inc.减持3190.8万股 每股作价约1.28港元 - 新浪财经",
-          "summary": "大唐新能源遭BlackRock,Inc.减持3190.8万股 每股作价约1.28港元 新浪财经",
+          "time": "07:30",
+          "title": "7月29日易方达创业板新能源ETF基金份额增加200万份，重仓股阳光电源、宁德时代、汇川技术 - 证券之星",
+          "summary": "7月29日易方达创业板新能源ETF基金份额增加200万份，重仓股阳光电源、宁德时代、汇川技术 证券之星",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNTlRraWxrTUJTb2NqSXdWYlI1cWRlRUkwUzdTc1ZnSWdYczA5Vk43M0JVZ1lwdzFrQ0Y5X2kydWtrMm0tRXMzSzZQUzUtaHd5dTRmQ2xnSzJRRXpEaW85SkVxa0lsc2pSdDJuUTlka3ZvaGVCbEY2cmhFSnBUek5TdkZYLUU2NFhLT3RaVHktbFB4cW5ZbjF4dUhvZE8xbVcxSk9TLTNNQjAtSWduMWUtUnlQeUJRM2VDZ1k4bmJkbDVRTlEtcUtYV2ZwQjJ6aUt6REZneXExcVhraGEyZzNGanE5N0dBdzV4eWZUWkdLWTQ3SGtWTGxxMlN3dlItZDNpODktekdXVGplNkpscUl2cFRxSFowWDhmVzhrN1NmOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wSWpvWG82cWtiUVRsZGE4cmNPM0IzbkVWN3hhQkFjYjJidU56LTNlei1yelE5UlBxYW9od0I1T05yVUJDWVpSZzNmcUNIY2h5dEpyOWJyZEtyOGUwQkxkME5n?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:43",
-          "title": "人民日报海外版｜长江之滨，新能源巨轮何以驶向全球 - 新浪网",
-          "summary": "人民日报海外版｜长江之滨，新能源巨轮何以驶向全球 新浪网",
+          "time": "07:26",
+          "title": "出海成车企增长“主引擎” 产业链分享“新四化”盛宴 - 新浪财经",
+          "summary": "出海成车企增长“主引擎” 产业链分享“新四化”盛宴 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZk04clJNSHVpSGUzaHI5U3FZUG5RdjlYSnpEN0RkNEZtdkUtZWM2Ym51bmM0UGlzQ3IzSllIVWhmNWE4RTMtSFljQUhCeVZLa05COTQxc3BMaHZZUng0ekFYN29VY3R0S2ZqZzBKY1dTM0lfMmZlUjhuVFFPckZRN3JoUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDRSQzE5OUNId2dXcFpMMUQ2bE40NnQ0Z2h5emZUYWdzNW5tUGJDRE1vMU9xQ1dpV2E5cnNBQ2JTdXJsdWpmUE5SaUEwdUJ4aHR3Vl9GdFphVThYNlQ1cGt0QU9zcUFzbURacjczYll4Y2lVSmladFlXcjlrSzE2cGdCM01kWUk5dVdIOHBR?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "工信部：加快编制出台智能网联新能源汽车产业发展“十五五”规划，L2渗透率超七成 - 新浪财经",
+          "text": "新能源重卡生产忙 - xtrb.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmdzWjhrT3loRkRJd2tJb0J6RHJUVDQ3WThLSDhfYXF2ak9EZnhUVVVQRm1JV0JIamJhNGhVZHUtMUVrdFVsd2kxWWVWdk1tUUhUZXZuSEdic0Q1dllxUnJWSmMxZkJMbzE2TUhRRUN1NkNmS3F1MG5wZG1IQ1dUSjNXUlc4TWlFZVRpM0RYaXJvTGVvRkJrTW84V3Q5V0lyYzZGLXlwbU9NRzhLRGthb09R?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5RSEg5ZHdlMkZNZGp3ZVktd1dZYXNzNU9EVEdJX2dJRHV1RXJUOWFnTUdTYnloejlKUmoycUhtdWZSSTA1ZG03QUp1UUxNaVU1MWxDclJqMDFfdGhLSVRNbTNR?oc=5"
         },
         {
-          "text": "四川加力让新能源货车“跑起来” - 新浪财经",
+          "text": "汽车产业调整中展现韧性活力（锐财经·年中经济观察⑫） - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTldXdGJmX205ME1pT3g2U190R3d3YlRjU0RkVU1zMklScXVXVW00VnVsT09Wb2Z1MFoxcmE3OHAxQ00wOENIaE5UZnBidEdiTXM4cVJQbXZ1V05yS1lkWk90X08wTUkxb2RoQmRKLTk5SG5Oa3JHcHZqSzd2dllYOG14X01od2J3TlZkTjFoZGRpQzBTYWZsbw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQanBGMi1hTzNXekJROGdvZlJZY2xjekhOQVhScVg4TTdmd1ZGZUltSzV5N0c3SkxDOVo4VjFic1NEb3lvZUxVNFJkZWJLTmxFZUZQS1BjR0ZrQU1jQUEwa0s0azRPb0I3Q1RKTi1KMWtWY2RLVEJ4RlI3LVV1QlI2LTlfaWZrZTA2bzZHY3F4VmNhTkRnSzFJVW5DWWx1bVhnMHZkdWRhUE5vQm10V1JQVXluRy1BNGFMRXVXSA?oc=5"
         },
         {
-          "text": "苹果公司在美国推出设备升级租赁计划，iPhone每月租金17.99美元起- 快讯 - 亿邦动力网",
+          "text": "信息服务业增势良好 广东两业协同发展更有支撑 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4NERuZU1QUGxkRXFYZS1HXzVBVkpGRE9JekFDb2xWOEthdUp4VWcwSTh3QWVKZnBZaVFaU2p2c1dtUFNNVWRvc0dwZUNpVFdxVVBaQS1zSVY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbF9DUmdNY1JyVmM0Mm05UE5Ld0ZlMHpCSTZvMXpfVE9EZ1pMQklOcUp2akI2UmhpUmdEbkk1UlJ5RUJHNXpqTkdTWFlxdWlGU2xmNGIzZHlFc2Q0N2JDN3pibWs0QklWM3BUWkF3UF9EWjZSVFV3WUE0MTN1UGNNOURSU29NN2dxbm5DMVdiMXdjVjlkbXQ0Rw?oc=5"
         },
         {
-          "text": "新能源汽车出海遇“险”阻 险企多模式探索“保障共同体” - 证券时报",
+          "text": "贵阳贵安与凯金新能源 深化政企合作座谈会举行 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XdFd5dFl6elZ6Z1RLWkNaNm1GdjJGOXhBeVhqc3BJelNGUFVVMWYwalE5d3JTQUZaQndXb0xEbXBzbHVGOTRRUFJrVnN6elp6aER5SVBUcjFHQ29i?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE90ZnpPVU1jU3JfU3dXcUhXeGJyV2pUTDNEdUh3dy1rSTdkeDlzZGFLMjM5YXVvRWFFMF91TlM2MmtSbmkxeUE4aEZ1WjN3T1ZFTEdaLURJRmxRaEs5d0hRSUo4aWVXdUZBdHNsOFlXUXFwQmdlSTBZVQ?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:00",
-          "title": "Scientific computing in the age of agentic AI",
-          "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating…",
+          "time": "23:00",
+          "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining r…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/scientific-computing-agentic-ai"
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
         },
         {
           "priority": "重点看点 02",
-          "time": "17:18",
-          "title": "Samsung’s chip workers are jumping ship to rival SK Hynix",
-          "summary": "Lee, an engineer at Samsung’s semiconductor division, clocks out when his shift ends. He used to work longer…",
+          "time": "18:00",
+          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/chatgpt-for-academic-researchers"
         }
       ],
       "briefs": [
         {
-          "text": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+          "text": "The AI Hype Index: Unsexy AI",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
+          "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
         },
         {
-          "text": "The path to artificial superintelligence",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
+          "text": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
         },
         {
-          "text": "Closing the data loop in AI-driven drug discovery",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
+          "text": "Scientific computing in the age of agentic AI",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/scientific-computing-agentic-ai"
         },
         {
-          "text": "Building the enterprise environment for agentic AI",
+          "text": "Samsung’s chip workers are jumping ship to rival SK Hynix",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
+          "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Chip Industry Technical Paper Roundup: July 28",
-          "summary": "HW methods to throttle AI; M3D DRAM; interconnect signal-integrity analysis; 3D mask effects in high/hyper-NA…",
+          "time": "07:00",
+          "title": "Hybrid Memory Combines NAND Flash And DRAM For Faster Data Transfer (U. of Seoul)",
+          "summary": "Researchers from University of Seoul published a technical paper titled “NAD Memory: A Hybrid Memory Device C…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-july-28/"
+          "url": "https://semiengineering.com/nad-memory-combines-nand-flash-and-dram-for-faster-data-transfer-u-of-seoul/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Research Bits: July 28",
-          "summary": "Photonics: Inverse design; slowing down light; on-chip electro-optic isolator. The post Research Bits: July 2…",
+          "time": "06:45",
+          "title": "2D P-Type Semiconductors with Oxide N-Channel Transistors For Complementary BEOL CMOS (Stanford, Hanyang)",
+          "summary": "Researchers from Stanford University and Hanyang University published a technical paper titled “Bridging the…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-july-28/"
+          "url": "https://semiengineering.com/2d-p-type-semiconductors-with-oxide-n-channel-transistors-for-complementary-beol-cmos-stanford-hanyang/"
         }
       ],
       "briefs": [
         {
-          "text": "Exotic Quasiparticles Promise Next-Gen Interconnects",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/topological-material-nanowire-interconnect"
+          "text": "Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyot…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/deployable-3d-structures-from-wafer-fabricated-precursors-u-of-houston-toyota-imperial-college-london/"
         },
         {
-          "text": "AI Agent Orchestration For ASIC Autonomy",
+          "text": "Benchmarking Open-Source LLMs on Verilog RTL Generation Across 50 Tasks (NMIMS,…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-agent-orchestration-for-asic-autonomy/"
+          "url": "https://semiengineering.com/benchmarking-open-source-llms-on-verilog-rtl-generation-across-50-tasks-nmims-iit-roorkee-bits-pilani/"
         },
         {
-          "text": "Preparing For AI-Driven Chip Design And Verification",
+          "text": "Flat Enough? Warpage Management Gets Harder In Advanced Packaging",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/preparing-for-ai-driven-chip-design-and-verification/"
+          "url": "https://semiengineering.com/flat-enough-warpage-management-gets-harder-in-advanced-packaging/"
         },
         {
-          "text": "Why the Semiconductor Industry Needs A Common Language For Functional Safety",
+          "text": "Blog Review: July 29",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/why-the-semiconductor-industry-needs-a-common-language-for-functional-safety/"
+          "url": "https://semiengineering.com/blog-review-july-29-3/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "16:52",
-          "title": "英力股份：公司战略重心持续聚焦消费电子主业 - 东方财富",
-          "summary": "英力股份：公司战略重心持续聚焦消费电子主业 东方财富",
+          "time": "23:23",
+          "title": "兆易创新、京东方在列！国仪公司，战略配售对象出炉 - 新浪财经",
+          "summary": "兆易创新、京东方在列！国仪公司，战略配售对象出炉 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QNTRReTl5aUNtNXkwSmdQcmFlSUc1ZkRVZ1BObXRUeVRtNFBuaFRlc1V3dW1PT0ZwdHhEUWNRLXRsejFNcGFrUHBNbVNwYUx1YllVSVBKa3R6ald0SkpzNldoTEg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE03WWdlZXVBblVUVzRNNHR5SFUyTlBxeEoxdy1VYVhza3gwTi1LNzRkYjNnY3hUNFRlNThLa01ReHZsT2t0cERuSjVGbFNOZ2tPZ1RjTUJhSi0wNmZVX1FEOUk3UGRRbnViVWxibl9jV1VBcW01aFE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "16:44",
-          "title": "飞凯材料：公司管理层始终坚持以提升公司内在价值为核心的市值管理理念 - 东方财富",
-          "summary": "飞凯材料：公司管理层始终坚持以提升公司内在价值为核心的市值管理理念 东方财富",
+          "time": "20:29",
+          "title": "综艺股份：公司管理层始终高度重视股东回报 - Sohu",
+          "summary": "综艺股份：公司管理层始终高度重视股东回报 Sohu",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IU2hhRGVLeFlveVlLQXh6Z0ZJQm81Y0o3NVF6MWdJVXpIZ3NEdm45NUJmd3cwSnFTOVNEQXVveTJxM3pKaE41SVpKOEd6NEFfWEoyTjMtbjdEWk1WengwTjFfdDRUQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1NrTkNwMU1SY25EMTYxdUpwQ1pyaXVGdU9uWnloelhLOVdtN0pTZTBCb3RQTGtTUk5FaG5sQTZ0WUhzQlVTdUYtR3FoNjR1a1NZWmpoNDFGOG81cGNrMEhiZFotZjNzYnFwYTRKMGxYcmxaWXcyamtXRnQ0Vi1aZjVGM3hBYmRrbFVzLQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "惠科股份：公司开展先进封装及测试业务，有利于提升整体供应链韧性 - 东方财富",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HMnR5blpEdmc4cDQxZVA5b0xhOE9hbUs3TG9SRUNwa2h5RFJDRGt5X3JfaXRCUTE3Wkl1U29PSTVvS182Z3BHYXloeU1NTjFaUTA0eUp2V2NxZGZLNzJ5Rg?oc=5"
-        },
-        {
-          "text": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - 新浪财经",
+          "text": "立昂技术：公司管理层正多措并举拓宽市场订单、加快应收账款回收、优化成本管控 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxQdVpqdGdEY01vYzVhNUdrT2xUZk93b0kwcUdVQ3pDWGdPYmFkaGxVanp1SURlTUFnTFVjRWlkN19IeWdJNi0waTNCbmVPeVVKZDhRYUZ3Q3ZQZDl4Rl9ZSVhDSDVQNURSMnRrcEtqRlUxaUtwZDZDU3p1bEVEdmdkZWd4RFZQd0hFemdSN0JfSEhWa3dQcng3aWw3RFpTMGdVS0FlVnpEWFotVXMyeE5oYUVtcGVRcFlQUFpmbFRnUnVFM2ZCcTk4Vi1ldlRZbTYyNUJuM1hfYV9RVGdsOWJ3eGo5dVcwOXZfTFZ0b1M0QjJEOWxMOUZiRm1nTWJ1SU9iVUVWRm9jNklvV1NVRFJWU2hwS1NmakZ4SUcyVEk1bnYzS1NKYlZKSWNRa2NFX3FESkF6MmZNdUJ5dklSb2xZcGg5SHM1alB1SnAtVWRLVmNSOUF5eW1DTVdpZmx4Y0VzQnhRcHEwNkU1d2Z1Y0hXMzQ3NFpzTHhSLWVmbEFZbE5DcjdzQjNJRWV1aXNVQnN5S2dOcUNUa19qTks5aFlCMWlpQ1EwWmNhUFdZZm12My00LVo5R0ltOGRTd0Uwc0Z4Ui01SFptNk1oWGE1N0kydWFXb3dYZG5xRjhWenZtcm5WQ0lTbVNsRnk4TGZ2WEtlTWZRTGRqQlJOV0dZYXdYRTNRaGtuWDA4d3JXVFZUajlhLXZwdEM1VTFOZ1hMT3lGaWlLVmt2bUN2Rlkxc3FsUFdYczRGUmU4ZTFOTVpsWVk5Y1pwbG96ZlItNm5UdGxYS00xM3RKOVpEcnlZOVlDdERwN1pmeDlmYi1GLTUxVGkteENtbjByeQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE51bktrTmw4N0J0UFhZTFJrcUVUQnN1alpHNHE1bmdPVVdVN25aOVlWRHN4QWYzQllQUF9YV2JKdXpQM3NXZjMtS2pCNWZZcGR4SXVHbmEzNnIwZlEtTWRueENVaC00dw?oc=5"
         },
         {
-          "text": "2026铝冶炼企业管理咨询公司推荐朗欧咨询｜驻厂精细化管理落地解决方案 - 邢台网",
+          "text": "王思聪在江西成立新公司 - Sohu",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mckNFYlRzZTFhQ2ctRFlGMzYzbFNkYmRZTnZ6YVNxV2hKVmh1V29QTXpicm96aUc3TU5rTVpfX0V1bVFtRUczcUhoNU9WVkxhOVJhSVBmWFdnZk5sWmxUVldxS3UtZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFB1OHBKVEtHMDJueTRIZjJTZ1hfQjQ0MGZTM1JEZld3SldiZHNOekFtOHo5eWVocmJEc2xrOEw4ZFhRSWpUMlpaY0ZRZktxTlJsUzY2RUVrbjEtcWFEMVU4dk5CSzFRbDhENEthcjdzOEpzT2RkRnhTWGNIcl93ZDVsU1llMndh?oc=5"
         },
         {
-          "text": "Barclays上调兰姆韦斯顿目标价，看好公司战略转型 提供者 Investing.com - 英为财情 Investing.com",
+          "text": "世纪华通(002602):股东收到行政监管措施决定书 - 中财网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45WlBpMERuem1pY0lYa0Fab2NGZUwyR2lvclZ2RjVoMTdIaG9qalQ4WUx0YXFqNVluYzYxSm10eDFVYWZKd0JTTVZqMXhlNDg3SGo1Sm13?oc=5"
+        },
+        {
+          "text": "英力股份：公司战略重心持续聚焦消费电子主业 - 东方财富",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR1JZMGZJZG5wR1NVVHB3bzRxZXp4a2FGcl9NRlVJdHZ5NTEyY2Mza3RGWFMxZTR4MzNzQ01yZENCQmVCS2hiSy1vNHZOZE0wc2k4TXJhaUp0bElkMzcwX3BUSzJ2eWJkZmNCUjg1THpUTlk4ODVhYjNEVVVVSm5iYUVxdFk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yTGdDcTFtVVF1eFNpLVhNUFV0RmwxM0Z1UWFHYTROd3BDMjdkRnpLZm5TanpmbFVRd1pIR0d2U3VqZlJaYW54cmlqamlLWlhxSWstWjF4eXNQcWtYWXhBSA?oc=5"
         }
       ]
     }
