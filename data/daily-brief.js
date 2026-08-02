@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月1日",
+  "publishDate": "2026年8月2日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "26款坦克700新能源！外观比肩奔驰大G，搭载3.0T V6动力+三把锁 -…",
+      "title": "燃油车还能打新能源又增长！吉利7月销量25万辆 双路线如何布局？ - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Scientists create an “electron lighthou…",
+      "title": "AI can tell if your brain is aging fast…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:07",
-          "title": "26款坦克700新能源！外观比肩奔驰大G，搭载3.0T V6动力+三把锁 - 汽车之家",
-          "summary": "26款坦克700新能源！外观比肩奔驰大G，搭载3.0T V6动力+三把锁 汽车之家",
+          "time": "07:53",
+          "title": "燃油车还能打新能源又增长！吉利7月销量25万辆 双路线如何布局？ - 汽车之家",
+          "summary": "燃油车还能打新能源又增长！吉利7月销量25万辆 双路线如何布局？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XZmUzOVhjQ213R2RJOV8zUS1NU2Q1OWxsemF1cjVQMFpoSWR0dVdaTW96cEl3amJUamVST2IzVlo1U2lqRzFCRVBUT3MtYno2RUE4d1ItRFcwNjg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiTEpRbkFiMWE0TjUwTjFrY2h4LUdCTzQwa0s0UFhHekprNGVlQTlvN0dHS1JmUGljbGgtRTh6ejgwRlpOWnkxcFhGQkFqUTQtU0tSZHhGRHJlTWM?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:55",
-          "title": "权益价9.48万起的五菱扬光Pro，新能源城配最优解？ - Sohu",
-          "summary": "权益价9.48万起的五菱扬光Pro，新能源城配最优解？ Sohu",
+          "time": "07:20",
+          "title": "沃尔沃XC90新能源最高降32.6万 - 太平洋汽车",
+          "summary": "沃尔沃XC90新能源最高降32.6万 太平洋汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUFpeHZweDhoWXNIYXlpdUxkVjFaX0lhMkd3VnZ5WXYxbEV1MFpRRWdUUXotSk45RzN3OFlCVHVPU05wVWxJUFdIdkI4TlctUFdXVWlzOGgzODFTQzZnelA5aUpXdzAwaHNRTUVMZ2pyd2YxRW5LdnJTdzg0aTR4OGNzTjBKNkZi?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tLXI1b0ptQThBQlNCZUlaVnZJN0p2ZlNSUG9nMURjWEh5ZS1fckNodi1IS1V5WFZ1SXpsYl9hWGlHdHFUOF9pMWxsVXRCajNqcWhzY1Yza0pGZFJWcm92T1c1cDdQSEZJ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新能源汽车显示电驱系统异常 - 手机新浪网",
+          "text": "20万级新能源方盒子SUV怎么选？长城H10对比方程豹钛7 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oWjhkOFBkWEJoVmFvWWtjaDBiSFZRdU1vajljbVVOc1ZyZjRCVmNyMEZGa3FfYWJ5akRQa1hlbzlIRWk1dE8wREswX3F6dnVYQ0dCQmVQQU9vWGJJWnpsRFN4UEd1OWFqNVY0a0o5YXpLdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TS1FWc2xhUjBKSWRyNGhvTG4yRG9qNmVnZGkxNWoxaGJKWWtDVW10eHUxLW9ibmhmLWthVkpVX2VPdThWc0syZ0RRWkJURS1TOEZ2aEl3T2o2SWM?oc=5"
         },
         {
-          "text": "新能源车ETF东财（159637）开盘涨0.62%，重仓股宁德时代跌1.58%，比亚迪跌2.21% - 手机新浪网",
+          "text": "新能源市场太卷了！腾势Z9S续航破纪录，小米SU7慌了？ - 网通社",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wWFJyNlZIZ1AzeGNQSWpST1drXzkwVkVPQktQeWFhMDZsRGNNRzloVVJPajJid3NFTERoMHBtU3JNdkNvLVNxaW54bDBSU3IxRjlvZ1JQSmNKWFZGUHJ3YzI1TlhrLU1yZURwdml1cENhdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tVFVkNk11MmNlWWZPYjBkWko2SFpybnNocTQ2NGJWUERCMkhPYjdJeW04MUZmdnNEbHVqUThULWZTZmR3M1hXTzRwbjNHSEtnbEJmVG5yeURsaUk?oc=5"
         },
         {
-          "text": "新能源汽车静默革命：从轰鸣到低语，聆听未来的声音图景 - Sohu",
+          "text": "奇瑞7月销量27.7万辆 新能源增长97.5% 智界V9交付破万能否突围？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRkdaTnE4RmMxRTRDV0RTenlQb3hRcTRyc3p3VjZnaTM1MWFWTTFWZkxxRVNTU2dqc2M4WV9vdlFESjA4TUh5eVVqODRhV0FzVkRZR2c4bEtHbTJpSWV1Umc4X2JOQVExeGs0TkMwNnVfMnJrTERkdXgzUV9ueXNKWTMwdDB5WmNW?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OX1RXdDhjSzBkMjZVN1dZamQ2OXYzZWZkV0VZX19HckNEZ3ZTdFNDLWpXS1piT192LXZCNUUxNFlfOUlidFlBdXJPUTRHa3NIZ2dBcHAySXJCclE?oc=5"
         },
         {
-          "text": "早读｜24小时内近5万移民非法入境西班牙飞地，意大利暂停申根 - 上观新闻",
+          "text": "别克至境E7一口价直降3万！合资新能源抄底时机到了？ - 网通社",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYaWludU1rQ2ZyVU95MDM2XzlLZTg1TkNJQ2x1ekxDMlB1aU1vcERhWThSXzZibGIyZWJnMXQ5TW02cUg4czZPUDBnUGFrbFZaVmhyNHZRSWR0UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQa1VsOWgyVEREeDVMMGhGNkNmeHVkMTNQRWRzZDNfbDNENEdFYXpqRHpBWmhlNmM4VHJsREJIZ2FNMUNZRkNIc1lzTFZkbjRxQVVfaGstVzlFU2M?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:05",
+          "title": "AI can tell if your brain is aging faster than you are",
+          "summary": "A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "13:03",
           "title": "Scientists create an “electron lighthouse” with laser light",
           "summary": "Scientists have created an “electron lighthouse” that uses laser light to launch and steer electrons through…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260727214601.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "21:06",
-          "title": "Your AI calorie-tracking app may be off by 345 calories",
-          "summary": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly lar…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Your AI calorie-tracking app may be off by 345 calories",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm"
+        },
         {
           "text": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attr…",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "MIT’s new lidar chip could give self-driving cars a wider view",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm"
-        },
-        {
-          "text": "New cancer strategy could stop tumors before resistance takes hold",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260716023607.htm"
         }
       ]
     },
@@ -170,24 +170,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "08:00",
+          "title": "Ten advances in mathematics and theoretical computer science",
+          "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, inc…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/ten-advances-in-mathematics"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "23:00",
           "title": "Advancing responsible AI across Europe",
           "summary": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governa…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
           "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "23:00",
-          "title": "Building abundant intelligence",
-          "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/building-abundant-intelligence"
         }
       ],
       "briefs": [
+        {
+          "text": "Building abundant intelligence",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/building-abundant-intelligence"
+        },
         {
           "text": "Univé builds an AI-ready workforce",
           "source": "OpenAI",
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
-        },
-        {
-          "text": "Advancing the price-performance frontier with GPT-5.6",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:18",
-          "title": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押542万股，占总股本2.63% - Sohu",
-          "summary": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押542万股，占总股本2.63% Sohu",
+          "time": "03:57",
+          "title": "浙江建投（002761.SZ）新增一起对外投资，被投资公司为浙江建投企业管理有限公司_公司新闻 - 证券之星",
+          "summary": "浙江建投（002761.SZ）新增一起对外投资，被投资公司为浙江建投企业管理有限公司_公司新闻 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEI2a3lCTzRUeG4ybW53Y0JZNFlKYUk2QW5lcl9xS3FFNi1JX3d3VDI0empQMlBHRTRVTmVGZVlONVJzdk93aUV4azJ1bC1vc0hsc09kTzc1Rkx5NVhIdEllTzRzc1k5OXp2cWh1MVZOMUhLT05FYnRwUmtSbHlDa3J3N1BqRG1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqT1htenJDdVdXRXo2MmFCQWdjWndRd3huQUZnU2Vic0hzRW1NTVlBT3NZNkVlSmRZVW54TVJYSUUwOUlKdzRUMkFycVczeVdJZWJTcm5FR3VwZlJ2MkJ2eWFPWk8?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:06",
-          "title": "独家|行深智能创始人退出公司管理，C轮资方全面接管 - 风闻",
-          "summary": "独家|行深智能创始人退出公司管理，C轮资方全面接管 风闻",
+          "time": "16:19",
+          "title": "独家|行深智能创始人退出公司管理，C轮资方全面接管 - sohu.com",
+          "summary": "独家|行深智能创始人退出公司管理，C轮资方全面接管 sohu.com",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yRUVDSVdycFBVZVdCNHhaSVo5RW1kb3NnQlI3Zl9uZmtPU1VxTFpROTVrU2ROdk5jNVcxZHg0a2RqdGlEMG9iZDZyN2Vhc2NqQUxVRVc3S1lxdGs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0hpbkh2UklScG9uajZlY3gyUk1GVF9IU2RORnd3RWx6OTV5SlFIc3V6WU1tbWFkTXNRT0M5dk5oNmM1VVljRXR3cWo4UFNfeWlEN2FDdXVOYy1zU1c2b1I2Q0xKUUxqcm54R2ZrM1NnaUJwWDllMUQ2c0hfWUw0TFR1UHpJTXhk?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "复洁科技：德清隽洁企业管理合伙企业（有限合伙）减持计划尚在有效期内 - 东方财富",
+          "text": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWei03aUNxSGFFNVctUzBPUmc5bDZNVDZvejYyVmlGT2NDUUp6WEtFeHJUekxVMTlLSnZaY0ZyblNXNGRvT3J2b3Q2dlo0VThGczQ4LVVWVTlaZG9rbFFBVXdwUDQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugRBVV95cUxOLXNWeHA3M1N3U21XRm9rOU9XRzBwekI3MEJ3dlllME1oUEdWLTlTTXNjSVFZMndNaXFqSGRzZnJfN0MzcDJ1bWhPa1VNb2RLTXYyZmozSlVJanA2d3YxYzI0aVJ3dkhGRFQxcW92bWxBZmhueEZqNDkzLXJTTTJreGlGRTV1ZkJoVm1SZ1JFUHVVU1BVVGVpSHYxTDB1bzdlX3ExVnVVeFNnaHF2RWZyTkp2MWw1ZW14S2xiQ1ZhYVdJOEt2Qm1sbVYwTmdWNG55UVFYeFU0SHFneEVVSy1MODQ5bUFOeVVYX1Awa0wzQW40eHpHQmlPV1ByVHg2M1ozRkQ5dDVsUmRoTmNGTVVaS0t2QURBaTBOUmNEQ0J5azd4Z2o4eDFPem15VWtQMU1TdGR4MnpXU2pjRnlsY3drUkxCV3Z5T0RkNUs1RndBNHV5ZGJRdldBb2dxY2hJVmtCbnN0UmZ1SkpvOGhkbS12VnhiN2I3U0RCQm5tdjgzbkRRdEhlaGpKLVROVzdkSWZ1d2xuQ1V0WFUxWXkzajc5aHZXRFVvRFhDbjg1OF9tR1dsUWl0WmpGdndlVmNwVEdmZndxSjBwbmVZd3pVYmVhcjY3c0FzeGFZYzJyVTZRNlFQVWNCM2pDMXRhQWN1VVJwcElXUkZtbnBCVDY4S2hHYWVnSUlYM29mQTJjeEowX3N4QW9adTllWHZfLUktQmdRMlQ3TEc2THFBYmR4ZVhvdlNFeDYwVnZGVXc?oc=5"
         },
         {
-          "text": "宝明科技：公司管理层对公司业务的发展充满信心 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qd1ZuVlFuY0pCZldRdk41NHAyRlk1aC0yamllaFgtYmFlQ0M4MUFFQm1Pbmh2RDBzSEkxWE01cUd4SGxwNGRaQlBFemNaLXd4SG1WYkhtR3VoXzZpYjRVLWdES3ZGZw?oc=5"
+          "text": "通裕重工控股股东增持 看好公司战略转型与长期价值 - 东方财富",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BRnYzM3lsZzNSelpBVWIwY1l5TXo3ZXowT0dydm1UWWxhU1dDelRlUkFqZnFKUkF5ekNrY1I3RXRCSjNtS3ZjRWg1dHQxTHctLVdhX05Rd3NtU3pRemtHR25FSzg?oc=5"
         },
         {
-          "text": "新华医疗：公司管理层将全力以赴改善经营基本面，积极维护全体股东利益 - 东方财富",
+          "text": "复洁科技：德清隽洁企业管理合伙企业（有限合伙）减持计划尚在有效期内 - eastmoney.com",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5QU1dwem51VDJkUUdzelRsbEN5Wm5MZnJVaFFNQ3M2akFNQ2N2YlVLbUJVTlBJNG1vU3lydkU5TFBvOWVORjlnVGgxZ2RkS1RwYkI4aDY4dm9DZV90Vjl2Qw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ydWdNTVkzUzNjSW1TN3F0N1ZwazJMWXhyc0NRQmlsMHltSGZscDI0S184djZkd1VDNzEwQ0JTYWdRbUZ2b0FoRWpCbnNPYndFam1ZbkNLTHhoX2lyTDFfXw?oc=5"
         },
         {
-          "text": "千里科技：公司管理层始终以提升内在价值为核心，扎实做好经营管理工作 - 东方财富",
+          "text": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押542万股，占总股本2.63% - sohu.com",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzblFRWC13VzlFSkxZcEF4YjB4NlNhT0FLYXBsUmY4eGhQXzNUc3pSRTNDeFJxSXN2WS1NNjNmQnJ4dHgzSTdjajVnX3JSNkpWbExzY1cxc2tkYl8xbjNYag?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEI2a3lCTzRUeG4ybW53Y0JZNFlKYUk2QW5lcl9xS3FFNi1JX3d3VDI0empQMlBHRTRVTmVGZVlONVJzdk93aUV4azJ1bC1vc0hsc09kTzc1Rkx5NVhIdEllTzRzc1k5OXp2cWh1MVZOMUhLT05FYnRwUmtSbHlDa3J3N1BqRG1E?oc=5"
         }
       ]
     }
