@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月2日",
+  "publishDate": "2026年8月3日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "燃油车还能打新能源又增长！吉利7月销量25万辆 双路线如何布局？ - 汽车之家",
+      "title": "吉利汽车7月销量突破25万辆，新能源渗透率达64%_车市动态 - 中金在线",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "AI can tell if your brain is aging fast…",
+      "title": "Mathematicians prove perfectly fair ele…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:53",
-          "title": "燃油车还能打新能源又增长！吉利7月销量25万辆 双路线如何布局？ - 汽车之家",
-          "summary": "燃油车还能打新能源又增长！吉利7月销量25万辆 双路线如何布局？ 汽车之家",
+          "time": "08:05",
+          "title": "吉利汽车7月销量突破25万辆，新能源渗透率达64%_车市动态 - 中金在线",
+          "summary": "吉利汽车7月销量突破25万辆，新能源渗透率达64%_车市动态 中金在线",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiTEpRbkFiMWE0TjUwTjFrY2h4LUdCTzQwa0s0UFhHekprNGVlQTlvN0dHS1JmUGljbGgtRTh6ejgwRlpOWnkxcFhGQkFqUTQtU0tSZHhGRHJlTWM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwbWVuOVpkNkxwclZUYUdMeUJaMTJZVC1PWEFzbERTY2FXSGJJRl9LbU45QnNHYTBQZS1PbDBra083UzIxRGhPTktIQ0dUemsyWnJuRFFjSG4tT1Zhdkx3b1FURkdrYUg5cUZv?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:20",
-          "title": "沃尔沃XC90新能源最高降32.6万 - 太平洋汽车",
-          "summary": "沃尔沃XC90新能源最高降32.6万 太平洋汽车",
+          "time": "07:30",
+          "title": "#其它# 国标来了！新能源汽车电量显示偏差不得超5% - Sohu",
+          "summary": "#其它# 国标来了！新能源汽车电量显示偏差不得超5% Sohu",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tLXI1b0ptQThBQlNCZUlaVnZJN0p2ZlNSUG9nMURjWEh5ZS1fckNodi1IS1V5WFZ1SXpsYl9hWGlHdHFUOF9pMWxsVXRCajNqcWhzY1Yza0pGZFJWcm92T1c1cDdQSEZJ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45cjV5NU5qczd1djRFd3ZjODVfdTRiRHNTMVFVeGJ6dzhyZ2xhWERyN3d6OUk0VkZPLWJGUEh3ZlhWaDBzWEtKUWQ0c2kxVHVRRlcxVzEtV0lLanVPN2o2UFNfbWU4Q2s?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "20万级新能源方盒子SUV怎么选？长城H10对比方程豹钛7 - 汽车之家",
+          "text": "全域预警 主动避险 欧曼银河TM新能源自卸筑牢工地安全屏障 - cv.ce.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TS1FWc2xhUjBKSWRyNGhvTG4yRG9qNmVnZGkxNWoxaGJKWWtDVW10eHUxLW9ibmhmLWthVkpVX2VPdThWc0syZ0RRWkJURS1TOEZ2aEl3T2o2SWM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05Z241Nm5ORVlBcDlMeDljRm92NGhKZzVxdUpIX0hSdWNnSHhnTVlvVDFoUEE2bHBRS0JwZzhmVVVMXzJla2VJUTlvQzJpMVMybUQ3bDhCaElNbm1XYjhwVQ?oc=5"
         },
         {
-          "text": "新能源市场太卷了！腾势Z9S续航破纪录，小米SU7慌了？ - 网通社",
+          "text": "“非人类”已接管全球最大生物发酵罐，制造业产量天花板正被AI捅破 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tVFVkNk11MmNlWWZPYjBkWko2SFpybnNocTQ2NGJWUERCMkhPYjdJeW04MUZmdnNEbHVqUThULWZTZmR3M1hXTzRwbjNHSEtnbEJmVG5yeURsaUk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLMXZNaFFxSGhoOVdVUGpRd1RrenNWaV9tZDdlQXVuZ2I0X1lWUG9MOXpWUTY4djBISlE0TFVtc2x0cksxMWM5cWVEeTA5STVVa3BJODlFczVVUXBhTU1ZdHVBSTNVN1ZDSEoxbmtvcUc5RHlCbkt3TnpORWw0bVE?oc=5"
         },
         {
-          "text": "奇瑞7月销量27.7万辆 新能源增长97.5% 智界V9交付破万能否突围？ - 汽车之家",
+          "text": "“项”上冲刺向“新”发力！镇海制造业投资半年破百亿元-新闻中心 - 中国宁波网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OX1RXdDhjSzBkMjZVN1dZamQ2OXYzZWZkV0VZX19HckNEZ3ZTdFNDLWpXS1piT192LXZCNUUxNFlfOUlidFlBdXJPUTRHa3NIZ2dBcHAySXJCclE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QU3BzWl92X0NsdmNPNGllcWNxZm56RkhaR1RJbFZwQ05LLTVLTm8wTWNoZy0xYWoxcGtIOFc3ZWR5QW9leHVwZ3AtbjdNbnU2dmE5MDNBUWRRc2I4R0psOHV5OXJaVnZ0?oc=5"
         },
         {
-          "text": "别克至境E7一口价直降3万！合资新能源抄底时机到了？ - 网通社",
+          "text": "新能源入市一年考，光伏投资何处去 - 凤凰网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQa1VsOWgyVEREeDVMMGhGNkNmeHVkMTNQRWRzZDNfbDNENEdFYXpqRHpBWmhlNmM4VHJsREJIZ2FNMUNZRkNIc1lzTFZkbjRxQVVfaGstVzlFU2M?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4RFNFc3FXc1pwNDBJVnNWb1pwWExmTmxLZEZ5MGJIZDctQUYwb0RaMVllLTdVdjZrMVpBLS1pekJIcmtaZEViaDNWM3RMU1Fy?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "21:10",
+          "title": "Mathematicians prove perfectly fair elections are impossible",
+          "summary": "Mathematicians have shown that no electoral system can perfectly balance local representation, proportional n…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:05",
           "title": "AI can tell if your brain is aging faster than you are",
           "summary": "A person’s sleeping brain may reveal warning signs of dementia long before memory problems begin. Researchers…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "13:03",
-          "title": "Scientists create an “electron lighthouse” with laser light",
-          "summary": "Scientists have created an “electron lighthouse” that uses laser light to launch and steer electrons through…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260727214601.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Scientists create an “electron lighthouse” with laser light",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/07/260727214601.htm"
+        },
         {
           "text": "Your AI calorie-tracking app may be off by 345 calories",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Sweden’s hidden rare earth deposits could help break China’s grip",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm"
-        },
-        {
-          "text": "MIT’s new lidar chip could give self-driving cars a wider view",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "03:00",
+          "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
+          "summary": "Researchers from MIT, Google, and University of Washington published a technical paper titled “Granite: A Mod…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/modular-verification-of-rtl-processors-against-isa-contracts-mit-google-uw/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:01",
           "title": "Chip Industry Week In Review",
           "summary": "DAC's big buzz; CHIPS Act $; China's immersion DUV; UMC expands; SIA's state of the industry; DRAM shortages;…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/chip-industry-week-in-review-149/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Compute Clusters Break Out Of National Labs To Scale AI",
-          "summary": "For compute-intensive applications, clusters of nodes that act as a single computer offer a way to scale perf…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/compute-clusters-break-out-of-national-labs-to-scale-ai/"
         }
       ],
       "briefs": [
+        {
+          "text": "Compute Clusters Break Out Of National Labs To Scale AI",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/compute-clusters-break-out-of-national-labs-to-scale-ai/"
+        },
         {
           "text": "Hybrid Memory Combines NAND Flash And DRAM For Faster Data Transfer (U. of Seou…",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyot…",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/deployable-3d-structures-from-wafer-fabricated-precursors-u-of-houston-toyota-imperial-college-london/"
-        },
-        {
-          "text": "Benchmarking Open-Source LLMs on Verilog RTL Generation Across 50 Tasks (NMIMS,…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/benchmarking-open-source-llms-on-verilog-rtl-generation-across-50-tasks-nmims-iit-roorkee-bits-pilani/"
         }
       ]
     },
@@ -314,24 +314,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "19:05",
+          "title": "快乐棋牌牛牛背后的企业战略：深度解析行业龙头布局-TGBUS - 电玩巴士",
+          "summary": "快乐棋牌牛牛背后的企业战略：深度解析行业龙头布局-TGBUS 电玩巴士",
+          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pM0Zxd3N3R1Z3SjYycGoxWmpuMHJ2MUJyUDg4M25EMDBULVJHblZzYU9HTGJ3RW5qdWtiOTRLSEwxaFhVSnhXYjJ0aU5ENENCSF9mbWRDM3JUa09wU2c?oc=5"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "03:57",
           "title": "浙江建投（002761.SZ）新增一起对外投资，被投资公司为浙江建投企业管理有限公司_公司新闻 - 证券之星",
           "summary": "浙江建投（002761.SZ）新增一起对外投资，被投资公司为浙江建投企业管理有限公司_公司新闻 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqT1htenJDdVdXRXo2MmFCQWdjWndRd3huQUZnU2Vic0hzRW1NTVlBT3NZNkVlSmRZVW54TVJYSUUwOUlKdzRUMkFycVczeVdJZWJTcm5FR3VwZlJ2MkJ2eWFPWk8?oc=5"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "16:19",
-          "title": "独家|行深智能创始人退出公司管理，C轮资方全面接管 - sohu.com",
-          "summary": "独家|行深智能创始人退出公司管理，C轮资方全面接管 sohu.com",
-          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0hpbkh2UklScG9uajZlY3gyUk1GVF9IU2RORnd3RWx6OTV5SlFIc3V6WU1tbWFkTXNRT0M5dk5oNmM1VVljRXR3cWo4UFNfeWlEN2FDdXVOYy1zU1c2b1I2Q0xKUUxqcm54R2ZrM1NnaUJwWDllMUQ2c0hfWUw0TFR1UHpJTXhk?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "伊之密：公司管理层对公司长期发展保持信心 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNTlFb2M2Qy1nZTBXdklKaEU4aTZVTl9xaG5oWG5hWTBHbGRqbkR5RDlfVG1URER0TTFIOFBpbVdNNXdyRVplMFVZOTNDclljZlJxXzJiX01OeXc2b1dqbjFaeEFlQ21wQlNJR2w1Ymhzb2ZXTjFsMEhUYW9UNTNWMlZZQXE2Z1BCNnF0YkxtRlA?oc=5"
+        },
         {
           "text": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - 新浪财经",
           "source": "Google News 企业管理",
@@ -343,14 +348,9 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BRnYzM3lsZzNSelpBVWIwY1l5TXo3ZXowT0dydm1UWWxhU1dDelRlUkFqZnFKUkF5ekNrY1I3RXRCSjNtS3ZjRWg1dHQxTHctLVdhX05Rd3NtU3pRemtHR25FSzg?oc=5"
         },
         {
-          "text": "复洁科技：德清隽洁企业管理合伙企业（有限合伙）减持计划尚在有效期内 - eastmoney.com",
+          "text": "复洁科技：德清隽洁企业管理合伙企业（有限合伙）减持计划尚在有效期内 - 东方财富",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ydWdNTVkzUzNjSW1TN3F0N1ZwazJMWXhyc0NRQmlsMHltSGZscDI0S184djZkd1VDNzEwQ0JTYWdRbUZ2b0FoRWpCbnNPYndFam1ZbkNLTHhoX2lyTDFfXw?oc=5"
-        },
-        {
-          "text": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押542万股，占总股本2.63% - sohu.com",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNEI2a3lCTzRUeG4ybW53Y0JZNFlKYUk2QW5lcl9xS3FFNi1JX3d3VDI0empQMlBHRTRVTmVGZVlONVJzdk93aUV4azJ1bC1vc0hsc09kTzc1Rkx5NVhIdEllTzRzc1k5OXp2cWh1MVZOMUhLT05FYnRwUmtSbHlDa3J3N1BqRG1E?oc=5"
         }
       ]
     }
