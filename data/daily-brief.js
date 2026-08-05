@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月4日",
+  "publishDate": "2026年8月5日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "赛力斯：7月新能源汽车销量24229辆 - finance.sina.com.…",
+      "title": "青岛汽车产业新城： 新能源整车产值同比增六成 - chinesetoday.c…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Middle East: Civilian death toll climbs…",
+      "title": "Africans bear the brunt of biodiversity…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:04",
-          "title": "赛力斯：7月新能源汽车销量24229辆 - finance.sina.com.cn",
-          "summary": "赛力斯：7月新能源汽车销量24229辆 finance.sina.com.cn",
+          "time": "08:10",
+          "title": "青岛汽车产业新城： 新能源整车产值同比增六成 - chinesetoday.com",
+          "summary": "青岛汽车产业新城： 新能源整车产值同比增六成 chinesetoday.com",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE93clJEcWd3SjdJMVdnNDczYTFlNWhQWTJfbzlSUC1vbFhrWTdXMVlFX1BBZzFheXJlUG9kTEU2RW9PRUZTSkZjVEgtX3ladzZreWRQRi1yVDNuVGdYU1M0aS1ldGhvbmVrTHRZODJELUR2dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81TlBKSUc5SnAyU0VrX3NZdFFvQlVfUlJOa09NMHFmTUhoMmtiWi1vMjJtT3Q3VFY5LXpIWnNRYjBtYUZrQVczS2pJRXdES1RvRXlJ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:56",
-          "title": "吉利汽车7月销量突破25万辆，新能源渗透率达64% - 搜狐网",
-          "summary": "吉利汽车7月销量突破25万辆，新能源渗透率达64% 搜狐网",
+          "time": "08:05",
+          "title": "超百台汕德卡新能源重卡广州、上海批量交付 - 中国商用汽车网",
+          "summary": "超百台汕德卡新能源重卡广州、上海批量交付 中国商用汽车网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSHQyQjhTNS1KM3pnR1ROSVdyaUE3S25yMVZHVEtkOXNmRjdmei1MT2NXdWE3NmV1eVpGX1RqV21waS1lRkVVWTVnUUFFcUJoYzVkNHRqeVBSZTBZVjBKd0lWWWdZXzJfbXVQY0FRNmFEUFVtRHdoMEF1X1Fuc182NWg1WHMzMU9EWDlVUw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WQXY3cVRaOFZmV0UxNjlRZ2FabFYzX3ZHZW5KQ0xoRUEwcWYxWkI2UklGMTJmeFY1YzRSdnhOUFJIOUtiU3Iwd19nNmgyNExHVDZ4Vm5KeGx5VkZBNGZzLQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "吉利汽车7月销量突破25万辆，新能源渗透率达64% - 手机新浪网",
+          "text": "【报告】2026年中东新能源汽车绿色合规壁垒与中国企业出海研究（附52页PDF文件下载） - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBIQXk0VTJ3TFh4Wms1XzluZ3RLVjNPUzVoTUxPWUd3b2dhVFp2MGwyMExUWUQ3TGtneXJZZG5iMERMcUJMU3hoMlVZVTZHNHBuWWFSLTQ1Nld6SWR0X05vQ3pNRlFScDFIblRFQXdsa0J6SHE0X2h2Y3dTcnlKVkk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRDMzenBsNVNadVRkUVlFWUVXMTNPS3F6eGU4ZkRFeWNtZmtxTjFLcTBvZkx4aG5SeUJsVW9UUmN4Z195QVZSajY4NVppbkYxb3NmYnc2Z0ZvMmtNRVpHWE4xdHdEXzg2S2V1R1hsQ3JEOFdMZ2QzQUhWYU1NRGtqN1gtRQ?oc=5"
         },
         {
-          "text": "赛力斯：7月新能源车销量24229辆，同比下降45.65% - 搜狐网",
+          "text": "活力中国调研行丨巢湖畔崛起“新能源汽车之城” - 新浪新闻_手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXp3OUVtV2FxelFyd2JqMXlvY2h1SEtvZUxlZTlfZlZUbkJLc1B0TUJkSmxxaENEeERmbE1PZjhXWUNvU19OV3hjOThQZFczcDlVa1pCQlUzeGRKbVh4YS15SkFMZm5oOFVsNENldmJFYlZvb2x4Z0YxRWZ2aW5qN1hfakRfLWdM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3cXM3UmdvTks2NXNQNWFRTFhscDFDbjVZZnFxN0pHRW9ZQlpqMkt2ZjFDQzR3LWVramZVTHVIV01xeWFzVVJfZjJROHZRUHN0VXVqRGJwdDFlQ2s3M0stTzVhaHlEVVUtOGFMNW95dkFPMkE2a0E?oc=5"
         },
         {
-          "text": "今年450部新能源公交陆续投用 - 搜狐网",
+          "text": "别被“1.8年”吓到了！新能源车不是“快消品”，官方辟谣！ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSFNSdVhoUnRvYXh3X2daSFo2dWFubFdiTW5EdjUwa0c3R1U0TU55azlpdW1VZ1RiQTV3Vl9qbVJ0bjNGNEtKeElhX2ZCMjBGcGcxYUsyLTZjbFllMFhUQTBrNW8tdlduUk5waGM3VWVXRFFOYTNVYURxNHVSZlRiNmNaSzJqcl82ZHJ2Zg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKdHFJTV9UQWhhQnZIaEFJWFJLOGNZdFpQSjkyWm5EUk5lNnd4aEU3clhlNkVTSUZ3YVNkeG5mbXNndFljOFFqMENnS0pfY3VqaUJ2TG1vdUc3Q0E?oc=5"
         },
         {
-          "text": "6.5%背后的“韧”与“势”——2026上半年杭州工业发展趋势观察 - hznews.hangzhou.com.cn",
+          "text": "特朗普：制造业蓬勃发展，股市不断刷新纪录，美国正在取得胜利。这是黄金时代，最重大的胜利还在前方。 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMnN4cng5TzhqeUpROGFWZHV3SkpjamQxRkNXZTRxcmpxQnpqYmY0Z2x5VTZFci1PNWRPNU05eFZHTlA2cjNPWUc0UFZSQ29wVWM4QXROTHpiUVR6MExwYnR1SDhtblZuY3pZM3FIOVFTY3lBUW1oQlZ0Zzg0V2ZJcWtR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0yTld1X0cyQnAtaFkxaVczODF5UGwzZWFDdzR0d0dNZ2xlU0ktanUyRFVGcm9hOHc5anBqcVlocThYaXVtbkJZeU5zUQ?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
-          "summary": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to conti…",
+          "title": "Africans bear the brunt of biodiversity loss",
+          "summary": "For millions across Africa and the developing world, the biodiversity crisis is not an abstract problem – it’…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168062"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168078"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Strong El Niño ahead, UN weather agency warns",
-          "summary": "As much of the world faces grapples with above normal temperatures and major rainfall changes, the UN Meteoro…",
+          "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
+          "summary": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, de…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168059"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168077"
         }
       ],
       "briefs": [
         {
-          "text": "Wildfire smoke poses hidden health threat",
+          "text": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-U…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168060"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168076"
         },
         {
-          "text": "The climate pattern putting millions at risk: El Niño explained",
+          "text": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168056"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168074"
         },
         {
-          "text": "Fear grows as freedoms shrink in Uganda",
+          "text": "New Ebola vaccine trial launches as outbreak spreads in DR Congo",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168057"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168072"
         },
         {
-          "text": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
+          "text": "Afghanistan hunger crisis intensifies as millions left without food aid",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168055"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168069"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:43",
-          "title": "Trump’s AI protectionism has come for robotics",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "time": "03:00",
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strength…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
         },
         {
           "priority": "重点看点 02",
-          "time": "16:30",
-          "title": "Here’s why AI agents lie and cheat to reach their goals",
-          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you u…",
+          "time": "08:00",
+          "title": "New ways to learn and teach with ChatGPT Work and Codex",
+          "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and stud…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
         }
       ],
       "briefs": [
         {
+          "text": "Apple is getting this wrong",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/apple-is-getting-this-wrong"
+        },
+        {
+          "text": "Trump’s AI protectionism has come for robotics",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
+        },
+        {
+          "text": "Here’s why AI agents lie and cheat to reach their goals",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+        },
+        {
           "text": "How we built a realtime system for responsive voice AI in six months",
           "source": "OpenAI",
           "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
-        },
-        {
-          "text": "Ten advances in mathematics and theoretical computer science",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/ten-advances-in-mathematics"
-        },
-        {
-          "text": "Advancing responsible AI across Europe",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
-        },
-        {
-          "text": "Building abundant intelligence",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/building-abundant-intelligence"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:51",
-          "title": "Chip Bridges Neuromorphic And Deep-Network Computing (TU Dresden)",
-          "summary": "Researchers from Technische Universität Dresden and University of Manchester published a technical paper titl…",
+          "time": "15:05",
+          "title": "Invest In Junior Engineers",
+          "summary": "Instead of working out how to replace junior engineers with AI, develop better ways to train and build fresh…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-bridges-neuromorphic-and-deep-network-computing-tu-dresden/"
+          "url": "https://semiengineering.com/invest-in-junior-engineers/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Self-Driving Cars Have An Aging Problem",
-          "summary": "AI workloads are pushing automotive sensors harder, forcing engineers to rethink how long safety-critical sys…",
+          "time": "15:02",
+          "title": "Why Simulation Speed Is Holding Chiplets Back",
+          "summary": "Toolchain capability is no longer the limiting factor in heterogeneous chiplet design. The bottleneck is the…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/self-driving-cars-have-an-aging-problem/"
+          "url": "https://semiengineering.com/why-simulation-speed-is-holding-chiplets-back/"
         }
       ],
       "briefs": [
         {
-          "text": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
+          "text": "Chip Industry Technical Paper Roundup: Aug. 4",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/modular-verification-of-rtl-processors-against-isa-contracts-mit-google-uw/"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-4/"
         },
         {
-          "text": "Chip Industry Week In Review",
+          "text": "Research Bits: Aug. 4",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-149/"
+          "url": "https://semiengineering.com/research-bits-aug-4/"
         },
         {
-          "text": "Compute Clusters Break Out Of National Labs To Scale AI",
+          "text": "From Blueprint To Build: Engineering The World’s Largest AI Chips",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/compute-clusters-break-out-of-national-labs-to-scale-ai/"
+          "url": "https://semiengineering.com/from-blueprint-to-build-engineering-the-worlds-largest-ai-chips/"
         },
         {
-          "text": "Hybrid Memory Combines NAND Flash And DRAM For Faster Data Transfer (U. of Seou…",
+          "text": "Chip Bridges Neuromorphic And Deep-Network Computing (TU Dresden)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/nad-memory-combines-nand-flash-and-dram-for-faster-data-transfer-u-of-seoul/"
+          "url": "https://semiengineering.com/chip-bridges-neuromorphic-and-deep-network-computing-tu-dresden/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
-          "summary": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to conti…",
+          "title": "Africans bear the brunt of biodiversity loss",
+          "summary": "For millions across Africa and the developing world, the biodiversity crisis is not an abstract problem – it’…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168062"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168078"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Strong El Niño ahead, UN weather agency warns",
-          "summary": "As much of the world faces grapples with above normal temperatures and major rainfall changes, the UN Meteoro…",
+          "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
+          "summary": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, de…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168059"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168077"
         }
       ],
       "briefs": [
         {
-          "text": "Wildfire smoke poses hidden health threat",
+          "text": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-U…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168060"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168076"
         },
         {
-          "text": "The climate pattern putting millions at risk: El Niño explained",
+          "text": "Strait of Hormuz disruption hits energy, fertilizer and industrial trade",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168056"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168074"
         },
         {
-          "text": "Fear grows as freedoms shrink in Uganda",
+          "text": "New Ebola vaccine trial launches as outbreak spreads in DR Congo",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168057"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168072"
         },
         {
-          "text": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
+          "text": "Afghanistan hunger crisis intensifies as millions left without food aid",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/07/1168055"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168069"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:22",
-          "title": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - 新浪财经",
-          "summary": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 新浪财经",
+          "time": "21:56",
+          "title": "牛马研报·👉 中国移动商业分析 一、核心商业模式和盈利逻辑 - ... | OKX Orbita - OKX",
+          "summary": "牛马研报·👉 中国移动商业分析 一、核心商业模式和盈利逻辑 - ... | OKX Orbita OKX",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMi8ApBVV95cUxPN0tfWlp4Rjlxb005ZEYyT1FUdjdESEgyZmk1dG13LU1ONEpNV2tleDBidmFEd2hCZ3NkOFV1a1UzWjVHa2owdXNVS01wLUF0aFRFS0t3MzROQW5qWDFlaTlXR2dCUTZ5ZGZLMVNSaGkyZnZOZldValNQVV9odEg5bmJZd2dsZlA3TVJ6UXNjV0FzT09hS0xEQmRTcFAwOG1rLXNVd0ctVDFqQlVKRmpXSmFhQnBpSXh2QnVRQ19uU21lX1hpNVlPdUVwMGVQdHRPSGlGVEJMTWxLX24yLWtSZ0pCVWpTV2hBaUdLajl4ZnBjekJoOUtxV2xmcEFVZFdPdkFkbm5qV2wzRXpibEFZU2hHVkZUWFA4WXJqdVA3Z2pCSy1VbkI2WGQ3cExNTkM2UFc4ZklPb1Mycm9yZWpvd3ZBb1BOMDNvM3FSNTVwNE9SaHAxLWI1X083Vjg3NGhySWlRZDRTeVVIRFVKQXNxbEItMlZ0N2N3anNQanBXeUFmVm9SZFFrMDlrZEZZVWRndDhvc3N0Tm5raklWdnpXckdUaF95cmNWVlJjenRFbmI4VnNiZWNVXzZqaTBmUWFXUXdDa08xME1fWUI2NzNGWlh4UzNrYlMwcEp4bmtSc2syNm9XVlo3M3dZaE5DRVRVUV9tTHdEWTJKeE42RzRsU2VQTkdqamlLdDJkZThZenFXYThPWThSTUkxRTFON19VM3RyZEdNNGswQkFJdFBXWjBXcTd3QVhEQjYwZXdhZUJGTkpLWDRiN29FNm5MQm1jRjBkYUthWDVzS1VXNXQyaS1tdFZzeHZBS1I1VDdzanhfaVZVX1RfY0otNkFXbll5aDZhemlCWUV2Wlc5c3YxRTdMMncxMTc4MUVrbVQtS0p3M3BhNU1zRlV5WmFOVGJyb2xjVlFPRUhrMnpHWU9WV2FoSzZ3YnYtcVlZUm9PQnE1b3lycGxiNzJzSTFBQ2kwOHhZazJxLWxBWm1aMUhNT1p3RFFSc0dYVVNFdnVtd2pXSHlLRkp6STJfam9wS3dvcGFoWXZ3ek94VGYzYWRrWGdWZlJERTRuYnZQcXZYbTlMbW82ZUtxOWZGU052ZkZYLWZ4M01HS1BtQTUyLUxmeGlXcXVHX0NpX3ZsX0tSVGRvNi1ZWnJXX0xPdlpHXzVRSzItTWxfcnJLZ3Q4aFIwekxjbGtFS1B0VmQ3XzRTeU92R2RieENYeXh2U251RHJaYk1XZERtWEVzWGFDUm40YjlFbXV3YlcyTlNQbjlMdVg4TC1RRkQ1ZUp2WkZOR0tTY2l5VzdIOEhZWjB2Y01BYXJ4QUI0OC1wQkhLNGlnemctS2toOG44M21GSzMydkJycmN5RVJNWmsyWnRpRDgyaURBQ0t3WWNvdWJNQ25xWEpyTFZPZUFDNFRTV0VVZmh3bm1LQ1pwSW5vUElSTmVqZ0huWUNlQjZiSlRFVnZhSG5xb1FwZUllTlEyT25FUEtfOWpvR19wOWN1eTVscXlCVlZzUVVFUnVNQkk2dTNGUWZJTFJFOWkyTHVfQ2w4NHE5X19PcGZ2bnBkSS1Ici1oNzhTYzMtYUgwNUZBbk9QV2NHVEc0Yks5alpUUUtYQnV2NzI4ejBTM0xBdDJxZWV5bVdlZWhaZXcxZFBhY1VoanJib0lyU2tCV3J1Nk9WYUpxaGZfWFUxYVZ5dU1yckhkR3JRM2ZBdDIxT3BpQnFBWGZfV2wxbkpuaDZfZzFyMFV2MWV2NHVkbUtsSVo2V2x5LXNBUEVMcENlWWtOcFYxeS00TzNuZWxFblRUNkxDeFFCOEZQY3laOG5fU216azNGMm9tWThwcnk5T1M2enM3bDI?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qUWpYLUJZWHVubFRKcDBwUTg5SEdKd2pPU3M1VnVQSjRnMnl3UkNSbnlTOWxQVzVrSU1kTXdEdUIwcDRCYkZuWWJPZzRYcWg1RVhocnEtV0FXaWRxMzJhcA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:24",
-          "title": "威斯尼斯WW7017mc棋牌企业战略深度解析：从技术创新到生态构建的全面布局-TGBUS - 电玩巴士",
-          "summary": "威斯尼斯WW7017mc棋牌企业战略深度解析：从技术创新到生态构建的全面布局-TGBUS 电玩巴士",
+          "time": "17:27",
+          "title": "中国国新、兴湘集团成立新企业管理公司 - 每日经济新闻",
+          "summary": "中国国新、兴湘集团成立新企业管理公司 每日经济新闻",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MS0pLQzdnVDltSlRDX1QxRTAzRmNmMlp4eGJqaHRUWDRBLVE3YldyUHF6UFhoMWNKT2QtTk5VS1JkbDE3b2JJVFdFakpQekNEZWotWk9JTEZQOE0?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vbE1JcnZ4U1o0d2YxZDNHdFRPMmw0YlVkRDYyZm5TeFE0a0tESVBpLXpQM3JlRE0xOUZuWWlscFZMZXhhaFAzalJjZnpKU1E1d0psdjVOYXlfWFpRZ0tvUFhGazczQQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "苏州天脉：公司管理层始终重视全体股东利益 - 东方财富",
+          "text": "中国国新、兴湘集团成立新企业管理公司 注册资本1000万 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE43Z1EtLTVXdXpqX0ZKNjhLeXRaSEUwWUc4RHlxUXRiQk0tZG5JR0F2YnVNWWxBN05ZNkdFME1fMm01aHJJZVVPVkxPY0JTcUZndXVEd09tM1dpeExtdnl5WFBLdkxJQQ?oc=5"
-        },
-        {
-          "text": "牛马研报·👉三星电子商业分析 一、核心商业模式和盈利逻辑 - ... | OKX Orbit - OKX",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qUG9PaWxySGV0cXlVS3duWXB4Rm01SUdKSklXUVNYX2FUWEwxOHR5QlZFckd3WHE1UVUzWi1Va1Zobk9iNlRNamk5cmdHV3hvRVF2RDg1eHd0QzdkSzRyWA?oc=5"
-        },
-        {
-          "text": "[收购]鑫科材料(600255):鑫科材料关于授权公司管理层实施收购控股子公司少数股权事宜 - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQc1JsWHBuZjdiN0tkb0pfZ3haSmlTbzA2bVNNSUVQNXNMRVhtNWM4WE10TExlTUdqdzQ1VjZLMG1qWExyTll2anVXM0tjVFFYU20zdV9B?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMW1WZEZqS0h3NmlRYlhvdnA5V1Z3RzFyQzJYOTRILTBFa2lpMVJJczNXZmZQcGRmR1pVTUV6bHFDUHZlR2g3S0Izb0ltSzQxQlVac1F1THduWUMtN2tsR1g3YU9MNmdzbi1GdGlBSUpYbmk2SUZ5VW1OWl9PTW9kSkxFa0tiZzRtRVg0Ug?oc=5"
         },
         {
           "text": "牛马研报·👉思科（Cisco）商业分析 一、核心商业模式和盈利逻... | OKX Orbit - OKX",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45TlNMZThobE9SYVp5YTdSUU9iaEhXbV9JcVhHcmVGR1JHX01raXBiNG9FNmNOOVJjaEZCV1lrQ05BVWJjN1phdnRleW45dG41ZzZpcno3cWpacGR4WFBMeg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsb2JmZDBuaDUyQ2hkVWdJVXRkRzdacm9YZUVqcGpZZERKdHJvMHJYNzcwMnUzQ2N1cE9VYzNhVjNTOXNPc2l4TVV1NnlLemdIZTBmMnA5NWpjWWdrRHB5MzJ2TzU?oc=5"
+        },
+        {
+          "text": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPcEU4QnFoNjNXaFI5bE9HZWVidTNlSk4zOXpra0JxS1dLS0tzd0h0ZVFsUjdVNUJ5VXQtbFlLOXJpNkdDNllCblM5NnNRd09FX2swM25NcS02UU9UYjc4TzFrSEpvdzhyVEdQLTdNdFZUUXk5MGU2aExtRnZVa3ItcjFfV25EYXFheG9JWC1GV3hFci1rX3VVN2FiRlp1T2h0N1FEZ01HTHZRdFBwOGhGRGtFRGhyQkVFTDJiSDRuODdWU3lldHVDOVlQdU9HbG9MTnl1Mjd1cUNCaFFMUFZzTy0taFdydVNOX010U2lKSTlOSGY5WVdCX0J3RHR0Skh1OFY4bFlUQlRlVnJMV043MzBpa2pKNTdNMzlvVVN2R0tGb2dLWW9VQkhOT2RuNmFWNGhKMnY2ei1yWWxjUVBsNGVjNnREYjR4VUE?oc=5"
+        },
+        {
+          "text": "牛马研报·👉三星电子商业分析 一、核心商业模式和盈利逻辑 - ... | OKX Orbit - OKX",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84c1R1cmxnSlhYclp6OVBrQ3ZfaHlERGJlMHpjTGxTUE1zV1BLcWI0WktjODB1NWNmcERkaXMyQTVxN1hWcXcxeUw2TExybFkyRUlvOEcxWkpOR3FZVk9CUA?oc=5"
         }
       ]
     }
