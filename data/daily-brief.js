@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月6日",
+  "publishDate": "2026年8月7日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "东风风神新能源8系双车发布，纯电与插混分头出击家用市场 - 汽车之家",
+      "title": "6589辆、同比增长50.5%，上汽大众的新能源开始上量了，反攻开始 - 汽车…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Scientists twist crystal layers and res…",
+      "title": "Claude Fable 5 AI finds a tiny formula…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Tate brothers’ US extradition case a ‘s…",
+      "title": "Cuba: Independent experts condemn new U…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:56",
-          "title": "东风风神新能源8系双车发布，纯电与插混分头出击家用市场 - 汽车之家",
-          "summary": "东风风神新能源8系双车发布，纯电与插混分头出击家用市场 汽车之家",
+          "time": "09:37",
+          "title": "6589辆、同比增长50.5%，上汽大众的新能源开始上量了，反攻开始 - 汽车之家",
+          "summary": "6589辆、同比增长50.5%，上汽大众的新能源开始上量了，反攻开始 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOUtzVFgzRE93ZW4wYnJBNkx4RlFXaTFXemJoLUVUZHV3ejREWmE1YnZMNGZKb0hPbEtlRXg1VUZLTDdta3VQblBoSkw4SDI3Zkx1RXJHVldMbTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Zc0E5bU0zRlNrQ1NDNnJpZXNuazI5Y3RRSXJ4TWZrbF9ZLWF3dlAwaHVrd2ZBdkJUaGtQWUhrRjFDMEZIdW5sSWVwMmlKTjVJS3hEUHZRT1EwTjNKWUI0MlBKTGdEN3pQTFRV?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:55",
-          "title": "双车齐发补齐家用市场 东风风神新能源8系正式登场 - 汽车之家",
-          "summary": "双车齐发补齐家用市场 东风风神新能源8系正式登场 汽车之家",
+          "time": "09:37",
+          "title": "10-15万预算，五款热门中型新能源轿车对比 - k.sina.com.cn",
+          "summary": "10-15万预算，五款热门中型新能源轿车对比 k.sina.com.cn",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ybzJYeTN1UTJ1SENYeUktUTJpb3M5ZGt5ZGNqWktWWkZrbnNONmU0ZVFZb0FTd0w1SXVFa2dUV2V5U3B4Nm5VdHF2d1lSSEJRbHFiS0poQjktX29MT0ZONkFSQlF1QkZTWG1Z?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTk5Jb0U4cHIzSHlWa2xXVE9adlQ3MlRWdHBuTldpMkJIajE1RkxvaDE4VkRxMUtJWmhBUWhUUGxKaTZDQnVuQlQyMnlacGpHRzJ3ZlhBX2dqRnBHQ29BMUZyOUtySUhZaGozei1MS2R6R090UUVBTDE1MFpJTnUzcA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "尊界V800/V680正式上市：64.8万起 国产新能源MPV首次超百万 - 汽车之家",
+          "text": "长安战略加速兑现，海外劲增79.1%新能源月销近10万辆 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ybW5mZlMxdkFMZFdtX1hpbVpqUDNRTnhON2NKRmlPbEViV0tuR05JdndBZXZNcmhTZzc5U0hFcEVMWDRnQmJLTFZNSjVzMS1WS1AtaEk3bTEwX2JGdHNTU3gybkpWd01jY2cw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPYzE2UllMaTJnbWRkOGpFaUh0VTdBNjVNMmZQeHZuU0x5LW44dUx2b0VSV2xEUkV2UGw4bDZ0T0JzcnZicFhjNFl5Q1BlTUQt?oc=5"
         },
         {
-          "text": "【读财报】长安汽车拟定增募资52.67亿元 加码新能源与智能化 - 同花顺财经",
+          "text": "全面新能源化，上汽通用续约20年 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjc0JWMEJMNUxBMkVXWjh4Q2RQZEJSeEFDUkl2b1ZBVS1sNmtCUFFyblFUbjc1cXE3VnpFNm9WX2pzMm5oT3U5Q2NlQ00wSXVBY25iUWNmQzBPZXN5QUVJNU5B?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1INVk1bG1lQnlib25td1hLME9JQUxjMGk1LUc1QnhMelJYY3drQU9SRml0azlzcEl2OTRGdnYxenk2Z3NaMnhOZXE3dWRQNlRqaF8xWmRmQ1otLWc?oc=5"
         },
         {
-          "text": "新能源市场太卷了！保时捷搁置纯电718，国产高端电车慌了？ - 网通社",
+          "text": "从“中国神器”看中国制造迭代升级 - 新浪新闻_手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DYVlXaGR1UkFIeWxLSHBvR3lyZVptWXVCWE8yTGpTdmk0aDVzVHRVSUlTYTFma3Z0RzBHdTFKZTl4S2xUQTBYRk9fMTI1LXJhaW9TcmhteUNuOU0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUNTlBc0dXdkhWVGlIY0dibkpvd19FYzdFNnMtS1ZzUFUyZG5tbHFpckZpVVphVXJwd0RlWG85NHhTazA2c0VrbmFfTG5lVGl6cXduazBRdEVuSFdjN2IwZmtRay10ZWdHN0RMazlPeEtOZ1BSU1E?oc=5"
         },
         {
-          "text": "#新能源君#【汽车知识】视频车在超车道上龟速行骑，被后车报复了[允悲] ​ - 手机新浪网",
+          "text": "【视频】新能源车怎么选？星途ES:安全够夯，其余白送 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRUoyajA1aWVUMHBuTmpvS1dnSk1ORFlaUXBwaFpxWEhyb2ZlWXdlX1RmSFZPa0FpSkF1Wno1dzY2ZlNISXZPOEVoNEpadUNpdUZ6RC02cUlIZnV3MXl6ZUc5YTl3dkR4NFN3SzRselVHdVF3Z1BrUnNLV29mYk02cA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oLVZaa2Z0cFltYVdSOFhERHluaUhKVVcyMEwxOVc2dFJvTExGYWNaYUFTUVZTdG10YnFGNmk0NlExUjR2MWdMdnk0VXhYdGVkOTdkZF9yXy1kZEl3M3MxMDFPT2Y1Q1hPOFo4?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "10:02",
+          "title": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conjecture",
+          "summary": "A mathematician working at Anthropic says he used the AI model Claude Fable 5 to uncover a remarkably simple…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "12:36",
           "title": "Scientists twist crystal layers and reshape matter from within",
           "summary": "Researchers have found a way to build much larger “twisted” oxide materials while precisely controlling how t…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260801042819.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "21:10",
-          "title": "Mathematicians prove perfectly fair elections are impossible",
-          "summary": "Mathematicians have shown that no electoral system can perfectly balance local representation, proportional n…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Mathematicians prove perfectly fair elections are impossible",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
+        },
         {
           "text": "AI can tell if your brain is aging faster than you are",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Your AI calorie-tracking app may be off by 345 calories",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm"
-        },
-        {
-          "text": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attr…",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Tate brothers’ US extradition case a ‘step towards accountability,’ says independent expert",
-          "summary": "An independent UN human rights expert has welcomed ongoing proceedings in the United States to extradite “man…",
+          "title": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
+          "summary": "Independent UN human rights experts on Thursday condemned a fresh round of US sanctions against Cuba, calling…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168085"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168094"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN reports deadly month for Ukrainian civilians as Russian attacks intensify",
-          "summary": "Russian forces hammered Ukraine with ballistic missiles and long-range drones overnight on Tuesday, killing a…",
+          "title": "Ebola virus reaches displacement camps in DR Congo",
+          "summary": "Agencies are on high alert amid reports that the rapidly spreading Ebola Bundibugyo virus species in the Demo…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168082"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168092"
         }
       ],
       "briefs": [
         {
-          "text": "Sharp spike in executions, death sentences in Iran",
+          "text": "‘Wanton, intentional infliction of incredible pain’ by gangs in Haiti",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168081"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168090"
         },
         {
-          "text": "Security Council LIVE: Ambassadors briefed on continuing ISIL terror threat",
+          "text": "Security Council LIVE: Warnings of famine and collapse as South Sudan's peace d…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168080"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168089"
         },
         {
-          "text": "Strengthening El Niño to push 49 million more people into acute hunger",
+          "text": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168079"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168088"
         },
         {
-          "text": "Africans bear the brunt of biodiversity loss",
+          "text": "Hiroshima fosters hope, 81 years on from nuclear catastrophe",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168078"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168087"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:00",
-          "title": "Third-party cyber evaluations involving OpenAI models",
-          "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strength…",
+          "time": "18:00",
+          "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+          "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free u…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:00",
-          "title": "New ways to learn and teach with ChatGPT Work and Codex",
-          "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and stud…",
+          "time": "14:00",
+          "title": "Working with the American Psychological Association on youth mental health and AI",
+          "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
+          "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
         }
       ],
       "briefs": [
         {
+          "text": "From asking to doing: How the world is putting ChatGPT to work",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
+        },
+        {
+          "text": "Third-party cyber evaluations involving OpenAI models",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+        },
+        {
+          "text": "New ways to learn and teach with ChatGPT Work and Codex",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
+        },
+        {
           "text": "Apple is getting this wrong",
           "source": "OpenAI",
           "url": "https://openai.com/index/apple-is-getting-this-wrong"
-        },
-        {
-          "text": "Trump’s AI protectionism has come for robotics",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
-        },
-        {
-          "text": "Here’s why AI agents lie and cheat to reach their goals",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
-        },
-        {
-          "text": "How we built a realtime system for responsive voice AI in six months",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:17",
-          "title": "Processing-in-Memory Simulator Supporting 11 Memory Technologies (Riken, Keio,Los Alamos, ORNL)",
-          "summary": "Researchers from RIKEN Center for Computational Science, Keio University, Los Alamos National Laboratory, and…",
+          "time": "15:07",
+          "title": "Separating The Chaff From The Wheat: Focusing On Only The RDC Violations You Care About",
+          "summary": "Combine structural analysis with timing awareness and context-based classification to distinguish real design…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/processing-in-memory-simulator-supporting-11-memory-technologies-riken-keiolos-alamos-ornl/"
+          "url": "https://semiengineering.com/separating-the-chaff-from-the-wheat-focusing-on-only-the-rdc-violations-you-care-about/"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:27",
-          "title": "Silicon Photonics MEMS-based Optical Switch Using a Zero-Change Foundry–Compatible Process (UC Berkeley)",
-          "summary": "Researchers from UC Berkeley published a technical paper titled “Zero-change foundry compatible silicon photo…",
+          "time": "15:06",
+          "title": "Shared IDE For PCIe Bifurcation: Scaling Security Without Scaling Complexity & Resources",
+          "summary": "Allowing multiple controllers and links to utilize a common security infrastructure while maintaining indepen…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/silicon-photonics-mems-based-optical-switch-using-a-zero-change-foundry-compatible-process-uc-berkeley/"
+          "url": "https://semiengineering.com/shared-ide-for-pcie-bifurcation-scaling-security-without-scaling-complexity-resources/"
         }
       ],
       "briefs": [
         {
-          "text": "GPU-Accelerated Differentiable Framework Resolving Trade-off Between Speed and…",
+          "text": "How To Scale AI Arithmetic Efficiently",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/gpu-accelerated-differentiable-framework-resolving-trade-off-between-speed-and-accuracy-in-switching-power-analysis-duke-synopsys/"
+          "url": "https://semiengineering.com/how-to-scale-ai-arithmetic-efficiently/"
         },
         {
-          "text": "Implementing the Cyber Resilience Act: eBook",
+          "text": "AI: Friend And Foe For Chip Security",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/implementing-the-cyber-resilience-act-ebook/"
+          "url": "https://semiengineering.com/ai-friend-and-foe-for-security/"
         },
         {
-          "text": "Building AI Factories With IP Solutions",
+          "text": "When USB Reaches The Root Of Trust",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/building-ai-factories-with-ip-solutions/"
+          "url": "https://semiengineering.com/when-usb-reaches-the-root-of-trust/"
         },
         {
-          "text": "From False Alarms To Real Insights: Refining RDC To Catch Missed STA Scenarios",
+          "text": "Certified Automotive-Grade PUF IP: Unclonable Silicon Identity For Safety And S…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/from-false-alarms-to-real-insights-refining-rdc-to-catch-missed-sta-scenarios/"
+          "url": "https://semiengineering.com/certified-automotive-grade-puf-ip-unclonable-silicon-identity-for-safety-and-security/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Tate brothers’ US extradition case a ‘step towards accountability,’ says independent expert",
-          "summary": "An independent UN human rights expert has welcomed ongoing proceedings in the United States to extradite “man…",
+          "title": "Cuba: Independent experts condemn new US sanctions as humanitarian crisis deepens",
+          "summary": "Independent UN human rights experts on Thursday condemned a fresh round of US sanctions against Cuba, calling…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168085"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168094"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN reports deadly month for Ukrainian civilians as Russian attacks intensify",
-          "summary": "Russian forces hammered Ukraine with ballistic missiles and long-range drones overnight on Tuesday, killing a…",
+          "title": "Ebola virus reaches displacement camps in DR Congo",
+          "summary": "Agencies are on high alert amid reports that the rapidly spreading Ebola Bundibugyo virus species in the Demo…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168082"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168092"
         }
       ],
       "briefs": [
         {
-          "text": "Sharp spike in executions, death sentences in Iran",
+          "text": "‘Wanton, intentional infliction of incredible pain’ by gangs in Haiti",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168081"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168090"
         },
         {
-          "text": "Security Council LIVE: Ambassadors briefed on continuing ISIL terror threat",
+          "text": "Security Council LIVE: Warnings of famine and collapse as South Sudan's peace d…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168080"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168089"
         },
         {
-          "text": "Strengthening El Niño to push 49 million more people into acute hunger",
+          "text": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168079"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168088"
         },
         {
-          "text": "Africans bear the brunt of biodiversity loss",
+          "text": "Hiroshima fosters hope, 81 years on from nuclear catastrophe",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168078"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168087"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:00",
-          "title": "中国交建：公司管理层正全力落地提质增效各项举措 - 东方财富",
-          "summary": "中国交建：公司管理层正全力落地提质增效各项举措 东方财富",
+          "time": "07:26",
+          "title": "维立志博-B遭南京礼至企业管理咨询中心(有限合伙)减持31.29万股 每股作价约53.81港元 - 新浪财经",
+          "summary": "维立志博-B遭南京礼至企业管理咨询中心(有限合伙)减持31.29万股 每股作价约53.81港元 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aSG9oOUt0cm1oeloyR2JCUDNYRzdLQ1Flb2lfNzRDOGFJUXkwcGxlNHVmaDlkWEE2MHU3ZzQxOG5Wbk0xbkwyQXpFZjc3UnFWb3ViNlVXYjYyZXhFQ044bw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnBCWm9xMkxaamQ5bXZSeGhSQmpZbHFSWnNJbWIxaGctTV9fUmZYSzBQLWpvYWNfeTAtLTEzX09DU2hTaDZnZDUxdlpTa0dRUUhvX2dDNjFOQjF4ZExRbnR0Rnc3UzVGU1ZLRUItdi1TcDJsRnJtM0JKSTBVS3g2YWZKQXMxVHBYemZvZnBB?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:08",
-          "title": "中国交建：公司管理层正全力落地提质增效各项举措 - 新浪财经",
-          "summary": "中国交建：公司管理层正全力落地提质增效各项举措 新浪财经",
+          "time": "23:02",
+          "title": "明冠新材：公司管理层一直重视税务会计核算规范 - 搜狐网",
+          "summary": "明冠新材：公司管理层一直重视税务会计核算规范 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUS1ZMkdJUjdSaVBMZ2w2MmdXNWdEd1ZZVTdreDN0blBiVC1nYXFWbnNaYUtxM0hKTnpyWjdpRG1kOEUwTE1UWC1IWHhZbU84RGRLdUZjSV9zdkxHMVZrYWZyNmpmNlRMVm8xcHFyY1YyNXpORlFBa1dWRGNNeGdWTUlvejhCUXMy?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHczX3dNZEdrUTR6eEZjRXdHNmo1UEp4RWtaNEpvcHprSGZ1dEU2Mmw1T0ZwblhmM3FhTDI0b0EtNHRyVnVCaUowXzFiWnlPT0VXUkZVdV9TbThOTXBMc0ZPTnpLZGVUVXdzNUlOZ0R5MWRHWmU0a05MaWRqSVBEbVBmWm9vVTlYbTdyOQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "魅视科技(001229):授权公司管理层开展磷化铟半导体材料产业化项目前期准备工作 - 中财网",
+          "text": "依米康：公司管理层将持续以经营实绩、规范治理和透明的信息披露回报投资者信任 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LM0hoUXk3U2cyUG80cnFnSGI2UXczOGoxbTR0eHdwQXUteXF5NzYwLUZhX2t0Zk5NSXJtd2lkUndfNGJ6dEttS3VUTnRhQmZGSVhKS2ZB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yMlBWVjJzRnR0eVc3OHMybHgwX0l5aDV3RFIxaGN1RmZOX2R2QVdoN2swSjI4NlZqaV9udmJ5YkxiaTlIbTNobDZPc1lCUFloNHU4S2ZVWUxfUUZHZGh2eQ?oc=5"
         },
         {
-          "text": "亚玛顿：目前公司管理层及核心技术人员稳定，未发生重大变动 - 东方财富",
+          "text": "南京礼至企业管理咨询中心(有限合伙)减持维立志博-B(09887)31.29万股 每股作价约53.81港元 - 凤凰网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5bVRYRjdxalZqcW8wN0N0YnNVNEF6QXJlUGhteVktNHItV2RFVjMwUDY5Rl9zTWFONXdDeVVKTVU4LUFOQ294VVNURUxKVEpMbk9KNnYyLTRDM0VpazUwRg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE90R2FzMEw3eEtabmFDM0J4NHMyUGduN2hfNEdJckF0dkJzOGJsMm4zeE1tQ2lBSU5aa2t6TnEtR09nZGtjS0hKZA?oc=5"
         },
         {
-          "text": "中国国新、兴湘集团成立新企业管理公司 注册资本1000万 - 搜狐网",
+          "text": "中国交建：上半年以来，公司管理层直面当前经营挑战 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLUNsUUNZTGlCeDhzZHpVXzUxZ1VJblNvVWphWFZmc0NpUHRCTWpNT25acnFXd0ZjOGtVbF9QdFpyQU8yMkJxNG9GcldMaHNNcENRY3FzUUtoUmkwcmUyc005T3JIbGJNUEhkMXg3ZnNxQ2YtakV6N184NVBBRnN3cFd5Qzdpc0laQ1ZVbg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9yMkZYT0RyWVRwLWhuME5OWmFoQjJxWThITm9wZjVabUNOVTBTY1c1NTNrZS1EQ3ZUMVJ5MlBNNk5QM25mZHF4V0FiRDRfRk51VHBUN2ZnalIwcTRCVXNfMA?oc=5"
         },
         {
-          "text": "谢贤谢霆锋无商业关联 - 手机新浪网",
+          "text": "中通国脉：公司管理层始终持续聚焦主业发展 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YVGlmVzVQZEdDQmk3aXU5M0swRGI0bzNYRWk0LVh5alR2a1ZKcXlsTzhVTjZZWW54emVmbjM0R2ZFUmlfUGJ5V3RRTzVWMFdWMVFzNTVBMjJHZkstNWlLajg0Z0FuYVkyRzJqYlh1VERnZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Qd3g2V3pDTi1pUzNrWnp1TmZzWnZMVFJQWnNZYnQtcTRwckZlZXRFLVZwZ05DZTlsS0E4NWoxMlJ2Q2R5UjVlTC03alljUkhOWlRiYUZITkpTRXhBc3dTUQ?oc=5"
         }
       ]
     }
