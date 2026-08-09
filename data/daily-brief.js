@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月9日",
+  "publishDate": "2026年8月10日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "华创证券：7月出口保持高景气 AI、新能源车、船舶三大链条或共同支撑下半年出口…",
+      "title": "首程控股：拟投资华泰三峡新能源REIT - 东方财富",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "New fuel cell breakthrough could help p…",
+      "title": "A 0.42-nanometer breakthrough could pus…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:42",
-          "title": "华创证券：7月出口保持高景气 AI、新能源车、船舶三大链条或共同支撑下半年出口维持偏强韧性 - video.sina.com.cn",
-          "summary": "华创证券：7月出口保持高景气 AI、新能源车、船舶三大链条或共同支撑下半年出口维持偏强韧性 video.sina.com.cn",
+          "time": "07:29",
+          "title": "首程控股：拟投资华泰三峡新能源REIT - 东方财富",
+          "summary": "首程控股：拟投资华泰三峡新能源REIT 东方财富",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSU1XQ2MxQ0t5cDlycVZoOGtRWE16by1zb0xycHJfSDMwR3N2Tk4tWEZVX2tzWHVPc1pwRlVGRGNzYTFDMWE3VjM3VDRraVlHNkVVclp2eU1UdlhFaG52WGl4SzBTeE5aNUVybVVwZXFFbTJFUk13b0t4aEdnQTdxUnFn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sVUxYbHh6aTZUc0pWV2I2b01aMVlZSVpoWmhJRkV0VGlMbTRVeFIyTFllV2RlamtnNTJkcjRVRGROTE1wWEM4UzFSc2F0RzlKYlNMTU5HejVzLUt1aWxOWg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:13",
-          "title": "零部件质量问题集中显现 新能源汽车的“速度崇拜”该刹车了 - sohu.com",
-          "summary": "零部件质量问题集中显现 新能源汽车的“速度崇拜”该刹车了 sohu.com",
+          "time": "07:27",
+          "title": "首程控股：参与投资华泰三峡新能源REIT - 观点网",
+          "summary": "首程控股：参与投资华泰三峡新能源REIT 观点网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS3hBeHlXLVkxUXZINzRiSjlpbXNwOEFnY18xTVlGZlp4MU11OVlJUFQ1cnNwaDBCVnhJUldHaDJwVDFrUGtvTk41bHMtR0lYemtJcTlFZzNyRk5aOHNRQ2Q2WTVNWFpBWHc2N3ZhSkZaQlc0YWN5ei1KT3JlanNVQW4weWtfOEo2VGVn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aaU1kamlyNTVtLVA5N2dDbXFEbzJtYVlrMEZaenhEdzRuQ1JqUXVzSlBEQ3QwRGd3MzEtcjg3RGNYVGVnak8xRkdTdDhleHM4ekowYlZ3aVFZVzFVYV9vZUtn?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "商务用车选新能源会影响客户对品牌的印象吗？ - 新浪网",
+          "text": "崔东树：今年1-6月世界新能源汽车销量1122万台 中国占比达62% 港美股资讯 - hstong.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85eDlJN25pUkh3cEh1RDdqSFZJZjNSUGpoMWZwY2w5TUxlcmtnM3o3TERaTm5nZ1Etb1ZtUGxLSmlXOVR0UXIzd2h4b09ScTVEZjBxMmF5Zm40aTNQaVZ2cFpsU0xpZnBrOXh1YWxFbGc3ZTJGa3JnY0xRZjZsVnM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15Q1ZwQ2dsVmxJb3h2cnNMbURueUhvOC1sMDRMOFR4TmE4QmlNbi02MVhUSXhyZkI4d096bzdydldydmFpcml1ZTRBUnVLN0ZHcU5IQTN3VnBONzg1dTN3UUF3?oc=5"
         },
         {
-          "text": "宋Pro新能源2026款的内饰怎么样？ - 新浪网",
+          "text": "北交所公司中报密集披露 高景气赛道业绩爆发 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vTVJNNGNPVktScXpzR2dJN1d1eUpWOTc0ZmJldEdEODYtODVwSU1YWVUzMGFwVlducVo0cHc2NWRzeHVVN2N3NDFla01kajc2VE9CZldRUVVNZXNBRExWUzVB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JN0N2UjVVTnIweThzY1Bfc3laNUF3N3V1NXphMHJhODcyRnVlNjU3Z1JWMF90cExVekVqSVZBSVBuQUI4YW5VUXM1cjlrbjR5eHJIM1o4blgycllyeS1XR0pFWE5UaWNaZDFmSWdqYjJZSWVUa0ZjcQ?oc=5"
         },
         {
-          "text": "高技术制造业成工业经济重要增长极 - finance.sina.cn",
+          "text": "首程控股(00697.HK)：投资华泰三峡新能源REIT - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORlMtVUY0QnIwUjJrZDZwZkpEUmU4aG9iRk93YVFCWHlkUXdZSU9FeE1qaGx5WndfRE9MZ2dEVjlxMk9lUENnUE44THhfWWd1UFBxXzl0ZFVKU1lmcTVxVEN5dmxvN1FGYzR0SlZwRUZNc1J6T181ZVpuc0tDVjFHX09HOFBQdzYtQ0owSWdCdC1UU1o2ZWtraGFNbEVPYlE4NFo1eFJrNkMwenZ1OHhV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR2tPSXY5d0xVS0lJdmVxSDJRb1hHOVY3UXhvVUpHc3RhT0RfcGVpU0g2Nzg2UnQ0cVpyU2g2Q2RMM2RWQnA4em1sa2hPTGVEUE9SS2l2Z1RtbHJHWmFpSHV0VjdnMmlhRXhnbGt6eDVXS25VMzZxT2F1cHNHdzNUNmJaYzJNMXpUN2tSYw?oc=5"
         },
         {
-          "text": "青岛即墨破解制造业“成长的烦恼” - 新浪财经",
+          "text": "江淮新能源EZ6全球上市暨2026商用车用户大会举行 - 中国商用汽车网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GSmw0OWFSeTJxRkgtOEdZQVo1YjZtUFREX2pVRl8wQXA1WjJFQXRDMHhHMjZ0MjBMbW5kQXlxdXBlOXRBLUlCalFtZHlDeV9FVi1kQllOQjVpUWVCTkRqWUl5SmVUQkhhbkhlOGhFa2lUTnVsdjVQTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mWjJ4dC1kNmhBaXdOVXNnYlVPZGQtOUlMcmRuZmNSMzdHa1Q3Yi1sWHZjaUZYTjc5SUNmWl9zdHJjbXl3ajVCY0hUcFBRWjQ0Nkl2Y0NnRENTOGljUGxSQQ?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "14:05",
+          "title": "A 0.42-nanometer breakthrough could push transistors beyond silicon",
+          "summary": "Atomically thin semiconductors could enable dramatically smaller and more efficient chips, but a stubborn pro…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "22:09",
           "title": "New fuel cell breakthrough could help power energy-hungry data centers",
           "summary": "A new nanostructured carbon design lets fuel-cell catalysts use tiny amounts of platinum while remaining rema…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "11:49",
-          "title": "Sunlight creates quantum entanglement once thought to require lasers",
-          "summary": "Scientists have generated quantum entanglement directly from sunlight, potentially offering a lower-energy al…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Sunlight creates quantum entanglement once thought to require lasers",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm"
+        },
         {
           "text": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conject…",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Mathematicians prove perfectly fair elections are impossible",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
-        },
-        {
-          "text": "AI can tell if your brain is aging faster than you are",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/07/260729051540.htm"
         }
       ]
     },
@@ -219,7 +219,7 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "03:48",
-          "title": "Model Tracks Bond Front Velocity in Lubrication-Mediated Bonding of Flexible Substrates (imec)",
+          "title": "Mathematical Model Explains Bondwave Velocity and its Acceleration in Direct Wafer-Wafer Bonding (imec)",
           "summary": "An imec researcher published a technical paper titled “Bond Front Velocity in Lubrication-Mediated Bonding of…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:28",
-          "title": "厦门钨业：公司管理层长期致力于做好公司的生产、经营和管理工作 - 东方财富",
-          "summary": "厦门钨业：公司管理层长期致力于做好公司的生产、经营和管理工作 东方财富",
+          "time": "20:20",
+          "title": "规范运营优化管理体系，在联华证券有实盘机制持续完善服务标准 - 新浪财经",
+          "summary": "规范运营优化管理体系，在联华证券有实盘机制持续完善服务标准 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zTE0wZTNHOWxPMFNIb2VDX2NGMUp0Szh5b2diNE9YMFdfZzE0OHZYVThBenpIVHVveWZRRVlNT3ZrVm9PWXl1UEItcTFBVkp0MHFDaG10UDNyaVdSOTQ4Tw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVmJaWFFnbGR6eVF4aEUwSTdWdzRZdy1tV29INHFkOFhqZWp2R29vRVhFQnZPbUVqTWxFTTl1b1JEQUFHTk9keFNGWVQzc3poYnNTejBHbDM1UTh4ejdDSEoxTU54bURsbldFSjdPQmZNdjhsV2pWSHRkSF9yMzNONXdFX001c1p5Qi1v?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "02:49",
-          "title": "久游体育亚洲体育官网入口：企业战略深度报道与市场布局解析 - 电玩巴士",
-          "summary": "久游体育亚洲体育官网入口：企业战略深度报道与市场布局解析 电玩巴士",
+          "time": "11:24",
+          "title": "刘瀚文团伙|中国医疗器械企业管理层人员_新浪新闻 - 新浪网",
+          "summary": "刘瀚文团伙|中国医疗器械企业管理层人员_新浪新闻 新浪网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxa1VocGdCSm9UX09UUDlqVXh3NGlEX0pPLS1jd1o1bnY5RE5qVmVHTTBjZFk1UGExTEtORFd1SXFURVFzWnlEaGNFTlNVT2QzaVZGUnZ3?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vU3J1U2VIYnp4WlMydGpmUkpQUE5uZmNwckhUWk1rZFI0MUdzUTJqNEhtWHpkR1p4TTYzVzV6UmlrYXVZVjdDZWZ4Sk96XzRuRm5aRlJyZlJKRnRGT21NeGF3aw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "柏诚股份(601133.SH)：无锡荣基企业管理合伙企业(有限合伙)累计减持203.24万股公司股份 - Moomoo",
+          "text": "怎么抓住网赌放水时间：构建全球化企业战略新标杆 - 电玩巴士",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BQWNUQ2E0b1pjYXJ0NHV3ZEtObXRjZkVSeEFXeUFJSTJ6VEEtamlkRzJUT0MwZ3NqZ2JzX1JNNUU1dUtvTlh5Zm9KLW5WZmpVell1QmpwdTNmektEUmhST19Rai1tQQ?oc=5"
+        },
+        {
+          "text": "厦门钨业：公司管理层长期致力于做好公司的生产、经营和管理工作 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zTE0wZTNHOWxPMFNIb2VDX2NGMUp0Szh5b2diNE9YMFdfZzE0OHZYVThBenpIVHVveWZRRVlNT3ZrVm9PWXl1UEItcTFBVkp0MHFDaG10UDNyaVdSOTQ4Tw?oc=5"
+        },
+        {
+          "text": "久游体育亚洲体育官网入口：企业战略深度报道与市场布局解析 - 电玩巴士",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxa1VocGdCSm9UX09UUDlqVXh3NGlEX0pPLS1jd1o1bnY5RE5qVmVHTTBjZFk1UGExTEtORFd1SXFURVFzWnlEaGNFTlNVT2QzaVZGUnZ3?oc=5"
+        },
+        {
+          "text": "柏诚股份(601133.SH)：无锡荣基企业管理合伙企业(有限合伙)累计减持203.24万股公司股份 - moomoo.com",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wOGpMZW1IajJCeDg2NGV0Tmtyalk2RWlfeDkxLUl0X2lJVENsRmxrYTFGLXVNVUx1RS1Ca3hraERfVFFRZjZSMVkzQ0tWUEFjd1NvZXNmdVdndw?oc=5"
-        },
-        {
-          "text": "紫燕食品：宁国筑巢企业管理咨询服务合伙企业（有限合伙）和宁国衔泥企业管理咨询服务合伙企业（有限合伙）已累计减持0.06%股份 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GRWY2QTc3R2w3YnFpdEJ0Q1pLbzVUZHZnWDBOZVlaVW1raU9ZbDlTc1JpeHByamx1XzdvbXU0eTBHQndNa1o4c1J5aGszaHVEQ1UxY1BiQlFYYnUxblJTMg?oc=5"
-        },
-        {
-          "text": "乐竞・体育(中国)官方入口：构建全球化企业战略新标杆 - 电玩巴士",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UNmVDRzlGcDVXb19kaExLejQyc3hhTnlOTk5rOXZyUWJBWjhqcnZSSFU4a0tnR2pldEpidDUwazhFR3U5WUJHWGhxbmFlQUNuUVZ0UmE0QjJacDFxSzVVem5OaE90ZkZPbUVBU1dsVW9EdXIzMnF3?oc=5"
-        },
-        {
-          "text": "西南证券：总经理变更 - finance.sina.cn",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPTkd6OXlPNWpsVEVyR01zdnFxLWxYQjdQcE4tbkhiQ0NPQmN4aVcwVUdZM3RMLXF6S1BnSFdGUDR1QWR2WUFDUVljam9JY1hMRjQxRFppMVItQ1VQR1lqQXZkVVFHQjBnUlF2RjFJVnFXNGVZYkdQVExfTnBWLW03S1B0bWQ4WFM1S3hoWTd4UmMwTFhHSG56cmcybWNDeXdpdFozYlNYU0VFRlRwV21PWWFmYTd5T0RSYUxBT21zbkFqMmxDNHNwMUhaUE9uWkdJQzBueEhyMGkzS3V5eXgzeXM3VXB2SEpNRDlsWW45bXhWTTFNSGJwSHJLM3J5SkhqaDFjZzY3MUZCMmhfUFFMYllqSkZCQlNXWmJXaFRvdjRBNlhMdWdnRlQ2aGVua083Y3c?oc=5"
         }
       ]
     }
