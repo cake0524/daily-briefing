@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月11日",
+  "publishDate": "2026年8月12日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "宝新能源伦交所ESG评级较上年上升至D+，位居同行业25家公司第23名，与申能…",
+      "title": "华泰证券：关注盈利处于拐点的新能源运营商，持续看好储能发展 - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "For Brazil’s Indigenous youth, visibili…",
+      "title": "After post-pandemic improvement, youth…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:38",
-          "title": "宝新能源伦交所ESG评级较上年上升至D+，位居同行业25家公司第23名，与申能股份等同级、高于皖能电力等 - 新浪财经",
-          "summary": "宝新能源伦交所ESG评级较上年上升至D+，位居同行业25家公司第23名，与申能股份等同级、高于皖能电力等 新浪财经",
+          "time": "07:40",
+          "title": "华泰证券：关注盈利处于拐点的新能源运营商，持续看好储能发展 - 新浪财经",
+          "summary": "华泰证券：关注盈利处于拐点的新能源运营商，持续看好储能发展 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ULTBhTF9xZlBTXzEtZGphT3llQUhOMFUxS0FhQ0diT2xtd0RnQVhoVmRmT0ZhVERQZjRULTZNdWs2SlY0YW8tankzVnNjbDRpdHIzSVRjelVFdUJNY1dZalRoblo5SHU1Qk9QdUowSGZlQk1YNmQ2Zg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xQU9xWFJPYnJCeTVLUDFPQ1BUeVFZQTNRZHI1bVRkTWZUTE9BQ2dCaVlUY3lBVGZIWVJoOUlOWFU2cU4zVUNUTkRWVQ?oc=5"
         },
         {
           "priority": "重点看点 02",
           "time": "07:33",
-          "title": "小米YU7体验感受如何 - 新浪网",
-          "summary": "小米YU7体验感受如何 新浪网",
+          "title": "今年近百项税收优惠政策调整，释放什么信号？ - 新浪财经",
+          "summary": "今年近百项税收优惠政策调整，释放什么信号？ 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBidzB0UU5fLUo2UnNPQTIwLTVnNXdkbE9QQ2xXRV9LTndzWDlELVFKRDdIdm1MTVVqcHRXR3JyeG1JWDlnZlNQc3RnUlhneUlvNE85QUw0akNQT2lHa2hCZVVn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmg5SDR0bnVjLS1HUHd3NVJjVEU5dkZQSWNpYzA4RDhhNzMwWjBzdncxS3dEWG5TVUJ4aG55T1JXN3FxTm9idDRWT3R0UkRTMWdlZzJmTjJXcEc2WDQ1dUlmMzNVSk9YZmtMNGx4eDUwb0dpdW1RMFRxMGFrSW5WZDZCU1QweW9fTWxqTlJ4VG10SHdKLTBiTA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "女生买新能源车，冬季续航和充电速度最看重什么配置？ - 新浪汽车",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5acGoyemVZU3lvZTgzVUFIWjNjT0p3Q3VjNE5tOFRFVElRZ0xoWmhLNmhpOU9UWEtEUW5icXFPN0dPeUJWSW84aFNEV2ZHTUVZY21mZmZqSF9HeEpNdzlWN1NnYmNJRGNrY3ZOS0YwZFdhZG1V?oc=5"
+          "text": "谷歌(GOOGL.US)“抢滩”拉美数字经济！新增三套海底光缆系统连接智利、巴拿马等国 - Moomoo",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkZwMW55dFhTQlF2WGtlbU9HdGVVdE1jWnRMMjZOLXBZSnUwM3VScVhOczV0dHVGYUVIS2lxSjBhSzkzVHNHWW9vU0ZvaHJEbTJaWDhQVFhXdldRbmJrQXpZZ2xzdFJrcENKd3N3MUFOMkZPRnIwUmJObzktUU8wQVZVeUxzNGpSQ0EyYXdlRzh3SEE4RDA5UlNZdUR6bUFiRUZJNnpUNHA?oc=5"
         },
         {
-          "text": "从栽树到育林——山东烟台汽车产业在变革中赢得先机 - 新华网",
+          "text": "宋pro新能源价格 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNXRSSU9oQjVmc2hsV0hVOVc0U2pjdnVZTUVsRktMSHF2X1VvQUFITXZhY3ZRVk9VMmY5dkVqMkh6OHR0WnpBckZwb1hQdktQQzBTWExlTE5jMFNCSjFaNEpBdU5NdzNiOHhvbWh4TFFGckN0bU5RV0o3cWppTjRjcmhR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaDIxN250VncydkN2SXlzdmlwdWQzLVZrM3VZb000MFptTjhhMk9pZ3dfOWZqdkdKT2lfZ29zTGVVR1g0T1RWWG1FaUtZR2YxaWY1QUpPOVFYQWtKOEsxWWNn?oc=5"
         },
         {
-          "text": "台风过后多地积水：车辆趴窝 大树倒伏 新能源车涉水安全指南 - 中华网",
+          "text": "20万内新能源车，东风日产NX8增程版适合家用吗？ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UNERISThyX0ktaVhZbkpiQ2FkeUJVa3haa2xqN2VjTk1GSm85QTY5RTJqYjRCZ3BDV0ZidXJqbHJzbUZHUkdITEVxUzE1elVVQzhaRGRFbnp6TDV3X0Izc2xITkFkTlB4SjF3VEhaYjI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42YXR4NmM3S1NBaVg4d29VT2RuT1dPQkZuTXY3QVl3TlNTUER2Z1ZmLTlienM0TURVZVB5dTlua1Q2emJfRGZkSFdFZUVkMEFFcGF5UUpER3dOZ2d4LUxxeGxOdnZMWUJQTFdVSnlHT21XczU3NmJCVW1RRkZWdkk?oc=5"
         },
         {
-          "text": "女生买新能源车怎么选？10-25万口碑车型全对比 - 新浪网",
+          "text": "女生买新能源车，按预算闭眼选这几款 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZTmJLT3Q2RWVzMDhZV2NUNUR3Nzl4X3VreDFuNDU5SGtnb0N3MWM3Q2dXcXRpU2UxYXVMUTNTM2pwMkdnWDVQb21HQU9HZGEwNkRBdWxNZVpWTWpnUUJFRG11T0xsRTdIejB6QVF6Wld1aTFvNGdoWi01aThkR0E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRGFLTW9HVmppVlhwNHhXWEJpdWtJOFZxSHFjcjNJbG5LMVlJd0dsRUU2MGpmcmNFaFMxVjhoSUstb3NmazByenNTbUZlenhQUkk3eW95Z1lyYXlRUE85SUV3MjU1ZVpqNC0tOUstZk9JTWtFTUpMR1EydTNLTWc?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "For Brazil’s Indigenous youth, visibility is resistance",
-          "summary": "As climate change reshapes Indigenous territories across Brazil, a new generation is turning to culture and d…",
+          "title": "After post-pandemic improvement, youth unemployment is rising again",
+          "summary": "Frustrated by skyrocketing youth unemployment, among other issues, tens of thousands of Gen Z activists took…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168097"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168120"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
-          "summary": "More than 2,500 years after Homer’s epic was first told, Christopher Nolan's blockbuster retelling of The Ody…",
+          "title": "South Sudan: UN mission decries deadly attacks, works to calm tensions after ‘nothing but devastation’",
+          "summary": "The UN Mission in South Sudan (UNMISS) has condemned recent armed group attacks in Warrap state which reporte…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168084"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168118"
         }
       ],
       "briefs": [
         {
-          "text": "‘Sudan is losing another generation’ to war, Mohammed warns",
+          "text": "Ebola deaths top 2,000 as scientists race to develop vaccine",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168101"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168117"
         },
         {
-          "text": "Peacock party takes pride of place in nod to decades of turbulent history",
+          "text": "World marks second warmest July on record",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168099"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168115"
         },
         {
-          "text": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine",
+          "text": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168100"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168113"
         },
         {
-          "text": "Food prices edged up in July amid heatwaves and energy price hikes",
+          "text": "Colombia earthquake: UN joins national response",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168096"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168112"
         }
       ]
     },
@@ -170,24 +170,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:00",
-          "title": "AI professors are negotiating the new realities of academic research",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "time": "18:00",
+          "title": "Testing ads in ChatGPT",
+          "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "18:00",
+          "title": "Daybreak models are now available on AWS",
+          "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support ent…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "AI professors are negotiating the new realities of academic research",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
         },
         {
-          "priority": "重点看点 02",
-          "time": "01:00",
-          "title": "What building an AI-native finance function taught me",
-          "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecas…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "What building an AI-native finance function taught me",
           "source": "OpenAI",
           "url": "https://openai.com/index/building-an-ai-native-finance-function"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
           "source": "OpenAI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
           "source": "OpenAI",
           "url": "https://openai.com/index/model-ml"
-        },
-        {
-          "text": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
-        },
-        {
-          "text": "Putting frontier cyber models in more trusted hands",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "05:55",
-          "title": "Failure Analysis HW Enables System-Level Debug For 3D ICs (Google, TU Delft)",
-          "summary": "Researchers from Google and Delft University of Technology published a technical paper titled “Innovative FA…",
+          "time": "19:38",
+          "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+          "summary": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster char…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/failure-analysis-hw-enables-system-level-debug-for-3d-ics-google-tu-delft/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:53",
-          "title": "Optimizing Chiplet Placement And Interposer Footprint For 2.5D Systems (A*STAR)",
-          "summary": "Researchers from A*STAR published a technical paper titled “FAPlace: Joint Optimization of Chiplet Placement…",
+          "time": "19:00",
+          "title": "Exotic Quasiparticles Promise Next-Gen Interconnects",
+          "summary": "Interconnects , the wires that string transistors together into circuits on microchips, have long been built…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/optimizing-chiplet-placement-and-interposer-footprint-for-2-5d-systems-astar/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/topological-material-nanowire-interconnect"
         }
       ],
       "briefs": [
         {
-          "text": "Femtosecond Laser Process Targets Depth-Controlled 4H-SiC Wafer Slicing (Texas…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/femtosecond-laser-process-targets-depth-controlled-4h-sic-wafer-slicing-texas-am-kimm-ust/"
+          "text": "Optical Tech Would Update a Robot’s AI on the Fly",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/ai-in-robotics"
         },
         {
-          "text": "How Data Center AI Can Keep Growing, Despite Supply Chain Bottlenecks",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/how-data-center-ai-can-keep-growing-despite-supply-chain-bottlenecks/"
+          "text": "Sleep Patch Could Track Brain’s Nightly Cleansing Ritual",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/sleep-monitoring-device"
         },
         {
-          "text": "Chip Industry Technical Paper Roundup: Aug. 10",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-11/"
+          "text": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207"
         },
         {
-          "text": "Research Bits: Aug. 10",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-aug-10/"
+          "text": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/led-light-pollution"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "For Brazil’s Indigenous youth, visibility is resistance",
-          "summary": "As climate change reshapes Indigenous territories across Brazil, a new generation is turning to culture and d…",
+          "title": "After post-pandemic improvement, youth unemployment is rising again",
+          "summary": "Frustrated by skyrocketing youth unemployment, among other issues, tens of thousands of Gen Z activists took…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168097"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168120"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "The Mediterranean’s own odyssey: An ecological treasure feels the strain",
-          "summary": "More than 2,500 years after Homer’s epic was first told, Christopher Nolan's blockbuster retelling of The Ody…",
+          "title": "South Sudan: UN mission decries deadly attacks, works to calm tensions after ‘nothing but devastation’",
+          "summary": "The UN Mission in South Sudan (UNMISS) has condemned recent armed group attacks in Warrap state which reporte…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168084"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168118"
         }
       ],
       "briefs": [
         {
-          "text": "‘Sudan is losing another generation’ to war, Mohammed warns",
+          "text": "Ebola deaths top 2,000 as scientists race to develop vaccine",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168101"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168117"
         },
         {
-          "text": "Peacock party takes pride of place in nod to decades of turbulent history",
+          "text": "World marks second warmest July on record",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168099"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168115"
         },
         {
-          "text": "Ebola in DR Congo: Childhood deaths rise; hopes raised over new vaccine",
+          "text": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168100"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168113"
         },
         {
-          "text": "Food prices edged up in July amid heatwaves and energy price hikes",
+          "text": "Colombia earthquake: UN joins national response",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168096"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168112"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:59",
-          "title": "锦和商管（603682.SH）新增一起对外投资，被投资公司为上海锦岫枫企业管理有限公司_公司新闻 - 证券之星",
-          "summary": "锦和商管（603682.SH）新增一起对外投资，被投资公司为上海锦岫枫企业管理有限公司_公司新闻 证券之星",
+          "time": "22:34",
+          "title": "AI助力，为什么企业战略还是难落地？ - 新浪网",
+          "summary": "AI助力，为什么企业战略还是难落地？ 新浪网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ieG9zcFVsamQzckZLckM2R19tVk8zLVJ2YURoM2xHblFoT3VIM3lXd2R5Mmp4dGdZS0JDZXVFOWFTS0VMZ2ZZRVN6RXZYYjVwOUVzaEtMZGpBUWNiTXVzMFF6OWE?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZ3htU01aNGRHQ2Jnam9wVU0weU04TWo0di14YUl1QzBlMmwxYkw2cnJNNG5hTU9FU25fNmVEbDc5MXgwcGtNZE9zUElFZkdSRWN4NTEtUlFqTW9UcElHdmgtM2dVTXdxWFJWZ1JjRmVMYUF2T3hodDJ1N2RQQQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:46",
-          "title": "张江高科(600895):2026-027 关于发起设立“上海浩聚浦创企业管理合伙企业(有限合伙)”的进展公告 - 中财网",
-          "summary": "张江高科(600895):2026-027 关于发起设立“上海浩聚浦创企业管理合伙企业(有限合伙)”的进展公告 中财网",
+          "time": "21:46",
+          "title": "永泰能源：公司管理层坚定且长期看好公司发展前景 - 东方财富",
+          "summary": "永泰能源：公司管理层坚定且长期看好公司发展前景 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFZmU4TE1PQ1ZuNUtydTFmT1dpVGRHWHowcEhralRPc1JidUtqNXR1SzlIRnIzek1wZnpyeFo4ZXpnalZuaGxNX3gzN25vVGk3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4MWkwV0xud2hKVk0zcVpvdnJuaFpMa29TNnY3cWRFU3lMLTQwekdaT2ptNEVtQjlWZklpc051elhNRk5hTFhBQlJxWmdmTGhwU3dCRUxYcjFBeEpMRGlIb3dXVzZyUQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "沪上阿姨6家股东将减持：股价下跌23% 市值跌破百亿 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR29JVmsxeV96T0UtaHpIM2hPUnIyOWVTLWk3MjJFdW42V2ZSMEY3elpiS3pBR1RueUh0dUNoUVZ4X0dnazh2RGVVNVA2WGlXV1JpQ2lLeFU2czdpazZZT0tkTWF5dVV1cnNhOFFTYWNmRWdfMHdFS3ZEaDVBaDM1VzZ5bl9RVXhWLWxpNFUwV0l6NFlLb1R1M1NkckQ?oc=5"
-        },
-        {
-          "text": "深圳地方金融局加强外省融资担保公司管理，跨省展业报告要求明确 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hNTR4THQ4NXNTaGxSdWJlc1FsRXdGT1NjWWxsWWo0SVk3NUdwdzBDWHBkVV9MbGQwbHFCUEh4X1REQ0FOcVRKa3pIY1lZNFoxOEpqd1k5UEwtUmRjUS1hOGNlWnRGdw?oc=5"
-        },
-        {
-          "text": "hga030皇冠官网登录CEO张总阐释企业战略升级路径：“匠心、创新、共赢”驱动体育产业新未来 - 电玩巴士",
+          "text": "澳洲与越南深化军事合作 承诺力保供应链韧性 - 联合早报",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBnWjZQa1VVNThBSnBGYnI3dVppNXFjUHZaRW9MdFZScjJuNDdwbzdsaW9nSXU4ek1rczZvbXZNYmtKd1dmOU4xU0dNYjYzemtBMDBxYS04MFBHbXo5dzhSSEtR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82aEREM09vSG9tdVdpcUtPYjBJY0x2SzFRUkhiRVgwYjdqOUU4RDF3RXJGR0kwZUdrWWVFaVFQaXhxb1hVV1NxSzBLUzIwSXdhRzdFYURJS1pjUDBsdHFmMk9Yelc3eXc?oc=5"
         },
         {
-          "text": "人工智能对冲基金追加4亿美元押注芯片初创公司，管理资产缩水一半| 乌克兰新闻 - Межа. Новини України.",
+          "text": "金卡智能：公司管理层会结合市场环境及监管要求，审慎评估有利于维护市值稳定的合理举措 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKZEdwMHZDc0phQTVTU0FfWGNVcXp5R0J0NHNWV0RZTjFualBwY3dWRmNUQ2UwYTg1U2FFNzhVZ0h2OE5YTmlud0Z0Y0FXRDBzM010X0VWN3FNdFpjeE9oR2tBekRyc2pBSTVFTFdQQ1AtOHls?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QMGFFVHhUQUtYWFljYldxek5XTzFyY0lKS2N1MmtWWlV1TDNRbHpkM3ptQTFHcU1RbThEVUFpa09XRzgwVEh5VU5mUWc3OHhVNnNGbUxpdEtzb0pwWWlaanpSeDZBdw?oc=5"
+        },
+        {
+          "text": "深耕实业守初心 公益向善显担当｜上海飘香四溢企业管理有限公司荣获“爱心企业”荣誉称号 - 中华网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BWnBUWHN1VDYzdlYyZ0NsSzgtRjA0WmhGNHp2aHpOaEVYanEwblNUSjk5b1J0YWo2cWhKWlFqaFowS05yLUVJelZMelEwUS1mQTBJdHdjemhCVWhsN1E?oc=5"
+        },
+        {
+          "text": "麻将胡了下载免费pg与某知名企业战略合作后，首个项目落地消费者权益！ - 电玩巴士",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pXzlLLUlnT2pWQllucGcyUHUxblpTalUyUVRBNV9ZMkM2V3lfU1JjZ1BVTlUyNTl4aEdrQWVIbHVWVjUxRUxRZ1JjRGI4UEY1YXVxY21xZFpaVVlLM1ItLVp0UQ?oc=5"
         }
       ]
     }
