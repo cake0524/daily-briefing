@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月12日",
+  "publishDate": "2026年8月13日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "华泰证券：关注盈利处于拐点的新能源运营商，持续看好储能发展 - 新浪财经",
+      "title": "我国汽车出口连续两月超百万辆 新能源新车销量占比首超60% - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "A 0.42-nanometer breakthrough could pus…",
+      "title": "Ordinary WiFi can now identify you with…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:40",
-          "title": "华泰证券：关注盈利处于拐点的新能源运营商，持续看好储能发展 - 新浪财经",
-          "summary": "华泰证券：关注盈利处于拐点的新能源运营商，持续看好储能发展 新浪财经",
+          "time": "07:50",
+          "title": "我国汽车出口连续两月超百万辆 新能源新车销量占比首超60% - 新浪财经",
+          "summary": "我国汽车出口连续两月超百万辆 新能源新车销量占比首超60% 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0xQU9xWFJPYnJCeTVLUDFPQ1BUeVFZQTNRZHI1bVRkTWZUTE9BQ2dCaVlUY3lBVGZIWVJoOUlOWFU2cU4zVUNUTkRWVQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHFlS19oUjluUFBKal9TdW9MY20zNm5mQ2JNakE1aFB2RUVVQjY1N28zanA2R2dXTWRycDd3M0M0RmNpWmU4RlVNVmJ1VGNrMG0yX191QVFSU05iSHlEaDJ0VUVFVWFydGg5UnZkYzdqTHAxS05JcF94empKZlltNWRRUktKZUFEN0Q4?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:33",
-          "title": "今年近百项税收优惠政策调整，释放什么信号？ - 新浪财经",
-          "summary": "今年近百项税收优惠政策调整，释放什么信号？ 新浪财经",
+          "time": "07:48",
+          "title": "宝骏云海2026款纯电 - 新浪网",
+          "summary": "宝骏云海2026款纯电 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmg5SDR0bnVjLS1HUHd3NVJjVEU5dkZQSWNpYzA4RDhhNzMwWjBzdncxS3dEWG5TVUJ4aG55T1JXN3FxTm9idDRWT3R0UkRTMWdlZzJmTjJXcEc2WDQ1dUlmMzNVSk9YZmtMNGx4eDUwb0dpdW1RMFRxMGFrSW5WZDZCU1QweW9fTWxqTlJ4VG10SHdKLTBiTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IbHhJTk9JT0VuVjQzaHJEa1htMU50VHBNOE52M2NBb09rMGt2UWh5cDg0TEllT0FLenZCRWd0cHVHQlY0MGdnMHM4RVczM3J3OC00aVRKQUJPRFNSVXJzbUhB?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "谷歌(GOOGL.US)“抢滩”拉美数字经济！新增三套海底光缆系统连接智利、巴拿马等国 - Moomoo",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkZwMW55dFhTQlF2WGtlbU9HdGVVdE1jWnRMMjZOLXBZSnUwM3VScVhOczV0dHVGYUVIS2lxSjBhSzkzVHNHWW9vU0ZvaHJEbTJaWDhQVFhXdldRbmJrQXpZZ2xzdFJrcENKd3N3MUFOMkZPRnIwUmJObzktUU8wQVZVeUxzNGpSQ0EyYXdlRzh3SEE4RDA5UlNZdUR6bUFiRUZJNnpUNHA?oc=5"
+          "text": "宋pro新能源2023款冠军版 - 新浪网",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrLVlxLWlyLTl3OTBmOFdTS0dleUZVaGNIZzJ6R0twVEVUaFFLamZDMXllb21JdVN5dDUzamxOcjFVU1l6MUdMNHFzTGRYcFY4aGdkMEx4dklkdkdRY1gyMHNIQ2ZWLTYwZ2ZBZ2x6ckwtWnJJSlh1RnhfLWtkNmM?oc=5"
         },
         {
-          "text": "宋pro新能源价格 - 新浪网",
+          "text": "制造业加速推进“人工智能供应链” 10家企业中有4家支持合作伙伴AX - 亚洲日报",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqaDIxN250VncydkN2SXlzdmlwdWQzLVZrM3VZb000MFptTjhhMk9pZ3dfOWZqdkdKT2lfZ29zTGVVR1g0T1RWWG1FaUtZR2YxaWY1QUpPOVFYQWtKOEsxWWNn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQM3Zod1NZRzRtV0daMFhmRU9DYjF6eDdHc3h6QzlpMlRmbHpPMUtQbE1LRlZBN2NDOUFHV1FtZm8yVTRSWWN5Ri1jb3FOVGNMTGZWZm5OUDFPeUk?oc=5"
         },
         {
-          "text": "20万内新能源车，东风日产NX8增程版适合家用吗？ - 新浪网",
+          "text": "20万内新能源车，东风日产NX8和比亚迪海豹08哪个更适合家用？ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42YXR4NmM3S1NBaVg4d29VT2RuT1dPQkZuTXY3QVl3TlNTUER2Z1ZmLTlienM0TURVZVB5dTlua1Q2emJfRGZkSFdFZUVkMEFFcGF5UUpER3dOZ2d4LUxxeGxOdnZMWUJQTFdVSnlHT21XczU3NmJCVW1RRkZWdkk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwYzlyN2Y5eHVuNXJfSDdvNThsNXllYVhPSmhhXy1Na1hwMEZMdTFsdU1EQm8xbk9Rb0c2YVk0LTc1YTU0VldJV3FOYzM2N2NQTWZUM0dMTkUwZ2d4VFJvMmxiZ1JIcEdseWcyeXNwazNaNnJlcXFsYjc5MXFHSUU?oc=5"
         },
         {
-          "text": "女生买新能源车，按预算闭眼选这几款 - 新浪网",
+          "text": "创业板新能源ETF华泰柏瑞（159069）涨0.85%，半日成交额1029.77万元 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wRGFLTW9HVmppVlhwNHhXWEJpdWtJOFZxSHFjcjNJbG5LMVlJd0dsRUU2MGpmcmNFaFMxVjhoSUstb3NmazByenNTbUZlenhQUkk3eW95Z1lyYXlRUE85SUV3MjU1ZVpqNC0tOUstZk9JTWtFTUpMR1EydTNLTWc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbEowZnFMaXFlVmlCUUx3Y3hUYlQzU1ZlY3JPQnF5ci0tWExWYzI4LWpOUGYxVzBCM1hBZkdwNU1iMWd3WEdwbmFkSjN3WlNoNTZyMkJuc2l0NXJxZ1VNMmk4dnlzODJ4UnZlM0p4SjZCVnNGb0dRa3p1VlZHdTNxMGItQVJueVRhYmNXc0owT3FQbHB2aEZVSnc2aXJjeUc5b01kRHpaVS1tRG9qdXA1ZS1rSlRJWXB6Sy1ZdGN6YnZ1LXRtV2pCeXQzOURrbGNfS3ZEZmVXeW5kcXNpclZNT25BcXlrMHdVTmM5djJfcTRmR2VESkR4dmFRQk84dw?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "12:07",
+          "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
+          "summary": "Ordinary WiFi networks could quietly become powerful surveillance tools, allowing people to be identified wit…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "14:05",
           "title": "A 0.42-nanometer breakthrough could push transistors beyond silicon",
           "summary": "Atomically thin semiconductors could enable dramatically smaller and more efficient chips, but a stubborn pro…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "22:09",
-          "title": "New fuel cell breakthrough could help power energy-hungry data centers",
-          "summary": "A new nanostructured carbon design lets fuel-cell catalysts use tiny amounts of platinum while remaining rema…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "New fuel cell breakthrough could help power energy-hungry data centers",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm"
+        },
         {
           "text": "Sunlight creates quantum entanglement once thought to require lasers",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Scientists twist crystal layers and reshape matter from within",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260801042819.htm"
-        },
-        {
-          "text": "Mathematicians prove perfectly fair elections are impossible",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260801042812.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "18:00",
-          "title": "Testing ads in ChatGPT",
-          "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong…",
+          "time": "00:51",
+          "title": "Scaling AI agents with trustworthy data",
+          "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rap…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/testing-ads-in-chatgpt"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:00",
-          "title": "Daybreak models are now available on AWS",
-          "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support ent…",
+          "time": "14:00",
+          "title": "From assistance to execution: How enterprises put AI to work",
+          "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier fi…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
         }
       ],
       "briefs": [
         {
+          "text": "How RingCentral builds AI-native work from engineering to ops",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/ringcentral"
+        },
+        {
+          "text": "Testing ads in ChatGPT",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/testing-ads-in-chatgpt"
+        },
+        {
+          "text": "Daybreak models are now available on AWS",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
+        },
+        {
           "text": "AI professors are negotiating the new realities of academic research",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
-        },
-        {
-          "text": "What building an AI-native finance function taught me",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/building-an-ai-native-finance-function"
-        },
-        {
-          "text": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
-        },
-        {
-          "text": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/model-ml"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:38",
-          "title": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
-          "summary": "This article is brought to you by COMSOL . In pursuit of improved range, greater reliability, and faster char…",
+          "time": "06:47",
+          "title": "Self-Supervised Layout Generation To Fix Advanced-Node DRVs (Nvidia, Duke)",
+          "summary": "Researchers from NVIDIA and Duke University published a technical paper titled “SCALE: Self-Supervised Constr…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/self-supervised-layout-generation-to-fix-advanced-node-drvs-nvidia-duke/"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:00",
-          "title": "Exotic Quasiparticles Promise Next-Gen Interconnects",
-          "summary": "Interconnects , the wires that string transistors together into circuits on microchips, have long been built…",
+          "time": "02:01",
+          "title": "2D GAA CFETs Need Contact And Parasitic Co-Optimization At A2 Node (imec)",
+          "summary": "Researchers from imec published a technical paper titled “Are Gate-All-Around 2D CFETs the Optimal Architectu…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/topological-material-nanowire-interconnect"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/2d-gaa-cfets-need-contact-and-parasitic-co-optimization-at-a2-node-imec/"
         }
       ],
       "briefs": [
         {
-          "text": "Optical Tech Would Update a Robot’s AI on the Fly",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/ai-in-robotics"
+          "text": "Defect Prediction in Optical Lithography, EUVL, and NIL (National Taiwan Univer…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/defect-prediction-in-optical-lithography-euvl-and-nil-national-taiwan-university/"
         },
         {
-          "text": "Sleep Patch Could Track Brain’s Nightly Cleansing Ritual",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/sleep-monitoring-device"
+          "text": "What Are DDR5 DIMM Chipsets? The Complete Guide To RCDs, PMICs, SPD Hubs, And M…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/what-are-ddr5-dimm-chipsets-the-complete-guide-to-rcds-pmics-spd-hubs-and-more/"
         },
         {
-          "text": "SEM-Guided Low-kV FIB Finishing for Leading-Edge Semiconductor Failure Analysis",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://event.on24.com/wcc/r/5418459/287E3D5B99470D34C830D69A24B3B207"
+          "text": "Blog Review: Aug. 12",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/blog-review-aug-12-3/"
         },
         {
-          "text": "We’re Squandering LEDs’ Potential to Save Our Night Skies",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/led-light-pollution"
+          "text": "Standards-Compliant 112G PHY for Linear Optics: Driving Efficient AI Infrastruc…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/standards-compliant-112g-phy-for-linear-optics-driving-efficient-ai-infrastructure/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:34",
-          "title": "AI助力，为什么企业战略还是难落地？ - 新浪网",
-          "summary": "AI助力，为什么企业战略还是难落地？ 新浪网",
+          "time": "07:17",
+          "title": "企业办学：既是企业战略，也是社会工程 - Sohu",
+          "summary": "企业办学：既是企业战略，也是社会工程 Sohu",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NZ3htU01aNGRHQ2Jnam9wVU0weU04TWo0di14YUl1QzBlMmwxYkw2cnJNNG5hTU9FU25fNmVEbDc5MXgwcGtNZE9zUElFZkdSRWN4NTEtUlFqTW9UcElHdmgtM2dVTXdxWFJWZ1JjRmVMYUF2T3hodDJ1N2RQQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ19Lak5pTnh5ZWRnbUJOOVRsMUNtem50ZE5KeHJFVGpqbldCYjhoMmU1TmpLSmlHc0RQUWtwcWJkdEdYRElKRURoc19DN0JwRVRvMUN0YkVNek9VRm9pbWJpN2Z0bzFubVZjSnNidUtJQ1k1WkxnYTByT2R3OVlIQWZUQmpDMWZER01yMQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:46",
-          "title": "永泰能源：公司管理层坚定且长期看好公司发展前景 - 东方财富",
-          "summary": "永泰能源：公司管理层坚定且长期看好公司发展前景 东方财富",
+          "time": "00:23",
+          "title": "勤上股份（002638）股东东莞市晶腾达企业管理合伙企业(有限合伙)质押3300万股，占总股本2.32% - 财富号",
+          "summary": "勤上股份（002638）股东东莞市晶腾达企业管理合伙企业(有限合伙)质押3300万股，占总股本2.32% 财富号",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4MWkwV0xud2hKVk0zcVpvdnJuaFpMa29TNnY3cWRFU3lMLTQwekdaT2ptNEVtQjlWZklpc051elhNRk5hTFhBQlJxWmdmTGhwU3dCRUxYcjFBeEpMRGlIb3dXVzZyUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HWXQ3RDJSbVVsd0dyUnV3d1RlR1c1aG9mcUlZd0ZrSVk5akRoWlpVTWFtZUs0aTBJUXozd1YtdnYwTGFKZjhJV2xnV0FNc3oxaXFfdTF5bllZZndpeEZTVWpMemVxSXdsNXFR?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "澳洲与越南深化军事合作 承诺力保供应链韧性 - 联合早报",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82aEREM09vSG9tdVdpcUtPYjBJY0x2SzFRUkhiRVgwYjdqOUU4RDF3RXJGR0kwZUdrWWVFaVFQaXhxb1hVV1NxSzBLUzIwSXdhRzdFYURJS1pjUDBsdHFmMk9Yelc3eXc?oc=5"
-        },
-        {
-          "text": "金卡智能：公司管理层会结合市场环境及监管要求，审慎评估有利于维护市值稳定的合理举措 - 东方财富",
+          "text": "毕得医药(688073):股东权益变动触及5%整数倍的提示性公告 - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QMGFFVHhUQUtYWFljYldxek5XTzFyY0lKS2N1MmtWWlV1TDNRbHpkM3ptQTFHcU1RbThEVUFpa09XRzgwVEh5VU5mUWc3OHhVNnNGbUxpdEtzb0pwWWlaanpSeDZBdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LdTBlVG5BNlAtck9mQ1E2b01lbnhoSnZkbEJKYlRNNG1LN0dEWEdyVDNfUlRKVUZYNm5uNzAzNlNkVzEyUWc1cUZHWHVhRjEw?oc=5"
         },
         {
-          "text": "深耕实业守初心 公益向善显担当｜上海飘香四溢企业管理有限公司荣获“爱心企业”荣誉称号 - 中华网",
+          "text": "《中国电力企业管理》2026年第6期丨构网型技术应用探索 锂钠混合储能电站工程实践与技术研究 - 新浪网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BWnBUWHN1VDYzdlYyZ0NsSzgtRjA0WmhGNHp2aHpOaEVYanEwblNUSjk5b1J0YWo2cWhKWlFqaFowS05yLUVJelZMelEwUS1mQTBJdHdjemhCVWhsN1E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fZTF3OUl4MnJaRVhFb3pHeG01cEIyTGNVbFZadGJXaWljWjFtTHFHTF9ibnlXdFZMYUVlb0hSdkxGQnl2VENvY3lfdVBadHRmUHBtTU9GM1FyTEtjZmVJeEJn?oc=5"
         },
         {
-          "text": "麻将胡了下载免费pg与某知名企业战略合作后，首个项目落地消费者权益！ - 电玩巴士",
+          "text": "2026年度有色金属企业管理现代化创新成果专家审定会召开 - 中国有色网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLUDRYcERhaExwNFdzZmY2SmdPYVRwSjRXNk1TcjFaWmhYaEhRRThHRFVUU0JobkZfa0NtQmQ5WGhYLXBwaFRyemhxbUV6NFoyYmtvempZUjUxcGox?oc=5"
+        },
+        {
+          "text": "马士基与这家中国货主企业战略合作 - Sohu",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pXzlLLUlnT2pWQllucGcyUHUxblpTalUyUVRBNV9ZMkM2V3lfU1JjZ1BVTlUyNTl4aEdrQWVIbHVWVjUxRUxRZ1JjRGI4UEY1YXVxY21xZFpaVVlLM1ItLVp0UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0pmTWo2S0htbzVSTUlEZHZ1Y2VUc3hPSThSNHhyVWtrMFZVaGlqa1RRMmRpQnhtWGRUWEhZV25VUjh1N2VZN0dPS2tlTUFVeWtGRHhlcFBKem1ac3hKSHNqVHk0eHZ3TXV4bFdTeGpXRERXY0NJQVdrb2hGTW84SVJfR0lzNS1n?oc=5"
         }
       ]
     }
