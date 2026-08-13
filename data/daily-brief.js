@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月13日",
+  "publishDate": "2026年8月14日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "我国汽车出口连续两月超百万辆 新能源新车销量占比首超60% - 新浪财经",
+      "title": "活力中国调研行｜江苏立足制造业基础开辟新赛道——“老家底”长出新产业 - 新华…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:50",
-          "title": "我国汽车出口连续两月超百万辆 新能源新车销量占比首超60% - 新浪财经",
-          "summary": "我国汽车出口连续两月超百万辆 新能源新车销量占比首超60% 新浪财经",
+          "time": "07:45",
+          "title": "活力中国调研行｜江苏立足制造业基础开辟新赛道——“老家底”长出新产业 - 新华报业网",
+          "summary": "活力中国调研行｜江苏立足制造业基础开辟新赛道——“老家底”长出新产业 新华报业网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeHFlS19oUjluUFBKal9TdW9MY20zNm5mQ2JNakE1aFB2RUVVQjY1N28zanA2R2dXTWRycDd3M0M0RmNpWmU4RlVNVmJ1VGNrMG0yX191QVFSU05iSHlEaDJ0VUVFVWFydGg5UnZkYzdqTHAxS05JcF94empKZlltNWRRUktKZUFEN0Q4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KME5CN1JET1FhYW83MEVKRXM4UkRwa2hGQnVTTVlLbC02b3AySUpzRmFadE9rOTlBb2FRMmZ3TWlQc2s5OXE3WnZvWHB5RERXelZxdl9FRkU0eGJMRmx1LTE0MU5SbUQ3LTdn?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:48",
-          "title": "宝骏云海2026款纯电 - 新浪网",
-          "summary": "宝骏云海2026款纯电 新浪网",
+          "time": "07:27",
+          "title": "欧盟强化数字经济规则监管 - 新浪财经",
+          "summary": "欧盟强化数字经济规则监管 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9IbHhJTk9JT0VuVjQzaHJEa1htMU50VHBNOE52M2NBb09rMGt2UWh5cDg0TEllT0FLenZCRWd0cHVHQlY0MGdnMHM4RVczM3J3OC00aVRKQUJPRFNSVXJzbUhB?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVRyb0xZQ25WbUpPYWVqd1NJU3luVUw2aEdia01STEdxdzBSamdBM2JQb1hIQlQ4WDZOZlRMdThTT2dHNUxudHMxSUduTWtLSnUwcDBYM1J3dm1PVTJxY2M0Z1VPWHVxQXZpb3YwYjgwcTNrVkMtdXdVcUV2bWgyb0xQeEpsMVNQbVp0czJORjhoOVNkeVBpV2ptRTdVLVNm?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "宋pro新能源2023款冠军版 - 新浪网",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrLVlxLWlyLTl3OTBmOFdTS0dleUZVaGNIZzJ6R0twVEVUaFFLamZDMXllb21JdVN5dDUzamxOcjFVU1l6MUdMNHFzTGRYcFY4aGdkMEx4dklkdkdRY1gyMHNIQ2ZWLTYwZ2ZBZ2x6ckwtWnJJSlh1RnhfLWtkNmM?oc=5"
+          "text": "苹果在休斯顿开设先进制造中心助力培养新一代美国制造业人才- Apple 苹果 - cnBeta.COM",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WdGdCaWxpeVFjOEhrRkRJRHg3R1JRVElUU0FKRk5hMFN0YWY4ejJuUW5iekQ2SVVpOHctX0hOd0pVN2pNMlVILUZ2OTFFdV80X3Q0S0d2SUYyUi12dlVfTA?oc=5"
         },
         {
-          "text": "制造业加速推进“人工智能供应链” 10家企业中有4家支持合作伙伴AX - 亚洲日报",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQM3Zod1NZRzRtV0daMFhmRU9DYjF6eDdHc3h6QzlpMlRmbHpPMUtQbE1LRlZBN2NDOUFHV1FtZm8yVTRSWWN5Ri1jb3FOVGNMTGZWZm5OUDFPeUk?oc=5"
+          "text": "苹果在美国休斯顿开设先进制造中心，今年将启动生产 Mac mini - 新浪网",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZkNBbndBZ1owbmFBSXdtb3FsU0RYNnV2QkJjTHZlalBCdmF6bWFBdzlkTUNCSkVsWU9qZ3BfVGxibFk4SGhBR05KUjVUNnhyWTkxMVdIWTRsS0JET2RJN1VrRkhyV3M5TkVGc050ZFVMNFJxNmxzOGxFOXo2MlJwWVE5d1hoNk52Njg3VTRLU2ZFSmUxeGtxSzhudVhycUVXQWt5V2s3a2tnYUJhZzE5X0hNc1I4SzZNS24wajlVRHZsNTl1cjdQV09IWGRMT184UkUwVjd0ZDAxWFBEQnQyd216VDMyX0ppSmVJYlRDY2I2NG81SHZDXw?oc=5"
         },
         {
-          "text": "20万内新能源车，东风日产NX8和比亚迪海豹08哪个更适合家用？ - 新浪网",
+          "text": "一张纸的五秩迭代 ——传统制造业转型升级的“华泰样本” - sohu.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwYzlyN2Y5eHVuNXJfSDdvNThsNXllYVhPSmhhXy1Na1hwMEZMdTFsdU1EQm8xbk9Rb0c2YVk0LTc1YTU0VldJV3FOYzM2N2NQTWZUM0dMTkUwZ2d4VFJvMmxiZ1JIcEdseWcyeXNwazNaNnJlcXFsYjc5MXFHSUU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOME4zZjZseHdRckl1Q3VLYlVJY1ZJaXY2WXRUYmdNeGhxOEJDX1llcnlVcWE5bDQ0UVAyQjVTYkR2OGJVMWdJRjhBNm1LMWFaTFVIRFMzak5sUHRuMWM5YmlQUnhMQ1UyT1NUSVhLalAxRllMTW4za3VsU2RxZHlHejU4WThLa3lzS0xWNA?oc=5"
         },
         {
-          "text": "创业板新能源ETF华泰柏瑞（159069）涨0.85%，半日成交额1029.77万元 - 新浪财经",
+          "text": "20-25万新能源车乐道L80的换电模式实用性如何？ - 新浪汽车",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbEowZnFMaXFlVmlCUUx3Y3hUYlQzU1ZlY3JPQnF5ci0tWExWYzI4LWpOUGYxVzBCM1hBZkdwNU1iMWd3WEdwbmFkSjN3WlNoNTZyMkJuc2l0NXJxZ1VNMmk4dnlzODJ4UnZlM0p4SjZCVnNGb0dRa3p1VlZHdTNxMGItQVJueVRhYmNXc0owT3FQbHB2aEZVSnc2aXJjeUc5b01kRHpaVS1tRG9qdXA1ZS1rSlRJWXB6Sy1ZdGN6YnZ1LXRtV2pCeXQzOURrbGNfS3ZEZmVXeW5kcXNpclZNT25BcXlrMHdVTmM5djJfcTRmR2VESkR4dmFRQk84dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PekxBbDlqaHZ2aFNIdElSZXZoZkpsSWN1UWdLbkxhb0pjekVCN1Z2TGZLMmdRQXQwQ244c0tZbUxlUnV3SjFUSzZRMGdJNVFLaHdMaXN6ZTR2WENOS1Q5XzNLdDdqSjRic0hvaXlWZ1hjNExs?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:51",
-          "title": "Scaling AI agents with trustworthy data",
-          "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rap…",
+          "time": "21:41",
+          "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+          "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide networ…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
+          "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
         },
         {
           "priority": "重点看点 02",
-          "time": "14:00",
-          "title": "From assistance to execution: How enterprises put AI to work",
-          "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier fi…",
+          "time": "19:00",
+          "title": "The builder’s guide to GPT‑5.6",
+          "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection an…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
         }
       ],
       "briefs": [
         {
-          "text": "How RingCentral builds AI-native work from engineering to ops",
+          "text": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
           "source": "OpenAI",
-          "url": "https://openai.com/index/ringcentral"
+          "url": "https://openai.com/index/previewing-ultrafast"
         },
         {
-          "text": "Testing ads in ChatGPT",
+          "text": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
           "source": "OpenAI",
-          "url": "https://openai.com/index/testing-ads-in-chatgpt"
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
         },
         {
-          "text": "Daybreak models are now available on AWS",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
-        },
-        {
-          "text": "AI professors are negotiating the new realities of academic research",
+          "text": "How kids feel about AI, in their own words",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
+          "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
+        },
+        {
+          "text": "Scaling AI agents with trustworthy data",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:47",
-          "title": "Self-Supervised Layout Generation To Fix Advanced-Node DRVs (Nvidia, Duke)",
-          "summary": "Researchers from NVIDIA and Duke University published a technical paper titled “SCALE: Self-Supervised Constr…",
+          "time": "15:15",
+          "title": "The 1-Megawatt Rack Debate",
+          "summary": "Is it better to cram more compute into each rack or rethink the architecture? The post The 1-Megawatt Rack De…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/self-supervised-layout-generation-to-fix-advanced-node-drvs-nvidia-duke/"
+          "url": "https://semiengineering.com/the-1-megawatt-rack-debate/"
         },
         {
           "priority": "重点看点 02",
-          "time": "02:01",
-          "title": "2D GAA CFETs Need Contact And Parasitic Co-Optimization At A2 Node (imec)",
-          "summary": "Researchers from imec published a technical paper titled “Are Gate-All-Around 2D CFETs the Optimal Architectu…",
+          "time": "15:12",
+          "title": "Vertical Integration Becoming Pervasive",
+          "summary": "No system can be optimized without an understanding of both the hardware and software, and making the right a…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/2d-gaa-cfets-need-contact-and-parasitic-co-optimization-at-a2-node-imec/"
+          "url": "https://semiengineering.com/vertical-integration-becoming-pervasive/"
         }
       ],
       "briefs": [
         {
-          "text": "Defect Prediction in Optical Lithography, EUVL, and NIL (National Taiwan Univer…",
+          "text": "Copper’s Grip On AI Scaling Is Starting To Slip",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/defect-prediction-in-optical-lithography-euvl-and-nil-national-taiwan-university/"
+          "url": "https://semiengineering.com/coppers-grip-on-ai-scaling-is-starting-to-slip/"
         },
         {
-          "text": "What Are DDR5 DIMM Chipsets? The Complete Guide To RCDs, PMICs, SPD Hubs, And M…",
+          "text": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/what-are-ddr5-dimm-chipsets-the-complete-guide-to-rcds-pmics-spd-hubs-and-more/"
+          "url": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory/"
         },
         {
-          "text": "Blog Review: Aug. 12",
+          "text": "What Self-Verifying Means In Agentic EDA Workflows And Why It Matters",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-aug-12-3/"
+          "url": "https://semiengineering.com/what-self-verifying-means-in-agentic-eda-workflows-and-why-it-matters/"
         },
         {
-          "text": "Standards-Compliant 112G PHY for Linear Optics: Driving Efficient AI Infrastruc…",
+          "text": "Packet-Based NPUs In The LLM Era: From Compute-Bound CNNs To Memory-Bound Edge…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/standards-compliant-112g-phy-for-linear-optics-driving-efficient-ai-infrastructure/"
+          "url": "https://semiengineering.com/packet-based-npus-in-the-llm-era-from-compute-bound-cnns-to-memory-bound-edge-and-automotive-workloads/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:17",
-          "title": "企业办学：既是企业战略，也是社会工程 - Sohu",
-          "summary": "企业办学：既是企业战略，也是社会工程 Sohu",
+          "time": "20:48",
+          "title": "国元证券：公司管理层将勤勉尽责，全力推动公司稳健发展 - 东方财富",
+          "summary": "国元证券：公司管理层将勤勉尽责，全力推动公司稳健发展 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ19Lak5pTnh5ZWRnbUJOOVRsMUNtem50ZE5KeHJFVGpqbldCYjhoMmU1TmpLSmlHc0RQUWtwcWJkdEdYRElKRURoc19DN0JwRVRvMUN0YkVNek9VRm9pbWJpN2Z0bzFubVZjSnNidUtJQ1k1WkxnYTByT2R3OVlIQWZUQmpDMWZER01yMQ?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tekVPNVNUQ2hEcEctdXVhQlFoUjJ5ZjNXTjdvZFlHYTVDV0ZNMkRvMi1qSFowQk93UnFPeFdmQU91aUVxQUNKNW1PQ2JUV1k3eG5hUW1lY0hHRjJHdnFYd1FiODI?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:23",
-          "title": "勤上股份（002638）股东东莞市晶腾达企业管理合伙企业(有限合伙)质押3300万股，占总股本2.32% - 财富号",
-          "summary": "勤上股份（002638）股东东莞市晶腾达企业管理合伙企业(有限合伙)质押3300万股，占总股本2.32% 财富号",
+          "time": "19:41",
+          "title": "万泰生物：公司管理层始终高度重视全体股东利益 - eastmoney.com",
+          "summary": "万泰生物：公司管理层始终高度重视全体股东利益 eastmoney.com",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HWXQ3RDJSbVVsd0dyUnV3d1RlR1c1aG9mcUlZd0ZrSVk5akRoWlpVTWFtZUs0aTBJUXozd1YtdnYwTGFKZjhJV2xnV0FNc3oxaXFfdTF5bllZZndpeEZTVWpMemVxSXdsNXFR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fUUs3U28zWU9lTHcyd1o3VmhiM2FqMXV4OXpTYWstZl9KZmRrVkRmTFhUVVMyc29WU0ZXN01JV0FyWVh6eWRsTXJscGNJaHV3M3NaanBZd2pMa3RDMHFwMA?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "规范运营优化管理架构，再联华证券实盘机制持续增强服务水平 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmRsTWZYUU9kdXlnWTUwUUhEX1lDWUZCclAySnZ6LUZVbG9YZlREdFJNa1pIbTU5WWhLZ05XSy1KREJUdnNfWHRPZXB6eFVTZVEtOHZWOEtpQXM3UmZGWmFlNU9obDR5Y1RKdmNEa1FLamVOdmEzZFhScXg4RU5iQzNDZHhXZmh1aEww?oc=5"
+        },
+        {
+          "text": "企业办学：既是企业战略，也是社会工程 - sohu.com",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ19Lak5pTnh5ZWRnbUJOOVRsMUNtem50ZE5KeHJFVGpqbldCYjhoMmU1TmpLSmlHc0RQUWtwcWJkdEdYRElKRURoc19DN0JwRVRvMUN0YkVNek9VRm9pbWJpN2Z0bzFubVZjSnNidUtJQ1k1WkxnYTByT2R3OVlIQWZUQmpDMWZER01yMQ?oc=5"
+        },
+        {
+          "text": "勤上股份（002638）股东东莞市晶腾达企业管理合伙企业(有限合伙)质押3300万股，占总股本2.32% - 财富号",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HWXQ3RDJSbVVsd0dyUnV3d1RlR1c1aG9mcUlZd0ZrSVk5akRoWlpVTWFtZUs0aTBJUXozd1YtdnYwTGFKZjhJV2xnV0FNc3oxaXFfdTF5bllZZndpeEZTVWpMemVxSXdsNXFR?oc=5"
+        },
+        {
           "text": "毕得医药(688073):股东权益变动触及5%整数倍的提示性公告 - 中财网",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LdTBlVG5BNlAtck9mQ1E2b01lbnhoSnZkbEJKYlRNNG1LN0dEWEdyVDNfUlRKVUZYNm5uNzAzNlNkVzEyUWc1cUZHWHVhRjEw?oc=5"
-        },
-        {
-          "text": "《中国电力企业管理》2026年第6期丨构网型技术应用探索 锂钠混合储能电站工程实践与技术研究 - 新浪网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5fZTF3OUl4MnJaRVhFb3pHeG01cEIyTGNVbFZadGJXaWljWjFtTHFHTF9ibnlXdFZMYUVlb0hSdkxGQnl2VENvY3lfdVBadHRmUHBtTU9GM1FyTEtjZmVJeEJn?oc=5"
-        },
-        {
-          "text": "2026年度有色金属企业管理现代化创新成果专家审定会召开 - 中国有色网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLUDRYcERhaExwNFdzZmY2SmdPYVRwSjRXNk1TcjFaWmhYaEhRRThHRFVUU0JobkZfa0NtQmQ5WGhYLXBwaFRyemhxbUV6NFoyYmtvempZUjUxcGox?oc=5"
-        },
-        {
-          "text": "马士基与这家中国货主企业战略合作 - Sohu",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0pmTWo2S0htbzVSTUlEZHZ1Y2VUc3hPSThSNHhyVWtrMFZVaGlqa1RRMmRpQnhtWGRUWEhZV25VUjh1N2VZN0dPS2tlTUFVeWtGRHhlcFBKem1ac3hKSHNqVHk0eHZ3TXV4bFdTeGpXRERXY0NJQVdrb2hGTW84SVJfR0lzNS1n?oc=5"
         }
       ]
     }
