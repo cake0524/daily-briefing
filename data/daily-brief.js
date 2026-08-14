@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月14日",
+  "publishDate": "2026年8月15日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "活力中国调研行｜江苏立足制造业基础开辟新赛道——“老家底”长出新产业 - 新华…",
+      "title": "双英集团上市倒计时！卡位新能源赛道，上半年海外收入激增近3倍 - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Ordinary WiFi can now identify you with…",
+      "title": "World’s first superconducting quantum h…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:45",
-          "title": "活力中国调研行｜江苏立足制造业基础开辟新赛道——“老家底”长出新产业 - 新华报业网",
-          "summary": "活力中国调研行｜江苏立足制造业基础开辟新赛道——“老家底”长出新产业 新华报业网",
+          "time": "07:26",
+          "title": "双英集团上市倒计时！卡位新能源赛道，上半年海外收入激增近3倍 - 新浪网",
+          "summary": "双英集团上市倒计时！卡位新能源赛道，上半年海外收入激增近3倍 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KME5CN1JET1FhYW83MEVKRXM4UkRwa2hGQnVTTVlLbC02b3AySUpzRmFadE9rOTlBb2FRMmZ3TWlQc2s5OXE3WnZvWHB5RERXelZxdl9FRkU0eGJMRmx1LTE0MU5SbUQ3LTdn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByN3pneWRJc3B5V08tdWlnQVJHMENXckw1YkU4cUdnUEd5NHdyS0dmbmhhTFg5MEw4M2V6RExxWG9JS2xBcnAtdGJKUlZ1b0xBYl91UUNyTXlqUm9YUXNWNEpJVjZCa0VwS1d1T09DUDBrZw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:27",
-          "title": "欧盟强化数字经济规则监管 - 新浪财经",
-          "summary": "欧盟强化数字经济规则监管 新浪财经",
+          "time": "07:17",
+          "title": "中华人民共和国工业和信息化部公告 2026年第21号-中国质量新闻网 - 新浪财经",
+          "summary": "中华人民共和国工业和信息化部公告 2026年第21号-中国质量新闻网 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVRyb0xZQ25WbUpPYWVqd1NJU3luVUw2aEdia01STEdxdzBSamdBM2JQb1hIQlQ4WDZOZlRMdThTT2dHNUxudHMxSUduTWtLSnUwcDBYM1J3dm1PVTJxY2M0Z1VPWHVxQXZpb3YwYjgwcTNrVkMtdXdVcUV2bWgyb0xQeEpsMVNQbVp0czJORjhoOVNkeVBpV2ptRTdVLVNm?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSnJVcEw0VG0tanloYWlFazZORVhRRFNad0FnU1c5VkJmdE1DN0FETWNCMER4VmJpMHJKX0EyTFhPSXpKeVJES3Z1OFNKWlFSMWU5MC1sN1dWMldocG8xcGxHTkdqZmpibDQtWWJJUnZVcHZ5MmxzcEJKblJoVUM2ZzZFeU1Jb0R3UnhlM0hFczFrdHdWSS1WMg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "苹果在休斯顿开设先进制造中心助力培养新一代美国制造业人才- Apple 苹果 - cnBeta.COM",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WdGdCaWxpeVFjOEhrRkRJRHg3R1JRVElUU0FKRk5hMFN0YWY4ejJuUW5iekQ2SVVpOHctX0hOd0pVN2pNMlVILUZ2OTFFdV80X3Q0S0d2SUYyUi12dlVfTA?oc=5"
-        },
-        {
-          "text": "苹果在美国休斯顿开设先进制造中心，今年将启动生产 Mac mini - 新浪网",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZkNBbndBZ1owbmFBSXdtb3FsU0RYNnV2QkJjTHZlalBCdmF6bWFBdzlkTUNCSkVsWU9qZ3BfVGxibFk4SGhBR05KUjVUNnhyWTkxMVdIWTRsS0JET2RJN1VrRkhyV3M5TkVGc050ZFVMNFJxNmxzOGxFOXo2MlJwWVE5d1hoNk52Njg3VTRLU2ZFSmUxeGtxSzhudVhycUVXQWt5V2s3a2tnYUJhZzE5X0hNc1I4SzZNS24wajlVRHZsNTl1cjdQV09IWGRMT184UkUwVjd0ZDAxWFBEQnQyd216VDMyX0ppSmVJYlRDY2I2NG81SHZDXw?oc=5"
-        },
-        {
-          "text": "一张纸的五秩迭代 ——传统制造业转型升级的“华泰样本” - sohu.com",
+          "text": "高端新能源车智驾功能如何避坑？ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOME4zZjZseHdRckl1Q3VLYlVJY1ZJaXY2WXRUYmdNeGhxOEJDX1llcnlVcWE5bDQ0UVAyQjVTYkR2OGJVMWdJRjhBNm1LMWFaTFVIRFMzak5sUHRuMWM5YmlQUnhMQ1UyT1NUSVhLalAxRllMTW4za3VsU2RxZHlHejU4WThLa3lzS0xWNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9udUFhVkxkWTNHQlZIVjdGbi1lU2k4RDlJeUhyTWlJQ1RDM29WX2J3TFVHdFpabkpJa3g0TkFSM3g1NFYyOVR6QjFnMHZTMnU3RkNkN0FjaDJwWXJ0UjJVWnRtNmxBZDI2dUYyVkx4My1STktfSHVOYVFMUk9WZFU?oc=5"
         },
         {
-          "text": "20-25万新能源车乐道L80的换电模式实用性如何？ - 新浪汽车",
+          "text": "高端新能源车50万级为什么问界M9领先？ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PekxBbDlqaHZ2aFNIdElSZXZoZkpsSWN1UWdLbkxhb0pjekVCN1Z2TGZLMmdRQXQwQ244c0tZbUxlUnV3SjFUSzZRMGdJNVFLaHdMaXN6ZTR2WENOS1Q5XzNLdDdqSjRic0hvaXlWZ1hjNExs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DX0hQS0lVNlZQUm1jSzR2a1pUOTJaN2REdGFZbWt1eVlNLUxIdVVBbllEYUxPLTkxWmZGSDM5YnEwWkRtT00xUkVpUzJkanJRYTgwSnFxQUg4ZG53eDd0OWxPZ1BIZEdTR1JKVlJoZHRQQkxPUVdRVWJ4TUdiQTA?oc=5"
+        },
+        {
+          "text": "2022款汉兰达四驱7座落地价31万起，如今降至20万区间，抄底还是买新能源？+FAQ - 新浪网",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzWVQ3c25LZFJlZGJ5bmtvNkZhNUN6T3RzeGxQVG9PR0NMdk9LZUU5Vk9BZjFpRERlMF9FejFjaXB5SzhUQVEyMmFXcGRkVjlSbWl2b2hfREoxWktlNzBOOUdzQWpkTmRKV1N3U3JhYXkyQQ?oc=5"
+        },
+        {
+          "text": "10-15万新能源车，哪款后排空间最大适合全家出游？ - 新浪网",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qcGZTQXB5eG9iVEFpUHBYc29nNVpvWlhlVzk2REdESllCdklaNFRPcm1rbWFiWUszMkJObWhPS01yZm40YXlYU3I5QlotU05VaFVLWUY5cFprU3ViVDVMcXZ0dzdlUXl2dUtFazFSMFdsZnN1UzJ5WE5GOHppTTA?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "20:56",
+          "title": "World’s first superconducting quantum heat engine could help unlock massive quantum computers",
+          "summary": "A tiny superconducting engine has successfully converted heat near absolute zero into useful work, demonstrat…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "12:07",
           "title": "Ordinary WiFi can now identify you with near-perfect accuracy",
           "summary": "Ordinary WiFi networks could quietly become powerful surveillance tools, allowing people to be identified wit…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "14:05",
-          "title": "A 0.42-nanometer breakthrough could push transistors beyond silicon",
-          "summary": "Atomically thin semiconductors could enable dramatically smaller and more efficient chips, but a stubborn pro…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "A 0.42-nanometer breakthrough could push transistors beyond silicon",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260808234943.htm"
+        },
         {
           "text": "New fuel cell breakthrough could help power energy-hungry data centers",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Claude Fable 5 AI finds a tiny formula that topples an 87-year-old math conject…",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm"
-        },
-        {
-          "text": "Scientists twist crystal layers and reshape matter from within",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260801042819.htm"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:01",
+          "title": "Chip Industry Week In Review",
+          "summary": "Lam Research and ASE expansions; data center shifts; CPO system architecture initiative; 2D-transistor interf…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-151/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:15",
           "title": "The 1-Megawatt Rack Debate",
           "summary": "Is it better to cram more compute into each rack or rethink the architecture? The post The 1-Megawatt Rack De…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/the-1-megawatt-rack-debate/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:12",
-          "title": "Vertical Integration Becoming Pervasive",
-          "summary": "No system can be optimized without an understanding of both the hardware and software, and making the right a…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/vertical-integration-becoming-pervasive/"
         }
       ],
       "briefs": [
+        {
+          "text": "Vertical Integration Becoming Pervasive",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/vertical-integration-becoming-pervasive/"
+        },
         {
           "text": "Copper’s Grip On AI Scaling Is Starting To Slip",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "What Self-Verifying Means In Agentic EDA Workflows And Why It Matters",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/what-self-verifying-means-in-agentic-eda-workflows-and-why-it-matters/"
-        },
-        {
-          "text": "Packet-Based NPUs In The LLM Era: From Compute-Bound CNNs To Memory-Bound Edge…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/packet-based-npus-in-the-llm-era-from-compute-bound-cnns-to-memory-bound-edge-and-automotive-workloads/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "20:48",
-          "title": "国元证券：公司管理层将勤勉尽责，全力推动公司稳健发展 - 东方财富",
-          "summary": "国元证券：公司管理层将勤勉尽责，全力推动公司稳健发展 东方财富",
+          "time": "02:50",
+          "title": "向新向优 链通全球——从外贸增长看中国供应链韧性与活力 - 中国网新闻中心",
+          "summary": "向新向优 链通全球——从外贸增长看中国供应链韧性与活力 中国网新闻中心",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tekVPNVNUQ2hEcEctdXVhQlFoUjJ5ZjNXTjdvZFlHYTVDV0ZNMkRvMi1qSFowQk93UnFPeFdmQU91aUVxQUNKNW1PQ2JUV1k3eG5hUW1lY0hHRjJHdnFYd1FiODI?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YSERLV2VpY3Q2ZXM5Vms1OHgwcnRHanVta1JkcG9zZlpLN1JMVjRFWGNxRmp5Z2xqQ0lLUkI2VU1NLWtFSUIxc3ZBS0gtcTU0S0VMdmhKR0pVSTg2UnB0bml0dlpQOXV0Tldj?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:41",
-          "title": "万泰生物：公司管理层始终高度重视全体股东利益 - eastmoney.com",
-          "summary": "万泰生物：公司管理层始终高度重视全体股东利益 eastmoney.com",
+          "time": "00:20",
+          "title": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押273万股，占总股本1.32% - 财富号",
+          "summary": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押273万股，占总股本1.32% 财富号",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fUUs3U28zWU9lTHcyd1o3VmhiM2FqMXV4OXpTYWstZl9KZmRrVkRmTFhUVVMyc29WU0ZXN01JV0FyWVh6eWRsTXJscGNJaHV3M3NaanBZd2pMa3RDMHFwMA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpY0VmcFVSZ2FvdUt4VEM1Nmh0YmpmWVJBMjZGS0tWengyVC1nbDNxZ0l3c0RSM0pfWU5GRlBYd2JaOHB5UlkyTldFT09oYTdXYTY5RFZuYk0wME9sQ0xGNFdOMVlCdXdxVVlN?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "规范运营优化管理架构，再联华证券实盘机制持续增强服务水平 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRmRsTWZYUU9kdXlnWTUwUUhEX1lDWUZCclAySnZ6LUZVbG9YZlREdFJNa1pIbTU5WWhLZ05XSy1KREJUdnNfWHRPZXB6eFVTZVEtOHZWOEtpQXM3UmZGWmFlNU9obDR5Y1RKdmNEa1FLamVOdmEzZFhScXg4RU5iQzNDZHhXZmh1aEww?oc=5"
-        },
-        {
-          "text": "企业办学：既是企业战略，也是社会工程 - sohu.com",
+          "text": "新规落地！煤炭供需格局重构，龙头企业战略路线分化 - mp.cnfol.com",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ19Lak5pTnh5ZWRnbUJOOVRsMUNtem50ZE5KeHJFVGpqbldCYjhoMmU1TmpLSmlHc0RQUWtwcWJkdEdYRElKRURoc19DN0JwRVRvMUN0YkVNek9VRm9pbWJpN2Z0bzFubVZjSnNidUtJQ1k1WkxnYTByT2R3OVlIQWZUQmpDMWZER01yMQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82cmlYM3R2OHlDdDdYSU5PNlRJTkF0SDJlOENMWXNvUzVwV0FJX2VUSzJ1Ml84TjF1djh6MUNmR0pVTnR4d1NIOXRJTlM1U1Fyako3Y04yZ2pzWUFvcXY1aVRBWmtzTU1vOFg4?oc=5"
         },
         {
-          "text": "勤上股份（002638）股东东莞市晶腾达企业管理合伙企业(有限合伙)质押3300万股，占总股本2.32% - 财富号",
+          "text": "全通教育：控股股东南昌经济技术开发区中文旭顺企业管理合伙企业（有限合伙）3756.69万股将被司法拍卖 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HWXQ3RDJSbVVsd0dyUnV3d1RlR1c1aG9mcUlZd0ZrSVk5akRoWlpVTWFtZUs0aTBJUXozd1YtdnYwTGFKZjhJV2xnV0FNc3oxaXFfdTF5bllZZndpeEZTVWpMemVxSXdsNXFR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RY1ZHZkI0enJOOW5sOEFMbkI2TVVrVTJfNUZ6VDNDUl9MRWdnVDRQTG1DeFhKX2l0OXBqY3lsOUlqdkZhb2JJTEZfVXh6WkswdVFPQm1QM2hmWGRrS2NRdmZoWDh1dw?oc=5"
         },
         {
-          "text": "毕得医药(688073):股东权益变动触及5%整数倍的提示性公告 - 中财网",
+          "text": "铜这么贵！不如试试铝！这板子效果也是杠杠的！——访江苏富乐华功率半导体研究院有限公司战略规划部部长柳珩_中国粉体网 - 粉体网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PMWZKTFp1aVFoX20yRFBWWktqaW43R2xBczNPOURXVnZiZ2hJdWQtc0ctTndzakFWR3R3czgtTTNIRF80YUFLR0QzVHhHa0Np?oc=5"
+        },
+        {
+          "text": "谭伟文：成立联营公司管理特许资产 - TDM",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LdTBlVG5BNlAtck9mQ1E2b01lbnhoSnZkbEJKYlRNNG1LN0dEWEdyVDNfUlRKVUZYNm5uNzAzNlNkVzEyUWc1cUZHWHVhRjEw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFI5X19vbG1SRlZYUndHU1ZwdGtiSWJWLU9HS3E0YmJza3VSQWNoVGtKYTJZUzNsVDhrNFRxeE90RlZOWXEzWG51b3lKbWdvY2lyWENNMUNqZDJJbmpFQkVZVEItak5HUWo3c1JZZEtvQWVnLWRBMTF5by1tOUU5aXhxcUlHeE1PSWhEREJFQ0Ezd0NjbzQzNXlpTU1ZRHlRR2Qyag?oc=5"
         }
       ]
     }
