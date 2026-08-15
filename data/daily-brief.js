@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月15日",
+  "publishDate": "2026年8月16日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "双英集团上市倒计时！卡位新能源赛道，上半年海外收入激增近3倍 - 新浪网",
+      "title": "高端新能源车问界M9为什么能卖这么好？ - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "After post-pandemic improvement, youth…",
+      "title": "The grass beneath our feet: Why rangela…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:26",
-          "title": "双英集团上市倒计时！卡位新能源赛道，上半年海外收入激增近3倍 - 新浪网",
-          "summary": "双英集团上市倒计时！卡位新能源赛道，上半年海外收入激增近3倍 新浪网",
+          "time": "07:11",
+          "title": "高端新能源车问界M9为什么能卖这么好？ - 新浪网",
+          "summary": "高端新能源车问界M9为什么能卖这么好？ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByN3pneWRJc3B5V08tdWlnQVJHMENXckw1YkU4cUdnUEd5NHdyS0dmbmhhTFg5MEw4M2V6RExxWG9JS2xBcnAtdGJKUlZ1b0xBYl91UUNyTXlqUm9YUXNWNEpJVjZCa0VwS1d1T09DUDBrZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HMmgwT0VTNFprUUM5X3pYSTE3dC1PUzFsa1pySUU3OWtvdkViNU5nODZpTTJnS2dOcDdxREdRTXJsWnVjOWF1TGxmTDBBdy1tODFTVmpUQlZET3AyMjFSVlluWjUxYkVidWZ4emRDd213b2VjZWNVNU53aXRwUjg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:17",
-          "title": "中华人民共和国工业和信息化部公告 2026年第21号-中国质量新闻网 - 新浪财经",
-          "summary": "中华人民共和国工业和信息化部公告 2026年第21号-中国质量新闻网 新浪财经",
+          "time": "06:40",
+          "title": "新能源时代的三大“设计原型车” - 汽车之家",
+          "summary": "新能源时代的三大“设计原型车” 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSnJVcEw0VG0tanloYWlFazZORVhRRFNad0FnU1c5VkJmdE1DN0FETWNCMER4VmJpMHJKX0EyTFhPSXpKeVJES3Z1OFNKWlFSMWU5MC1sN1dWMldocG8xcGxHTkdqZmpibDQtWWJJUnZVcHZ5MmxzcEJKblJoVUM2ZzZFeU1Jb0R3UnhlM0hFczFrdHdWSS1WMg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90SnZ4Rng0aXp0eXRCWkk0UFJyOXJpTjFuQ29vZjlyUkNrWlNJc2RvRTcxUnBBVElVaFZ0Sml5cjFidmVLMWdOWnJVZEIwY3NYd2tVTUFzeU4zQ0U?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "高端新能源车智驾功能如何避坑？ - 新浪网",
+          "text": "40万以上买车，国产新能源和传统豪华品牌哪个更保值？ - 新浪汽车",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9udUFhVkxkWTNHQlZIVjdGbi1lU2k4RDlJeUhyTWlJQ1RDM29WX2J3TFVHdFpabkpJa3g0TkFSM3g1NFYyOVR6QjFnMHZTMnU3RkNkN0FjaDJwWXJ0UjJVWnRtNmxBZDI2dUYyVkx4My1STktfSHVOYVFMUk9WZFU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSRUJpTHRqRWY0UEVfSldFX0x4N1hlODBnVFRPNXNBbUc0QlJ4MUJZN3B0ckxYZHV6ekF5MlpZd3J6YWFQbjQwQ3N3Z3J6UzBWMEM4UDZWdG5pODJvZ1gyaGVtbWFCSVRpeTVCUmNlczM3WEFX?oc=5"
         },
         {
-          "text": "高端新能源车50万级为什么问界M9领先？ - 新浪网",
+          "text": "【视频】25年五菱之光EV 这种新能源是真正做到了实惠，你们觉得呢？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DX0hQS0lVNlZQUm1jSzR2a1pUOTJaN2REdGFZbWt1eVlNLUxIdVVBbllEYUxPLTkxWmZGSDM5YnEwWkRtT00xUkVpUzJkanJRYTgwSnFxQUg4ZG53eDd0OWxPZ1BIZEdTR1JKVlJoZHRQQkxPUVdRVWJ4TUdiQTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RX2tFSms0cVRUSnQ1aDNOVFJFRVc0V3g2S1IwZ1BoT1BXSVJHQ193NmpzNVlWaTJ1ck13NzdaVnZSLWtkX1lnMmNVaVppeHJwZUtLTWtqcWFMbGpWSTVUdks3QW1mZGJtWHgw?oc=5"
         },
         {
-          "text": "2022款汉兰达四驱7座落地价31万起，如今降至20万区间，抄底还是买新能源？+FAQ - 新浪网",
+          "text": "【视频】性价比比较高的增程新能源二手车 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzWVQ3c25LZFJlZGJ5bmtvNkZhNUN6T3RzeGxQVG9PR0NMdk9LZUU5Vk9BZjFpRERlMF9FejFjaXB5SzhUQVEyMmFXcGRkVjlSbWl2b2hfREoxWktlNzBOOUdzQWpkTmRKV1N3U3JhYXkyQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wNzBVTmk3M1JqQlFmMTZrYUJLeHFFWFpiSmp4UEI5dHBYU0ExYTlKWnlKUnhwYUlqUnprd3NtNnZBcl9aWlVmbHF6eVpwSmZVZHRQX1pqQzk5a180VmpJb0dBVWpOVjJyZDk0?oc=5"
         },
         {
-          "text": "10-15万新能源车，哪款后排空间最大适合全家出游？ - 新浪网",
+          "text": "【视频】10大几万的预算买什么新能源性能车 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qcGZTQXB5eG9iVEFpUHBYc29nNVpvWlhlVzk2REdESllCdklaNFRPcm1rbWFiWUszMkJObWhPS01yZm40YXlYU3I5QlotU05VaFVLWUY5cFprU3ViVDVMcXZ0dzdlUXl2dUtFazFSMFdsZnN1UzJ5WE5GOHppTTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wX1NleVNCWG9lSFBUM1ZzQ1FyaVAzRlQxa3NjdjdkN1hIXzBOWklSdzl6ZmUyRlhrRFR5QkRXSTR2NjBxUWVCLWJldHZyLWU3MjQ1WVlCaEYwMTA?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "After post-pandemic improvement, youth unemployment is rising again",
-          "summary": "Frustrated by skyrocketing youth unemployment, among other issues, tens of thousands of Gen Z activists took…",
+          "title": "The grass beneath our feet: Why rangelands matter",
+          "summary": "In northern Kenya, a herder scans the sky for rain that hasn't come. The grass his animals need is thinning b…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168120"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168119"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "South Sudan: UN mission decries deadly attacks, works to calm tensions after ‘nothing but devastation’",
-          "summary": "The UN Mission in South Sudan (UNMISS) has condemned recent armed group attacks in Warrap state which reporte…",
+          "title": "Former rebel fighters join campaign against Ebola in the DR Congo",
+          "summary": "Demobilised former combatants are actively joining the fight against Ebola by participating in public informa…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168118"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168146"
         }
       ],
       "briefs": [
         {
-          "text": "Ebola deaths top 2,000 as scientists race to develop vaccine",
+          "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168117"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168149"
         },
         {
-          "text": "World marks second warmest July on record",
+          "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168115"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168148"
         },
         {
-          "text": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
+          "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168113"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168147"
         },
         {
-          "text": "Colombia earthquake: UN joins national response",
+          "text": "An attack on healthcare every six hours, and no one held to account",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168112"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168144"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "21:00",
+          "title": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
+          "summary": "Supply chains in many industries are full of tangles, but for semiconductor tech, that’s putting it lightly.…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:01",
           "title": "Chip Industry Week In Review",
           "summary": "Lam Research and ASE expansions; data center shifts; CPO system architecture initiative; 2D-transistor interf…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/chip-industry-week-in-review-151/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:15",
-          "title": "The 1-Megawatt Rack Debate",
-          "summary": "Is it better to cram more compute into each rack or rethink the architecture? The post The 1-Megawatt Rack De…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-1-megawatt-rack-debate/"
         }
       ],
       "briefs": [
+        {
+          "text": "The 1-Megawatt Rack Debate",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/the-1-megawatt-rack-debate/"
+        },
         {
           "text": "Vertical Integration Becoming Pervasive",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "DDR5 9600 RDIMMs: Raising The Performance Benchmark For Server Memory",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/ddr5-9600-rdimms-raising-the-performance-benchmark-for-server-memory/"
-        },
-        {
-          "text": "What Self-Verifying Means In Agentic EDA Workflows And Why It Matters",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/what-self-verifying-means-in-agentic-eda-workflows-and-why-it-matters/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "After post-pandemic improvement, youth unemployment is rising again",
-          "summary": "Frustrated by skyrocketing youth unemployment, among other issues, tens of thousands of Gen Z activists took…",
+          "title": "The grass beneath our feet: Why rangelands matter",
+          "summary": "In northern Kenya, a herder scans the sky for rain that hasn't come. The grass his animals need is thinning b…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168120"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168119"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "South Sudan: UN mission decries deadly attacks, works to calm tensions after ‘nothing but devastation’",
-          "summary": "The UN Mission in South Sudan (UNMISS) has condemned recent armed group attacks in Warrap state which reporte…",
+          "title": "Former rebel fighters join campaign against Ebola in the DR Congo",
+          "summary": "Demobilised former combatants are actively joining the fight against Ebola by participating in public informa…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168118"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168146"
         }
       ],
       "briefs": [
         {
-          "text": "Ebola deaths top 2,000 as scientists race to develop vaccine",
+          "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168117"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168149"
         },
         {
-          "text": "World marks second warmest July on record",
+          "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168115"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168148"
         },
         {
-          "text": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
+          "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168113"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168147"
         },
         {
-          "text": "Colombia earthquake: UN joins national response",
+          "text": "An attack on healthcare every six hours, and no one held to account",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168112"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168144"
         }
       ]
     },
@@ -314,12 +314,12 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:50",
-          "title": "向新向优 链通全球——从外贸增长看中国供应链韧性与活力 - 中国网新闻中心",
-          "summary": "向新向优 链通全球——从外贸增长看中国供应链韧性与活力 中国网新闻中心",
+          "time": "09:19",
+          "title": "向新向优链通全球——从外贸增长看中国供应链韧性与活力--经济·科技 - 人民网",
+          "summary": "向新向优链通全球——从外贸增长看中国供应链韧性与活力--经济·科技 人民网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YSERLV2VpY3Q2ZXM5Vms1OHgwcnRHanVta1JkcG9zZlpLN1JMVjRFWGNxRmp5Z2xqQ0lLUkI2VU1NLWtFSUIxc3ZBS0gtcTU0S0VMdmhKR0pVSTg2UnB0bml0dlpQOXV0Tldj?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83M3hWSDZIeGpBeEF0MzhYZzhUZXN2enFJRmhFSUJPUmttT1k1RHNVY2R2M0g4a0ZwLUpHMGFrMndSVjA5OF9ULVRLd0l0UUR0TVFtcF9WZlBOejFGUi15MjVXc2dZSUtqSGc5VzJR?oc=5"
         },
         {
           "priority": "重点看点 02",
@@ -333,7 +333,7 @@ window.dailyBrief = {
       ],
       "briefs": [
         {
-          "text": "新规落地！煤炭供需格局重构，龙头企业战略路线分化 - mp.cnfol.com",
+          "text": "新规落地！煤炭供需格局重构，龙头企业战略路线分化 - 财经号",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82cmlYM3R2OHlDdDdYSU5PNlRJTkF0SDJlOENMWXNvUzVwV0FJX2VUSzJ1Ml84TjF1djh6MUNmR0pVTnR4d1NIOXRJTlM1U1Fyako3Y04yZ2pzWUFvcXY1aVRBWmtzTU1vOFg4?oc=5"
         },
@@ -343,14 +343,14 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RY1ZHZkI0enJOOW5sOEFMbkI2TVVrVTJfNUZ6VDNDUl9MRWdnVDRQTG1DeFhKX2l0OXBqY3lsOUlqdkZhb2JJTEZfVXh6WkswdVFPQm1QM2hmWGRrS2NRdmZoWDh1dw?oc=5"
         },
         {
-          "text": "铜这么贵！不如试试铝！这板子效果也是杠杠的！——访江苏富乐华功率半导体研究院有限公司战略规划部部长柳珩_中国粉体网 - 粉体网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PMWZKTFp1aVFoX20yRFBWWktqaW43R2xBczNPOURXVnZiZ2hJdWQtc0ctTndzakFWR3R3czgtTTNIRF80YUFLR0QzVHhHa0Np?oc=5"
-        },
-        {
           "text": "谭伟文：成立联营公司管理特许资产 - TDM",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFI5X19vbG1SRlZYUndHU1ZwdGtiSWJWLU9HS3E0YmJza3VSQWNoVGtKYTJZUzNsVDhrNFRxeE90RlZOWXEzWG51b3lKbWdvY2lyWENNMUNqZDJJbmpFQkVZVEItak5HUWo3c1JZZEtvQWVnLWRBMTF5by1tOUU5aXhxcUlHeE1PSWhEREJFQ0Ezd0NjbzQzNXlpTU1ZRHlRR2Qyag?oc=5"
+        },
+        {
+          "text": "万泰生物：公司管理层始终高度重视全体股东利益 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fUUs3U28zWU9lTHcyd1o3VmhiM2FqMXV4OXpTYWstZl9KZmRrVkRmTFhUVVMyc29WU0ZXN01JV0FyWVh6eWRsTXJscGNJaHV3M3NaanBZd2pMa3RDMHFwMA?oc=5"
         }
       ]
     }
