@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月16日",
+  "publishDate": "2026年8月17日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "高端新能源车问界M9为什么能卖这么好？ - 新浪网",
+      "title": "【读财报】7月上市车企销量稳增：奇瑞、长城汽车等出口销量扩容 新能源汽车渗透率…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "The grass beneath our feet: Why rangela…",
+      "title": "First Person: Syrians lead efforts to c…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:11",
-          "title": "高端新能源车问界M9为什么能卖这么好？ - 新浪网",
-          "summary": "高端新能源车问界M9为什么能卖这么好？ 新浪网",
+          "time": "07:31",
+          "title": "【读财报】7月上市车企销量稳增：奇瑞、长城汽车等出口销量扩容 新能源汽车渗透率持续攀升 - 东方财富",
+          "summary": "【读财报】7月上市车企销量稳增：奇瑞、长城汽车等出口销量扩容 新能源汽车渗透率持续攀升 东方财富",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HMmgwT0VTNFprUUM5X3pYSTE3dC1PUzFsa1pySUU3OWtvdkViNU5nODZpTTJnS2dOcDdxREdRTXJsWnVjOWF1TGxmTDBBdy1tODFTVmpUQlZET3AyMjFSVlluWjUxYkVidWZ4emRDd213b2VjZWNVNU53aXRwUjg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NZG5rSmtnZHc5TVJYMzNTSVQ5Q1hvamJqY29WRjVYd3BNNHJ0eW9aOUtsanBpOUZfV0lETjQ2MGJ1OWhTbi1ueXBaYnNTX0wzQjc0M2N2NjZ4UTNFbjd6RA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:40",
-          "title": "新能源时代的三大“设计原型车” - 汽车之家",
-          "summary": "新能源时代的三大“设计原型车” 汽车之家",
+          "time": "07:28",
+          "title": "湖南裕能新能源电池材料股份有限公司递表港交所 - 新浪网",
+          "summary": "湖南裕能新能源电池材料股份有限公司递表港交所 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90SnZ4Rng0aXp0eXRCWkk0UFJyOXJpTjFuQ29vZjlyUkNrWlNJc2RvRTcxUnBBVElVaFZ0Sml5cjFidmVLMWdOWnJVZEIwY3NYd2tVTUFzeU4zQ0U?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBoVjU4TG9nbFpZMFczVzU0bHktZ3M5Q1R5R1dwTy1ydXFXSTViS3pwWTNGTnR0LW1TaFRpU20tTE5NRkZkdlUtSGpKRQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "40万以上买车，国产新能源和传统豪华品牌哪个更保值？ - 新浪汽车",
+          "text": "财经观察：中国新能源车，“本土化细节”震动日本 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSRUJpTHRqRWY0UEVfSldFX0x4N1hlODBnVFRPNXNBbUc0QlJ4MUJZN3B0ckxYZHV6ekF5MlpZd3J6YWFQbjQwQ3N3Z3J6UzBWMEM4UDZWdG5pODJvZ1gyaGVtbWFCSVRpeTVCUmNlczM3WEFX?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHhIRTZYLVNKN3hYc1pDNWRxalNMdG5mOXRqLVBLcWtYUVNiVFZjb2k2M1AzQjBBb3BXUllvYnU3and0ZWhUVE1iMXB6cXI5NjdFQzNOdGc0dE11YU1HXzNLU19pYWYtOUFHbkF3TEd2NDQzNGRCc3RjX0p0WU8wWEZOM3hmNU9YNTY4MkhPZkRhSDFHSFJESkx0UG81WVI0dGxwNllGdw?oc=5"
         },
         {
-          "text": "【视频】25年五菱之光EV 这种新能源是真正做到了实惠，你们觉得呢？ - 汽车之家",
+          "text": "实施四项行动提升集群核心竞争力 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RX2tFSms0cVRUSnQ1aDNOVFJFRVc0V3g2S1IwZ1BoT1BXSVJHQ193NmpzNVlWaTJ1ck13NzdaVnZSLWtkX1lnMmNVaVppeHJwZUtLTWtqcWFMbGpWSTVUdks3QW1mZGJtWHgw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDVHaHNILTNqcC1nb3A4OTBvNXZJckFQTy1mSjRKTkl2NW9BWkwzelRrbGhadXdhQy1GREdNUVJkUkhUWlE3M3lnYWtGeHFWZXc0cVZZb3g3Sk1POFdOcjJ2MUVhMmpuLUUwbHJhbkxwd3kwVkhEcDRfcnBxbWpreEtnU2toV2EwU3ZMWkhDd3VXMmVQTmZYUQ?oc=5"
         },
         {
-          "text": "【视频】性价比比较高的增程新能源二手车 - 汽车之家",
+          "text": "从零起步，乳山五年崛起百亿级新能源产业 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wNzBVTmk3M1JqQlFmMTZrYUJLeHFFWFpiSmp4UEI5dHBYU0ExYTlKWnlKUnhwYUlqUnprd3NtNnZBcl9aWlVmbHF6eVpwSmZVZHRQX1pqQzk5a180VmpJb0dBVWpOVjJyZDk0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMnJ2bEFKUWtFR3JBcDJqT3hVc29SbGZjdTI2a0N1RENNajNSaEZSOWFkOERsbXNvWnUzZHlwMDFHamw0ejI0dGNxVk10ZHROUHVSQm9tU21JZTFLVUFtUTFNVnA0cmR1NHVVTFpvZk5kb0hEYUZpaE95SGNkTlJQYUs1c2VkTlNZenNoaQ?oc=5"
         },
         {
-          "text": "【视频】10大几万的预算买什么新能源性能车 - 汽车之家",
+          "text": "注资1000万！又一新能源公司成立 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wX1NleVNCWG9lSFBUM1ZzQ1FyaVAzRlQxa3NjdjdkN1hIXzBOWklSdzl6ZmUyRlhrRFR5QkRXSTR2NjBxUWVCLWJldHZyLWU3MjQ1WVlCaEYwMTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdU9IM21pdUpWY0FTRGdGX1pnZU1zeEJELVVJUzZZMDlLY3lrQ3ZpbzBHbW5RUENSeUFzTmxBSDdxS1VEN3RoSHExcFZxdjBGOE1BNkVyUndST0xvVFZPU2djMGZnYl8wMUpOTWRFNGZ4TnNRTzliWFZOMjYzVTVhdVVGeUhXSm5CdU1wRmh1bTJiVWo4UkMzaWdxUnBJaDlsNmhLa3JlRWJwU1ZJVzFyXzcxZWl4cEROeUlDOGxpRnpHRlZNa1hpekxIXzIwR1hudDRrNFhaRU56VzV2WGctLW94VXhFSUtGMlFlMmhCY2NVRXJqSm5SdldWNTQ1Nk80UTJkemd0eUE?oc=5"
         }
       ]
     },
@@ -123,23 +123,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
+          "title": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
+          "summary": "Communities in Syria are clearing rubble and rebuilding neighbourhoods and livelihoods torn down in the more…",
+          "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168136"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:00",
           "title": "The grass beneath our feet: Why rangelands matter",
           "summary": "In northern Kenya, a herder scans the sky for rain that hasn't come. The grass his animals need is thinning b…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/08/1168119"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "Former rebel fighters join campaign against Ebola in the DR Congo",
-          "summary": "Demobilised former combatants are actively joining the fight against Ebola by participating in public informa…",
-          "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168146"
         }
       ],
       "briefs": [
+        {
+          "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168146"
+        },
         {
           "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
           "source": "United Nations News",
@@ -154,11 +159,6 @@ window.dailyBrief = {
           "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/08/1168147"
-        },
-        {
-          "text": "An attack on healthcare every six hours, and no one held to account",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168144"
         }
       ]
     },
@@ -267,23 +267,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
+          "title": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
+          "summary": "Communities in Syria are clearing rubble and rebuilding neighbourhoods and livelihoods torn down in the more…",
+          "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168136"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:00",
           "title": "The grass beneath our feet: Why rangelands matter",
           "summary": "In northern Kenya, a herder scans the sky for rain that hasn't come. The grass his animals need is thinning b…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/08/1168119"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "Former rebel fighters join campaign against Ebola in the DR Congo",
-          "summary": "Demobilised former combatants are actively joining the fight against Ebola by participating in public informa…",
-          "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168146"
         }
       ],
       "briefs": [
+        {
+          "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168146"
+        },
         {
           "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
           "source": "UN News",
@@ -298,11 +303,6 @@ window.dailyBrief = {
           "text": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/08/1168147"
-        },
-        {
-          "text": "An attack on healthcare every six hours, and no one held to account",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168144"
         }
       ]
     },
@@ -314,28 +314,33 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:19",
-          "title": "向新向优链通全球——从外贸增长看中国供应链韧性与活力--经济·科技 - 人民网",
-          "summary": "向新向优链通全球——从外贸增长看中国供应链韧性与活力--经济·科技 人民网",
+          "time": "04:07",
+          "title": "EK娱乐平台安卓发布全新企业战略：赋能数字娱乐，引领沉浸体验新时代 - womenofchina.com",
+          "summary": "EK娱乐平台安卓发布全新企业战略：赋能数字娱乐，引领沉浸体验新时代 womenofchina.com",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83M3hWSDZIeGpBeEF0MzhYZzhUZXN2enFJRmhFSUJPUmttT1k1RHNVY2R2M0g4a0ZwLUpHMGFrMndSVjA5OF9ULVRLd0l0UUR0TVFtcF9WZlBOejFGUi15MjVXc2dZSUtqSGc5VzJR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qUllmN0FjZVN5X3VKMkdObVhscEFndm9Hc2pIYWJBbTVMZlNIR2Qwakp2bG02SHVQeUNkOTg2VGh4WkRlVGpVSTVDcTk1WTdWSGNWY2RMQVdYY0Q5OHZzbGw0MHZiOXFuTWc?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:20",
-          "title": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押273万股，占总股本1.32% - 财富号",
-          "summary": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押273万股，占总股本1.32% 财富号",
+          "time": "00:26",
+          "title": "新规落地！煤炭供需格局重构，龙头企业战略路线分化 - 财经号",
+          "summary": "新规落地！煤炭供需格局重构，龙头企业战略路线分化 财经号",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpY0VmcFVSZ2FvdUt4VEM1Nmh0YmpmWVJBMjZGS0tWengyVC1nbDNxZ0l3c0RSM0pfWU5GRlBYd2JaOHB5UlkyTldFT09oYTdXYTY5RFZuYk0wME9sQ0xGNFdOMVlCdXdxVVlN?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FdHdUTVBBdHVLazVxR2JRb05qVVJqYTBXREowUndpQk1zRHZUT2dpS0JjSjkzczZlWWltS21TSnJyTi1VdWItNHB2Z2d1ZVpwNUV1dTIwcUZpVFRwZ0ItN1U2Z1RpQnd4eUlF?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新规落地！煤炭供需格局重构，龙头企业战略路线分化 - 财经号",
+          "text": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押273万股，占总股本1.32% - 财富号",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpY0VmcFVSZ2FvdUt4VEM1Nmh0YmpmWVJBMjZGS0tWengyVC1nbDNxZ0l3c0RSM0pfWU5GRlBYd2JaOHB5UlkyTldFT09oYTdXYTY5RFZuYk0wME9sQ0xGNFdOMVlCdXdxVVlN?oc=5"
+        },
+        {
+          "text": "国际观察丨向新向优 链通全球——从外贸增长看中国供应链韧性与活力 - 新华网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82cmlYM3R2OHlDdDdYSU5PNlRJTkF0SDJlOENMWXNvUzVwV0FJX2VUSzJ1Ml84TjF1djh6MUNmR0pVTnR4d1NIOXRJTlM1U1Fyako3Y04yZ2pzWUFvcXY1aVRBWmtzTU1vOFg4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tMV9WdURneGxqVFJ5UjB3TEs5WnJ2Q1pNc1NhUFl3c0Z6OHg5YmhBbUlBSEs0VGZzNFVyeC00NXlKM2tBQ2tpLUpSOTl6LVIySXlPNlhEQkF6VUNaWXBIalpWSnN2VFp4d2g5U181OG5Jc0FKbkdLRUJMazE5aHM?oc=5"
         },
         {
           "text": "全通教育：控股股东南昌经济技术开发区中文旭顺企业管理合伙企业（有限合伙）3756.69万股将被司法拍卖 - 东方财富",
@@ -343,14 +348,9 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RY1ZHZkI0enJOOW5sOEFMbkI2TVVrVTJfNUZ6VDNDUl9MRWdnVDRQTG1DeFhKX2l0OXBqY3lsOUlqdkZhb2JJTEZfVXh6WkswdVFPQm1QM2hmWGRrS2NRdmZoWDh1dw?oc=5"
         },
         {
-          "text": "谭伟文：成立联营公司管理特许资产 - TDM",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMFI5X19vbG1SRlZYUndHU1ZwdGtiSWJWLU9HS3E0YmJza3VSQWNoVGtKYTJZUzNsVDhrNFRxeE90RlZOWXEzWG51b3lKbWdvY2lyWENNMUNqZDJJbmpFQkVZVEItak5HUWo3c1JZZEtvQWVnLWRBMTF5by1tOUU5aXhxcUlHeE1PSWhEREJFQ0Ezd0NjbzQzNXlpTU1ZRHlRR2Qyag?oc=5"
-        },
-        {
-          "text": "万泰生物：公司管理层始终高度重视全体股东利益 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fUUs3U28zWU9lTHcyd1o3VmhiM2FqMXV4OXpTYWstZl9KZmRrVkRmTFhUVVMyc29WU0ZXN01JV0FyWVh6eWRsTXJscGNJaHV3M3NaanBZd2pMa3RDMHFwMA?oc=5"
+          "text": "新规落地！煤炭供需格局重构，龙头企业战略路线分化 - QQ News",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91OExOZmg1b3FLdE1yM3FCWVYyZFlHdzBCeEgtNVVydjhYRjd6OFBzNHdDdHJMTTU5SUJvaGFfVERwYkNHSm9CbzBCWVgyMThQVGtaUi1n?oc=5"
         }
       ]
     }
