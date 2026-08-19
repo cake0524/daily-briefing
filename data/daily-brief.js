@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月19日",
+  "publishDate": "2026年8月20日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "《人民日报》报道：“沙戈荒”崛起新能源绿洲 - powerchina.cn",
+      "title": "30-40万的车新能源和燃油哪个更值得买？ - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Caltech breakthrough brings fiber-optic…",
+      "title": "Tiny robots powered by light can hunt d…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:31",
-          "title": "《人民日报》报道：“沙戈荒”崛起新能源绿洲 - powerchina.cn",
-          "summary": "《人民日报》报道：“沙戈荒”崛起新能源绿洲 powerchina.cn",
+          "time": "07:28",
+          "title": "30-40万的车新能源和燃油哪个更值得买？ - 新浪网",
+          "summary": "30-40万的车新能源和燃油哪个更值得买？ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1Q2RFdZbXcyNUlxb0RXdUY3Y1dxYkF6OWpKYlpmLWFGYjBIQWhUX3FCTG1LcE5fVWpnSHVlZHEwOGNYYUpEV2I2WGJ5V3p6eWZjQk5abDFTZkQ0OUh1aW1fdzBhcm45SWc0YW9xUkwxc2lHcFdQOTlyNUZMaHRZMUpFUDlzODJheUZxNmQyOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INS1WZ3lYN1ljUzR3dk9VUWh4SURrT0xzMTVYdTlpdm9GMThqZEd5Rmw2SG5uYURuMTNIZkh2bG00a1g0TkoxeXJuUzVKTHdLUFNWWjc3QVFJSmdpcGktaE9nOTZXdFBuRDhURDNOU3c0bm1qSU53VnN1TVFwdEk?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:10",
-          "title": "东莞：探索制造业城市与生态文明共生共荣新路径 - 搜狐网",
-          "summary": "东莞：探索制造业城市与生态文明共生共荣新路径 搜狐网",
+          "time": "07:27",
+          "title": "科技金融托举先进制造！北京银行深圳分行助力“协同高科”逐梦国产化工业3D打印赛道 - 搜狐网",
+          "summary": "科技金融托举先进制造！北京银行深圳分行助力“协同高科”逐梦国产化工业3D打印赛道 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUUpUNEJFLUthb2xmdUdyN3JuUFNUQU51d0F6YWZmVkZOVFFxQ05kenE3bVU5eUVIXzd5blk2T0FlTk9PTWdmSk9walV6cE9CSDFMUGQ1REpFVHFOR25hZGI0Wk05YXVnd09iSndrM0JmWC1hUnk1QTA1d1ZoTG9KMGJoZjNoUzZfaUFzNg?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUJIT3M3S21zd09GUUVvdkRtM0Q5ODZmNVpneEhDclY3bmo4ZWJiR2JtYjJIQ1ZMczZLdDdrZEpPUkRVNWMyR09yZG5VUHAxTmd4RGptLWtjck1uVklpNElxNGlWUjhYeWdLanpLMEd5UFE2RXBqNVhSdlhBeUFLakk3UWlyekdVVXJFMw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "中国AI深度赋能制造业 形成实打实生产力 - 央视网",
+          "text": "电子信息制造业韧性强劲 - 中国经济网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hSzlaYXpvUzJSOXRrdmtudHZpdFJXQkJsTE5Zdi0zbGV6MG9sNjUtT0Q1N2tyQ2hVV2dSemE4WVFCSkdRdFJFaXl5ZWhIUVZybWtuRHlURU5RMW56SUtPMUhnVnVYTUs1ckhvZkJMdEw1YlJScU03UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KSUcxSVpVVC0wSEZ2VnpUUDllaDN4SGM2ZjZ5bkNvdGNUNjBTWW1vNzNHYVZIWmRwYTU2cl9INU1ZMlFNVndFYngyb2tKZ3VmTnh3bl9pS00tZ085TUwtVF9wR0dUTkc5Z2Rsc1VmM3VxZw?oc=5"
         },
         {
-          "text": "宋pro新能源底价 - 手机新浪网",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hdk1lY29MTjE3OVZBdnJzdndIRHZLaHVZMjI2UFFWb3RZYnJkNzhHSjlmTEZtcVp0elkzUXAtam01Nk4xdGRGdWtiMkdMSFIyVkxRNWNlMlFBWFBXMklyVTdrVThDd1R5bDRINTFrTjBxQQ?oc=5"
+          "text": "龙华区 数智浪潮奔涌 产业向新而行 - 新浪网",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xUTR1dkRYeVI5ekJXRy1qREdmMXY4LTB5XzAyX3hiUHpESklLTXN0TXVSeFlKUVpQZlpQTzlQeGExYVplTFc3TjlHdlRSaGJIWmJzWGpvT2ZqNThtMGczejNOMXdUYUhZMXFNVVZkX3ZpNHBnam1HRHljQy1zUU0?oc=5"
         },
         {
-          "text": "两项“首次”突破 新能源汽车占据车市“半壁江山” - 手机新浪网",
+          "text": "【数读IPO】今日1申购1上市，涉及新能源车细分行业领军企业等 - 东方财富",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZMWZQUHNDWWZlbDBXN0RXLUZST0FKVnJFZHBTRkVsZC1IdGw3ajJkVVlZUmFnc3UyZU9fVnZfeV8zMlNUaXU0OU5LSjB5dGM0eVRqdi1XUS1xcm5Hb2tjYnVfcS1hV3o4eGdaMDhvTUVFLU5pWFRrQzVGMGJZQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4taE5LLU1vUkhWNXVkM2hVRXAxUHNfQU9YeHZkUkdEUlRCUXFCUXVIbFE5VGxRQTFEU0U5dnp6MTNzVnh3MkFGMnlFaXF2Wjc5ZG9SMXo3Qmp5bGJHQmFSOEdncw?oc=5"
         },
         {
-          "text": "29.98万元起预售！奕境X9：一款旗舰车，开启成都新能源汽车产业新征程 - 新浪财经",
+          "text": "逆周期招商后，广州如何抢下一条新能源产业链？ - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ2RXXzlaMzE4SS1LaFVSU1NfamhjYlhRTnNFTkhPU0s0aE0zNHRHMkIzdk1Uc3A0ZDl6SDR4WVJUZDJfS0dXcEZlVFFNc2Z3aFBGMGhqUkFqajVBb1EyMmJlZlZ2NHlCcFNnSjAwNVBIcUdWUHduVnNDcGVvSTV3R1B2bEMzUDVLdmpZMTFXcUpmMkdjamt6alhpUEE0eTBVX0hFT0RqSE1nb180RXhVUU1n?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzdpSjllWmMxUEZSZkx6Vy05LTQyQnNuaXpqZUxyS1poV2ZCM282WGF6c1ZQRFFNUXpMUlluc1BlSkZXblFyTE9BS0JBbFo5YWRUS0tCZTZNcnYzWUF4VXBLNzZGQXhqcmJrcXBIMEVXLS1TOW45aXRwejZvQm9tcFRRV0NxMzYzRnNXRA?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "06:21",
+          "title": "Tiny robots powered by light can hunt down and collect bacteria",
+          "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bac…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "20:30",
           "title": "Caltech breakthrough brings fiber-optic performance to silicon chips",
           "summary": "Caltech scientists have created ultra-low-loss optical pathways on silicon chips that approach the efficiency…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260814235905.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "16:06",
-          "title": "Scientists turn DNA into a memory device that uses 100x less power",
-          "summary": "Researchers combined synthetic DNA with a semiconductor to create an ultra-low-power memory device capable of…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Scientists turn DNA into a memory device that uses 100x less power",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm"
+        },
         {
           "text": "Scientists tracked kids for 8 years — the screen time result was unexpected",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "World’s first superconducting quantum heat engine could help unlock massive qua…",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260814011041.htm"
-        },
-        {
-          "text": "Ordinary WiFi can now identify you with near-perfect accuracy",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260811052857.htm"
         }
       ]
     },
@@ -171,42 +171,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "03:00",
-          "title": "Strengthening democratic oversight in national security",
-          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting gover…",
+          "title": "Offering Zero Data Retention for frontier models",
+          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for ad…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:00",
-          "title": "Partnering with CodeAI to prepare the first AI generation",
-          "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop t…",
+          "time": "22:18",
+          "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+          "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureB…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/partnering-with-codeai"
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
         }
       ],
       "briefs": [
         {
-          "text": "Pacing model development in an era of cyber-critical capabilities",
+          "text": "Replit expands access to software creation with GPT-5.6 Luna",
           "source": "OpenAI",
-          "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
+          "url": "https://openai.com/index/replit"
         },
         {
-          "text": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "text": "ChatGPT Ads expands across Europe",
           "source": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-for-teens"
+          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
         },
         {
-          "text": "We still don’t know how people are really using AI",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
+          "text": "Strengthening democratic oversight in national security",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
         },
         {
-          "text": "AI’s recursive self-improvement might not come so quickly after all",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
+          "text": "Partnering with CodeAI to prepare the first AI generation",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/partnering-with-codeai"
         }
       ]
     },
@@ -219,23 +219,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "15:01",
-          "title": "Chip Industry Technical Paper Roundup: Aug. 18",
-          "summary": "2D CFET scaling; PIM chiplet voltage-droop control; advanced-node layout repair; lithography defect predictio…",
+          "title": "The Future Of AI Compute Won’t Run On Just One Kind Of Chip",
+          "summary": "Power, token cost, interconnects, and software orchestration are pushing data centers toward heterogeneous cl…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-18/"
+          "url": "https://semiengineering.com/the-future-of-ai-compute-wont-run-on-just-one-kind-of-chip/"
         },
         {
           "priority": "重点看点 02",
           "time": "15:01",
-          "title": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways",
-          "summary": "Company-by-company breakdown: Earnings across 80 semiconductor companies show AI-driven demand extending well…",
+          "title": "Blog Review: Aug. 19",
+          "summary": "Memory tagging; digital twin of the Moon; packaging moves front-and-center; streaming sensor data. The post B…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-earnings-roundup/"
+          "url": "https://semiengineering.com/blog-review-aug-19-3/"
         }
       ],
       "briefs": [
+        {
+          "text": "Chip Industry Technical Paper Roundup: Aug. 18",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-18/"
+        },
+        {
+          "text": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-earnings-roundup/"
+        },
         {
           "text": "Research Bits: Aug. 18",
           "source": "Semiconductor Engineering",
@@ -245,16 +255,6 @@ window.dailyBrief = {
           "text": "Controlling Voltage Droop In 2.5D PIM Chiplet Architectures (Washington St., UW…",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/controlling-voltage-droop-in-2-5d-pim-chiplet-architectures-washington-st-uw-madison/"
-        },
-        {
-          "text": "800VDC Pushes AI Power Design From Grid To Gate",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/800vdc-pushes-ai-power-design-from-grid-to-gate/"
-        },
-        {
-          "text": "Precision Under Pressure: Rethinking Bond Reliability In High-Density Semicondu…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/precision-under-pressure-rethinking-bond-reliability-in-high-density-semiconductor-test/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "20:38",
-          "title": "精进电动：公司管理层将持续做好经营管理，积极通过业绩改善、投资者沟通等方式传递公司价值 - 东方财富",
-          "summary": "精进电动：公司管理层将持续做好经营管理，积极通过业绩改善、投资者沟通等方式传递公司价值 东方财富",
+          "time": "07:03",
+          "title": "韩国AI健康科技企业战略投资日本护理企业，AI护理裤平台加速落地 - AgeClub",
+          "summary": "韩国AI健康科技企业战略投资日本护理企业，AI护理裤平台加速落地 AgeClub",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GZDBMXy1NS2dUY2drY2NqY0RPUkxQQnNQRjFIbXdkRFdFQlZyX0dZWlhxdE1kZy1Oa210Y29zVVg3RFptdFRDdlZVd3Z4ZGl5ZGNrNnZPSy1CSHBhTHZjd0cxcnRSUQ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qNzUzTDJYX2pVMkJGNmlaNW5zRDlwaXJfR0Q1aGhZQmZEUnRHWWM2cnRZalBUeHhFdUZIZDVRbkRjU1FSQTVMTWw1VkczVGMwRVNnNXBjbw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:16",
-          "title": "押中688826，3家沪企赚超3.8亿元 - 同花顺",
-          "summary": "押中688826，3家沪企赚超3.8亿元 同花顺",
+          "time": "04:06",
+          "title": "承德露露：控股子公司管理制度- Futubull - 富途牛牛",
+          "summary": "承德露露：控股子公司管理制度- Futubull 富途牛牛",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EX21NSk04QXRxQUtJelotcWFGcHBUejJiQ3JqejRockJURkkwYmVuOFQ1WHNXd1hYb0IwcDVPLWFQdlYybU9UWGlVdGdaY1IyaFNfZ3dPaFpiMlZObzlkNDNn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPclZHWWQ5cXZsYXFRQ3lsaU9jck1Ob2lVdWtnMkRacEpUdzJVVDJ3Q193QzNqc0w0bWozc3VQWXlFT0p0MHVkU1ZmZzJzZjdubk1McFRwR2k3c0RORTJFaG9lc3kzSHVhX1N1Z3BCSzhEUTFYSU8zSi1XNlZQc2x2QnIxeFN2OFg3dUtfeTE1clBTckgySU9JY3JFeEF0STJm?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "对话联邦快递许宝燕(Poh-Yian Koh)：中国是全球供应链韧性的关键枢纽 - 163.com",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xLVFmMXJVZ3hxTnRqdkVPdjdlU1EwVEZuYXN2Z2oyRnhBWmZ6Tnk5OGc1ZkgwckxJQm16VHAwVnBqYWFiVU85Y3hrYUJIc2JWcmNDMG5VT0JOUmdNeEJQMkx3?oc=5"
-        },
-        {
-          "text": "未来AI在企业管理中适合承担哪些角色？ - 手机新浪网",
+          "text": "合规运营优化管理架构，联华证券实盘体系持续增强服务品质 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAtdEgyN083SFlVU0ZtMjlGNXhBQ1QyV0JIRWtVQVVJX25PWTBqSmd4NFBoNUdVQkJLc2wyZl9GWkRrMW9vbHBhQ3hvcFhGdmVsRWkzWXhWNVhLNGd5UldNSkpUZUJiUE1aVFQ1a0N4TmNub1pXUkl3RGlNaElsdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRTZxSGlYeHktbkpWcVVyX1hqYWV3aWhuN1JIdUc3bEZBWEpqUVVFSUEyVUQ3NDZfeUFGOFRnUnB1TXh4Rk5kajdlTnNBOGxSYnhLbGM3YmttOG9WZFRzdVFOMTh3YkxDUmhqOHA1YVJqbXVqQTFmUXRQakFpbHVFc3VmRWx5OUdsTHpB?oc=5"
         },
         {
-          "text": "半年新开145家购物中心，头部企业策略分化 - CBNData-第一财经商业数据中心",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02VGFXQ1hJd0k2RWtnWTU1V2Z3TFBGS3hXZFIxWmIwTFNrSVJnOE9jenBQVFVRZjNmbEoxdU1WQ2FtSnZpX3FDYWh4ZktNRFNfOVE?oc=5"
+          "text": "北纬科技(002148):子公司管理制度（2026年8月） - 中财网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNU9KQXgxU0RwR2Jib3ZERE5tOEUwNlVEeGVScGVubjFSRmd3NHROdW1yUy1BMlBYZUY1THhlamRoZVl5Y0dDN21oU0NhM1R0X3Rlajd3?oc=5"
         },
         {
-          "text": "牛马研报·👉 中国移动商业分析一、核心商业模式和盈利逻辑- ... - OKX",
+          "text": "山东港口与青岛市人民政府、国华能源投资公司，战略合作！ - 搜狐网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwR2taUnA3M1lIcXhoVnZZcXpKTmp5MFBCYkc3clUwZnFZMF9VYjVMVk5KUmZuLU5ycUlJWmdRNTV2eFZld1V5UUtZN3p4eV9JVHhObDN5NE5OX2o2MkpoQnhtanU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHZzUWloNzdhckVsQkhYRU9wdi05cE96aWNFNEJFczNndFE3MFh3XzdrYmxuZXVENTJlclA0MkJDRmJyMFNSbW80bkVnWEd2S2xYUGRfby1ITjF5V0ZBb0lVTHYyR0NlRjRGTlZ4dEtpYnlzejB6dmZpUW9LaGo2dW02V3d6Z3Z2?oc=5"
+        },
+        {
+          "text": "精进电动：公司管理层将持续做好经营管理，积极通过业绩改善、投资者沟通等方式传递公司价值 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GZDBMXy1NS2dUY2drY2NqY0RPUkxQQnNQRjFIbXdkRFdFQlZyX0dZWlhxdE1kZy1Oa210Y29zVVg3RFptdFRDdlZVd3Z4ZGl5ZGNrNnZPSy1CSHBhTHZjd0cxcnRSUQ?oc=5"
         }
       ]
     }
