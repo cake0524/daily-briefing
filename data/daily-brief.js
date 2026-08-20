@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月20日",
+  "publishDate": "2026年8月21日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "30-40万的车新能源和燃油哪个更值得买？ - 新浪网",
+      "title": "北京正在超越北京 - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Yemen: Türk alarmed by rising civilian…",
+      "title": "As elections near, South Sudan risks ne…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -27,42 +27,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "07:28",
-          "title": "30-40万的车新能源和燃油哪个更值得买？ - 新浪网",
-          "summary": "30-40万的车新能源和燃油哪个更值得买？ 新浪网",
+          "title": "北京正在超越北京 - 新浪财经",
+          "summary": "北京正在超越北京 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5INS1WZ3lYN1ljUzR3dk9VUWh4SURrT0xzMTVYdTlpdm9GMThqZEd5Rmw2SG5uYURuMTNIZkh2bG00a1g0TkoxeXJuUzVKTHdLUFNWWjc3QVFJSmdpcGktaE9nOTZXdFBuRDhURDNOU3c0bm1qSU53VnN1TVFwdEk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTlJxRzVtWG9xU1FNYXZGZURtZGJJbTJjNGRoR0trNTZlcmt1VWtELXNfYTN0dE12MzFhT0hDemw0TTBFWHZ6Z0JOMHJJRmRtMEFnRWdxTFZXUFJTV2ZiTEEyLWI5V1dGb3pLT2NSdVRhc1NON2tPNTBYNjdOSi01VXJFNm92NU1ZSURFeXJmQVhWMkNPZlFCNA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:27",
-          "title": "科技金融托举先进制造！北京银行深圳分行助力“协同高科”逐梦国产化工业3D打印赛道 - 搜狐网",
-          "summary": "科技金融托举先进制造！北京银行深圳分行助力“协同高科”逐梦国产化工业3D打印赛道 搜狐网",
+          "time": "07:04",
+          "title": "澳大利亚8月标普全球制造业PMI初值 52，前值52。 - 金融界",
+          "summary": "澳大利亚8月标普全球制造业PMI初值 52，前值52。 金融界",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaUJIT3M3S21zd09GUUVvdkRtM0Q5ODZmNVpneEhDclY3bmo4ZWJiR2JtYjJIQ1ZMczZLdDdrZEpPUkRVNWMyR09yZG5VUHAxTmd4RGptLWtjck1uVklpNElxNGlWUjhYeWdLanpLMEd5UFE2RXBqNVhSdlhBeUFLakk3UWlyekdVVXJFMw?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56ZjJ4WXktZllHWHNNN0w2YV9mRTlhSElOb1lfdWNjSUJ0Vk0wdndMXzFoTmNRa0tKN2JwTHNVTUcza1V4QjlWbG5udFBwaWdIQTkzTThiVXB0RXpaaW9UUVhmS3RCNS1XdHRMU19xaw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "电子信息制造业韧性强劲 - 中国经济网",
+          "text": "“大车”遇上小车位 怎样破解停车烦恼 - 华商网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KSUcxSVpVVC0wSEZ2VnpUUDllaDN4SGM2ZjZ5bkNvdGNUNjBTWW1vNzNHYVZIWmRwYTU2cl9INU1ZMlFNVndFYngyb2tKZ3VmTnh3bl9pS00tZ085TUwtVF9wR0dUTkc5Z2Rsc1VmM3VxZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xb2QtTmZ5RmFSSEFKTTFpRDVVU2ItVVBYMWlKemx2ZWVnS1p3MU41Sm1VYk5QUjM3UWpham9pcWRndW9YTkxIWkNDaWFsWDBjU0VLcHNUVzRlQ1Y4aE1R?oc=5"
         },
         {
-          "text": "龙华区 数智浪潮奔涌 产业向新而行 - 新浪网",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xUTR1dkRYeVI5ekJXRy1qREdmMXY4LTB5XzAyX3hiUHpESklLTXN0TXVSeFlKUVpQZlpQTzlQeGExYVplTFc3TjlHdlRSaGJIWmJzWGpvT2ZqNThtMGczejNOMXdUYUhZMXFNVVZkX3ZpNHBnam1HRHljQy1zUU0?oc=5"
+          "text": "中国新能源汽车25年产业风云 - 搜狐网",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjdwLTl5RjRuVnVXQWJnV2R2ZzZ1REszVVJ4TGJQaTgzWDZUdlhyR2ZNRzY1ME0xc05aWGRWTVA1SG5hYVhMa3VBNzA0S0NVb2x5OVdNNWpsLUZ0TWxvRzJfdE9yN3I1WWc5bDYxMWY3YktuV1lOd3VBaGJfVzVOcWJNN0xlbkRhSEM4bQ?oc=5"
         },
         {
-          "text": "【数读IPO】今日1申购1上市，涉及新能源车细分行业领军企业等 - 东方财富",
+          "text": "理论1点点｜以新型工业化推动传统制造业优化升级 - 京报网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4taE5LLU1vUkhWNXVkM2hVRXAxUHNfQU9YeHZkUkdEUlRCUXFCUXVIbFE5VGxRQTFEU0U5dnp6MTNzVnh3MkFGMnlFaXF2Wjc5ZG9SMXo3Qmp5bGJHQmFSOEdncw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Cb3RPWHg5LVFqS2F5SGlyU01JYjBnV0RLWTYtaEc2ZFNCWmU0MXNPVUFIMXJXZHRWXzVVTUF1V1lMQWd4dHhGSEJFclItRFkxZ3NRRFBfQjVGekJqbUE?oc=5"
         },
         {
-          "text": "逆周期招商后，广州如何抢下一条新能源产业链？ - 搜狐网",
+          "text": "星空芯片获头部新能源车企定点，地平线与博泰车联合作迈入量产落地新阶段 - 集微网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbzdpSjllWmMxUEZSZkx6Vy05LTQyQnNuaXpqZUxyS1poV2ZCM282WGF6c1ZQRFFNUXpMUlluc1BlSkZXblFyTE9BS0JBbFo5YWRUS0tCZTZNcnYzWUF4VXBLNzZGQXhqcmJrcXBIMEVXLS1TOW45aXRwejZvQm9tcFRRV0NxMzYzRnNXRA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFAxRF9ramNxZ1JVb2gwQk1ENEw5Q2wyank3M184Y2ZPc1V0cHlTSGJBYWZCRy1iQWRoRjJyd2xIc1RUUlE?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Yemen: Türk alarmed by rising civilian toll, urges restraint",
-          "summary": "Escalating conflict in Yemen is killing and injuring a growing number of civilians, the UN human rights chief…",
+          "title": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
+          "summary": "The under-reported humanitarian crisis in South Sudan risks deepening with the real possibility of further at…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168151"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168173"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "First Person: Syrians lead efforts to clear rubble and rebuild lives",
-          "summary": "Communities in Syria are clearing rubble and rebuilding neighbourhoods and livelihoods torn down in the more…",
+          "title": "The clean energy transition needs land. Can it help restore it too?",
+          "summary": "What if the infrastructure needed to fight climate change could also help repair the land beneath it?",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168136"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168172"
         }
       ],
       "briefs": [
         {
-          "text": "The grass beneath our feet: Why rangelands matter",
+          "text": "Raising alarm over new illegal Israeli outposts, UN condemns attacks, incitemen…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168119"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168171"
         },
         {
-          "text": "Former rebel fighters join campaign against Ebola in the DR Congo",
+          "text": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168146"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168168"
         },
         {
-          "text": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+          "text": "Zambia: Arrests and detention of political opponents following election raises…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168149"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168169"
         },
         {
-          "text": "‘Ebola is winning’: Epidemic now killing one person every 30 minutes",
+          "text": "Sudan war: 200,000 newly displaced as fighting and floods intensify",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168148"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168165"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:00",
-          "title": "Offering Zero Data Retention for frontier models",
-          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for ad…",
+          "time": "23:42",
+          "title": "Debates over AI consciousness are a trap",
+          "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI age…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
         },
         {
           "priority": "重点看点 02",
-          "time": "22:18",
-          "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-          "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureB…",
+          "time": "17:47",
+          "title": "Unlocking hidden revenue streams with market models",
+          "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not s…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "VentureBeat AI",
-          "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
         }
       ],
       "briefs": [
         {
-          "text": "Replit expands access to software creation with GPT-5.6 Luna",
+          "text": "Introducing AI Futures",
           "source": "OpenAI",
-          "url": "https://openai.com/index/replit"
+          "url": "https://openai.com/index/introducing-ai-futures"
         },
         {
-          "text": "ChatGPT Ads expands across Europe",
+          "text": "Stampli cuts launch hours by 68% using ChatGPT Work",
           "source": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
+          "url": "https://openai.com/index/stampli"
         },
         {
-          "text": "Strengthening democratic oversight in national security",
+          "text": "Offering Zero Data Retention for frontier models",
           "source": "OpenAI",
-          "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models"
         },
         {
-          "text": "Partnering with CodeAI to prepare the first AI generation",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/partnering-with-codeai"
+          "text": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterpr…",
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "The Future Of AI Compute Won’t Run On Just One Kind Of Chip",
-          "summary": "Power, token cost, interconnects, and software orchestration are pushing data centers toward heterogeneous cl…",
+          "time": "15:06",
+          "title": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufacturing",
+          "summary": "By measuring each wafer after lithography and adjusting the next etch step, fabs can pull more wafers back in…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-future-of-ai-compute-wont-run-on-just-one-kind-of-chip/"
+          "url": "https://semiengineering.com/dont-scrap-it-save-it-feedforward-control-for-modern-semiconductor-manufacturing/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Blog Review: Aug. 19",
-          "summary": "Memory tagging; digital twin of the Moon; packaging moves front-and-center; streaming sensor data. The post B…",
+          "time": "15:03",
+          "title": "From Research To Production: Collaboration Is Key For Semiconductor Innovation",
+          "summary": "Semiconductor R&D depends on access to high-quality data, realistic process assumptions, and practical learni…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-aug-19-3/"
+          "url": "https://semiengineering.com/from-research-to-production-collaboration-is-key-for-semiconductor-innovation/"
         }
       ],
       "briefs": [
         {
-          "text": "Chip Industry Technical Paper Roundup: Aug. 18",
+          "text": "How Will The Custom HBM Business Work?",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-aug-18/"
+          "url": "https://semiengineering.com/how-will-the-custom-hbm-business-work/"
         },
         {
-          "text": "Semiconductor Earnings Roundup: Revenue, Growth and Takeaways",
+          "text": "Reducing Scope 3 Value Chain Emissions For Customers Through Sustainability And…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-earnings-roundup/"
+          "url": "https://semiengineering.com/reducing-scope-3-value-chain-emissions-for-customers-through-sustainability-and-innovation/"
         },
         {
-          "text": "Research Bits: Aug. 18",
+          "text": "Three Strategic Imperatives For Energy-Efficient AI Computing",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-aug-18/"
+          "url": "https://semiengineering.com/three-strategic-imperatives-for-energy-efficient-ai-computing/"
         },
         {
-          "text": "Controlling Voltage Droop In 2.5D PIM Chiplet Architectures (Washington St., UW…",
+          "text": "Managing Thermal Expansion And Electromigration Through Interposer Design",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/controlling-voltage-droop-in-2-5d-pim-chiplet-architectures-washington-st-uw-madison/"
+          "url": "https://semiengineering.com/managing-thermal-expansion-and-electromigration-through-interposer-design/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "What’s journalism worth in disasters and emergencies? A lot, says a new UN report",
-          "summary": "A single New York Times article on a disaster generated an additional $500,000 in official aid. That’s just o…",
+          "title": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
+          "summary": "The under-reported humanitarian crisis in South Sudan risks deepening with the real possibility of further at…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168164"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168173"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Lebanon: 860,000 displaced people have returned home, but humanitarian crisis remains ‘immense’",
-          "summary": "Around 860,000 people displaced by the conflict in southern Lebanon have returned, but the displacement and h…",
+          "title": "The clean energy transition needs land. Can it help restore it too?",
+          "summary": "What if the infrastructure needed to fight climate change could also help repair the land beneath it?",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168163"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168172"
         }
       ],
       "briefs": [
         {
-          "text": "Colombia earthquake: UN ramps up aid for 100,000 people",
+          "text": "Raising alarm over new illegal Israeli outposts, UN condemns attacks, incitemen…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168161"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168171"
         },
         {
-          "text": "Gaza: Only three per cent of cropland available to grow food",
+          "text": "International Criminal Court: New US sanctions ‘a flagrant attack’ against its…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168160"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168168"
         },
         {
-          "text": "Singapore: Independent rights experts urge immediate end to ‘unlawful use’ of d…",
+          "text": "Zambia: Arrests and detention of political opponents following election raises…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168159"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168169"
         },
         {
-          "text": "Security Council LIVE: Drone strikes and political impasse in Libya",
+          "text": "Sudan war: 200,000 newly displaced as fighting and floods intensify",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168158"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168165"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:03",
-          "title": "韩国AI健康科技企业战略投资日本护理企业，AI护理裤平台加速落地 - AgeClub",
-          "summary": "韩国AI健康科技企业战略投资日本护理企业，AI护理裤平台加速落地 AgeClub",
+          "time": "17:12",
+          "title": "同一个物业管理区域为何有两家公司管理？江苏省住建厅前往淮安督办 - 紫牛新闻",
+          "summary": "同一个物业管理区域为何有两家公司管理？江苏省住建厅前往淮安督办 紫牛新闻",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qNzUzTDJYX2pVMkJGNmlaNW5zRDlwaXJfR0Q1aGhZQmZEUnRHWWM2cnRZalBUeHhFdUZIZDVRbkRjU1FSQTVMTWw1VkczVGMwRVNnNXBjbw?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tdHNtbDFWakJ1Ykd5UmVEMC1MVFdWUll2eDVfaWR0VDBhTVdmcmNOSC1fRGY5cGM5aXJBUVBOVmd1NGNfci1Lb3NIVElFWUhjM2FwYUwzdGE5aFNMQTlyaEdDRUZKVDF5TEhB?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "04:06",
-          "title": "承德露露：控股子公司管理制度- Futubull - 富途牛牛",
-          "summary": "承德露露：控股子公司管理制度- Futubull 富途牛牛",
+          "time": "15:30",
+          "title": "新加坡与印度探讨加强食品供应和粮食安全合作 - 联合早报",
+          "summary": "新加坡与印度探讨加强食品供应和粮食安全合作 联合早报",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPclZHWWQ5cXZsYXFRQ3lsaU9jck1Ob2lVdWtnMkRacEpUdzJVVDJ3Q193QzNqc0w0bWozc3VQWXlFT0p0MHVkU1ZmZzJzZjdubk1McFRwR2k3c0RORTJFaG9lc3kzSHVhX1N1Z3BCSzhEUTFYSU8zSi1XNlZQc2x2QnIxeFN2OFg3dUtfeTE1clBTckgySU9JY3JFeEF0STJm?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XbmhHdlU1eDhxRWxlZkRweDJXVjJMdjUxUW1OcHlyUDdNbU5ZQ2kybnpHWXRmMEd2MlYzbDA3RXFhYnhpN0dVWkttcGhaSWJTXzI4SmUyTXVYbmhMNUhlVGUtUl9GNnlUUU9ORzVIMllOTWs?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "合规运营优化管理架构，联华证券实盘体系持续增强服务品质 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRTZxSGlYeHktbkpWcVVyX1hqYWV3aWhuN1JIdUc3bEZBWEpqUVVFSUEyVUQ3NDZfeUFGOFRnUnB1TXh4Rk5kajdlTnNBOGxSYnhLbGM3YmttOG9WZFRzdVFOMTh3YkxDUmhqOHA1YVJqbXVqQTFmUXRQakFpbHVFc3VmRWx5OUdsTHpB?oc=5"
-        },
-        {
-          "text": "北纬科技(002148):子公司管理制度（2026年8月） - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qNU9KQXgxU0RwR2Jib3ZERE5tOEUwNlVEeGVScGVubjFSRmd3NHROdW1yUy1BMlBYZUY1THhlamRoZVl5Y0dDN21oU0NhM1R0X3Rlajd3?oc=5"
-        },
-        {
-          "text": "山东港口与青岛市人民政府、国华能源投资公司，战略合作！ - 搜狐网",
+          "text": "新印探讨加强食品供应和粮食安全合作 - 联合早报",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeHZzUWloNzdhckVsQkhYRU9wdi05cE96aWNFNEJFczNndFE3MFh3XzdrYmxuZXVENTJlclA0MkJDRmJyMFNSbW80bkVnWEd2S2xYUGRfby1ITjF5V0ZBb0lVTHYyR0NlRjRGTlZ4dEtpYnlzejB6dmZpUW9LaGo2dW02V3d6Z3Z2?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNVZ3TWtINjJ0MGZNRi05T2pSRHBITnpvdUNLZ1BFYzc4NTNfV09xc20ybVpwOWVPRE5rRzI2MGtYS3NrWDNQSDc3eURFZW0yUkE3YTVycktTcUgyQW9YUklUZ1RZQllKcTY2TmkxRWdweW9SNm1FU1JUYVlKQmJNR0RVdGNkYkthdUlKUUhIUQ?oc=5"
         },
         {
-          "text": "精进电动：公司管理层将持续做好经营管理，积极通过业绩改善、投资者沟通等方式传递公司价值 - 东方财富",
+          "text": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GZDBMXy1NS2dUY2drY2NqY0RPUkxQQnNQRjFIbXdkRFdFQlZyX0dZWlhxdE1kZy1Oa210Y29zVVg3RFptdFRDdlZVd3Z4ZGl5ZGNrNnZPSy1CSHBhTHZjd0cxcnRSUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPeXptSjBXb0xkQlVsRjFHQVlwa1lFNzVFeW5fSWRTTmJYYnVtNjJpS1FQMUZXRFVBZ1ZRSHlsZmpwbXVRdkxkMWwwQ2xJTmoya3B1ZjlNT1lPWWtQYWNuNTRFVDhRRmN4NG9fVVhSNExKdXFON3d6X0U1OHE2b19sSDFwU1h3YXVzalFHX3NXNHM4WWJvNnVyOG8tU3dKSDk0NnQxRUQ3OW9lT2RuSnpFVkp6eDhOWEpGaEdldXRraWhRdnJQY2p4bjhmc2ltbV93djRZQ0xWMERvV3JHZTNDMzJPV3NZZVJHMDhjX3VjN0tjR1p4cU05TXBoYWJ4bUsxbnN4LURySFlzRHh6aHZBMGNwN2NicTZnV014Ql9JN1NzMnZ2dmlINEJWSzZPRloyRDhMbXBxNVdvUk91QXB2QjdscEhndkdLWnRvVTc1dzNsbXdady1r?oc=5"
+        },
+        {
+          "text": "经理回应罚员工做深蹲致肌溶解 公司管理惹争议 - 中华网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMY290Wkt0ektWUmNpd3lzeTQwMTREazY5LVVxSVczb1JCMzE2anZ0VHRmLXlwSmd2U3R4NmlNc3k4WWJwOUp0RHBrdWFpc2hVY3NSdzkxWHFVZ2k1MXVHSW1fZGtTZENfS09DTExJMDA?oc=5"
+        },
+        {
+          "text": "韩国AI健康科技企业战略投资日本护理企业，AI护理裤平台加速落地 - AgeClub",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tUnA4eC1YN3BjNC1Hdy0xbG5CWFh6VzZKS091TVhmc0tLbGhnRENIU3phcVl4ZGxZVzdBVWtuZ3I1RkptNXhqMlBHUklYb09wVEx4MQ?oc=5"
         }
       ]
     }
