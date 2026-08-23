@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月23日",
+  "publishDate": "2026年8月24日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "“十五五”开局看河北｜邯郸“五链并进”培育壮大新能源产业 - 新浪财经",
+      "title": "预算40万买新能源车，换电和增程哪种更好？ - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "This frozen fiber makes light and sound…",
+      "title": "A hidden “on switch” in human DNA has f…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:18",
-          "title": "“十五五”开局看河北｜邯郸“五链并进”培育壮大新能源产业 - 新浪财经",
-          "summary": "“十五五”开局看河北｜邯郸“五链并进”培育壮大新能源产业 新浪财经",
+          "time": "07:01",
+          "title": "预算40万买新能源车，换电和增程哪种更好？ - 新浪网",
+          "summary": "预算40万买新能源车，换电和增程哪种更好？ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc09LV1RJa21JR2gxc19pS0VYeXR1R3diaXJfS2ZBQmJ5Tzlhb1JfZ1Mza0M0SDBHMkt4WE9nUkJZcFd1c0lqOTB1OVdUUHRPMDVXalNlVVhocWhlRVI0VmdWZFZid3d2Zk0wXzlMRVVCRXE5dTdTVTI4dEN3SkZ3ckZCQ3ZvSXp0S1c2LWQ4cXpuOGRfX2MxbA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhbG45X2RTbkFhMmZjYzBWTWoxSzMzSFlQQ3BETFh3N1hSUXNYU3pZSVJwem41ZUE0M0Fwb2xsZ0ZlZ0lNU2ppUkdvYUJPLXFLOVVfYWk5UmEtaVlSV1hwaWxDTDJFcHFweVZtQmhTRFVKUQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:18",
-          "title": "4年为企业省下4800万元电费 - 新浪财经",
-          "summary": "4年为企业省下4800万元电费 新浪财经",
+          "time": "07:01",
+          "title": "30-40万新能源车选理想L8还是问界M7更适合家庭？ - 新浪网",
+          "summary": "30-40万新能源车选理想L8还是问界M7更适合家庭？ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGphWkM2Q0hMN0kxWkdOaXZ4U0JrZXR5aWcycXQ5ZHNzVkxvVGJhSWM0cXBlSDJXSVFELTZWZXJWNmQza0ZoakRqYkoyQkkxaTA2MTdZTGl4Qzg3TUNGdTgzekRBZHlONjV3dWtncjRFNnJxSjdWeEYwQzFrdHdTakw5VElhNVhYMktMb01NN1VIdDhFblV0Mg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BQW52aHdvSjJ5bXVDc1VzM1NoN1RwV3lyYXVhV3ZSMDJZVkNlaHc4cWxhZDNFTndtdFBTdWVQdHlFVUhCOFJaQUVjRnlBVXoyWWFqOHJTNVJtX3lIZlpQaE1iWldMMXFyQThKdHdqRGxvUQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "宝骏享境phev二手车的质量怎么样？ - 手机新浪网",
+          "text": "30-40万新能源车盘点：小米、蔚来、理想、问界怎么选？ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pbFR0YU5zcG1aTGp1c1RWREhsaEZaM1Q0cjJvYlYwaWY3ZUp0Y3JqWDRjTkFRVU5sMEppQU15aEhrQ3ZGOWZhTVRYeVRjMldMRXMyREFFOEs5NnBVRWpqeVdJNTgwZE5rUGM1OVVQQnBMZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RWVFORERwd0tYbFJDZXpLLU11VTc4cDdFOE05dWdhQ2p6Q0IzSXZiM2hVbEdKY2lGaVVsTkRkbG1VdFlRTmdIV0NPdUpBWExac2c3Um9oU2UyV3dDdFlodnB3ZmsxS1h2VDdjTkdLUzdma01QUDVDSXdfbmNjRVE?oc=5"
         },
         {
-          "text": "【视频】不止卷配置！铂智7重新定义新能源车责任底线 - 汽车之家",
+          "text": "全国427.51万辆新能源汽车召回 特斯拉占了70%：但没一款油车 机械门把手战胜一切 - 驱动之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00UjZ4d2wzQ3NkNFpDZlF5UlVod1dNY0o0UGFuejV4RlBNWUFidUhnS2dCMVFrWkZQVnRYWGhxTjUxZV9RdEpPZXkzckJPMWdBaU5lUVhmRHJST1k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5CekRvdWowcENtaU9xQXdOVFVMdWtkR2lsNENKMUtjMTNGU1FKbHA5NWZIZURlUEJoYWVwX2Fkb3hGWVRiWjQ4eUhNSVZOdEVpeGhBRkNqQms?oc=5"
         },
         {
-          "text": "国产新能源审美趋势 - 手机新浪网",
+          "text": "擦亮贵州“新三样”品牌 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQWEhPWVdHSG1JbEJRbGo5RDI3M0VKRmFqeTJaems1VUxwR2E1c2tPbk5vNmRucXlFY0pUbmpGU2h1aHRIZ3RJM0dNd2w3Q1FDNV83ZEp1LW0yUm41YlRpUkVrc3FYMnBWeHk5ZEtTSDRZQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM2VDeTNNNU1QekZ0RFhzbWRwUzhIQndHSUxfSDBMZ0JEeFJOZjdTelJfTm1yOHlzLTQ0NnhNY2dhck9ZLXFkNHJqSDJCQ184N1piYmdmbEhLcjJiUlQ3OUNZWk9tMzhHZU1KVW50YmVSdXRDQU1PdUMzX1ZsdFNNT3prNlhnNWdQWERGY2ZOblZxVGcxSzdZeVd1Y3MwRzA0?oc=5"
         },
         {
-          "text": "新能源车上牌优惠到底有多大？2026年最新政策解读+FAQ - 手机新浪网",
+          "text": "女生选新能源车，颜值和智能辅助哪个更重要？ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fN19XU0dCZGVMdl9VRjZ4UlJmOTQwbnVsM2x3RDBtSWIydUpWcVVRZzNOYmRLaGNrOWtpdjRFd0RxYzczUHkyMlNUcTkzUU85c1EtcHAzUUtKblJ0MXFsYU81TlVHRWNRZm96bHgzcjYzQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mYWx5cTZpcEpoN2VyZG1ON0NxeThQYjZGbWR4WFRCNFJYaVBHS1Q1Z0s2dEJHUGJUQVBUNnpjbThzOEdDU2xCWHZQWkM0Rml4a2d5TUtCZ1RUcDdmRmVKd1hoTUJ4VlZpdDg3UE1NSnA3WURYM21Ubm5nek1UMFk?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "20:14",
+          "title": "A hidden “on switch” in human DNA has finally been decoded",
+          "summary": "Researchers have used AI to uncover the DNA signature of a key genetic “switch” involved in turning genes on.…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "21:02",
           "title": "This frozen fiber makes light and sound interact 1,000x more strongly",
           "summary": "Freezing the liquid core of an optical fiber produced an extreme environment where light and sound interact m…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260821012228.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:01",
-          "title": "Scientists catch a hidden electronic state forming in just 30 femtoseconds",
-          "summary": "Scientists watched a light-triggered hidden state form inside a material in only 30 femtoseconds, revealing a…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260820202856.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Scientists catch a hidden electronic state forming in just 30 femtoseconds",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260820202856.htm"
+        },
         {
           "text": "Tiny robots powered by light can hunt down and collect bacteria",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Scientists turn DNA into a memory device that uses 100x less power",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260816044853.htm"
-        },
-        {
-          "text": "Scientists tracked kids for 8 years — the screen time result was unexpected",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260815064803.htm"
         }
       ]
     },
@@ -314,24 +314,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "16:56",
+          "title": "康达新材(002669):子公司管理制度（2026年8月） - 中财网",
+          "summary": "康达新材(002669):子公司管理制度（2026年8月） 中财网",
+          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oVGhtM3U5ekZmVm5zOUEwbmN5MmJlNUkzSlN0X3dNWlI0UXR2RFhMeFctVXJ0Tm83M2tUd3N3T09rbDU1NEZyWmtrcElBQlFkUlR1Y25n?oc=5"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "13:13",
           "title": "【财富风尚 | 财资中国】锚定企业管理数智化转型，以DRP驱动全域价值升级 - 新浪财经",
           "summary": "【财富风尚 | 财资中国】锚定企业管理数智化转型，以DRP驱动全域价值升级 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtTHJRV1pYSTlSNV9XdVlHNzF4Mm1CamJzV2I3WGJQV3FhWTVDRDVGS01JdGxyMl9FbmUtZjdrQjRPWmI2aG9tdFY4MUM2bzYyb2UyX1ROQUJrTXd6MU1oLWFlN3lXQm9EOTc2NEhHUjh3VktNMHc?oc=5"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "12:46",
-          "title": "持牌运营优化管理架构，联华证券再实盘服务持续增强保障能力 - 新浪财经",
-          "summary": "持牌运营优化管理架构，联华证券再实盘服务持续增强保障能力 新浪财经",
-          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3BENTVkc3Nyb0N6c1pucnJaWl9ibHdUY0FSTUFxSmJnOFlKRWhkTHdWenpNZHo2U0pwNGwyTVhxTkFIZ3lkSm44WjB5Qi1rUUxROUo3Ui03OFItRmJsejNFcXlUbU44dDlDRVNUdnJ4SThSZm1jaHlZUnlKbTJLYmp0UGRpVzdxMTVJ?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "持牌运营优化管理架构，联华证券再实盘服务持续增强保障能力 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3BENTVkc3Nyb0N6c1pucnJaWl9ibHdUY0FSTUFxSmJnOFlKRWhkTHdWenpNZHo2U0pwNGwyTVhxTkFIZ3lkSm44WjB5Qi1rUUxROUo3Ui03OFItRmJsejNFcXlUbU44dDlDRVNUdnJ4SThSZm1jaHlZUnlKbTJLYmp0UGRpVzdxMTVJ?oc=5"
+        },
         {
           "text": "每体：19岁库巴西已经通过大学入学考试，选择攻读企业管理专业 - zhibo8.com",
           "source": "Google News 企业管理",
@@ -346,11 +351,6 @@ window.dailyBrief = {
           "text": "大众汽车CEO：公司管理费用比竞争对手高出逾30% 提供者 Investing.com - 英为财情 Investing.com",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3ZzBOekFRbkQ1TlpiRG1zejlsQk5aUS1nQ2VRU050V21zTUJvQXRsNWVJSnM3SnFSdGNDckdzcm11YWd5akRrQXd0RjhCNl96aHNRUkJvUUE0VEpGeEEtUmY0eUVoSmFaRUJ0ei1hajhRbjlLMzZR?oc=5"
-        },
-        {
-          "text": "金龙羽(002882):控股子公司管理制度（2026年8月） - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51ZUZEVXpUZXZ4b1F4R1cyZ2RGbTFMMUNJMTMzUDczc2xOYVc5WHFxck9KWV9mYnNaUWo4a0E0RjM4QXd3cXVFZ1FpN1p3dHZ6M18zd2pn?oc=5"
         }
       ]
     }
