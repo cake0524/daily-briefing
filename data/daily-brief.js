@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月26日",
+  "publishDate": "2026年8月27日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "长安 “二次创业”作答“大镇何为” - 手机新浪网",
+      "title": "男子伙同新能源车主薅车企羊毛 利用漏洞非法获利 - 中华网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Haiti ramps up the fight against gangs…",
+      "title": "Land models sprout as degradation threa…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:27",
-          "title": "长安 “二次创业”作答“大镇何为” - 手机新浪网",
-          "summary": "长安 “二次创业”作答“大镇何为” 手机新浪网",
+          "time": "12:05",
+          "title": "男子伙同新能源车主薅车企羊毛 利用漏洞非法获利 - 中华网",
+          "summary": "男子伙同新能源车主薅车企羊毛 利用漏洞非法获利 中华网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqQnhNb1FZbVRNMkQ2d3VtZi1TcWR4bXp2RGJZYkNFai1EdDhNaHpZSlZtcE42N19jM19GbzNGaUpwRWhUSDNTajR6alIzSWpJbU1iRXNpMTZreUJmWlZ6ZUJTbHo2NzRGVm1Wak1nX3BoUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94bHVnSXdJbFlLRlVlRndyaVlacmZybllIS2I3aDFub2pwS2hkR193eF9tNFJSZk1HNWtwVHpDOVVwcHp4QUY3Ukt2dXQzZkFTa3c3czVLaXFTX0ZoVlVqTi1GWjMydmZFRmVpLXFB?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:00",
-          "title": "黄石高技术制造业“一路快跑” - 搜狐网",
-          "summary": "黄石高技术制造业“一路快跑” 搜狐网",
+          "time": "12:01",
+          "title": "工信部点名汽车产业非理性竞争问题 “必须要加力解决”意味着什么？ - 新浪汽车",
+          "summary": "工信部点名汽车产业非理性竞争问题 “必须要加力解决”意味着什么？ 新浪汽车",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mNzNsVDlJSTVhOTdxZndHSjlMaGpzdXdGLVlndFRueGlUeWxlYmNSU1AyZXpNU1FHQ2FqVVhxV0hoRVUyT1hoTzlhOURnY2dldW15cXlB?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41RVJHYlBkWFd5VXg5TnlyS2dXWXplRHZMTEl3dGpxUjJVQ1VpcExuSVRqZlk5M2VRamJUNE9neUpuQ1FTa1ZWV1htZlNWSU82MUFIcnI5UDVtWjNvUTdZODloRHRLYTVqQzBnbF9B?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "8月25日新能源ETF南方基金份额增加100万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 - 证券之星",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NQWFPMkhxZkptTjVRb3BvOURGZGtjdk5YZmhObWFpSm9lc1E4bEN1ZGN4R2s1VnFCVzdZNmJxblctVFN4YlRuSGFqdjZnazZTV01ON1pHLW1lU2IzeENUVGN3?oc=5"
+          "text": "“电力芯片+3D打印”双展齐开，深圳这场科技盛会解锁先进制造新可能 - 星岛环球网",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84eTQzY2pYMXRtelV0eW5PejlRcXJTZGhlM05GVUVaamUtb1pmaTB0ZExtNjFhWVFtazhVVXdOeTdMOTNpeXhjUGVnWEEwV2plbjZQU0ZMZk1VVHc5Mks3QURFSHQ?oc=5"
         },
         {
-          "text": "2026年7月新能源重卡企业销量：徐工重回第一 重汽增长翻番 东风力压福田 - 搜狐网",
+          "text": "菱智新能源2026款值得买吗？3个维度说清空间、续航、成本+FAQ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUUdPRzZCSnEtWVFXVDBhZlAxWE1TekxjUllicDVwRGxIMVBpb192Wm5uWnhnS3hOSC11WlVjNXY2ZnJrMkQ0eVo1NS1VTFhKWHU0djh0YVJ3YlRZU0pwX0hwQ2hGNWdSVVk1TldnSGNFTTEzMVl3MzZoU2RmV0lBSnQ0NEdEdFVjNWxGNg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5icXdNXzNHQUhCR2oxczRMTDVsSnVybDZ0b2Q4Zy1kR3FpVkxyVFQ5R3dlNnU5d2h3TXJZN3R0YmUwam0tejRwTW1ZQVF2OGV0Q1hCYm9EekRfS21KaENUNUh0cjJVMV9LZkJyczFVVk1iUQ?oc=5"
         },
         {
-          "text": "宋Pro新能源安全够用吗？碰撞防护全系拉满，主动安全看预算 - 汽车之家",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZNjd1aWo2TDBENHZ2dm90akJ4Wkx4VVB3cHJPRWIwV3Y0QTZ0MXYzNmtWV3VGdC1JTjd6NEczTGJyc3V1MmstdHl3bVJUaUJmUDkwNTlGT05VSEE?oc=5"
+          "text": "2026全球数字经济大会拉萨分会场举办 释放雪域高原数智发展活力 - 搜狐网",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnNLU3AyVFo3c3FzUlV4OVNaSWFneHFzUW9zQVJIejNWLTNyU0VwenV6YXoyNl9FdmthYWVSMndXaVJnM1BYOVJQTmNVRFVKMFRtejRTejRiY0FjNVd2Uk5ndTdNU2R0UW1WWk5FSHlITkFsSTJ3R1N4WnZ1bjd5STE0T2gzRUZh?oc=5"
         },
         {
-          "text": "宋Pro新能源飞驰版：运动套件+后排头部空间实测 - 汽车之家",
+          "text": "工信部：我国新能源汽车产业规模已超千万辆级 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44S3VoNVBmWHF1bWNHLUc3bkk0cFVxd0JhWW8xdDhZRGwtbWFGR3lpd01OYUFaREl2LUFLWTFCeGRfcUd2Y3FHVlAyQWtkbzYyMlZDMzRGcVpGLTA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1adGNISGhKOW51YWRfcjIyOG10QV9JS2NvWWdMaVVQOGlaRi1CX1pYQ3RRbFB1X0VqcXpSNi1CU2xBV2kwTVhLOVQzVUFsbG51dGc3NjV1X2MtR3JHYTFCQ1JmazZCQmI3TWcxM2V3cnhtalVEM0Zkd2pnakVudw?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Haiti ramps up the fight against gangs in the capital, but violence spreads elsewhere",
-          "summary": "The killings in Kenscoff began late Sunday, when armed men descended on the farming community in the hills ov…",
+          "title": "Land models sprout as degradation threatens billions of livelihoods",
+          "summary": "Promising efforts to restore degraded land are now in the spotlight at a time when 40 per cent of the world’s…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168203"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168212"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "One million children in Afghanistan face deadly malnutrition",
-          "summary": "Some 3.7 million children in Afghanistan are suffering from wasting, one of the most dangerous forms of malnu…",
+          "title": "Red Sea nations step up maritime cooperation as regional threats grow",
+          "summary": "From piracy and migrant smuggling to disruptions affecting global shipping routes, countries bordering one of…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168202"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168211"
         }
       ],
       "briefs": [
         {
-          "text": "As wars spread, the global food system unravels",
+          "text": "Explainer: UN peace operations work to create, preserve peace",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168201"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168210"
         },
         {
-          "text": "Rohingyas in Myanmar suffering ‘heartbreaking’ misery and cruelty",
+          "text": "Deadly floods cause widespread destruction in China, Nepal",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168200"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168208"
         },
         {
-          "text": "Land degradation is costing far more than restoring: UN deputy chief",
+          "text": "More health workers, stronger systems: Africa’s new ambitious goal",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168198"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168207"
         },
         {
-          "text": "Japan’s ‘2050 Weather Forecast’ highlights extreme heat in the future",
+          "text": "Security Council LIVE: Rising tensions in Gaza, West Bank",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168197"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168204"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "17:00",
-          "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-          "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to brin…",
+          "time": "03:00",
+          "title": "The inside story on why OpenAI agents hacked Hugging Face",
+          "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat an…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/"
+          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:05",
-          "title": "The full stack behind abundant intelligence",
-          "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver…",
+          "time": "22:30",
+          "title": "Orchestration is the new challenge for CX in the age of AI agents",
+          "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messagi…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+          "source": "VentureBeat AI",
+          "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
         }
       ],
       "briefs": [
         {
-          "text": "Jalapeño’s first results show industry-leading speed and efficiency in AI infer…",
+          "text": "Bringing ChatGPT for Teachers to more U.S. school districts",
           "source": "OpenAI",
-          "url": "https://openai.com/index/jalapeno-first-results"
+          "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
         },
         {
-          "text": "Disrupting a new covert influence campaign from Russia",
+          "text": "Learning never stops: How AI makes learning continuous",
           "source": "OpenAI",
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+          "url": "https://openai.com/index/learning-never-stops"
         },
         {
-          "text": "Introducing the Admin plugin for ChatGPT Work and Codex",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-admin-plugin"
-        },
-        {
-          "text": "How to encourage smarter AI use in the classroom",
+          "text": "Raised on AI",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
+          "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
+        },
+        {
+          "text": "AI models flub these intelligence tests. Can you fare any better?",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:15",
-          "title": "Redefining Roles For Edge And Cloud AI",
-          "summary": "The race is on for localized intelligence. The post Redefining Roles For Edge And Cloud AI appeared first on…",
+          "time": "21:00",
+          "title": "China’s Grip on Erbium and Yttrium Could Choke Data-Center Growth",
+          "summary": "There are 17 rare earth elements. While almost all of them have vital industrial uses, you could be forgiven…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/redefining-roles-for-edge-and-cloud-ai/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/rare-earth-shortage"
         },
         {
           "priority": "重点看点 02",
           "time": "15:01",
-          "title": "Research Bits: Aug. 25",
-          "summary": "Bacterial transistors; forgetful antiferroelectrics; high-entropy mixing. The post Research Bits: Aug. 25 app…",
+          "title": "Blog Review: Aug. 26",
+          "summary": "GAA to CFET; prioritize communication, not compute; verification headwinds; scale-up networks; local AI; high…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-aug-25/"
+          "url": "https://semiengineering.com/blog-review-aug-26-3/"
         }
       ],
       "briefs": [
         {
+          "text": "Chip Security Moves From Checkbox Compliance To Continuous Defense",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-security-moves-from-checkbox-compliance-to-continuous-defense/"
+        },
+        {
+          "text": "Redefining Roles For Edge And Cloud AI",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/redefining-roles-for-edge-and-cloud-ai/"
+        },
+        {
+          "text": "Research Bits: Aug. 25",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/research-bits-aug-25/"
+        },
+        {
           "text": "Building Technology People Can Trust",
           "source": "IEEE Spectrum Semiconductors",
           "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms"
-        },
-        {
-          "text": "Multi-Die Assemblies Dominate At 2nm And Below",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/multi-die-assemblies-dominate-at-2nm-and-below/"
-        },
-        {
-          "text": "Chip Industry Week In Review",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-152/"
-        },
-        {
-          "text": "Don’t Scrap It, Save It: Feedforward Control For Modern Semiconductor Manufactu…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/dont-scrap-it-save-it-feedforward-control-for-modern-semiconductor-manufacturing/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Haiti ramps up the fight against gangs in the capital, but violence spreads elsewhere",
-          "summary": "The killings in Kenscoff began late Sunday, when armed men descended on the farming community in the hills ov…",
+          "title": "Land models sprout as degradation threatens billions of livelihoods",
+          "summary": "Promising efforts to restore degraded land are now in the spotlight at a time when 40 per cent of the world’s…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168203"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168212"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "One million children in Afghanistan face deadly malnutrition",
-          "summary": "Some 3.7 million children in Afghanistan are suffering from wasting, one of the most dangerous forms of malnu…",
+          "title": "Red Sea nations step up maritime cooperation as regional threats grow",
+          "summary": "From piracy and migrant smuggling to disruptions affecting global shipping routes, countries bordering one of…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168202"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168211"
         }
       ],
       "briefs": [
         {
-          "text": "As wars spread, the global food system unravels",
+          "text": "Explainer: UN peace operations work to create, preserve peace",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168201"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168210"
         },
         {
-          "text": "Rohingyas in Myanmar suffering ‘heartbreaking’ misery and cruelty",
+          "text": "Deadly floods cause widespread destruction in China, Nepal",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168200"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168208"
         },
         {
-          "text": "Land degradation is costing far more than restoring: UN deputy chief",
+          "text": "More health workers, stronger systems: Africa’s new ambitious goal",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168198"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168207"
         },
         {
-          "text": "Japan’s ‘2050 Weather Forecast’ highlights extreme heat in the future",
+          "text": "Security Council LIVE: Rising tensions in Gaza, West Bank",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168197"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168204"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:30",
-          "title": "谢贤谢霆锋无商业关联 - 手机新浪网",
-          "summary": "谢贤谢霆锋无商业关联 手机新浪网",
+          "time": "00:17",
+          "title": "皮阿诺(002853):减少对外投资珠海保资碧投企业管理合伙企业（有限合伙）暨关联交易 - 中财网",
+          "summary": "皮阿诺(002853):减少对外投资珠海保资碧投企业管理合伙企业（有限合伙）暨关联交易 中财网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQV0UxWl93UFBXTVA3SkhOY1h3cUU3LWRwU3U5dnBsaW1QVlByX0pqdmNrYzB5LThmU3h3d2trZmFGWnNTZWd5R0UzandDalY3bndSTDdEWDVwT3dXMDRoMkJPUkdnYndNNlBrVVlfSTdQT0JhUnBiMFNVZjBORl9RTXhFM0stTjNmZ0hrR0ZYeU80T0dXSzJrN2s4UFNlWkZlNVlIR1Jja1FEMVFjRGdwV2dScXJzaDVGMHJ1Q0hCNGw1MS1zU1VPVExMWDdzTG5qYWVHMnRjcFdNdk9Tak5UNGhfaGhuckxYZ1cyOWNubzMyMWc2bGcwQ0Vn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZSWlla3djaTFWLThINkZ2VXhfVmJCTzVMMDBDS25xOVlGYXR4UE5VZUk0VWhXQlJaVzI0TEZyaTZFNWJfRy03UFMzYllnLU56?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "22:17",
-          "title": "楚天龙(003040):子公司管理制度（2026年8月） - 中财网",
-          "summary": "楚天龙(003040):子公司管理制度（2026年8月） 中财网",
+          "time": "22:01",
+          "title": "洛轴股份获多家企业战略投资 - 搜狐网",
+          "summary": "洛轴股份获多家企业战略投资 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1RUVMwbWl6MEwzWTl0alFIUzlxbTJsQmM5ejhKZzQ2ak1fRE56UEdWanNPSER4ZG9LZ0ZKeklZbjJONE10dm1pcno2MExFM2VyWWZvZ2hR?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNREMzU0lkX0NtMWdlQ3ZFeUJUT3NoTllaazNwUDJjSldjejFxQkxLeHdFWXFtRFdnZkpvNk5kOHI4R2pRSkxEdzZxRVkzb0tyY2szYjNXMjMxNzZRWTFzdU1BcE5NbFFxZjlOMHNBZmdaU1RqbkxsS2IxSzM4c3o0ZTYtNXVkaTkw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "独家丨任少卿创立具身公司，蔚来将成新公司战略股东 - 手机新浪网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vb1hKTEU5UXF1Y2lTMkRzcnRVQUhtLVJHUmFhVm1UY19XdlR5a0tFRWlJMmR5RExfZXdZUVJnRC0zUXFwRi1UOGlpU1Zyd09OckFSTXU0cmw5bmpobWktSWpOMTVYNnctRFEtb1pnNEZQUQ?oc=5"
+          "text": "ST信安(688201):深圳市他山企业管理咨询有限公司关于北京信安世纪科技股份有限公司终止实施2025年限制性股票激励计划暨作废限制性股票事项的独立财务顾问…",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pTTZHMXpIX3J4QVViZjBxNmo4c1h2UU9kV0Zqc3lYUTdMZnpCalBUQ243Z01uRkZhaDBoenhrWGVOaTZDWk5iU1dqcXozY3ZEamdvLUh3?oc=5"
         },
         {
-          "text": "追觅宣布调整公司战略：资源向四大主营业务集中 - 搜狐网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNzZDdHlrN2llamVWbm82QTM3Sk8wUkVwRXdkZXVoRHBCN3FMUU5GakFjQjhwRGNUc2RldGpKZ1RmZDdTeHN1b0w4NS1UalNvR3dlVVFSOWJsREFLdWRON0JzOHVQbWRBMF9yb1VZblROdi0zbDdORE1fTHdDUUJ5Slg0MDFCZ1gw?oc=5"
+          "text": "诺力股份(603611):诺力股份关于修订公司管理制度 - 中财网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VYi1VNVZLaUNzdjVSSGVKQ0tBUDB6YzB4V2pvNUtGcTEwYWVEaExBbWFmZ2RBdk51eGkzbjdvZS0xYk5xYlVHVFkzcDhqVUxmY2F3R0tn?oc=5"
         },
         {
-          "text": "不再“摊大饼”！追觅宣布调整公司战略 - 新浪财经",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wVlpBS05Wc1I4M2tudWFVR0tNTHoxdGk1SFdkRTNOV0tKV2hlcnNNVXA1OW5FVlgzMzNKMmJmYTE2MkFUbXhCRUhUNjMzWlVpQWxiVmpwZzdyMTF0eV9zY29WOGlvOEtJZVJEM2Z3dWQ0VmduS3poZg?oc=5"
+          "text": "乌克兰总理要求监督委员会加快重组国家核能公司管理层 - Межа. Новини України.",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HRkxmMGJjLVlwaHgyYlZpOUZjX2U3TXVKajVZT1FZcjhSa0dObXFjZGVnalBJdVM1by1pSXcwakE3ZnVCd09VWDRzd1M0YU5Mck5LSWVaNnNQQlZJdHF2SjVtQ3RiS3pLZUdyNmxB?oc=5"
         },
         {
-          "text": "追觅科技：关于公司战略聚焦及业务发展的说明 。 - 手机新浪网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWUhJMkdNd0RibjMzUGlfeDd5WkM1LW1iUWJITzRiNkRWdllkbjN0OHdHYW9VdFJLT0h2SEktYXJwTEZyd0lxZDVWSG9pU3VySVlTZUp6WV92TGVyUWhod1NneTBrbjNlUmFNUWRCRXNDYkxWUkVxZllTZW02aF9oUmxLaw?oc=5"
+          "text": "谢贤谢霆锋无商业关联 - 新浪网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNEpJQ0JYQTEtUDhjTnpNZ2hrMjNCbnpMaTRRdVJJYnd5VXRQamh4d09xYWtOU0MtNVlhSUxlOU9WZjVVMnk2YWtPRGN4cVZxSU8yc2x4Vmo1ODV1Rlh2Vy1fa3M2OXo2dGwtVDhVN0FDTzI3R1U2SnpwSjJWcUVuVEFVZHE5dkxXSGJvbHVGVFBQSmJYUmNmQ3JKM3FmTlJad0pmNDdPTQ?oc=5"
         }
       ]
     }
