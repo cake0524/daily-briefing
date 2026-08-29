@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月28日",
+  "publishDate": "2026年8月29日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "中国汽车市场迈入“新能源主导”新阶段 - 星岛环球网",
+      "title": "哪些新能源车核心部件最值得投资？ - 搜狐网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Aid reaches hundreds of thousands in Ga…",
+      "title": "Four children killed as separate attack…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "14:41",
-          "title": "中国汽车市场迈入“新能源主导”新阶段 - 星岛环球网",
-          "summary": "中国汽车市场迈入“新能源主导”新阶段 星岛环球网",
+          "time": "11:52",
+          "title": "哪些新能源车核心部件最值得投资？ - 搜狐网",
+          "summary": "哪些新能源车核心部件最值得投资？ 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15VTFRVTJoeXBHS2w5V1l1dEdOS0J4RkJ5dXlEanRZbHExSUY5d1BpcTJDektfRU1CdW51ME1BbjlzZHFCUmhQOS13eUFCZzBHbEFweGhVenRHYndNQ21qQW5MQnc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzJ6RHFlYXY1ZVJsUFFDU1pGdDFLNi15SjBvVHU1LTh5VmxLY1ZNc2w5VC14RmZ6VnpUSUxnTDQwbURhS2g3aU90NG5hQmFYcmh6amVoMjFESkNNRUJHaVBkRTc3V2lfOUhPXzZNSUZKNTBtWTlWOVFEZDh6NDg3Z1ctZy1KT2Mx?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "14:36",
-          "title": "【视频】新能源MPV最难解决的问题，这台全新E8 PHEV给出了答案 - 汽车之家",
-          "summary": "【视频】新能源MPV最难解决的问题，这台全新E8 PHEV给出了答案 汽车之家",
+          "time": "11:46",
+          "title": "【视频】21年上牌牧马人新能源，个人一手实表 - 汽车之家",
+          "summary": "【视频】21年上牌牧马人新能源，个人一手实表 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzQTc0OEZ4Yk9SajZxQWgzV0hseE1jWkdUUjhkRHJGYTNZU2p3S25EVXUtVENjbHZkZ2NXSi1KV09lbUlTd291dkZyN0tfekh6amFpTHdvWjkyLUFuTHJNNU1JYjBuSGJMR0hZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pSTlLT2wtSWdsVFloZHo4Sy1CRUdMclk4ZjVsTEl2SWdwcUM3TU95dlpSWnhoQWh3aVhsNkhieW90VDlVZjBEa0JoVEo5eUtLc1Z5OE1BaUQ5NU0?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "吉利发布AI新能源越野技术 银河战舰700为首款落地车型 - 搜狐网",
+          "text": "10-15万适合年轻人的B级新能源轿车推荐：秦MAX如何用越级空间与闪充技术重塑选车标准 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94TTVFczZPcnlzbVI4UDFVUlV0SFBGVnlqWFMyQjg4a1ppNVRGWXhMdXZRbGRQNzdQaExneUNYd000WThnX0VFQ0VuUS1idFpLNXFwTjFIeFZFZG9sOGVUZzhlcXRJVjBXU3Y4aWZRV0NYT0RBRWNqUXRSZDN6VUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZLXVrekgxY2poR2RJQlhESDc2TTVMSHNWM0tURkphNG14dzFQcFdjN0NiSkJleEtrZEUxajZMTFVPTDBhbzNVTFBBQllYTmxQSVQ1VU5oSjJyOUNaRzZESDFvd2hfTXRkbUFxamxsVHg2QQ?oc=5"
         },
         {
-          "text": "东风股份发布2026半年报：转型见实效，新能源销量同比增长99.2% - 新华网",
+          "text": "新能源车技术迭代快为什么影响投资？ - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGhNSk1NQUJSNmtZWS05bVBhbUV2M3FZcldDOHJ1SEFpZXNmX0EwQ2QydEdtUzNlNHRtSEpQVWJCUFoyN0UzSG0ydVpVN1g2TUhHZFExVTM1eVp3MjZVOVNyT3JrQ2VYTDdYYkhPNTF6a1NHd3JrbEVsWGtqN0dwZnlEMUI?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGFxbHIycUFTSkhEblBlbFQyX0hfdHFRc0FGeUJWYXhJU3A5VnNrMFVIb19uaGVZeVdpeTRuTG5oMld4eVpSMHdOR3k0X0ZveHM4elhhTFRvcjhhc1JJUXpZTEctbTg0Ql9NcDRIYUFhY0xGbVdBSEZmQThkeXM1YlJWS2xBdDRW?oc=5"
         },
         {
-          "text": "2025年全国4961家4S店退网 新能源品牌占新增门店56% - 观点网",
+          "text": "国家电投北京公司新能源类REITs在深交所成功发行 认购倍数2.54倍 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfSUVDOE9zdFFST3R4LWFrZF80OTEzT0pzZmRlellPRVhrakp6V2x4Z0RRUlBVekNzUG45TGxHTlhiMmF1UmN5cW1WR1AtSXdCUElnNzEwYWRjcVdZeDdKQVFn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS28ybnNIQmY2YTZFMTB1cnctR0JrbkNoT1dsenNpa0JIQ3lEOEtHLVJCaDFVWmI2aTlrSV9lc1JxOXdIMTFja2xpaDhFNURmZG9hRkJGSnpPVXAtOTVzbGNFYk1wTW0tUmJyZkxueENURnlpZ0hzREZwaWhKRURxY1pBN3NhT3dzSnV1ekRycUhaX3kzWEE?oc=5"
         },
         {
-          "text": "新能源市场太卷了！比亚迪万座闪充站落地，1500kW超充让竞品慌了？ - 网通社",
+          "text": "新浪网· - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NVEZtR1BqNXM1aU9ibWx2aVNsYlRmMUFYdG9tRHQ4elJZU2Q4OElrUWRLdjNadXdMOHZXSGFjRlVncFdnT3pLMVpXNVFSd0x0Z3FmbVlVTFNUQ2s?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BbWRvX2tLLWVIMGc3VmI4c0JSX1NNdUxkdlUzZWJKUGxRNWVKM19JZ3JmckRSNVc4bWhteW9SOUpCWDcyNXY0bWllQ20zNEw5R0pEamUzR3BoVEVVemg3VEZDQQ?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
-          "summary": "As hunger deepens across Gaza, humanitarian agencies continue to deliver food and other essential supplies to…",
+          "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
+          "summary": "Israeli attacks killed four children and destroyed humanitarian aid supplies in what turned out to be a deadl…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168220"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168229"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
-          "summary": "The seizure of a vocational training centre in occupied East Jerusalem has left hundreds of Palestinian young…",
+          "title": "As the Himalayas melt, deadly floods become the new normal",
+          "summary": "A day before a wall of ice, rock and muddy water tore through Himalayan valleys along the Nepal-China border,…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168219"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168227"
         }
       ],
       "briefs": [
         {
-          "text": "UN chief condemns “indifference” as Ebola cases mount in DR Congo",
+          "text": "Security Council LIVE: Deadly gang attacks spike in Haiti",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168217"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168222"
         },
         {
-          "text": "Lebanon: Civilian risks grow as military activity continues, UN says",
+          "text": "WHO reports more than 3,200 attacks on Ukraine’s healthcare system since full-s…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168215"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168226"
         },
         {
-          "text": "Security Council LIVE: Tracking Syria’s transition",
+          "text": "Risks of child recruitment by armed groups rise in post-quake Colombia",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168214"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168224"
         },
         {
-          "text": "Shock and devastation remain, a day after Himalayan flood disaster",
+          "text": "‘Immense impact’ of Nepal flood disaster highlighted as casualties mount",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168213"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168221"
         }
       ]
     },
@@ -170,24 +170,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:01",
-          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-          "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that need…",
+          "time": "14:00",
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "10:00",
+          "title": "Supporting Thailand’s next generation of AI startups",
+          "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education start…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between…",
           "source": "VentureBeat AI",
           "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
         },
         {
-          "priority": "重点看点 02",
-          "time": "20:01",
-          "title": "When agents act on their own, governance has to live in the data layer",
-          "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across sy…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "When agents act on their own, governance has to live in the data layer",
           "source": "VentureBeat AI",
           "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Better answers, broader thinking: What students gain from ChatGPT and critical-…",
           "source": "OpenAI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "Expanding OpenAI’s presence in Brazil",
           "source": "OpenAI",
           "url": "https://openai.com/index/expanding-our-presence-in-brazil"
-        },
-        {
-          "text": "The inside story on why OpenAI agents hacked Hugging Face",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-        },
-        {
-          "text": "Orchestration is the new challenge for CX in the age of AI agents",
-          "source": "VentureBeat AI",
-          "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:00",
-          "title": "The U.S. is Building CHIPS Act Fabs but Neglecting R&D",
-          "summary": "On 6 August, the U.S. Government Accountability Office (GAO) released a report on the state of the 2022 CHIPS…",
+          "time": "01:49",
+          "title": "Open-Source Benchmark Suite For 2.5D/3D Heterogeneous Integration Research in Physical Design (UCLA)",
+          "summary": "Researchers from University of California, Los Angeles published a technical paper titled “An Open-Source Ben…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/open-source-benchmark-suite-for-2-5d-3d-heterogeneous-integration-research-in-physical-design-ucla/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:15",
-          "title": "Issues Stack Up With More HBM Layers",
-          "summary": "Hot Chips 2026: Thinner dies, more TSV area, thermal dissipation, and limited manufacturing capacity make HBM…",
+          "time": "01:41",
+          "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
+          "summary": "Researchers from Georgia Institute of Technology published a technical paper titled “Thermal Tuning Overhead…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/issues-stack-up-with-more-hbm-layers/"
+          "url": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech/"
         }
       ],
       "briefs": [
         {
-          "text": "From Spec To Formal Properties",
+          "text": "Generative Design Optimizes Liquid-Cooling Channels For 2.5D And 3D Packages (U…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/from-spec-to-formal-properties/"
+          "url": "https://semiengineering.com/generative-design-optimizes-liquid-cooling-channels-for-2-5d-and-3d-packages-um-dearborn/"
         },
         {
-          "text": "Agentic AI Success Relies On Excellent Human Scaffolding",
+          "text": "Sapphire Surface Modification Enables Wafer-Scale 2D Semiconductor Growth (Peki…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/agentic-ai-success-relies-on-excellent-human-scaffolding/"
+          "url": "https://semiengineering.com/sapphire-surface-modification-enables-wafer-scale-2d-semiconductor-growth-peking-u-cas-et-al/"
         },
         {
-          "text": "Planning Your AI Design Journey: Start With What You’d Lose",
+          "text": "Deep Learning Automates Parameter Extraction For 2D Transistors (Stanford, SLAC)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/planning-your-ai-design-journey-start-with-what-youd-lose/"
+          "url": "https://semiengineering.com/deep-learning-automates-parameter-extraction-for-2d-transistors-stanford-slac/"
         },
         {
-          "text": "How Cache Coherency Simplifies AI Software",
+          "text": "Chip Industry Week in Review",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/how-cache-coherency-simplifies-ai-software/"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-153/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
-          "summary": "As hunger deepens across Gaza, humanitarian agencies continue to deliver food and other essential supplies to…",
+          "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
+          "summary": "Israeli attacks killed four children and destroyed humanitarian aid supplies in what turned out to be a deadl…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168220"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168229"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
-          "summary": "The seizure of a vocational training centre in occupied East Jerusalem has left hundreds of Palestinian young…",
+          "title": "As the Himalayas melt, deadly floods become the new normal",
+          "summary": "A day before a wall of ice, rock and muddy water tore through Himalayan valleys along the Nepal-China border,…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168219"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168227"
         }
       ],
       "briefs": [
         {
-          "text": "UN chief condemns “indifference” as Ebola cases mount in DR Congo",
+          "text": "Security Council LIVE: Deadly gang attacks spike in Haiti",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168217"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168222"
         },
         {
-          "text": "Lebanon: Civilian risks grow as military activity continues, UN says",
+          "text": "WHO reports more than 3,200 attacks on Ukraine’s healthcare system since full-s…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168215"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168226"
         },
         {
-          "text": "Security Council LIVE: Tracking Syria’s transition",
+          "text": "Risks of child recruitment by armed groups rise in post-quake Colombia",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168214"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168224"
         },
         {
-          "text": "Shock and devastation remain, a day after Himalayan flood disaster",
+          "text": "‘Immense impact’ of Nepal flood disaster highlighted as casualties mount",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168213"
+          "url": "https://news.un.org/feed/view/en/story/2026/08/1168221"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:55",
-          "title": "柯恩：斯密-熊彼特增长模型在企业战略中的应用 - 新浪财经",
-          "summary": "柯恩：斯密-熊彼特增长模型在企业战略中的应用 新浪财经",
+          "time": "00:53",
+          "title": "日辰股份(603755):青岛日辰食品股份有限公司战略与可持续发展委员会工作细则（2026年8月） - 中财网",
+          "summary": "日辰股份(603755):青岛日辰食品股份有限公司战略与可持续发展委员会工作细则（2026年8月） 中财网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9fZVg2UUd4dzhrZjRiVmp3bmNqZWlzXzlOaGhUQlg2VEZYOERIWkJiYkw3bHI0c2xQcWlLWlZYQkd2ckdadlFyOFYtTUFMcC01YXZWNDIwRktQS3Rnb2VUZDBJdmh2N0FvSTgxYnNlOXFmcGVsby0wdA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lMHJ4YlVFcE5uY2Q3TlYyXzM2cGxvZnVQbjNneVBUYVIzakJXUlUxeldWVmpqUkhCYmQ4c1NKNGxiNXFTd0VvRmlwbUg4SWxHQmVWOHV3?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:42",
-          "title": "唐源电气(300789):子公司管理制度（2026年8月） - 中财网",
-          "summary": "唐源电气(300789):子公司管理制度（2026年8月） 中财网",
+          "time": "19:55",
+          "title": "中草香料：怀远亿达康企业管理咨询合伙企业（有限合伙）持股比例减少0.10% - 东方财富",
+          "summary": "中草香料：怀远亿达康企业管理咨询合伙企业（有限合伙）持股比例减少0.10% 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxQnFwTHV2ZnVQTldvbWFGZVdKOGF5ejRka2xhZTJ1ek9UU1NlcmxrMUd1R0g5VHJIWERYYmxLazg5TzZXeVZ1eDJWcXpmd0w0OVY5cktn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yRTJkMkViSHRJZkUwai1sd3Q2allvLVZYUFBPSHJyb1l4U2hfd0N1QWNuZ1llUHZwVVRXcVdxY3VRX3N3U2RxMTJmV3FCSDVpWnhyY2tJZzJ0QW9oVUZj?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "金煤科技（600844）股东内蒙古金睿泓吉企业管理有限责任公司质押1050万股，占总股本1.03% - 财富号",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3UDZocjhGMFVCOENHQ3NnWGx2TFpFOEE4bVFiMVo0OER0blZXcmNlNkdKWUVMYjZzdVBOcVMwSzE1WFNvdjlxd1A1Q3VSMkNiZmtCdjRlbUxzUTA2a3lLT1FLdERCM3JsdDBj?oc=5"
+          "text": "中电海康集团有限公司战略合作签约暨江苏省小微特具身智能重点实验室（筹）启动仪式在无锡举行-南京大学 - nju.edu.cn",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWDF3Sl9Ca21vQUY1bHpyZFdPZDRGY0dMSHhhdlp0VVRpVGJlT053RDNUenBMUGd2ZThscHhwWlRzSUxoQ0lfdWhtRmo2V2pjZElNdm1B?oc=5"
         },
         {
-          "text": "天元宠物(301335):《分子公司管理制度》（2026年8月） - 中财网",
+          "text": "浙富控股(002266):子公司管理制度（2026年8月） - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pOG52aHJDeTNfTXB4eEoxS0VSNHkzZ1lDSnBwU3lRQklCWW1pNHVPY2FZRlhXa1JoSDQzcV9hT0hKOHpqTFBKNWhtTnFGaEFZVTlKMTRB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WVmk0LUlZcDZscW9LZnYxOFVoQ3Vua1BkeHZSdmFVelNubFBvZDVJT2did0hPT1Y0djk1cGJXQTJwU1FIUUJoWEVveHNHZTM1Zm9wUmhB?oc=5"
         },
         {
-          "text": "元利科技(603217):公司股东名称变更 - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tVWtJMVVjYjVydVVnV0hqblBOOGIxZlFHZ25rckIyQ0ltNHgxN2VNcG1zSG5ObDBTdHU0d1BwRXMtd1B5V1hxYU1sNFRaWkt6RFNDM2Rn?oc=5"
+          "text": "白俄大宗商品交易所拟在中国大型企业协助下搭建商业分析系统 - 白俄罗斯新闻",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByMTBIVC1fWG5MSnNFNkRHSW5Uc2kzWFp3eEhNQXl3UlNPSGpUZ3g5UTFKQ0RLNThMd3oyWmJ6b0VtdGlhUmZCNXpGODVhNlA1VkNmSy1hdXk4clRv?oc=5"
         },
         {
-          "text": "富特科技(301607):授权公司管理层启动公司境外发行股份（H股）并在香港联合交易所有限公司上市相关筹备工作的提示性公告- CFi.CN 中财网 - 中财网",
+          "text": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXVFNQa2lubVlEX0dOdExOUXV2b0VNV3VqZzJUTk1oTFhkR3BTZ0c2cGZxX2Q2ZlNiQW91MFVEa0JFVE16NDh6OV9NUkUtV09Sa0U0U0hn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMC14ZVkwRFo5UF9wLXFqRUw2MmhBdnBhWmowSG5JSHpnY2RleTdUZlJLZVZTdHQyRmd5aHdHZ1JGWVhoa2RZTzFBTE9fdW1OcnlUVHpRczBLUi04eDkzNU44MXJwSHhKeVdrd2RRNmlST0l5RkxuQi1TNzhxUWhQWDRtY1hnVjdicFl2Zl9QamZYaGF5NmdNdDlPc3VveFNsTWdsbVUyNy15aWNjV3hqZTAyVERQbGdsT0pta3RsdWJ6dnA4TXVqOFZuTHgtV0lBTGliRkxFTWJpc1U0akc1X3daNkJheDM4a0JfenEzczdBcUNKWDduNld3NXdJNW45LVFvT0lfYUtSdXcyWkE?oc=5"
         }
       ]
     }
