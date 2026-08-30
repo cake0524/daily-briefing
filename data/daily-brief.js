@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年8月29日",
+  "publishDate": "2026年8月30日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "哪些新能源车核心部件最值得投资？ - 搜狐网",
+      "title": "中国新能源公交车驶入比什凯克市民日常 - 新浪新闻_手机新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "11:52",
-          "title": "哪些新能源车核心部件最值得投资？ - 搜狐网",
-          "summary": "哪些新能源车核心部件最值得投资？ 搜狐网",
+          "time": "09:09",
+          "title": "中国新能源公交车驶入比什凯克市民日常 - 新浪新闻_手机新浪网",
+          "summary": "中国新能源公交车驶入比什凯克市民日常 新浪新闻_手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQzJ6RHFlYXY1ZVJsUFFDU1pGdDFLNi15SjBvVHU1LTh5VmxLY1ZNc2w5VC14RmZ6VnpUSUxnTDQwbURhS2g3aU90NG5hQmFYcmh6amVoMjFESkNNRUJHaVBkRTc3V2lfOUhPXzZNSUZKNTBtWTlWOVFEZDh6NDg3Z1ctZy1KT2Mx?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NMHJTdEdwVkM1RjZuYVcyZngweHI1VDd1Y2lEN25fQjNmdkh2aVRQbm9KdThtam1TYTN5RUM5ZWU4TmhHWlBqWkZnRG1KMkIwUEJmdnpaaVVOX1oyUVhNMGw1aEhud3RKbTVCQW4tTEVhYTNKeklXYkl3?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "11:46",
-          "title": "【视频】21年上牌牧马人新能源，个人一手实表 - 汽车之家",
-          "summary": "【视频】21年上牌牧马人新能源，个人一手实表 汽车之家",
+          "time": "08:51",
+          "title": "京津冀新能源汽车与机器人前沿赛道精准对接 16个优质项目集中路演 - 人民网",
+          "summary": "京津冀新能源汽车与机器人前沿赛道精准对接 16个优质项目集中路演 人民网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pSTlLT2wtSWdsVFloZHo4Sy1CRUdMclk4ZjVsTEl2SWdwcUM3TU95dlpSWnhoQWh3aVhsNkhieW90VDlVZjBEa0JoVEo5eUtLc1Z5OE1BaUQ5NU0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mN25TYTFCT3FWTFBMX3lkZVhDY3ZyUHdqYzFHOXlaOXJoZjRPRUtndWpXRzV4blo3cUFYSFBFN1hzNnR6NVVHdW9qZzNBWmsyQXpETWl1YWw4elZVT0F6WDlUNi02ZGI4?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "10-15万适合年轻人的B级新能源轿车推荐：秦MAX如何用越级空间与闪充技术重塑选车标准 - 新浪网",
+          "text": "德国制造业PMI创51个月新高，为什么工厂还在关停裁员？ - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZLXVrekgxY2poR2RJQlhESDc2TTVMSHNWM0tURkphNG14dzFQcFdjN0NiSkJleEtrZEUxajZMTFVPTDBhbzNVTFBBQllYTmxQSVQ1VU5oSjJyOUNaRzZESDFvd2hfTXRkbUFxamxsVHg2QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZy1VNTJBRHFUMzE3cWFINURMSHg3TVlRWTVma2F1VzhZQzRGZWlkUGZKRnA1ZGF6SXVyNG5PV183RTk2TkdUa1hMUVgtSXpteVN5MVZDSkxCQ1JtQzlUd1BRREVYcGdMQV9jUXdGamZha2gybDdXN3B4ZkdzTUgtVTJqM3p6dERib3J2bg?oc=5"
         },
         {
-          "text": "新能源车技术迭代快为什么影响投资？ - 搜狐网",
+          "text": "工信部：新能源汽车非理性竞争的问题不容忽视、不可回避 - finance.sina.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGFxbHIycUFTSkhEblBlbFQyX0hfdHFRc0FGeUJWYXhJU3A5VnNrMFVIb19uaGVZeVdpeTRuTG5oMld4eVpSMHdOR3k0X0ZveHM4elhhTFRvcjhhc1JJUXpZTEctbTg0Ql9NcDRIYUFhY0xGbVdBSEZmQThkeXM1YlJWS2xBdDRW?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWGFtcFZHbUZ5YTRWbHBlRWJiZFNpTHFHX1dVbXJlWm9GOXVWY2UzSFc1ZF80SnUtZ3BlUTdESUlaVnM1ZWFZcVJmTEwxblppeEZSZ25IclhKN2RZaXBleDJTSGFVbEViVDJkOFlxbTMyYzhPdmV2N1phbGg4VmpRUmQwVTBFQXZ5djA0cC1nOVIyQlo1bXBjdQ?oc=5"
         },
         {
-          "text": "国家电投北京公司新能源类REITs在深交所成功发行 认购倍数2.54倍 - 新浪网",
+          "text": "西安开展新能源汽车消费礼包申领活动 - finance.sina.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS28ybnNIQmY2YTZFMTB1cnctR0JrbkNoT1dsenNpa0JIQ3lEOEtHLVJCaDFVWmI2aTlrSV9lc1JxOXdIMTFja2xpaDhFNURmZG9hRkJGSnpPVXAtOTVzbGNFYk1wTW0tUmJyZkxueENURnlpZ0hzREZwaWhKRURxY1pBN3NhT3dzSnV1ekRycUhaX3kzWEE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdTJ4TjNaaWZ0Sms4UDVndFBFMUp3OTEtRlhqOE9EeDZkTkJpSkVqSDdDVGpzYUd1YlpmX1Rsa2RoVXp1VTQ2VWxoTlc2LTl1dndadXFFdkpDZmRqUU5jYmNLNmoxN3dxQThyRHJhTzlJNEJoWk01NktURWFPSlVMZlF1YzA3TFRoamJmai1YY2hsMUxoSFpCRw?oc=5"
         },
         {
-          "text": "新浪网· - 新浪网",
+          "text": "长安汽车上半年：出海提速、技术加码，阿维塔再冲IPO - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BbWRvX2tLLWVIMGc3VmI4c0JSX1NNdUxkdlUzZWJKUGxRNWVKM19JZ3JmckRSNVc4bWhteW9SOUpCWDcyNXY0bWllQ20zNEw5R0pEamUzR3BoVEVVemg3VEZDQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaEtpbUJJd1h3OVUycTVKMUthTE5KZEtYNjM0NGFXUGR3UGg3QjItdkpjbFpYVlNYMUJrTnVYaUhZcjVvTEczaEJ5SFR2NGp2Ul81cFBraXdiODlvclF2VHM1QzBNREw5OWRmazdjVHdKcU1HNktBWDNFVUxVU3lxVFpR?oc=5"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:49",
-          "title": "Open-Source Benchmark Suite For 2.5D/3D Heterogeneous Integration Research in Physical Design (UCLA)",
-          "summary": "Researchers from University of California, Los Angeles published a technical paper titled “An Open-Source Ben…",
+          "time": "23:00",
+          "title": "The U.S. Is Building CHIPS Act Fabs but Neglecting R&D",
+          "summary": "On 6 August, the U.S. Government Accountability Office (GAO) released a report on the state of the 2022 CHIPS…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/open-source-benchmark-suite-for-2-5d-3d-heterogeneous-integration-research-in-physical-design-ucla/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:41",
-          "title": "Ferroelectric Tuning Reduces Optical-Interconnect Stalls In LLM Training (Georgia Tech)",
-          "summary": "Researchers from Georgia Institute of Technology published a technical paper titled “Thermal Tuning Overhead…",
+          "time": "21:00",
+          "title": "China’s Grip on Erbium and Yttrium Could Choke Data-Center Growth",
+          "summary": "There are 17 rare earth elements. While almost all of them have vital industrial uses, you could be forgiven…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ferroelectric-tuning-reduces-optical-interconnect-stalls-in-llm-training-georgia-tech/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/rare-earth-shortage"
         }
       ],
       "briefs": [
         {
-          "text": "Generative Design Optimizes Liquid-Cooling Channels For 2.5D And 3D Packages (U…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/generative-design-optimizes-liquid-cooling-channels-for-2-5d-and-3d-packages-um-dearborn/"
+          "text": "Building Technology People Can Trust",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms"
         },
         {
-          "text": "Sapphire Surface Modification Enables Wafer-Scale 2D Semiconductor Growth (Peki…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/sapphire-surface-modification-enables-wafer-scale-2d-semiconductor-growth-peking-u-cas-et-al/"
+          "text": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors"
         },
         {
-          "text": "Deep Learning Automates Parameter Extraction For 2D Transistors (Stanford, SLAC)",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/deep-learning-automates-parameter-extraction-for-2d-transistors-stanford-slac/"
+          "text": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation"
         },
         {
-          "text": "Chip Industry Week in Review",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-153/"
+          "text": "Exotic Quasiparticles Promise Next-Gen Interconnects",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/topological-material-nanowire-interconnect"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:53",
-          "title": "日辰股份(603755):青岛日辰食品股份有限公司战略与可持续发展委员会工作细则（2026年8月） - 中财网",
-          "summary": "日辰股份(603755):青岛日辰食品股份有限公司战略与可持续发展委员会工作细则（2026年8月） 中财网",
+          "time": "00:30",
+          "title": "市场监管总局对上海奔汇企业管理有限公司罚款200万元 - finance.sina.com.cn",
+          "summary": "市场监管总局对上海奔汇企业管理有限公司罚款200万元 finance.sina.com.cn",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lMHJ4YlVFcE5uY2Q3TlYyXzM2cGxvZnVQbjNneVBUYVIzakJXUlUxeldWVmpqUkhCYmQ4c1NKNGxiNXFTd0VvRmlwbUg4SWxHQmVWOHV3?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaTNWUVpnZlBKTzUyejBhZXpoZURobklqTjRJNkJsLUlMenFWRjZDczEzYjNUdWs0U2VZaS00a2xtSVFmUmJycWVtZmlvSlB0aDV5TU9PNUQ1TjdGQkRBOS1lNzR2X1VSdVlqQi1jRG5nelVOaFhkbk1kWkt5OFNfVHZPNHctZFRJbjFzSk9fbFVWdk94VGZFTU5CaWJZY2RBcjBzdGhQdHZDOEhacTY2TDlDNzNtb1JCSmFkT3RhRWM1bUdmRV9iVDQzcnVRcEZ3dkJlZFV0RXZiajFVdXRWTVdWeE5oYU5qalo4Nm9qeUtGQ18xTVE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:55",
-          "title": "中草香料：怀远亿达康企业管理咨询合伙企业（有限合伙）持股比例减少0.10% - 东方财富",
-          "summary": "中草香料：怀远亿达康企业管理咨询合伙企业（有限合伙）持股比例减少0.10% 东方财富",
+          "time": "19:07",
+          "title": "机构风向标 | 传智教育(003032)2026年二季度已披露持仓机构仅6家 - 东方财富",
+          "summary": "机构风向标 | 传智教育(003032)2026年二季度已披露持仓机构仅6家 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yRTJkMkViSHRJZkUwai1sd3Q2allvLVZYUFBPSHJyb1l4U2hfd0N1QWNuZ1llUHZwVVRXcVdxY3VRX3N3U2RxMTJmV3FCSDVpWnhyY2tJZzJ0QW9oVUZj?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBndXpSOGZaUUg2a1IzQ0g5NHAxbnJsQVJ6b0pSTjE0ZVFqSzJYbzcyeDg2S3hlakE4SEJRN25kcU1UU1ZfNWtFbkxZUHd1OEJwUGNvcTR5SDROeUV3ZXVoTjBNMWg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "中电海康集团有限公司战略合作签约暨江苏省小微特具身智能重点实验室（筹）启动仪式在无锡举行-南京大学 - nju.edu.cn",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LWDF3Sl9Ca21vQUY1bHpyZFdPZDRGY0dMSHhhdlp0VVRpVGJlT053RDNUenBMUGd2ZThscHhwWlRzSUxoQ0lfdWhtRmo2V2pjZElNdm1B?oc=5"
-        },
-        {
-          "text": "浙富控股(002266):子公司管理制度（2026年8月） - 中财网",
+          "text": "Catherine辞去GOTO副总裁职务，公司管理层回应 - idnfinancials.com",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WVmk0LUlZcDZscW9LZnYxOFVoQ3Vua1BkeHZSdmFVelNubFBvZDVJT2did0hPT1Y0djk1cGJXQTJwU1FIUUJoWEVveHNHZTM1Zm9wUmhB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOV1lleVJCWWxyLVRBU2czNDJhdlFrZV9OVnluN2Zvc0J1MTZQVlptcG9EV19Oal8yWUN3cmxucXBNN2FWNWgwX1lpOTBTeG51ZGktQlltc2hLRGNVYi05UmRMSDFkcnZ5cDVvcG9BMUVnVkh2eTViaFlKSmI2QnNqbW1tNkhaWmQ4UmtoNXVQQVpTM3dfS21hdDRKODV2NVcxTDAtQzhnUUlCMnJpOUdhZVFsQXVDVG9HM0Jfa25YVmV3d29qMWRUa2IydDliNFRCb01pM3RRQndrc2hzM19zVnJvaHdVUEZ1Q29nVjZsVFVwUTNJMWp0S0o2QWNDd01tdzE0djhwbzM1OFdUbWFVQw?oc=5"
         },
         {
-          "text": "白俄大宗商品交易所拟在中国大型企业协助下搭建商业分析系统 - 白俄罗斯新闻",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByMTBIVC1fWG5MSnNFNkRHSW5Uc2kzWFp3eEhNQXl3UlNPSGpUZ3g5UTFKQ0RLNThMd3oyWmJ6b0VtdGlhUmZCNXpGODVhNlA1VkNmSy1hdXk4clRv?oc=5"
-        },
-        {
-          "text": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引 - 新浪财经",
+          "text": "机构风向标 | 神州细胞(688520)2026年二季度已披露前十大机构累计持仓占比74.84% - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMC14ZVkwRFo5UF9wLXFqRUw2MmhBdnBhWmowSG5JSHpnY2RleTdUZlJLZVZTdHQyRmd5aHdHZ1JGWVhoa2RZTzFBTE9fdW1OcnlUVHpRczBLUi04eDkzNU44MXJwSHhKeVdrd2RRNmlST0l5RkxuQi1TNzhxUWhQWDRtY1hnVjdicFl2Zl9QamZYaGF5NmdNdDlPc3VveFNsTWdsbVUyNy15aWNjV3hqZTAyVERQbGdsT0pta3RsdWJ6dnA4TXVqOFZuTHgtV0lBTGliRkxFTWJpc1U0akc1X3daNkJheDM4a0JfenEzczdBcUNKWDduNld3NXdJNW45LVFvT0lfYUtSdXcyWkE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1JZFNDeDV5UVBmNnBYbkkxY3o1bU9rSWtuUmFoRU5RZ3VpdERzWml4eWlOQ3VtdXVGRVZ2VVJHMFNpRWlsT1l5UjRCNi10NEZCUjhEVE5sUjBsRHZjcFZqOENlcW5rdw?oc=5"
+        },
+        {
+          "text": "中草香料：怀远亿达康企业管理咨询合伙企业（有限合伙）持股比例减少0.10% - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5INkprNGNHUDVKQkF6T0pDQUVzVTV0Y0I2QzExOWtyakN0eDNKU09YaEdqUXFzU3M3cDg2LWN2WmlyUnAzY2tXVHlWSnZZQzZWMG9pNWE1eG85V0ZKeGNPQg?oc=5"
+        },
+        {
+          "text": "华凯易佰：股东泗阳超然迈伦企业管理合伙企业（有限合伙）解除质押260.00万股 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54UUlXcTIxR3BhLVFLbm96V1EtSWRsdHR4ZnFleElIcGU0aS05US1mRlYwREM4TktlWTF6N0xaa1Z2X3Vxa2ZoOUw5ajhWRjduZDZvZEhMN2QtUml0eGxPZQ?oc=5"
         }
       ]
     }
