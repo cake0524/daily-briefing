@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月1日",
+  "publishDate": "2026年9月2日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "超8成燃油车主置换选新能源，汽车市场变天了？_精彩视频为您呈现_36氪 - 3…",
+      "title": "40万—50万元高端新能源MPV怎么选？智界V9成AI重点候选 - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:37",
-          "title": "超8成燃油车主置换选新能源，汽车市场变天了？_精彩视频为您呈现_36氪 - 36 Kr",
-          "summary": "超8成燃油车主置换选新能源，汽车市场变天了？_精彩视频为您呈现_36氪 36 Kr",
+          "time": "08:51",
+          "title": "40万—50万元高端新能源MPV怎么选？智界V9成AI重点候选 - 新浪网",
+          "summary": "40万—50万元高端新能源MPV怎么选？智界V9成AI重点候选 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13WGNxbDdKYk0xRW9ZdkpIU2pRM1dudkpOQWhsZUZzeUpiX1pwNHA3TURHaldpQjZIOFJVejB6Z1J3c1VKRzZWbGdCdzBvUTFjNGMyWVRR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RX0tvcWhTdnltOTRYMkZ5U3UwZFpPbFgxMHV3dGFZdHZBWjQwWUVodzhtdTFDVURXRnBzWUFyZ1ZnWVdxaFNSU3k3MDF1VGdLaU1SWVpQNGdmY1JvM3lKX0ZDRmVEVHFTYTY1c1JSR09BOXZRQXVLZTc4cEk5dUk?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:33",
-          "title": "【视频】新能源车充电，长期用快充，真的伤电池吗？ - 汽车之家",
-          "summary": "【视频】新能源车充电，长期用快充，真的伤电池吗？ 汽车之家",
+          "time": "08:46",
+          "title": "罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的 - Moomoo",
+          "summary": "罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的 Moomoo",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80a3JrcHVsUXV1cnh5MlZMbERFaW01YVI2aWFTNll3N0ItRzhHTllmZTRrODhrcGo4NzFRNUwtRGUzcVNGd3Ywa1llZDBjekhhSHJWSG96Nk5lZGZwRWw3RW14c2lCTkdiYjFz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QWnlzQ3FOTmdjZThNWW4yb0h6QkpWNWFmckQyR1VQZ0ZMZTkxUWJMOXBvc1ZPWDNydnZQeUxDSnhGaHV0RW8zTGp6T1JjZDNkR0UyWXZzajRtUQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新能源62.3%渗透率创新高，别被“数字幻觉”拖入深渊 - 汽车之家",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13VTZjWnNVakNlcTB0X3dEWHBPYl9lRkZYcVdua3pDSzhZRVRNVHBic3lFWGF0dUowbXdlbmdILXlTNTRaVXJPeUFNc0NTVGxOTWNWX2cwTnhVQ2Z2R1l4N2R3aVh3dk9oblFn?oc=5"
+          "text": "汽车早报｜比亚迪等发布8月销量 日产汽车与Honda签署联合开发协议 - 界面新闻",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44ajUtUGxUemU5S3h2SWJMNDc5VHRHcGpDcUFaREJEbUx4eklGZWJ0a0pCSmdWYWNsMDY2S2lfZUZvbmFaZW5WU0hhVUpueDlfbUJYU1ZYMmU?oc=5"
         },
         {
-          "text": "新产业催生进口新需求 中国“买全球”带动制造业订单激增 - 新浪财经",
+          "text": "小米汽车回应1230km实测续航：拒绝单纯堆料|新能源车|小米澎程|小米yu9|电池|能耗 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RQWVaTEZoSXVOa093MTBiUkF6MGppMy11VHpvMTdmb0dRamZKcVgwbFhqOUF4emZyd0lacllmMDhDdU1tNldwR0ozRUJnWFRDbk5vRkdBMFJwS3ozN0tTOWl4SFVlOWhqQnNHVjFvS19wMnluR2hPUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJjc2habUhKUlNkNEtMQlBZN3RCbDF1b0M0ako1a1pFeTVPVTJkTFdqak03NlNpX0xFUXlwcXM3cEs1d0d0Y3VBSjdaWi1PRTRwTkhPX3ZYNWFaNlRUVWJGb1hKbzdQOG1fWEtMV0pxYVQyTkVON1JwTmZtdjNHaWRsenAwcGVfTG1fWW5rM1B3WC16UEhiQmtDcU5WU2dTblgwRnNUSQ?oc=5"
         },
         {
-          "text": "涉及新能源、储能！京能国际与鸿德集团举行会谈 - 国际风力发电网",
+          "text": "新浪网· - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aV0JadnVjeU1SbWM5dG9YSG9yLXIzTWxDMk5ya1FvZE9lTTUwMDRuZWtTektqamJ1SDU5NXc5VThUMW94V0g5cWdVaklFYWVPdkNJS1ZwU2ZnUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sZGxEWTdlck9kNnVvNmVwbV9uTm5DODhuVFRyaEI3TmNkR093SkZKQldJMDFYLWhiMWtIdndVN3JxX1NjYmx5TFdoRFhQdlZTNE42NW1zWnkzSG9Ca0Rfc1BoWQ?oc=5"
         },
         {
-          "text": "追风逐光 山西省新能源装机快速增长 - Sohu",
+          "text": "中国8月非官方制造业PMI升至51.5 扩张加快 - 联合早报",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaGhSNmhzRkRVR3JOcDJvcDByaTNKdTc1YVhITl9LdnAwUGJaeGZUREdaZ2NuNDJHVjhBZmlqMDN2amVmM3cxMWlrNlF4OExKaXRWRnQ2OGg3RG9BcTE5UHpaZF9CSEVoOHpGd3RuNlREVS16WThrQldJdGN4X2V3LWM2ZVdSRzlFNWZYSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90Sk8yN2s3OGdEcU5Fc3kxWWlNUnNZNkR3VjFSWC1LUG1VVUFBc09wd2trdlNXRXI1ZFRlazd1LXh5dFZ3RWg3bmFPekVReHBGZnJkV3FDbXdhNjFvajNVMXpUUUtsVVA2dzNidWRn?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:00",
-          "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "time": "01:00",
+          "title": "How AI-native companies turn workflows into operating capability",
+          "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/ai-native-company-workflows"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:00",
-          "title": "Polimill builds Japan's next-generation public AI infrastructure",
-          "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge whil…",
+          "time": "21:00",
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparednes…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/polimill"
+          "url": "https://openai.com/index/path-to-astra"
         }
       ],
       "briefs": [
         {
-          "text": "A milestone in expanding access to AI",
+          "text": "Healthcare organizations can now connect EHR and additional industry data to Ch…",
           "source": "OpenAI",
-          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
         },
         {
-          "text": "Our decision on Cursor following its acquisition by SpaceX",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+          "text": "The Hugging Face hack could indicate cultural issues at OpenAI",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
         },
         {
-          "text": "Supporting Thailand’s next generation of AI startups",
+          "text": "OpenAI supports California’s bill to advance youth AI safety",
           "source": "OpenAI",
-          "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
         },
         {
-          "text": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between…",
-          "source": "VentureBeat AI",
-          "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them"
+          "text": "Polimill builds Japan's next-generation public AI infrastructure",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/polimill"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:25",
-          "title": "Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH Zurich, HUST)",
-          "summary": "Researchers at Huawei, ETH Zürich, and HUST published a technical paper titled “FLINT: Efficiently Leveraging…",
+          "time": "15:01",
+          "title": "The imec Report: Advancing The CFET-Based Device Roadmap",
+          "summary": "Part I: Novel integration modules and standard cell configurations. The post The imec Report: Advancing The C…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust/"
+          "url": "https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations/"
         },
         {
           "priority": "重点看点 02",
-          "time": "22:00",
-          "title": "The EU’s AI Drive Undermines Its ​Own Chip Strategy",
-          "summary": "This story was originally published by Tech Policy Press . The European Union’s push for technological sovere…",
+          "time": "15:01",
+          "title": "Research Bits: Sept. 1",
+          "summary": "Gallium nitride: High voltage; low resistance; diamond interposer. The post Research Bits: Sept. 1 appeared f…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/europes-ai-drive"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/research-bits-sep-1/"
         }
       ],
       "briefs": [
         {
+          "text": "Chip Industry Technical Paper Roundup: Sept. 1",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sep-1/"
+        },
+        {
+          "text": "Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust/"
+        },
+        {
+          "text": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/europes-ai-drive"
+        },
+        {
           "text": "Trust, But Verify",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/trust-but-verify/"
-        },
-        {
-          "text": "Photonics Forces A Chiplet Rethink",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/photonics-forces-a-chiplet-rethink/"
-        },
-        {
-          "text": "Hybrid HBM-HBF Architecture in LLM Inference (University of Oxford)",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/hybrid-hbm-hbf-architecture-in-llm-inference-university-of-oxford/"
-        },
-        {
-          "text": "M3D 6T SRAM With BEOL Pass-Gates at 2nm (Georgia Tech, Synopsys)",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/m3d-6t-sram-with-beol-pass-gates-at-2nm-georgia-tech-synopsys/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:22",
-          "title": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押459万股，占总股本2.23% - 财富号",
-          "summary": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押459万股，占总股本2.23% 财富号",
+          "time": "20:12",
+          "title": "中国信达等在北京新设企业管理中心 - 新浪网",
+          "summary": "中国信达等在北京新设企业管理中心 新浪网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2Vm9ac3YzTGdEQVlkbFhxeENwNXhzakdZeDRTWkRTQ3d0UlR6ckx2bTM2TnhyZGtfckJvNDk1YXBlTnp0aVphWHVFellZQ0tHWk9iSktxU05CdG00c1JmZEFSRlZDSUEwVmgw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HRG1OeTc4LWswLW01ZkROX1QyNXdTT0RtMFlLQ05KMms3WEdGTXdDVUNMYVlZMXNidDV0dDY4UmVRZ2Rod0ZlNHhsX3hsdWNwUUU5Zmw4ay1Takw1c3BZS1h0RW1TZFN2S0NSRVFNdDFtQQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "11:58",
-          "title": "【9.1论坛回放】《论语》与现代企业管理|北大|读书会|国发|国学|校友 - finance.sina.cn",
-          "summary": "【9.1论坛回放】《论语》与现代企业管理|北大|读书会|国发|国学|校友 finance.sina.cn",
+          "time": "18:15",
+          "title": "康惠股份：上海创响盈企业管理合伙企业（有限合伙）持股比例减少0.94% - 东方财富",
+          "summary": "康惠股份：上海创响盈企业管理合伙企业（有限合伙）持股比例减少0.94% 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZmtxNllNQ1FreGFUR0plZVBzelFXbVhnMjVCZHhtUnpNMU52T2thRXQ5eTdRenduWjlraFFLZzBaYmtzS05kSTBPQkVJeWJpUll2ZEk5U2ViUi1Wa1ByLU5nQlp3dXpvNW1fNXFrY3BWOXJYbzFucWVJR1pSRnU5ek1pZ3FaZnNoY2tLM2hwVl9lWjl2cjIySE50bS00TFJF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QWDF2aDBPaEVqVkVHZk8yeFByRm82VWNqMEFuOG9WblphZUxyUjZZUkYyODh0Z3JoOGFyRWlKMDBmd2dLeklfbFBOeFZxNDluM0djdGRSeFdhVW9Ua1dseVlFYVJCZw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "优秀的基金公司管理层都很稳定 - cj.sina.cn",
+          "text": "宇树科技员工爆料公司管理细节：百元报销都需要 CEO 王兴兴批，小到螺丝钉长度都亲自过问 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4takhoODFwUXh1M09hblE3aFFzaTBNRnV1OUpxNHBBeF9aOXpCaUhPSWZQUE1jc1MweXEydnN5dXd5MjZqNWY1SkVjbG1yWTA4cUxnZERzS2EwcUo0VFBlYU1oVmRuTGxxaWEtcl9B?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81amEyZDdtSnVsMXhnQ0NlZEFJd3hLbjdNb2RWN0czNzhSXzA4Q1YwMHF1a0VjM1VaU3JmbmRVQTY3VW84UXlhNFlYeGllb3ZTYnJjUU5ZQjNKQWlOb2thWDVNSVJCVFVkOU5RWndRMEgxelplUnBIRmM1dEdSWWs?oc=5"
         },
         {
-          "text": "中国东方资产等成立价值修复企管合伙企业，出资额20亿 - caiwennews.com",
+          "text": "金蝶携灵基亮相2026“828 B2B企业节”，定义AI原生时代企业管理新范式 - Sohu",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aQnlYODMtNUdiSXlyUkJTYzdUa2RneWVad0NsNkh4TThxZFVzUkhOVXZDREtOazRDdWRJTk5CSnhxZkV3RlNfdmFoZmdFMVB3cDB4VkkweVBKTTVv?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaF9PRGIyOVNacnYxQ1dXRUJqMmdQN2JoWjhlME1QNThScERnV055RUFCbjBlcjNUdzMxNGFPTEp1OWg5YlZuMGwxUm1jbVVfazZZb3pzQUlKd3ltWmUwcGUtenp3b1RxbnRfNG1sZTBwam9sdkV0ZUg5VUFzdEgxQXByalUwOV9IVVlVRg?oc=5"
         },
         {
-          "text": "T/ACCEM 715-2025 SOD露酒 - 新浪网",
+          "text": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押459万股，占总股本2.23% - 财富号",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PMGRLdGVHWTlNU1lkeUxxUXZfeThYSy13TzBzanN4R1JCbnhmNXNRX3U3LS1hMVNGd1VLWk8wTk9oVjZ2MjN5dHNCOFJDS1R2S21BeVc2UmRSaDVWT3U5emp0X0UtckdhWkNUMWNTTHZnQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2Vm9ac3YzTGdEQVlkbFhxeENwNXhzakdZeDRTWkRTQ3d0UlR6ckx2bTM2TnhyZGtfckJvNDk1YXBlTnp0aVphWHVFellZQ0tHWk9iSktxU05CdG00c1JmZEFSRlZDSUEwVmgw?oc=5"
         },
         {
-          "text": "中国信达等在北京新设企业管理中心 - cj.sina.cn",
+          "text": "【9.1论坛回放】《论语》与现代企业管理 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTdjhnTmpSLWRsdTdIS2dTOTZYV1daWThZajNaaUhRTXVIcTkzU0VQUlJjM0IxY1o4cGVFSmg5VXVyYmJYQm9TNWNnYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JOG5rSy1GUFJLSFdZZUlLLVNSdGktaWNIMno3NVR4TWJtdlFHM0lhUTlPUDJ5T21jbkZQS0xwVGFoS01ZOHVydGF4WlFZRkQ5YzlnNjlIOWRFc2ZfaklwQ0g4YzJIeENaSG1nVmlnR2NpWk50Ymc?oc=5"
         }
       ]
     }
