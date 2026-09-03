@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月2日",
+  "publishDate": "2026年9月3日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "40万—50万元高端新能源MPV怎么选？智界V9成AI重点候选 - 新浪网",
+      "title": "中国中煤成立新能源公司 - 国际太阳能光伏网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Nepal flooding deaths surpass 900 as ne…",
+      "title": "Repression of political opposition surg…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:51",
-          "title": "40万—50万元高端新能源MPV怎么选？智界V9成AI重点候选 - 新浪网",
-          "summary": "40万—50万元高端新能源MPV怎么选？智界V9成AI重点候选 新浪网",
+          "time": "09:04",
+          "title": "中国中煤成立新能源公司 - 国际太阳能光伏网",
+          "summary": "中国中煤成立新能源公司 国际太阳能光伏网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RX0tvcWhTdnltOTRYMkZ5U3UwZFpPbFgxMHV3dGFZdHZBWjQwWUVodzhtdTFDVURXRnBzWUFyZ1ZnWVdxaFNSU3k3MDF1VGdLaU1SWVpQNGdmY1JvM3lKX0ZDRmVEVHFTYTY1c1JSR09BOXZRQXVLZTc4cEk5dUk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IdmdDSjBlckswYWV4bHVCdDhkTkduaGRUUGNEVGJjdEhSbXB4b1g3WDNtZDc0al9JVFNFa2ZjY2ZkLVZEM0VHeFdnZUQtczVpSXNTM09mcHBDb0Z5MFE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:46",
-          "title": "罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的 - Moomoo",
-          "summary": "罗永浩炮轰新能源车企AI大模型体验：各位做的模型都挺垃圾的 Moomoo",
+          "time": "09:01",
+          "title": "9月2日新能源ETF南方（516160）份额减少200.00万份，最新份额15.17亿份，最新规模35.86亿元 - Sohu",
+          "summary": "9月2日新能源ETF南方（516160）份额减少200.00万份，最新份额15.17亿份，最新规模35.86亿元 Sohu",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QWnlzQ3FOTmdjZThNWW4yb0h6QkpWNWFmckQyR1VQZ0ZMZTkxUWJMOXBvc1ZPWDNydnZQeUxDSnhGaHV0RW8zTGp6T1JjZDNkR0UyWXZzajRtUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWtvS1ZSZGNyRTJLSk9TSnR3M3JncUFPbmRaYVhzTVMzWFZfTXdwT1hSZF82cHVxUl9Meks1MDdwVkJCdm9vWEt2S1dKSVlTYW41Yk1NTWdQRjRfaWNqUkRFd3BkajZvLWdsNlhlbmZxc1NfZVRXbjM5dmZTc3pwTUo5MFVFTUE4ZEUtVA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "汽车早报｜比亚迪等发布8月销量 日产汽车与Honda签署联合开发协议 - 界面新闻",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44ajUtUGxUemU5S3h2SWJMNDc5VHRHcGpDcUFaREJEbUx4eklGZWJ0a0pCSmdWYWNsMDY2S2lfZUZvbmFaZW5WU0hhVUpueDlfbUJYU1ZYMmU?oc=5"
+          "text": "9月2日新能源车ETF博时（159824）份额增加200.00万份，最新份额8413.51万份，最新规模8783.70万元 - Sohu",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzI0UzlnSy1pUjRWM0pQUE1vRFQ1dl9LNzBQLVJJOVcxX0MtWHhNVmx0NkZxOFdyVEdDZl9JZzhyUm91R2hIeXZwa19VTjNFdWZ0aTFxM2VleTdjNUFIVUc0X2I0YmNCNmxNb1lQTEM1TnpWTTg4cEFIb3BycWRfa2Fxa2E5aVpWN29POA?oc=5"
         },
         {
-          "text": "小米汽车回应1230km实测续航：拒绝单纯堆料|新能源车|小米澎程|小米yu9|电池|能耗 - 新浪财经",
+          "text": "9.99万起，轴距2820mm，前备箱115L，这台B级新能源轿车才是空间越级王 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXJjc2habUhKUlNkNEtMQlBZN3RCbDF1b0M0ako1a1pFeTVPVTJkTFdqak03NlNpX0xFUXlwcXM3cEs1d0d0Y3VBSjdaWi1PRTRwTkhPX3ZYNWFaNlRUVWJGb1hKbzdQOG1fWEtMV0pxYVQyTkVON1JwTmZtdjNHaWRsenAwcGVfTG1fWW5rM1B3WC16UEhiQmtDcU5WU2dTblgwRnNUSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53UjJ2UzV5ekNFbzEwdXZuR2hzRndpV19JbXZtajlqSHExSi1NTlVaRF83aHJoUGtsZFB1T2p0TkhhUTlwMGhJa3diUFp6QlpQWFRlZjBGeUlQS0l5S3hlelVrNUs1MWxuVGdhY3kzWXp1QQ?oc=5"
         },
         {
-          "text": "新浪网· - 新浪网",
+          "text": "【视频】海狮08正式上市25万级新能源SUV的技术平权来了 - 车家号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sZGxEWTdlck9kNnVvNmVwbV9uTm5DODhuVFRyaEI3TmNkR093SkZKQldJMDFYLWhiMWtIdndVN3JxX1NjYmx5TFdoRFhQdlZTNE42NW1zWnkzSG9Ca0Rfc1BoWQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ocUtQd1BIazlOZUlIVV9DMUpEVEVYU0xKbFFBN2ZOWFVwMU5HTlhBQ05BRGNwemRlVDRGZERsNUJRbGZXaW1POFVEOENHS0h0bXlSRFBoZGNRSlFhSUx3REFvbi1hQkF6aFg0?oc=5"
         },
         {
-          "text": "中国8月非官方制造业PMI升至51.5 扩张加快 - 联合早报",
+          "text": "中信建投：电力设备及新能源行业景气兑现但估值压低寻找需求的积极变量_7x24快讯_新浪财经 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90Sk8yN2s3OGdEcU5Fc3kxWWlNUnNZNkR3VjFSWC1LUG1VVUFBc09wd2trdlNXRXI1ZFRlazd1LXh5dFZ3RWg3bmFPekVReHBGZnJkV3FDbXdhNjFvajNVMXpUUUtsVVA2dzNidWRn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0bnh4aHhYdHZEYVJrbkFsampvRFhIU25WSndnTUJxTkFxSG1nUGszSExtMGQ5Y01TUmliLU5ScEs5NmZhQTR0QU04cw?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Nepal flooding deaths surpass 900 as needs climb",
-          "summary": "The confirmed death toll from Nepal’s catastrophic floods has surged to 903, with more than 4,200 still missi…",
+          "title": "Repression of political opposition surges in post-election Zambia",
+          "summary": "Following Zambia’s contested presidential and parliamentary elections almost three weeks ago, the crackdown o…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168233"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168267"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "‘Slavery is not a thing of the past’: UN supports call for reparations",
-          "summary": "Slavery is not just a thing of the past. Its effects continue to be felt in systemic inequality and racism. T…",
+          "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
+          "summary": "Fighting between the United States and Iran has sharply escalated after a month-long lull, with the two sides…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168232"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168268"
         }
       ],
       "briefs": [
         {
-          "text": "‘Every step towards disarmament matters,’ nuclear testing survivors warn",
+          "text": "‘Don’t give up’: Syrian women’s ongoing search for the missing",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168231"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168264"
         },
         {
-          "text": "‘The lake is our life’: Protecting a shared lifeline in Uganda",
+          "text": "Sudan: Air attack destroys food aid for families in South Kordofan",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168228"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168251"
         },
         {
-          "text": "Rising seas, rising stakes: What increasing sea levels mean to humanity",
+          "text": "‘Fight for humanity’: Avoiding a climate catastrophe means acting now",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168206"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168240"
         },
         {
-          "text": "Four children killed as separate attacks in Gaza destroy aid supplies",
+          "text": "Response must outpace spread of Ebola: UN relief chief",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168229"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168246"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:00",
-          "title": "How AI-native companies turn workflows into operating capability",
-          "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations…",
+          "time": "22:00",
+          "title": "Facilitating AI integration with simplicity at scale",
+          "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:00",
+          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/atv-big-air-tour"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "How AI-native companies turn workflows into operating capability",
           "source": "OpenAI",
           "url": "https://openai.com/index/ai-native-company-workflows"
         },
         {
-          "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "Path to Astra: critical capabilities and frontier safeguards",
-          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparednes…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "Path to Astra: critical capabilities and frontier safeguards",
           "source": "OpenAI",
           "url": "https://openai.com/index/path-to-astra"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Healthcare organizations can now connect EHR and additional industry data to Ch…",
           "source": "OpenAI",
           "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
         },
         {
-          "text": "The Hugging Face hack could indicate cultural issues at OpenAI",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
-        },
-        {
-          "text": "OpenAI supports California’s bill to advance youth AI safety",
+          "text": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
-        },
-        {
-          "text": "Polimill builds Japan's next-generation public AI infrastructure",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/polimill"
+          "url": "https://openai.com/index/gilbert-tobin"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "The imec Report: Advancing The CFET-Based Device Roadmap",
-          "summary": "Part I: Novel integration modules and standard cell configurations. The post The imec Report: Advancing The C…",
+          "time": "15:04",
+          "title": "EBook – Accelerate Silicon Design for Physical AI (Part 1)",
+          "summary": "A complete path from AI model, to trusted silicon, to deployable system. The post EBook – Accelerate Silicon…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations/"
+          "url": "https://semiengineering.com/ebook-accelerate-silicon-design-for-physical-ai-part-1/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Research Bits: Sept. 1",
-          "summary": "Gallium nitride: High voltage; low resistance; diamond interposer. The post Research Bits: Sept. 1 appeared f…",
+          "time": "15:02",
+          "title": "Security In The Era Of Quantum Computing",
+          "summary": "Enable robust cryptographic mechanisms that remain resilient even against quantum-based computational attacks…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/research-bits-sep-1/"
+          "url": "https://semiengineering.com/security-in-the-era-of-quantum-computing/"
         }
       ],
       "briefs": [
         {
-          "text": "Chip Industry Technical Paper Roundup: Sept. 1",
+          "text": "When Edge AI Lies: Fault Injection and False State in Live Perception Pipelines",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sep-1/"
+          "url": "https://semiengineering.com/fault-injection-and-false-state-in-live-perception-pipelines/"
         },
         {
-          "text": "Workload-Driven HBF Substrate For Capacity-Scalable LLM Inference (Huawei, ETH…",
+          "text": "The Evolution Of Intelligent Systems: From Optimization To Automation to AI",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/workload-driven-hbf-substrate-for-capacity-scalable-llm-inference-huawei-eth-zurich-hust/"
+          "url": "https://semiengineering.com/the-evolution-of-intelligent-systems-from-optimization-to-automation-to-ai/"
         },
         {
-          "text": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/europes-ai-drive"
+          "text": "Blog Review: Sept. 2",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/blog-review-sept-2-3/"
         },
         {
-          "text": "Trust, But Verify",
+          "text": "Security Sign-Off Is Coming For Chips — But Standards May Not Be Enough",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/trust-but-verify/"
+          "url": "https://semiengineering.com/security-sign-off-is-coming-for-chips-but-standards-may-not-be-enough/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Nepal flooding deaths surpass 900 as needs climb",
-          "summary": "The confirmed death toll from Nepal’s catastrophic floods has surged to 903, with more than 4,200 still missi…",
+          "title": "Repression of political opposition surges in post-election Zambia",
+          "summary": "Following Zambia’s contested presidential and parliamentary elections almost three weeks ago, the crackdown o…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168233"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168267"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "‘Slavery is not a thing of the past’: UN supports call for reparations",
-          "summary": "Slavery is not just a thing of the past. Its effects continue to be felt in systemic inequality and racism. T…",
+          "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
+          "summary": "Fighting between the United States and Iran has sharply escalated after a month-long lull, with the two sides…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168232"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168268"
         }
       ],
       "briefs": [
         {
-          "text": "‘Every step towards disarmament matters,’ nuclear testing survivors warn",
+          "text": "‘Don’t give up’: Syrian women’s ongoing search for the missing",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168231"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168264"
         },
         {
-          "text": "‘The lake is our life’: Protecting a shared lifeline in Uganda",
+          "text": "Sudan: Air attack destroys food aid for families in South Kordofan",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168228"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168251"
         },
         {
-          "text": "Rising seas, rising stakes: What increasing sea levels mean to humanity",
+          "text": "‘Fight for humanity’: Avoiding a climate catastrophe means acting now",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168206"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168240"
         },
         {
-          "text": "Four children killed as separate attacks in Gaza destroy aid supplies",
+          "text": "Response must outpace spread of Ebola: UN relief chief",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/08/1168229"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168246"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "20:12",
-          "title": "中国信达等在北京新设企业管理中心 - 新浪网",
-          "summary": "中国信达等在北京新设企业管理中心 新浪网",
+          "time": "03:12",
+          "title": "荷兰国家馆SEMICON Taiwan 2026盛大开幕 台荷携手强化半导体供应链韧性 - DIGITIMES",
+          "summary": "荷兰国家馆SEMICON Taiwan 2026盛大开幕 台荷携手强化半导体供应链韧性 DIGITIMES",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HRG1OeTc4LWswLW01ZkROX1QyNXdTT0RtMFlLQ05KMms3WEdGTXdDVUNMYVlZMXNidDV0dDY4UmVRZ2Rod0ZlNHhsX3hsdWNwUUU5Zmw4ay1Takw1c3BZS1h0RW1TZFN2S0NSRVFNdDFtQQ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnRnMzRUTk8wbVkzODVtaDhnTExkcnBfY3QxZF9TNEtLXzNMb2Uyd09VWmRkcUhaTnF5cnZUdjV4dHRnclJRekJxbFNpbEM1SFNiaWtReUJHbmtWa0NqVVNhQVBtY055cDFkMTdvRklIam90ZjMybVpnTGN1dTdUdlZjaktnZUxPUEJaT01iMzYzaTQ0MEc1WWJKU3lRa0l0TTBoVTNoWQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:15",
-          "title": "康惠股份：上海创响盈企业管理合伙企业（有限合伙）持股比例减少0.94% - 东方财富",
-          "summary": "康惠股份：上海创响盈企业管理合伙企业（有限合伙）持股比例减少0.94% 东方财富",
+          "time": "23:06",
+          "title": "Wedbush下调Tscan Therapeutics评级至中性，因公司战略转型 提供者 Investing.com - 英为财情 Investing.com",
+          "summary": "Wedbush下调Tscan Therapeutics评级至中性，因公司战略转型 提供者 Investing.com 英为财情 Investing.com",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QWDF2aDBPaEVqVkVHZk8yeFByRm82VWNqMEFuOG9WblphZUxyUjZZUkYyODh0Z3JoOGFyRWlKMDBmd2dLeklfbFBOeFZxNDluM0djdGRSeFdhVW9Ua1dseVlFYVJCZw?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iUzh0ZHowcUY1S3pOb21sUW5nckRuNkN2QURlQXdtTlhkUkV5VWhDSjZoeTNQbk1OcjZuTDlscFdtckh0SXdTdXZtMGFESEJaTGRVV3ZtMHFoLTB6eUhOaWVlZkY1ZFQxc25qekgtTVhfTHlp?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "宇树科技员工爆料公司管理细节：百元报销都需要 CEO 王兴兴批，小到螺丝钉长度都亲自过问 - 新浪财经",
+          "text": "画廊 威士伯公司管理总部 / Meyer, Scherer & Rockcastle - 6 - ArchDaily",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81amEyZDdtSnVsMXhnQ0NlZEFJd3hLbjdNb2RWN0czNzhSXzA4Q1YwMHF1a0VjM1VaU3JmbmRVQTY3VW84UXlhNFlYeGllb3ZTYnJjUU5ZQjNKQWlOb2thWDVNSVJCVFVkOU5RWndRMEgxelplUnBIRmM1dEdSWWs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOb3pJTDhMZ2JjUE9wdU1ldXd2WU1pVUhiMmYwYkRnLXQxZzVyeElWRlJxcTRXUkltbWxNS3FRM0lUMjlNOUR0Mk5xUG5aLXQ1X2NycnB0VzM5b3BDT0EtTFA5S25mazd6b01mcjE0aGQzNUhXVkhVNGhiSGtZMHhfbmVNaDlYUDRhY24xNmhXNnNiOHoxR2tiaHVJVXI3bGpOMU9XU19ISVZLdDFRTzVvNjBHOEJfTW5TX09zemVLTU51WF9xSElYNm9RSGEwdDY2UzlWM1lqb0Yxd1gxRFJDY05DNnJoYm0yTllQS09ObGNSTXhFVEZTTC1Pa3pEVnNERUdjOUkwMER5OU9kWWp0OVlwVkVjU2VRLW5pcVQwWFVfVDA1OFpKYWZONA?oc=5"
         },
         {
-          "text": "金蝶携灵基亮相2026“828 B2B企业节”，定义AI原生时代企业管理新范式 - Sohu",
+          "text": "中国信达等在北京新设企业管理中心 - 新浪网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaF9PRGIyOVNacnYxQ1dXRUJqMmdQN2JoWjhlME1QNThScERnV055RUFCbjBlcjNUdzMxNGFPTEp1OWg5YlZuMGwxUm1jbVVfazZZb3pzQUlKd3ltWmUwcGUtenp3b1RxbnRfNG1sZTBwam9sdkV0ZUg5VUFzdEgxQXByalUwOV9IVVlVRg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HRG1OeTc4LWswLW01ZkROX1QyNXdTT0RtMFlLQ05KMms3WEdGTXdDVUNMYVlZMXNidDV0dDY4UmVRZ2Rod0ZlNHhsX3hsdWNwUUU5Zmw4ay1Takw1c3BZS1h0RW1TZFN2S0NSRVFNdDFtQQ?oc=5"
+        },
+        {
+          "text": "金蝶携灵基亮相2026“828 B2B企业节”，定义AI原生时代企业管理新范式 - icloudnews.net",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqMHZ0bVB6SUZ0MWNVSC16MGFBSjltSG45QlcyVlJmQ0UyLWZhNzZfNF9INktTejV4dE1wdmlUYUpPVndWdzVwSU1qeklzb0VlVmc?oc=5"
         },
         {
           "text": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押459万股，占总股本2.23% - 财富号",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2Vm9ac3YzTGdEQVlkbFhxeENwNXhzakdZeDRTWkRTQ3d0UlR6ckx2bTM2TnhyZGtfckJvNDk1YXBlTnp0aVphWHVFellZQ0tHWk9iSktxU05CdG00c1JmZEFSRlZDSUEwVmgw?oc=5"
-        },
-        {
-          "text": "【9.1论坛回放】《论语》与现代企业管理 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JOG5rSy1GUFJLSFdZZUlLLVNSdGktaWNIMno3NVR4TWJtdlFHM0lhUTlPUDJ5T21jbkZQS0xwVGFoS01ZOHVydGF4WlFZRkQ5YzlnNjlIOWRFc2ZfaklwQ0g4YzJIeENaSG1nVmlnR2NpWk50Ymc?oc=5"
         }
       ]
     }
