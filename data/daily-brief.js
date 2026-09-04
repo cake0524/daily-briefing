@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月3日",
+  "publishDate": "2026年9月4日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "中国中煤成立新能源公司 - 国际太阳能光伏网",
+      "title": "别人在“用”新能源，山东在“造”新能源 - 星岛环球网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Scientists discover two superconducting…",
+      "title": "Scientists just overturned a century-ol…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:04",
-          "title": "中国中煤成立新能源公司 - 国际太阳能光伏网",
-          "summary": "中国中煤成立新能源公司 国际太阳能光伏网",
+          "time": "08:44",
+          "title": "别人在“用”新能源，山东在“造”新能源 - 星岛环球网",
+          "summary": "别人在“用”新能源，山东在“造”新能源 星岛环球网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IdmdDSjBlckswYWV4bHVCdDhkTkduaGRUUGNEVGJjdEhSbXB4b1g3WDNtZDc0al9JVFNFa2ZjY2ZkLVZEM0VHeFdnZUQtczVpSXNTM09mcHBDb0Z5MFE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5yd1Q0bWRDS24yT3RnNkI0czFSYzJGVm43WkJZeGZXcWdkVEtQT3JUenY5YVYzOTlMdWFaaXoyMFc3dXE2S1NIdU9tN3pudXhsY0ZXUF9NQXprNTFPdFNrNVZFUTY?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:01",
-          "title": "9月2日新能源ETF南方（516160）份额减少200.00万份，最新份额15.17亿份，最新规模35.86亿元 - Sohu",
-          "summary": "9月2日新能源ETF南方（516160）份额减少200.00万份，最新份额15.17亿份，最新规模35.86亿元 Sohu",
+          "time": "08:33",
+          "title": "新能源装备，一场不能输的竞赛 - Sohu",
+          "summary": "新能源装备，一场不能输的竞赛 Sohu",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQWtvS1ZSZGNyRTJLSk9TSnR3M3JncUFPbmRaYVhzTVMzWFZfTXdwT1hSZF82cHVxUl9Meks1MDdwVkJCdm9vWEt2S1dKSVlTYW41Yk1NTWdQRjRfaWNqUkRFd3BkajZvLWdsNlhlbmZxc1NfZVRXbjM5dmZTc3pwTUo5MFVFTUE4ZEUtVA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaE43cnlqNGwxMFUxcFdVeU5scVhFSWFMSGd6Qkc3VVd6VVJFRGE1X2tyMWxoaGpmN3hicVNndDFlNGJLYjkxd2lWbDc3VlBlWmJRUzJLVzBlWEw0ZWY0Z3h0czRiQm4yZkZFQU5MazhaRlNaSWk4WnRBeE9XakstS1ZycTFsUlpxdFFacQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "9月2日新能源车ETF博时（159824）份额增加200.00万份，最新份额8413.51万份，最新规模8783.70万元 - Sohu",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzI0UzlnSy1pUjRWM0pQUE1vRFQ1dl9LNzBQLVJJOVcxX0MtWHhNVmx0NkZxOFdyVEdDZl9JZzhyUm91R2hIeXZwa19VTjNFdWZ0aTFxM2VleTdjNUFIVUc0X2I0YmNCNmxNb1lQTEM1TnpWTTg4cEFIb3BycWRfa2Fxa2E5aVpWN29POA?oc=5"
+          "text": "太平洋：给予比亚迪买入评级_券商研报_数据解析 - 证券之星",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UOHRXX3A0THF6YWF2cVNtVjJVeGVmZjV3ZEtqblFIUHpRNDhWU19ESkJ4eGZCWnBXd0RVSmczS2pSdzRZWmtJUkNjaGRVZU5CWm5rUzQ1WWJ5eXVodTJ4TDFB?oc=5"
         },
         {
-          "text": "9.99万起，轴距2820mm，前备箱115L，这台B级新能源轿车才是空间越级王 - 新浪网",
+          "text": "【重播】卡尼宣布對加拿大製造業進行投資 - epochtimes.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53UjJ2UzV5ekNFbzEwdXZuR2hzRndpV19JbXZtajlqSHExSi1NTlVaRF83aHJoUGtsZFB1T2p0TkhhUTlwMGhJa3diUFp6QlpQWFRlZjBGeUlQS0l5S3hlelVrNUs1MWxuVGdhY3kzWXp1QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wdTNBVkNMVG14X0RUQ1Zkd2NGRC1IRndXRkVLcmpBR1V6bWdIbDJDLWdVMVRBc1ZTbTJBUGdWalhNdWkxTWc3YktPUks4WU9QMnFqRkdtZlp4TGdUS2930gFkQVVfeXFMTXRoNVNHR0p2Q29iV1ZfT1BlOU8xVHdsRXAtY0U2TGlUbUtEcVR4QVFxQjNlWldpekdaOGpSWXJXY3phUGhIM3pMMzF6aElybG55OXJKdjEzU3pLSEZzOExJM0E0Ug?oc=5"
         },
         {
-          "text": "【视频】海狮08正式上市25万级新能源SUV的技术平权来了 - 车家号",
+          "text": "9月3日新能源ETF嘉实基金份额减少300万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ocUtQd1BIazlOZUlIVV9DMUpEVEVYU0xKbFFBN2ZOWFVwMU5HTlhBQ05BRGNwemRlVDRGZERsNUJRbGZXaW1POFVEOENHS0h0bXlSRFBoZGNRSlFhSUx3REFvbi1hQkF6aFg0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wZS13SDduRHpKWGNXLXBCQ1JYNmNuNmltUlBlMU1fb3NzbXVHcnpuZENHb2hWZjJrbWhsM0c3djFUUWRyaHNLamx1Y21wVFgxem1VM3Y2NTRON3FEeVFkUVlR?oc=5"
         },
         {
-          "text": "中信建投：电力设备及新能源行业景气兑现但估值压低寻找需求的积极变量_7x24快讯_新浪财经 - 新浪财经",
+          "text": "2026年新能源汽车下乡活动宜宾站启动 - caam.org.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0bnh4aHhYdHZEYVJrbkFsampvRFhIU25WSndnTUJxTkFxSG1nUGszSExtMGQ5Y01TUmliLU5ScEs5NmZhQTR0QU04cw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TMnQ5VTVmaGJHaVN4TEU3Q2pQVnFpQmpJRkd1LWRKWl9RLVdTeW5hTUZrT0JaS2JMYUVBR2ZnbmFIWWZ0SVV3MFFGZkZEYllzQVo0Wl9TUklIZnZucEZ1ZU1B?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "20:17",
+          "title": "Scientists just overturned a century-old physics assumption",
+          "summary": "Scientists at Carnegie Mellon University have discovered an unexpected form of the Hall effect, overturning t…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "21:29",
           "title": "Scientists discover two superconducting states hiding as one",
           "summary": "Scientists have uncovered hidden complexity inside two ultrathin superconductors that seemed much simpler tha…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260828005222.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "21:08",
-          "title": "A “quantum bath” puts quantum entanglement on autopilot",
-          "summary": "Physicists have demonstrated a new way to entangle distant quantum bits without the constant measurements and…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "A “quantum bath” puts quantum entanglement on autopilot",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm"
+        },
         {
           "text": "This strange “spacetime crystal” can suddenly become a black hole",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NAS…",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm"
-        },
-        {
-          "text": "Scientists switch on a strange new form of magnetism in an ultrathin material",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260826055454.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:00",
-          "title": "Facilitating AI integration with simplicity at scale",
-          "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes…",
+          "time": "21:15",
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/daybreak-for-frontline-defenders"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise…",
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performa…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/atv-big-air-tour"
+          "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
         }
       ],
       "briefs": [
         {
-          "text": "How AI-native companies turn workflows into operating capability",
+          "text": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
           "source": "OpenAI",
-          "url": "https://openai.com/index/ai-native-company-workflows"
+          "url": "https://openai.com/index/playco-game-prototyping-with-astra"
         },
         {
-          "text": "Path to Astra: critical capabilities and frontier safeguards",
+          "text": "Safety overview: GPT-6 Astra",
           "source": "OpenAI",
-          "url": "https://openai.com/index/path-to-astra"
+          "url": "https://openai.com/index/safety-overview-gpt-6-astra"
         },
         {
-          "text": "Healthcare organizations can now connect EHR and additional industry data to Ch…",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+          "text": "Facilitating AI integration with simplicity at scale",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
         },
         {
-          "text": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+          "text": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
           "source": "OpenAI",
-          "url": "https://openai.com/index/gilbert-tobin"
+          "url": "https://openai.com/index/atv-big-air-tour"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:04",
-          "title": "EBook – Accelerate Silicon Design for Physical AI (Part 1)",
-          "summary": "A complete path from AI model, to trusted silicon, to deployable system. The post EBook – Accelerate Silicon…",
+          "time": "15:08",
+          "title": "Intelligent Engineering: From Optimization To AI",
+          "summary": "A methodology for transforming engineering decisions from educated guesses into data-driven choices. The post…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ebook-accelerate-silicon-design-for-physical-ai-part-1/"
+          "url": "https://semiengineering.com/intelligent-engineering-from-optimization-to-ai/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:02",
-          "title": "Security In The Era Of Quantum Computing",
-          "summary": "Enable robust cryptographic mechanisms that remain resilient even against quantum-based computational attacks…",
+          "time": "15:07",
+          "title": "Protecting Mission-Critical Data Beyond The SoC: Why Inline Memory Encryption Needs Integrity",
+          "summary": "Aerospace and government systems need confidentiality, authentication, and implementation resilience for off-…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/security-in-the-era-of-quantum-computing/"
+          "url": "https://semiengineering.com/protecting-mission-critical-data-beyond-the-soc-why-inline-memory-encryption-needs-integrity/"
         }
       ],
       "briefs": [
         {
-          "text": "When Edge AI Lies: Fault Injection and False State in Live Perception Pipelines",
+          "text": "Building Trust Into Physical AI Systems",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/fault-injection-and-false-state-in-live-perception-pipelines/"
+          "url": "https://semiengineering.com/building-trust-into-physical-ai-systems/"
         },
         {
-          "text": "The Evolution Of Intelligent Systems: From Optimization To Automation to AI",
+          "text": "Humanoid Compute, Security More Complex Than AVs",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-evolution-of-intelligent-systems-from-optimization-to-automation-to-ai/"
+          "url": "https://semiengineering.com/humanoid-compute-security-more-complex-than-avs/"
         },
         {
-          "text": "Blog Review: Sept. 2",
+          "text": "AI Is Forcing Data Centers To Rethink Trust",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-sept-2-3/"
+          "url": "https://semiengineering.com/ai-is-forcing-data-centers-to-rethink-trust/"
         },
         {
-          "text": "Security Sign-Off Is Coming For Chips — But Standards May Not Be Enough",
+          "text": "How Many Design Experiments Does A Machine Learning Predictor Actually Need?",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/security-sign-off-is-coming-for-chips-but-standards-may-not-be-enough/"
+          "url": "https://semiengineering.com/how-many-design-experiments-does-a-machine-learning-predictor-actually-need/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:12",
-          "title": "荷兰国家馆SEMICON Taiwan 2026盛大开幕 台荷携手强化半导体供应链韧性 - DIGITIMES",
-          "summary": "荷兰国家馆SEMICON Taiwan 2026盛大开幕 台荷携手强化半导体供应链韧性 DIGITIMES",
+          "time": "13:15",
+          "title": "突然大裁员！网约车巨头宣布：将裁减3300个岗位，公司管理人员数量将减少20% - t.cj.sina.cn",
+          "summary": "突然大裁员！网约车巨头宣布：将裁减3300个岗位，公司管理人员数量将减少20% t.cj.sina.cn",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRnRnMzRUTk8wbVkzODVtaDhnTExkcnBfY3QxZF9TNEtLXzNMb2Uyd09VWmRkcUhaTnF5cnZUdjV4dHRnclJRekJxbFNpbEM1SFNiaWtReUJHbmtWa0NqVVNhQVBtY055cDFkMTdvRklIam90ZjMybVpnTGN1dTdUdlZjaktnZUxPUEJaT01iMzYzaTQ0MEc1WWJKU3lRa0l0TTBoVTNoWQ?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5EcVJhb0ozQVZOR2o5c1A3Q002Mm80Z1hwOUU5SGdvR216emludTRhV2lhX3dmUGt2TGV5NV9EM1JpVXd0REQxOGFnYk8wcEY3WG5xVm5MWVZraHF6OHd1NlIxRjl5akNTLXVQVURNM2QwNmRzTHFZQnhR?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:06",
-          "title": "Wedbush下调Tscan Therapeutics评级至中性，因公司战略转型 提供者 Investing.com - 英为财情 Investing.com",
-          "summary": "Wedbush下调Tscan Therapeutics评级至中性，因公司战略转型 提供者 Investing.com 英为财情 Investing.com",
+          "time": "09:11",
+          "title": "乌兹别克斯坦拟设合资企业管理核电站建设项目 - 深圳核博会",
+          "summary": "乌兹别克斯坦拟设合资企业管理核电站建设项目 深圳核博会",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iUzh0ZHowcUY1S3pOb21sUW5nckRuNkN2QURlQXdtTlhkUkV5VWhDSjZoeTNQbk1OcjZuTDlscFdtckh0SXdTdXZtMGFESEJaTGRVV3ZtMHFoLTB6eUhOaWVlZkY1ZFQxc25qekgtTVhfTHlp?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuQURWcG8tb0JjMjEtR21XcjhNZ0R1dTVqcEVqcG05VFF5VDNJUS03a3NhZUVWeDRHci0wTWt4X2k5MTNHekVSSHVnSXFWWHRLeUE?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "Wedbush下调Tscan Therapeutics评级至中性，因公司战略转型 提供者 Investing.com - 英为财情 Investing.com",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iUzh0ZHowcUY1S3pOb21sUW5nckRuNkN2QURlQXdtTlhkUkV5VWhDSjZoeTNQbk1OcjZuTDlscFdtckh0SXdTdXZtMGFESEJaTGRVV3ZtMHFoLTB6eUhOaWVlZkY1ZFQxc25qekgtTVhfTHlp?oc=5"
+        },
         {
           "text": "画廊 威士伯公司管理总部 / Meyer, Scherer & Rockcastle - 6 - ArchDaily",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOb3pJTDhMZ2JjUE9wdU1ldXd2WU1pVUhiMmYwYkRnLXQxZzVyeElWRlJxcTRXUkltbWxNS3FRM0lUMjlNOUR0Mk5xUG5aLXQ1X2NycnB0VzM5b3BDT0EtTFA5S25mazd6b01mcjE0aGQzNUhXVkhVNGhiSGtZMHhfbmVNaDlYUDRhY24xNmhXNnNiOHoxR2tiaHVJVXI3bGpOMU9XU19ISVZLdDFRTzVvNjBHOEJfTW5TX09zemVLTU51WF9xSElYNm9RSGEwdDY2UzlWM1lqb0Yxd1gxRFJDY05DNnJoYm0yTllQS09ObGNSTXhFVEZTTC1Pa3pEVnNERUdjOUkwMER5OU9kWWp0OVlwVkVjU2VRLW5pcVQwWFVfVDA1OFpKYWZONA?oc=5"
         },
         {
-          "text": "中国信达等在北京新设企业管理中心 - 新浪网",
+          "text": "宇树机器人爬行能力背后，公司管理争议与股价腰斩4400亿市值蒸发真相 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HRG1OeTc4LWswLW01ZkROX1QyNXdTT0RtMFlLQ05KMms3WEdGTXdDVUNMYVlZMXNidDV0dDY4UmVRZ2Rod0ZlNHhsX3hsdWNwUUU5Zmw4ay1Takw1c3BZS1h0RW1TZFN2S0NSRVFNdDFtQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUG9JeGRJYTZkSGdUTXV6M2ZXUC1MWnBOWHpXYVpUVHRxOEpRaU1zbkRvbnJuY2kyODhSU3RHLXZCc1J0WFdlX2xFT05ZbHg4Slh4MGNDTW1CazJwNEd4VHVWbno5RUhwZEloQnRDYkZGa3RCNUoxQjRUNm16RTRUWEV0eFc?oc=5"
         },
         {
           "text": "金蝶携灵基亮相2026“828 B2B企业节”，定义AI原生时代企业管理新范式 - icloudnews.net",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqMHZ0bVB6SUZ0MWNVSC16MGFBSjltSG45QlcyVlJmQ0UyLWZhNzZfNF9INktTejV4dE1wdmlUYUpPVndWdzVwSU1qeklzb0VlVmc?oc=5"
-        },
-        {
-          "text": "汇通能源（600605）股东西藏德锦企业管理有限责任公司质押459万股，占总股本2.23% - 财富号",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2Vm9ac3YzTGdEQVlkbFhxeENwNXhzakdZeDRTWkRTQ3d0UlR6ckx2bTM2TnhyZGtfckJvNDk1YXBlTnp0aVphWHVFellZQ0tHWk9iSktxU05CdG00c1JmZEFSRlZDSUEwVmgw?oc=5"
         }
       ]
     }
