@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月5日",
+  "publishDate": "2026年9月6日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "安徽电力现货市场：节点电价结算，独立储能不平摊市场费用、虚拟电厂参照新能源机组…",
+      "title": "推动传统产业优化升级 - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "UN tells the world: Stop making Africa…",
+      "title": "As wildfires spread north, UN agencies…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:30",
-          "title": "安徽电力现货市场：节点电价结算，独立储能不平摊市场费用、虚拟电厂参照新能源机组 - 新浪网",
-          "summary": "安徽电力现货市场：节点电价结算，独立储能不平摊市场费用、虚拟电厂参照新能源机组 新浪网",
+          "time": "08:37",
+          "title": "推动传统产业优化升级 - 新浪财经",
+          "summary": "推动传统产业优化升级 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96eFpuMW51emJYXy14U1VTZWdUNFp3UE5pX3FLTVpxbVhpQ0x4aWIxdGRyYjdITGoyWV92RlJpMUdpZ3NhRkJjdDFpVDZKQXE1QnViWUQ0dlRULTFxZDM3NmFaTzlBb09QdUJ6NlJBc0FPZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YNkZhaGFiMFMzbzlrY0hCanR3clNVTXZMU2ZJd3NqYWpFc1ZKRmZqb1VuNEVLUmFJNGxVWVg4cUZVRUNidVpYYVl3dHFlMlEyTEVTQTg3cGpxNmU5a1ZJV0N3TUJpa2Rtd2daU1JtWEVHQ1hrNmxIZw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:27",
-          "title": "【报告】2026年东南亚新能源汽车产业链深度研究：链式出海，重塑格局（附39页PDF文件下载） - 新浪财经",
-          "summary": "【报告】2026年东南亚新能源汽车产业链深度研究：链式出海，重塑格局（附39页PDF文件下载） 新浪财经",
+          "time": "08:24",
+          "title": "省制造业赋能·智能传感器创新创业大赛将启幕 - 央广网",
+          "summary": "省制造业赋能·智能传感器创新创业大赛将启幕 央广网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zblkwaWFseE1FbnduQUVpcXNFZFNLZ0hySjFoVF91amNqR2VQVVVxMmpqeWpGbUVJcjVEZHRqeGkydXlUR2pDMEZ4UlVxRUNjXzNFeldja3BfVHRUejd4ejhyNDB5eUp6ekJqaXJnbzBmemRzOWhFQw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xMW1XU1hxN2tJdm9FTmhYWEpmdEdqUVY4eDlQU3ZSbGFVMk1OOGhHMGd1akZVbTRrU2t3OEJyZlFoX2FkejBqOGs1WDBWQjNLVVh4WENVVWs4eW5XcVBzMy16WnI1RGpNN19ZU0VjSzdnUk54QU5ZdmI5Z0tKdw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "山东省发展和改革委员会 解读《关于加快推动新能源场站配建储能高质量发展的通知》 - 新浪网",
+          "text": "如何抢占智能网联新能源汽车赛道 - 中青在线",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mVjdCaVlxT1B6clliUUdYSDVIaGpEeGpkNGVxbmdJUk1MWWJrU2V0TXNieW5JNVVjcTNVdFV1OFJ1dW9JZnlfSlc5enNCeXo1bVlrSWg2cjVmanRleFVFOXJWX1JzYlZjcEl2YTFqYXpBUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2TENPa25sOEV5YmNPdHZDOXRTeFRmSHptaHJYcjZCdE5rUnZOVGVXZG44VWx4bjlhcnpPaFJxdE5NSFdIRF8wcjh0ZDM3R1h6b0FUZU11STZoZV9sMS02WjVnMEF6ZGxVaG9tWWxldU4tZnFUMUhNcw?oc=5"
         },
         {
-          "text": "9.99万起，2820mm轴距+前备箱，三款新上市新能源轿车空间横评，秦MAX越级体验解析 - 新浪网",
+          "text": "【视频】燃油车的底子+新能源的脑子，2027款艾瑞泽8 PRO都占了 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYSk01eVdMZkNZTFh4UkdMZ0o5bjdTRVAwZk9zMWFBdkE2UUJwVVBjc0pKcFNlWWloV0NkS3MwZEpacVRjNmdRREVkZFBwbnN3NkxVTHowby1QTXBkU2ZNdTdPbW1TRWh6WTM5MlF1U1ZNUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ibE9NcmV5akNEaGtUTFJ1UmRGaS1xQWd4ZXczUC1tV1AwSm44VGs2UmtPVkN5c3pxcFpWeUUyeGNibnBYTFkyR05WYlJEZVFQZnN2b3laX2R4Mjg?oc=5"
         },
         {
-          "text": "新能源电池ETF华宝（159071）跌0.61%，半日成交额227.67万元 - finance.sina.cn",
+          "text": "新能源汽车动力电池将迎“退役潮” ，废旧电池何去何从 - thepaper.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmR6eXBGT2lqZDU1UXJfdUxER1dXcVJoQXNXRjVQMUpXbnFBQlVwVkpzWW9JNEhwM1pscWFjb2VCRGpfSER2YmVYV09wLTk2TUx3RUc3Tl9rcmRqWWZoSVRTY3I4T1JFWDZIa09MWmlzMmVuVTRHSWQzQnJWdldiQlNQMDVCbXZtbDk0WlVfT3JtZjhCSDdfTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ISV9ENnF0em1rbzJfaWh1QUVXM2NIVkk1ZDBFNlJvakVnbm5tR2JvTklpMWhBeVdhRnFUTGo1VFpLanlyU25xQWowcFZhZVFlYmhRbTJzUUhjV3N1NGNQQw?oc=5"
         },
         {
-          "text": "宁德时代判断2028年重卡新能源渗透率将达50% - 财新",
+          "text": "制造“家底”做“跳板”，山东向未来能源要“第二曲线” - 山东宣传网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lWUdqQ1dUZUpUVXVHTUhxZ1J1bVVPZW9WdzZmcS1ZMmZmUlB1MXFENEN1LXNGdGNVVGR0amg4cDhZb0V3UUxVRlU5bVBEa2RaOXZtMnk3ZHJSdWtscEFPSENjUlk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWdC1YV2FhdXZBRnk0WFY4OER2Zk80cUx4VHlDeE5uOUZOWG0tRHN0ME9JX3NPOUlCcmVrRGpPUE9uWGx2bVh1Znd3Sm1fRnI1UFpQMWdNWnc2U0d1OFRHTERSSm9mNEg4akZWQ1BvQ2w?oc=5"
         }
       ]
     },
@@ -123,23 +123,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "UN tells the world: Stop making Africa look small",
-          "summary": "The UN General Assembly has voted overwhelmingly to encourage governments, schools and tech companies worldwi…",
+          "title": "As wildfires spread north, UN agencies race to help Europe adapt",
+          "summary": "As the climate warms, the threat of wildfires is spreading in Europe. How can historically cooler and wetter…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168284"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168273"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
-          "summary": "Israeli security forces forcibly displaced the entire population of three Palestine refugee camps in the occu…",
+          "title": "Central Park adapts to climate change while helping New York stay cool",
+          "summary": "In the heart of Manhattan in New York City, the effects of climate change are becoming increasingly visible.",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168282"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168277"
         }
       ],
       "briefs": [
+        {
+          "text": "UN tells the world: Stop making Africa look small",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168284"
+        },
+        {
+          "text": "West Bank: UN rights report warns of forcible displacement from three refugee c…",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168282"
+        },
         {
           "text": "UN aims to raise nearly $50 million for Nepal flood response",
           "source": "United Nations News",
@@ -149,16 +159,6 @@ window.dailyBrief = {
           "text": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Uk…",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/09/1168278"
-        },
-        {
-          "text": "General Assembly backs creation of new UN learning institute under UN80 reforms",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168276"
-        },
-        {
-          "text": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168275"
         }
       ]
     },
@@ -204,9 +204,9 @@ window.dailyBrief = {
           "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
         },
         {
-          "text": "Safety overview: GPT-6 Astra",
+          "text": "GPT-6 Astra: A new generation of intelligence",
           "source": "OpenAI",
-          "url": "https://openai.com/index/safety-overview-gpt-6-astra"
+          "url": "https://openai.com/index/gpt-6-astra"
         }
       ]
     },
@@ -267,23 +267,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "UN tells the world: Stop making Africa look small",
-          "summary": "The UN General Assembly has voted overwhelmingly to encourage governments, schools and tech companies worldwi…",
+          "title": "As wildfires spread north, UN agencies race to help Europe adapt",
+          "summary": "As the climate warms, the threat of wildfires is spreading in Europe. How can historically cooler and wetter…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168284"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168273"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
-          "summary": "Israeli security forces forcibly displaced the entire population of three Palestine refugee camps in the occu…",
+          "title": "Central Park adapts to climate change while helping New York stay cool",
+          "summary": "In the heart of Manhattan in New York City, the effects of climate change are becoming increasingly visible.",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168282"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168277"
         }
       ],
       "briefs": [
+        {
+          "text": "UN tells the world: Stop making Africa look small",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168284"
+        },
+        {
+          "text": "West Bank: UN rights report warns of forcible displacement from three refugee c…",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168282"
+        },
         {
           "text": "UN aims to raise nearly $50 million for Nepal flood response",
           "source": "UN News",
@@ -293,16 +303,6 @@ window.dailyBrief = {
           "text": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Uk…",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/09/1168278"
-        },
-        {
-          "text": "General Assembly backs creation of new UN learning institute under UN80 reforms",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168276"
-        },
-        {
-          "text": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168275"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "03:59",
-          "title": "鼎信通讯（603421.SH）新增一起对外投资，被投资公司为金曜安澜（兴义）企业管理合伙企业（有限合伙） - 证券之星",
-          "summary": "鼎信通讯（603421.SH）新增一起对外投资，被投资公司为金曜安澜（兴义）企业管理合伙企业（有限合伙） 证券之星",
+          "time": "00:08",
+          "title": "LOL竞猜模式与某知名旅游公司战略合作后，首个项目落地旅行特权！ - 体坛",
+          "summary": "LOL竞猜模式与某知名旅游公司战略合作后，首个项目落地旅行特权！ 体坛",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83bHkyTy0xUExBWmhXeTFvV1NsVDhybUtLMlVkSmpVaXc5NThvWXFmWm5VRFB0WUpDWElHY3VyampJZ3RsUS0taFpMQ2lfS1ZUWlI4VWdUSEdvT1AtZ09KaDk3Sm8?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VTnJMYS1hc2puMi0ydnFEa3Q3ZGY1LUgzaFFKM3g4TFJpQm1RaEZZVGpqOV85RmVjM2FEVExFWEROOVFuVlVWYndkaEM?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:05",
-          "title": "国家发改委：《售电公司管理办法》公开征求意见 - 新浪财经",
-          "summary": "国家发改委：《售电公司管理办法》公开征求意见 新浪财经",
+          "time": "18:22",
+          "title": "重磅！国家发改委：《售电公司管理办法》公开征求意见 - Sohu",
+          "summary": "重磅！国家发改委：《售电公司管理办法》公开征求意见 Sohu",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92RVNWWV8wdGQ1QUhRYXlRV0RXdEpyeGhGODNHVXhpWTdFd0pkVkxiRVJZRzkyZjI1X0RsSVBfQTcwemdBcGRENS1ybE05c1RTMXB2UXd0SkVCMkNmYld3WHNRVWVFZld2Ty1oSnlSOEQ1MVZWNk5La0V6SUo?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVW5jMENkV2J0Q3ZhTW1teU1KS0R6dDIxUW84SE1EeEFVeFZsd1pMakFuMDdhazZzTXhuZ19iZ3doalItblZZbXlRMUZLUEFCSG1pUzVtNmMtdjdVZHpKU3c1aE41QkIxbGd6Q2dJOTNaYlRNOFNWRzZXbzQ3N2tPQmdOTWUxM3Q2blY5bA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "全国800余专家学者太原共话大宗商品供应链韧性 - chinanews.com.cn",
+          "text": "企业战略与技术投入ESBALL世博官网备用客户端: 助力赛事管理的新机遇-体坛网_体坛+ - 体坛",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RUmJ0SHNUUURJb04tQVBfdGVGODJ5dXlzOVU2ZHRsRGo4am14M2dTVzlVV3B4dGQtSHpRRzFGZzRBZ1U5MVJ4WUF5UTRVVjRXV09NY1FTdnJUOHZxRjhhR1QtR1RXVGZu?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzcHJrODRBNlRHSkR1ZmNRbEpDUjZEUUl6TFJ5SllMUmZPUTAwX2QzVGF2VDBGak5IdzlkQnFOQy1kOXFvMmJMSFhpNHBkS2FpbjZ1dkxLRkhoVWJLNkE?oc=5"
         },
         {
-          "text": "新威凌：长沙新威凌企业管理合伙企业（有限合伙）已减持1.60%股份 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oSmVYV1R1QTUzNlNMeWJZZ1E2RDlPalY2Ymt5LXNhVWY0YTlRb29ocUg3T2NteXFRd2I1MllHcjhJajVjaVJvbkZxeWIzZ2cwek1kVlVKdndaZ0Z1VXVyMVVSUzR2UQ?oc=5"
+          "text": "大宗商品供应链韧性交流活动在山西太原举行 - Sohu",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0owRHBwWWxRUXJIaVZhb0V5RHk4MUFPUGJRbWlkd3ZSazJkMWRsMjJFS1pKT2lybmdnUTRZblMwWGNSdjUxY3FRY3FsM0JCTmRNTmc5cF93Y3Z2R0dkcHhzdlc5Yzhxa0RaVjBMVU5rUHhPNVRUQ2cxVFEwTng4bEM2WnIxYlFkZTJubw?oc=5"
         },
         {
-          "text": "张俊杰卸任茶姬企业管理集团董事长，仍任霸王茶姬董事长兼CEO - DoNews",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jdEJhVEtWR3dOMEZSaHM5Ty1iRlN5YUFyTzZBa080X3RicXRYRjE0b0lidWVuYXRuSEx2UU9MNk1PMTQtM2JlOVlPMzVVd2RocGd5YVVmSlltZndpTWc?oc=5"
+          "text": "小米汽车与电池企业战略合作，全链路深度协同筑牢电池安全 - 新浪网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVJMcDFsRlVjeGZ3cG1wSXAzV0o3dTV3ckFPRkN0Wkh2ZUkzNkgxeVptcThIY1B5ckpZajV5SHB6em03a2dIUWdpWjVxZXBaXzBYY19DMnUwM0NXME5JWjBLbUVkdjZ1dlZKY1dJYlhRY3o2NlV2SzV6U0xqMXkyZ3BR?oc=5"
         },
         {
-          "text": "霸王茶姬关联公司更名茶姬企业管理 张俊杰卸任董事长 - 观点网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBFbUgyRVVWYWUybWhZaUl5MFVod2lXbWVfVlU1Zy00LXVwbFlOYV9zWXVHUWJjWldRZXozTFgtcDg4d1JSMjNpSVphWUladw?oc=5"
+          "text": "“大宗商品供应链韧性交流活动”化工产品供应链专场交流座谈会举办 - 新浪财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xeHZVWHNFZFJMdTBGNjZtSE1mTFFkWnAyLTFobVYwTU1ZVS16YklJS21aNEF3eFBKNE80U2xqaE1nbm5fNU1nM0hnMFRPNE9rcm1BaVVIMVNGckZFTTdjVlpBXzFOdkJOZHpYcjl1dUNQTmxLYjZjaQ?oc=5"
         }
       ]
     }
