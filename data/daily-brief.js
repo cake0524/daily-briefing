@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月6日",
+  "publishDate": "2026年9月7日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "推动传统产业优化升级 - 新浪财经",
+      "title": "长江迎来“瑞航启盛”轮 - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Harvard scientists turn knitting into s…",
+      "title": "AI can now control fusion plasma faster…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:37",
-          "title": "推动传统产业优化升级 - 新浪财经",
-          "summary": "推动传统产业优化升级 新浪财经",
+          "time": "08:55",
+          "title": "长江迎来“瑞航启盛”轮 - 新浪财经",
+          "summary": "长江迎来“瑞航启盛”轮 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YNkZhaGFiMFMzbzlrY0hCanR3clNVTXZMU2ZJd3NqYWpFc1ZKRmZqb1VuNEVLUmFJNGxVWVg4cUZVRUNidVpYYVl3dHFlMlEyTEVTQTg3cGpxNmU5a1ZJV0N3TUJpa2Rtd2daU1JtWEVHQ1hrNmxIZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2xIRktLc0hLS2lwSjBGQUZzOHJHZVJKd2JHYzFTb01leHRHaU1DMC1oSFFCLThDZG9WYzZKMDlZbzUxRTFtdE9YMzR5WTRiTThQT0V2dm1Yeml3Ml8xX3RQdnQ5UVRrR0FPSENFTk04MnJXeHVvNmVXOGpLQU9vT3gyV0FmZGVCa05Wa2JUNWt2Tk1qREZveA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:24",
-          "title": "省制造业赋能·智能传感器创新创业大赛将启幕 - 央广网",
-          "summary": "省制造业赋能·智能传感器创新创业大赛将启幕 央广网",
+          "time": "08:46",
+          "title": "以展为桥 建设东北亚制造业合作新枢纽 - 中国共产党新闻网",
+          "summary": "以展为桥 建设东北亚制造业合作新枢纽 中国共产党新闻网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xMW1XU1hxN2tJdm9FTmhYWEpmdEdqUVY4eDlQU3ZSbGFVMk1OOGhHMGd1akZVbTRrU2t3OEJyZlFoX2FkejBqOGs1WDBWQjNLVVh4WENVVWs4eW5XcVBzMy16WnI1RGpNN19ZU0VjSzdnUk54QU5ZdmI5Z0tKdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EREZOQS1xQlhqRkY3X0EwVWJSV1FwQXFfQmowaGt5akdhb1lBRWVGaU01Tmg0YVBfSG1wZ1RBZ09CcmdzeXRrVEtqc0JwV1B5SmkwNXJFUTFPd1o5dS13RmR3eUphQ0pseHc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "如何抢占智能网联新能源汽车赛道 - 中青在线",
+          "text": "第12位！中天科技荣登“全球新能源企业500强” - 同花顺",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2TENPa25sOEV5YmNPdHZDOXRTeFRmSHptaHJYcjZCdE5rUnZOVGVXZG44VWx4bjlhcnpPaFJxdE5NSFdIRF8wcjh0ZDM3R1h6b0FUZU11STZoZV9sMS02WjVnMEF6ZGxVaG9tWWxldU4tZnFUMUhNcw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02eFp6MlN0MHd0OGt6OGFfWUF0cE5PZ3RsZ3FDQjJyVnZNRU83dWpxRlo1eWJUM1RSbmJXWWFPQTJVSmNFTGJIQmp3TkVlR203SlRrOTN0aUQwbko2YmpXc25B?oc=5"
         },
         {
-          "text": "【视频】燃油车的底子+新能源的脑子，2027款艾瑞泽8 PRO都占了 - 汽车之家",
+          "text": "广东省制造业数字化转型公共服务平台2.0上线 - gd.chinanews.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ibE9NcmV5akNEaGtUTFJ1UmRGaS1xQWd4ZXczUC1tV1AwSm44VGs2UmtPVkN5c3pxcFpWeUUyeGNibnBYTFkyR05WYlJEZVFQZnN2b3laX2R4Mjg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xQ0Q3eFRWYTFiM0V5aVRUMjJVSlJPTkFUSGZBX0F5WlRXTFlLOE10SVZqZFF0d0tucklVVXJvTVppcDMxM2JDbEJMQnNhTTJHTm04dTk3d2ROSnRKU0NzaWNWY2pKWmQzZUtR?oc=5"
         },
         {
-          "text": "新能源汽车动力电池将迎“退役潮” ，废旧电池何去何从 - thepaper.cn",
+          "text": "中信证券：房地产行业会走一条去制造业的发展道路 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ISV9ENnF0em1rbzJfaWh1QUVXM2NIVkk1ZDBFNlJvakVnbm5tR2JvTklpMWhBeVdhRnFUTGo1VFpLanlyU25xQWowcFZhZVFlYmhRbTJzUUhjV3N1NGNQQw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fQlRxNWR6R3kwWEFrWEVHU1lUQmhQXy15S25nZlBQNTQxSlFkeVc3VFdvN0lwWmxubkpwTnlVX25DQ3U0bktBOTBiTnFJTGxtVUxfdWhkVTJ2MHpZQkFRV2E0TWI2Y2lLclFITVRNWk9rN2tTTDhpSQ?oc=5"
         },
         {
-          "text": "制造“家底”做“跳板”，山东向未来能源要“第二曲线” - 山东宣传网",
+          "text": "615户业主表决小区地库禁停新能源车，如何看待这个小区的选择？ - 风闻",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWdC1YV2FhdXZBRnk0WFY4OER2Zk80cUx4VHlDeE5uOUZOWG0tRHN0ME9JX3NPOUlCcmVrRGpPUE9uWGx2bVh1Znd3Sm1fRnI1UFpQMWdNWnc2U0d1OFRHTERSSm9mNEg4akZWQ1BvQ2w?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qQU5MV3l3YlhDVHpEMlQ1MU4zZ0ZXeVZJa2Rsb0hXaE5VUW5wM0V6cVBFdXFsaHN3QkYyOW05ZE1WQXZhWWtBUXJwOVloZnlWMFRYa2V6MVdweGc?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:28",
+          "title": "AI can now control fusion plasma faster than humans can react",
+          "summary": "Princeton researchers have tested an AI system that can monitor and control fusion plasma in milliseconds, re…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "05:43",
           "title": "Harvard scientists turn knitting into shape-shifting smart fabric",
           "summary": "Harvard researchers have transformed ordinary knitting into a platform for creating fabrics that can snap bet…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260901070543.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "19:52",
-          "title": "MIT turns bacteria into living transistors",
-          "summary": "MIT researchers have created bacterial “transistors” that can be wired together into living circuits capable…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "MIT turns bacteria into living transistors",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm"
+        },
         {
           "text": "Scientists just overturned a century-old physics assumption",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "A “quantum bath” puts quantum entanglement on autopilot",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm"
-        },
-        {
-          "text": "This strange “spacetime crystal” can suddenly become a black hole",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:39",
-          "title": "Architecting memory and storage in the AI era",
-          "summary": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real ti…",
+          "time": "17:00",
+          "title": "An Alien Mind",
+          "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stro…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/an-alien-mind"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "16:00",
+          "title": "Research acceleration: The view inside OpenAI",
+          "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocit…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Architecting memory and storage in the AI era",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
         },
         {
-          "priority": "重点看点 02",
-          "time": "17:25",
-          "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-          "summary": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a criti…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Daybreak for Frontline Defenders: $1B to protect essential services",
           "source": "OpenAI",
           "url": "https://openai.com/index/daybreak-for-frontline-defenders"
         },
         {
-          "text": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/playco-game-prototyping-with-astra"
-        },
-        {
           "text": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
           "source": "OpenAI",
           "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
-        },
-        {
-          "text": "GPT-6 Astra: A new generation of intelligence",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/gpt-6-astra"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:08",
-          "title": "LOL竞猜模式与某知名旅游公司战略合作后，首个项目落地旅行特权！ - 体坛",
-          "summary": "LOL竞猜模式与某知名旅游公司战略合作后，首个项目落地旅行特权！ 体坛",
+          "time": "22:53",
+          "title": "梁建章的AI预言：企业管理新革命，AI加班模式即将上线？ - 新浪网",
+          "summary": "梁建章的AI预言：企业管理新革命，AI加班模式即将上线？ 新浪网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VTnJMYS1hc2puMi0ydnFEa3Q3ZGY1LUgzaFFKM3g4TFJpQm1RaEZZVGpqOV85RmVjM2FEVExFWEROOVFuVlVWYndkaEM?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWJoMThqdGxBeF9XRkY1WGtNVUx4dkZROHVzVFRLM2tmNDdsWHpKMS0zODgxR1lSbjRISmFZdUxMMHBHTC1YdEU0UktLZW9ra09oaWVIVDBYWnpZRE43VUpRUU56VGxFNHRwdUF6WThnZ05LTnB6akdfWUtWQlNFaw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:22",
-          "title": "重磅！国家发改委：《售电公司管理办法》公开征求意见 - Sohu",
-          "summary": "重磅！国家发改委：《售电公司管理办法》公开征求意见 Sohu",
+          "time": "22:01",
+          "title": "合规运营优化管理架构，联华证券有实盘机制持续强化服务标准 - 新浪财经",
+          "summary": "合规运营优化管理架构，联华证券有实盘机制持续强化服务标准 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVW5jMENkV2J0Q3ZhTW1teU1KS0R6dDIxUW84SE1EeEFVeFZsd1pMakFuMDdhazZzTXhuZ19iZ3doalItblZZbXlRMUZLUEFCSG1pUzVtNmMtdjdVZHpKU3c1aE41QkIxbGd6Q2dJOTNaYlRNOFNWRzZXbzQ3N2tPQmdOTWUxM3Q2blY5bA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcElVRVNPaDZNNzZJWjhjXy1ObkN1c0pJYmpUc1lGa0NyQ2VWOHFiOGo3UlBuMjBnT1VLbC1mOHg5ZTFoUnpETmdRUXFrOEY2cUtMNmlHNVNmSERMSWVpNkZRR05SUWxWYVFYZHE2WS1BVG9LYU5qTFVyaTBQUlpJcUFpOHF5dzZYbHBj?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "企业战略与技术投入ESBALL世博官网备用客户端: 助力赛事管理的新机遇-体坛网_体坛+ - 体坛",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzcHJrODRBNlRHSkR1ZmNRbEpDUjZEUUl6TFJ5SllMUmZPUTAwX2QzVGF2VDBGak5IdzlkQnFOQy1kOXFvMmJMSFhpNHBkS2FpbjZ1dkxLRkhoVWJLNkE?oc=5"
+          "text": "通力科技股东温州通途企业管理咨询中心（有限合伙）拟减持321.36万股套现6363.01万元，为首次减持 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeF9VckNBZHEzRE02ck1CNmNOQXh0TjhSTGY4NF9SMHo1UXdxbjNFcHlHZHRJbjNYb1dZQ2pQcVdnX1NqaVhSc3VqX0xONTY0UnVaaF82cTlKaEtndW1kUVVxdG81MFlwdGwxOWJCUFQwQzE3dlJtdG9HYl9uN2RMWWppVW0yS0ZLZXc?oc=5"
         },
         {
-          "text": "大宗商品供应链韧性交流活动在山西太原举行 - Sohu",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0owRHBwWWxRUXJIaVZhb0V5RHk4MUFPUGJRbWlkd3ZSazJkMWRsMjJFS1pKT2lybmdnUTRZblMwWGNSdjUxY3FRY3FsM0JCTmRNTmc5cF93Y3Z2R0dkcHhzdlc5Yzhxa0RaVjBMVU5rUHhPNVRUQ2cxVFEwTng4bEM2WnIxYlFkZTJubw?oc=5"
+          "text": "宇邦新材：控股股东拟变更为苏州德翎企业管理咨询有限公司 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBETHRzUjZMN3VfNm5lQVNwUDZWRkllUFBjWDVvQ29WVFE2bmxSWVF0RjNWMVBCN0ZSZ1lhRE9sUl9ZMmFiZzdzdFBNLXJ5TjJUSHRqaDE2UDNTR3NDUlBkNnJrdmFMdw?oc=5"
         },
         {
-          "text": "小米汽车与电池企业战略合作，全链路深度协同筑牢电池安全 - 新浪网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVJMcDFsRlVjeGZ3cG1wSXAzV0o3dTV3ckFPRkN0Wkh2ZUkzNkgxeVptcThIY1B5ckpZajV5SHB6em03a2dIUWdpWjVxZXBaXzBYY19DMnUwM0NXME5JWjBLbUVkdjZ1dlZKY1dJYlhRY3o2NlV2SzV6U0xqMXkyZ3BR?oc=5"
+          "text": "通力科技：温州通途企业管理咨询中心（有限合伙）拟减持不超2.11%股份 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PZTJsR0RxSVhlMGlSb2FoTmd0OFJDNVhFX2pGb0JMNlJfR0ZySnJScEdobU9wakJRRzVWazhMSW0yRWZvdUF5V0s0TFE2dHJnZmppYnBXUjZHR2tCd0t5NXhuOU93QQ?oc=5"
         },
         {
-          "text": "“大宗商品供应链韧性交流活动”化工产品供应链专场交流座谈会举办 - 新浪财经",
+          "text": "从对蓝海的误解，谈企业战略思想 - 风闻",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xeHZVWHNFZFJMdTBGNjZtSE1mTFFkWnAyLTFobVYwTU1ZVS16YklJS21aNEF3eFBKNE80U2xqaE1nbm5fNU1nM0hnMFRPNE9rcm1BaVVIMVNGckZFTTdjVlpBXzFOdkJOZHpYcjl1dUNQTmxLYjZjaQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tLVdycEVjdHpsOVFoN2lKOXBPblYwcF8yaTBOTTJKTnlySjgtYURQcEN0ZFZsaVFsUVZXOFg4eUJuUjBmQmNNYWRjaDRzeXNMZVE4LW9LeVJDcnRZZHZkYTMtejYzSW1Ta0E?oc=5"
         }
       ]
     }
