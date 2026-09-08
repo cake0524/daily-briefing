@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月7日",
+  "publishDate": "2026年9月8日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "长江迎来“瑞航启盛”轮 - 新浪财经",
+      "title": "半年用电八百一十亿度，新能源汽车充电的“源”头困局 - or100.cc",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:55",
-          "title": "长江迎来“瑞航启盛”轮 - 新浪财经",
-          "summary": "长江迎来“瑞航启盛”轮 新浪财经",
+          "time": "08:59",
+          "title": "半年用电八百一十亿度，新能源汽车充电的“源”头困局 - or100.cc",
+          "summary": "半年用电八百一十亿度，新能源汽车充电的“源”头困局 or100.cc",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN2xIRktLc0hLS2lwSjBGQUZzOHJHZVJKd2JHYzFTb01leHRHaU1DMC1oSFFCLThDZG9WYzZKMDlZbzUxRTFtdE9YMzR5WTRiTThQT0V2dm1Yeml3Ml8xX3RQdnQ5UVRrR0FPSENFTk04MnJXeHVvNmVXOGpLQU9vT3gyV0FmZGVCa05Wa2JUNWt2Tk1qREZveA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5nQm9ISU04bXVSZ0dhLWFpdWh6VGxLSzhLa3g5b05HUkNWMk5fVTRacFpySk1hZUNNVllLanlydm5aODA3?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:46",
-          "title": "以展为桥 建设东北亚制造业合作新枢纽 - 中国共产党新闻网",
-          "summary": "以展为桥 建设东北亚制造业合作新枢纽 中国共产党新闻网",
+          "time": "08:56",
+          "title": "上市财险半年考：承保利润普遍改善，新能源车险成驱动力 - 新浪财经",
+          "summary": "上市财险半年考：承保利润普遍改善，新能源车险成驱动力 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EREZOQS1xQlhqRkY3X0EwVWJSV1FwQXFfQmowaGt5akdhb1lBRWVGaU01Tmg0YVBfSG1wZ1RBZ09CcmdzeXRrVEtqc0JwV1B5SmkwNXJFUTFPd1o5dS13RmR3eUphQ0pseHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUpIYUd6dDBJQUp5eXdtSEZEbDVXb2JHR2NSZmU2S1Ywam9MTUo1bG9yVk41dlU2LXVtanAxOWQ4VDluMURVQ3V6U0NUSk9icWlhdWdYVVRZT19HR051bzJOX0xOUTRoLXkzQTA4QUtwZmFjVXFNaEJMV0UtVV8zVkxENnBfMkotM3VOczJYdUl5S3doaC0tag?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "第12位！中天科技荣登“全球新能源企业500强” - 同花顺",
+          "text": "智光电气等成立新能源投资公司 - 同花顺财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02eFp6MlN0MHd0OGt6OGFfWUF0cE5PZ3RsZ3FDQjJyVnZNRU83dWpxRlo1eWJUM1RSbmJXWWFPQTJVSmNFTGJIQmp3TkVlR203SlRrOTN0aUQwbko2YmpXc25B?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwQmI4OU1xTDhfU1pxM1U5VzlUczJVS1pfZTl6dVdPREdSd3E3VmdCdkNQcVR0bm5wS0xqdGVRNmYwNmJFUzZ4Vy1SVFBZYU1udnloNjhQQ1J6WWRfa0tRdGln?oc=5"
         },
         {
-          "text": "广东省制造业数字化转型公共服务平台2.0上线 - gd.chinanews.com.cn",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xQ0Q3eFRWYTFiM0V5aVRUMjJVSlJPTkFUSGZBX0F5WlRXTFlLOE10SVZqZFF0d0tucklVVXJvTVppcDMxM2JDbEJMQnNhTTJHTm04dTk3d2ROSnRKU0NzaWNWY2pKWmQzZUtR?oc=5"
+          "text": "一辆新能源车撞上大树气囊未弹出，男子调侃安全气囊真结实！ - 网易新闻客户端",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DcFRhYWNGV0xGTlU1TFF6dGhSOVoweWF5RGFENjZUT0xFUzdzZzUzdHNKU3gtbDduZjlsQTJ1QlVsTzRQRlJZUFl1OHU0LVdiVk93?oc=5"
         },
         {
-          "text": "中信证券：房地产行业会走一条去制造业的发展道路 - 新浪财经",
+          "text": "海口：深耕制造业锻造硬实力 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fQlRxNWR6R3kwWEFrWEVHU1lUQmhQXy15S25nZlBQNTQxSlFkeVc3VFdvN0lwWmxubkpwTnlVX25DQ3U0bktBOTBiTnFJTGxtVUxfdWhkVTJ2MHpZQkFRV2E0TWI2Y2lLclFITVRNWk9rN2tTTDhpSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcF9vT0xKdGJ1WWMxRmxwbUVqVXBzdk9PNDlEdmh4QnBBV1hIaEdRcjQyZk5HZHBSTFhxZTFzajdjVFhmYVpXY2tWblZpNDBPUGZPUmRaaWw2MnJqZ0wyUm9tSDF1N0ExQnp3S2hTbGYwTVNJSkJLUDU1cnJFQUdFd21heExBQ2FTcDl4cGRHSTZhRWx3Rm1kdw?oc=5"
         },
         {
-          "text": "615户业主表决小区地库禁停新能源车，如何看待这个小区的选择？ - 风闻",
+          "text": "2026印度新能源汽车与关键零部件本地化准入合规报告 - 电子工程专辑",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1qQU5MV3l3YlhDVHpEMlQ1MU4zZ0ZXeVZJa2Rsb0hXaE5VUW5wM0V6cVBFdXFsaHN3QkYyOW05ZE1WQXZhWWtBUXJwOVloZnlWMFRYa2V6MVdweGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXZWtaVmJZVzh0VkhMOWFOeFlvNndmcFhzUDlVSHZZUTVIR3d0NC0wU0FFcHZnVnVLamxMNm44NTczX0I2dWRxYy1ZUnMtajExSFNZ?oc=5"
         }
       ]
     },
@@ -170,24 +170,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "08:00",
+          "title": "Supporting independent journalism in Ukraine",
+          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation,…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "17:00",
           "title": "An Alien Mind",
           "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stro…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
           "url": "https://openai.com/index/an-alien-mind"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "16:00",
-          "title": "Research acceleration: The view inside OpenAI",
-          "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocit…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai"
         }
       ],
       "briefs": [
+        {
+          "text": "Research acceleration: The view inside OpenAI",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai"
+        },
         {
           "text": "Architecting memory and storage in the AI era",
           "source": "MIT Technology Review AI",
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "Daybreak for Frontline Defenders: $1B to protect essential services",
           "source": "OpenAI",
           "url": "https://openai.com/index/daybreak-for-frontline-defenders"
-        },
-        {
-          "text": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:53",
-          "title": "梁建章的AI预言：企业管理新革命，AI加班模式即将上线？ - 新浪网",
-          "summary": "梁建章的AI预言：企业管理新革命，AI加班模式即将上线？ 新浪网",
+          "time": "08:28",
+          "title": "理财公司管理规模洗牌 含权产品与代销渠道成胜负手 - 新浪财经",
+          "summary": "理财公司管理规模洗牌 含权产品与代销渠道成胜负手 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTWJoMThqdGxBeF9XRkY1WGtNVUx4dkZROHVzVFRLM2tmNDdsWHpKMS0zODgxR1lSbjRISmFZdUxMMHBHTC1YdEU0UktLZW9ra09oaWVIVDBYWnpZRE43VUpRUU56VGxFNHRwdUF6WThnZ05LTnB6akdfWUtWQlNFaw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUR2MzJlQnhGOVJ6d25ISkVxblpfbXFja0lYRS1NQ0hUdDFGRFJENlRsa1VVLUFZYlREUGJBcXgxSzhNbXQyaHFoZHZ6Z2ZzX0dURWJWYWREOC1ORzBPZnNTdm5oTm9ZVWFRNkwxR2JOT1pIRWFCN3I5SUJRS1FaN2g3eldZYUQtV3ZSWkJXNWg1OFZkMThIMEE1VFBBWWxQRWZQRHNuUG9tWU9xMGMw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "22:01",
-          "title": "合规运营优化管理架构，联华证券有实盘机制持续强化服务标准 - 新浪财经",
-          "summary": "合规运营优化管理架构，联华证券有实盘机制持续强化服务标准 新浪财经",
+          "time": "23:06",
+          "title": "烟台两家本土企业战略联手，连接三文鱼全产业链“关键断点” - Sohu",
+          "summary": "烟台两家本土企业战略联手，连接三文鱼全产业链“关键断点” Sohu",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcElVRVNPaDZNNzZJWjhjXy1ObkN1c0pJYmpUc1lGa0NyQ2VWOHFiOGo3UlBuMjBnT1VLbC1mOHg5ZTFoUnpETmdRUXFrOEY2cUtMNmlHNVNmSERMSWVpNkZRR05SUWxWYVFYZHE2WS1BVG9LYU5qTFVyaTBQUlpJcUFpOHF5dzZYbHBj?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUGRqVUdBX1hlWGUyYm5fLVhseDRmYUtWS2hiMUYzd2NudjZPbllBVUZrN2E4VWNSUzdpRUxma282cmd5U3JSTW5XbFV2cGNhM3J2dUNlZUhiX3lkWHRZVlNrZHBqdFVQNnJIcDBDbXF5X2U2eHpudVdMSnRKUGZqZlBhZ2wtaWQyRmtnbw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "通力科技股东温州通途企业管理咨询中心（有限合伙）拟减持321.36万股套现6363.01万元，为首次减持 - 新浪财经",
+          "text": "浪子小越公司管理曝光王小越和团队主播处对象了，突然停播了这是又躲起来了，这回你咋解释、不是说这几年没处过对象嘛、如果是真的你这是欺骗了多少人多少大姐 - 新浪网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeF9VckNBZHEzRE02ck1CNmNOQXh0TjhSTGY4NF9SMHo1UXdxbjNFcHlHZHRJbjNYb1dZQ2pQcVdnX1NqaVhSc3VqX0xONTY0UnVaaF82cTlKaEtndW1kUVVxdG81MFlwdGwxOWJCUFQwQzE3dlJtdG9HYl9uN2RMWWppVW0yS0ZLZXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51WTBxZzJ3MDFPUFB5d0djOE1uRzZTRUNKSklTaWxJMElPdTlDeWpORGFZUEhtd0RjOWt5N2ZVWHFiVjJQejExM1NuSUUxY3cyMjNTd2dJcmJEaEd1NEo0b0hxdw?oc=5"
         },
         {
-          "text": "宇邦新材：控股股东拟变更为苏州德翎企业管理咨询有限公司 - 东方财富",
+          "text": "理财公司管理规模洗牌，含权产品与代销渠道成胜负手_财经_24H快讯 - bihainews.com",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBETHRzUjZMN3VfNm5lQVNwUDZWRkllUFBjWDVvQ29WVFE2bmxSWVF0RjNWMVBCN0ZSZ1lhRE9sUl9ZMmFiZzdzdFBNLXJ5TjJUSHRqaDE2UDNTR3NDUlBkNnJrdmFMdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQamw4VUtnNlpPbkNsSll6eVlkMEdLOUExZ2VWLVoySFFGVEp1VGNsN3pISzhfX2lWSnRtRVV1U3k1RDNPN0l5dG9UMnhtOHNrb2ZqUHl6VGY3R3lmaVNBRkhjYlpWdw?oc=5"
         },
         {
-          "text": "通力科技：温州通途企业管理咨询中心（有限合伙）拟减持不超2.11%股份 - 东方财富",
+          "text": "怎么这么多知名企业管理出轨的，聊天记录又被晒出十几页，聊天尺度也是如此之大……[捂嘴哭][捂嘴哭] ​ - 新浪网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9PZTJsR0RxSVhlMGlSb2FoTmd0OFJDNVhFX2pGb0JMNlJfR0ZySnJScEdobU9wakJRRzVWazhMSW0yRWZvdUF5V0s0TFE2dHJnZmppYnBXUjZHR2tCd0t5NXhuOU93QQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNSXJIOHduTGdBOEFPTDhrc2FHTkxoalV5emthcms0b3dzUmtXV091RlJUdC1rSmRDd25YQU1Uckhicmo1NjNCNHhxUEVxRUNZRWR3YXhJeHZpUkV4UU1yS2hrNA?oc=5"
         },
         {
-          "text": "从对蓝海的误解，谈企业战略思想 - 风闻",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tLVdycEVjdHpsOVFoN2lKOXBPblYwcF8yaTBOTTJKTnlySjgtYURQcEN0ZFZsaVFsUVZXOFg4eUJuUjBmQmNNYWRjaDRzeXNMZVE4LW9LeVJDcnRZZHZkYTMtejYzSW1Ta0E?oc=5"
+          "text": "神力股份：深圳市前海中物一方企业管理顾问有限公司已不再持有公司股份 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Yd201eEVMaFNCWmtUZ1NTMmctaUhJRUpPd0lKNG85M0NpRWZVdzdvcTJVM2hUMjNiSlRERHdYS3dBRGV0enllSm5mMDNpWU5QNFdzYkVOZDVyaUhuNFVZMHlCYVFUQQ?oc=5"
         }
       ]
     }
