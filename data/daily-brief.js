@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月8日",
+  "publishDate": "2026年9月9日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "半年用电八百一十亿度，新能源汽车充电的“源”头困局 - or100.cc",
+      "title": "新能源车渗透率突破65%，快充正式成为买车第一硬标准 - 车家号",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "AI can now control fusion plasma faster…",
+      "title": "An important step towards detecting fra…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:59",
-          "title": "半年用电八百一十亿度，新能源汽车充电的“源”头困局 - or100.cc",
-          "summary": "半年用电八百一十亿度，新能源汽车充电的“源”头困局 or100.cc",
+          "time": "09:03",
+          "title": "新能源车渗透率突破65%，快充正式成为买车第一硬标准 - 车家号",
+          "summary": "新能源车渗透率突破65%，快充正式成为买车第一硬标准 车家号",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5nQm9ISU04bXVSZ0dhLWFpdWh6VGxLSzhLa3g5b05HUkNWMk5fVTRacFpySk1hZUNNVllLanlydm5aODA3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yVFNka25seVhqV1pJT3ZoX0wwMTNjdGViSndCdlpTRE1mcy1ubnNQeDI5X3Y2d2RzdjM4ZHhNaEY0eVlDZnRPdDRQYXptYlQtSHd3NnRHRU9sVm0ta2VkaFlESWRDRjVHOGdZ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:56",
-          "title": "上市财险半年考：承保利润普遍改善，新能源车险成驱动力 - 新浪财经",
-          "summary": "上市财险半年考：承保利润普遍改善，新能源车险成驱动力 新浪财经",
+          "time": "09:02",
+          "title": "传统油企打造新能源转型样板 - 新华网广东",
+          "summary": "传统油企打造新能源转型样板 新华网广东",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbUpIYUd6dDBJQUp5eXdtSEZEbDVXb2JHR2NSZmU2S1Ywam9MTUo1bG9yVk41dlU2LXVtanAxOWQ4VDluMURVQ3V6U0NUSk9icWlhdWdYVVRZT19HR051bzJOX0xOUTRoLXkzQTA4QUtwZmFjVXFNaEJMV0UtVV8zVkxENnBfMkotM3VOczJYdUl5S3doaC0tag?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbDRsdDY0OXF1eWEtV1hWOVpHeV9iNGE1Z0Q0VXJXNVZkNVV3a25FN1FmLXRTaTZJOF9rYVNaYjRVNnVnLTNyZlpqMFV0cHVzbkRHU29RVlhfUmxoNUhnU0laWjEtX0lWci1vNmNvSG0yZFpReXZtZy1FdGtOMG5ISlN3?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "智光电气等成立新能源投资公司 - 同花顺财经",
+          "text": "加码储能！公牛集团收购艾伏新能源，补齐逆变器“拼图” - 碳索储能网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwQmI4OU1xTDhfU1pxM1U5VzlUczJVS1pfZTl6dVdPREdSd3E3VmdCdkNQcVR0bm5wS0xqdGVRNmYwNmJFUzZ4Vy1SVFBZYU1udnloNjhQQ1J6WWRfa0tRdGln?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ycElBMFVWMExmamU2S0VBWWlwdlRHZnYzSDZlTi1nYmU5Ql93bUVIZnVpV0lROGhvVWRLOU5aV1BOaWNZbTU3dFh2dW0xdTR6ZzNFcHBZZFdkMUlVQWJlNw?oc=5"
         },
         {
-          "text": "一辆新能源车撞上大树气囊未弹出，男子调侃安全气囊真结实！ - 网易新闻客户端",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DcFRhYWNGV0xGTlU1TFF6dGhSOVoweWF5RGFENjZUT0xFUzdzZzUzdHNKU3gtbDduZjlsQTJ1QlVsTzRQRlJZUFl1OHU0LVdiVk93?oc=5"
+          "text": "一亿粉丝博主，挑战好汉坡。 中国新能源越野车大集合，你看好谁？ http://t.cn/A6aW78Nj ​ - 新浪网",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9NWjdHckFuam0zWE5aczd2cEFnRWN6MEFKNzB5VGN6UDFkWEoxWjF0UDltZDBVMEQzUnhnMkZtMThTLWlNdXY1bzdiZncxVWgtSUc2bUdVM3lySGNlNDFJRTVpSQ?oc=5"
         },
         {
-          "text": "海口：深耕制造业锻造硬实力 - 新浪财经",
+          "text": "8月新能源乘用车，同比下降10.1% - Sohu",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcF9vT0xKdGJ1WWMxRmxwbUVqVXBzdk9PNDlEdmh4QnBBV1hIaEdRcjQyZk5HZHBSTFhxZTFzajdjVFhmYVpXY2tWblZpNDBPUGZPUmRaaWw2MnJqZ0wyUm9tSDF1N0ExQnp3S2hTbGYwTVNJSkJLUDU1cnJFQUdFd21heExBQ2FTcDl4cGRHSTZhRWx3Rm1kdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXNEX3BTTzNFZzJwNTl4eGN3eE5xLWhXQ3NNVl9KeUtHZlp1bFByUEtwUzBBU1c4dHFwSHUxZW5WbGZIbTczd3BsajIzSTZ5ZEVtcDFCc3JjdDNoU3MtZ2Jqa3JVZmlvT3JIZ001cjlBVXZjMk55RDVpeXluVG9HMTdDTjhqQXd0c0Z4Ng?oc=5"
         },
         {
-          "text": "2026印度新能源汽车与关键零部件本地化准入合规报告 - 电子工程专辑",
+          "text": "8月新能源乘用车零售数据出炉！油车销量大跌40% - 温州新闻",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXZWtaVmJZVzh0VkhMOWFOeFlvNndmcFhzUDlVSHZZUTVIR3d0NC0wU0FFcHZnVnVLamxMNm44NTczX0I2dWRxYy1ZUnMtajExSFNZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JZjVKVmJYdVMzSUxjWXBzWE4xT2d1S2FERHN0RktKeDNxQ3JoYnNuVXQxSmEtejh4UE5zMmhIQ09PZ1dWZjRrZ2pBRHFZYnk1S3pXdGF1Z0hvckRvR0lGcWZ1VWVQdw?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:28",
-          "title": "AI can now control fusion plasma faster than humans can react",
-          "summary": "Princeton researchers have tested an AI system that can monitor and control fusion plasma in milliseconds, re…",
+          "time": "13:45",
+          "title": "An important step towards detecting fractons in quantum spin liquids",
+          "summary": "A more realistic quantum model has revealed evidence that strange, nearly immobile quasiparticles called frac…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260903064222.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "09:14",
+          "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
+          "summary": "Scientists have devised a new way to switch magnetic computer memory while using far less energy than today's…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "AI can now control fusion plasma faster than humans can react",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "05:43",
-          "title": "Harvard scientists turn knitting into shape-shifting smart fabric",
-          "summary": "Harvard researchers have transformed ordinary knitting into a platform for creating fabrics that can snap bet…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Harvard scientists turn knitting into shape-shifting smart fabric",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260901070543.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "MIT turns bacteria into living transistors",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Scientists just overturned a century-old physics assumption",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm"
-        },
-        {
-          "text": "Scientists discover two superconducting states hiding as one",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260828005222.htm"
-        },
-        {
-          "text": "A “quantum bath” puts quantum entanglement on autopilot",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/08/260830000002.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:00",
-          "title": "Supporting independent journalism in Ukraine",
-          "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation,…",
+          "time": "01:00",
+          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+          "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, anal…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+          "url": "https://openai.com/index/codex-quantum-computing-experiments"
         },
         {
           "priority": "重点看点 02",
-          "time": "17:00",
-          "title": "An Alien Mind",
-          "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stro…",
+          "time": "21:00",
+          "title": "The Work Now Within Reach",
+          "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make gro…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/an-alien-mind"
+          "url": "https://openai.com/index/the-work-now-within-reach"
         }
       ],
       "briefs": [
         {
-          "text": "Research acceleration: The view inside OpenAI",
+          "text": "Introducing ChatGPT Images 2.5",
           "source": "OpenAI",
-          "url": "https://openai.com/index/research-acceleration-view-inside-openai"
+          "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
         },
         {
-          "text": "Architecting memory and storage in the AI era",
+          "text": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
+          "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
         },
         {
-          "text": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
-        },
-        {
-          "text": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "text": "On the Navier–Stokes Millennium Prize Problem",
           "source": "OpenAI",
-          "url": "https://openai.com/index/daybreak-for-frontline-defenders"
+          "url": "https://openai.com/index/navier-stokes-solution"
+        },
+        {
+          "text": "Funding grants for new research into AI and teen development",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/teen-development-research-grants"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Chip Industry Week In Review",
-          "summary": "2D Tunnel FET; in-memory photonic computing; India's $13.4B Semicon 2.0; SEMICON Taiwan; PCIe 6/7 test; Media…",
+          "time": "15:15",
+          "title": "Smart Outlier Detection",
+          "summary": "Just because a chip is deemed good doesn't mean it will work as expected. The post Smart Outlier Detection ap…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-154/"
+          "url": "https://semiengineering.com/smart-outlier-detection/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:08",
-          "title": "Intelligent Engineering: From Optimization To AI",
-          "summary": "A methodology for transforming engineering decisions from educated guesses into data-driven choices. The post…",
+          "time": "15:01",
+          "title": "Research Bits: Sept. 8",
+          "summary": "Carbon insulator for interconnects; high-temperature SiC JFETs; VCT dielectric. The post Research Bits: Sept.…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/intelligent-engineering-from-optimization-to-ai/"
+          "url": "https://semiengineering.com/research-bits-sept-8-2/"
         }
       ],
       "briefs": [
         {
+          "text": "Chip Industry Technical Paper Roundup: Sept. 8",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-8-2/"
+        },
+        {
+          "text": "Chip Industry Week In Review",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-154/"
+        },
+        {
+          "text": "Intelligent Engineering: From Optimization To AI",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/intelligent-engineering-from-optimization-to-ai/"
+        },
+        {
           "text": "Protecting Mission-Critical Data Beyond The SoC: Why Inline Memory Encryption N…",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/protecting-mission-critical-data-beyond-the-soc-why-inline-memory-encryption-needs-integrity/"
-        },
-        {
-          "text": "Building Trust Into Physical AI Systems",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/building-trust-into-physical-ai-systems/"
-        },
-        {
-          "text": "Humanoid Compute, Security More Complex Than AVs",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/humanoid-compute-security-more-complex-than-avs/"
-        },
-        {
-          "text": "AI Is Forcing Data Centers To Rethink Trust",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-is-forcing-data-centers-to-rethink-trust/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:28",
-          "title": "理财公司管理规模洗牌 含权产品与代销渠道成胜负手 - 新浪财经",
-          "summary": "理财公司管理规模洗牌 含权产品与代销渠道成胜负手 新浪财经",
+          "time": "23:02",
+          "title": "签约超70亿，800余名嘉宾！太原能源低碳论坛共商大宗商品供应链韧性 - 新浪财经",
+          "summary": "签约超70亿，800余名嘉宾！太原能源低碳论坛共商大宗商品供应链韧性 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUR2MzJlQnhGOVJ6d25ISkVxblpfbXFja0lYRS1NQ0hUdDFGRFJENlRsa1VVLUFZYlREUGJBcXgxSzhNbXQyaHFoZHZ6Z2ZzX0dURWJWYWREOC1ORzBPZnNTdm5oTm9ZVWFRNkwxR2JOT1pIRWFCN3I5SUJRS1FaN2g3eldZYUQtV3ZSWkJXNWg1OFZkMThIMEE1VFBBWWxQRWZQRHNuUG9tWU9xMGMw?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMRG5sTzdIMXZJcE15ZDhKR2hfc2FiWWZDc2EzQllpbTBIMkhmcHNJLURpVDloMnZzXzc5TnV4NzhjRTJBX2d3SzA3WG1uUkxmRmd1eDU5Y1lwYjhYMFEtNl9jMUtldzRwTUlweUpxUE40WVNwR2c?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:06",
-          "title": "烟台两家本土企业战略联手，连接三文鱼全产业链“关键断点” - Sohu",
-          "summary": "烟台两家本土企业战略联手，连接三文鱼全产业链“关键断点” Sohu",
+          "time": "22:04",
+          "title": "越南在韩国企业战略中占据重要地位。 - Vietnam.vn",
+          "summary": "越南在韩国企业战略中占据重要地位。 Vietnam.vn",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUGRqVUdBX1hlWGUyYm5fLVhseDRmYUtWS2hiMUYzd2NudjZPbllBVUZrN2E4VWNSUzdpRUxma282cmd5U3JSTW5XbFV2cGNhM3J2dUNlZUhiX3lkWHRZVlNrZHBqdFVQNnJIcDBDbXF5X2U2eHpudVdMSnRKUGZqZlBhZ2wtaWQyRmtnbw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG51OVFtOTd5M2JHQmh3SDFGVFEzYW1NaU04YndBNlhqXzc4VC13WDZFOXgyWlR0a2ZFa0RfQ3Y1eXROdHN1OFhlYWN4OGdUQnA0SEJweUZWblRmdTcxeUlEbk95bzBwSzdqc0didkhlY2s2Z3ZKcFYyNWFFc3JRTkhCeTlCdUl3aWtvdEhObnMtYXJST01SYWpDbk8waE8wUTR6bA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "浪子小越公司管理曝光王小越和团队主播处对象了，突然停播了这是又躲起来了，这回你咋解释、不是说这几年没处过对象嘛、如果是真的你这是欺骗了多少人多少大姐 - 新浪网",
+          "text": "正邦科技：南昌新振邦企业管理中心（有限合伙）持股比例已降至4.99% - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51WTBxZzJ3MDFPUFB5d0djOE1uRzZTRUNKSklTaWxJMElPdTlDeWpORGFZUEhtd0RjOWt5N2ZVWHFiVjJQejExM1NuSUUxY3cyMjNTd2dJcmJEaEd1NEo0b0hxdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jXzRvNS1QYzdNdzRxZVp6NzJPNkhvd3RxRHlFUjd1bTVHcm9Kck5ucERiOUYxcGVqQ2M4Zk00c1RDc0g0Nk1WTWZjWjd2RWY2clowQmwxR21RTnpraEcyRV9LZ0Z6dw?oc=5"
         },
         {
-          "text": "理财公司管理规模洗牌，含权产品与代销渠道成胜负手_财经_24H快讯 - bihainews.com",
+          "text": "浦东建设、英矽智能等成立企业管理公司 - donews.com",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBQamw4VUtnNlpPbkNsSll6eVlkMEdLOUExZ2VWLVoySFFGVEp1VGNsN3pISzhfX2lWSnRtRVV1U3k1RDNPN0l5dG9UMnhtOHNrb2ZqUHl6VGY3R3lmaVNBRkhjYlpWdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvSVJTY3dqWUNfd1FIOE14TnNRc1JybHFQUFZJeVJFeFVPcXZZOHFVVFFjek9CUXlzV0dZVlpKMTF2SndpSWJFZHlheHozOXRsV3h0dmJmTWpxQ3VLR1E?oc=5"
         },
         {
-          "text": "怎么这么多知名企业管理出轨的，聊天记录又被晒出十几页，聊天尺度也是如此之大……[捂嘴哭][捂嘴哭] ​ - 新浪网",
+          "text": "规范运营优化服务体系，联华证券实盘机制持续提升平台运营水平 - 新浪网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNSXJIOHduTGdBOEFPTDhrc2FHTkxoalV5emthcms0b3dzUmtXV091RlJUdC1rSmRDd25YQU1Uckhicmo1NjNCNHhxUEVxRUNZRWR3YXhJeHZpUkV4UU1yS2hrNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZUFWSW9PWWMzdDVHcGxGVDVEZ3JZT05NUFQwVHBWU1gya1ZUb0k0MjBWR2dVMUV1QlVNa0J3eDQ5enA4alBDR1dJMTV4THhDSG1ZLWo4aFRPRDhpb1dPYlhmeTlreTFmMmJYaUY1Qm1SR0NsSlNqSVhKa3ZYMkswR0FnaFhPa2tLYzc1RldLQm03STAza2c?oc=5"
         },
         {
-          "text": "神力股份：深圳市前海中物一方企业管理顾问有限公司已不再持有公司股份 - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Yd201eEVMaFNCWmtUZ1NTMmctaUhJRUpPd0lKNG85M0NpRWZVdzdvcTJVM2hUMjNiSlRERHdYS3dBRGV0enllSm5mMDNpWU5QNFdzYkVOZDVyaUhuNFVZMHlCYVFUQQ?oc=5"
+          "text": "阿联酋推进替代通道提升供应链韧性 - 见道网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uRV83UndlZEpGbUdTQ1QzLVVENk9admJWRGMwWmw0bFNoc0hRc1pYMTU5S3hLel9iTHRUUms5aUVtSkNXal9ZN3dZZm0ycS1UZUt5NQ?oc=5"
         }
       ]
     }
