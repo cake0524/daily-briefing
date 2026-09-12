@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月11日",
+  "publishDate": "2026年9月12日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "江铃集团新能源全新易至EV2正式上市，定义同级安全新标杆 - 爱咖号",
+      "title": "【视频】新能源皮卡卷出花，燃油新款也没闲着，近期新车全在这 - 车家号",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "An important step towards detecting fra…",
+      "title": "Tiny nanolaser could cut computer energ…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Ukraine: Drone attacks on Chornobyl are…",
+      "title": "Security Council LIVE: Ambassadors mark…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:43",
-          "title": "江铃集团新能源全新易至EV2正式上市，定义同级安全新标杆 - 爱咖号",
-          "summary": "江铃集团新能源全新易至EV2正式上市，定义同级安全新标杆 爱咖号",
+          "time": "09:05",
+          "title": "【视频】新能源皮卡卷出花，燃油新款也没闲着，近期新车全在这 - 车家号",
+          "summary": "【视频】新能源皮卡卷出花，燃油新款也没闲着，近期新车全在这 车家号",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRX1FwczVsSDhPbGF2OVRVMktHcGRmWHZ2Q0lxTGpEQ0I3bzFISFMtMVppWWs5b0padmY2bnktLVJVZ0ZjamlIOVVPb3pJR2sycjZhb2FSSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1teWRLWFNxdGt2czN3dE5fTURDVjRmOEZSUU5nbjZpNldENmxmQ00zdHdKTnlqV251UkQ4MkZSVWlrQTZFMHN1Q3F0LTJJam9TT01KUkV3N211X28?oc=5"
         },
         {
           "priority": "重点看点 02",
           "time": "08:36",
-          "title": "9月10日新能源ETF嘉实基金份额减少1500万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 - 证券之星",
-          "summary": "9月10日新能源ETF嘉实基金份额减少1500万份，重仓股宁德时代、阳光电源、特变电工_基金提醒_雷达 证券之星",
+          "title": "秦皇岛新能源产业稳步向现实生产力转化 - 新浪网",
+          "summary": "秦皇岛新能源产业稳步向现实生产力转化 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50TmRFeDVxal9zakYtb0xwM01seE81SEwwUTdBaDZXeGM1YjhaZjVSYndyTVVLRXhQNWo1R01Sa3FlS25WNXBtLUpIdEpvOV9sazN1ZS12QjBQdlFUV0xtdWFn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1NobU1HMGs3MDRKdXRuLWNGb2FPNmhVckt0akdYamJ5ZURMWS1GdC1sLTZudmdRb3FMT3RaUGJpZXFDSnZPbkFpNHZGZ1dMQ0wxNUl0VjFPT01rWjJPRmZxRVR3LVpYZGxGMXFuQXJnYzVLU1BTN3NsaXVpMnBTSVUtSEJPZ01pLUxHS3V5ekswcHM4S3Q2ZQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "2026昆山国际新能源智能汽车博览会 - 江苏省委新闻网",
+          "text": "中国|智能网联新能源汽车|十五五规划|国际化_新浪新闻 - 电车出海 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSGViRVRBREpxTmswd2JoT0FWcTdLeXpmRWhnQ3liX2pXcnFpZEdJbWh0RnRuRjc0cGxWZ2d3STV3Wi1JeWhMSjk1Z3Q1U2pHS1luVXBjQ01nNHJUWW5lME9hNTVJSENvM0IxU0Z4dXhyMTFpRWJqZXNvV29QZ1pXMlJsbUpfMzA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10WkZRMVJjMnZZYlI1U01UcWFlMnE2VFR2TDA4UDNMaENVY3M1SEp1aG1SRTNyLXR0RVRLVmdEazZZZGRzX0w3QWY4TXBlaHR2SUxEam9VOEVDN19wQW5IN2lacw?oc=5"
         },
         {
-          "text": "云南永德122亿布局32个新能源项目 创新“药光融合”模式做强绿色产业 - finance.sina.cn",
+          "text": "新浪网· - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXFFaWxmM01jOVVmaGY3bGtRQUdfMXNwTFg0NGY2NVp2YUdtUDVkRWZkSF9QX2R2YjVBUktDczNPMWdEc3NMeXc2MzRfOHNPSUF1NEd1LVlsaHpmY2tDZWl2NUZqb0MwbGxrOWNxZlRlLW9ST3p4YTJRcU01WDcyVVF0UVVKRFBMZGw1cktTanVnY3RsZ0ZhMQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mSHV4eHVXdGxZTzBTc1pZMG5MNnl4anNOanJEZ0RyWWFvRVFIRHJCNlpQSEJwbEJNOWJMSG5uQm9TYmR4NFdUZmlWeWNUNTlXdTk4aGJsOFd3WklkZ3o2YnZvSQ?oc=5"
         },
         {
-          "text": "【视频】12.99万买新能源运动轿跑？ - 汽车之家",
+          "text": "【智能网联新能源汽车产业发展“十五五”规划印发，一图读懂→】日前，工业和信息化部等九部门印发《智能网联新能源汽车产业发展“十五五”规划》，明确了“十五五”期间…",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOSUJGQWQzWlZXekNwR0lNS2J2eDUtTUlPYU15T05CRXV4enB1bmRDTm1XVk9zaHpOWGNCLXhtN2NkOFF2bGYyeDlBZS14azNoS3N3MG84Mm5OWGM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8za1lCeUlXYnlpU2RSNTEtLXVJbGpfV1NQQ0FRaGl2LXlDbUFDMFRsbGlLUEdwaXk2U0FfUlA2R2EzdG5yN2xJZFh2OVZVSllhbFlfa0J5WjEtbmdpc092T0dIOA?oc=5"
         },
         {
-          "text": "假新能源加注站现身！江西一地发布提醒 - finance.sina.cn",
+          "text": "宏桥控股现金收购两家云南新能源公司 - 新浪新闻_手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaEZYQWxSbnhOdkdWODMydk5rM05IcWYya0lQaG5nSEVOVXFsc3RyTFdubTZsV0lwYXJZZkFlUGVnZXBwbWs3U0ZyQzRfeFdyQlA4X1ZYeTVtU2dTbVpfNHpTUkxaWXc5VHhLUnhVc1BsbUxaaEU1MkRBUkxTRHpOU2ZqVzZyZTNYMGRUVDltWkRSQXQ1dm0yYg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aNVVxZWFZSTI4VEhmZ3I0VHJXRVA4XzlpWFlGa1BFX0RHNGh0cXJ4anpONWU5QVRTSjZwVGNvdkliOGRYVUVwX01ucERBeFV3a1FxeXhyWnRsbE95TExualpiRTN3dDFCZ3RfR05vTjJJS1pFd25hMg?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "13:45",
-          "title": "An important step towards detecting fractons in quantum spin liquids",
-          "summary": "A more realistic quantum model has revealed evidence that strange, nearly immobile quasiparticles called frac…",
+          "time": "20:03",
+          "title": "Tiny nanolaser could cut computer energy use in half",
+          "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit informati…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "19:52",
+          "title": "Scientists just made quantum computer operations 1,000 times faster",
+          "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thou…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "An important step towards detecting fractons in quantum spin liquids",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260903064222.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "09:14",
-          "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
-          "summary": "Scientists have devised a new way to switch magnetic computer memory while using far less energy than today's…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Scientists find a way to slash computer memory energy use by orders of magnitude",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "AI can now control fusion plasma faster than humans can react",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Harvard scientists turn knitting into shape-shifting smart fabric",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260901070543.htm"
-        },
-        {
-          "text": "MIT turns bacteria into living transistors",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901070526.htm"
-        },
-        {
-          "text": "Scientists just overturned a century-old physics assumption",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901010659.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
-          "summary": "A drone strike on the protective structure at the Chornobyl Nuclear Power Plant could have endangered the saf…",
+          "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+          "summary": "The Security Council met to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as amb…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168312"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168318"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN climate chief warns political division is undermining fight against ‘economic security emergency’",
-          "summary": "The head of the UN's climate body has warned that treating global warming as a partisan issue is dangerously…",
+          "title": "The world just had the hottest August ever",
+          "summary": "Earth just had the hottest August on record, according to newly released weather data.",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168311"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168317"
         }
       ],
       "briefs": [
         {
-          "text": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivo…",
+          "text": "Surge in displacement following fighting in southwest Yemen",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168310"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168314"
         },
         {
-          "text": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
+          "text": "Terrorist propaganda is outpacing global efforts to stop it, UN report finds",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168309"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168313"
         },
         {
-          "text": "Human cost of violence in South Sudan ‘continues to grow’",
+          "text": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions o…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168307"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168312"
         },
         {
-          "text": "‘The water comes up to our knees’: Climate hazards shut millions of children ou…",
+          "text": "UN climate chief warns political division is undermining fight against ‘economi…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168306"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168311"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "00:00",
-          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-          "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candid…",
+          "time": "08:00",
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:00",
-          "title": "Now everyone can put data to work",
-          "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards…",
+          "time": "04:05",
+          "title": "Roundtables: AI’s apocalypse crisis",
+          "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/put-data-to-work"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
         }
       ],
       "briefs": [
         {
-          "text": "Powering AI is an architecture problem",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
+          "text": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/cognition-devin-testing-with-astra"
         },
         {
-          "text": "Introducing ChatGPT for Financial Services",
+          "text": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
           "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-chatgpt-financial-services"
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
         },
         {
-          "text": "Expanding AI access and cyber defense for federal, state, local, and tribal gov…",
+          "text": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecul…",
           "source": "OpenAI",
-          "url": "https://openai.com/index/expanding-ai-access-us-government"
+          "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
         },
         {
-          "text": "Introducing the Agents API",
+          "text": "Now everyone can put data to work",
           "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-the-agents-api"
+          "url": "https://openai.com/index/put-data-to-work"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:13",
-          "title": "Redefining Processes At Sub-2nm",
-          "summary": "Discrete steps are being merged with others as dimensions shrink into the angstrom range. The post Redefining…",
+          "time": "05:56",
+          "title": "Heterogeneous Memory Chiplets Accelerate Multi-Request LLM Inference (NUS)",
+          "summary": "Researchers at the National University of Singapore published a technical paper titled “CHIPSMORE: Compute-in…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/redefining-processes-at-sub-2nm/"
+          "url": "https://semiengineering.com/heterogeneous-memory-chiplets-accelerate-multi-request-llm-inference-nus/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:12",
-          "title": "Silent Data Errors Redefine Test Coverage And Fleet Maintenance Strategies",
-          "summary": "Through better manufacturing screening, DFT for systems and fleet monitors, this major scourge on data center…",
+          "time": "05:43",
+          "title": "Reducing HBM ECC Controller Overhead For AI Inference (RPI, IBM)",
+          "summary": "Researchers at Rensselaer Polytechnic Institute and IBM T.J. Watson Research Center published a technical pap…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/silent-data-errors-redefine-test-coverage-and-fleet-maintenance-strategies/"
+          "url": "https://semiengineering.com/reducing-hbm-ecc-controller-overhead-for-ai-inference-rpi-ibm/"
         }
       ],
       "briefs": [
         {
-          "text": "Validation Gets Tested At 1kW",
+          "text": "Molybdenum Quasi Phase-Only Masks Improve EUV Imaging (NYCU, TSMC)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/validation-gets-tested-at-1kw/"
+          "url": "https://semiengineering.com/molybdenum-quasi-phase-only-masks-improve-euv-imaging-nycu-tsmc/"
         },
         {
-          "text": "Beyond Thickness: Using Picosecond Ultrasonic Technology For SiCr Process Contr…",
+          "text": "Characterizing Charge Components In TMD-based MOS Structures (imec, KU Leuven,…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/beyond-thickness-using-picosecond-ultrasonic-technology-for-sicr-process-control-in-bcd-devices/"
+          "url": "https://semiengineering.com/characterizing-charge-components-in-tmd-based-mos-structures-imec-ku-leuven-asm/"
         },
         {
-          "text": "Beyond Conventional Ring Oscillators: Purpose-Built Process Detectors For Deepe…",
+          "text": "Modeling Predicts Cure And Thermal Endurance Of Advanced Packaging Underfill (N…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/beyond-conventional-ring-oscillators-purpose-built-process-detectors-for-deeper-silicon-insight/"
+          "url": "https://semiengineering.com/modeling-predicts-cure-and-thermal-endurance-of-advanced-packaging-underfill-nist-ucsd-et-al/"
         },
         {
-          "text": "System-Level Test In The AI Era: Validating Reliability At Scale",
+          "text": "HW Information-Flow Tracking for Pre-Silicon Security Testing (Princeton, MIT,…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/system-level-test-in-the-ai-era-validating-reliability-at-scale/"
+          "url": "https://semiengineering.com/hw-information-flow-tracking-for-pre-silicon-security-testing-princeton-mit-epfl/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
-          "summary": "A drone strike on the protective structure at the Chornobyl Nuclear Power Plant could have endangered the saf…",
+          "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+          "summary": "The Security Council met to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as amb…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168312"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168318"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN climate chief warns political division is undermining fight against ‘economic security emergency’",
-          "summary": "The head of the UN's climate body has warned that treating global warming as a partisan issue is dangerously…",
+          "title": "The world just had the hottest August ever",
+          "summary": "Earth just had the hottest August on record, according to newly released weather data.",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168311"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168317"
         }
       ],
       "briefs": [
         {
-          "text": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivo…",
+          "text": "Surge in displacement following fighting in southwest Yemen",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168310"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168314"
         },
         {
-          "text": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
+          "text": "Terrorist propaganda is outpacing global efforts to stop it, UN report finds",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168309"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168313"
         },
         {
-          "text": "Human cost of violence in South Sudan ‘continues to grow’",
+          "text": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions o…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168307"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168312"
         },
         {
-          "text": "‘The water comes up to our knees’: Climate hazards shut millions of children ou…",
+          "text": "UN climate chief warns political division is undermining fight against ‘economi…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168306"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168311"
         }
       ]
     },
@@ -314,28 +314,33 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:02",
-          "title": "填补量化评价空白 《企业供应链韧性评价》团体标准来了 - finance.sina.cn",
-          "summary": "填补量化评价空白 《企业供应链韧性评价》团体标准来了 finance.sina.cn",
+          "time": "15:46",
+          "title": "Sharath Kumar D on Political Strategy, Data Analysis & Campaign Planning Behind Thalapathy Vijay’s Historic TVK Win in Tamil Nadu - businessnewsthisweek.com",
+          "summary": "Sharath Kumar D on Political Strategy, Data Analysis & Campaign Planning Behind Thalapathy Vijay’s Historic T…",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMlRTRld5eHM2MWhFejl0aEswYnFjcXBtU1R4cWcxMXNVaGdXcHNrcDlJWFliYzdxMS1Scmd6NjUybXd6Q29ibE5jaWJxWlJuZ1QtbHUxQWp1YkR4UEdQYWdqTm9RQWhjOC1lX3JhMTdoS05KWGp0SUZjTWxyUFpMTW9EVVVlckgyLS1kSnZHZ25reFU3WmVOZw?oc=5"
+          "source": "Google News 全球商业",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTTlMSzlrUnpsSEpQNXl6ZmhPSGpUSmxabUptdjNYVFFBdG9FcFpGWkw3Vjd5aTdDNmNsWUNfRWMwNWFOYTZDbHNJQjFuc0Nzc2o4bWx5cWRSbjl0WG85TTlMemtiOHdRTEU1SFRnaXctRC1GUFR4ZTNJLWhnMm1IMnJLYnE1V3c1azU1N2Zyb0ZrYjBsRGRpNUxsdjZOYjZockFRa29KLS0yMkFBeURVN0VnNFBJVEhvbEtRc0FtaXRPUkhoNFNYYVZ0Y3pFMnUzRjF0d1JYTmZHOFhMUXZMX3laQlZ0WF9vbzJiQUE4QTV3MXFsOGt6clBNRHE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:31",
-          "title": "OpenAI为ChatGPT企业版推出数据智能体，助力商业分析 提供者 Investing.com - 英为财情 Investing.com",
-          "summary": "OpenAI为ChatGPT企业版推出数据智能体，助力商业分析 提供者 Investing.com 英为财情 Investing.com",
+          "time": "08:31",
+          "title": "制造业回流与东南亚扩张博弈，企业管理层如何抉择？ - 新浪网",
+          "summary": "制造业回流与东南亚扩张博弈，企业管理层如何抉择？ 新浪网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53YUNjSk10VXppdE41NXVWdGROa3VJRW5JbEZlSjFZNTJzVVN4a0hOY1BEcE9JbmFHUEt6S1pSa0IyNWZ1MTZkZEZZNGduRzJ2WW5vcWt3bG0tdkJsVUFmQUJjS0J4SENUVjBaZUcyRHkyVnhrZ0NR?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIbHBwYmVxNkRsU1VvUkJwQWg4bU1MVWg0TndmMzZtTEJVRG4ybkZxbHdYcHYwT3J4T1JLZi10QzVZV0s1OXhpRTI5cmlvV09hdTFmUzYxQmF4TmRZY19IQXFNSTU4eTBubjF1U2liVFR3UGFOeDhxWU40T2lqdw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "TD Cowen上调达美乐披萨目标股价，看好公司战略前景 提供者 Investing.com - 英为财情 Investing.com",
+          "text": "填补量化评价空白 《企业供应链韧性评价》团体标准来了 - 新浪网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BZmRXTk9IUHV6SzhaZFF6eVVieFhXQlpaeVQ4cy1lSFJLZ1JFdGFUcEJzdk85Mk43TEpBZVg0aER0T0Z1SXYtcHNrRWkyZ1MzdkRJclJLMTdYcVhOc29RdE42bmk3ai16SWp4Q1ljRTZ5aWE2?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMlRTRld5eHM2MWhFejl0aEswYnFjcXBtU1R4cWcxMXNVaGdXcHNrcDlJWFliYzdxMS1Scmd6NjUybXd6Q29ibE5jaWJxWlJuZ1QtbHUxQWp1YkR4UEdQYWdqTm9RQWhjOC1lX3JhMTdoS05KWGp0SUZjTWxyUFpMTW9EVVVlckgyLS1kSnZHZ25reFU3WmVOZw?oc=5"
+        },
+        {
+          "text": "OpenAI为ChatGPT企业版推出数据智能体，助力商业分析 提供者 Investing.com - 英为财情 Investing.com",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53YUNjSk10VXppdE41NXVWdGROa3VJRW5JbEZlSjFZNTJzVVN4a0hOY1BEcE9JbmFHUEt6S1pSa0IyNWZ1MTZkZEZZNGduRzJ2WW5vcWt3bG0tdkJsVUFmQUJjS0J4SENUVjBaZUcyRHkyVnhrZ0NR?oc=5"
         },
         {
           "text": "瑞浦兰钧回应“基地员工出现过激行为” - 手机网易网",
@@ -343,14 +348,9 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WNGtZd1R6c3paeXNUR0twZmpMZ2xYTHFVVEYzaFM3NHVQZ0lwYzZVbVI5azBGTHd3by1ZWUlGb1Axa2xudl8tWm5sQmYzUk41N01ocjNMSElhRzJhckhiMTlR?oc=5"
         },
         {
-          "text": "金煤科技（600844）股东内蒙古金睿泓吉企业管理有限责任公司质押360万股，占总股本0.35% - Sohu",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNay1PUjhqeEp4UTBZZG04ODZ6M2oyUC0wd19nTlJTZTRMWmxCVDlaS3lWRFhPeVJ6NktQeV94UWZEZXpNUnpBN2NUSDV1SWdqZkFLUzJ6STlQTXBmQjlKQk40dzBSMlBGMmFhcXM3UDY3bjJHYXcyakZHTzZRcXRZbTA1dHotTmlL?oc=5"
-        },
-        {
-          "text": "梁文锋在杭州成立企业管理咨询合伙企业 - donews.com",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wTW0zSVdSN0JvMWY1U3ZLYk5FRTlrdjJkRjdyZDIyUVEtYUNSQkp2bHV3ZHdyTTZaeEhPS3Vod0w0X2xEY0xuWkJZNU56cmdKM1IycFZkcTRFRXdNdEE?oc=5"
+          "text": "红牛娱乐引领行业新浪潮：2026年创新趋势与企业战略深度解析 - 体坛加",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3bzQzX0hSbUpxaXhRQ1d4TkNUcHgwSVpnSlR0N0lGc0RIU3JCTE5ha1lWa1R2R0ZlbTdmS3AtTS1GM2xVVFE?oc=5"
         }
       ]
     }
