@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月12日",
+  "publishDate": "2026年9月13日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【视频】新能源皮卡卷出花，燃油新款也没闲着，近期新车全在这 - 车家号",
+      "title": "以智能网联新能源汽车助力汽车强国建设 - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Tiny nanolaser could cut computer energ…",
+      "title": "Tiny sound waves could help solve a maj…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Security Council LIVE: Ambassadors mark…",
+      "title": "‘Where do we go?’: How Israel’s ‘yellow…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:05",
-          "title": "【视频】新能源皮卡卷出花，燃油新款也没闲着，近期新车全在这 - 车家号",
-          "summary": "【视频】新能源皮卡卷出花，燃油新款也没闲着，近期新车全在这 车家号",
+          "time": "08:49",
+          "title": "以智能网联新能源汽车助力汽车强国建设 - 新浪网",
+          "summary": "以智能网联新能源汽车助力汽车强国建设 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1teWRLWFNxdGt2czN3dE5fTURDVjRmOEZSUU5nbjZpNldENmxmQ00zdHdKTnlqV251UkQ4MkZSVWlrQTZFMHN1Q3F0LTJJam9TT01KUkV3N211X28?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTEZRMkNud2dXMzM1bU1ock1ORW5YckMtVDRrc2ZNZ2VnZ1R0aXVOSkJkbjJnS3Q3RnM0SzRVSFRObEpEY2J5b3gxVEZUNU5oNjhhcVlvUnJ1cm9IT1FPZ3BYNVdSS0Vzc1NuLUZzY1ZxV19OalR3eW4zVXZicmFhUw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:36",
-          "title": "秦皇岛新能源产业稳步向现实生产力转化 - 新浪网",
-          "summary": "秦皇岛新能源产业稳步向现实生产力转化 新浪网",
+          "time": "08:26",
+          "title": "AI正在降低创业门槛 - 新浪财经",
+          "summary": "AI正在降低创业门槛 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPb1NobU1HMGs3MDRKdXRuLWNGb2FPNmhVckt0akdYamJ5ZURMWS1GdC1sLTZudmdRb3FMT3RaUGJpZXFDSnZPbkFpNHZGZ1dMQ0wxNUl0VjFPT01rWjJPRmZxRVR3LVpYZGxGMXFuQXJnYzVLU1BTN3NsaXVpMnBTSVUtSEJPZ01pLUxHS3V5ekswcHM4S3Q2ZQ?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFhnSzc5N1ZvV2hvMkRrMFdRT1ZrbVpOV0RHdG0wNmNuOFJ5RXVIRnRpNHA0bkJxM0ZfODZWbFNDZkU1a18wUm15T3cwMjF2X19BQjVod3BXQzhxZWlKQkxNVDZ1SzRlcURyd08xRHRXd3dpNm1BaDRWUmZGZXFaQUJ3SUFibEhUOGVyOUxOMWRnMkxGY1g3bw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "中国|智能网联新能源汽车|十五五规划|国际化_新浪新闻 - 电车出海 - 新浪网",
+          "text": "新能源只是第一步 “十五五”汽车规划落地 未来5年有哪些变化？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10WkZRMVJjMnZZYlI1U01UcWFlMnE2VFR2TDA4UDNMaENVY3M1SEp1aG1SRTNyLXR0RVRLVmdEazZZZGRzX0w3QWY4TXBlaHR2SUxEam9VOEVDN19wQW5IN2lacw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vVG5Yem9BaTl0Q0NsWE9hXzQxdlk4cVdMb0pvQ1VJNkpOVmxoUU16dE5meVZNMWtIWnA3RlpRTjl1TFVnY3BCTHhMODJtdzdJZGlObzhHZ1hhWEFLb05iYm9QdlRhOXhRdmVJ?oc=5"
         },
         {
-          "text": "新浪网· - 新浪网",
+          "text": "一图读懂《智能网联新能源汽车产业发展“十五五”规划》 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mSHV4eHVXdGxZTzBTc1pZMG5MNnl4anNOanJEZ0RyWWFvRVFIRHJCNlpQSEJwbEJNOWJMSG5uQm9TYmR4NFdUZmlWeWNUNTlXdTk4aGJsOFd3WklkZ3o2YnZvSQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCQ2g1T3pMWFhIRHNFQjdpX1BLR3hWR3lxb1FlNHh3VkUyeXQ5Ml94RGxtREZlU3NQbk9jcVByclZ5RGxWcVloeDhzeWUwN1RJclFDN2R0RWZ5NFJ6eXQwaVZaLXRGSjFwU2I1cWdJSWNqLUZhbVE?oc=5"
         },
         {
-          "text": "【智能网联新能源汽车产业发展“十五五”规划印发，一图读懂→】日前，工业和信息化部等九部门印发《智能网联新能源汽车产业发展“十五五”规划》，明确了“十五五”期间…",
+          "text": "横评三款10万级B级新能源后，这台9.99万起的车型凭900V闪充和越级空间出圈 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8za1lCeUlXYnlpU2RSNTEtLXVJbGpfV1NQQ0FRaGl2LXlDbUFDMFRsbGlLUEdwaXk2U0FfUlA2R2EzdG5yN2xJZFh2OVZVSllhbFlfa0J5WjEtbmdpc092T0dIOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yNmU5a3ZIQ2xONUkzY1dHV0NJM2lTTk1lQWZlbFBydGxKWWFvZDJYVGlaWTRhSlE4NU9TYnBKM0FiTjJDbXRpcUlIQlM3dlVady1fNll0Vm1velh3elMwRXJlc21scnpZVTRkQjNUeDYzUQ?oc=5"
         },
         {
-          "text": "宏桥控股现金收购两家云南新能源公司 - 新浪新闻_手机新浪网",
+          "text": "事关智能网联新能源汽车产业 未来五年如何布局？ - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aNVVxZWFZSTI4VEhmZ3I0VHJXRVA4XzlpWFlGa1BFX0RHNGh0cXJ4anpONWU5QVRTSjZwVGNvdkliOGRYVUVwX01ucERBeFV3a1FxeXhyWnRsbE95TExualpiRTN3dDFCZ3RfR05vTjJJS1pFd25hMg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdDBxM1JzNmZFRU9UNkZqekVuU2hxSXVqMm5BcGsxYV9rVE5MWnE1X0NSRUYyVXJzSVhsMEh0Qzl1T09maFYwX3QzWDhuUGN6TGM1YVNQZVVLdGVlWUdRcXBxc1dtUTkwRTNDaU4yYm5wWnI5YXBzcA?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "20:03",
-          "title": "Tiny nanolaser could cut computer energy use in half",
-          "summary": "Scientists have created an ultra-small nanolaser that could eventually allow microchips to transmit informati…",
+          "time": "22:08",
+          "title": "Tiny sound waves could help solve a major quantum computing problem",
+          "summary": "Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves.…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "21:35",
+          "title": "Researchers find a Wordle strategy that wins 99% of the time",
+          "summary": "Researchers at Binghamton University have developed a mathematical strategy that can solve Wordle with a 99%…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Tiny nanolaser could cut computer energy use in half",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "19:52",
-          "title": "Scientists just made quantum computer operations 1,000 times faster",
-          "summary": "Researchers have found a way to perform certain quantum operations more than 1,000 times faster, cutting thou…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Scientists just made quantum computer operations 1,000 times faster",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "An important step towards detecting fractons in quantum spin liquids",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Scientists find a way to slash computer memory energy use by orders of magnitude",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm"
-        },
-        {
-          "text": "AI can now control fusion plasma faster than humans can react",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260903064215.htm"
-        },
-        {
-          "text": "Harvard scientists turn knitting into shape-shifting smart fabric",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260901070543.htm"
         }
       ]
     },
@@ -123,23 +123,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
-          "summary": "The Security Council met to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as amb…",
+          "title": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
+          "summary": "Ola Ishtiwi sits with her children in front of the remains of her home in the Al-Tuffah neighbourhood in east…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168318"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168320"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "The world just had the hottest August ever",
-          "summary": "Earth just had the hottest August on record, according to newly released weather data.",
+          "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+          "summary": "The Security Council met to mark 25 years since the 9/11 attacks with a briefing on counter-terrorism as amba…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168317"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168318"
         }
       ],
       "briefs": [
+        {
+          "text": "The world just had the hottest August ever",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168317"
+        },
         {
           "text": "Surge in displacement following fighting in southwest Yemen",
           "source": "United Nations News",
@@ -154,11 +159,6 @@ window.dailyBrief = {
           "text": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions o…",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/09/1168312"
-        },
-        {
-          "text": "UN climate chief warns political division is undermining fight against ‘economi…",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168311"
         }
       ]
     },
@@ -180,7 +180,7 @@ window.dailyBrief = {
         {
           "priority": "重点看点 02",
           "time": "04:05",
-          "title": "Roundtables: AI’s apocalypse crisis",
+          "title": "Roundtables: Could AI really kill us all?",
           "summary": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
@@ -267,23 +267,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
-          "summary": "The Security Council met to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as amb…",
+          "title": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
+          "summary": "Ola Ishtiwi sits with her children in front of the remains of her home in the Al-Tuffah neighbourhood in east…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168318"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168320"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "The world just had the hottest August ever",
-          "summary": "Earth just had the hottest August on record, according to newly released weather data.",
+          "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+          "summary": "The Security Council met to mark 25 years since the 9/11 attacks with a briefing on counter-terrorism as amba…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168317"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168318"
         }
       ],
       "briefs": [
+        {
+          "text": "The world just had the hottest August ever",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168317"
+        },
         {
           "text": "Surge in displacement following fighting in southwest Yemen",
           "source": "UN News",
@@ -298,11 +303,6 @@ window.dailyBrief = {
           "text": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions o…",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/09/1168312"
-        },
-        {
-          "text": "UN climate chief warns political division is undermining fight against ‘economi…",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168311"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:46",
-          "title": "Sharath Kumar D on Political Strategy, Data Analysis & Campaign Planning Behind Thalapathy Vijay’s Historic TVK Win in Tamil Nadu - businessnewsthisweek.com",
-          "summary": "Sharath Kumar D on Political Strategy, Data Analysis & Campaign Planning Behind Thalapathy Vijay’s Historic T…",
+          "time": "21:52",
+          "title": "中国供应链韧性助力全球经济稳定 - 新浪网",
+          "summary": "中国供应链韧性助力全球经济稳定 新浪网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTTlMSzlrUnpsSEpQNXl6ZmhPSGpUSmxabUptdjNYVFFBdG9FcFpGWkw3Vjd5aTdDNmNsWUNfRWMwNWFOYTZDbHNJQjFuc0Nzc2o4bWx5cWRSbjl0WG85TTlMemtiOHdRTEU1SFRnaXctRC1GUFR4ZTNJLWhnMm1IMnJLYnE1V3c1azU1N2Zyb0ZrYjBsRGRpNUxsdjZOYjZockFRa29KLS0yMkFBeURVN0VnNFBJVEhvbEtRc0FtaXRPUkhoNFNYYVZ0Y3pFMnUzRjF0d1JYTmZHOFhMUXZMX3laQlZ0WF9vbzJiQUE4QTV3MXFsOGt6clBNRHE?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfcTZFQmVpZzA3bzNheUdPQXpFRlhSSWpTQ1pDVzF6QmNmMG03X3FvZnlwNUhvY1JlS3Bhb19XaXl2ekZ5OTBsQklzdURheE5CakdPNk9Fbkt6bXhuYzl6U004MnlsNzN2WHgxaDRyOVd6dw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:31",
-          "title": "制造业回流与东南亚扩张博弈，企业管理层如何抉择？ - 新浪网",
-          "summary": "制造业回流与东南亚扩张博弈，企业管理层如何抉择？ 新浪网",
+          "time": "20:19",
+          "title": "【视频】李书福为吉利汽车打造现代企业管理体系 - 汽车之家",
+          "summary": "【视频】李书福为吉利汽车打造现代企业管理体系 汽车之家",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIbHBwYmVxNkRsU1VvUkJwQWg4bU1MVWg0TndmMzZtTEJVRG4ybkZxbHdYcHYwT3J4T1JLZi10QzVZV0s1OXhpRTI5cmlvV09hdTFmUzYxQmF4TmRZY19IQXFNSTU4eTBubjF1U2liVFR3UGFOeDhxWU40T2lqdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ud0l0bTB2MDI4UHRsdzhRRDVUQ1VXdW16Y29vMEtzTkpMU3pzdmJjUDFRNjc2aVotMVNoM002WTFrNFJyem1SdzRYVllyT19hZVA4Rzdnd0d0aGM?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "填补量化评价空白 《企业供应链韧性评价》团体标准来了 - 新浪网",
+          "text": "外媒看中国 | 中国凭借完备工业体系与供应链韧性为世界经济稳定运行提供支撑 - 新浪新闻_手机新浪网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMlRTRld5eHM2MWhFejl0aEswYnFjcXBtU1R4cWcxMXNVaGdXcHNrcDlJWFliYzdxMS1Scmd6NjUybXd6Q29ibE5jaWJxWlJuZ1QtbHUxQWp1YkR4UEdQYWdqTm9RQWhjOC1lX3JhMTdoS05KWGp0SUZjTWxyUFpMTW9EVVVlckgyLS1kSnZHZ25reFU3WmVOZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lUEM0aDJiNXVZRzNOWXZLbUpmVkYybXFKLUZvUExPZWllQi1pZjBKTHVfYnNESDRzZzZ4dnEyY2NNdllkX2tibXFzdWtUb2J0LXdrakxTbWtMSDdpM1hJOEkzZTIzMWs5ODdTZmlxSXFRbEFJY2c?oc=5"
         },
         {
-          "text": "OpenAI为ChatGPT企业版推出数据智能体，助力商业分析 提供者 Investing.com - 英为财情 Investing.com",
+          "text": "外媒看中国 | 中国凭借完备工业体系与供应链韧性为世界经济稳定运行提供支撑 - Sohu",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53YUNjSk10VXppdE41NXVWdGROa3VJRW5JbEZlSjFZNTJzVVN4a0hOY1BEcE9JbmFHUEt6S1pSa0IyNWZ1MTZkZEZZNGduRzJ2WW5vcWt3bG0tdkJsVUFmQUJjS0J4SENUVjBaZUcyRHkyVnhrZ0NR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVEJGLWQ4SUdza1ZiR08zXy0xQlZ2YjRjM2VnaXhFZEJIT3RHTC1WWmJNYjEzZWZoSkJuZEpYT0NNbzdtSmk2eGxkdTdwMDVKSzBCYVNuRnJSa0xzMEhjWXJZZnE5ajN0TVZsbUtfbEM3bUM5S201amxMU25XcFZfOWhfZFJkUUVDSkVLMA?oc=5"
         },
         {
-          "text": "瑞浦兰钧回应“基地员工出现过激行为” - 手机网易网",
+          "text": "从“手工账本”到“3d之家官网”：企业管理效率跃迁，相关企业注册量五年增超200% - 体坛加",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WNGtZd1R6c3paeXNUR0twZmpMZ2xYTHFVVEYzaFM3NHVQZ0lwYzZVbVI5azBGTHd3by1ZWUlGb1Axa2xudl8tWm5sQmYzUk41N01ocjNMSElhRzJhckhiMTlR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iTXhWZUJ0ZXp4QVd5bkxxTTBFOEcwT3Z5Z0R1MS1xVE1xbjF3Vm5DZUZ2U2xhYzhwdFpfUWRIejJELUpsd2d3YllUNXpjalhNOTM5WXVR?oc=5"
         },
         {
-          "text": "红牛娱乐引领行业新浪潮：2026年创新趋势与企业战略深度解析 - 体坛加",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB3bzQzX0hSbUpxaXhRQ1d4TkNUcHgwSVpnSlR0N0lGc0RIU3JCTE5ha1lWa1R2R0ZlbTdmS3AtTS1GM2xVVFE?oc=5"
+          "text": "龙鑫智能董事会审议通过子公司管理制度 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDRrc3FQMDZmOUZFSlFOVFlaVzl1X1Z4YkNmOG5hLV9iSUo2dnFtQXF5WWVJYW9wVDkwNG9idUladlBfWnk3NVR0THROMXhiZ3UyMDRWWWY3N2o0Ym8zT2h1RkRDaWl6bGIxaW1VdkJMdGdnRHoteXhJcmhTM09yckhRVkQ?oc=5"
         }
       ]
     }
