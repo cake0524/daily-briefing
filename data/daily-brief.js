@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月13日",
+  "publishDate": "2026年9月14日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "以智能网联新能源汽车助力汽车强国建设 - 新浪网",
+      "title": "电气风电与国投电力共话新能源合作发展 - 国际风力发电网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Tiny sound waves could help solve a maj…",
+      "title": "Scientists are building a microscope po…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:49",
-          "title": "以智能网联新能源汽车助力汽车强国建设 - 新浪网",
-          "summary": "以智能网联新能源汽车助力汽车强国建设 新浪网",
+          "time": "09:03",
+          "title": "电气风电与国投电力共话新能源合作发展 - 国际风力发电网",
+          "summary": "电气风电与国投电力共话新能源合作发展 国际风力发电网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTEZRMkNud2dXMzM1bU1ock1ORW5YckMtVDRrc2ZNZ2VnZ1R0aXVOSkJkbjJnS3Q3RnM0SzRVSFRObEpEY2J5b3gxVEZUNU5oNjhhcVlvUnJ1cm9IT1FPZ3BYNVdSS0Vzc1NuLUZzY1ZxV19OalR3eW4zVXZicmFhUw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4waWhnNXZtcVJnNUYwaURaVTQ3ekRmVmZMZVlhYXRoZlRtbFpZd2Jla0hmOEptbE02aVhybFl4bTVHN0E1Y3lOcm0wbG9MZVJBUnRWaDlWQXZsdw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:26",
-          "title": "AI正在降低创业门槛 - 新浪财经",
-          "summary": "AI正在降低创业门槛 新浪财经",
+          "time": "09:02",
+          "title": "【视频】好言难劝该死的鬼，新能源车主你们的轮毂真的细不了一点！ - 车家号",
+          "summary": "【视频】好言难劝该死的鬼，新能源车主你们的轮毂真的细不了一点！ 车家号",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOFhnSzc5N1ZvV2hvMkRrMFdRT1ZrbVpOV0RHdG0wNmNuOFJ5RXVIRnRpNHA0bkJxM0ZfODZWbFNDZkU1a18wUm15T3cwMjF2X19BQjVod3BXQzhxZWlKQkxNVDZ1SzRlcURyd08xRHRXd3dpNm1BaDRWUmZGZXFaQUJ3SUFibEhUOGVyOUxOMWRnMkxGY1g3bw?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93S2k3R2Fvc2RpQ2I5SndZZ2JleUtENFlmT0lSNW8tR1VCQVZvRUd3WTQ5a3B3bXNZdnRpVG9WeXFyV2lkWTBJbS1NQXN6VE1keUVkdW43eG1BTXc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新能源只是第一步 “十五五”汽车规划落地 未来5年有哪些变化？ - 汽车之家",
+          "text": "辽宁持续推进制造业转型升级 - 中国经济网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vVG5Yem9BaTl0Q0NsWE9hXzQxdlk4cVdMb0pvQ1VJNkpOVmxoUU16dE5meVZNMWtIWnA3RlpRTjl1TFVnY3BCTHhMODJtdzdJZGlObzhHZ1hhWEFLb05iYm9QdlRhOXhRdmVJ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OaHh6em1ndFVjZXBDWlpUZk1vMUVqZndxNDFlbDlvbVJEa1pHZ2RMcktkYVZxNG40WHJGa0MxbGV0VTFpblA0TFlndVZaTjVubXlXcFhOUmZhdkZnc01pcEc2cllnVnZZY2MyZ0xxdmxJM2c?oc=5"
         },
         {
-          "text": "一图读懂《智能网联新能源汽车产业发展“十五五”规划》 - 新浪财经",
+          "text": "2026年8月亚洲制造业PMI：扩张延续，印尼收缩- 新闻和统计 - indexbox.io",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCQ2g1T3pMWFhIRHNFQjdpX1BLR3hWR3lxb1FlNHh3VkUyeXQ5Ml94RGxtREZlU3NQbk9jcVByclZ5RGxWcVloeDhzeWUwN1RJclFDN2R0RWZ5NFJ6eXQwaVZaLXRGSjFwU2I1cWdJSWNqLUZhbVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk50bGRfeWFYajB6SWg3THpkWWtsRmtGN3dIakpTOXBMTmlJUDU2SVl5NG1DTTRXcU43VkpJVWY4TWZEdGFiU2dXV3oyX0FQdGt0Smk0aTlZaFJTQTBHUDJ0SlViVGFrYW91QklUUWJhTUdfNVhrdUVlWFM5bGIxeXM3OGpxQ2ZGUTZmRC1UUGJMNjRaazBtMmQzWnRvRVdGQ2wxU2JPVzhJLU5mX1E?oc=5"
         },
         {
-          "text": "横评三款10万级B级新能源后，这台9.99万起的车型凭900V闪充和越级空间出圈 - 新浪网",
+          "text": "福田汽车前8月新能源车销量增24.85% 拟15.16亿出售资产聚焦商用车主业 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yNmU5a3ZIQ2xONUkzY1dHV0NJM2lTTk1lQWZlbFBydGxKWWFvZDJYVGlaWTRhSlE4NU9TYnBKM0FiTjJDbXRpcUlIQlM3dlVady1fNll0Vm1velh3elMwRXJlc21scnpZVTRkQjNUeDYzUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zNFZtN2VXRjRGNmIxSEZlYS1PeXFJSllldVFiQlBEaUN4YUZVYzdnVWIyRXhxaEdLYXBjM204ZjJiVXlrMjdLNHFIRzVZQ3hIYmNCTGgwWEpKUmhqOVlDLW81M1VQeE1ScTctYWhiZzFacGpzQWpXeg?oc=5"
         },
         {
-          "text": "事关智能网联新能源汽车产业 未来五年如何布局？ - 新浪财经",
+          "text": "宏桥控股推20.5亿收购化解同业竞争 中期归母净利156.5亿大增77% - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdDBxM1JzNmZFRU9UNkZqekVuU2hxSXVqMm5BcGsxYV9rVE5MWnE1X0NSRUYyVXJzSVhsMEh0Qzl1T09maFYwX3QzWDhuUGN6TGM1YVNQZVVLdGVlWUdRcXBxc1dtUTkwRTNDaU4yYm5wWnI5YXBzcA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5faklBMnBVWFo4TklZYmZ3Vk5GYXljNGVTR0FXUGNRLTBSRjRqUzMtY1RsM19UUVZaSE9NSFhtTWVpYW9oWllETVJrdFNrODk2Zlc4a1ZMaXg1cEJMdWhyNlo1Z0dMQUZxYnVBcHZsNjF4UHZIb3BSYQ?oc=5"
         }
       ]
     },
@@ -74,43 +74,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:08",
-          "title": "Tiny sound waves could help solve a major quantum computing problem",
-          "summary": "Researchers at Harvard have demonstrated a way to protect quantum information using microscopic sound waves.…",
+          "time": "20:03",
+          "title": "Scientists are building a microscope powered by a quantum computer",
+          "summary": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:35",
-          "title": "Researchers find a Wordle strategy that wins 99% of the time",
-          "summary": "Researchers at Binghamton University have developed a mathematical strategy that can solve Wordle with a 99%…",
+          "time": "19:22",
+          "title": "Physicists discover a hidden “curveball” in quantum light",
+          "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a t…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm"
         }
       ],
       "briefs": [
         {
+          "text": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm"
+        },
+        {
+          "text": "Tiny sound waves could help solve a major quantum computing problem",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm"
+        },
+        {
+          "text": "Researchers find a Wordle strategy that wins 99% of the time",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm"
+        },
+        {
           "text": "Tiny nanolaser could cut computer energy use in half",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm"
-        },
-        {
-          "text": "Scientists just made quantum computer operations 1,000 times faster",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm"
-        },
-        {
-          "text": "An important step towards detecting fractons in quantum spin liquids",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260903064222.htm"
-        },
-        {
-          "text": "Scientists find a way to slash computer memory energy use by orders of magnitude",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:52",
-          "title": "中国供应链韧性助力全球经济稳定 - 新浪网",
-          "summary": "中国供应链韧性助力全球经济稳定 新浪网",
+          "time": "05:00",
+          "title": "以制度建设提升产业链供应链韧性和安全水平 - 天津日报",
+          "summary": "以制度建设提升产业链供应链韧性和安全水平 天津日报",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfcTZFQmVpZzA3bzNheUdPQXpFRlhSSWpTQ1pDVzF6QmNmMG03X3FvZnlwNUhvY1JlS3Bhb19XaXl2ekZ5OTBsQklzdURheE5CakdPNk9Fbkt6bXhuYzl6U004MnlsNzN2WHgxaDRyOVd6dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRUpqZnU3RnZjUDVjMzVJMkFHNjVZUDFNOXlmdk9GeEI3d2lIdGxmb0JITzI4Vm5oSzNwc2k3bmk0LTZId3dSeWsycUZPT0FPS01lOGFDZmNKUEFjbk52NGU5QjI1b3ZwLXV2SDFRZVBhQk5Ed0lnZk9wWFJxaGtJb0ZR?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "20:19",
-          "title": "【视频】李书福为吉利汽车打造现代企业管理体系 - 汽车之家",
-          "summary": "【视频】李书福为吉利汽车打造现代企业管理体系 汽车之家",
+          "time": "02:01",
+          "title": "画廊 政治大学公共行政及企业管理教育中心 / 潘冀联合建筑师事务所 - 35 - ArchDaily",
+          "summary": "画廊 政治大学公共行政及企业管理教育中心 / 潘冀联合建筑师事务所 - 35 ArchDaily",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ud0l0bTB2MDI4UHRsdzhRRDVUQ1VXdW16Y29vMEtzTkpMU3pzdmJjUDFRNjc2aVotMVNoM002WTFrNFJyem1SdzRYVllyT19hZVA4Rzdnd0d0aGM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNV0NUdVM0ZV9KeUk0SzBHMTdUaDRSZmF3dUYzcDlCOEdkdGtCcEU2TDBBdU1hX1RST0hwMmxfM05tTDR1dXhWMU95WE1tU21jdER1X0tvVHItNHhGTEhpbHRONUdCc3NMaDd2NGtTb0xZQXpZZzZwM3g4ZWI5X19VRy16RGVYZzBsbnp0ZnU0YThEYUhLM05tZ0dLZFoxMjZJTFpQMnVWN0duN0VFZ0xHTUNNVHVDei1pdThiQ3E4cXc3cEx1dnpfN0U4WGxfMUJOUUNDZndUMzVUU21jOUJCZ2NBYzJGNUVzZVFqWm15T2xYdUwyN08yekJtNVY5VmdtVklIUkJpMlBxSl9qZ1M3Q211ZzNYQTRZS0FCTUNsblhIUFVuNmdTWVhyQTBOY1BoTXQtajR5NF9jOEc1bmd6S20zS2lpWjc1NXdnWjR3T3JjQ0QySGxTOGREaG5XRk5qc0lRVjI4ZV9zWGRnZVVlQ0M0c04ySTg5d2RVNTQ4RzBlVUplUk4ySkRWYTJGSG9OU3JnU2ZJWVFNTE9LeWxJbnktNA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "外媒看中国 | 中国凭借完备工业体系与供应链韧性为世界经济稳定运行提供支撑 - 新浪新闻_手机新浪网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lUEM0aDJiNXVZRzNOWXZLbUpmVkYybXFKLUZvUExPZWllQi1pZjBKTHVfYnNESDRzZzZ4dnEyY2NNdllkX2tibXFzdWtUb2J0LXdrakxTbWtMSDdpM1hJOEkzZTIzMWs5ODdTZmlxSXFRbEFJY2c?oc=5"
-        },
-        {
-          "text": "外媒看中国 | 中国凭借完备工业体系与供应链韧性为世界经济稳定运行提供支撑 - Sohu",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVEJGLWQ4SUdza1ZiR08zXy0xQlZ2YjRjM2VnaXhFZEJIT3RHTC1WWmJNYjEzZWZoSkJuZEpYT0NNbzdtSmk2eGxkdTdwMDVKSzBCYVNuRnJSa0xzMEhjWXJZZnE5ajN0TVZsbUtfbEM3bUM5S201amxMU25XcFZfOWhfZFJkUUVDSkVLMA?oc=5"
-        },
-        {
-          "text": "从“手工账本”到“3d之家官网”：企业管理效率跃迁，相关企业注册量五年增超200% - 体坛加",
+          "text": "AI管理从思想到实践，2026企业管理最佳实践榜发布 - 潮起网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iTXhWZUJ0ZXp4QVd5bkxxTTBFOEcwT3Z5Z0R1MS1xVE1xbjF3Vm5DZUZ2U2xhYzhwdFpfUWRIejJELUpsd2d3YllUNXpjalhNOTM5WXVR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pMnczX0JQX1FBM2dYeXFJbGtUVDhhNXctdmJmX1hKaVFMZHFLSUllSzdnZTM5THdyTUJqbTZnd2RjenVtYm9yY0NTZnU3dG9HMjFLcnlTOHVvZHEtZ2dkVmFR?oc=5"
         },
         {
-          "text": "龙鑫智能董事会审议通过子公司管理制度 - 新浪财经",
+          "text": "企业管理最佳实践榜揭晓 23个AI应用场景实践上榜 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWDRrc3FQMDZmOUZFSlFOVFlaVzl1X1Z4YkNmOG5hLV9iSUo2dnFtQXF5WWVJYW9wVDkwNG9idUladlBfWnk3NVR0THROMXhiZ3UyMDRWWWY3N2o0Ym8zT2h1RkRDaWl6bGIxaW1VdkJMdGdnRHoteXhJcmhTM09yckhRVkQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QMkZwVEVaNnoycG5Id2I5d2Z3dnRBY1VqUzgzR195SThsWUNQUEVtTXJFWnZQeW8wbTNEUU5DMzRYZHFTZW03bW9UeEt4aEQ4NC1HMU1SS0FrMWVVM0U3OUxWNmdyYlBHNHRuZnRGLUFPUzdmcGFMMg?oc=5"
+        },
+        {
+          "text": "孟子公益基金会儒商沙龙第三场活动在京举行 聚焦立人、修身齐家与企业管理 - 中华网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NNDg2QVBDUjhUMXZjSThaVjJLUWNpY1R3M0pDQkpKLVRBaTlkemZDR1p1WlhKMkdaeXB0blFOS2Y4YlBfRWdjMmNMOWNGQ1JRcDRRWFFwSC1tS1ZUcVdZc3FrYXJsdEdKcXpDRg?oc=5"
+        },
+        {
+          "text": "2026年企业管理最佳实践榜发布盛典在银川举行 - TradingView",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BMm1QMzJORFlHR25CNExvS2d3Uk0xZUlKeW9yeENxN0tVTUxKMnJXZG03Um44MW9mVEFOdEtlZlEzVlBPU2dkVWxOT0RxVFVuX2JieHAyZzJkN3AwdUVhU1pjU3hzdUtKRGVF?oc=5"
         }
       ]
     }
