@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月15日",
+  "publishDate": "2026年9月16日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "#新能源君#【汽车知识】就问吓人不吓人，任性横穿鬼探头，不抄近道很难吗！ ​…",
+      "title": "横评三款充电快的B级新能源轿车，5分钟充70%且低温不衰减的只有它 - aut…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Scientists are building a microscope po…",
+      "title": "The shape behind the Einstein problem j…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:25",
-          "title": "#新能源君#【汽车知识】就问吓人不吓人，任性横穿鬼探头，不抄近道很难吗！ ​ - 新浪网",
-          "summary": "#新能源君#【汽车知识】就问吓人不吓人，任性横穿鬼探头，不抄近道很难吗！ ​ 新浪网",
+          "time": "09:23",
+          "title": "横评三款充电快的B级新能源轿车，5分钟充70%且低温不衰减的只有它 - auto.sina.cn",
+          "summary": "横评三款充电快的B级新能源轿车，5分钟充70%且低温不衰减的只有它 auto.sina.cn",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeVVaZ3E4bFg3Y3d2UmMyOEtuV25BVFRQMEtOUWFiTlpBQkY4dWdpcDRyaEtNWHE3QmdUc3FCX2NUcmZ6LXlyWS1YYUlCYUcwMTBmWkdpT3BibWdGYnBEcUttcFZMeGY0R2JuQ1F6aHc5WVYzTENjZXdZV05RZDc4eA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55RC1YaS1HMEcxdHc2MmthdkZ6NElpZEpZMlJ0UTlVS1llRllEd2dNMTdtWnFYUS1Yc1RaVl9WUE0wXzhHUC1ySllrQzlVVFZmSmV5Vk1MUXVyQ0FqRHI1N2FLRjQ2QlVEY3ZFZzNEWTZhaTFm?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:23",
-          "title": "9月14日新能源车ETF国泰（159806）份额减少900.00万份，最新份额8.55亿份，最新规模5.64亿元 - video.sina.com.cn",
-          "summary": "9月14日新能源车ETF国泰（159806）份额减少900.00万份，最新份额8.55亿份，最新规模5.64亿元 video.sina.com.cn",
+          "time": "09:20",
+          "title": "四款10万级B级新能源轿车横评：2820mm轴距、900V闪充，这台车把“越级”玩明白了 - 手机新浪网",
+          "summary": "四款10万级B级新能源轿车横评：2820mm轴距、900V闪充，这台车把“越级”玩明白了 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWUtlMDBNMXRZSVQ0eGVIcm9WYm9Sc0Q0cWJ5eUo1a2ZMUUd3ZHd5YkVIaHFmcUFwVk1GTlR0aURjTXdjSl9QT0dEUHN3VDFxUWlfRVFEVk5JWnZPcXZxekNvc0t2NXVrT1hJQ0NUVzVtVEJhSEdmU0dfZ3M0WjRPRmtR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOOG92R29FRjdzMXk2cG40RmpNUXNNZkpReklVbGpGM2FNdVJKS2FuYzUzOUx3S2lEQ0h2X0lBa0Z0c1BmMmZfTHloZV92a2o0X216OGdteW1uVkZtMjJMR3dSQVpja2h6d0ROb2pzZXhKQQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "横评三款高颜值B级新能源轿车，设计出片、空间越级还得看它 - 新浪汽车",
+          "text": "陕西公司新能源装机规模达省内第一 - ceic.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZQWdVcGlDaHBIejBtS3ZWbjFnaDlaVW5JWVdMVmRrb3IzMXFDb0doVUFvR1hRQ0RfNXM4MkpwZnBFVHJsVkp4Ukh5aUtyU0xydzJYWExiZk03NFFzX2MwZzRYYXZONkVNZjNBRXZmWE8wZ29f?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTdBclFmQjF0aHVZWmpVdDRrQ3h6SkNDV3ozaFYxX3k3NW5OYnlFcFRwaTJuSTNyTEpiM3I4aFgyM3RpdWdxRjVsTUtPYkgtdlFxWm92RXc1VVBCUTVSZFNFX05DY2Zpa2txdjU2STNsQUphYWE1dTgySzZ3OUhfcVJhd2E1NHp2OGJ6MXNB?oc=5"
         },
         {
-          "text": "横评四款10万左右能买到的B级新能源轿车，坐拥900V闪充与越级空间的最优选是这台 - 新浪汽车",
+          "text": "【视频】家用新能源新选择！埃安i60 2027款上市10.68万起 - chejiahao.autohome.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE83dk5tZ2RwbVJsaFA5MzVvNkRoZzVvc1R0S09HNlhCalc2UXdGZEJick5ZZzRvTVg3STZVNU1SY0N2b3kxNkZ1dzJNRTN4MFMzU1V1aUR1bFJETjZ1Y1Z3VklDempQUnY3U0d6RkM4d0NodzQ0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jaU9CcU5FMHZrRElYNVY1eUZGaG5BTnEzWjc0Xzk1VE5OTVVjUTcwYjNrUTJpVVpBU1R6ZVRDa0RoUndRZUdnUXQ1OUkzc1VqeTkzcG9jdkhFYW8?oc=5"
         },
         {
-          "text": "横评四款10万级B级新能源轿车，空间、补能、动力全对比后综合无短板的只有它 - 新浪汽车",
+          "text": "横评四款10万级B级新能源新车，综合最能打的为什么是它 - auto.sina.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBNW84clUyQlVvdTVYWGlqMFgyVzk0Rm85Q00zZzlCejFWVFNzOWtCVWRFWUUtcWVYQllYemJGWmw1YUYxcVdBRURxblBMWGhiWFpYVDl3R2c1SEE4Y2d6SXllLWpZRndfUV9aY29zSG5kZlF5?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91dEZoTEE1aW9wTmx5RXlRTzlSMlpPQ290US13Z1JQVEVJbTlTY2NUc2V4SzUzaVhwTG9YOTFwd3hfU2txcUFjajJ4T21ZeUZXQVN0TTVyQm1vdmxVRU1vcDNDUE9JTkQ2QmoxUlVBdGpZWEhU?oc=5"
         },
         {
-          "text": "横评三款10万级B级新能源轿车，空间、补能与智驾的综合最优选浮出水面 - 新浪汽车",
+          "text": "四款充电快的B级新能源轿车同场横评，零下30℃充电仅多3分钟的竟是它 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2Umxhb0N3NVhTaDdTaHBQX0xVeEV5cmNLNmNpY1BkdE5tRnRsd3REdGRuVzl1clR5TnYzMW92NTlvQXpEZ3cyWGstZkRnV2x1UUktWFlYdGlnNzZoU3lWU3hSLTVaaFhkb08wUWtab2xjdjFC?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15NV9qeVJYV3pOeWJUQmMxRWZrQl9WWGdqOG8wb2xnOUFkZVM1V3FFVVFfWjduUDNWRDF3R09FVDkzYkdwRlNnXzQ0SXZGaDhoUGpVZHJlYWVTWmFXSHA1VDlwbjFOVFhxOGQwWVVnUVJzc2laOFItcVFNNHU4ZjA?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "21:14",
+          "title": "The shape behind the Einstein problem just revealed strange new physics",
+          "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "20:03",
           "title": "Scientists are building a microscope powered by a quantum computer",
           "summary": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "19:22",
-          "title": "Physicists discover a hidden “curveball” in quantum light",
-          "summary": "Researchers have experimentally demonstrated the optical Magnus effect for the first time, revealing that a t…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Physicists discover a hidden “curveball” in quantum light",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm"
+        },
         {
           "text": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Researchers find a Wordle strategy that wins 99% of the time",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm"
-        },
-        {
-          "text": "Tiny nanolaser could cut computer energy use in half",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911003858.htm"
         }
       ]
     },
@@ -170,24 +170,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:54",
-          "title": "The AI industry has taken a doomer turn. What now?",
-          "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox fir…",
+          "time": "01:47",
+          "title": "Roundtables: Could AI really kill us all?",
+          "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possi…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "18:00",
+          "title": "What’s at stake in AI’s trillion-dollar gamble",
+          "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to asses…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "The AI industry has taken a doomer turn. What now?",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
         },
         {
-          "priority": "重点看点 02",
-          "time": "00:00",
-          "title": "AI agents blew the whistle on their cheating colleagues",
-          "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, ot…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "AI agents blew the whistle on their cheating colleagues",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "How Fyxer built an AI executive assistant people trust",
           "source": "OpenAI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "Perplexity trusts GPT-6 Astra with end-to-end systems",
           "source": "OpenAI",
           "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-        },
-        {
-          "text": "Roundtables: Could AI really kill us all?",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
-        },
-        {
-          "text": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/cognition-devin-testing-with-astra"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:00",
-          "title": "The E.U.’s AI Drive Undermines Its ​Own Chip Strategy",
-          "summary": "This story was originally published by Tech Policy Press . The European Union’s push for technological sovere…",
+          "time": "15:13",
+          "title": "AI Data Centers Have A Stranded Power Problem",
+          "summary": "Redundant feeds protect uptime, but they also strand capacity that could support more hardware. The post AI D…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/europes-ai-drive"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/ai-data-centers-have-a-power-hoarding-problem/"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:00",
-          "title": "The U.S. Is Building CHIPS Act Fabs but Neglecting R&D",
-          "summary": "On 6 August, the U.S. Government Accountability Office (GAO) released a report on the state of the 2022 CHIPS…",
+          "time": "15:12",
+          "title": "Hardware-Software Co-Design In The AI Era",
+          "summary": "Even though the benefits are accepted, a combined hardware/software development flow is hampered by a lot of…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/chips-act-impact-semiconductor-manufacturing"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/hardware-software-co-design-in-the-ai-era/"
         }
       ],
       "briefs": [
         {
-          "text": "China’s Grip on Erbium and Yttrium Could Choke Data-Center Growth",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/rare-earth-shortage"
+          "text": "Scaling Thermal Analysis From Transistors To Data Centers",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/scaling-thermal-analysis-from-transistors-to-data-centers/"
         },
         {
-          "text": "Building Technology People Can Trust",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/ai-connected-test-and-measurement-platforms"
+          "text": "Scaling AI Infrastructure With PCIe Switches And Retimers",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/scaling-ai-infrastructure-with-pcie-switches-and-retimers/"
         },
         {
-          "text": "Common Earth Project Aims to End Chip Supply Chain Bottlenecks",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/rare-earth-metals-in-semiconductors"
+          "text": "AMBA Over UCIe: Building Coherent Multi-Die Systems",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/amba-over-ucie-building-coherent-multi-die-systems/"
         },
         {
-          "text": "Identifying the Root Cause of Electronics Failures With Simulation Apps",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/electronics-corrosion-multiphysics-simulation"
+          "text": "Compressing An 11B VLM To 2.7-bit Weights For Mobile CPUs",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/compressing-an-11b-vlm-to-2-7-bit-weights-for-mobile-cpus/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "16:55",
-          "title": "2026企业管理最佳实践榜在银川发布 AI+管理共筑新质生产力 - 新浪网",
-          "summary": "2026企业管理最佳实践榜在银川发布 AI+管理共筑新质生产力 新浪网",
+          "time": "22:05",
+          "title": "企业管理 | 天能化工二厂2026年现场环境改善工作多点开花 - Sohu",
+          "summary": "企业管理 | 天能化工二厂2026年现场环境改善工作多点开花 Sohu",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFJSX2dCS2dYc0hKNE9WY2NORkFwbXVWM3l2LVlMU2V4N3cyRVhSOFRyWlR4SmF3VGpkdllGRzR2Tno3cUg5LURxdnN5Y1kyNXBUTXB5Y0ptWVloQ0RwTHJXTmJ6NmtUR05lbExYZzhlVHMyOHdwZWFaakRtX3VsVEs3OA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDNYLWE2TFgtdGFUUXF3azRUc3YyUE9xM25wazBwSk9SWkFTLUhsYkVWOGw3UmpFdFZ1bEhCdHVxNU9pYTFDSkFzZTJqM2RmSXN4YndDeGZmVzc0aE52dGFyeEJoMGVySHd6YU5hclBXdGlwQzVEUlROWV9EUWlnT2d4dDlHLTRPOGhoaQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:27",
-          "title": "AI管理从思想到实践 2026企业管理最佳实践榜发布 - 央广网",
-          "summary": "AI管理从思想到实践 2026企业管理最佳实践榜发布 央广网",
+          "time": "21:01",
+          "title": "迅游科技：重庆海运天企业管理有限公司及一致行动人持股比例已升至11.02% - 东方财富",
+          "summary": "迅游科技：重庆海运天企业管理有限公司及一致行动人持股比例已升至11.02% 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10UG5SYWpxSUNaQnhBV1AtMVpZR2lMbVpGSThGSVZOSWk2U2FNaGZZWFcyWG1oNVVjeVd2MFFyY21hNHJub0hVQ20xQmczaE16S0dRYTN6NmZrZXJ1bHFMNTBlRl9iN3lrOTJqd2lfSGRFZ1k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tMU1uZ1A0YWFKRDFRaTZ5R3g1aGlhQmI2SU5zaU9yZWVRZE91eVBXMEJ2eGdTMnBRdkZMUFl0a1l4ZUtrRmViVk1nYVlkenlSVWZTSjNaU3Jtcl9LaTVSVklTRmduZw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "《企业供应链韧性评价》团体标准发布仪式在厦门举办 - cb.com.cn",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02MVA4OVNRZXlSVmh3TzdhY3dPa29SUURmd1J4M2g2c1ZRQkhlQ2xoU2dhR2R6TW1WUmYzQ1l4SE5ZNlVzYVBFRzZjbFpENWVKSTVNSWd5c1Z4cF9zdm9DelUtSQ?oc=5"
+          "text": "航新科技：控制权变更已经完成，国资作为控股股东LP出资人不参与上市公司管理 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vcWVIeGU1SmJPdGJkczNMMmJSTENiMDNQcG1LTnhQMkt2WERFdVIxd09BUndLbVVqdHdfbXl4N0UwLU9GZm9odjNWbmh6c05SdVZ5RE12bDh2U01qdGlZbUlOUlg?oc=5"
         },
         {
-          "text": "读懂2026中国手游走向！K体育APP入口×公司战略×产品迭代×人物访谈，最值得关注的都在这里了 - 体坛",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaVkJrR1ZYaUh6Z2YyblVvZTBxV3JFSkJjbVBlX1BmV2s0cXU1UE9USE9GN21JbjRwUE56T1N0MlZBcVpHN014LUNHRlotM1k?oc=5"
+          "text": "从“工具”到“员工”：联想AI原生组织案例入选2026年企业管理最佳实践榜 - 京报网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FWjBBUEVicXY3TjNzb1U3QkZFbWVKRk9fUjlxb09kT2w1azBLdTViZHJiVHhERVBRclJRb1hjdEkyMUw0dm4wV2IybFdLZmtoejBwWlZTcGlTVGRVOUE?oc=5"
         },
         {
-          "text": "芯碁微装：将持续加大国产零部件验证导入力度 提升供应链韧性 - TradingView",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oa08tbk9NdTlzUzZIcEF3N25ZM01XUU10SVZkYWNiV3YxRE9OZUJjTl9xZ2k3QjNSanY4WW1haUcxRlN4WkVkTThISmhRR2w1ZThIZWM3djFWVUE2dkpYSF9MZktHR0JOYXpr?oc=5"
+          "text": "神州细胞(688520):神州细胞股东减持股份计划公告 - 中财网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95emkwUmdicGp0MnBlOHR5VTBnUW91eVhpUXJQU0pCall4czZaUDZRMEtNSy1XZjJhOUFtLWJjczNPODhKc3Izbi1UeWZpaTlIRXNUcW5B?oc=5"
         },
         {
-          "text": "以制度建设提升产业链供应链韧性和安全水平 - epaper.tianjinwe.com",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRUpqZnU3RnZjUDVjMzVJMkFHNjVZUDFNOXlmdk9GeEI3d2lIdGxmb0JITzI4Vm5oSzNwc2k3bmk0LTZId3dSeWsycUZPT0FPS01lOGFDZmNKUEFjbk52NGU5QjI1b3ZwLXV2SDFRZVBhQk5Ed0lnZk9wWFJxaGtJb0ZR?oc=5"
+          "text": "2026企业管理最佳实践榜在银川发布 AI+管理共筑新质生产力 - 手机新浪网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFJSX2dCS2dYc0hKNE9WY2NORkFwbXVWM3l2LVlMU2V4N3cyRVhSOFRyWlR4SmF3VGpkdllGRzR2Tno3cUg5LURxdnN5Y1kyNXBUTXB5Y0ptWVloQ0RwTHJXTmJ6NmtUR05lbExYZzhlVHMyOHdwZWFaakRtX3VsVEs3OA?oc=5"
         }
       ]
     }
