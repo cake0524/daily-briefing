@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月16日",
+  "publishDate": "2026年9月17日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "横评三款充电快的B级新能源轿车，5分钟充70%且低温不衰减的只有它 - aut…",
+      "title": "9月16日新能源电池ETF华宝（159071）份额增加200.00万份，最新份…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -27,42 +27,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "09:23",
-          "title": "横评三款充电快的B级新能源轿车，5分钟充70%且低温不衰减的只有它 - auto.sina.cn",
-          "summary": "横评三款充电快的B级新能源轿车，5分钟充70%且低温不衰减的只有它 auto.sina.cn",
+          "title": "9月16日新能源电池ETF华宝（159071）份额增加200.00万份，最新份额1.26亿份，最新规模9833.71万元 - 新浪财经",
+          "summary": "9月16日新能源电池ETF华宝（159071）份额增加200.00万份，最新份额1.26亿份，最新规模9833.71万元 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55RC1YaS1HMEcxdHc2MmthdkZ6NElpZEpZMlJ0UTlVS1llRllEd2dNMTdtWnFYUS1Yc1RaVl9WUE0wXzhHUC1ySllrQzlVVFZmSmV5Vk1MUXVyQ0FqRHI1N2FLRjQ2QlVEY3ZFZzNEWTZhaTFm?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jWUJobjNjSmYzbmF4cklFVmUwblBtc1FheDh6emY3Q1pBQmZHa3B3NnVQSVdxU01VaWc3bnJGMlloOGNpRjlmdE54cXhoYnU3TGJuazN2ME1WTFpuSnFQbW9aemdnWm5MVE9HbEN4OFVNV05JY2dUSg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:20",
-          "title": "四款10万级B级新能源轿车横评：2820mm轴距、900V闪充，这台车把“越级”玩明白了 - 手机新浪网",
-          "summary": "四款10万级B级新能源轿车横评：2820mm轴距、900V闪充，这台车把“越级”玩明白了 手机新浪网",
+          "time": "09:17",
+          "title": "“已经吃过一次亏”，周鸿祎称不会再投资新能源车，他曾19亿元投资哪吒汽车，还喊话哪吒汽车CEO要学习雷军 - 新浪财经",
+          "summary": "“已经吃过一次亏”，周鸿祎称不会再投资新能源车，他曾19亿元投资哪吒汽车，还喊话哪吒汽车CEO要学习雷军 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOOG92R29FRjdzMXk2cG40RmpNUXNNZkpReklVbGpGM2FNdVJKS2FuYzUzOUx3S2lEQ0h2X0lBa0Z0c1BmMmZfTHloZV92a2o0X216OGdteW1uVkZtMjJMR3dSQVpja2h6d0ROb2pzZXhKQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0QwN0lmS3p0VnJQelBIeW9sU1hQeGFBRUFPOUd2ekRvMWRpMzhrMG01RkVQTTRxOEpDbnUzd2dEdW5mYV9aZDlMaWRuQndVdGxaTDVyc01Zd2hWVkxrY1YtR211MklDOHlxcEl3VURQMnNJX09YWFdSdW9YOUpqekFjcw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "陕西公司新能源装机规模达省内第一 - ceic.com",
+          "text": "横评四款10万左右B级新能源新车，空间越级还带900V闪充的只有这一台 - 新浪汽车",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdTdBclFmQjF0aHVZWmpVdDRrQ3h6SkNDV3ozaFYxX3k3NW5OYnlFcFRwaTJuSTNyTEpiM3I4aFgyM3RpdWdxRjVsTUtPYkgtdlFxWm92RXc1VVBCUTVSZFNFX05DY2Zpa2txdjU2STNsQUphYWE1dTgySzZ3OUhfcVJhd2E1NHp2OGJ6MXNB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hUDhPZkswdGg4T0tDRzBLSzlTV0J4Z05OYkwwd0U5eS0xVGNHQWhpeW0zZW8xdXJUUnN5eG02QnpuVWhyb1dKemFsNkNVbld5ZVB0YXI4U19EMUprRTZRNjBSNzBUYlI5eG81VnpHMTlhLTJi?oc=5"
         },
         {
-          "text": "【视频】家用新能源新选择！埃安i60 2027款上市10.68万起 - chejiahao.autohome.com.cn",
+          "text": "横评三款10万级B级新能源新车，能兼顾900V闪充和越级大空间的只有这一台 - 新浪汽车",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jaU9CcU5FMHZrRElYNVY1eUZGaG5BTnEzWjc0Xzk1VE5OTVVjUTcwYjNrUTJpVVpBU1R6ZVRDa0RoUndRZUdnUXQ1OUkzc1VqeTkzcG9jdkhFYW8?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYVmtGOTd5MGdiMWZqS3RjVjh5Tm5NTGQ0UmNwcUtkakkzZ3BfczhUZTNWdlFoRHpZTVhwM2hMR1g4YWJsYlAwVjV1TFRKLU5mN0U2S25lamlHamlaRVR1MVFONEZGVXppNm9Td0tUbjc4UTVy?oc=5"
         },
         {
-          "text": "横评四款10万级B级新能源新车，综合最能打的为什么是它 - auto.sina.cn",
+          "text": "【视频】比亚迪携新能源车型矩阵亮相，展示新能源交通运输全场景解决方案 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91dEZoTEE1aW9wTmx5RXlRTzlSMlpPQ290US13Z1JQVEVJbTlTY2NUc2V4SzUzaVhwTG9YOTFwd3hfU2txcUFjajJ4T21ZeUZXQVN0TTVyQm1vdmxVRU1vcDNDUE9JTkQ2QmoxUlVBdGpZWEhU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3U2dCM1NvMHl2X2tobmh3NE9nM2o5TFFwQzNKdUI5akNIVXFoM1hIeDNGMXcydXdOVUY3SFlyYkIzUkxlRm9kS2RxZ2lraFMxNW03NUdpaDg0RGc?oc=5"
         },
         {
-          "text": "四款充电快的B级新能源轿车同场横评，零下30℃充电仅多3分钟的竟是它 - 手机新浪网",
+          "text": "国产新能源9系严父！ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15NV9qeVJYV3pOeWJUQmMxRWZrQl9WWGdqOG8wb2xnOUFkZVM1V3FFVVFfWjduUDNWRDF3R09FVDkzYkdwRlNnXzQ0SXZGaDhoUGpVZHJlYWVTWmFXSHA1VDlwbjFOVFhxOGQwWVVnUVJzc2laOFItcVFNNHU4ZjA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2JiN0VJaGpqWVY0NGZ1Umx4Mll2SkllbVRzX2d1QmpDYzFGWVd3VU9qUzJNUDVyeVBjeXhsX20zaTdzZFJFOWM4RXJFZkJIS1JFLXpZS1lBeHBxd0g3UkhIMHVQaGpndkhHbjhTeU5VWlk1aWtTRng3SlRrUmxBMQ?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:47",
-          "title": "Roundtables: Could AI really kill us all?",
-          "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possi…",
+          "time": "01:00",
+          "title": "Our framework for reporting model misalignment",
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six repor…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:00",
-          "title": "What’s at stake in AI’s trillion-dollar gamble",
-          "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to asses…",
+          "time": "00:00",
+          "title": "Helping older adults use AI in everyday life",
+          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
         }
       ],
       "briefs": [
         {
-          "text": "The AI industry has taken a doomer turn. What now?",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
-        },
-        {
-          "text": "AI agents blew the whistle on their cheating colleagues",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
-        },
-        {
-          "text": "How Fyxer built an AI executive assistant people trust",
+          "text": "Reimagining advertising with AI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/fyxer"
+          "url": "https://openai.com/index/reimagining-advertising-with-ai"
         },
         {
-          "text": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "text": "Building the materials foundation for AI",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
+        },
+        {
+          "text": "How to connect AI usage to business value",
           "source": "OpenAI",
-          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+        },
+        {
+          "text": "How workers are unlocking new ways of working",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:13",
-          "title": "AI Data Centers Have A Stranded Power Problem",
-          "summary": "Redundant feeds protect uptime, but they also strand capacity that could support more hardware. The post AI D…",
+          "time": "15:15",
+          "title": "Moving Test Data Faster",
+          "summary": "Options and workarounds for improving reliability in chips. The post Moving Test Data Faster appeared first o…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-data-centers-have-a-power-hoarding-problem/"
+          "url": "https://semiengineering.com/moving-test-data-faster/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:12",
-          "title": "Hardware-Software Co-Design In The AI Era",
-          "summary": "Even though the benefits are accepted, a combined hardware/software development flow is hampered by a lot of…",
+          "time": "15:05",
+          "title": "Why SoC Interconnects Have Outgrown the Bus",
+          "summary": "How advanced NoC architectures and coherent subsystem IP can address the industry's next-gen scalability, saf…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/hardware-software-co-design-in-the-ai-era/"
+          "url": "https://semiengineering.com/why-soc-interconnects-have-outgrown-the-bus/"
         }
       ],
       "briefs": [
         {
-          "text": "Scaling Thermal Analysis From Transistors To Data Centers",
+          "text": "The Missing Science Of Robotic Systems",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/scaling-thermal-analysis-from-transistors-to-data-centers/"
+          "url": "https://semiengineering.com/the-missing-science-of-robotic-systems/"
         },
         {
-          "text": "Scaling AI Infrastructure With PCIe Switches And Retimers",
+          "text": "System-level Power Integrity Analysis Using The Innovator 3D IC Solution Suite",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/scaling-ai-infrastructure-with-pcie-switches-and-retimers/"
+          "url": "https://semiengineering.com/system-level-power-integrity-analysis-using-the-innovator-3d-ic-solution-suite/"
         },
         {
-          "text": "AMBA Over UCIe: Building Coherent Multi-Die Systems",
+          "text": "Enhancing AI Inference Efficiency with Cadence LPDDR Memory IP Solutions",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/amba-over-ucie-building-coherent-multi-die-systems/"
+          "url": "https://semiengineering.com/enhancing-ai-inference-efficiency-with-cadence-lpddr-memory-ip-solutions/"
         },
         {
-          "text": "Compressing An 11B VLM To 2.7-bit Weights For Mobile CPUs",
+          "text": "Enabling Efficient Edge AI Inferencing Through Ecosystem Collaboration",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/compressing-an-11b-vlm-to-2-7-bit-weights-for-mobile-cpus/"
+          "url": "https://semiengineering.com/enabling-efficient-edge-ai-inferencing-through-ecosystem-collaboration/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
-          "summary": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as need…",
+          "title": "Who should set the rules for AI? The UN is pushing for a safer digital future",
+          "summary": "Artificial intelligence (AI) is advancing rapidly, raising questions about how societies and governments can…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168333"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168353"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN agencies warn humanitarian system in Sudan ‘could collapse’",
-          "summary": "UN aid agencies on Monday said they may be forced to scale back humanitarian aid in Sudan – home of the world…",
+          "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
+          "summary": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, th…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168331"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168352"
         }
       ],
       "briefs": [
         {
-          "text": "Money sent home by migrants nearly doubles in a decade",
+          "text": "Repression continues in Venezuela in the face of ‘appalling’ human rights viola…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168330"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168351"
         },
         {
-          "text": "Highly persistent toxic waste threatens ‘many, if not all, human rights’",
+          "text": "AI, climate and conflicts top Guterres’s agenda ahead of General Assembly",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168329"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168348"
         },
         {
-          "text": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displace…",
+          "text": "Security Council LIVE: ‘Being a woman is a crime in Afghanistan,’ civil society…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168328"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168347"
         },
         {
-          "text": "Countries must increase AI regulation to avoid ‘existential risks’: Türk",
+          "text": "UN report warns of reprisals against those who collaborate in defence of human…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168326"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168345"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:05",
-          "title": "企业管理 | 天能化工二厂2026年现场环境改善工作多点开花 - Sohu",
-          "summary": "企业管理 | 天能化工二厂2026年现场环境改善工作多点开花 Sohu",
+          "time": "08:58",
+          "title": "灵心巧手在北京成立追梦企业管理公司 - Sohu",
+          "summary": "灵心巧手在北京成立追梦企业管理公司 Sohu",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDNYLWE2TFgtdGFUUXF3azRUc3YyUE9xM25wazBwSk9SWkFTLUhsYkVWOGw3UmpFdFZ1bEhCdHVxNU9pYTFDSkFzZTJqM2RmSXN4YndDeGZmVzc0aE52dGFyeEJoMGVySHd6YU5hclBXdGlwQzVEUlROWV9EUWlnT2d4dDlHLTRPOGhoaQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc3F0c1lJZFB4QUFHd1RyVXI2TnlvdmhCVkVYTWI5b085d0tDVEdWLWk0dlZuRGpRRU1ZRUo1UEVMQ256aHdfdnkwcWZ0bVN1ejN6NmJpMk1KS0s4MmlGczlORFdYWEZia0pEa0h5WFlXQ3oyYWQ2cXQ4SUNMemd4ZFFlaGVDOGc5aTZFVA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:01",
-          "title": "迅游科技：重庆海运天企业管理有限公司及一致行动人持股比例已升至11.02% - 东方财富",
-          "summary": "迅游科技：重庆海运天企业管理有限公司及一致行动人持股比例已升至11.02% 东方财富",
+          "time": "08:56",
+          "title": "灵心巧手在北京成立追梦企业管理公司 - caiwennews.com",
+          "summary": "灵心巧手在北京成立追梦企业管理公司 caiwennews.com",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tMU1uZ1A0YWFKRDFRaTZ5R3g1aGlhQmI2SU5zaU9yZWVRZE91eVBXMEJ2eGdTMnBRdkZMUFl0a1l4ZUtrRmViVk1nYVlkenlSVWZTSjNaU3Jtcl9LaTVSVklTRmduZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11YkFJOVdiQWNvNXU1cjF0bklQV29xVWgwVndBMXAtT3hwTzV5Q3BvOFVrYWIzeGdzLVJiVXNPdlQzWndPby1GY25SdjJQVU9VNEhhN1VBSW1MeTJZ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "航新科技：控制权变更已经完成，国资作为控股股东LP出资人不参与上市公司管理 - 东方财富",
+          "text": "维力医疗（603309）股东广州松维企业管理咨询有限公司质押280万股，占总股本0.96% - Sohu",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vcWVIeGU1SmJPdGJkczNMMmJSTENiMDNQcG1LTnhQMkt2WERFdVIxd09BUndLbVVqdHdfbXl4N0UwLU9GZm9odjNWbmh6c05SdVZ5RE12bDh2U01qdGlZbUlOUlg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjZTQmM3MVVDMkpIQ1NDcU13V2dwMmtMTkRUMHhmWUpyczQ2ZFRWdnlUbFhVT0xqWjVwOEtNa21xOE9vMGliYXBia2FTcnJlaE9EcnBWRVVJazlHT2hVUGVZZE16aFFFeV8yeXRKRXR6RmlqajBtcUllRERiYkpvbzRMYUtycWYx?oc=5"
         },
         {
-          "text": "从“工具”到“员工”：联想AI原生组织案例入选2026年企业管理最佳实践榜 - 京报网",
+          "text": "安旭生物(688075):安旭生物关于持股5%以上股东名称变更 - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FWjBBUEVicXY3TjNzb1U3QkZFbWVKRk9fUjlxb09kT2w1azBLdTViZHJiVHhERVBRclJRb1hjdEkyMUw0dm4wV2IybFdLZmtoejBwWlZTcGlTVGRVOUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WNVRNbFo2NXhTZVdjTlhSbkc4SlY5ZXFLTHUxejhxenZMLTRyemZKRXMxMGZYSWoxRml6QndtUUY0UEJCcUNEd04yb0NrQl93aWU5ZEVB?oc=5"
         },
         {
-          "text": "神州细胞(688520):神州细胞股东减持股份计划公告 - 中财网",
+          "text": "企业管理者必看！用工合规、AI办公干货一站式学习 - 上观新闻",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95emkwUmdicGp0MnBlOHR5VTBnUW91eVhpUXJQU0pCall4czZaUDZRMEtNSy1XZjJhOUFtLWJjczNPODhKc3Izbi1UeWZpaTlIRXNUcW5B?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZNU43WWxyaFViLTgwSl9VNVlpcWZCa1BGZ0ZpdUprWm5yazZuS0JYeVBDSl9hT2E3blJ3V1FzWHRJR2E4LVVLSXRUOGstZDEyTmVQc3pkWVg?oc=5"
         },
         {
-          "text": "2026企业管理最佳实践榜在银川发布 AI+管理共筑新质生产力 - 手机新浪网",
+          "text": "先锋精科：靖江优立佳企业管理合伙企业（有限合伙）已减持1.09%股份 - 东方财富",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUFJSX2dCS2dYc0hKNE9WY2NORkFwbXVWM3l2LVlMU2V4N3cyRVhSOFRyWlR4SmF3VGpkdllGRzR2Tno3cUg5LURxdnN5Y1kyNXBUTXB5Y0ptWVloQ0RwTHJXTmJ6NmtUR05lbExYZzhlVHMyOHdwZWFaakRtX3VsVEs3OA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96bVB5QkFkUmRlMVVXOGpyOGRCSkFWSEFseEFlajZRTDdzcEQtQy1nSXNkRVQxbjh6SXBVQWF3cG5HYlVGRWpNRnl5TWhMR1Vkc0VWM2Z0Q2xxR2tRMTI4VlpUcWozZw?oc=5"
         }
       ]
     }
