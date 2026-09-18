@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月17日",
+  "publishDate": "2026年9月18日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "9月16日新能源电池ETF华宝（159071）份额增加200.00万份，最新份…",
+      "title": "每天接送娃，传祺E8 PHEV和别克GL8新能源谁更顺手？ - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "The shape behind the Einstein problem j…",
+      "title": "A $100 detector can see invisible parti…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:23",
-          "title": "9月16日新能源电池ETF华宝（159071）份额增加200.00万份，最新份额1.26亿份，最新规模9833.71万元 - 新浪财经",
-          "summary": "9月16日新能源电池ETF华宝（159071）份额增加200.00万份，最新份额1.26亿份，最新规模9833.71万元 新浪财经",
+          "time": "09:12",
+          "title": "每天接送娃，传祺E8 PHEV和别克GL8新能源谁更顺手？ - 汽车之家",
+          "summary": "每天接送娃，传祺E8 PHEV和别克GL8新能源谁更顺手？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jWUJobjNjSmYzbmF4cklFVmUwblBtc1FheDh6emY3Q1pBQmZHa3B3NnVQSVdxU01VaWc3bnJGMlloOGNpRjlmdE54cXhoYnU3TGJuazN2ME1WTFpuSnFQbW9aemdnWm5MVE9HbEN4OFVNV05JY2dUSg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hRm5ESkU4d2o4eGNCWmFYY3hpNmdYTll1dzE5MkVXN0tURl94dHhwQVpnZ1B6dzR6VDQwQVpHblVSUlEzaC1STmJsVm8za0VhdzIwdlhnZktDQUtqZkNoYUIzRnh1bEhWLUNF?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:17",
-          "title": "“已经吃过一次亏”，周鸿祎称不会再投资新能源车，他曾19亿元投资哪吒汽车，还喊话哪吒汽车CEO要学习雷军 - 新浪财经",
-          "summary": "“已经吃过一次亏”，周鸿祎称不会再投资新能源车，他曾19亿元投资哪吒汽车，还喊话哪吒汽车CEO要学习雷军 新浪财经",
+          "time": "09:11",
+          "title": "上合组织数字经济论坛成果发布：openKylin开源系统成国际开源合作新力量 - blog.csdn.net",
+          "summary": "上合组织数字经济论坛成果发布：openKylin开源系统成国际开源合作新力量 blog.csdn.net",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY0QwN0lmS3p0VnJQelBIeW9sU1hQeGFBRUFPOUd2ekRvMWRpMzhrMG01RkVQTTRxOEpDbnUzd2dEdW5mYV9aZDlMaWRuQndVdGxaTDVyc01Zd2hWVkxrY1YtR211MklDOHlxcEl3VURQMnNJX09YWFdSdW9YOUpqekFjcw?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00TXRBUzMxWFBBMDdmUF90X0E4THM3a2ZJWmF3ZkQyUlNZZ21hTUVSU2JnQVpzTmtkQXFNZjRCemxxT1FmOXZmUGNCVDZNZ2ktczZGZktnZGRXODdiWHpCRUo3MkFDS3d0RUlZ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "横评四款10万左右B级新能源新车，空间越级还带900V闪充的只有这一台 - 新浪汽车",
+          "text": "发力国内新能源市场，现代计划引进帕里斯帝HEV并开发EREV版本 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hUDhPZkswdGg4T0tDRzBLSzlTV0J4Z05OYkwwd0U5eS0xVGNHQWhpeW0zZW8xdXJUUnN5eG02QnpuVWhyb1dKemFsNkNVbld5ZVB0YXI4U19EMUprRTZRNjBSNzBUYlI5eG81VnpHMTlhLTJi?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZaW95MUJBZmhoN1RKRmpDTVJjdjJwQzQ0a1ZEdlF1UEktcnhXRW9vSFgwbTQxam1sZmxwWU5yaFEzNVhfcVhlNm9vbXZjUGx3MXliNVd3TXFqM0U?oc=5"
         },
         {
-          "text": "横评三款10万级B级新能源新车，能兼顾900V闪充和越级大空间的只有这一台 - 新浪汽车",
+          "text": "9月17日新能源车ETF东财（159637）份额减少600.00万份，最新份额6.66亿份，最新规模4.97亿元 - Sohu",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYVmtGOTd5MGdiMWZqS3RjVjh5Tm5NTGQ0UmNwcUtkakkzZ3BfczhUZTNWdlFoRHpZTVhwM2hMR1g4YWJsYlAwVjV1TFRKLU5mN0U2S25lamlHamlaRVR1MVFONEZGVXppNm9Td0tUbjc4UTVy?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1RUZ1NvUGNVeHV6LUpOU1dvNThmRUJDQ3FEOGZ1SDYwazQ4Tnl3Y29ycVhYVnB1YVRyLXVXcUdoS3hEN1NrQUg0bVF3dVFWV04taUV0T1R5RGJmNG95VTdZU1VuclU3T0JFUmtlN3Zfc0FCcUVSeXhoV0hHUTRjVzhrVy1YSlEteHczRw?oc=5"
         },
         {
-          "text": "【视频】比亚迪携新能源车型矩阵亮相，展示新能源交通运输全场景解决方案 - 汽车之家",
+          "text": "发展先进制造业切忌喜新厌旧 - 新浪新闻_手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3U2dCM1NvMHl2X2tobmh3NE9nM2o5TFFwQzNKdUI5akNIVXFoM1hIeDNGMXcydXdOVUY3SFlyYkIzUkxlRm9kS2RxZ2lraFMxNW03NUdpaDg0RGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qbWtackVUcm1uMXg1QW9wcW9DdThTUmFUTy0xRm9iZl93eGM0WHJzdHVNbXB3MGdTNFVjWTNPOThiYklWeFlmUE1jcG9HaDdCLW5aTDF1WVpncHpCdi1QYVo1VkQxY1p6LW9rU2ktNXFoN1JKdkE?oc=5"
         },
         {
-          "text": "国产新能源9系严父！ - 手机新浪网",
+          "text": "中集新能源项目在昆都仑区竣工投产 - Sohu",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT2JiN0VJaGpqWVY0NGZ1Umx4Mll2SkllbVRzX2d1QmpDYzFGWVd3VU9qUzJNUDVyeVBjeXhsX20zaTdzZFJFOWM4RXJFZkJIS1JFLXpZS1lBeHBxd0g3UkhIMHVQaGpndkhHbjhTeU5VWlk1aWtTRng3SlRrUmxBMQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTNYeVpaaXY3YnNlWGxNRjNyWHhKV0ZLcC0yM1JQb2RJQ0YwYndBazJPQ3g5N3BUdkhrakNMcU1tZEN0Q0RZamlhTC1IWElkQUJaM01ucEE2Q0g0SzRJeGFUdkwyT2lDMjBJTUpSSHRwMWU2V3JZbG8wbl9ialdrMEtkM21sV3lh?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:14",
-          "title": "The shape behind the Einstein problem just revealed strange new physics",
-          "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability…",
+          "time": "21:54",
+          "title": "A $100 detector can see invisible particles raining down from space",
+          "summary": "A pocket-sized, roughly $100 detector can reveal the invisible stream of cosmic particles constantly passing…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:45",
+          "title": "JWST’s mysterious little red dots may be black holes growing at incredible speeds",
+          "summary": "New supercomputer simulations suggest JWST’s puzzling Little Red Dots are rapidly growing black holes from th…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003703.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "The shape behind the Einstein problem just revealed strange new physics",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "20:03",
-          "title": "Scientists are building a microscope powered by a quantum computer",
-          "summary": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Scientists are building a microscope powered by a quantum computer",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Physicists discover a hidden “curveball” in quantum light",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "AI uncovers hidden Ozempic side effects across 400,000 Reddit posts",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260912222856.htm"
-        },
-        {
-          "text": "Tiny sound waves could help solve a major quantum computing problem",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911214245.htm"
-        },
-        {
-          "text": "Researchers find a Wordle strategy that wins 99% of the time",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm"
         }
       ]
     },
@@ -170,24 +170,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:00",
-          "title": "Our framework for reporting model misalignment",
-          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six repor…",
+          "time": "20:00",
+          "title": "How Cooley is accelerating IPO work with ChatGPT",
+          "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface is…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/cooley-gopublic"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "08:00",
+          "title": "Introducing Astra for Law",
+          "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/astra-for-law"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Our framework for reporting model misalignment",
           "source": "OpenAI",
           "url": "https://openai.com/index/model-misalignment-reporting-framework"
         },
         {
-          "priority": "重点看点 02",
-          "time": "00:00",
-          "title": "Helping older adults use AI in everyday life",
-          "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "Helping older adults use AI in everyday life",
           "source": "OpenAI",
           "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Reimagining advertising with AI",
           "source": "OpenAI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "Building the materials foundation for AI",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
-        },
-        {
-          "text": "How to connect AI usage to business value",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
-        },
-        {
-          "text": "How workers are unlocking new ways of working",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/unlocking-new-ways-of-working"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:15",
-          "title": "Moving Test Data Faster",
-          "summary": "Options and workarounds for improving reliability in chips. The post Moving Test Data Faster appeared first o…",
+          "time": "15:13",
+          "title": "Why Package Digital Twins Are So Hard To Build",
+          "summary": "Models need to be synchronized with what manufacturing actually builds. The post Why Package Digital Twins Ar…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/moving-test-data-faster/"
+          "url": "https://semiengineering.com/why-package-digital-twins-are-so-hard-to-build/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:05",
-          "title": "Why SoC Interconnects Have Outgrown the Bus",
-          "summary": "How advanced NoC architectures and coherent subsystem IP can address the industry's next-gen scalability, saf…",
+          "time": "15:12",
+          "title": "Negative Expansion Materials Resist Warpage",
+          "summary": "Molding compounds and underfill can improve thermal stability. The post Negative Expansion Materials Resist W…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/why-soc-interconnects-have-outgrown-the-bus/"
+          "url": "https://semiengineering.com/negative-expansion-materials-resist-warpage/"
         }
       ],
       "briefs": [
         {
-          "text": "The Missing Science Of Robotic Systems",
+          "text": "The Silicon Heartland Wants To Be America’s Next Chip Powerhouse",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-missing-science-of-robotic-systems/"
+          "url": "https://semiengineering.com/the-silicon-heartland-wants-to-be-americas-next-chip-powerhouse/"
         },
         {
-          "text": "System-level Power Integrity Analysis Using The Innovator 3D IC Solution Suite",
+          "text": "Beyond Scaling: The Growing Role Of Materials Innovation In Semiconductor Manuf…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/system-level-power-integrity-analysis-using-the-innovator-3d-ic-solution-suite/"
+          "url": "https://semiengineering.com/beyond-scaling-the-growing-role-of-materials-innovation-in-semiconductor-manufacturing/"
         },
         {
-          "text": "Enhancing AI Inference Efficiency with Cadence LPDDR Memory IP Solutions",
+          "text": "AI’s Storage Problem Is a Packaging Problem",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/enhancing-ai-inference-efficiency-with-cadence-lpddr-memory-ip-solutions/"
+          "url": "https://semiengineering.com/ais-storage-problem-is-a-packaging-problem/"
         },
         {
-          "text": "Enabling Efficient Edge AI Inferencing Through Ecosystem Collaboration",
+          "text": "Driving Power Delivery Innovations For The AI Data Center",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/enabling-efficient-edge-ai-inferencing-through-ecosystem-collaboration/"
+          "url": "https://semiengineering.com/driving-power-delivery-innovations-for-the-ai-data-center/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:58",
-          "title": "灵心巧手在北京成立追梦企业管理公司 - Sohu",
-          "summary": "灵心巧手在北京成立追梦企业管理公司 Sohu",
+          "time": "21:51",
+          "title": "规范运营优化平台机制，联华证券以实盘机制持续增强管理效能 - 新浪财经",
+          "summary": "规范运营优化平台机制，联华证券以实盘机制持续增强管理效能 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc3F0c1lJZFB4QUFHd1RyVXI2TnlvdmhCVkVYTWI5b085d0tDVEdWLWk0dlZuRGpRRU1ZRUo1UEVMQ256aHdfdnkwcWZ0bVN1ejN6NmJpMk1KS0s4MmlGczlORFdYWEZia0pEa0h5WFlXQ3oyYWQ2cXQ4SUNMemd4ZFFlaGVDOGc5aTZFVA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNa3NtaDdSR2lSV0FqRjVDaUxlMWdFWUZTb25EQ0JfVDlEMmQ3Z3pVQXlEVjlEZ21JWV9KNEVJbFg4Z19UcUZyblpWZXhhTGozcHllTUcyckhFSEpBSEJnVXhrNEZYVHhRR1BKekg2Mk0wdDg1Z0w1dGVleEV1M1pxUU1WWWRGU25NWnFN?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:56",
-          "title": "灵心巧手在北京成立追梦企业管理公司 - caiwennews.com",
-          "summary": "灵心巧手在北京成立追梦企业管理公司 caiwennews.com",
+          "time": "16:42",
+          "title": "天龙股份(603266):与四川翠融企业管理有限责任公司签署股权挂牌转让意向协议书的进展公告 - 中财网",
+          "summary": "天龙股份(603266):与四川翠融企业管理有限责任公司签署股权挂牌转让意向协议书的进展公告 中财网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11YkFJOVdiQWNvNXU1cjF0bklQV29xVWgwVndBMXAtT3hwTzV5Q3BvOFVrYWIzeGdzLVJiVXNPdlQzWndPby1GY25SdjJQVU9VNEhhN1VBSW1MeTJZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92SmFMVTY0enA5RURua0V5R0U5SDd0R3llRzk5OGVsRXFKeGpUTkhTbnhVWjJJdDlNUGlTVDNZdDd5TUZsYnZRZUx5aXp3UTI5eDNnLTR3?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "维力医疗（603309）股东广州松维企业管理咨询有限公司质押280万股，占总股本0.96% - Sohu",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjZTQmM3MVVDMkpIQ1NDcU13V2dwMmtMTkRUMHhmWUpyczQ2ZFRWdnlUbFhVT0xqWjVwOEtNa21xOE9vMGliYXBia2FTcnJlaE9EcnBWRVVJazlHT2hVUGVZZE16aFFFeV8yeXRKRXR6RmlqajBtcUllRERiYkpvbzRMYUtycWYx?oc=5"
+          "text": "从人生就是搏登录看企业战略：品牌韧性、危机管理与跨界启示 - 体坛",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MajBncU85R2NPT0MxcmwxajVpM0RMWE4wLWdQeGFWUVpHb3hBVG16Z1dvQ0ZfQUlneDI2YXdxSWdjVVhJUUMwcG1UM2FKZzIyUHpJUnA5b2hoaFBHb2pnX2M5SVdPaU5j?oc=5"
         },
         {
-          "text": "安旭生物(688075):安旭生物关于持股5%以上股东名称变更 - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WNVRNbFo2NXhTZVdjTlhSbkc4SlY5ZXFLTHUxejhxenZMLTRyemZKRXMxMGZYSWoxRml6QndtUUY0UEJCcUNEd04yb0NrQl93aWU5ZEVB?oc=5"
+          "text": "金年入口注册：构建全球化企业战略新标杆 - 体坛",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE11Y3VUajk1MnlTcl9FQWY1ai1jazRlaG81N1FYQnI0UUtXdGU0SjhqcGRXcUg5a0xhRVlENFdBZU5uLVR3VDFtOVlMMA?oc=5"
         },
         {
-          "text": "企业管理者必看！用工合规、AI办公干货一站式学习 - 上观新闻",
+          "text": "灵心巧手在北京成立追梦企业管理公司 - 同花顺财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZNU43WWxyaFViLTgwSl9VNVlpcWZCa1BGZ0ZpdUprWm5yazZuS0JYeVBDSl9hT2E3blJ3V1FzWHRJR2E4LVVLSXRUOGstZDEyTmVQc3pkWVg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wekFURVRGQWU2a3k3bGxxVWMxVTlMb0VYNlhlVUhDRm1IMUV4aHRESkpfcDdHQi1hcm1zRWxFZWhldi02UjU3LWN0Y1huX3JKRE1UM3BBRHU2dXV3MmVheHBR?oc=5"
         },
         {
-          "text": "先锋精科：靖江优立佳企业管理合伙企业（有限合伙）已减持1.09%股份 - 东方财富",
+          "text": "灵心巧手在北京成立追梦企业管理公司 - caiwennews.com",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96bVB5QkFkUmRlMVVXOGpyOGRCSkFWSEFseEFlajZRTDdzcEQtQy1nSXNkRVQxbjh6SXBVQWF3cG5HYlVGRWpNRnl5TWhMR1Vkc0VWM2Z0Q2xxR2tRMTI4VlpUcWozZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11YkFJOVdiQWNvNXU1cjF0bklQV29xVWgwVndBMXAtT3hwTzV5Q3BvOFVrYWIzeGdzLVJiVXNPdlQzWndPby1GY25SdjJQVU9VNEhhN1VBSW1MeTJZ?oc=5"
         }
       ]
     }
