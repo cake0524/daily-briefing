@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月19日",
+  "publishDate": "2026年9月20日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "省委常委会召开会议学习贯彻习近平总书记近期重要讲话重要指示精神 - 江苏先锋",
+      "title": "从连接到自主：数字经济、数智经济与智能经济的演进逻辑与治理框架 - Sohu",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Six UN staff killed in Gaza school stri…",
+      "title": "The race to build a pandemic-proof world",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:54",
-          "title": "省委常委会召开会议学习贯彻习近平总书记近期重要讲话重要指示精神 - 江苏先锋",
-          "summary": "省委常委会召开会议学习贯彻习近平总书记近期重要讲话重要指示精神 江苏先锋",
+          "time": "09:04",
+          "title": "从连接到自主：数字经济、数智经济与智能经济的演进逻辑与治理框架 - Sohu",
+          "summary": "从连接到自主：数字经济、数智经济与智能经济的演进逻辑与治理框架 Sohu",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS1lGZ1hJNWJMb1RLU1NjNjVZTzVUb01kM2w3MXpDLWxLclBrdWdGMnVPaUFRTWxnRmh3M2lGdlZjQUJLeVRMTzFCaTZ2WFRnOVdNd3VlTndXZzBuSzEwQzR5aE51SHk0OHJmVGdGVnlHdDNIQ2h4TEllVFozMk5XOHpnRFFaeldCUEhRYmtjNllmUW1U?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDlfaF9ncUFobUI4Z0Y0NDM2OFo5enA4WGlXMGRqNmhRWktLR2M3STlhZHN1eC16cFhSbjlMRXNBNWtCQVVLX3ZkZ2dUWUR2Z3lJUWJ1NU1oQ3pTTjJOQmtadUtHVnp0cF9zcnNGSFlrT0tXMnBqcWxrRmtsSHR0ZGlJUWJQQ3Q0?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:50",
-          "title": "点“经”之笔丨制造业何以争“先”谋“进”？ - sohu.com",
-          "summary": "点“经”之笔丨制造业何以争“先”谋“进”？ sohu.com",
+          "time": "08:53",
+          "title": "“水运中国”走进福建 新能源拖轮为港口装上“绿色引擎” - 新浪财经",
+          "summary": "“水运中国”走进福建 新能源拖轮为港口装上“绿色引擎” 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORUpRdS1tT1NGQUdlOWhGZVdOdDJUSHctX2xtcFJrVDdJcDRXWEVETXlSOThpLU1mSmI4WXFaYXZtZURLekJXTGZfS0U1NHpiNlg5alMwU0VZek9uWllaZmdFQWhtRllTSWd1Z2E5aVBBcjhSSThHcEZiVjV4SUlzXzNMSDNxNmRFUlZvQg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xSlhBbnFIZnR2QXh3cVFvQTl6S00tOEZkbkNyeE5XblVnWEJsaENyekF0MUNGMlRjaUE1MkVtY0tvVGJUUlJSNVUzTjNVanphcEtGZFI5UmM1b25vVHg1a004NEZwS1l4ZWNKbHZGaWhxQ09ycTQtbg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "时政微观察丨发展先进制造业，总书记这样擘画- 中国日报网 - China Daily",
+          "text": "修理厂起诉特斯拉！新能源“维修垄断”迎来国内首案 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42RUhWTVc5cTdSRzlxUTBpMlREV2xQa19Sa1RXV2czbE84dzRfZzZWRi1scXRlNTVZdy1yeHRlRFQtXzBlUm5YaGhTWG5fWkg0Yk41cVFOTGo5bHFJNGhJQ2JCLUl4RndlU2w1aW0zYVhZQndtVXlHTlBEcUpGUWs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTHhsLTJBSDZkSXdmT3lEYUhlTHh3WGllOWh2T1lYU0ExMHdpeFNWLXo4a2V0cENKc3VycTM3MlNNSTVYbnk0ZThGdEJfcVhrbUJyMkF3NWRhQ00?oc=5"
         },
         {
-          "text": "新能源车消费者研究报告：续航真实性是最大槽点 - 金融界",
+          "text": "【视频】2027款埃安i60 中国家庭新能源SUV首选 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XTjZqZHFxd2dIWDF4RnVCTmdoZURtNUJla1RucklnNWJqNGVnZlN4dktobi1Kc2J4aEtBTXhaU0JzLTBJYmpTVUs2UEVOU3NQdk5odnhmdlJscEphU3g2MTZKdTZ2S0VZZDhVRFJocw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9faWtiZ01YRXN3Vkk2a3VscE50OW5oM3hJUERWTlJBU01sOUhEOHpNaThNNjV5N1hNeXE5SFR2Mi01QXo3UmNoa0NDSFRFVVlwMlR0Ymd4WmZkRVQ5U2JaZk9tZ1JjeEZRb0Jz?oc=5"
         },
         {
-          "text": "国新能源：融资净偿还56.21万元，融资余额1.06亿元 - 东方财富",
+          "text": "车质网：“车机问题”成2026油电型投诉共同痛点 - Sohu",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HakluaU95WGU1VXgxX3h0bUt1Mnpfa3JNMjMtTllXc0tzTmJCTGpsMGdfV29uZVVCQlhTb0RXOWFtN3E2VXBFZEVnT3ZuSEFHUTRHMHFQMmpOd1I0dVZEV3hB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUXk5d0xPak9vdmNyaGt2VXU4V0podU1ld0lOWURIdkU3V1NhS2tIS1pRUWdEYmx2QU1ocmotenprUGVQZDExMmZ5QXdlakd4Q0gyTUlkd0tzamhnenFoWHIyRWtLNkUzTVlGVzg1eVZ1ZmFXREpqSFlKRmRDMW9RSW03TlgtX1k3?oc=5"
         },
         {
-          "text": "未知机构:《2026年9月19日新能源与电力设备卖方会议调研安排纪要｜研报》 - 发现报告",
+          "text": "2026长安汽车出海与新能源突围之战：三大战略托底 - 电子工程专辑",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14V2pSQ0FINW1rY3duRjhwNlRDNDgwMzBZRUdSS2pMdmEzeEpxcEZ0Z3VKWGswT3p3T1B1RTBRNlJlNG40Wk8ydWoyelpZVUc0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5COWdFVUVVU2oyc0hKcDRmazBnTUw5MzhhSnllXzRTbWg4Q3g3Y0FISXZQSlFZMG8xUXg1bjBPbUpvdHNWZUJsSUNlOUEtbHJiTWtJ?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
-          "summary": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as need…",
+          "title": "The race to build a pandemic-proof world",
+          "summary": "Six years after COVID-19 killed millions, battered health systems, disrupted lives and brought the global eco…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168333"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168377"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN agencies warn humanitarian system in Sudan ‘could collapse’",
-          "summary": "UN aid agencies on Monday said they may be forced to scale back humanitarian aid in Sudan – home of the world…",
+          "title": "Why the UN General Assembly still matters",
+          "summary": "More than eight decades on, the UN General Assembly remains the place where the UN’s 193 Member States come t…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168331"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168361"
         }
       ],
       "briefs": [
         {
-          "text": "Money sent home by migrants nearly doubles in a decade",
+          "text": "UN Crime Congress: Technology is transforming crime – and the response to it",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168330"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168370"
         },
         {
-          "text": "Highly persistent toxic waste threatens ‘many, if not all, human rights’",
+          "text": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and le…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168329"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168375"
         },
         {
-          "text": "Civilians bear the brunt, with deadly US strikes in Iran and thousands displace…",
+          "text": "Security Council LIVE: UN peacekeeping under pressure",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168328"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168376"
         },
         {
-          "text": "Countries must increase AI regulation to avoid ‘existential risks’: Türk",
+          "text": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorren…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168326"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168374"
         }
       ]
     },
@@ -170,24 +170,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "20:00",
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that p…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/australian-youth-safety-blueprint"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "19:29",
           "title": "Could AI really kill us all? Your questions, answered.",
           "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question e…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
           "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "How Cooley is accelerating IPO work with ChatGPT",
-          "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface is…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/cooley-gopublic"
         }
       ],
       "briefs": [
+        {
+          "text": "How Cooley is accelerating IPO work with ChatGPT",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/cooley-gopublic"
+        },
         {
           "text": "Introducing Astra for Law",
           "source": "OpenAI",
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "Helping older adults use AI in everyday life",
           "source": "OpenAI",
           "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
-        },
-        {
-          "text": "Reimagining advertising with AI",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/reimagining-advertising-with-ai"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Chip Industry Week In Review",
-          "summary": "Major memory deal; AI Infra Summit news; U.S. chip capacity plans; 2nm & below advances; Huawei's chip offens…",
+          "time": "04:05",
+          "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
+          "summary": "Researchers at Peking University published a technical paper titled “Predictive Structure to Thermal Conducti…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-156/"
+          "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:13",
-          "title": "Why Package Digital Twins Are So Hard To Build",
-          "summary": "Models need to be synchronized with what manufacturing actually builds. The post Why Package Digital Twins Ar…",
+          "time": "04:01",
+          "title": "Agentic AI Automates Design-Rule Repair While Preserving Layout Equivalence (Purdue University)",
+          "summary": "Researchers at Purdue University published a technical paper titled “DRC-Aid: Design-Rule Correction via Agen…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/why-package-digital-twins-are-so-hard-to-build/"
+          "url": "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/"
         }
       ],
       "briefs": [
         {
-          "text": "Negative Expansion Materials Resist Warpage",
+          "text": "Reinforcement Learning Cuts Routing Violations in Dense Chip Layouts (NYU)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/negative-expansion-materials-resist-warpage/"
+          "url": "https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu/"
         },
         {
-          "text": "The Silicon Heartland Wants To Be America’s Next Chip Powerhouse",
+          "text": "Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-silicon-heartland-wants-to-be-americas-next-chip-powerhouse/"
+          "url": "https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan/"
         },
         {
-          "text": "Beyond Scaling: The Growing Role Of Materials Innovation In Semiconductor Manuf…",
+          "text": "Open Benchmark Evaluates AI Thermal Models for 2.5D and 3D ICs (UTS, TU Munich,…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/beyond-scaling-the-growing-role-of-materials-innovation-in-semiconductor-manufacturing/"
+          "url": "https://semiengineering.com/open-benchmark-evaluates-ai-thermal-models-for-2-5d-and-3d-ics-uts-tu-munich-shanghaitech/"
         },
         {
-          "text": "AI’s Storage Problem Is a Packaging Problem",
+          "text": "AI in Chip Design: From Code Generation to EDA Orchestration (University of Edi…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ais-storage-problem-is-a-packaging-problem/"
+          "url": "https://semiengineering.com/ai-in-chip-design-from-code-generation-to-eda-orchestration-university-of-edinburgh/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Who should set the rules for AI? The UN is pushing for a safer digital future",
-          "summary": "Artificial intelligence (AI) is advancing rapidly, raising questions about how societies and governments can…",
+          "title": "The race to build a pandemic-proof world",
+          "summary": "Six years after COVID-19 killed millions, battered health systems, disrupted lives and brought the global eco…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168353"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168377"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
-          "summary": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, th…",
+          "title": "Why the UN General Assembly still matters",
+          "summary": "More than eight decades on, the UN General Assembly remains the place where the UN’s 193 Member States come t…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168352"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168361"
         }
       ],
       "briefs": [
         {
-          "text": "Repression continues in Venezuela in the face of ‘appalling’ human rights viola…",
+          "text": "UN Crime Congress: Technology is transforming crime – and the response to it",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168351"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168370"
         },
         {
-          "text": "AI, climate and conflicts top Guterres’s agenda ahead of General Assembly",
+          "text": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and le…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168348"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168375"
         },
         {
-          "text": "Security Council LIVE: ‘Being a woman is a crime in Afghanistan,’ civil society…",
+          "text": "Security Council LIVE: UN peacekeeping under pressure",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168347"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168376"
         },
         {
-          "text": "UN report warns of reprisals against those who collaborate in defence of human…",
+          "text": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorren…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168345"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168374"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:55",
-          "title": "宁波天龙电子股份有限公司关于与四川翠融企业管理有限责任公司签署股权挂牌转让意向协议书的进展公告 - 新浪财经_金融信息服务商",
-          "summary": "宁波天龙电子股份有限公司关于与四川翠融企业管理有限责任公司签署股权挂牌转让意向协议书的进展公告 新浪财经_金融信息服务商",
+          "time": "07:37",
+          "title": "深圳科源企业管理有限公司诉高某追偿权纠纷案2026年10月20日开庭 - 新浪财经",
+          "summary": "深圳科源企业管理有限公司诉高某追偿权纠纷案2026年10月20日开庭 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xUUVkWWwtbWFlWlVJTHFZYVA2azVNOG5vSmZZdF9WQWVpRHh3WUZUTzdDTUZjeld5UTBJVDRvZjJqd3otZmktVUJLS1hWczVsR01WMkFWek1pSDRlcGJJck9BLVBzemFBTHVrNXZ2WDFIR1o4aUJiNQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ3BmWHF5T0xhc3ViTFRZTjIzekxsY1pOS1hVb2t0bkp4QXhPcnEycTBIZnZqcUFnSVJRZjVBYndVVEIzU3dqQkNCSWt0aXVXT3pGY3FzOHQycUVLb2M2SmlSUDdNbUhKZjNvb2Z2TEc0OHlLSUctYnlxZVJzb1ZheVVBVjJLaVphempQeG1R?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "20:55",
-          "title": "锐明技术：数字能源产品制造为公司战略级业务方向 - 新浪财经_金融信息服务商",
-          "summary": "锐明技术：数字能源产品制造为公司战略级业务方向 新浪财经_金融信息服务商",
+          "time": "03:45",
+          "title": "今日嘉宾：曾鸣教授 企业战略研究者 曾任阿里总参谋长 - 微博",
+          "summary": "今日嘉宾：曾鸣教授 企业战略研究者 曾任阿里总参谋长 微博",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTDg4ODh2WUNUVUdBeG9wVjVYbGdqTWVraEFDU1dNNFN1QWVGWVkwUXFXZzB6eGRKRzd6S2kyb1p3WmxVdnVfZFVGcEdyLUZUMVMtV3c4dzRNRDlOYnRVbm1JLTV4bFpzYWZOeGI2cFNESVlBMmlsaGdneERKdmhSUHFfOVBQSHo0V25zb1dDLWg3dEpWbnlB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5MzhZQi10RWZLNGdhU1pUaUJHQldVUktieEZhRW1ueHZaMXV0TWtXYmNRVzI4VHhPZEx6aV9iWWFmM3pTaWNiU211TnlLNU1fVUowYXR3?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "万盛股份（603010）股东临海市洛升企业管理咨询有限公司质押865万股，占总股本1.48% - sohu.com",
+          "text": "方太“心本文化”获“世界先进水平”认定 开创中国式现代企业管理新范式 - 中华网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmZyM2tvT09OdGFxaUh0VVI1S0NST1RGNzBaX243SlpVSURfZXc0UkJ5c3E2NFJRUXRIVTdtOGRvTTFmQkl6b0ZqZXB3Tmc0TloxaGJlbnAtZzA2WFBfUklBZGtIbWFGVUZmcE1BNHBBR3ZiLVBYemNVMHRZX3FUeFU2QjVUeGlT?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LbUc3d3dJZGhZelRlSG4ydWJTUHJIb1c0RlhHb2luLVVaQzgxSE9MSU5aWVRwNTM0M001bFUxR3VUMGxPT2lRT0ZKVkU3V3UyUVBDSUg4U2NsZ1MtQkd6S2luV3lwaUtBZjBfbExB?oc=5"
         },
         {
-          "text": "商络电子：多元产品矩阵增强供应链韧性 - 新浪财经_金融信息服务商",
+          "text": "AI原生组织加速落地，企业管理持续进化|21世纪经济报道|温氏股份|陈春花|联想|Agent - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QTk82aUJ6cDJjelJ3dkoyVEllM01uMlRmNGV0REo3UlNQSmx6R1pWejZnbDE0ZmRoTm8zSVRVQjd4QnYzZXJfTGxRLTNuajkweVFJVDlwRFJfbUE2blM3Q2tjam5rRWJJbEdTWGpUZFBXalllYkZyYw?oc=5"
+        },
+        {
+          "text": "微软公司的企业战略投资与资本配置（Corporate Investment Strategy） - Moomoo",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQelVvQ0ZQaFU2WGxHcXR2cjlBWU5SRkljZkFFSU5yNG1aVXU1a28zckppY0c5YWhKaGFiU3RvRW9lb2QwaVA5aVpfYThscGJCTXFEYXNhZnJJY2VZRFFORXpWVVNDaUQwUGpNQkdNa3RiWnQ0UTViNUFudWhtZnpfY1VtVWZxVF9OQ3FMSk11SjU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzRlSlVycnJkX1EyX2FldTlxdjVYRUVoQU9PbjNfb0RaQU5saTgwcEhDVVJzSGxqSXBYUl9IMFNJdE5wQ0hrekJ4ekVpVUREZW5uem9kUUZPai1LcVZnREpGZkZEYTZQcWRDbGJvQjY0V3lwU0FBMWhWOFBDUlRVYzduTWI0VmNOY05rZ3FFRVZIWHU1QVFhSnlINS1wc2pSTENFQlhSc1hFcF80ZDZLZ3VXODJsMGVTeTcyT3dXbw?oc=5"
         },
         {
-          "text": "微软提醒企业管理员筹备2029年Edge浏览器IE模式停用大限- Microsoft Internet Explorer - cnBeta.COM",
+          "text": "合规运营优化管理架构，以联华证券在实盘体系持续完善服务机制 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBWkF5Wmx6WEw3UU5abDQ5T1JvcUE4Qk5mNHRBUkNJRDlTRXdRck9RN3dmVDhOV2F1LU1wY08td3AzYzlCZThaNlVFR0tHZHM5LXdPbHJSSUlrTjhQQ1ZtZA?oc=5"
-        },
-        {
-          "text": "宇通客车中标：浙江开平企业管理咨询有限公司关于义乌市中心血站献血车采购中标(成交)结果公告 - sohu.com",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPemUwM25qX1pPMkRqblJQR3c5U2JLTnFCUTN4Q1VONGx5TjZQT2poVy1aeVNmSFVpZ21sZUlaZ0VYT1lkYm5DMzZhWFFlbEZMQlkxREp0eHRWRG5WTTBMYncxSEw3ek5ua0tLcUt1YVZEMFZvSmFpN3FGR2JBTkhsRG9sU1RMQldGNHhKRg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTEtZaWxtd1JyTTV5bjFYWmx4WVhWelVJTnA3d2JGOEtrX2ZhcWljOU1LNHZPNFdDT2VQckI3b3NUTXJVZ1EzUXVKN3FzQ051S0dyTFg0VnI0WUtZWVBSeWYxYVk5OXlVZm5tUG1yWUtMeVdnc0VaSTAwTW5jaDI1dmk1Qk5Rc2F4cy1V?oc=5"
         }
       ]
     }
