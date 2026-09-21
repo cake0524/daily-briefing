@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月20日",
+  "publishDate": "2026年9月21日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "从连接到自主：数字经济、数智经济与智能经济的演进逻辑与治理框架 - Sohu",
+      "title": "横评三款10万级B级新能源轿车，900V闪充+2820mm轴距+三套动力，综合…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Caltech’s tiny new chip can steer light…",
+      "title": "This tiny organism can shrink to one qu…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:04",
-          "title": "从连接到自主：数字经济、数智经济与智能经济的演进逻辑与治理框架 - Sohu",
-          "summary": "从连接到自主：数字经济、数智经济与智能经济的演进逻辑与治理框架 Sohu",
+          "time": "08:58",
+          "title": "横评三款10万级B级新能源轿车，900V闪充+2820mm轴距+三套动力，综合无短板的是它 - 手机新浪网",
+          "summary": "横评三款10万级B级新能源轿车，900V闪充+2820mm轴距+三套动力，综合无短板的是它 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDlfaF9ncUFobUI4Z0Y0NDM2OFo5enA4WGlXMGRqNmhRWktLR2M3STlhZHN1eC16cFhSbjlMRXNBNWtCQVVLX3ZkZ2dUWUR2Z3lJUWJ1NU1oQ3pTTjJOQmtadUtHVnp0cF9zcnNGSFlrT0tXMnBqcWxrRmtsSHR0ZGlJUWJQQ3Q0?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zZFFZMzRrdWJCZkJhTkF0NU5YQ1gxQmJVUHRXanBpOFNkNWhMN3pMSlZHYXoyYUs5ZmkxOTFlN0J5QUx3WTFFOVRteUVMcEQ0MEVyQnZZLTV0bC1JdjJR?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:53",
-          "title": "“水运中国”走进福建 新能源拖轮为港口装上“绿色引擎” - 新浪财经",
-          "summary": "“水运中国”走进福建 新能源拖轮为港口装上“绿色引擎” 新浪财经",
+          "time": "08:58",
+          "title": "21个园区、112家企业！工信部公布首批新兴产业示范基地名单：宇通、奇瑞、岚图等17家智能网联新能源汽车企业入选 - 国际充换电网",
+          "summary": "21个园区、112家企业！工信部公布首批新兴产业示范基地名单：宇通、奇瑞、岚图等17家智能网联新能源汽车企业入选 国际充换电网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xSlhBbnFIZnR2QXh3cVFvQTl6S00tOEZkbkNyeE5XblVnWEJsaENyekF0MUNGMlRjaUE1MkVtY0tvVGJUUlJSNVUzTjNVanphcEtGZFI5UmM1b25vVHg1a004NEZwS1l4ZWNKbHZGaWhxQ09ycTQtbg?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aT1dmLVpWZUlTcV9rdGphT2RfRDA0Mkc2clY2dGNRS3hST1BfUkRiYm9GYWFlcjlGT0I5by1sb3Vrb29EQkkwdjhPMExmSjhvazBmeDBuQ0o?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "修理厂起诉特斯拉！新能源“维修垄断”迎来国内首案 - 汽车之家",
+          "text": "横评四款2026新出大六座新能源SUV，东风华为联创旗舰奕境X9综合体验最均衡 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DTHhsLTJBSDZkSXdmT3lEYUhlTHh3WGllOWh2T1lYU0ExMHdpeFNWLXo4a2V0cENKc3VycTM3MlNNSTVYbnk0ZThGdEJfcVhrbUJyMkF3NWRhQ00?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2MmViNmI1UWVZdXlSdGRRbThNeGdVZ1hyT1RVaGNldTNsNW1vLU5sMTRMdVZJOWtJUEF4ZHhBZDFpUWpTNXJ6a0dVYWpOTlFmeV8zdm16WDVUaHIyLVhN?oc=5"
         },
         {
-          "text": "【视频】2027款埃安i60 中国家庭新能源SUV首选 - 汽车之家",
+          "text": "【视频】2026世界制造业大会明天氢能重磅推出风光氢电一体化装备系统 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9faWtiZ01YRXN3Vkk2a3VscE50OW5oM3hJUERWTlJBU01sOUhEOHpNaThNNjV5N1hNeXE5SFR2Mi01QXo3UmNoa0NDSFRFVVlwMlR0Ymd4WmZkRVQ5U2JaZk9tZ1JjeEZRb0Jz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrRzU3dDJtaXdPVWhKa2Z6clBZTE5iT3IybWk4T2RTMUxFaHl4RkNodjdJLWpaSWdWYjBCNlpLUFppWWcwUVFSUFl1TnVKLTlBWWFzdTdoeHdmekk?oc=5"
         },
         {
-          "text": "车质网：“车机问题”成2026油电型投诉共同痛点 - Sohu",
+          "text": "安徽新能源整车首次跨境空运出海 - Sohu",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUXk5d0xPak9vdmNyaGt2VXU4V0podU1ld0lOWURIdkU3V1NhS2tIS1pRUWdEYmx2QU1ocmotenprUGVQZDExMmZ5QXdlakd4Q0gyTUlkd0tzamhnenFoWHIyRWtLNkUzTVlGVzg1eVZ1ZmFXREpqSFlKRmRDMW9RSW03TlgtX1k3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaU9tMDdUZF9Ud2dUN2RidVQxdkhaT2s5Vk00ZHhQX3NURmJJZkM0OEJ4VDZhU3MtcElzUE9HeEd5bWQwMGxGaE4xZDRhakpyemRDNnZzU2I1ZmQyS1ozRHRwdkVaWXV6THF6aHkwejA1SUlJZHRFalZmaUdXMnk4MjNFSmota2tZZDNkcA?oc=5"
         },
         {
-          "text": "2026长安汽车出海与新能源突围之战：三大战略托底 - 电子工程专辑",
+          "text": "前瞻全球产业早报：2026世界制造业大会在合肥开幕_产经 - 前瞻网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5COWdFVUVVU2oyc0hKcDRmazBnTUw5MzhhSnllXzRTbWg4Q3g3Y0FISXZQSlFZMG8xUXg1bjBPbUpvdHNWZUJsSUNlOUEtbHJiTWtJ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ib1drbFZBSnZaa3ZzYUI5TlV2ekFwMGljbVc5WlMzbGxBQTJXSzhiVkhDWGZiSmdOQzQ1dkFPOVc5ZXpIOTRzX3Zpenh5eHY3b3FSWjZhMFN2VWwxcHRiZHBMdTVYOHlJR0E?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:50",
-          "title": "Caltech’s tiny new chip can steer light in 74 quadrillionths of a second",
-          "summary": "A new Caltech device can redirect a beam of light in just 74 femtoseconds using another beam and a nanoscale…",
+          "time": "19:39",
+          "title": "This tiny organism can shrink to one quarter its size in milliseconds",
+          "summary": "A single-celled organism can shrink to one-quarter of its length in milliseconds using a remarkable calcium-p…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918024812.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "19:26",
+          "title": "Scientists find that “perfect” systems may be surprisingly fragile",
+          "summary": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Caltech’s tiny new chip can steer light in 74 quadrillionths of a second",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "21:54",
-          "title": "A $100 detector can see invisible particles raining down from space",
-          "summary": "A pocket-sized, roughly $100 detector can reveal the invisible stream of cosmic particles constantly passing…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "A $100 detector can see invisible particles raining down from space",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "JWST’s mysterious little red dots may be black holes growing at incredible spee…",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "The shape behind the Einstein problem just revealed strange new physics",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm"
-        },
-        {
-          "text": "Scientists are building a microscope powered by a quantum computer",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm"
-        },
-        {
-          "text": "Physicists discover a hidden “curveball” in quantum light",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260912220025.htm"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:37",
-          "title": "深圳科源企业管理有限公司诉高某追偿权纠纷案2026年10月20日开庭 - 新浪财经",
-          "summary": "深圳科源企业管理有限公司诉高某追偿权纠纷案2026年10月20日开庭 新浪财经",
+          "time": "04:00",
+          "title": "诺和诺德下周一将举行投资者日活动并更新公司战略 - 东方财富",
+          "summary": "诺和诺德下周一将举行投资者日活动并更新公司战略 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ3BmWHF5T0xhc3ViTFRZTjIzekxsY1pOS1hVb2t0bkp4QXhPcnEycTBIZnZqcUFnSVJRZjVBYndVVEIzU3dqQkNCSWt0aXVXT3pGY3FzOHQycUVLb2M2SmlSUDdNbUhKZjNvb2Z2TEc0OHlLSUctYnlxZVJzb1ZheVVBVjJLaVphempQeG1R?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ib0dnNURQSGY0ZXRRb2pnOXdJcWkxLTNjbk8wcHhPWHFBN2dOWEJQWm1yYUlMMlZCT0NEbFR6bG9tMF8xOF9jMEhrampjMW1JcFhhUlVpTUJhallSM01vX2Zqbw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "03:45",
-          "title": "今日嘉宾：曾鸣教授 企业战略研究者 曾任阿里总参谋长 - 微博",
-          "summary": "今日嘉宾：曾鸣教授 企业战略研究者 曾任阿里总参谋长 微博",
+          "time": "18:23",
+          "title": "方太“心本文化”获“世界先进水平”认定 开创中国式现代企业管理新范式 - 中华网",
+          "summary": "方太“心本文化”获“世界先进水平”认定 开创中国式现代企业管理新范式 中华网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5MzhZQi10RWZLNGdhU1pUaUJHQldVUktieEZhRW1ueHZaMXV0TWtXYmNRVzI4VHhPZEx6aV9iWWFmM3pTaWNiU211TnlLNU1fVUowYXR3?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LbUc3d3dJZGhZelRlSG4ydWJTUHJIb1c0RlhHb2luLVVaQzgxSE9MSU5aWVRwNTM0M001bFUxR3VUMGxPT2lRT0ZKVkU3V3UyUVBDSUg4U2NsZ1MtQkd6S2luV3lwaUtBZjBfbExB?oc=5"
         }
       ],
       "briefs": [
-        {
-          "text": "方太“心本文化”获“世界先进水平”认定 开创中国式现代企业管理新范式 - 中华网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LbUc3d3dJZGhZelRlSG4ydWJTUHJIb1c0RlhHb2luLVVaQzgxSE9MSU5aWVRwNTM0M001bFUxR3VUMGxPT2lRT0ZKVkU3V3UyUVBDSUg4U2NsZ1MtQkd6S2luV3lwaUtBZjBfbExB?oc=5"
-        },
-        {
-          "text": "AI原生组织加速落地，企业管理持续进化|21世纪经济报道|温氏股份|陈春花|联想|Agent - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QTk82aUJ6cDJjelJ3dkoyVEllM01uMlRmNGV0REo3UlNQSmx6R1pWejZnbDE0ZmRoTm8zSVRVQjd4QnYzZXJfTGxRLTNuajkweVFJVDlwRFJfbUE2blM3Q2tjam5rRWJJbEdTWGpUZFBXalllYkZyYw?oc=5"
-        },
         {
           "text": "微软公司的企业战略投资与资本配置（Corporate Investment Strategy） - Moomoo",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzRlSlVycnJkX1EyX2FldTlxdjVYRUVoQU9PbjNfb0RaQU5saTgwcEhDVVJzSGxqSXBYUl9IMFNJdE5wQ0hrekJ4ekVpVUREZW5uem9kUUZPai1LcVZnREpGZkZEYTZQcWRDbGJvQjY0V3lwU0FBMWhWOFBDUlRVYzduTWI0VmNOY05rZ3FFRVZIWHU1QVFhSnlINS1wc2pSTENFQlhSc1hFcF80ZDZLZ3VXODJsMGVTeTcyT3dXbw?oc=5"
         },
         {
-          "text": "合规运营优化管理架构，以联华证券在实盘体系持续完善服务机制 - 新浪财经",
+          "text": "合规运营优化管理架构，以联华证券在实盘体系持续完善服务机制 - 手机新浪网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTEtZaWxtd1JyTTV5bjFYWmx4WVhWelVJTnA3d2JGOEtrX2ZhcWljOU1LNHZPNFdDT2VQckI3b3NUTXJVZ1EzUXVKN3FzQ051S0dyTFg0VnI0WUtZWVBSeWYxYVk5OXlVZm5tUG1yWUtMeVdnc0VaSTAwTW5jaDI1dmk1Qk5Rc2F4cy1V?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbEZwUGkzQ1dURkFONGoxWmJzVk1JM0ZsMEZxeUpZdTNlWkxJVkhacGxCY2R0MGtLblRCWVdLdVd6bHVodV9YenNjbDFydG9zcXFVUmIyVEwtZ3QtTU0xWWJwSjBGQ1BoNXVCN01CTXVoTzBFaUUydHBWaWpWbWR5ZHRDVDFLTjNiMmh2N1JwWUNnTkhZZnc?oc=5"
+        },
+        {
+          "text": "AI原生组织加速落地，企业管理持续进化 - 21财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXpaaDVRdWQxTlpSWWk5SE9SZXNzQ3ROZEFZVmtfNU9oX2RXNEVBXzlCUUNxdXc5a3loc0hVNFFjU1E2T3FJZXVXMEVlcmdjVjZPTWZwSFRrbVh3VEtNUlQ5emFDbWZ2S2RkczlrN2VDRUZVQ3RZaE8yblhPZUtkNmlyXzhpeUlPMUw1VjFwd3FUSHNf?oc=5"
+        },
+        {
+          "text": "画廊 威士伯公司管理总部 / Meyer, Scherer & Rockcastle - 1 - ArchDaily",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPZ1lhRWQ2M3IxT3dmSmlyOE82b0hJUWJSS2xwdnU4YVh5ZWZWLXFESGgtN3QwcWh1c2hJLUdfaTZBNnliaTVNeW9PRzduUGg2MUpfZVhJVnFkbWhPekl2Z1JTQmhDTmVLWHdiUUREZzhJeDlITWl2bUJmempQUEtOYzJlS2Y3ZEpIVjMzZTlHWElrVXladE9Yc3p0QmJHd2o0VDZpX2ZDNlZtLV9CZ1NMeVptWHY3b0xDRUJIek1PM2lFMHFxMTVlVWhnNTJrMmpqQjN0UE1nNTItRUhlTzJsQlQtc05hbUdHcloyeS1McW9QNUQwS1NSYWlmcUNvLUR3dGFsLTNSUmxCQV9Odk53ZmQwUi1SOVduUmFjdEtZMHQxWFdfenk3MVZpOA?oc=5"
         }
       ]
     }
