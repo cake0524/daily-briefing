@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月21日",
+  "publishDate": "2026年9月22日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "横评三款10万级B级新能源轿车，900V闪充+2820mm轴距+三套动力，综合…",
+      "title": "9款高颜值配色+前后双备箱，横评四款B级新能源后，这台900V闪充轿跑最戳年轻…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:58",
-          "title": "横评三款10万级B级新能源轿车，900V闪充+2820mm轴距+三套动力，综合无短板的是它 - 手机新浪网",
-          "summary": "横评三款10万级B级新能源轿车，900V闪充+2820mm轴距+三套动力，综合无短板的是它 手机新浪网",
+          "time": "09:30",
+          "title": "9款高颜值配色+前后双备箱，横评四款B级新能源后，这台900V闪充轿跑最戳年轻人 - 手机新浪网",
+          "summary": "9款高颜值配色+前后双备箱，横评四款B级新能源后，这台900V闪充轿跑最戳年轻人 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4zZFFZMzRrdWJCZkJhTkF0NU5YQ1gxQmJVUHRXanBpOFNkNWhMN3pMSlZHYXoyYUs5ZmkxOTFlN0J5QUx3WTFFOVRteUVMcEQ0MEVyQnZZLTV0bC1JdjJR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ockF2WXBTS2h0T1BhS1g3cjN4YVp0Vk10a2hfMGpPSHRaOEJrSWdmeEtNb1dNRUIzdF9UN1lpYzY2T25sTWhyWlREVWFVODNIVTJzLWRkbXdaVDlXM1dN?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:58",
-          "title": "21个园区、112家企业！工信部公布首批新兴产业示范基地名单：宇通、奇瑞、岚图等17家智能网联新能源汽车企业入选 - 国际充换电网",
-          "summary": "21个园区、112家企业！工信部公布首批新兴产业示范基地名单：宇通、奇瑞、岚图等17家智能网联新能源汽车企业入选 国际充换电网",
+          "time": "09:28",
+          "title": "蓝京新能源投资55亿元在无锡新建电池产能 - 搜狐网",
+          "summary": "蓝京新能源投资55亿元在无锡新建电池产能 搜狐网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5aT1dmLVpWZUlTcV9rdGphT2RfRDA0Mkc2clY2dGNRS3hST1BfUkRiYm9GYWFlcjlGT0I5by1sb3Vrb29EQkkwdjhPMExmSjhvazBmeDBuQ0o?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXJFZmdCaW9GcVU0Q2ZRT0pmNExmNTR0YUl4SU5PM3B3ZF9uNFBfLXFQM254M25jVjJhMEVKRHZmdDR5SVNldGRjRnM1NFRyZWpMdWh2LW8waUx3eWx5YVowOUg1bV9YbW9saE1HS0NtYy1CeF85a28wVngxVFBiSlhzMnFoMG0z?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "横评四款2026新出大六座新能源SUV，东风华为联创旗舰奕境X9综合体验最均衡 - 手机新浪网",
+          "text": "合资新能源：60% 的车型月销不过千 - gasgoo.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2MmViNmI1UWVZdXlSdGRRbThNeGdVZ1hyT1RVaGNldTNsNW1vLU5sMTRMdVZJOWtJUEF4ZHhBZDFpUWpTNXJ6a0dVYWpOTlFmeV8zdm16WDVUaHIyLVhN?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Ob3o1Z3JiOFBUTEN4dmJvc08xMjZJclhtTS05TGM1YlVTcHlFSGtqZGxSdHNZbi01Z0JJQ0tnS2otYzVKQXI1V0hySzBLcDFY?oc=5"
         },
         {
-          "text": "【视频】2026世界制造业大会明天氢能重磅推出风光氢电一体化装备系统 - 汽车之家",
+          "text": "红旗天工 07 开启预售，家庭新能源轿车的务实答卷 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrRzU3dDJtaXdPVWhKa2Z6clBZTE5iT3IybWk4T2RTMUxFaHl4RkNodjdJLWpaSWdWYjBCNlpLUFppWWcwUVFSUFl1TnVKLTlBWWFzdTdoeHdmekk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WOEkta2k5UzRFX2hkNmhzYlNqbU5fUXlsTUpSRmd1N09IWkIxV19tcGlwQXFWdzBUZkZvMHVFODdVTlVDZkZXekZUdnNsaGVMVl8zejJTLXpIVUU?oc=5"
         },
         {
-          "text": "安徽新能源整车首次跨境空运出海 - Sohu",
+          "text": "海外新能源皮卡如何打破价格壁垒？从福特与SLATE的“减法”说起 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaU9tMDdUZF9Ud2dUN2RidVQxdkhaT2s5Vk00ZHhQX3NURmJJZkM0OEJ4VDZhU3MtcElzUE9HeEd5bWQwMGxGaE4xZDRhakpyemRDNnZzU2I1ZmQyS1ozRHRwdkVaWXV6THF6aHkwejA1SUlJZHRFalZmaUdXMnk4MjNFSmota2tZZDNkcA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9JY3ltOTNpYng4NnFHTEFfUHhHNTFCUlNsVUthS2wzY2RNU1dRZldzLVVPMTVDY1FmQ0JfT1NDeWVFVV9JRTF5NVV5TzNzWFlMWldXUzFxSXg4Zzg?oc=5"
         },
         {
-          "text": "前瞻全球产业早报：2026世界制造业大会在合肥开幕_产经 - 前瞻网",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ib1drbFZBSnZaa3ZzYUI5TlV2ekFwMGljbVc5WlMzbGxBQTJXSzhiVkhDWGZiSmdOQzQ1dkFPOVc5ZXpIOTRzX3Zpenh5eHY3b3FSWjZhMFN2VWwxcHRiZHBMdTVYOHlJR0E?oc=5"
+          "text": "AI赋能“一人成军” 探访泉州OPC创业新生态 - 泉州新闻",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uZmVWYzBjVjhRVmc2OXM2QVF2am1FMkVDOUZRa1lfOHAwVF8tLU52ell4MHh2YWxsbTJoZWQyRVhvRmVBTkdkaHpJYkh2V3JmRF8xQWNSdkZFSUk4U093Sw?oc=5"
         }
       ]
     },
@@ -171,42 +171,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Introducing the Australian Youth Safety Blueprint",
-          "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that p…",
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/australian-youth-safety-blueprint"
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:29",
-          "title": "Could AI really kill us all? Your questions, answered.",
-          "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question e…",
+          "time": "20:00",
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative t…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
         }
       ],
       "briefs": [
         {
-          "text": "How Cooley is accelerating IPO work with ChatGPT",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/cooley-gopublic"
+          "text": "How we made the first comprehensive map of deaths along the US border’s “virtua…",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
         },
         {
-          "text": "Introducing Astra for Law",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/astra-for-law"
+          "text": "4 ways to address the failures we found along the US border’s “virtual wall”",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
         },
         {
-          "text": "Our framework for reporting model misalignment",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/model-misalignment-reporting-framework"
+          "text": "The US spent billions on border surveillance. Why can’t it catch people before…",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
         },
         {
-          "text": "Helping older adults use AI in everyday life",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+          "text": "She died at the San Diego border. A surveillance camera was in plain sight",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:05",
-          "title": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking University)",
-          "summary": "Researchers at Peking University published a technical paper titled “Predictive Structure to Thermal Conducti…",
+          "time": "07:21",
+          "title": "Detecting Hardware Trojans in Synthesized Gate-Level Netlists (UW-Madison, Marist)",
+          "summary": "Researchers at the University of Wisconsin–Madison and Marist University published a technical paper titled “…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/"
+          "url": "https://semiengineering.com/detecting-hardware-trojans-in-synthesized-gate-level-netlists-uw-madison-marist/"
         },
         {
           "priority": "重点看点 02",
-          "time": "04:01",
-          "title": "Agentic AI Automates Design-Rule Repair While Preserving Layout Equivalence (Purdue University)",
-          "summary": "Researchers at Purdue University published a technical paper titled “DRC-Aid: Design-Rule Correction via Agen…",
+          "time": "07:13",
+          "title": "Concurrent HBM And Host Memory Access Improves LLM Inference Throughput (Georgia Tech, Nvidia, Stanford)",
+          "summary": "Researchers at Georgia Tech, Nvidia Research, and Stanford University published a technical paper titled “BOO…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/agentic-ai-automates-design-rule-repair-while-preserving-layout-equivalence/"
+          "url": "https://semiengineering.com/concurrent-hbm-and-host-memory-access-improves-llm-inference-throughput-georgia-tech-nvidia-stanford/"
         }
       ],
       "briefs": [
         {
-          "text": "Reinforcement Learning Cuts Routing Violations in Dense Chip Layouts (NYU)",
+          "text": "Can Agents Design Better Chips When Operating At A Higher Level Of Abstraction…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/reinforcement-learning-cuts-routing-violations-in-dense-chip-layouts-nyu/"
+          "url": "https://semiengineering.com/can-agents-design-better-chips-when-operating-at-a-higher-level-of-abstraction-using-hls-ucla/"
         },
         {
-          "text": "Chiplet Co-Design Framework Reduces Energy and Design Costs for AI Accelerators…",
+          "text": "How 60 GHz Radar Improves Low-Power Presence Sensing In IoT Devices",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chiplet-co-design-framework-reduces-energy-and-design-costs-for-ai-accelerators-university-of-michigan/"
+          "url": "https://semiengineering.com/how-60-ghz-radar-improves-low-power-presence-sensing-in-iot-devices/"
         },
         {
-          "text": "Open Benchmark Evaluates AI Thermal Models for 2.5D and 3D ICs (UTS, TU Munich,…",
+          "text": "How Robotics And Intelligent Equipment Control Drive Next-Gen Fab Productivity",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/open-benchmark-evaluates-ai-thermal-models-for-2-5d-and-3d-ics-uts-tu-munich-shanghaitech/"
+          "url": "https://semiengineering.com/how-robotics-and-intelligent-equipment-control-drive-next-gen-fab-productivity/"
         },
         {
-          "text": "AI in Chip Design: From Code Generation to EDA Orchestration (University of Edi…",
+          "text": "Predicting Thermal Conductivity in Advanced BEOL Interconnect Stacks (Peking Un…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-in-chip-design-from-code-generation-to-eda-orchestration-university-of-edinburgh/"
+          "url": "https://semiengineering.com/predicting-thermal-conductivity-in-advanced-beol-interconnect-stacks-peking-university/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:00",
-          "title": "诺和诺德下周一将举行投资者日活动并更新公司战略 - 东方财富",
-          "summary": "诺和诺德下周一将举行投资者日活动并更新公司战略 东方财富",
+          "time": "08:32",
+          "title": "大树落地辅导创始合伙人、中小企业战略专家李亮：新一代中餐一定要凸显食材价值 - 红餐网",
+          "summary": "大树落地辅导创始合伙人、中小企业战略专家李亮：新一代中餐一定要凸显食材价值 红餐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ib0dnNURQSGY0ZXRRb2pnOXdJcWkxLTNjbk8wcHhPWHFBN2dOWEJQWm1yYUlMMlZCT0NEbFR6bG9tMF8xOF9jMEhrampjMW1JcFhhUlVpTUJhallSM01vX2Zqbw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ub0F3QklWSVh1aVY1anV4Sm5LeE1XeEtaRG44Y2ZYaDQtN0ZsRFhQYm5uWnhZcXlRclg0bjUtVzlIbmJTWTl2ODFnSldCanZKa2FWNTlBaGxjOThNeGZjWA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:23",
-          "title": "方太“心本文化”获“世界先进水平”认定 开创中国式现代企业管理新范式 - 中华网",
-          "summary": "方太“心本文化”获“世界先进水平”认定 开创中国式现代企业管理新范式 中华网",
+          "time": "22:36",
+          "title": "AI推动可持续发展重回企业战略核心地位 - 搜狐网",
+          "summary": "AI推动可持续发展重回企业战略核心地位 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LbUc3d3dJZGhZelRlSG4ydWJTUHJIb1c0RlhHb2luLVVaQzgxSE9MSU5aWVRwNTM0M001bFUxR3VUMGxPT2lRT0ZKVkU3V3UyUVBDSUg4U2NsZ1MtQkd6S2luV3lwaUtBZjBfbExB?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3NCVGdmY0xQLV81Rlp1OTROQmFMNDV4VlJYTHBVT2JRbmJsOGl4RHZ4dHpyMUk3RlkyVHNHZkhmSGJJQ3lHTWYwRlp2MnhFWXBhbUhGa25SSzIwWnZxQld3UzdtazdxV0hsY2ZOLXE0VDkxenA1UHItSVhhYVFwaTNxbmpyWGtF?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "微软公司的企业战略投资与资本配置（Corporate Investment Strategy） - Moomoo",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdzRlSlVycnJkX1EyX2FldTlxdjVYRUVoQU9PbjNfb0RaQU5saTgwcEhDVVJzSGxqSXBYUl9IMFNJdE5wQ0hrekJ4ekVpVUREZW5uem9kUUZPai1LcVZnREpGZkZEYTZQcWRDbGJvQjY0V3lwU0FBMWhWOFBDUlRVYzduTWI0VmNOY05rZ3FFRVZIWHU1QVFhSnlINS1wc2pSTENFQlhSc1hFcF80ZDZLZ3VXODJsMGVTeTcyT3dXbw?oc=5"
+          "text": "天眼查：贾国龙名下关联20余家企业 实际控制超200家 - 微博",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nVmpJQjVWVndvWkMydmk0bXVZdXV5OGY2OXpzOTMxZDhFb1JoQUFySWlBNHo1RVM5Vm9taXFhT05yaGhDbXNLRUYzQ3AyMmYzTVMyNjRR?oc=5"
         },
         {
-          "text": "合规运营优化管理架构，以联华证券在实盘体系持续完善服务机制 - 手机新浪网",
+          "text": "金力永磁（300748）股东江西锐德企业管理有限公司质押2000万股，占总股本1.45% - 财富号",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbEZwUGkzQ1dURkFONGoxWmJzVk1JM0ZsMEZxeUpZdTNlWkxJVkhacGxCY2R0MGtLblRCWVdLdVd6bHVodV9YenNjbDFydG9zcXFVUmIyVEwtZ3QtTU0xWWJwSjBGQ1BoNXVCN01CTXVoTzBFaUUydHBWaWpWbWR5ZHRDVDFLTjNiMmh2N1JwWUNnTkhZZnc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zSmU0MnQ1akVvak5LTDUxUkF6M0Z3OTY3MWVyS2hsU1RRcHVKbnZkbnVVOWNPNnpFc0hKSTgtYTRZRHQ3bXNRUjZXdnpRNWJoTERZZXJSd092RTBEMTlKVm1vQU1UeXpPQzZz?oc=5"
         },
         {
-          "text": "AI原生组织加速落地，企业管理持续进化 - 21财经",
+          "text": "临港联合公司管理资产规模279亿 园区已开发用地超3000亩 - 观点网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcXpaaDVRdWQxTlpSWWk5SE9SZXNzQ3ROZEFZVmtfNU9oX2RXNEVBXzlCUUNxdXc5a3loc0hVNFFjU1E2T3FJZXVXMEVlcmdjVjZPTWZwSFRrbVh3VEtNUlQ5emFDbWZ2S2RkczlrN2VDRUZVQ3RZaE8yblhPZUtkNmlyXzhpeUlPMUw1VjFwd3FUSHNf?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yTTB6dFhiZXZpclRJamowcldycVAyQjBEZXJtbDNmSUNKamNfZmlkVHpKckw0Z25jTWlIOWx6UWJ6T1pFcmg0NE4zREFRZw?oc=5"
         },
         {
-          "text": "画廊 威士伯公司管理总部 / Meyer, Scherer & Rockcastle - 1 - ArchDaily",
+          "text": "百企共话AI落地 金蝶赋能企业管理|2026第十一届金蝶AI会计节成功举办 - 鲁网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPZ1lhRWQ2M3IxT3dmSmlyOE82b0hJUWJSS2xwdnU4YVh5ZWZWLXFESGgtN3QwcWh1c2hJLUdfaTZBNnliaTVNeW9PRzduUGg2MUpfZVhJVnFkbWhPekl2Z1JTQmhDTmVLWHdiUUREZzhJeDlITWl2bUJmempQUEtOYzJlS2Y3ZEpIVjMzZTlHWElrVXladE9Yc3p0QmJHd2o0VDZpX2ZDNlZtLV9CZ1NMeVptWHY3b0xDRUJIek1PM2lFMHFxMTVlVWhnNTJrMmpqQjN0UE1nNTItRUhlTzJsQlQtc05hbUdHcloyeS1McW9QNUQwS1NSYWlmcUNvLUR3dGFsLTNSUmxCQV9Odk53ZmQwUi1SOVduUmFjdEtZMHQxWFdfenk3MVZpOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2amxPNVVMR1RUdGFUTUZYVGlMTlB1eEdESGc0aFF1U1NQeWtVcFl2OE52ZjRETV9fbGo1TEJtZ2tSTHlOSVBSLVMxaWp1SHpIZmNkeFEwU0hSeXpsTC04RGRPbVVFa2VZREtaZE9n?oc=5"
         }
       ]
     }
