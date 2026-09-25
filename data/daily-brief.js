@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月24日",
+  "publishDate": "2026年9月25日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "中国旭阳集团拟向翔福新能源增资5.07亿元 助力其快速扩张产能 - finan…",
+      "title": "30万级新能源SUV横评：要智驾还是全地形？家庭选车的“既要又要”终于有答案了…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "For the first time, scientists watch so…",
+      "title": "Distant time crystals can somehow fall…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Venezuela seeking rebirth after politic…",
+      "title": "‘Turn what we know into what we do,’ Ba…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:17",
-          "title": "中国旭阳集团拟向翔福新能源增资5.07亿元 助力其快速扩张产能 - finance.sina.com.cn",
-          "summary": "中国旭阳集团拟向翔福新能源增资5.07亿元 助力其快速扩张产能 finance.sina.com.cn",
+          "time": "09:07",
+          "title": "30万级新能源SUV横评：要智驾还是全地形？家庭选车的“既要又要”终于有答案了 - 手机新浪网",
+          "summary": "30万级新能源SUV横评：要智驾还是全地形？家庭选车的“既要又要”终于有答案了 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbGRFM1pqaHREYjlfejl6ZTJIc0l4V1lZSXk3NUJiSTBBbDlTcGpBUm5ENlNibWlmamdGV1dMZlU4eV9KM0JIcEdpa3h6VHV6a0tVRkxiSUN0cHItcXJlZHpIV0VrWGpKanFqaEpIZktuZlNJODZpcERfVWE3NlI5bnNndXhGTUp4Z1B4UXI5QXdDVUZncHNR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yN3lraVZQVm9VSWhLbnU0ak9tXzhuWUNXZm94TkVTbU9HNHpVaG8yMS0wUnpsdWg0RFVjMWtFX2FzLWkwNzJWa1dKTUZieFNQdjBnSjB4cUlpR3dIc3BCUDlOSFZkaXRWWFE0cmtVTU5ydw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:58",
-          "title": "李强在上海调研时强调 加快培育壮大新兴产业和未来产业 持续做大做强先进制造业 - 手机新浪网",
-          "summary": "李强在上海调研时强调 加快培育壮大新兴产业和未来产业 持续做大做强先进制造业 手机新浪网",
+          "time": "08:56",
+          "title": "美云智数发布数字采购十周年成果：从632到AI智能体，以SRM重构全品类采购价值链 - 新浪财经",
+          "summary": "美云智数发布数字采购十周年成果：从632到AI智能体，以SRM重构全品类采购价值链 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zSmtqM0ZocDN1REhfNkliODB2TEcwVE96aHF6NWxCSVFrQTlEZWJjR3hrb2ZiUGVmYlIyMDRGYkFMQXpfSGJEN2tOVVFXU01rekY4bl9sYUowU3RzSXgwcVRXTHkydTA2SE1qSVBwbGlncVJ1cEo0bVlCS3A2Zw?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51OVRBalRadkdDZEFUb1UtTF9DQWJjeUlhUy1lekx3NkNaaGhVeWdYd3hqUzR2bFpNV0tXemswQ2dXRFFGYU5uQ3UxTHpiRWpHNTVyeGdyRkhqdTI0MHVoRkNnX2Ewb09TNkpRUEJ3V3R5Ymd6dTQ3SQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "注资22.14亿！深圳能源成立新能源公司 - 国际风力发电网",
+          "text": "月湖区构建“快递+电商+制造业”协同发展新模式 - 凤凰网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJOHdyM3d4ZDQ5UUxFTHJVME5lZ0ZuUjhDLU1NdHlDLVNMYjVXRzhOZzNXQThGbVlmNFdDOWhwbEwtd04xSE96TWtPMC13N0NwS2M3YXpXNWtjdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PRGFfcWFMNUgtSjJBWlhWUnBQUmxucng1YUVEY0NyWVJPcV9KNzJIeTNULVlpUnVyOVpOU1pHeXpfa0VETlhwUFpB?oc=5"
         },
         {
-          "text": "​2026中国国际数字经济博览会在石家庄国际会展中心开幕 - 河北新闻",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5IMXdRLW5lVVBfckhSZmJydlVHSGw5Z2NRdE9icHh6ZjFDdlZSdzJVMTNQT2l0MFA0eTV3RHFjLXZBZDJ4cmx6cVpkalR4WFlMMHV5c0k4Z2Z3ZUVaV2xNU3FTd1Rrdw?oc=5"
+          "text": "沈阳新松悬臂轴机器人启程，奔赴全球新能源一线 - t.cj.sina.cn",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pa1pRUnRNNFNmcW02S0lxckk1Z29WOTg1LVJlMk9NVUlodVJOemJzUXpjTnJuUHVydWFKRlJVd0NGU1BMcjNuTGpUU2Q3eG1WRHBwRm03Zl9VbzlEU01CWHNxTUkxMWtRU0F0OExrcUw?oc=5"
         },
         {
-          "text": "青岛局联合相关部门举办快递服务制造业融合发展对接会 - finance.sina.com.cn",
+          "text": "全球新能源汽车迈入全面市场化新阶段 中国成为产业链重要基石 - video.sina.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXluMWJUY3YwSl9xZGQ3RldJdUVhQWcxOWpyZGhtRFR5RzNDbnVGa0FFRm1hMmlMTHUxbTlMSF9IMDktLUpwWjBlb01rUXNKV2tSOFF5blJIVXVoR2JTZ1ZZYkxwNERCeHZZSnJGX19raGp1MkJnSEUya0tqWHJOZXN4R0pkRU5fbEFQWDdXYmJwb0dTYWpiUA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTkxSl9LQVpzYkd1azlZMjVZX1lwNEFZcHhwSzc0QnhRYXJ2VkE5ZDd5cW9GTkRXWGd5YUtEc01PRW5YNXBLY2VfUkNtOURsekd4SVU1RFp6TUxPNFJxWWNnYzBiUlg2cHlBWUV2TXRCMG9zd2FOZ1kwMF82ZWN3RkJn?oc=5"
         },
         {
-          "text": "新能源汽车深度融入日常生活 - finance.sina.com.cn",
+          "text": "2026世界新能源汽车大会选出11项创新技术，看看哪些你已经用上了 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2UnRCVktrR2tnVUxQOXZhQ2ZIWE1YSVdOLWNNbUZWZTV2ZzIxU0dkYXVQRUtqSkZ5R0tzbVZkMEZhZ1pDMnN2MEtWbTlTZUVmbG56Z1B5OFdNR25USnk3RWhYWl82MlhSTktKUnFIUjVXSUhaNlUybw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IZFM0SkFRdHp4b2xFVkkwbmtYaDdGM0F6ZFBBbW5xd0s4c3lWZEsxVnJXZTJ0MExrU1JjcG1MTXVIOGY3dm5id25qR0VHWUZxbGRzSXU0MGRqeGs?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "21:16",
+          "title": "Distant time crystals can somehow fall into the same rhythm",
+          "summary": "Researchers have shown that multiple time crystals inside a semiconductor can synchronize their oscillations,…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "21:17",
           "title": "For the first time, scientists watch sound jump between quantum states",
           "summary": "Stanford researchers have recorded the first real-time quantum jumps of sound, watching single phonons abrupt…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260921081054.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:52",
-          "title": "MIT’s tiny flying robot gets 450% faster with AI",
-          "summary": "A new AI control system lets MIT’s tiny flying robot move with insect-like agility, boosting its speed by abo…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "MIT’s tiny flying robot gets 450% faster with AI",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm"
+        },
         {
           "text": "This tiny organism can shrink to one quarter its size in milliseconds",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Caltech’s tiny new chip can steer light in 74 quadrillionths of a second",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260918024823.htm"
-        },
-        {
-          "text": "A $100 detector can see invisible particles raining down from space",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260917003725.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Venezuela seeking rebirth after political crisis and devastating earthquakes, President tells UN",
-          "summary": "Venezuela is seeking to rebuild after a period of political upheaval and the destruction caused by twin earth…",
+          "title": "‘Turn what we know into what we do,’ Barbados PM Mottley urges world leaders at UN",
+          "summary": "Barbados Prime Minister Mia Mottley called on world leaders on Thursday to turn knowledge into action, reform…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168420"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168433"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Equality ‘ends at the doors of the Security Council’, Kenya’s Ruto tells General Assembly",
-          "summary": "Kenyan President William Ruto told the General Assembly on Wednesday that the sovereign equality the UN procl…",
+          "title": "Yemen’s path to stability depends on restoring the state, Leadership Council vice-president tells UN",
+          "summary": "The Vice-President of Yemen’s Presidential Leadership Council, Abdullah Al-Alimi Bawazir, told the UN General…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168419"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168432"
         }
       ],
       "briefs": [
         {
-          "text": "Guterres calls on countries to set clear timelines for transition away from fos…",
+          "text": "Israeli leader at UN: ‘We’re going to win. We have no other choice’",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168418"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168431"
         },
         {
-          "text": "Rohingya refugees deserve a future beyond survival, not endless displacement",
+          "text": "‘Rising seas are sinking futures’",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168417"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168430"
         },
         {
-          "text": "Zelenskyy urges stronger pressure on Russia, warns war’s impact is spreading be…",
+          "text": "Haitians can’t wait to return home and vote in elections says Prime Minister",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168416"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168429"
         },
         {
-          "text": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ thre…",
+          "text": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168414"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168428"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:00",
-          "title": "EU Tech Push Boosts Ultrafast Laser Startups",
-          "summary": "Several startups see a big opportunity to build the next generation of ultrafast lasers, a crucial component…",
+          "time": "15:07",
+          "title": "A Network-on-Chip (NoC) For Multi-Die Devices",
+          "summary": "Transporting the native packetized traffic of the NoC directly across die boundaries using a stable, invarian…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/ultrafast-lasers-europe"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:06",
-          "title": "Five Signals From The 2026 Functional Verification Study",
-          "summary": "Functional verification is no longer only about closing the design. It is increasingly about understanding th…",
+          "time": "15:05",
+          "title": "Managing 3D-IC Design And IP",
+          "summary": "Design data management, traceability, and revision control are critical for multi-chiplet heterogeneous integ…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/five-signals-from-the-2026-functional-verification-study/"
+          "url": "https://semiengineering.com/managing-3d-ic-design-and-ip/"
         }
       ],
       "briefs": [
         {
-          "text": "Build Secure SoCs From The Start",
+          "text": "When AI Agents Cross Chip Design Silos",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/build-secure-socs-from-the-start/"
+          "url": "https://semiengineering.com/when-ai-agents-cross-chip-design-silos/"
         },
         {
-          "text": "Multi-Agent AI Systems Must Work Like An Orchestra Without A Conductor",
+          "text": "EDA’s Future Is Evidence-Driven Automation",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/multi-agent-ai-systems-must-work-like-an-orchestra-without-a-conductor/"
+          "url": "https://semiengineering.com/edas-future-is-evidence-driven-automation/"
         },
         {
-          "text": "Building A Connected, Contextual Data Backbone For AI-Driven Semiconductor Desi…",
+          "text": "AI-Driven Device Modeling For Next Generation Quantum Applications",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/building-a-connected-contextual-data-backbone-for-ai-driven-semiconductor-design/"
+          "url": "https://semiengineering.com/ai-driven-device-modeling-for-next-generation-quantum-applications/"
         },
         {
-          "text": "Make Your Interface Work For Your AI SoC—A 10 Step Program: Verification With S…",
+          "text": "Autonomy Levels For Design Agents: L1 To L5 Explained",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/make-your-interface-work-for-your-ai-soc-a-10-step-program-verification-with-simulation/"
+          "url": "https://semiengineering.com/autonomy-levels-for-design-agents-l1-to-l5-explained/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Equality ‘ends at the doors of the Security Council’, Kenya’s Ruto tells General Assembly",
-          "summary": "Kenyan President William Ruto told the General Assembly on Wednesday that the sovereign equality the UN procl…",
+          "title": "‘Turn what we know into what we do,’ Barbados PM Mottley urges world leaders at UN",
+          "summary": "Barbados Prime Minister Mia Mottley called on world leaders on Thursday to turn knowledge into action, reform…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168419"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168433"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Guterres calls on countries to set clear timelines for transition away from fossil fuels",
-          "summary": "“We are the first generation with the tools to end the fossil fuel age – and the last who can avert climate c…",
+          "title": "Yemen’s path to stability depends on restoring the state, Leadership Council vice-president tells UN",
+          "summary": "The Vice-President of Yemen’s Presidential Leadership Council, Abdullah Al-Alimi Bawazir, told the UN General…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168418"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168432"
         }
       ],
       "briefs": [
         {
-          "text": "Rohingya refugees deserve a future beyond survival, not endless displacement",
+          "text": "Israeli leader at UN: ‘We’re going to win. We have no other choice’",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168417"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168431"
         },
         {
-          "text": "Zelenskyy urges stronger pressure on Russia, warns war’s impact is spreading be…",
+          "text": "‘Rising seas are sinking futures’",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168416"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168430"
         },
         {
-          "text": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ thre…",
+          "text": "Haitians can’t wait to return home and vote in elections says Prime Minister",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168414"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168429"
         },
         {
-          "text": "LIVE: Climate change is here - What happens next is still in our hands",
+          "text": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168372"
+          "url": "https://news.un.org/feed/view/en/story/2026/09/1168428"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "13:43",
-          "title": "千问办公与SAP中国将探索Agent在企业管理中的应用 - finance.sina.com.cn",
-          "summary": "千问办公与SAP中国将探索Agent在企业管理中的应用 finance.sina.com.cn",
+          "time": "19:32",
+          "title": "凌云光(688400):股东询价转让计划书 - cfi.net.cn",
+          "summary": "凌云光(688400):股东询价转让计划书 cfi.net.cn",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OblAxVkVuZ2dudzNWdU92X3dEWjhJZE9TbmtURllNMGxoUkxlbDNWUHQ0NDFOVjZkNi1XVDc3Nms2aXdjU05IYmFVdUkwSmxDczZwX21ka1EwcjU4d1FsMkdmeENRZk8wUllSM1VDMWxaMkdWdkRFdk4tc1FwUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBraS1hMEJHd1RNX21lQ1lQd0FTWmhrLXlhQ2tuRVlYWkRlTXRoWkJta2JlSXM1MkMtbkxQVTJfWElrUjNTUzBYUk5qQzBnN1ZuYUVUUGhn?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "13:43",
-          "title": "千问办公与SAP中国将探索Agent在企业管理中的应用 - finance.sina.com.cn",
-          "summary": "千问办公与SAP中国将探索Agent在企业管理中的应用 finance.sina.com.cn",
+          "time": "16:38",
+          "title": "规范运营优化管理架构，联华证券实盘机制持续完善服务标准 - 新浪财经",
+          "summary": "规范运营优化管理架构，联华证券实盘机制持续完善服务标准 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jcWpOM0hjcHctbDNhb1dzTG9IYVZReWNhLWtWbldpQnkwTDdJbWJxSWh5dEk3MmVrRHVsa3RFLVd3VFpKMnVSVHJzaXZZZzg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWjB5Z21QOUJ5NENRS0x2ZlFKSzk3ejk2VHdTVnhfeDk4M1hqX1RnaUJvYW9YNkdWdmtRTGFHbTZSR1RvbHY3U1Zra2JyOUd6eTFNNWpfYzBjbTJiN2RCa0tmUUJTRU9lYzBLbHE4ak9iUTFtOFJPU1dYYl9TcGRFS0haTVE2dUZiSDMw?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "AI赋能企业管理临沂近百家企业共探智能化转型新路径_临沂民生 - 齐鲁网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80QnF3WW5TTUxtNTdDQ2tEcnRISHgtLXNoNF9sUEpwd3BwLWlucmFkbVYyZmhHY21sM2h5NGRtbEFSUGYtM3dfWlBSREl2QmpDcDNZR3dtZVdXYkFXTndLTDNteURDRVV0LUE?oc=5"
+        },
+        {
+          "text": "新光药业：回应投资者对公司战略经营相关质疑 - 新浪财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXpQU2w0N1ZpMF9sWW81SmpXdEd6M2V5eFdIY2V5MHpXckNyTzBPVGxDZFJFQmxxdGhrTUkxZGVGcl8yZlZwMklzYjFzM09IcGlCazN6b2xUMFAxcC1jNHdOeXhrSnZkUmREaFN5T3c2OUZJZEE1QkQwa0htb0dJMXlvdS03bFB4d3VjQVplMTYwaVB5TGc0QUE2YWlobWwtS2c3Vi1idWJmWi1tOVZ2Z1Nn?oc=5"
+        },
+        {
+          "text": "千问办公与SAP中国将探索Agent在企业管理中的应用 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CYXF6cVhPRGZvREFFX0hJN3p5ZnpTNzJHMllPdThYVTNpZzhhQ1BZZ1Z0V1lxbkFTR1V4cGZ6WW83VUtxYWlnNXNwSzQxbUxzX2s1bGVqelFwbkdHRXBnRm9JVWVuLURmZ2I2bHctSThaQkxzT2V3VnEzTHVTUQ?oc=5"
+        },
+        {
           "text": "千问办公联手SAP中国 探索Agent在企业管理中的应用 - 东方财富",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtWFNRbkJfX2xXT0ZoMU5tQ2RPd0s1LVFCUlBKRHRKLXM2R3Y0Yzl6Ylhka2ZLWEs0R0JaX3oteUI5d0JUU0h2Q0FnM0Zya19ZQzJhSVdqekVrYldHc2tHUg?oc=5"
-        },
-        {
-          "text": "国家级科创孵化器携手深兰科技生态企业战略合作，共建AI OPC社区与FDE企业服务中心 - 财富号",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qTzFCdFlWZXRFYzNaVnFRNWR1N3hYa0pqTmZzb0h1Z3NPOXpnMEVDc0tTb0xiOHJuVXNJTmc2dnpWTGxvcURGSUdZU04zMkdUd1pyYTNXZEdSQ0M1cUpBODg1TkFVZ2diSUdZ?oc=5"
-        },
-        {
-          "text": "大晓与中国石油上海销售公司战略合作，加快仓店一体化验证与落地 - 搜狐网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPV0lKUktZNUM5VGxnRVVhWTBDdTJ3YXdHYUFvcUs2cDl3R3lMNnNCYXE2YjhnTGd2dGxIWDEwM3FqdTBaZ0hBUmw0dFpRallqWTFPcVdkQUpBd2x0dFRubnpnX3VpWmU5dDMxSDRGQnFHLVlDOHlVSFF5YU9iNlV6NjZ0dDJ4a2VadnVLeg?oc=5"
-        },
-        {
-          "text": "海口华润大厦A座启幕 海南自贸港出海企业战略联盟壮大 - hi.chinanews.com.cn",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11bnZ2c2VGaThWNEFzRlNneC1PaTdlZkhOOUxUUmNwbGg3eTF6MzlCNnBDTUhnUERFWjlUNEM4THFUWHBvVEU4QllWaTljTkV2TW5WNEo2blAxTHk3cXIzTllxY0pLcTFLaW1VRw?oc=5"
         }
       ]
     }
