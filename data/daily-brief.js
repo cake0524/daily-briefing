@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月26日",
+  "publishDate": "2026年9月27日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "加快培育“612X”先进制造业集群 浙江衢州“十五五”力争主板上市公司突破35…",
+      "title": "【视频】不敢相信合资做新能源还有转型这么快的？不是日系，而是美系。 - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:34",
-          "title": "加快培育“612X”先进制造业集群 浙江衢州“十五五”力争主板上市公司突破35家 - 新浪财经",
-          "summary": "加快培育“612X”先进制造业集群 浙江衢州“十五五”力争主板上市公司突破35家 新浪财经",
+          "time": "08:39",
+          "title": "【视频】不敢相信合资做新能源还有转型这么快的？不是日系，而是美系。 - 汽车之家",
+          "summary": "【视频】不敢相信合资做新能源还有转型这么快的？不是日系，而是美系。 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxNU1NLQlBqZEFwUDdNQXh5azQ5Q09nalZPVmVoMGhjaVBBYVNuTFVOYVo3dWhGekxqZ0o2QXpHOWhmQjFnQ3l3eFN0bXpOOFp3Skljc0VqbFQxWW85YUxSSFVYS2lpSGxZQms2T2pTZkw4NWlfR1FXR1hqYXk3NHV1alZFR1pPOGY3RGwwc2lMa3Q3Z29ndllpS0JfVkV2ek02NjJZSUQzODhldnItV2V3T0tGRU9fTzNzV2RRXzJCZEF2S3YwdnUxT19CZFVXYmNybFNoUnBmbzRDTFlJZ09QUnBJc1FDMnBla2lSNmJVNllrdVpFOU9SbEhHU08weV9RUXhOUnFQRW9abEVxakZKOGhEdjlfOUk2RDZuTmdzZ2RBUURzRmdpc2hJdFR4ZWlzLW91WWxvYnpTcTRFUDdHSktWVWtZZ0Fwa2hqNGY4LVpDUlhpUDBxazhhRWR2RmtOb0tiOU9ZbzJHY1lPVl9vZHkxYlRKQmsxNUNOTTdoVFJNYzZ5eXdFTEJzT01FaXBhVFd2NnU1R2lyQ05nUWdWbllLYkl3RVYxT2RUNkRFYy12SkhjSnh0ejRRVE1QcnEwd0FRZmg4VTY0SXZ3VjkyN1hjbzhUeVpnY1Y1UmdJNUtOQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNOGk2SldjMDhnOXJEc0R3ZW90anRocXFnQWlzUHFQSVZrRWJiNUhYNzQxRGhrX1hBMllDeXFHX3RXWl9hLWdjOXVFQndFUTMza0lWTWptbUxQOFU?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:51",
-          "title": "【视频】只有一种情况除外，买新能源汽车一定选纯电尽量不要选混动 - 汽车之家",
-          "summary": "【视频】只有一种情况除外，买新能源汽车一定选纯电尽量不要选混动 汽车之家",
+          "time": "08:21",
+          "title": "数据要素对体育用品制造企业新质生产力的影响研究——基于沪深A股及新三板上市企业的面板数据分析 - 生物通",
+          "summary": "数据要素对体育用品制造企业新质生产力的影响研究——基于沪深A股及新三板上市企业的面板数据分析 生物通",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13Zk1TcjNwY3JvdFZvSWd1aGFNaGRRLXRteFotel82TnlmYVZteGxma0pMVDhvQmNod3lZcnhRaDc2OVVBQmZ3ODNMblE3TDE0MzB4MFlYSnFjcWdsa1lzOVhsdTc2OTJFS1Vr?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBobnk4R0dIcnB5MW1zaVdsRTRkcHpURHQ1YVp1eFZmRnpiT0NLSU5CRnJIaUh2NTBFS2RYOTJVTGs3NS0wZWRKSkUzd0ZjU3NBalZ6c1lzT0pERi13WVdoRUg5Y1JGWTVPcUw5OQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "印度学者：印度经济的“体面增长”，难掩产业政策上的失败 - 搜狐网",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWDFWVXlnNElUMG1scFM3M2hjOUoxVDlVQ25KZFZ5SmJNcUdMZGwtZTVKNDJzQWdnQXU2amNBbTZvNVJpcEowRlU0azU0TXpIa1MwVGhZWnFDeGhPSHdFY3ltNUp0aDF4S1laSVlBZDJZYTVVSFZsRGlyNHlOQlJDREgxVTh5bFky?oc=5"
-        },
-        {
-          "text": "比亚迪新车纯电续航1100km打破纪录 重塑豪华新能源轿车标准 - 中华网",
+          "text": "【视频】宋Pro 新能源10.28 万起三档续航怎么选才不亏？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15LWxDOW1VRmlucU1jRUF2elNzZTE1TzlMT2lQY1lMSDNfbzI1cHlnSm43VUxRYXFZSmZXTTBudGhCTXhVRGs4WnNtdXpFOEk5eUhMeUV4ZXh6LTV5QmNvWUZydVhrdFBzSlhRdlkyaTY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82b3hPSDhKaV9BSFI4VHNoTTNsTFh6cXFuUUNDOW1zb0JCVjhuZDE0dENQaU0tV2NieUtBVEY5Vl9aX2xNckZYNjRfTi1VRlpOemZ6aG0wSjVwRnowNTZGckZnNk5kaGxqekFn?oc=5"
         },
         {
-          "text": "新能源市场太卷了！《自然-能源》揭示电芯不一致性真相，你的电车续航还好吗？ - 网通社",
+          "text": "山东发展旗下绿能投资拟退出东明两新能源公司，标的公司资产总额超8亿 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kV2xzazFvc0FGUkYyU3Q4TlpLdWJfZ2lMczZxdnNhNUQtWU9QeThpdktmY0lQY1RrXzVOUG4xclE0VnQ2bDJ5X1V2NllxZ3hUbjRrNDJMNHdEVlU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yUFlVdkVmVWZqNVk0UnNyZzhnRVVBX3VmTm4ycW5OV3Z4cktSR01GVjRmOVc1WHB6N254LUFfSTYtYVI2ZEFqQm9EcExlb0VHTWhuUWxiczkycFBXUzZZZVBFVG9FZVhvX0pzMlpJMjlQQ1FZNGJweg?oc=5"
         },
         {
-          "text": "买电动车前需做三件事：查电池、看智驾，还有一件，90%人都漏了 - 凤凰网",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0zbXMzOWduVS00amdiTFM5SFNnbzhwZ1BoYkZlYUQ4WmhRaG9nZHBJY0doVWIxNks2Y25WeDkzTUFWbmZjSkhHOXhzUkQ?oc=5"
+          "text": "新能源商用车确立为第二主业 徐工杀入长途干线市场蓝海 - 东方财富",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhR1lCU3ZGWTdoUk5hdG5RVFc1QnRzRm5TalFJeVRQODZPaUFoTldEckVNcWtTQzZIRjc4eWp5QTYzU0JwV005ZnNMSTJiTmtYUi1LRy1KNm4yUXliRncxM3hoZw?oc=5"
+        },
+        {
+          "text": "四化协同赋能先进制造业 - rss.jingjiribao.cn",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGamtSLWRCWGwyZWtKTWlIN09ZSHVoZEZwdldhM19OUWlfME5mN0dvM2RSV09YNGc3SlF0MHp6RERLd2o1bVUxb0VTenhLMmtrYVZmWThuOFpLNkdObG00bjJSdw?oc=5"
         }
       ]
     },
@@ -338,11 +338,6 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMipgVBVV95cUxQcXlLUjJCSzJTY3ZmNnZoQ1NtMVZiZ2pCVVpLSHlhZUdmdzBjUWxaSk9GNDF5cHdtZWZCVGZ1T0htbXd6ZlYxNEZJZC1wcFdRb21ZS01KMkhWSGt6b0RyMHRqZXgzRlFPRURkU2JoLUh5R29PVG5XYWRoNjRGOHdxTDc3QXBza01vTUdSaEhXNDYzNTRxR2l6a2tJSnNmQ2x1ZDNNS2hDYlJHLTBFUUFOTTJIaEpqVVNsSjd4NHJTNVpLYkt1bkNmWjBUaEtMN2dhZjdLb3pmakpCVEZCbDR3Nk9sSm51ZkFPRVY1QnJDQkh0UGs4SXVmbVZhZFN3LXhCNGpYVFYxaEFsQkgySlVGSnFSTV9IeE4wYVFCZHRmMWpLUDVxVmlHX2I5ZGdKVnlYSWM4ZjhHMXRGOGkzd3BfYVlrV0NGVUl6MVR6aElFaGxyQy02aEVVRUUwRDdPTU9sT1JaeHA1OUhjQ3U3b3pOZ0pOQWxDYVdkRU9KYUtHVTJnQUJhZEpxc2FIZFh3ZFFDeFNtb0I3eTZnY3VCUG9kU1dzT011LWRkWTc4dVFzV1o2T3RENzhEdVpndEY2SU9JbENuZkVsN3Y5b0pwOXFPbVZ0eHpvZWFvWWVtcUZlTlZiQklDdHFfYmN4anUtTjk5WlpWWGJaRmpuNTd6ZEhtdkwxM2xna3ZjODFMX0NJREE1bHZSV0ljOFpZNk9EZDFXOFZOU0Ztam9aNTVINnE3cVVKbGtNVlczNjhnVUxtNldHX29wUll4cEgtUHdRTUlMTklZdTNVcldfVVYwaHRzNkNER1FlckZ2TjIyWHVVSFNNM3RrZ3VGRkJoZGFHMG14TFd1SWVjNmtaMmJFVFlYWnhHTXpHdUpmU08wU2FOTHAxSk1hWWc?oc=5"
         },
         {
-          "text": "凌云光(688400):股东询价转让计划书 - cfi.net.cn",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBraS1hMEJHd1RNX21lQ1lQd0FTWmhrLXlhQ2tuRVlYWkRlTXRoWkJta2JlSXM1MkMtbkxQVTJfWElrUjNTUzBYUk5qQzBnN1ZuYUVUUGhn?oc=5"
-        },
-        {
           "text": "​实至名归！思博咨询荣膺“企业管理咨询服务行业三十强企业” - 飞象网",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GeUJaMXdBMTdlc3pPa1REYUYyZm91RHVRQm52MDVSeWYzQlBrSnlXaTRSVnJpWDFMYUdGUUZxMGJoTUQ1bFcxSHhOdw?oc=5"
@@ -351,6 +346,11 @@ window.dailyBrief = {
           "text": "AI赋能企业管理临沂近百家企业共探智能化转型新路径_临沂民生 - 齐鲁网",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80QnF3WW5TTUxtNTdDQ2tEcnRISHgtLXNoNF9sUEpwd3BwLWlucmFkbVYyZmhHY21sM2h5NGRtbEFSUGYtM3dfWlBSREl2QmpDcDNZR3dtZVdXYkFXTndLTDNteURDRVV0LUE?oc=5"
+        },
+        {
+          "text": "新光药业：回应投资者对公司战略经营相关质疑 - 新浪财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdXpQU2w0N1ZpMF9sWW81SmpXdEd6M2V5eFdIY2V5MHpXckNyTzBPVGxDZFJFQmxxdGhrTUkxZGVGcl8yZlZwMklzYjFzM09IcGlCazN6b2xUMFAxcC1jNHdOeXhrSnZkUmREaFN5T3c2OUZJZEE1QkQwa0htb0dJMXlvdS03bFB4d3VjQVplMTYwaVB5TGc0QUE2YWlobWwtS2c3Vi1idWJmWi1tOVZ2Z1Nn?oc=5"
         }
       ]
     }
