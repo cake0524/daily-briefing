@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月27日",
+  "publishDate": "2026年9月28日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【视频】不敢相信合资做新能源还有转型这么快的？不是日系，而是美系。 - 汽车之家",
+      "title": "港股新能源汽车股走高，蔚来-SW、广汽集团涨超3%，理想汽车、吉利汽车、北京汽…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:39",
-          "title": "【视频】不敢相信合资做新能源还有转型这么快的？不是日系，而是美系。 - 汽车之家",
-          "summary": "【视频】不敢相信合资做新能源还有转型这么快的？不是日系，而是美系。 汽车之家",
+          "time": "09:35",
+          "title": "港股新能源汽车股走高，蔚来-SW、广汽集团涨超3%，理想汽车、吉利汽车、北京汽车、零跑汽车涨超2%。 - cj.sina.cn",
+          "summary": "港股新能源汽车股走高，蔚来-SW、广汽集团涨超3%，理想汽车、吉利汽车、北京汽车、零跑汽车涨超2%。 cj.sina.cn",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNOGk2SldjMDhnOXJEc0R3ZW90anRocXFnQWlzUHFQSVZrRWJiNUhYNzQxRGhrX1hBMllDeXFHX3RXWl9hLWdjOXVFQndFUTMza0lWTWptbUxQOFU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50WjRGa2lidjVKZl9WUXZpcDduN2UyVzdXM3FYOFIyajh6alJoNzhHU2c1VWw1STkydDNMbkgtT25SQUZUUnNUVnVDYw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:21",
-          "title": "数据要素对体育用品制造企业新质生产力的影响研究——基于沪深A股及新三板上市企业的面板数据分析 - 生物通",
-          "summary": "数据要素对体育用品制造企业新质生产力的影响研究——基于沪深A股及新三板上市企业的面板数据分析 生物通",
+          "time": "09:30",
+          "title": "一周港股牛熊榜：白鸽在线领涨28.34%，中环新能源上涨24.68%；怡俊集团控股重挫43.90% - 东方财富",
+          "summary": "一周港股牛熊榜：白鸽在线领涨28.34%，中环新能源上涨24.68%；怡俊集团控股重挫43.90% 东方财富",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBobnk4R0dIcnB5MW1zaVdsRTRkcHpURHQ1YVp1eFZmRnpiT0NLSU5CRnJIaUh2NTBFS2RYOTJVTGs3NS0wZWRKSkUzd0ZjU3NBalZ6c1lzT0pERi13WVdoRUg5Y1JGWTVPcUw5OQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iSXhfckYwSlN3Rl9WZTZISVBXYjRpUzdMcHdVSmVSdDJGenB4N1BfOVB3V2wtWmVTZnJYVkx0LU9Hakl3eTl0UkZxUnlER2M4VHc5RTZFel9ZeEd0WEVEcFNBT1VBQQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "【视频】宋Pro 新能源10.28 万起三档续航怎么选才不亏？ - 汽车之家",
+          "text": "8月国内新能源乘用车:销量跌了13%，渗透率却创历史新高 - 电子工程专辑",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82b3hPSDhKaV9BSFI4VHNoTTNsTFh6cXFuUUNDOW1zb0JCVjhuZDE0dENQaU0tV2NieUtBVEY5Vl9aX2xNckZYNjRfTi1VRlpOemZ6aG0wSjVwRnowNTZGckZnNk5kaGxqekFn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLSnJqVE9aSElPbFpxVS0yNEdrUUEzMWl6czllQndFbGFJVzgwdlE3b0w2TkJROHlDR1NRdzFxVnJadHZqa1EzcXRva1lqa3dIMWgw?oc=5"
         },
         {
-          "text": "山东发展旗下绿能投资拟退出东明两新能源公司，标的公司资产总额超8亿 - 新浪财经",
+          "text": "天臣控股拟1.2亿元获取时代华智(香港)新能源科技有限公司100%股权 - finance.sina.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yUFlVdkVmVWZqNVk0UnNyZzhnRVVBX3VmTm4ycW5OV3Z4cktSR01GVjRmOVc1WHB6N254LUFfSTYtYVI2ZEFqQm9EcExlb0VHTWhuUWxiczkycFBXUzZZZVBFVG9FZVhvX0pzMlpJMjlQQ1FZNGJweg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjJYYjlQaW1PMGx6cE5WTHVLYkhKUi1tSzBxVDI2NTZqdVl6a1dzV2ZlWHhfUW5JNktXa3dTOTZ2bTYzMmhfSWdoeXc0OXFEVUhMQi00cFFOalQwMU5xZTNMU2tGQy13N3phUVBnTTVtWmozbmhKOXdXeUVrOXpyNmlBa1hOYmhjbUVRYnF3?oc=5"
         },
         {
-          "text": "新能源商用车确立为第二主业 徐工杀入长途干线市场蓝海 - 东方财富",
+          "text": "中国制造业争“先”惠及世界（国际论道） - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhR1lCU3ZGWTdoUk5hdG5RVFc1QnRzRm5TalFJeVRQODZPaUFoTldEckVNcWtTQzZIRjc4eWp5QTYzU0JwV005ZnNMSTJiTmtYUi1LRy1KNm4yUXliRncxM3hoZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUGRTM3RhR1JZdThhU19PZ25lUktZaHkydjZyYlhmU0cxbzN2X3JiYzVxMEZURlRucERVTGhZdkFORVphSEc5V2tJcjJ3UG9QWmZXaldmaU9ETTRtcjNua3k5WTNfdml5U0tVSnpSYUF4STZMUVdiV0tJTElKYXlmeEVCZnRySVFFU1NBag?oc=5"
         },
         {
-          "text": "四化协同赋能先进制造业 - rss.jingjiribao.cn",
+          "text": "徐平新官上任添把火，至境E7 半年上新卷低价 - gasgoo.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGamtSLWRCWGwyZWtKTWlIN09ZSHVoZEZwdldhM19OUWlfME5mN0dvM2RSV09YNGc3SlF0MHp6RERLd2o1bVUxb0VTenhLMmtrYVZmWThuOFpLNkdObG00bjJSdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VaVRLczNnNVZZMWh3aHdWako0bDdEbWM0OG1kS01XdWpsdGhCdlBJa3ZDcG5HdUZmV2hNdWIyUjM5OFA0VTh2T1poTHRGMjd4?oc=5"
         }
       ]
     },
@@ -314,12 +314,12 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "14:14",
-          "title": "融合知识图谱与策略优化的供应链韧性预测框架 - 生物通",
-          "summary": "融合知识图谱与策略优化的供应链韧性预测框架 生物通",
+          "time": "08:31",
+          "title": "“全网最爱发钱老板”崔培军透露公司管理模式：不打卡、不考勤、不考核！ - 网易新闻客户端",
+          "summary": "“全网最爱发钱老板”崔培军透露公司管理模式：不打卡、不考勤、不考核！ 网易新闻客户端",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13UUlsQ1FudU9hNkNla3FmdUZPdzdObUJIRGVHSWc2Nm9rd2dibWRPVDF0VTl6OXoyZUl4Y3JFaThzVFVHQW5DUGpmUUhWMmY5MERfTkFrWWV2Mm9ib0gzRGt0bEh6YXAxT2p0bA?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VNHlCN3p6UGIyOUsyT0F5TkNOWGV2T0lHN2VCbW5rcUJYdW1tUkpzU0VIaFFRNjF1aE5vWUdaSGpyaUt3ZmRzZ0J1SVpaSmRqekVMVjFhY2JBUEJTWW9jVGlHNEx2V1R1eEV5aHdobFI1bUdUM0JKRw?oc=5"
         },
         {
           "priority": "重点看点 02",
