@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年9月29日",
+  "publishDate": "2026年9月30日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【视频】11.78万买合资新能源销冠？刚上市的铂智3X星云限量版真香 - 汽车…",
+      "title": "50.1%！制造业PMI时隔两个月重返荣枯线之上 - Jiemian.com",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:25",
-          "title": "【视频】11.78万买合资新能源销冠？刚上市的铂智3X星云限量版真香 - 汽车之家",
-          "summary": "【视频】11.78万买合资新能源销冠？刚上市的铂智3X星云限量版真香 汽车之家",
+          "time": "10:07",
+          "title": "50.1%！制造业PMI时隔两个月重返荣枯线之上 - Jiemian.com",
+          "summary": "50.1%！制造业PMI时隔两个月重返荣枯线之上 Jiemian.com",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aQ0RtQ3JQczdwMHBlWWpZSmFSZnF0QTNfYjVwdGxFRkZyX1dqeDZaR3BncEtLTmwyREpvcFhfNE01OEk5enpQa25WOUxRX0FrTDB3amxQYU02ellaTXRNd1lobjRwV212R1BJ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wV3NJVnZyMjM3TzdFWHJMa29Mak1ZSDhlUTI3S2dOQWtMMU82c0pXYmpaWlFyUWVhdjRwY0E5U3dVNGl2YkgwdG5WUG9Vc25NQk9JVnAtLXE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:23",
-          "title": "质量数字化如何成为制造业数智化的破局点？ | Founder 100 - 极客公园",
-          "summary": "质量数字化如何成为制造业数智化的破局点？ | Founder 100 极客公园",
+          "time": "10:07",
+          "title": "比亚迪加码投资西安 - 新浪新闻_手机新浪网",
+          "summary": "比亚迪加码投资西安 新浪新闻_手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZV2tTYjItTnpMOTRsN01Mb28yTHdieGl6ZE9mSWI0Q25pT2RvakJFVXZ3U05SdEFCTjVPU0hLeWZIUlRYakhHZEF2YVc?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10R0FkMkZvY2h2bVlEVGRxZ0NYZGhra1R0SnNFRHFkLVI2bHlRZjdBdEFLRXIwSXFRX18wQXNRbTc2TnR0WlN1c0RPTDVRNEtKa1oyRjNXS2lRSVYtWG55N29JazVxa0pyZXpDWC1MdEU?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "9月新能源汽车性价比指数出炉：小米澎程N90拿下插混第一 - 驱动之家",
+          "text": "中国9月RatingDog制造业PMI跃升至52.1，服务业PMI升至51.6 - tmgm.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42RzVUcmFERlpXVjRWbUJmQ1N3MTVlaTRsMlR2OTV3VWNuWEVyVEZWcUFHemI2dC04WTJ5QzV2NjNhSVh6aHNmejBuaVc2Z1pqZEY3ai01MTM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR1J4Ykh1UE40ZXk3M0pLV0lQaEFSUkRTR2FtUms4UkVwUEQ4S2FxbE12VTBkdE1TWk1LR2w3eFVqR2tmU1RPTjRuUUE2Zmx2WmQxdW9QZXhCQnh5ZFp5UGk3WkZaN2lXZkRfYUZUbWh5OG9ockRvdkRwYXpLc1VmM21uVnFFSkVCbS1YX3VENGtXUDl2dGZJa1NfUi1COGlVWjRDZkFIZURxa1NiQzRnbnJDa1Z0SXk2aVFpY1VGZFNiVHp0SThUN2p5UmJvajNKVU93Z2l4YjctRlVWN2UzRjdWc0Fmc0Q2ZFE?oc=5"
         },
         {
-          "text": "全国首个千万千瓦级“沙戈荒”基地建设取得新进展 - 国际风力发电网",
+          "text": "前8月新能源重卡电机十强：绿控破4万台 重汽第二 谁领涨？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uc0pFYWlqVGtLOXExUE1JeDNPZEtDdC1mcVpOZy04UFpLVUY2bld1RURscWtaSm13OFZSbVVyTFFTWS1GX2I4azFWY1RCZTZwT1BOZk9QWDQ4SW8?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYY1NUejB5aGtSWUlXX1pSWm1ucGtlemhJaHdONWFLVF9lT0ZEY1JHVVUzMVpwZUxTcjhTLUZCczBMYXdVRGlfOVIwTlMyWExGYXh2TDBpWHhwNndpRjVsRGZlOGtNNHp1azdN?oc=5"
         },
         {
-          "text": "技术产品回收三端发力 构建新能源汽车电池产业新生态 - 搜狐网",
+          "text": "国家统计局：中国9月官方制造业PMI 50.1，前值49.8-36氪 - 36kr.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGk5RXVtcW1RWEd1UjI3djl0QkpsRlp6RjdudVdwLUw4ZG1FellONVNRd2RGM1NXOWVMSjYyUFQxZWRadmN2bGV2UWdGSk1wMnp6NFhDOW5NOFlCTVlGdFRoSUlsSFZJVGRtRGc3dExXZmhuZmx5aGpuWXI2Yi1aTEdqYjAyVTJLTExR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UZ0xQdEtyLVd4TGJqc2dnMkFfYW96WnJDb0lBOGU1eVBTd0tvazdnMnhHOURsQWV0NU1Ya3FTdGYxYWsyR2lhZDlNUzl2S0RPTG5GZ0EwNTc?oc=5"
         },
         {
-          "text": "蚂蚁灵波与阿拉伯数字经济联盟签署合作备忘录，推进具身智能中东落地_车市动态 - 中金在线",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16TmttQ0JOWllZLUlna1hRaTNYRElLUXlzc0xyVm1GSGcyRnpCcTVGMEx4cmIwSDNqYnAxZWZlQzB2UnI5OENqdnE1OHBEbDFYeEdmbzBWODgyQmxXUlkzcDZ5aHRvb3JUOUdN?oc=5"
+          "text": "中国9月RatingDog制造业PMI 52.1，服务业PMI 51.6-36氪 - 36kr.com",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KcHl1UGZkeWd6WGpJTmpEM2p2VUs2QzBEaDJRWVBMeGxxNFVXdm9ibnE2WmZFS1c4cVJoZ2ZtM0I2MlZCb3l6clloS1R1Z1dnaFpYWmEwdGw?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:00",
-          "title": "How we will do better for Australia",
-          "summary": "OpenAI apologizes for incidents involving Australian government websites and outlines stronger safeguards and…",
+          "time": "18:43",
+          "title": "Making AI an asset, not an expense",
+          "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/how-we-will-do-better-for-australia"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
         },
         {
           "priority": "重点看点 02",
-          "time": "06:17",
-          "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-          "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towe…",
+          "time": "18:00",
+          "title": "Introducing GPT-6.1 Sol",
+          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Ast…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-1-sol"
         }
       ],
       "briefs": [
         {
-          "text": "When can we say AI made a scientific discovery?",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
-        },
-        {
-          "text": "Who’s liable when AI agents go rogue?",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
-        },
-        {
-          "text": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "text": "DevDay 2026 Recap",
           "source": "OpenAI",
-          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+          "url": "https://openai.com/index/devday-2026-recap"
         },
         {
-          "text": "Are you a Codex Original?",
+          "text": "Introducing dots",
           "source": "OpenAI",
-          "url": "https://openai.com/form/codex-originals"
+          "url": "https://openai.com/index/introducing-dots"
+        },
+        {
+          "text": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+        },
+        {
+          "text": "Towards safety cases for frontier AI training",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:02",
-          "title": "Impact of Cu Microstructure On The TSV-Induced Residual Stress Within Silicon (Purdue, UCLA)",
-          "summary": "Researchers at Purdue University and the UCLA published a technical paper titled “Experimental Evidence for t…",
+          "time": "18:00",
+          "title": "Unveiling IC-STAR: Full-Flow Autonomy from Digital to Analog",
+          "summary": "Learn how engineers can shift from manually managing tools and handoffs to defining objectives and supervisin…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/copper-grain-structure-influences-stress-around-scaled-tsvs-purdue-ucla/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://event.on24.com/wcc/r/5507421/A45CEFBA43BC7B2A43F265520AFDBA32"
         },
         {
           "priority": "重点看点 02",
           "time": "15:01",
-          "title": "Intuition and AI",
-          "summary": "Can AI be creative? It is impossible to know unless we understand what creativity really means, and that's di…",
+          "title": "TSMC OIP: Chip Industry Growth Blows Past Forecast",
+          "summary": "Aggressive prediction of $1T by 2030 was $700B too low. Here's why. The post TSMC OIP: Chip Industry Growth B…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/intuition-and-ai/"
+          "url": "https://semiengineering.com/tsmc-oip-chip-industry-growth-blows-past-forecast/"
         }
       ],
       "briefs": [
         {
-          "text": "One Substrate No Longer Rules Them All",
+          "text": "Why Verification Needs a Thread, Not More Fragments",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/one-substrate-no-longer-rules-them-all/"
+          "url": "https://semiengineering.com/why-verification-needs-a-thread-not-more-fragments/"
         },
         {
-          "text": "Comparing A7 CFET and A10 Nanosheet FETs From Parasitics to Chip Reliability (T…",
+          "text": "Chip Industry Technical Paper Roundup: Sept. 29",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/comparing-a7-cfet-and-a10-nanosheet-fets-from-parasitics-to-chip-reliability-tum-unimore-applied-materials/"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-sept-29/"
         },
         {
-          "text": "Chip Industry Week In Review",
+          "text": "Moores Lab AI: Applying Agentic AI Across Chip Design",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-157/"
+          "url": "https://semiengineering.com/moores-law-ai-applying-agentic-ai-across-chip-design/"
         },
         {
-          "text": "A Network-on-Chip (NoC) For Multi-Die Devices",
+          "text": "Impact of Cu Microstructure On The TSV-Induced Residual Stress Within Silicon (…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/a-network-on-chip-noc-for-multi-die-devices/"
+          "url": "https://semiengineering.com/copper-grain-structure-influences-stress-around-scaled-tsvs-purdue-ucla/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:12",
-          "title": "不确定的时代下，飞书 People 能解决企业管理的难题吗？ - 极客公园",
-          "summary": "不确定的时代下，飞书 People 能解决企业管理的难题吗？ 极客公园",
+          "time": "09:44",
+          "title": "*ST金灵：投服中心已向公司管理人提交暂不领受偿债资源的函件 - 东方财富",
+          "summary": "*ST金灵：投服中心已向公司管理人提交暂不领受偿债资源的函件 东方财富",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PWTdpRTVsWXZRdzl0ZHBkQi1EZlA3eGV2RHRreS1heTFjZFFGMWdfUGNRdlZYQmF5RUI2bjB2MnRjRU93OG50ckktUVk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jaTBIOHhTNWdGSnRQeDVBeTdyNkpEcWZ0Uk1FTFd1MFNBZ3pUNmZZdnJDek56VFV3c0dIVGRnQldxLUNwSVJoRVdjeUVOb05qQ3JxN2I4LU1yTWc2MG9KRnc5S28wdw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:33",
-          "title": "银轮股份：两家为公司战略客户 - 搜狐网",
-          "summary": "银轮股份：两家为公司战略客户 搜狐网",
+          "time": "01:29",
+          "title": "伊里内乌·达勒乌：国有企业管理人员的薪资曾“凭空捏造”确定。经济部引入统一标准 - Informat.ro",
+          "summary": "伊里内乌·达勒乌：国有企业管理人员的薪资曾“凭空捏造”确定。经济部引入统一标准 Informat.ro",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGgzRzNyR2VubE5vdUNPNUc1V2swNjV1TUlubUdfYV9Pd293bElLR3VMNWpiN1d6SEMtSnZ2UXl3dHdTTGpFOXNmcWVEWG1VdHdJTkxocnZIeUVscUNJZWdJVEFPY0s0ZDVBTkJMZlhxdHMycDhwS3hJclk3cTVLRE1HSFczcmtZ?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXdWcUl4LTU5bV9Ic3J6N1NLX0kzMlpLWmVWRndZcEdPVkd4c2c1TUI3SVFPZmdDYWt1Wmd3MndOM2RpcFZMTjZuak5TZU1VU1FyZ2taNXZmZmFORWFPZmd2ZUg2YV9RM0h4RWN2dmExdERIa0NHMWVKelU0ZW1keURyODdFYmVsUE1jZzF6WGNSQ2VBXy1zV0ZFdk15OXpCSTVBWVdNZUpDZ1U?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "视源股份(002841):特定股东减持计划实施完毕 - cfi.net.cn",
+          "text": "双良节能（600481）股东上海同盛永盈企业管理中心(有限合伙)质押1500万股，占总股本0.73% - 财富号",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93cy1LRGYzYS1Td2NRbUhTS2Z1X29VMVFGOUh4d1FjOHhQUUNzMkpYTGFwck0zaVpEX1ZoMUJENGt5UktHTjY5Q1JnXzZvWEZvLTJkRnFR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oSDdmeU53a0NXVGtrNFV6TmNPekhZckhScFFmLVlXTHBWWFhCTWJxM0VNQ2lJbmZGTDZQMlFsdGhmY0lKTmNsc1NVNzZXcFNEMVYyOEl3RDI5YmJzZnNYcTRzVUNNc3ZZTjI4?oc=5"
         },
         {
-          "text": "到2030年，中央企业战略性新兴产业增加值占比再提升5个百分点 - 海报新闻",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MWEo0VHR1RzlscDFwMDd4bF9xWWJwQXFqRnJ6QlVRUWtRYVI3cEpnejhLd0V4eFdXaUw1czdIZUZGQXZJamhvclNYS0ctZw?oc=5"
+          "text": "电投水电：拟托管集团旗下重庆公司 管理费6700万元/年 - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85amQ5OTF2VC1EQVhKaUxtaFlxajRiR2tyeUZrcTJGU3ZYTWVURC1aM0c3d1VIYkZKSHVLWGlTNGxaYWt5QWZSbmJNSGR5MDNPUzVIdFRiNGVXTzMyV08ydV9LdFZHUQ?oc=5"
         },
         {
-          "text": "到2030年，中央企业战略性新兴产业增加值占比再提升5个百分点- 大众热点 - 海报新闻",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE44VmdHcTRFeTBudEdJZUg5UF9RY1VLR0VCOUduejI0UHJWUnhpUmJWZWRWRF9XWWFlV0ppMVhnSU0tTTQ?oc=5"
+          "text": "电投水电：拟托管集团旗下重庆公司 管理费6700万元/年 - caiwennews.com",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9maXVnMWQ4TENpeEZBNUs5Y1BVdDB4MTVBM2NYRkNFb3Z5MXhCU2dPaU5EZVBFWGNwNURtcnNhWThLT0VEYksyY0tPYVE4NV9BYWV4RzZhZkdNQnZi?oc=5"
         },
         {
-          "text": "到2030年，中央企业战略性新兴产业增加值占比将再提5个百分点 - 新浪财经",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOelFSTDRBaHp3cEQtXzZMTEVtalhVcHVWSjI4bG5XNlJBb0VxSmZpZTlJNnNIWG5aUXJkQzhleFNydkh6M3FPdGlaQURFSHQxX1F5WnpvMlFleGpCVlQxWUU3Zzk2aHh2c2xVRDFybV9lZkhZaUxlSW9UcC1PRmw3anZwS3drUQ?oc=5"
+          "text": "联泰环保：拟向晢杰企业管理（上海）有限公司现金出售两家公司100%股权 - 搜狐网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdHphakRRMWtiTUZ4NmJiWVp6Q0Z2WGJreENnYTZnbUl6NHgxaDBUZk1BV1o1TDlpXzk1MEpGWXE1VVl5Y3hfbUZBVGFFdUVaYzB3dmJYam5zR0ZWdThqbC1abGZzZDNuUC16Sm1CNXRRM21VbWl5V1djR2xETVYyem5aM0VtU1JEQ3ZiSA?oc=5"
         }
       ]
     }
