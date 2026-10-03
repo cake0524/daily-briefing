@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月2日",
+  "publishDate": "2026年10月3日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "#真实生活分享计划 #新能源汽车 #高速服务区充电 #自驾的车堵的水泄不通 -…",
+      "title": "车主讲述高速充电“囧途”：有人跑4个服务区排队3小时才充上 有人排队4.5小时…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:14",
-          "title": "#真实生活分享计划 #新能源汽车 #高速服务区充电 #自驾的车堵的水泄不通 - 手机新浪网",
-          "summary": "#真实生活分享计划 #新能源汽车 #高速服务区充电 #自驾的车堵的水泄不通 手机新浪网",
+          "time": "09:52",
+          "title": "车主讲述高速充电“囧途”：有人跑4个服务区排队3小时才充上 有人排队4.5小时充电还限量 - 新浪财经",
+          "summary": "车主讲述高速充电“囧途”：有人跑4个服务区排队3小时才充上 有人排队4.5小时充电还限量 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGNfU3RRUDJMbklKWjFFX1BmUEN5bkcycmNVMGY4dXBuOVZ0TTFQenRHZ0EwcHpIMTNMWUQ0Z0FlNnVieVUyX0h4blhNSTNvOFlMV1Jka1NFdkEtYnRwSFQ5UkVkOE51SDJxYzVJWFk2ZEUxUGxpRFlTMGl0LVZpeA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOG5mN19iZ01UTkVLRlV5NnBGa2dIRzR1SG54YkhaeDhkVDRNQ1NZT1AwWERubXF2V05mQl96M2NMQUhMZHUtcmhhQXRqcXlfTTIxeU1wbERGajlqaEpUa3BrbFE5M1J4OVF6cGpmX1YyT2lxeWxKazVVRVk1TnRBajk0VlpZMXpzdlFXQVRjQWI1UnRTRDkzLUl0TkxoZUlHM3p6eXBpbjZfakZ1WjV4ajNrdEhfU0ZrYVNlTXl6cDRpLWdBOXEyLTVvYTM4Z3lGY1RPMGxSbEdIREhjdF9qbUVFOUVhQQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:12",
-          "title": "浙里的服务区真好玩丨新能源车主的长途焦虑在这里直接清零 - 新蓝网",
-          "summary": "浙里的服务区真好玩丨新能源车主的长途焦虑在这里直接清零 新蓝网",
+          "time": "09:40",
+          "title": "新能源车主，国庆假日出行请查收这份“充电服务清单”↓_时政新闻 - 大众网",
+          "summary": "新能源车主，国庆假日出行请查收这份“充电服务清单”↓_时政新闻 大众网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xc0tpUTN4eVhuSjBNS05TUjYxTEU0S3JTeGZWOXZTZWtGd05wbXZvWm92aW5DWGoxQ0pIbDc4c0NKYWpncVMwbUpPQlM3ZlU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrVXkwbzBTUzd6RjVmZXhnUVdncWZrb0M0YmJvMEVNZ3VBeklYa3F0NjF3YUZtMlNlejIwWkZoalJhYVNWUFFieG1MMmJTRnk2MW83aS1YT0laS2luSGFjbHhTcWxsdlhGWmNuUkczbHFubng0N1Ixek9jNA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "交通运输部预测国庆假期日均新能源出行车辆达日常1.8倍并建立充电特别繁忙服务区清单 - 网通社",
+          "text": "三款近期上市的新能源豪华SUV横评：谁真正打碎了场景边界？ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLN0RBRmpWck50SVlTRF96SEZ1dE41a3dMNGYzeXM4QzBPTEgzaVZ5MXMwa2xWWHNqSHhBR0dzcUViTXphQ3VqVkxpci0yaVhyVXlnTTEtVXBidDQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yeWVqYzhSWGlBM2dNSWR2MklLQ2toR3dEQjVubHBHeWNXSC1tRkNsbFdpZGhPdGFsSXloajJuMUhkRnJzUEx4VVZ2ZWkwRXNMcG5aSmdYZGlUZUxoOVk4?oc=5"
         },
         {
-          "text": "吃喝玩购!合肥新能源车展原来这么好逛 - 手机新浪网",
+          "text": "宝马第六代圆柱电池获新能源技术大奖：800V架构，续航提升30%！ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwdjRkdll0X0w2djVWYVI2WXFhcmNYbDJmY0hHdWc2MWVqLWJZUVlPcXhGVi1Gdk5nZlBxeVhsTVFBTXhCMjBQT1V0X29lSTRxS2Z4S3FHX21wbFNmTlVGLVVjblQ0VXNweS01Z0ltZjJyNURmenhIOHR2cGNRQms?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sb3lDS1JqVG5XRk9hXzNCNUgwWjhLVlNNVmxVX0JuNmdRRXFtbUk4cHBnc2htZlB4QmJQZURMYTZJQm42cG9CMEtzelptbnR5a3I0RzN0RXZzYTQ?oc=5"
         },
         {
-          "text": "10-15万新能源轿跑怎么选？极狐阿尔法S5耐看又抗打 - 手机新浪网",
+          "text": "从川剧变脸到尖端放疗长虹“暖”科技亮相世界制造业大会 - ageclub.net",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uM2RMY20yd0I3MnVla09mM3dQR2xMdTlLeHcwQkxxeWQ3UGVuYlV6MzQ1OFQyX0ZNYTQxWDdPWUxfWXg5RG1QTDhmbWd5WXVuTi1MeDF0cTlLZUJJb2gzcUZRVmQ5X0kxMHRNUWxoRUhpdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jUThvaURZTjJ5U3BZZ2dNZXdxbFRLaU05M2NLMXNjSWY5em5XTVdaYW1uYVdvUEJ6cmJMT0FfV2RzSloyLWJwdjdBZDl1NnpadklMbw?oc=5"
         },
         {
-          "text": "1-9月累计销售314.7万辆上汽集团9月整车销售40.6万辆_热点推荐 - 证券之星",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jVzhrcjNaOWFMOFlSVDR4c0laZUszSDY2Y28tVW5SQm16WXhmTC1xNVdmZk5qQ2dkU2JYbENIMFYxSndzbmRFWmxnOGl2UXNCLUNNWlFkb0tJZHFqSkViWA?oc=5"
+          "text": "德国新能源卡车制造商计划进军中国市场 - 手机新浪网",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51YUo3M1NPTGZrZ1E4b0Fuem1mUjdmSkNZY1dMNHJiTEpZc1FPMHJKMUF0ZDNtQ3FqbHlVaVJtTWluajRmRkpkeVh3MUR1X1llXzFLSE5FelhzdXVuSkRDX1JXTXZld2dWLTZDY0ItemFybFNac25kVGV4TzF4dzg?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:00",
-          "title": "The eternal complement",
-          "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape…",
+          "time": "00:15",
+          "title": "A model guide for the GPT-6 family",
+          "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate too…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/the-eternal-complement"
+          "url": "https://openai.com/index/practical-guide-building-gpt-6"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:00",
-          "title": "How Albertsons Companies is reimagining retail from the inside out",
-          "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery sho…",
+          "time": "23:49",
+          "title": "Redefining enterprise intelligence with autonomous AI",
+          "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advanc…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/albertsons-reimagining-retail"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
         }
       ],
       "briefs": [
         {
-          "text": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/the-den-family-social"
-        },
-        {
-          "text": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI…",
+          "text": "Don’t be fooled—LLMs don’t reason",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+          "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
         },
         {
-          "text": "Disrupting a coordinated model-distillation campaign",
+          "text": "Chatham scales its capital markets expertise with OpenAI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+          "url": "https://openai.com/index/chatham-financial"
         },
         {
-          "text": "Helping small businesses put AI to work",
+          "text": "The eternal complement",
           "source": "OpenAI",
-          "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+          "url": "https://openai.com/index/the-eternal-complement"
+        },
+        {
+          "text": "How Albertsons Companies is reimagining retail from the inside out",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/albertsons-reimagining-retail"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:13",
-          "title": "The Hidden Challenges of Edge AI Design",
-          "summary": "As models evolve faster than silicon cycles, chip architects must balance flexible compute, data movement, an…",
+          "time": "06:46",
+          "title": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
+          "summary": "Researchers at Infineon Technologies and Technical University of Munich published a technical paper titled “F…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-hidden-challenges-of-edge-ai-design/"
+          "url": "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:12",
-          "title": "AI-Defined Vehicles Push Compute, Memory, And Validation Limits",
-          "summary": "The shift from software-defined to AI-defined vehicles raises questions about whether the hardware can keep u…",
+          "time": "04:15",
+          "title": "HBF for High-Throughput LLM Serving (UC Berkeley, FuriosaAI)",
+          "summary": "Researchers at the UC Berkeley and FuriosaAI published a technical paper titled “Characterizing High Bandwidt…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-defined-vehicles-push-compute-memory-and-validation-limits/"
+          "url": "https://semiengineering.com/hbf-for-high-throughput-llm-serving-uc-berkeley-furiosaai/"
         }
       ],
       "briefs": [
         {
-          "text": "Turning Edge AI Data Into Real-Time Action",
+          "text": "Formal Automotive Security Analysis Of CAN XL (Georgia Tech, QCRI, Purdue)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/turning-edge-ai-data-into-real-time-action/"
+          "url": "https://semiengineering.com/formal-analysis-uncovers-security-flaws-in-can-xl-georgia-tech-qcri-purdue/"
         },
         {
-          "text": "Memory At The Edge: Non-Volatile Memory Challenges And Requirements For Humanoi…",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/memory-at-the-edge-non-volatile-memory-challenges-and-requirements-for-humanoid-robots/"
+          "text": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, R…",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE"
         },
         {
-          "text": "Open Security Foundations Are Only The Beginning: Deploying Caliptra Hardware i…",
+          "text": "The Proof Economy",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/open-security-foundations-are-only-the-beginning-deploying-caliptra-hardware-in-production/"
+          "url": "https://semiengineering.com/the-proof-economy/"
         },
         {
-          "text": "Why LLMs Are The Best Thing To Happen To Chip Design",
+          "text": "Chip Industry Week In Review",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/why-llms-are-the-best-thing-to-happen-to-chip-design/"
+          "url": "https://semiengineering.com/chip-industry-week-in-review-158/"
         }
       ]
     },
@@ -314,24 +314,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:56",
-          "title": "从“大赢家310即时足球”看企业战略的底层逻辑-体坛网_体坛+ - 体坛",
-          "summary": "从“大赢家310即时足球”看企业战略的底层逻辑-体坛网_体坛+ 体坛",
+          "time": "14:08",
+          "title": "Cho Wontae会长获亚太航空中心“亚洲航空公司管理者奖” - 아시아경제",
+          "summary": "Cho Wontae会长获亚太航空中心“亚洲航空公司管理者奖” 아시아경제",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOGtnLUZYNEZEZEdPZFdVR2FFYkJzd1ZYWGFnQlRNdUJlVVRBQlFwZ01KdV9VX0pUTWFZanZaZUlJWlpiYzBnaTJ2YVpXYWtzU09ndEFNQWFKQWNJQzlYTHNKdkE?oc=5"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "08:45",
+          "title": "688496，核心技术人员再离职 - 凤凰网财经",
+          "summary": "688496，核心技术人员再离职 凤凰网财经",
+          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BTTFaczBsaWtlczMwaXB0ZjZrUTZ4QWZLT2NJOHMzNDlybGRxNHhtR29xZFlZRGU0UVBMVUowRzl3cHphbEJ1Q0FRQnVTdURD?oc=5"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "从“大赢家310即时足球”看企业战略的底层逻辑-体坛网_体坛+ - 体坛",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXdzAteG16cDZjOVpxQW5JWUZsRWVhZEZoTG1Kc3RjSzA5SHdySGZQeUVYNk9Pc2dwZnZic3JjaVpxd241VDFiYzZwSjZRNkVGWkhpVGRaVlNIODlvR1E?oc=5"
         },
         {
-          "priority": "重点看点 02",
-          "time": "12:37",
-          "title": "我看西贝（31）｜ 中端崩溃下的消费品企业战略 - 风闻",
-          "summary": "我看西贝（31）｜ 中端崩溃下的消费品企业战略 风闻",
-          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "text": "我看西贝（31）｜ 中端崩溃下的消费品企业战略 - 风闻",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EWHhjakQwbFVsQlBEcUNLU3JkVDVRMmJvOV8wLW5MRlREdlhmangxVWEyV2xxUk1CMlU1V3phRkhVOFdnVjgzVy1MRFNfNDRLNjVMZ1k4VGU4VkJ1SXIwUVQtRWNEZGowaXMxenBPc1VlWnBz?oc=5"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "君逸数码：控股子公司管理制度 - Moomoo",
           "source": "Google News 企业管理",
@@ -341,16 +351,6 @@ window.dailyBrief = {
           "text": "强强联合深耕赛道！马来西亚两大熊猫系企业战略合作，赋能电商物流一体化新发展 - 凤凰网",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4THd0RUVrQ3NQMjVMVzdGbzFaVUlhRTJ2ZF92emgta2V6TkZQYmJaLVlCU1hTZTVnZWJHbnFzYnVKOXBYajc2WHM5Um15czg?oc=5"
-        },
-        {
-          "text": "北元化工：公司管理层高度重视市值管理工作_公司新闻 - 证券之星",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LWFN1V2FTVFNZb0Z5SHg0R1BWY21SdktkN2RjQWxRYVZiRF9FQlFQSEpzSncyTlpHR3d3VGd0T0loa2V6VWRBb0JhSzFpWEhTUEtaSVRGeXVWZWlGb29qdw?oc=5"
-        },
-        {
-          "text": "禾元生物（688765）股东上海同盛永盈企业管理中心(有限合伙)质押200万股，占总股本0.56% - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHRNY3pkRHpvYW9oM3kzRXV1Wk1NaXJqaG9PWTEzemY1YzJ2cTc2N2RZb1NDcnMyQk5rWllPazVhanNkY1duNGxGa2FzcW9UREJNYjhpRHo2bFc4RWJXbzBwSHlPa05tVzAwR1RrdFYxVGJ6R2Q1NXdUaTVrMFc0MkNoMDBMXzNq?oc=5"
         }
       ]
     }
