@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月3日",
+  "publishDate": "2026年10月4日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "车主讲述高速充电“囧途”：有人跑4个服务区排队3小时才充上 有人排队4.5小时…",
+      "title": "车子停得很好，建议去换个新能源 - 手机新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "This new qubit could be 100 times less…",
+      "title": "Powerful simulations reveal how the fir…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:52",
-          "title": "车主讲述高速充电“囧途”：有人跑4个服务区排队3小时才充上 有人排队4.5小时充电还限量 - 新浪财经",
-          "summary": "车主讲述高速充电“囧途”：有人跑4个服务区排队3小时才充上 有人排队4.5小时充电还限量 新浪财经",
+          "time": "10:25",
+          "title": "车子停得很好，建议去换个新能源 - 手机新浪网",
+          "summary": "车子停得很好，建议去换个新能源 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOG5mN19iZ01UTkVLRlV5NnBGa2dIRzR1SG54YkhaeDhkVDRNQ1NZT1AwWERubXF2V05mQl96M2NMQUhMZHUtcmhhQXRqcXlfTTIxeU1wbERGajlqaEpUa3BrbFE5M1J4OVF6cGpmX1YyT2lxeWxKazVVRVk1TnRBajk0VlpZMXpzdlFXQVRjQWI1UnRTRDkzLUl0TkxoZUlHM3p6eXBpbjZfakZ1WjV4ajNrdEhfU0ZrYVNlTXl6cDRpLWdBOXEyLTVvYTM4Z3lGY1RPMGxSbEdIREhjdF9qbUVFOUVhQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV1FkSkpZSkZUZF9Mbkp3Nlhwb01ZYU9JY1ZPb2h4OEtzTUhIdXZEd3BOajh2emwyaTFzWTZxR0p2Y3c0YXlHSUlscVU5VlNTelpSd2FuUWRPWk1QNzN4YmJ1RUI0MFZ0cEdiY0NqcVpPM1U3OVNRejk2eVJDQWVDNg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:40",
-          "title": "新能源车主，国庆假日出行请查收这份“充电服务清单”↓_时政新闻 - 大众网",
-          "summary": "新能源车主，国庆假日出行请查收这份“充电服务清单”↓_时政新闻 大众网",
+          "time": "10:11",
+          "title": "15万预算买新能源SUV选哪款，选极狐阿尔法T7不用做功课 - 手机新浪网",
+          "summary": "15万预算买新能源SUV选哪款，选极狐阿尔法T7不用做功课 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrVXkwbzBTUzd6RjVmZXhnUVdncWZrb0M0YmJvMEVNZ3VBeklYa3F0NjF3YUZtMlNlejIwWkZoalJhYVNWUFFieG1MMmJTRnk2MW83aS1YT0laS2luSGFjbHhTcWxsdlhGWmNuUkczbHFubng0N1Ixek9jNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJMU5GLXFXRFRVU19fZ0hxSEZ1cEN1UHhBeUpGMUR1Nk9EM3VkQzhWVVp3MGF3bjZDMHNhYk83RzViSFZzT2V3ZzNVbDc4UXNyakVOVzQ5RGhONHlneFJ4MzhUbEZHaUpZaktuYnNELW94TVNySXNqV29Kby12dmM?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "三款近期上市的新能源豪华SUV横评：谁真正打碎了场景边界？ - 手机新浪网",
+          "text": "新能源，和枝枝小时候一样肥美。 ​ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1yeWVqYzhSWGlBM2dNSWR2MklLQ2toR3dEQjVubHBHeWNXSC1tRkNsbFdpZGhPdGFsSXloajJuMUhkRnJzUEx4VVZ2ZWkwRXNMcG5aSmdYZGlUZUxoOVk4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTjhRM2p5WTNnOFRET3RsU1FEWXdadkVIaW5kVVBxX3ZyQTB4aGJVcG9UY0NETV9MVFc2R0lwcnZqVjh2V3MtSWtiUl9tOEduWmYwQ2JzX3ZDSDdoaVYtNE03UFZaYnZfbUhYOGFzbEpyS0htUy1NeUdSNFB5R3pzWQ?oc=5"
         },
         {
-          "text": "宝马第六代圆柱电池获新能源技术大奖：800V架构，续航提升30%！ - 汽车之家",
+          "text": "充到80%必须离场，10个充电特别繁忙服务区公布 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sb3lDS1JqVG5XRk9hXzNCNUgwWjhLVlNNVmxVX0JuNmdRRXFtbUk4cHBnc2htZlB4QmJQZURMYTZJQm42cG9CMEtzelptbnR5a3I0RzN0RXZzYTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ibmk3bGZZVnBfdnVnNm5jazZFQzdnVFN0dTJvcUVObFVkWVdXMHJzT212a1lkTVpuSzhmc3ZENDd1ZXN5N2g4Qk1hQUhWdGtQc19yWmFFWWVkZk8wSUpvWXYzOGdlQTl0TXQ5X3pyZElUaVNzMU90aHJBcmZGQjg?oc=5"
         },
         {
-          "text": "从川剧变脸到尖端放疗长虹“暖”科技亮相世界制造业大会 - ageclub.net",
+          "text": "15万预算买新能源SUV选哪款，纠结大半年才懂极狐阿尔法T7 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jUThvaURZTjJ5U3BZZ2dNZXdxbFRLaU05M2NLMXNjSWY5em5XTVdaYW1uYVdvUEJ6cmJMT0FfV2RzSloyLWJwdjdBZDl1NnpadklMbw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBweDNjU0dHZEVZajJaQzhJNU5NU1NaSXdhYTNMbDgyRTlONzRLekFRQkhnUVdFZVJtSVI1dk5sVFYzcjF0TFBlMDdQRFlQSDRRZjN4blJZekVqMHBFYlNydjZLU3N6bS1PRFRhQS1sdjFJWEVfMlNiTDVDNGc5d1k?oc=5"
         },
         {
-          "text": "德国新能源卡车制造商计划进军中国市场 - 手机新浪网",
+          "text": "15万预算买新能源SUV选哪款，极狐阿尔法T7颜值与空间兼得 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51YUo3M1NPTGZrZ1E4b0Fuem1mUjdmSkNZY1dMNHJiTEpZc1FPMHJKMUF0ZDNtQ3FqbHlVaVJtTWluajRmRkpkeVh3MUR1X1llXzFLSE5FelhzdXVuSkRDX1JXTXZld2dWLTZDY0ItemFybFNac25kVGV4TzF4dzg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZNzFPV20tbWgxUUNfR2J1T05lR1JCLXF4SG9IMU5YYXFIdF9Ja1NxT2JRQ1RzTnBrVGxNVkJ3OW5ndjdsY2tqRk5MbmlvRDd0U1JiMzI5emtBdW96dkxZVnl0dUJBUnd5Nlo4c2x6RVRJYWRCSXY2NFEzbmVfOG8?oc=5"
         }
       ]
     },
@@ -74,43 +74,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:17",
-          "title": "This new qubit could be 100 times less error-prone in superfluid quantum computer breakthrough",
-          "summary": "A proposed qubit made with superfluid helium could cut quantum computing error rates by around 100 times by s…",
+          "time": "20:50",
+          "title": "Powerful simulations reveal how the first stars changed the universe",
+          "summary": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with ele…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:03",
-          "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
-          "summary": "UCLA researchers built an AI system that uses light to analyze more than a dozen videos simultaneously, detec…",
+          "time": "19:08",
+          "title": "Scientists just pushed superconductors beyond their usual current limit",
+          "summary": "Ultrashort electrical pulses allowed scientists to push superconductors closer than ever to the point where t…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930225452.htm"
         }
       ],
       "briefs": [
         {
+          "text": "Electrons slow to a crawl in a strange new quantum state",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm"
+        },
+        {
+          "text": "This new qubit could be 100 times less error-prone in superfluid quantum comput…",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm"
+        },
+        {
+          "text": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm"
+        },
+        {
           "text": "Caltech physicists finally measure a quantum energy ladder predicted 40 years a…",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260928100554.htm"
-        },
-        {
-          "text": "Quantum teleportation breakthrough: Scientists crack a 25-year entanglement cha…",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260929053550.htm"
-        },
-        {
-          "text": "Quantum computing’s “dark horse” just proved it can go universal",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260924020403.htm"
-        },
-        {
-          "text": "Distant time crystals can somehow fall into the same rhythm",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm"
         }
       ]
     },
@@ -314,24 +314,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "05:59",
+          "title": "开元app官方入口最新版与某知名旅游公司战略合作后，首个项目落地旅行特权！ - 体坛",
+          "summary": "开元app官方入口最新版与某知名旅游公司战略合作后，首个项目落地旅行特权！ 体坛",
+          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBucHk1NFlwWGdlaHlRRmstNXVmM3RsQjU2XzgzUHZJSWQ2Q0lkcmpTMXFUSXNqeVNhRmlqTU1xM0JUV29Cd3ZTeXc1ZFhyd1BPVDNrTExQZXJoa3ItLUE?oc=5"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "14:08",
           "title": "Cho Wontae会长获亚太航空中心“亚洲航空公司管理者奖” - 아시아경제",
           "summary": "Cho Wontae会长获亚太航空中心“亚洲航空公司管理者奖” 아시아경제",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOGtnLUZYNEZEZEdPZFdVR2FFYkJzd1ZYWGFnQlRNdUJlVVRBQlFwZ01KdV9VX0pUTWFZanZaZUlJWlpiYzBnaTJ2YVpXYWtzU09ndEFNQWFKQWNJQzlYTHNKdkE?oc=5"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "08:45",
-          "title": "688496，核心技术人员再离职 - 凤凰网财经",
-          "summary": "688496，核心技术人员再离职 凤凰网财经",
-          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BTTFaczBsaWtlczMwaXB0ZjZrUTZ4QWZLT2NJOHMzNDlybGRxNHhtR29xZFlZRGU0UVBMVUowRzl3cHphbEJ1Q0FRQnVTdURD?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "688496，核心技术人员再离职 - 凤凰网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BTTFaczBsaWtlczMwaXB0ZjZrUTZ4QWZLT2NJOHMzNDlybGRxNHhtR29xZFlZRGU0UVBMVUowRzl3cHphbEJ1Q0FRQnVTdURD?oc=5"
+        },
         {
           "text": "从“大赢家310即时足球”看企业战略的底层逻辑-体坛网_体坛+ - 体坛",
           "source": "Google News 商业分析",
@@ -343,14 +348,9 @@ window.dailyBrief = {
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EWHhjakQwbFVsQlBEcUNLU3JkVDVRMmJvOV8wLW5MRlREdlhmangxVWEyV2xxUk1CMlU1V3phRkhVOFdnVjgzVy1MRFNfNDRLNjVMZ1k4VGU4VkJ1SXIwUVQtRWNEZGowaXMxenBPc1VlWnBz?oc=5"
         },
         {
-          "text": "君逸数码：控股子公司管理制度 - Moomoo",
+          "text": "WorkBuddy又有大动作：打通账号体系，让企业管理可控 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbXU5dVl0Rl9zczVQblBTQWdkZVN4VWhIWHdZcXlOajFfNDhld2h4NzhrSVhUWWlNeFBEVnlsUVhSTGNCc0xWXzMtc3JLeVRiTm42c1BlcjNsM0NmQ1NocTlHWWR6X1VJeHdJNDBKQm9rZVpncFBBaDVEOU9aang1aC01UFFxbVBiZGdmbmFYUVBnaHViTExlQ1hNU001MkNJY2dwc2o4ZVZraEpESEY3TzZBaw?oc=5"
-        },
-        {
-          "text": "强强联合深耕赛道！马来西亚两大熊猫系企业战略合作，赋能电商物流一体化新发展 - 凤凰网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4THd0RUVrQ3NQMjVMVzdGbzFaVUlhRTJ2ZF92emgta2V6TkZQYmJaLVlCU1hTZTVnZWJHbnFzYnVKOXBYajc2WHM5Um15czg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xZTVmRExXelIwMVN6NXhPek9QWFpWT0NVZUhuQTg3NWZRSHFxU3hKYTZ4WHV2SUtKUmVmNWtIS1hNNHFncmMwWFczQy0tTUVWR3hLaTlrQVpwTlgzZXFBSA?oc=5"
         }
       ]
     }
