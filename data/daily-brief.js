@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月4日",
+  "publishDate": "2026年10月5日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "车子停得很好，建议去换个新能源 - 手机新浪网",
+      "title": "财经聚焦丨假期电车出行迎充电考验，补能焦虑如何破局 - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:25",
-          "title": "车子停得很好，建议去换个新能源 - 手机新浪网",
-          "summary": "车子停得很好，建议去换个新能源 手机新浪网",
+          "time": "09:47",
+          "title": "财经聚焦丨假期电车出行迎充电考验，补能焦虑如何破局 - 新浪财经",
+          "summary": "财经聚焦丨假期电车出行迎充电考验，补能焦虑如何破局 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV1FkSkpZSkZUZF9Mbkp3Nlhwb01ZYU9JY1ZPb2h4OEtzTUhIdXZEd3BOajh2emwyaTFzWTZxR0p2Y3c0YXlHSUlscVU5VlNTelpSd2FuUWRPWk1QNzN4YmJ1RUI0MFZ0cEdiY0NqcVpPM1U3OVNRejk2eVJDQWVDNg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1rQS0zOW9rX2Myb2ZqMERjMDhtUTdRd1VjLVZoOHU2MkcxRURoZm5PQW5mMEw2dm1Ua2lOX1BPNWRTVVV6MEZJdUpLSG9BejVyd3dnUGxsZEgyakZiSGU4NFVmbUE3Y3BjZFdlNm1CZHlwWlBZakptSQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:11",
-          "title": "15万预算买新能源SUV选哪款，选极狐阿尔法T7不用做功课 - 手机新浪网",
-          "summary": "15万预算买新能源SUV选哪款，选极狐阿尔法T7不用做功课 手机新浪网",
+          "time": "09:46",
+          "title": "穆希娅：新能源汽车转型进入新阶段，韧性、竞争与合作是关键_车市动态 - auto.cnfol.com",
+          "summary": "穆希娅：新能源汽车转型进入新阶段，韧性、竞争与合作是关键_车市动态 auto.cnfol.com",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJMU5GLXFXRFRVU19fZ0hxSEZ1cEN1UHhBeUpGMUR1Nk9EM3VkQzhWVVp3MGF3bjZDMHNhYk83RzViSFZzT2V3ZzNVbDc4UXNyakVOVzQ5RGhONHlneFJ4MzhUbEZHaUpZaktuYnNELW94TVNySXNqV29Kby12dmM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFM2NETTluTzEwN0tDYUdGMExQN09KSzRNZ2FBSHBnVmE1SGNxaG5WMVZOdnpaM2NIRDdBelZKck1JTld2MzhFcXpUMlZ3T1M5LTRPYk1GVzdxUVJJWUw4NnM5bUJDMVVUUDhB?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "新能源，和枝枝小时候一样肥美。 ​ - 手机新浪网",
+          "text": "充电至80%强制离场！假期部分高速服务区出台新规，对新能源车有影响吗？ - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTjhRM2p5WTNnOFRET3RsU1FEWXdadkVIaW5kVVBxX3ZyQTB4aGJVcG9UY0NETV9MVFc2R0lwcnZqVjh2V3MtSWtiUl9tOEduWmYwQ2JzX3ZDSDdoaVYtNE03UFZaYnZfbUhYOGFzbEpyS0htUy1NeUdSNFB5R3pzWQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxPMGdhdmtPRmVOODNyYm5EdmFzemFtZ3hXdm9zNU11YUlUZGw2UUphZVQtUjBydk5Hc3ZJZExKbjFGb3lCWmlDN1B2VUpiQ2xrNENaWTZ4bUxWalRSQ0w2eGVCMjVkLU9MajFKdGpGbkEzeTVQc0ZXVzE2UUpzblV3QU1RR3NQN29DM25HYjdHMGp5TlVvaDZHLXpsaGo4RFdCUEZtRlZHdTZROW12YWUtYWhTRWpnM3cxbnVqR0pmYlA1RDBsRkp3dGkxU3NrT2l0SEpSOEpXVTZ3Ny0xQjljcmc5a2REbm85Q0RIc3JBRms2emlDdlBkNnBBb2lFZXhYOEg4UWVqaFpldTZVQnZmTlZYYVBwbzZNdXp4ek0xVFRISFEyamFuNy1wVEtrTGRxNG5mRmNRaFNCbDM0NUVONjZsZ25xXzdTVk1EemZ0bFQtWW1ZM0hWcExTaFNSSjVBcFdORktGZGJDVDFVV1BNT3UwMDM5OVNIRGc1aUJzQkFiTXlnaUJUb1BGMkEzV096OUtQNWo1OWYwT2g1QTdWTjg5RVZRLTZZZ20wdmdic0Rhb0ZzY2p1ckNEN2lEaVp5ZE1BQmNoaWliWk1UeHhqeUNaTkVuXzVLSVlBTmxjd0ZQZw?oc=5"
         },
         {
-          "text": "充到80%必须离场，10个充电特别繁忙服务区公布 - 手机新浪网",
+          "text": "迁安智储新能源有限公司20万千瓦独立储能项目(EPC)招标公告 - 碳索储能网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ibmk3bGZZVnBfdnVnNm5jazZFQzdnVFN0dTJvcUVObFVkWVdXMHJzT212a1lkTVpuSzhmc3ZENDd1ZXN5N2g4Qk1hQUhWdGtQc19yWmFFWWVkZk8wSUpvWXYzOGdlQTl0TXQ5X3pyZElUaVNzMU90aHJBcmZGQjg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfdGhuMzVpVzZTUGh0MnhFMWtkbURGWHNqVVo1Snd4TzM2ME9Ic1ZTOHc5NW1iUTl4dElNU05HSF8ydzJUOE9Ma1E1dnVVVF81R0FheUtKektQRU04Vk5UcA?oc=5"
         },
         {
-          "text": "15万预算买新能源SUV选哪款，纠结大半年才懂极狐阿尔法T7 - 手机新浪网",
+          "text": "东营国瓷硫化物固态电解质产线落成，山东加速布局固态电池赛道 - 碳索储能网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBweDNjU0dHZEVZajJaQzhJNU5NU1NaSXdhYTNMbDgyRTlONzRLekFRQkhnUVdFZVJtSVI1dk5sVFYzcjF0TFBlMDdQRFlQSDRRZjN4blJZekVqMHBFYlNydjZLU3N6bS1PRFRhQS1sdjFJWEVfMlNiTDVDNGc5d1k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10OUhudDI4MW9IMmZYbVJSN1hYUUllY0NhdFl5d0EyemhmbG5FLThaWW5RaEQ0U2I5OE45N0JlVFhBUW1CQlEzdkFWZ2RMaGVxXzN3WFdiRktxMWlZb1ltbQ?oc=5"
         },
         {
-          "text": "15万预算买新能源SUV选哪款，极狐阿尔法T7颜值与空间兼得 - 手机新浪网",
+          "text": "高速服务区新能源汽车泊停冒白烟 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZNzFPV20tbWgxUUNfR2J1T05lR1JCLXF4SG9IMU5YYXFIdF9Ja1NxT2JRQ1RzTnBrVGxNVkJ3OW5ndjdsY2tqRk5MbmlvRDd0U1JiMzI5emtBdW96dkxZVnl0dUJBUnd5Nlo4c2x6RVRJYWRCSXY2NFEzbmVfOG8?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOHQ4REJacTJfcGtDeXRsN2J1bGhsaWdmMFNCaFozbHV3ZG9JeVN2d3d0ZlRiOUl3UXc3NUQ1YVdXX3RJaVI2c015WTZFY1l6T3IxbzBYTEdqOW43Q3lkX1JFVW5XT2RtQjFqUk56cHE0c1BNYTQ5THJlNGxVQjcxYQ?oc=5"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Who gets to shape AI? UN debate centres on power, trust and inclusion",
-          "summary": "Artificial Intelligence or AI – and the technology behind it – is moving fast. The question being asked acros…",
+          "title": "Beyond the Moon: Space Week around the world",
+          "summary": "Right after the Soviet Union launched Sputnik in 1957, UNOOSA, the UN Office for Outer Space Affairs, was est…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168498"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168517"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban proves lifesaver",
-          "summary": "UN teams are racing to protect families in Gaza from the coming rainy season, but restricted access to land a…",
+          "title": "‘He felt heard’: How a film brought a UN report to life in Xochimilco",
+          "summary": "A documentary drawn from United Nations University research was screened at the COP30 climate conference and…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168496"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168492"
         }
       ],
       "briefs": [
         {
-          "text": "Could a new global panel defuse inequality’s ‘ticking time bomb’?",
+          "text": "Rotting food waste emits 5 times more greenhouse gases than planes",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168489"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168507"
         },
         {
-          "text": "Somali families face renewed violence amid worsening hunger crisis",
+          "text": "Uganda’s UN-supported wildlife forensics lab turns ivory seizures into convicti…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168495"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168469"
         },
         {
-          "text": "Homicides fall as organised crime grows more profitable – and networked",
+          "text": "‘Money alone won’t get us there’: UN steps up aid for 12 forgotten crises",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168493"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168516"
         },
         {
-          "text": "Malaysia: UN agency urges safeguards after refugees returned to Myanmar",
+          "text": "Global life expectancy bounces back to near pre-pandemic levels, WHO says",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/09/1168491"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168515"
         }
       ]
     },
@@ -314,31 +314,36 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "05:59",
-          "title": "开元app官方入口最新版与某知名旅游公司战略合作后，首个项目落地旅行特权！ - 体坛",
-          "summary": "开元app官方入口最新版与某知名旅游公司战略合作后，首个项目落地旅行特权！ 体坛",
+          "time": "15:42",
+          "title": "中文在线拟定增募资不超28.33亿元，两日后深交所创业板公司管理部发函问询五方面 - 凤凰网",
+          "summary": "中文在线拟定增募资不超28.33亿元，两日后深交所创业板公司管理部发函问询五方面 凤凰网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBucHk1NFlwWGdlaHlRRmstNXVmM3RsQjU2XzgzUHZJSWQ2Q0lkcmpTMXFUSXNqeVNhRmlqTU1xM0JUV29Cd3ZTeXc1ZFhyd1BPVDNrTExQZXJoa3ItLUE?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5relZoMUVvVUdmMW80Y3ByZmYza2lzX2VqaHNPVGZFTzd6QzVXY3hSaDZ4cVNtTDB1YjhCdkwxR0gwSUJtN05sUU84UDJhT3pB?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "14:08",
-          "title": "Cho Wontae会长获亚太航空中心“亚洲航空公司管理者奖” - 아시아경제",
-          "summary": "Cho Wontae会长获亚太航空中心“亚洲航空公司管理者奖” 아시아경제",
+          "time": "12:00",
+          "title": "大树落地辅导创始合伙人、中小企业战略专家李亮表示，定位之父艾·里斯首创“一道菜”战略，成为当下打造全球餐饮品牌基本规律 - QQ News",
+          "summary": "大树落地辅导创始合伙人、中小企业战略专家李亮表示，定位之父艾·里斯首创“一道菜”战略，成为当下打造全球餐饮品牌基本规律 QQ News",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FOGtnLUZYNEZEZEdPZFdVR2FFYkJzd1ZYWGFnQlRNdUJlVVRBQlFwZ01KdV9VX0pUTWFZanZaZUlJWlpiYzBnaTJ2YVpXYWtzU09ndEFNQWFKQWNJQzlYTHNKdkE?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rdjVYYTZPOWxsX3lTN3A1TGZ4OFRQRTJKRjk5MGoybmxUd2lhNm9CUHpSb2JPeUJuTGZwWV9XSHVpd1NyOV8wajVaczg3ZDg1RU4xTkVn?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "688496，核心技术人员再离职 - 凤凰网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BTTFaczBsaWtlczMwaXB0ZjZrUTZ4QWZLT2NJOHMzNDlybGRxNHhtR29xZFlZRGU0UVBMVUowRzl3cHphbEJ1Q0FRQnVTdURD?oc=5"
+          "text": "开元app官方入口最新版与某知名旅游公司战略合作后，首个项目落地旅行特权！ - 体坛加",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBucHk1NFlwWGdlaHlRRmstNXVmM3RsQjU2XzgzUHZJSWQ2Q0lkcmpTMXFUSXNqeVNhRmlqTU1xM0JUV29Cd3ZTeXc1ZFhyd1BPVDNrTExQZXJoa3ItLUE?oc=5"
         },
         {
-          "text": "从“大赢家310即时足球”看企业战略的底层逻辑-体坛网_体坛+ - 体坛",
+          "text": "延时运营、优化间隔，国庆期间济南地铁全方位保障市民出行 - 凤凰网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1N2xnTGhNY0M5T1cxUENIUHJCeHVoS0Z5Nzd2M2t3cXp6QWx1UFlXcTd3X05OaVQ2VGFGeC04UmlIM3IzRGVSQw?oc=5"
+        },
+        {
+          "text": "从“大赢家310即时足球”看企业战略的底层逻辑-体坛网_体坛+ - 体坛加",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBXdzAteG16cDZjOVpxQW5JWUZsRWVhZEZoTG1Kc3RjSzA5SHdySGZQeUVYNk9Pc2dwZnZic3JjaVpxd241VDFiYzZwSjZRNkVGWkhpVGRaVlNIODlvR1E?oc=5"
         },
@@ -346,11 +351,6 @@ window.dailyBrief = {
           "text": "我看西贝（31）｜ 中端崩溃下的消费品企业战略 - 风闻",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EWHhjakQwbFVsQlBEcUNLU3JkVDVRMmJvOV8wLW5MRlREdlhmangxVWEyV2xxUk1CMlU1V3phRkhVOFdnVjgzVy1MRFNfNDRLNjVMZ1k4VGU4VkJ1SXIwUVQtRWNEZGowaXMxenBPc1VlWnBz?oc=5"
-        },
-        {
-          "text": "WorkBuddy又有大动作：打通账号体系，让企业管理可控 - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xZTVmRExXelIwMVN6NXhPek9QWFpWT0NVZUhuQTg3NWZRSHFxU3hKYTZ4WHV2SUtKUmVmNWtIS1hNNHFncmMwWFczQy0tTUVWR3hLaTlrQVpwTlgzZXFBSA?oc=5"
         }
       ]
     }
