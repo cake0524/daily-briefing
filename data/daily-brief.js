@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月6日",
+  "publishDate": "2026年10月7日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "拒绝新能源！ 揭秘“反潮流”的美国皮卡新势力 - 车家号",
+      "title": "中国新能源正在从\"补充能源\"转向\"主力能源\"，谁来承担煤电退出的代价？ - 新…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Security, sacrifice or opportunity: Vis…",
+      "title": "From drought to deluge: ‘Super’ El Niño…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:04",
-          "title": "拒绝新能源！ 揭秘“反潮流”的美国皮卡新势力 - 车家号",
-          "summary": "拒绝新能源！ 揭秘“反潮流”的美国皮卡新势力 车家号",
+          "time": "10:19",
+          "title": "中国新能源正在从\"补充能源\"转向\"主力能源\"，谁来承担煤电退出的代价？ - 新浪财经",
+          "summary": "中国新能源正在从\"补充能源\"转向\"主力能源\"，谁来承担煤电退出的代价？ 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xV282a3A5RWdpMjNzSGIxRTNjdmh0aHk4S1Yzck42MzFjTFRwRjhYR2xLcFQwT2E1THV0TFBiNVAyMV9CM3VHWWlYMi1DZWZSajVyQ1QzQ18wMUk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNanNwblJBZXBMMk84S2ZkSzBsYVp4S182WVhGVUk5bHhXbE5HbW1hQlI1bHBWSGFwM1NvaXNXVUNtbWp0akxhQU5jVjFkaVNzdDROTTdpTm9HRlNVMUhpSGo4UmdrenlJOTJKVHlRNHkyUGhrdVBwWWpLTTlUamJMVGsxQlVpdmp3ZkJVVVl6Y0RpY2haX0o4RA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:02",
-          "title": "每日消息（共同社） - 详讯：日本大型制造企业DI连续六个季度改善 - 客观日本",
-          "summary": "每日消息（共同社） - 详讯：日本大型制造企业DI连续六个季度改善 客观日本",
+          "time": "10:09",
+          "title": "2026新能源越野SUV横评：当三把锁遇上900mm涉水，谁才是穿越与舒适兼修的终极答案？ - 手机新浪网",
+          "summary": "2026新能源越野SUV横评：当三把锁遇上900mm涉水，谁才是穿越与舒适兼修的终极答案？ 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5QR0ZLazEzUmp2ZVl4Z1lEYW9HNzZxTWFMQ1diX3RLN1Q5NUdLQ29ucWk3Z1J0bkZUc1lXWWFvcW40MHpfTWxfc19OUmpNRXFUb2czLUg2cV9Wak1kU1dadHBzdVI3Z0t1QkN4dQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVMWdiaHQ2blNCb2lldTliY3NDQzA4czV5ZmlWMkFHalFWNGMzaFVnUEFOcnhfVnEwNEJWN2kyUHVZbjY4OGpBcnE4a19MWU5hOUl0QVNGQ2c1a3c1Q01N?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "周末想去山里撒野，坦克300L新能源和传祺越7的区别有多大？ - 车家号",
+          "text": "Chevron宣布石油、天然气和新能源业务的领导层变动 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45dUxvUjJOQVFnT0xhZ2RRZ3dndUNHSFRjZE82aUY1d2RKVS0yTk8yWUVIWENidnhaYk92ejZyaDRlcGIwRXpSVXZWeUEzX1NBYVF5RVA5N1ZPZUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3NwOXNsSnBSamk0cDNxakxuZ0htaElVRFZJaW9ZRWpudlBpRWFZZjlQeno2bU5xakdYWEczZ0hSMGQyZDdsQUtYMi1RaU9udUtSRnhsNFBXZ1BzV2pTUktpOWJjbHZldE1NWTFObzd4b0IzVFhGT0NjeFowTGdOR29HdFlDQjc2SDNfSQ?oc=5"
         },
         {
-          "text": "国庆首日高速公路充电量创历史新高，假日前三日同比增近5成，机构称政策支持下充电桩市场份额有望进一步扩大 - 财联社",
+          "text": "总投资4.3亿元！临沂200MW/400MWh独立储能项目获环评批复 - 碳索储能网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE00T1ZkSUdKTHBCTVE0OE9UdDZYRjNGRlVEeHBRQkdvb3N3dVctaXpPNTdyNGRNelpXYjQwQnE3NFNYNlBMZFhDWQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xSXRVS0d1UmtVRTd0c0dTRHdDMTRENFYzQ1NjcDM0YWdjTXlQaG14UVVlaXFsT2RGXzNSdGM5ek44Z1FqNFFKYVZvTXhaYmtRVU5qcU1KOC0yMUdSQ3Q2dA?oc=5"
         },
         {
-          "text": "庆铃汽车股份：订立新能源商用车回购协议 最高回购价款不超1263.6万元 - 新浪财经",
+          "text": "交银国际：新能源汽车终端需求仍具支撑 建议关注小鹏集团-W等 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWnZ3UUl6eTI5d1MySTAtRk81Q3BEVzhreUtJRU4zck90al8wNFRFei03dlFOSE1aMGNXV29CNi01RVc2SFZfbGRJeWdaeFA0VzdSYmtTTElVaUVUc1dTVHRWUjJucGxvTFNKNEdxVDBJX1Rpb0d5Z01tendqMVQzNThaN2lfaGxzcnc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYWxhRmc2elg1SzFoQi1zTnRBSDFhZVJ4M2s5a0NaNFUydm1lbjdjSzJ2Z2dqT2drMFdsVTlzRFZTTDl1YWE4R3JNMjUtb1ZjY3RYT3MzQVpQSkpDbWlWMzY5NWZnYmlFQXFxNmI0ZTZUTENxNGV5WFFYOXVxdnFkSEF3?oc=5"
         },
         {
-          "text": "新能源设备的裂解回收：聚焦于晶硅光伏组件和锂离子电池 - 生物通",
+          "text": "交银国际：新能源汽车终端需求仍具支撑 建议关注小鹏集团-W等 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTFlZb1Nfc2FzMXZaM3F6MFFxOHNFem1ocVdhMk1iSzdJdnVodVdNeFNxWEZTWGNQV251SkIwRUdRRzIwRnQ2SGU5MFpaYVZPa3BQRzJxV0NrTGxIZE55clZQcVlhcHEzVmNubXZ3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52TWdmQU1MYlVFUXlRVXppU0dxOHF0aHpGYXpFclFhR1lGa1pYLU1VTzBUS2hTTzRyc3YxM3FSbTRmV194Y3hsLWhlSHJGSjJCZ2Z5X05DM0pqN2JhVDVVMVBSNzZmNGVYb19FcTc0Y3BXWm5mX2FfNlg4NXBTMEU?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Security, sacrifice or opportunity: Visions differ over effective climate action",
-          "summary": "Should the world move away sharply from fossil fuels, or manage a slower, more careful retreat?",
+          "title": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
+          "summary": "Across Papua New Guinea, water sources are drying up, crops are failing and food prices are rising months bef…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168526"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168537"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Extreme heat making pregnancy a ‘new fault line’ in climate crisis",
-          "summary": "Pregnancy and childbirth have become a “new fault line in the global climate crisis” as extreme heat worsens,…",
+          "title": "Djibouti faces ‘overlapping emergencies’ as Yemen’s refugee exodus continues",
+          "summary": "Djibouti is facing “overlapping emergencies” as refugees fleeing the conflict in Yemen arrive on its shores w…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168522"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168535"
         }
       ],
       "briefs": [
         {
-          "text": "ICC unseals four arrest warrants over Taliban persecution of women and girls",
+          "text": "Testing and monitoring underway in suspected Russia plague death",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168521"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168533"
         },
         {
-          "text": "UN upholds housing as a human right on World Habitat Day",
+          "text": "In Islamabad, Guterres calls for end to US-Iran conflict",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168520"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168532"
         },
         {
-          "text": "Sudan: Driver killed in aerial attack on aid trucks in South Kordofan",
+          "text": "‘Ebola takes the people children depend on’: UNICEF",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168519"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168531"
         },
         {
-          "text": "One day behind bars: Students and incarcerated women break prison stigma in Tha…",
+          "text": "When streets become pharmacies: Booming illicit markets in Central Africa",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168518"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168527"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:47",
-          "title": "Connecting AI agents to enterprise knowledge",
-          "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curi…",
+          "time": "00:00",
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/atlassian-partnership"
         },
         {
           "priority": "重点看点 02",
-          "time": "23:00",
-          "title": "Our approach to EU text provenance rules",
-          "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works…",
+          "time": "20:00",
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multipl…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/eu-text-provenance"
+          "url": "https://openai.com/index/jump-trading"
         }
       ],
       "briefs": [
         {
-          "text": "Bringing predictive analytics to the agentic AI era",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
-        },
-        {
-          "text": "Building advertising for the way people use AI",
+          "text": "Sharing AI progress in mathematics",
           "source": "OpenAI",
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
         },
         {
-          "text": "People really hate AI, so why can’t they get enough?",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
+          "text": "Advancing computer use with Ironclad",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
         },
         {
-          "text": "EmTech Future 2026: When AI Meets Everything",
+          "text": "Connecting AI agents to enterprise knowledge",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
+          "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
+        },
+        {
+          "text": "Our approach to EU text provenance rules",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/eu-text-provenance"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:07",
-          "title": "Backside Clock Meshes Cut Skew and Power in 2nm Nanosheets (UCSC)",
-          "summary": "Researchers at the University of California, Santa Cruz published a technical paper titled “Design Space Expl…",
+          "time": "05:45",
+          "title": "Ultra-Compact Photonic Bends Reduce Loss While Meeting Foundry Rules (Georgia Tech)",
+          "summary": "Researchers at Georgia Institute of Technology published a technical paper titled “Low-loss ultra-compact pho…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/backside-clock-meshes-cut-skew-and-power-in-2nm-nanosheets-ucsc/"
+          "url": "https://semiengineering.com/ultra-compact-photonic-bends-reduce-loss-while-meeting-foundry-rules-georgia-tech/"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:25",
-          "title": "Reducing Contact Resistance Pushes 2D Transistors Toward Advanced CMOS (HUST, PolyU, UCSB, NUS)",
-          "summary": "Researchers at Huazhong University of Science and Technology, Hong Kong Polytechnic University, University of…",
+          "time": "05:29",
+          "title": "Monolithic 3D Memristor-TFT Stack For Programmable Neuromorphic Computing (SNU, Yonsei)",
+          "summary": "Researchers at Seoul National University and Yonsei University published a technical paper titled “Monolithic…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/reducing-contact-resistance-pushes-2d-transistors-toward-advanced-cmos-hust-polyu-ucsb-nus/"
+          "url": "https://semiengineering.com/monolithic-3d-memristor-tft-stack-for-programmable-neuromorphic-computing-snu-yonsei/"
         }
       ],
       "briefs": [
         {
-          "text": "Row-Parallel DRAM Computing Cuts Data-Reorganization Overhead (Syracuse, FAU, T…",
+          "text": "Programmable Memory Controller Eases Adoption of New DRAM Techniques (ETH Züric…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/row-parallel-dram-computing-cuts-data-reorganization-overhead-syracuse-fau-tu-dresden/"
+          "url": "https://semiengineering.com/programmable-memory-controller-eases-adoption-of-new-dram-techniques-eth-zurich-cispa-nyu/"
         },
         {
-          "text": "The Agentic AI Super Cycle",
+          "text": "Chip Industry Technical Paper Roundup: Oct. 6",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-agentic-ai-supercycle/"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-6/"
         },
         {
-          "text": "Extreme Environments Push Chips To Their Breaking Point",
+          "text": "Advancing The CFET-Based Device Roadmap: Novel Integration Modules And Standard…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/extreme-environments-push-chips-to-their-breaking-point/"
+          "url": "https://semiengineering.com/advancing-the-cfet-based-device-roadmap-novel-integration-modules-and-standard-cell-configurations-2/"
         },
         {
-          "text": "Tracing Hardware Design From Physical Devices to RTL (Infineon, TU Munich)",
+          "text": "Backside Clock Meshes Cut Skew and Power in 2nm Nanosheets (UCSC)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/tracing-hardware-design-from-physical-devices-to-rtl-infineon-tu-munich/"
+          "url": "https://semiengineering.com/backside-clock-meshes-cut-skew-and-power-in-2nm-nanosheets-ucsc/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Security, sacrifice or opportunity: Visions differ over effective climate action",
-          "summary": "Should the world move away sharply from fossil fuels, or manage a slower, more careful retreat?",
+          "title": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
+          "summary": "Across Papua New Guinea, water sources are drying up, crops are failing and food prices are rising months bef…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168526"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168537"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Extreme heat making pregnancy a ‘new fault line’ in climate crisis",
-          "summary": "Pregnancy and childbirth have become a “new fault line in the global climate crisis” as extreme heat worsens,…",
+          "title": "Djibouti faces ‘overlapping emergencies’ as Yemen’s refugee exodus continues",
+          "summary": "Djibouti is facing “overlapping emergencies” as refugees fleeing the conflict in Yemen arrive on its shores w…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168522"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168535"
         }
       ],
       "briefs": [
         {
-          "text": "ICC unseals four arrest warrants over Taliban persecution of women and girls",
+          "text": "Testing and monitoring underway in suspected Russia plague death",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168521"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168533"
         },
         {
-          "text": "UN upholds housing as a human right on World Habitat Day",
+          "text": "In Islamabad, Guterres calls for end to US-Iran conflict",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168520"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168532"
         },
         {
-          "text": "Sudan: Driver killed in aerial attack on aid trucks in South Kordofan",
+          "text": "‘Ebola takes the people children depend on’: UNICEF",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168519"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168531"
         },
         {
-          "text": "One day behind bars: Students and incarcerated women break prison stigma in Tha…",
+          "text": "When streets become pharmacies: Booming illicit markets in Central Africa",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168518"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168527"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "16:03",
-          "title": "如何破解AI落地断层？SAP在华发布“自主运营企业”战略|智能体|数据|商业|流程|系统_手机新浪网 - 新浪财经",
-          "summary": "如何破解AI落地断层？SAP在华发布“自主运营企业”战略|智能体|数据|商业|流程|系统_手机新浪网 新浪财经",
+          "time": "05:30",
+          "title": "RPT-Hess Midstream LP：交易完成后，公司管理团队将由现任首席执行官Jo - Moomoo",
+          "summary": "RPT-Hess Midstream LP：交易完成后，公司管理团队将由现任首席执行官Jo Moomoo",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdDFtVW55LTViM2J6WV9rRm92YmJ2RzhhT2E0VURZUGFhTUlPRDhQRVRGZjRnbEFxNVFtUnR6Z2k4cVZtdXBOQ0FRSFhjdXpDTmVWNUlqRy1acmRvaVh3OE5fQWZfLVJfZDJXZEFqV2JEXzNIZllfTFgwaXBrS0RHUHI4Y0hGSGJLSXhhUVgwbXQ0Z1BWN3dCUFNsRmc2Ym9FTk1oVDE3UVdyT0JPbjNLMFNPSi1mUnd2T1NhSFJNQWt0V3F0bVFTM2tseTNVN3g2aTJuOW1MOFdKNXdDSDNXNW1lcW0xVmxZTWJBeEotcFJQR2ZIaUswbzNqTUhRYUdQc0NhbTMwR0h1TmwyTEdmeThqTUhVSGxaVHZDWEJ3?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS19RU3ZKUFBkd3RtdDlmRldIamJyV1BqS0lmbS1YZ052UnJNUkN6d3lnTFJRNk5mSnRsQzlFcHZiU1hqOGI3YlhIVW1Yc3o3MmlJdi1Xc0UtMWFjTExZUEtCSC1BY2M5NDVHcG9WSXhDeWJlVlJQdnZTZm5fWVl2RHo0UFQ3QkxuV255NHJyeDhxQTdMcFVsVHRfdU9iaEZURnc?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "11:16",
-          "title": "微软发布 Win11 26H2 组策略模板，方便企业管理员调整配置 - 新浪财经",
-          "summary": "微软发布 Win11 26H2 组策略模板，方便企业管理员调整配置 新浪财经",
+          "time": "00:00",
+          "title": "中评月刊：中美竞争下台湾超级企业战略选择 - 中国评论",
+          "summary": "中评月刊：中美竞争下台湾超级企业战略选择 中国评论",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fUlpkYlMtVTJ3c3JoblVvaTBwa3VCYXpNcVRwcDdVOXYtTlllZ3NJdDRPbzVkTmliV2FQV05GVkQ5d29xV3ZkbEVmTERDOXZ0TEd5TENwcWhHNGtEdURCTU04c0U0N04yczFWUm1xTmdwQy0xMXZJRlctR1MtNDg?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWG8wLUtqanlkTXlNdm5tZ2p3SnhvOGR0LUVOYTU2bERHUWs3T1RyT3BScU93UktJQVVXdUlQYjR0b0I3UHYtdU4ycVFGM0tsalY5TzVSemZ0Xy1sb0RnQTVwNE5rMG4zRl9CTEg3aGdNcTduWU15Sl9TZThOMkhjTjJZbkFHQ1dvbkE?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "產官學共探供應鏈韌性 中原大學與桃園市府聚焦半導體布局 - 大紀元",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqRno4YjlQb0M5VTdVU3lyUi01bDQ3WFBocFAxUzh4SkM4Z0JXVzc3M1psUS1GZU5mMS11XzdRYURwOWF1aHFycWhnX1pvVFpaUGpRZjkxZVotWGFkT2tsZtIBZkFVX3lxTE0zNVZpQ2tkSEF5OERRSnNWNy0tQnBCZVdyS0VDN0dUYm1oLWpxQ3kya1pJeHBKT2Y3NXlpUmswVS1CUGRlSDhvMmpNeElCeUNER1doUnFkQm5xdkNzMW8yUm0xMmdsUQ?oc=5"
+        },
+        {
+          "text": "如何破解AI落地断层？SAP在华发布“自主运营企业”战略|智能体|数据|商业|流程|系统_手机新浪网 - 新浪财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNdDFtVW55LTViM2J6WV9rRm92YmJ2RzhhT2E0VURZUGFhTUlPRDhQRVRGZjRnbEFxNVFtUnR6Z2k4cVZtdXBOQ0FRSFhjdXpDTmVWNUlqRy1acmRvaVh3OE5fQWZfLVJfZDJXZEFqV2JEXzNIZllfTFgwaXBrS0RHUHI4Y0hGSGJLSXhhUVgwbXQ0Z1BWN3dCUFNsRmc2Ym9FTk1oVDE3UVdyT0JPbjNLMFNPSi1mUnd2T1NhSFJNQWt0V3F0bVFTM2tseTNVN3g2aTJuOW1MOFdKNXdDSDNXNW1lcW0xVmxZTWJBeEotcFJQR2ZIaUswbzNqTUhRYUdQc0NhbTMwR0h1TmwyTEdmeThqTUhVSGxaVHZDWEJ3?oc=5"
+        },
+        {
+          "text": "微软发布 Win11 26H2 组策略模板，方便企业管理员调整配置 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fUlpkYlMtVTJ3c3JoblVvaTBwa3VCYXpNcVRwcDdVOXYtTlllZ3NJdDRPbzVkTmliV2FQV05GVkQ5d29xV3ZkbEVmTERDOXZ0TEd5TENwcWhHNGtEdURCTU04c0U0N04yczFWUm1xTmdwQy0xMXZJRlctR1MtNDg?oc=5"
+        },
+        {
           "text": "砂强化粮食安全 提升供应链韧性 - Saluran 122",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTkVfcFFBUldEM1MzdlFmdlNLbFNkNUhCWTBpNkdjSTNLZThwemp6d1hHQkw2TDkzQXZPRWVmSzBsaWVlZC12cEVfOWdrR0pFbUZIRXgzdkhtVk9WSk0xWjU1RGVud0d5XzdZMHFtWTBJdUEwOEFoNlBJcjVXVUZDYWZIc2tVWC1kSjZ0dEc1eUVCd2tPdGtPa3NNRDZaUjVFUFlHUy1RNXVLbzFKM0g1Q3JNTlFEVXZnQU1LdzR6blFTOW11TmVFSHozQnhtdVFoMHctVTVPYzBIMGRmRzdUQU15TTY4emRKTEU2LWItZktPSTl5cEVN?oc=5"
-        },
-        {
-          "text": "大树落地辅导创始合伙人、中小企业战略专家李亮表示，定位之父艾·里斯首创“一道菜”战略，成为当下打造全球餐饮品牌基本规律 - QQ News",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rdjVYYTZPOWxsX3lTN3A1TGZ4OFRQRTJKRjk5MGoybmxUd2lhNm9CUHpSb2JPeUJuTGZwWV9XSHVpd1NyOV8wajVaczg3ZDg1RU4xTkVn?oc=5"
-        },
-        {
-          "text": "开元app官方入口最新版与某知名旅游公司战略合作后，首个项目落地旅行特权！ - ttplus.cn",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBucHk1NFlwWGdlaHlRRmstNXVmM3RsQjU2XzgzUHZJSWQ2Q0lkcmpTMXFUSXNqeVNhRmlqTU1xM0JUV29Cd3ZTeXc1ZFhyd1BPVDNrTExQZXJoa3ItLUE?oc=5"
-        },
-        {
-          "text": "延时运营、优化间隔，国庆期间济南地铁全方位保障市民出行 - 凤凰网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA1N2xnTGhNY0M5T1cxUENIUHJCeHVoS0Z5Nzd2M2t3cXp6QWx1UFlXcTd3X05OaVQ2VGFGeC04UmlIM3IzRGVSQw?oc=5"
         }
       ]
     }
