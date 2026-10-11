@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月10日",
+  "publishDate": "2026年10月11日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "10-15万新能源轿跑怎么选？极狐阿尔法S5让出行更惊喜 - 新浪网",
+      "title": "硬核横评：四款新上市新能源越野SUV，谁重构了全地形与豪华的边界？ - 手机新…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "A new kind of magnetism could unlock fa…",
+      "title": "A famous quantum effect can finally be…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:15",
-          "title": "10-15万新能源轿跑怎么选？极狐阿尔法S5让出行更惊喜 - 新浪网",
-          "summary": "10-15万新能源轿跑怎么选？极狐阿尔法S5让出行更惊喜 新浪网",
+          "time": "09:53",
+          "title": "硬核横评：四款新上市新能源越野SUV，谁重构了全地形与豪华的边界？ - 手机新浪网",
+          "summary": "硬核横评：四款新上市新能源越野SUV，谁重构了全地形与豪华的边界？ 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nMEtrV1A5WWMwcTRVUEVwTElObEZSbjkyZXVTNExLaHdPWFZUenJlaUdSVjdTbENuRDE4T0lQZUVVblpRUlk3d3lSYXlMaFZDT21ra2JRYkdQbndsSDJDekNkTXhJd0pOYmNBWXhiUXY5cDA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1ZHVUVWlxTHM5bWF5YzIyMkl4dVRwQjg5LTJfOWo1ek5wTjNFMDdpMHFLYTVmT3VreG9xWjlWOUJVRVJqREFrM21sVE51bmRkTklOVm9zZlY4TGI1X3Br?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:13",
-          "title": "衡水市桃城区饶先（河北）新能源100MW超容锂电混合独立储能试点项目EPC总承包工程中标候选人公示 - 碳索储能网",
-          "summary": "衡水市桃城区饶先（河北）新能源100MW超容锂电混合独立储能试点项目EPC总承包工程中标候选人公示 碳索储能网",
+          "time": "09:49",
+          "title": "吉利挥出技术铁拳，银河战舰700成新能源硬派SUV价值王 - 汽车之家",
+          "summary": "吉利挥出技术铁拳，银河战舰700成新能源硬派SUV价值王 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtTmJKT3VIMkVpVVNMNmo5M3l2T0IzN2sySk05T2RMSnh6V1oweDZCd1dJLWYxdXdxZ3YwaVNaWm9BVjg2cEJIcUVqUkdnaTlzd0FlcUp6VEVJWkZFcS10aw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VdThhT1RPRVFGZi1iRlFPTVBJYlBsQnQ4SG9mcEJqRFgzWUs0S08tNGxhUVZPT1JaUGxmWGlybk5sV2RJQUhVNjgyeERnYW5iTTBYNEVvRDU3Nmc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "比亚迪第15万辆新能源商用车下线 - 中国交通新闻网",
+          "text": "比亚迪第15万辆新能源商用车下线：车上的刀片电池跟你开的啥关系 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wQXpBN0ZnT1VkM0EwMDUzRDFabnBNZ2lHZjRRWE5IUWZ3QmZpR3o4SUlkbzlzMjlQODFiOG5YOEdsbExDQ1pCVVJEaDhEUjVSMW5yZDNlRWwzT2dKREtEeDRR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SeXJvb0tac0pPNnBtclR6aEpNR0c3MnZkQ3hfQ0xhOFN3TG1OcE5CcUw0enJyMVNVVk0xd2xQSzBCdFN6M283TFJlQ0JzRkJPWUU1TXBWWFZackdiQlVyTGlZbFlvODlDbF84?oc=5"
         },
         {
-          "text": "工信部公布第二批制造业数字化转型促进中心建设主体名单_7x24快讯_新浪财经 - 手机新浪网",
+          "text": "某新能源大厂女员工当众掌掴领导，近2万名同事点赞企微签名 - 凤凰网财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vajdPQzNQd3ptMWpwdzN6TmkydERuNGk3NXVIY2s3N29nUUxMNXo5RURBYkFkbmZVUG5zY19iRkUxOEQ1YTRKdlI1Zw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YWkR2QlU2SGpNMVcyZWVxeWJHa0V3ZHBkRXc5WWdWMGpuYlZfdEh0ZnRFSFlBZGd2U1RDZzNrY2piZk5xdzdBU3FGdEVWSG5W?oc=5"
         },
         {
-          "text": "最近新上市的新能源豪华SUV有哪些？三款旗舰横评，谁才是全场景出行最优解？ - 新浪网",
+          "text": "总投资十一亿元 仙居落地两大制造业项目 - www.rjxj.com.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFVUFYV2hLQ19KSFdCdTJpdzRJSGRjSlU3Y2tXdTRmb1VIQmlWSTNKSGZGbDRkaTcxN2oxcEM5NjhCaC1MYjVUeTlrT1pwVXpKOW5PRllCTTUtdndGUFlTWDhyX2JyMzNnX1lfMTdJS2dXZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54dXlwbDR4R0hpZ2Nzc0NCa3FOVjIxeTBVTGp5OWZnWHd5Q3hTT1BZaXVHYlZVSXdpWm9IS3ZIbzZBQlA3WEhfdXQ1WUdWb0FkRlZPZUU5X0lDQ1RIN1F5QllvX2pwZUU?oc=5"
         },
         {
-          "text": "中国制造新能源客车驶向全球 - 新华网",
+          "text": "三款30-40万全地形新能源SUV横评：谁把公路舒适与荒野硬核都做成了标配？ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ0pWeWlNemZXbFp3RE00bTJrTjZ5Ui1fV0loSl9aaXNiLTZIRGhHaktranl5U0JUN0FBcHJGbTUxZURwZENFWlpRVTdmMV9DR0xVa0YySk5KZjNsZk9CWWd5dEJEOUxPRmFicDU1eUdUazFyeVVjdXVxODhrYlQ5cGdB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pNWFUT0xrQm80VEJEWFlNeGhCeWtWU0RLT3VSVnNNZUVYT3RXWktjQ1RlZjNOUVBrUllqclo1dEpLOUVoajlDejVyNjFReFJuLXhhcXZWQ0FZTGJQc0RR?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:35",
-          "title": "A new kind of magnetism could unlock faster, more efficient computers",
-          "summary": "Scientists have discovered evidence of altermagnetism in a thin, highly tunable material that could help elec…",
+          "time": "09:59",
+          "title": "A famous quantum effect can finally be predicted in real materials",
+          "summary": "Scientists have developed a powerful new way to calculate the Kondo effect, a strange quantum phenomenon that…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "01:55",
+          "title": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
+          "summary": "Scientists have demonstrated a remarkable new antenna that resembles a lightsaber, using a laser to create a…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "A new kind of magnetism could unlock faster, more efficient computers",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261002080015.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "20:50",
-          "title": "Powerful simulations reveal how the first stars changed the universe",
-          "summary": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with ele…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Powerful simulations reveal how the first stars changed the universe",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Scientists just pushed superconductors beyond their usual current limit",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Electrons slow to a crawl in a strange new quantum state",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/09/260929053548.htm"
-        },
-        {
-          "text": "This new qubit could be 100 times less error-prone in superfluid quantum comput…",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260930020309.htm"
-        },
-        {
-          "text": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Kenya races to trace all contacts after first Ebola death, WHO official says",
-          "summary": "Kenya’s first Ebola death has triggered a race to trace everyone the victim came into contact with, as the Un…",
+          "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+          "summary": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - a…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168542"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168567"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Critical funding gap threatens health response in Yemen",
-          "summary": "The World Health Organization (WHO) warned that significantly more resources are required to scale up its res…",
+          "title": "Global trade reaches record $35 trillion despite conflicts",
+          "summary": "World trade reached a record $35 trillion in 2025 – but developing countries were held back from greater part…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168541"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168566"
         }
       ],
       "briefs": [
         {
-          "text": "Reform, or lose trust: Governments press the UN to reflect the world as it is",
+          "text": "Livestreaming US execution would breach prohibition of torture, UN rights offic…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168540"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168565"
         },
         {
-          "text": "WHO releases first global guidelines on child obesity as cases surge",
+          "text": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘mus…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168536"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168564"
         },
         {
-          "text": "‘Rocket revolution’ opens access to space",
+          "text": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Co…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168538"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168562"
         },
         {
-          "text": "Israeli demolition in East Jerusalem displaces 69 Palestinians",
+          "text": "Amid heartache of Nepal flooding disaster, fear remains",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168539"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168561"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:07",
-          "title": "中国铁建、中国国新在北京成立新企业管理合伙企业出资额17.5亿|中铁建|人民币|天眼|资产管理|铁道 - 新浪财经",
-          "summary": "中国铁建、中国国新在北京成立新企业管理合伙企业出资额17.5亿|中铁建|人民币|天眼|资产管理|铁道 新浪财经",
+          "time": "07:02",
+          "title": "杭州塘信企业管理有限公司诉崔某追偿权纠纷案10月12日开庭 司法厘清权责 - 新浪财经",
+          "summary": "杭州塘信企业管理有限公司诉崔某追偿权纠纷案10月12日开庭 司法厘清权责 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3RVbk5DSmEwekUyQ0hXQTFpUkdIREp4SW9uRFRqb2lvTVBKSmdiTGJCb0xKMGRPVmNTWUoyblVpUDhuTGxIWEZSd3NoOE41VDR0QllrMENpcmxNMlBiVGFTSU0xcTV6UmhlWUNEQUNaYzhxQ2VHT0xldHc3TEk1dzB0UExWLWxwSVpoZ21qajhONDk5YklCVg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNElwbGlZNkktMXBDQzUyQzIwbWh5cTIxMXZjcEkwTnc2bzFQbGJCN0c1bzVnVXVVS0V0S2hwZ3hKVFluYmZndXRuWlpkdmVVWG1pUzRMSWFtbTFhX1RfTTV6VHdlUUlSbnF5dS0tSy1weUFBVktJejk5ZlBBdGoxc3kyNzFodXZNekFVdGVB?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "22:03",
-          "title": "汇宪企业管理战略投资锦和商业 - 搜狐网",
-          "summary": "汇宪企业管理战略投资锦和商业 搜狐网",
+          "time": "18:13",
+          "title": "对话君智谢伟山：企业战略的核心不是技术，而是赢得顾客的选择 - 搜狐网",
+          "summary": "对话君智谢伟山：企业战略的核心不是技术，而是赢得顾客的选择 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM21DV3JWRk8yYzBOVW92dUlIWmdKeDBwbVdPbWRkVWZoTmdsM3NRYkFqUzNVV1loZkc0UEhmWDRuaUFhcUc1NlpJaEp1UDJkRnVkbjBUMGFOczdJdkw2NnFmcGRyRGVtc1I0RXRyendCVS1TMUtITFNrX1Y2NlRYVFJObi1KZkZJ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUZNalZaLWtadkZmbEc3ajEycWxERnZIZzFSUmVza1dQT3VWcU40Tm9GMTljbE8xcjRvNFhnMFJfeDFaYWMzRlJqUkktbzFnWHVXdDFWbDFxU2tIVTRtVE16Y05zN05oOUNOdDI3ME1JVnN2RFluOEdxUFNkM1hpbkZuU01BLU1UQnoydw?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "四川智汇绿盾企业管理咨询有限公司获6年承装三级承修三级承试三级承装（修、试）电力设施许可证，电力设施相关业务运营资质落地 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFGY0pacC16cmhnOEtWUGoyRTRfWUdLeWVxSGZyVEtEZXN2OWRUeXJQVEZkbXFyaHpSRnVqTkE4dDBEbXUwa2hFUWpqbUtqTkhrdlU4NDhKUGtOVE1QYmo2VjJ5aUlxVGlOWGt4Q3pTOWNCUkM5dlhMLTVwZEdsNGhEUzZWZmc?oc=5"
+        },
+        {
+          "text": "中国铁建、中国国新在北京成立新企业管理合伙企业出资额17.5亿|中铁建|人民币|天眼|资产管理|铁道 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3RVbk5DSmEwekUyQ0hXQTFpUkdIREp4SW9uRFRqb2lvTVBKSmdiTGJCb0xKMGRPVmNTWUoyblVpUDhuTGxIWEZSd3NoOE41VDR0QllrMENpcmxNMlBiVGFTSU0xcTV6UmhlWUNEQUNaYzhxQ2VHT0xldHc3TEk1dzB0UExWLWxwSVpoZ21qajhONDk5YklCVg?oc=5"
+        },
+        {
+          "text": "汇宪企业管理战略投资锦和商业 - 搜狐网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM21DV3JWRk8yYzBOVW92dUlIWmdKeDBwbVdPbWRkVWZoTmdsM3NRYkFqUzNVV1loZkc0UEhmWDRuaUFhcUc1NlpJaEp1UDJkRnVkbjBUMGFOczdJdkw2NnFmcGRyRGVtc1I0RXRyendCVS1TMUtITFNrX1Y2NlRYVFJObi1KZkZJ?oc=5"
+        },
+        {
           "text": "独家 | 卫星公司获上市AI公司战略投资 创始人为追觅系商业航天平台高管 - 泰伯网",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yVWUtSmxyUTU5dHZMZHF6OHQ3TW94WVA2Vi1PVkp3N3I3T3F1YllIRHJrWnZQUEMydjQ4NG9leTh1UQ?oc=5"
-        },
-        {
-          "text": "中邮保险湖南分公司荣获第二十七届湖南省企业管理现代化创新成果二等成果 - 红网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uY2NlZk1NN2tzOVdxQVRjdUt0RWhJNGw4UlV4aVJJdjYtSHFqN2xqblp2Sm5RLVJ2NEhJbzBIM3ZQSFBvbzhqQlZMcEVQbDFwQ0lxMFRMU2dNLWJjWXN3Nk92UE5GQQ?oc=5"
-        },
-        {
-          "text": "尊时凯彩票官方网站企业战略深度解析：从单一平台到生态化布局的跃迁 - 体坛",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZMDJhRmFyaWNwbTEyZXozZXhZVDR5TDJRY2k0MVJYUHNZNVpJbkVMd3NsbFhiMllpRzdxczNmMjVGbU0xSHRPS29fbk1CcnBKSnJpYTJDWDZELU1pdnpITlhIR21FRU5qc2lQSw?oc=5"
-        },
-        {
-          "text": "2026本土企业战略咨询机构怎么选？4家机构能力横评与适配场景参考 - 邢台网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92UGlwVVhvckVEbDZ4dHZoM1lHQlZwZzhxVGFjNktyNzJ5X21kUGFCUkFTNW9TcXdVX0ZFeVhxMUNXMFIxaDA3NEtVVDFkZGlmb3dWSFNWdUYxUE4xMkpKSlAtQjg1a2s?oc=5"
         }
       ]
     }
