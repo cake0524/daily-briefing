@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月11日",
+  "publishDate": "2026年10月12日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "硬核横评：四款新上市新能源越野SUV，谁重构了全地形与豪华的边界？ - 手机新…",
+      "title": "北京提出深化国际消费中心城市建设规划，加大新能源汽车推广力度|北京市人民政府|…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:53",
-          "title": "硬核横评：四款新上市新能源越野SUV，谁重构了全地形与豪华的边界？ - 手机新浪网",
-          "summary": "硬核横评：四款新上市新能源越野SUV，谁重构了全地形与豪华的边界？ 手机新浪网",
+          "time": "10:21",
+          "title": "北京提出深化国际消费中心城市建设规划，加大新能源汽车推广力度|北京市人民政府|房车露营|交易市场|租赁|改革 - 新浪财经",
+          "summary": "北京提出深化国际消费中心城市建设规划，加大新能源汽车推广力度|北京市人民政府|房车露营|交易市场|租赁|改革 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1ZHVUVWlxTHM5bWF5YzIyMkl4dVRwQjg5LTJfOWo1ek5wTjNFMDdpMHFLYTVmT3VreG9xWjlWOUJVRVJqREFrM21sVE51bmRkTklOVm9zZlY4TGI1X3Br?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc3prR25PaXdxUEZZdHZNaEhuVXZ2d216OHhXbGZENEpCTERWOVo3bFRWVnM1eG5ab1JvUF9ycWw5LXM0SzZ1MGozZHZQZ25sWUp3WFlTWEVZSFFSeko1N19MYTktTFFpNnA4VFNmVWVQRWNGbG1wNU5TSS1qeWgxYkdRX0ZoS01GakFlV3BsMlpteWdET09xb3lZYUp0WDNQS1NlZ2N2eHRWdXgzODFaRlZB?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:49",
-          "title": "吉利挥出技术铁拳，银河战舰700成新能源硬派SUV价值王 - 汽车之家",
-          "summary": "吉利挥出技术铁拳，银河战舰700成新能源硬派SUV价值王 汽车之家",
+          "time": "10:15",
+          "title": "【视频】16.98万起！银河战舰700上市，新能源硬派SUV的一匹黑马！ - 汽车之家",
+          "summary": "【视频】16.98万起！银河战舰700上市，新能源硬派SUV的一匹黑马！ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VdThhT1RPRVFGZi1iRlFPTVBJYlBsQnQ4SG9mcEJqRFgzWUs0S08tNGxhUVZPT1JaUGxmWGlybk5sV2RJQUhVNjgyeERnYW5iTTBYNEVvRDU3Nmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ncVNUNHF5b2paUi1mUzVVX3FBRkUxcEdBRDJZRFJsaXh2aUFEX0VvdmtsTWVITDJGTVE3UVlIVWRObS1YdHY0V1N5VmZrcksxemo1U1NiVDdHajQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "比亚迪第15万辆新能源商用车下线：车上的刀片电池跟你开的啥关系 - 汽车之家",
+          "text": "论坛播报丨航盛锂能确认出席并赞助支持ABEC 2026 - 碳索储能网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SeXJvb0tac0pPNnBtclR6aEpNR0c3MnZkQ3hfQ0xhOFN3TG1OcE5CcUw0enJyMVNVVk0xd2xQSzBCdFN6M283TFJlQ0JzRkJPWUU1TXBWWFZackdiQlVyTGlZbFlvODlDbF84?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96N0tMUDhkZ003ZzFXdjM3S1BIRFBMRjFxTDNrTTgtVzFOdno4RHF6SENlWi1ReFNlSEVzYjBRWHN6a1h0UXBwMFlHb09LSGppUmVQeTY3NUxnSmtiX0JVOQ?oc=5"
         },
         {
-          "text": "某新能源大厂女员工当众掌掴领导，近2万名同事点赞企微签名 - 凤凰网财经",
+          "text": "28.99万起，把三把锁和900mm涉水装进智能座舱，这台新上市的新能源SUV凭什么让越野老炮服气？ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YWkR2QlU2SGpNMVcyZWVxeWJHa0V3ZHBkRXc5WWdWMGpuYlZfdEh0ZnRFSFlBZGd2U1RDZzNrY2piZk5xdzdBU3FGdEVWSG5W?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zSGlsZWJHOHVacDFYdHhLUjBOd3Vpd1dqLUhfbUpfak5UNGRHc05QQkkxb2VyUE4wYXZwVEs1TjFSb21hdk8wWUw3VzJxXzJGWUlXQUZMQnVLNEw2ZEYw?oc=5"
         },
         {
-          "text": "总投资十一亿元 仙居落地两大制造业项目 - www.rjxj.com.cn",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54dXlwbDR4R0hpZ2Nzc0NCa3FOVjIxeTBVTGp5OWZnWHd5Q3hTT1BZaXVHYlZVSXdpWm9IS3ZIbzZBQlA3WEhfdXQ1WUdWb0FkRlZPZUU5X0lDQ1RIN1F5QllvX2pwZUU?oc=5"
+          "text": "【会展区】2026工博会前瞻：先进制造“智”变来袭 - 搜狐",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOc2N3RXhGNnl0VTFlazBiQ1VHTk5vaWxhZTZ2bWgwN2EzX2NKckQ5LWpZVXBLaWhialpNZDJobTZaXy12MTJmWVFGdDZrdzJZRTEwR0dDcGI0cWNUNnY5dUFPS2dmZTRKRmZBcE45VEF2QzJZbkZWQXZBQ1R2blFhTWNRTTNJVmhNajI0RA?oc=5"
         },
         {
-          "text": "三款30-40万全地形新能源SUV横评：谁把公路舒适与荒野硬核都做成了标配？ - 手机新浪网",
+          "text": "2026世界新能源新材料大会_行业新闻 - 全球矿产资源网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pNWFUT0xrQm80VEJEWFlNeGhCeWtWU0RLT3VSVnNNZUVYT3RXWktjQ1RlZjNOUVBrUllqclo1dEpLOUVoajlDejVyNjFReFJuLXhhcXZWQ0FZTGJQc0RR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUnBWS3A0S3RYSTVCQzBMeElKNmFLUG9ERnlFY2tUamtrZ3pjRWxSRGFmMWFGLWF2ZURaREpHZWtlTE93Zll0TERqRm1fV3dnUV8weDZMc0NqcXF3T2Y0ZDFWRlhhZEdxQ3dza1dPblBFRmJFRzQ1SHFldFFuWTd3QzNBa0s4QQ?oc=5"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:02",
-          "title": "杭州塘信企业管理有限公司诉崔某追偿权纠纷案10月12日开庭 司法厘清权责 - 新浪财经",
-          "summary": "杭州塘信企业管理有限公司诉崔某追偿权纠纷案10月12日开庭 司法厘清权责 新浪财经",
+          "time": "07:59",
+          "title": "新兴市场中的产业链整合与供应链韧性：来自中国上市公司的证据 - 生物通",
+          "summary": "新兴市场中的产业链整合与供应链韧性：来自中国上市公司的证据 生物通",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNElwbGlZNkktMXBDQzUyQzIwbWh5cTIxMXZjcEkwTnc2bzFQbGJCN0c1bzVnVXVVS0V0S2hwZ3hKVFluYmZndXRuWlpkdmVVWG1pUzRMSWFtbTFhX1RfTTV6VHdlUUlSbnF5dS0tSy1weUFBVktJejk5ZlBBdGoxc3kyNzFodXZNekFVdGVB?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HTUp6RWNWM0g5M1h5T2ZkWThtWmVDVlI1YVVya3lpSzRKUzlrOGY4U00xMUs5eG5Oenp0MXI4RmpTSXJ1NWRMcUFpUTZTZmIzSjBVZ3NlUThSdnpEM2o0TnJNTU82aUNzdHhTWnBn?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:13",
-          "title": "对话君智谢伟山：企业战略的核心不是技术，而是赢得顾客的选择 - 搜狐网",
-          "summary": "对话君智谢伟山：企业战略的核心不是技术，而是赢得顾客的选择 搜狐网",
+          "time": "17:48",
+          "title": "丹麦CPR数据库泄露波及880万人信息，涉事公司管理员密码竟是“123456” - 凤凰网科技",
+          "summary": "丹麦CPR数据库泄露波及880万人信息，涉事公司管理员密码竟是“123456” 凤凰网科技",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUZNalZaLWtadkZmbEc3ajEycWxERnZIZzFSUmVza1dQT3VWcU40Tm9GMTljbE8xcjRvNFhnMFJfeDFaYWMzRlJqUkktbzFnWHVXdDFWbDFxU2tIVTRtVE16Y05zN05oOUNOdDI3ME1JVnN2RFluOEdxUFNkM1hpbkZuU01BLU1UQnoydw?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEa0x4ajZ2MUI5U0FvUW50Nk0xZzAyMzJFYjF0X3hYZDFqSkVRWEh6ME1wbTQ5WmxSTzFPSE5Ec01yaDcxY21pVnN3VlM?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "对话君智谢伟山：企业战略的核心不是技术，而是赢得顾客的选择 - 福布斯中国",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CeEs4X09BYXpCOWxTMW5LcGxWbU4wVktCWkpKMFB3akhhMjNXNFR4eWlwUFdGMWlpNkE4al90Vkgzc0NZbHB3LXAtSWxsSDZvRE5TcA?oc=5"
+        },
+        {
+          "text": "上海鑫兆企业管理服务有限公司诉两公司房屋租赁合同纠纷案2026年10月12日开庭 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzZsQ1NnVzVKajY1ZVRTbFdzR09LbDZzb2lPR1FJMF9RdW9GU21rRG5NSFVKQWpwaVh6NVJRZHJwQktnTWVQdjBqTXZfdmgwdnQ5eExRaHd0c3dab1RZNERoSWdGbzhxS3VzNW9CT1dEWTU2NEFhQWFLdW9aRTQxQXZlRXUxTThHaVFwRGtR?oc=5"
+        },
         {
           "text": "四川智汇绿盾企业管理咨询有限公司获6年承装三级承修三级承试三级承装（修、试）电力设施许可证，电力设施相关业务运营资质落地 - 新浪财经",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFGY0pacC16cmhnOEtWUGoyRTRfWUdLeWVxSGZyVEtEZXN2OWRUeXJQVEZkbXFyaHpSRnVqTkE4dDBEbXUwa2hFUWpqbUtqTkhrdlU4NDhKUGtOVE1QYmo2VjJ5aUlxVGlOWGt4Q3pTOWNCUkM5dlhMLTVwZEdsNGhEUzZWZmc?oc=5"
         },
         {
-          "text": "中国铁建、中国国新在北京成立新企业管理合伙企业出资额17.5亿|中铁建|人民币|天眼|资产管理|铁道 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU3RVbk5DSmEwekUyQ0hXQTFpUkdIREp4SW9uRFRqb2lvTVBKSmdiTGJCb0xKMGRPVmNTWUoyblVpUDhuTGxIWEZSd3NoOE41VDR0QllrMENpcmxNMlBiVGFTSU0xcTV6UmhlWUNEQUNaYzhxQ2VHT0xldHc3TEk1dzB0UExWLWxwSVpoZ21qajhONDk5YklCVg?oc=5"
-        },
-        {
           "text": "汇宪企业管理战略投资锦和商业 - 搜狐网",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM21DV3JWRk8yYzBOVW92dUlIWmdKeDBwbVdPbWRkVWZoTmdsM3NRYkFqUzNVV1loZkc0UEhmWDRuaUFhcUc1NlpJaEp1UDJkRnVkbjBUMGFOczdJdkw2NnFmcGRyRGVtc1I0RXRyendCVS1TMUtITFNrX1Y2NlRYVFJObi1KZkZJ?oc=5"
-        },
-        {
-          "text": "独家 | 卫星公司获上市AI公司战略投资 创始人为追觅系商业航天平台高管 - 泰伯网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8yVWUtSmxyUTU5dHZMZHF6OHQ3TW94WVA2Vi1PVkp3N3I3T3F1YllIRHJrWnZQUEMydjQ4NG9leTh1UQ?oc=5"
         }
       ]
     }
