@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月16日",
+  "publishDate": "2026年10月17日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "2026四款新上市新能源豪华SUV横评：当全地形遇上纯电增程，谁才是真正的“破…",
+      "title": "30万级大六座新能源SUV横评：当领克900和理想L8还在卷舒适，神行者8已经…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "AI can act exactly like a human, but we…",
+      "title": "A quantum highway just one atom high co…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:08",
-          "title": "2026四款新上市新能源豪华SUV横评：当全地形遇上纯电增程，谁才是真正的“破局者”？ - 手机新浪网",
-          "summary": "2026四款新上市新能源豪华SUV横评：当全地形遇上纯电增程，谁才是真正的“破局者”？ 手机新浪网",
+          "time": "08:42",
+          "title": "30万级大六座新能源SUV横评：当领克900和理想L8还在卷舒适，神行者8已经通吃全场景 - 手机新浪网",
+          "summary": "30万级大六座新能源SUV横评：当领克900和理想L8还在卷舒适，神行者8已经通吃全场景 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5clpHaTVjTkttQlFCcU5OaHRrWTFWTVRXWWdiQmZWQnJCendSRWZrQkdacmR3Q0h5YjRNeVRGZ1U5TU1DNzdHOW9UdEZBZ1ZPX2FQd1p6WjI4OHZicERR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BYmtTaHF3ekdSTUYtRUZtdmktMkVzMjNmZ0hUemhxY2tMYlVpbjJiT0RyQXNBY0RtWDNzckc4V19fanFOZHh1SE1xMkdRZVNuS1ZfdDk1TjVyOE1yaGRz?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:07",
-          "title": "【视频】车主真实解读2023款智己LS7，中国新能源市场发展的缩影 - 汽车之家",
-          "summary": "【视频】车主真实解读2023款智己LS7，中国新能源市场发展的缩影 汽车之家",
+          "time": "08:33",
+          "title": "汽车早报｜长安汽车换帅 理想汽车芯片子公司完成首轮16.25亿元融资 - 搜狐",
+          "summary": "汽车早报｜长安汽车换帅 理想汽车芯片子公司完成首轮16.25亿元融资 搜狐",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tdWQ0VEYtRno3dGZHTWtzaFhPc3M0Ti1PYl9GMkhuQW1DdGNIa3BZTU1PeUk4ME1wLUFhV1JhTi02UVlFdnEtLUtfZURxR0QzRzJXYzZkd0tKaEU?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcWxFeWQ1d0tKSWp5WktReHNoMExxRl9GUFRWOHBJWVdrTFN2VlBqU1hkWTM5WWc4a2xMcElJS3N3QUVicWo3OE1uYzlvOXhYaDVrZWdybkJXeGgxM0VseDlDU3pqdTN4Zy02Slhzczh5VG1nMF9UdzMtdjV5R19Sdm5aOTY0Njgt?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "协昌科技：向消费电子、锂电管理、新能源等方向拓展_公司新闻 - 证券之星",
+          "text": "2026新能源越野SUV横评：当“三把锁”遇上智能全地形，谁才是穿越利器？ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YbXdqLTNnV29XWmN2eGlEN3pvTFplOUVzRHE5dENhUmNLWWNkOXg2am5TUTdWQmRUYzNkWldVbHBDbmVQWHpucG9GOGhsT3RKX1VWdzN4ZG9WWEFuMFA4UA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TZUpkSm5TV0NtZHpWNkVyc29sMTFjMjUtUE5uOWFOVWZKWlNZdGNQYVBUTVJlSDV6eTBYdmVXSV9CRUE1TEFQLTdaRzRfUWZZT0VOYm5TYXlwcE4td3FF?oc=5"
         },
         {
-          "text": "2026年第一批天津市制造业高质量发展专项资金受理项目公示(市科技局方向)2026-10-15 - 生物通",
+          "text": "2026新能源越野SUV横评：谁在真正打破“硬派”与“舒享”的边界？ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZYV9ZRVUxYy0wQ1ozYkNqQ25fMHYyMC12MkR4YjhkeDFaYTB6dEhGRnMzSUQwdllGUnA0WHVhU1dIQnhFQnFtSW81UVN3VzcwTGdNMTVac21SeE1QLUd6bk1pdDdIUlBsWGRwSVFB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ULUVWdE5rel8xaUdYWThKR0dSa3RlYnJTTnZ5M0t6SXVvQ003aGMyWTdYUllCMlozUTA0dUFsVGJsbVpoTXNRZDR4Z3FLeDRzN3pFX0lZejZwYS1mX053?oc=5"
         },
         {
-          "text": "沈阳：“三化”驱动制造业蓄势争先 - 搜狐",
+          "text": "四款新能源越野SUV深度横评：谁才是真正的全地形六边形战士？ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjk3SWgzbG1URkNKLUxIcjlNaDE2YlZjY2RQYzlpNXZ4eEd2Y2RhZGxYZzlOVzRmMjFoRmdzWnJrSWEtNXZPYmRKYzg5M0N4RUVwQXE1akc4T2FDZExvWlFCU2phX2tKaU1Qd0Z1eGV3NHROeEt0NS14bXRnTHZxWUFPcERMX01GMW9FMg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40MVF3QS1fcXhOR3RWNTZwNndHSWF0RWwwTFRHSFRtZHY3bUZoQldmY21rVXlPVGhMa19qczNXbEtrSmNvMjJwekhxazRBaTNPOTh3WFMwUllIQjFMZFJj?oc=5"
         },
         {
-          "text": "30万级新能源SUV大横评：要豪华、要智驾、还要能上山下河，谁才是真正的六边形战士？ - 新浪网",
+          "text": "最近上市的新能源SUV盘点：小鹏G9L、理想L6、智界R7与极氪7X怎么选+FAQ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKenBYT2d5NTVEeWFaZFh4YS1JRndUbFd0MkNvYXlYV2lPUUF2ZVZaSXRiSW1RQmZvWXJBdlY2WElaV0RsOUdUWnZpeEFSWElhYndna2lfUEtHdFlIX0gwLVZ4dFp2SXZxYzhSelRtWTFjdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SNUN6N0tNMEk0UUhFM1BVZmV5ZE1UMWNxeGJoUnJvOWdCMW9YTk5nRTNqbWNNOWVkT3lvb2RCdW5kUFpId25yMHlFOGFmYlZkTnhzNC1zVXBNdVgzRm1r?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "12:22",
+          "title": "A quantum highway just one atom high could transform superconductors",
+          "summary": "Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "09:41",
           "title": "AI can act exactly like a human, but we still don't think it's conscious",
           "summary": "A new study reveals that people draw a surprisingly sharp line between human consciousness and artificial int…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261012185017.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "17:47",
-          "title": "Scientists recreate a bizarre quantum effect that stops a particle cold",
-          "summary": "Oxford physicists have recreated a bizarre quantum effect in which a particle responds to a magnetic field wi…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "Scientists recreate a bizarre quantum effect that stops a particle cold",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261011211554.htm"
+        },
         {
           "text": "Physicists discover “astonishing” property of light that defies expectations",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "A famous quantum effect can finally be predicted in real materials",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261006234520.htm"
-        },
-        {
-          "text": "Scientists create a lightsaber-like laser antenna that transmits radio waves",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008005239.htm"
         }
       ]
     },
@@ -171,42 +171,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "03:00",
-          "title": "Bringing GPT-Rosalind to academic research labs",
-          "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and…",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strate…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+          "url": "https://openai.com/index/itau-generative-ai"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "Teaching students to think and learn through questions",
-          "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teacher…",
+          "time": "02:00",
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student S…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
         }
       ],
       "briefs": [
         {
+          "text": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+        },
+        {
+          "text": "Bringing GPT-Rosalind to academic research labs",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+        },
+        {
+          "text": "Teaching students to think and learn through questions",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+        },
+        {
           "text": "Sullivan & Cromwell brings legal expertise into agreement review",
           "source": "OpenAI",
           "url": "https://openai.com/index/sullivan-cromwell"
-        },
-        {
-          "text": "Amp puts AI agents to work beyond code with OpenAI models",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/amp-beyond-coding"
-        },
-        {
-          "text": "SentinelOne cuts malware analysis from weeks to hours",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/sentinelone"
-        },
-        {
-          "text": "How Third Moment Research runs 10,000 agents for 36+ hours",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/third-moment-research"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:01",
+          "title": "Chip Industry Week In Review",
+          "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highligh…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-160/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "22:53",
           "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
           "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the si…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "IEEE Spectrum Semiconductors",
           "url": "https://spectrum.ieee.org/monazite-rare-earth"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:07",
-          "title": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
-          "summary": "Multiple interacting factors span silicon design, controller intelligence, channel quality, and the transmiss…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/"
         }
       ],
       "briefs": [
+        {
+          "text": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/"
+        },
         {
           "text": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/"
-        },
-        {
-          "text": "Why Open-Weight AI Matters",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/why-open-weight-ai-matters/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "05:54",
-          "title": "马斯克##SpaceX##NASA##企业管理##创新思维##职场感悟##商业逻辑# 同一颗大脑，10 倍的产出 - 手机新浪网",
-          "summary": "马斯克##SpaceX##NASA##企业管理##创新思维##职场感悟##商业逻辑# 同一颗大脑，10 倍的产出 手机新浪网",
+          "time": "06:27",
+          "title": "Novo在2026年资本市场日上展示了公司战略重点 - VOI.ID",
+          "summary": "Novo在2026年资本市场日上展示了公司战略重点 VOI.ID",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90YzFEYWhqMW0zM2RhenZPc0dzTjdqQzFqcXotX0lGTHJwY3RZeTg1dWh0R1VfNmdhdkhVUy1XeERrcmVacVM5NU5NekxvRHVvS1BvTE5DdTdVd0JSWWNtbUoyQQ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhUm5malBHbFJqamQzbkstQjRfSHpOTzB6bHZLSFBQOTVndjI0d1JpUW10Y05ybGhZWFhOZ3QwMlVqdEdnbklJ0gFCQVVfeXFMTkQ5SEloRHlLTE81UUVlcTJkSXQ0NktBa1hKUm9IaFlOeV92NkNuUnZfMTV2YjdWcHJTWEhyekMybXVB?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "00:00",
-          "title": "【北美智权报216期】绿色运算与供应链韧性治理的系统战略 | 2026 年 10 月 16 日 - 北美智權",
-          "summary": "【北美智权报216期】绿色运算与供应链韧性治理的系统战略 | 2026 年 10 月 16 日 北美智權",
+          "time": "03:57",
+          "title": "灵鸽科技（920284.BJ）新增一起对外投资，被投资公司为南京泓睿致安企业管理咨询合伙企业（有限合伙） - 证券之星",
+          "summary": "灵鸽科技（920284.BJ）新增一起对外投资，被投资公司为南京泓睿致安企业管理咨询合伙企业（有限合伙） 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqRkxTVDhDRGIyaEdiem05VUdYQ2pZWVVQSnNvUmtVZG9wRTVuVDVWb0h6c01MMzlxOVpHYmZ4UHJDVk1IYkpNTVZCbW91dWc2aWJN?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zLTdGUDhuWE9tUlRxY1lZeVpwY1JZODV1XzZQZjFMZzNWY25CMUlDaktjLUFqZW9WXzdaWDVxbEg3Z1BoSUFXeUVCWUZsQi15UlBHOEwwMUpHVVEyeTlORUNuNk8?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "爱看头评 | 上班状态实时截屏？企业管理岂能迷信“数字监工” - 搜狐",
+          "text": "维宏股份: 子公司管理制度_公司公告_每日必读 - 证券之星",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSmhVR09FSWtRTVJLWXlRM0JpaHE4N3k3ck0wS09DeUVPLW9iTWhOd1dtVkJ6WVc1MnliUXJ4MnN5RFQybWw5VzZtWjFwU2RpZkhubjY1aHBFaDhoV0NlV0ZKZW9WOGxpT0tRT01aM01TVmhRVEMtWkVLVDBnWTQ1V2NCejZ2WGI5?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHS3J4WHdoTjhYMU9xMmo1VVFqY1dVWUhQX2ljZTh5ek93Tm9qRThnTWllQWg2enh0MkFidExSVlhvOEM1V2NsZ2RZZ3ZTYW9COVdnZkg1SmlpYlNsSGRLTE9tcDZmaGhIbXhn?oc=5"
         },
         {
-          "text": "拓荆科技(688072):上海泰纳微企业管理有限公司审计报告天职业字[2026]35752号 - 中财网",
+          "text": "祁东企业管理人员驱车百里考证- 部门行动 - 新湖南",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IVEpudXZCb3JCOTZ2MGZ3Y2xDbzB2VG4tbGhycS0ySlVHcjVNWk1Wenl1NGNQZDhWY3dnTXZPYmhRY3ZUZmdZdU5IR1JFZFdmb1Y5MS1R?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pUEpFNjBkZEM2Qlpoc2FxN0RwUmtpLWMwS1JQb2YwUk9pbW1ycndVNlVUdEhtOEtKakV0T1pFNW9sMmxjSFo2U3B6UGxMclVuYVRVdUR0X25ySE4xR1prSGlXck4zUQ?oc=5"
         },
         {
-          "text": "吉利旗下远程商用车科技公司增资至9.57亿元# 天眼查App显示，近日 - 手机新浪网",
+          "text": "上班状态实时截屏？企业管理岂能迷信“数字监工” - 搜狐",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQbGN6NzhraFNZaFRGX1QzRmltSjVrWHZPTzRicThNRTNDTjhzdUVUNW1Gd0QyTHl2Y1hKeTNXYXRpdVktSGJxV0NBTXlZdDNLZlNVZWdNWTNUZmFaNnp4VGVZTQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUMyR29YY05RazkwN3hYS2hSNjFDeWVPU3J2alpOWE9MMS1jQnN4MGpzUWdlY2w5bFZHVjctVndkSWFoX1g5NXBPdEJOMTRGZk1KWC1HLWI5Y3V5ZkNWZjQ4dmRWb2pXU2pCMU9selNadncxU1Y5UVZYZFN1N2sxWE84TFBTak0yMFIydA?oc=5"
         },
         {
-          "text": "汶新签署供应链韧性备忘录 深化贸易与粮食合作 - 诗华日报",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1akpOZ09GdktCLWVJQjZuekl1VFdqaER4U3U5ZmRibld6R3FoSnkyc1htOWNQR1Vnd1F3UXEwN0x4Qnd3eDZ0VmZDRzhyZw?oc=5"
+          "text": "ST明诚：公司管理层高度重视市值表现与股东回报_公司新闻 - 证券之星",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sYmZkV0E3V0xWOG1yVl9aSFNaVUVwUEJiNWZFWlIyNDBxX01od3ZpQUktZ3BFSm1QZHRsejBxUm1nSXdmTGxsV0dBaEs2VDhiaGlwWkp4Zmd6NGVFbHlVLQ?oc=5"
         }
       ]
     }
