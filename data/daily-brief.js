@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月17日",
+  "publishDate": "2026年10月18日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "30万级大六座新能源SUV横评：当领克900和理想L8还在卷舒适，神行者8已经…",
+      "title": "新能源汽车 1-9月销量榜：产销双破千万，出口占比超50% - 网通社",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Could your brain data be used against y…",
+      "title": "Flour sacks turned flood barriers: Gaza…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:42",
-          "title": "30万级大六座新能源SUV横评：当领克900和理想L8还在卷舒适，神行者8已经通吃全场景 - 手机新浪网",
-          "summary": "30万级大六座新能源SUV横评：当领克900和理想L8还在卷舒适，神行者8已经通吃全场景 手机新浪网",
+          "time": "08:34",
+          "title": "新能源汽车 1-9月销量榜：产销双破千万，出口占比超50% - 网通社",
+          "summary": "新能源汽车 1-9月销量榜：产销双破千万，出口占比超50% 网通社",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BYmtTaHF3ekdSTUYtRUZtdmktMkVzMjNmZ0hUemhxY2tMYlVpbjJiT0RyQXNBY0RtWDNzckc4V19fanFOZHh1SE1xMkdRZVNuS1ZfdDk1TjVyOE1yaGRz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lYWlESHNyZFpaOVBzV0o0Q2JpZGFjQkpNMmJZSnloZm9xRkhUcXZQemJ3Q1NveXE3UERNT1QzbDZDQk1Nb1NydU4zZ0VtVmxyTVNUdktJNzB5WUk?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:33",
-          "title": "汽车早报｜长安汽车换帅 理想汽车芯片子公司完成首轮16.25亿元融资 - 搜狐",
-          "summary": "汽车早报｜长安汽车换帅 理想汽车芯片子公司完成首轮16.25亿元融资 搜狐",
+          "time": "08:14",
+          "title": "数字化与碳效率：数字经济能否赋能可持续生产体系？ - 生物通",
+          "summary": "数字化与碳效率：数字经济能否赋能可持续生产体系？ 生物通",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcWxFeWQ1d0tKSWp5WktReHNoMExxRl9GUFRWOHBJWVdrTFN2VlBqU1hkWTM5WWc4a2xMcElJS3N3QUVicWo3OE1uYzlvOXhYaDVrZWdybkJXeGgxM0VseDlDU3pqdTN4Zy02Slhzczh5VG1nMF9UdzMtdjV5R19Sdm5aOTY0Njgt?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DSjZCZFZLVm5saG56SU1SYVFqc0tMTUVkMEdIT3VydmFtM3d1UmVhdDV3LUwtOHhodEtxTFdiWjJ3cGFxMVloUkdRUzU1S09uTF9Oc0cycXBuN3NRTzR2UG5aR2FQSVZ1dUpVSU1R?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "2026新能源越野SUV横评：当“三把锁”遇上智能全地形，谁才是穿越利器？ - 手机新浪网",
+          "text": "【视频】星海V6十万级六座新能源，搭载华为乾崑智驾家用卷王 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TZUpkSm5TV0NtZHpWNkVyc29sMTFjMjUtUE5uOWFOVWZKWlNZdGNQYVBUTVJlSDV6eTBYdmVXSV9CRUE1TEFQLTdaRzRfUWZZT0VOYm5TYXlwcE4td3FF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tYzFMTVNqM01DQzAyeEtVR1N6ZnI4bFRFTVRtS25XbjRaUWxGMG56TUtXa0hWVXpIQndvdDBIR2MtcWhzRlYtRkpqZWJicTVQNWluV0V4XzdnZ0E?oc=5"
         },
         {
-          "text": "2026新能源越野SUV横评：谁在真正打破“硬派”与“舒享”的边界？ - 手机新浪网",
+          "text": "区通勤智驾好不好用？极狐阿尔法S5聊聊10-15万新能源轿跑怎么选 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ULUVWdE5rel8xaUdYWThKR0dSa3RlYnJTTnZ5M0t6SXVvQ003aGMyWTdYUllCMlozUTA0dUFsVGJsbVpoTXNRZDR4Z3FLeDRzN3pFX0lZejZwYS1mX053?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDclBSVzRnLWNyWjQzRmZXRklfYjB0OWpfYjkwcVdDZ0Z6QVZLbjFoQ3FyWExzdERrUERaTW1DbUdQX196VWNIRU41Wnd2YlZ2aFNmWUE4eHA3ZjM5Ql9VR0VtSkxhdEJZRF9NR01kNlBRQkR6eEdBQ2NiSHI1MjQ?oc=5"
         },
         {
-          "text": "四款新能源越野SUV深度横评：谁才是真正的全地形六边形战士？ - 手机新浪网",
+          "text": "最近上市的新能源SUV盘点，小鹏G9L凭什么23.18万起入榜推荐清单 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40MVF3QS1fcXhOR3RWNTZwNndHSWF0RWwwTFRHSFRtZHY3bUZoQldmY21rVXlPVGhMa19qczNXbEtrSmNvMjJwekhxazRBaTNPOTh3WFMwUllIQjFMZFJj?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkQ1U4LWZoUkUwR3Q5XzlhV3ZjSFozRUZHRTdURzlWVWdmdEs4VEVBMVNRMFdmWHZsaktybmxXdlpoYWFPdmcxSHFaS3lZVng5V2I4d0h4eWZJZnV0VVd5MmYydDQyM1FuZk5JQ0g1dklQQQ?oc=5"
         },
         {
-          "text": "最近上市的新能源SUV盘点：小鹏G9L、理想L6、智界R7与极氪7X怎么选+FAQ - 手机新浪网",
+          "text": "天津亚通科技诉上海风领新能源买卖合同纠纷案2026年11月18日开庭 涉案金额暂未披露 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SNUN6N0tNMEk0UUhFM1BVZmV5ZE1UMWNxeGJoUnJvOWdCMW9YTk5nRTNqbWNNOWVkT3lvb2RCdW5kUFpId25yMHlFOGFmYlZkTnhzNC1zVXBNdVgzRm1r?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSXY3TnZ6aTNJRlM3dXotUDVid3NaUWhFM1o4NldNbWJtaDJZYjVDUXdlSnU5ckRPa1hZOHpzSE1ONTJ1Uk5RREJnV2F6LUo0QVZfMm1MUkp6bmFMUGdkTW9mbERmUGZKXzhTcGI0eWNzUW9NVmJyc3VmMWtIN2k3dUd3?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
-          "summary": "Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you…",
+          "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
+          "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168609"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168619"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
-          "summary": "Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on trac…",
+          "title": "As disasters mount, next UN climate summit faces a test of trust",
+          "summary": "Less than a month before the UN climate conference COP31 opens in Antalya, Türkiye, representatives of three…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168607"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168617"
         }
       ],
       "briefs": [
         {
-          "text": "AI, green energy and economic transitions risk leaving vulnerable communities b…",
+          "text": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168604"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168614"
         },
         {
-          "text": "Afghanistan faces record hunger levels amid rampant rights violations",
+          "text": "WHO scales up Ebola readiness in 22 countries across three continents",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168605"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168613"
         },
         {
-          "text": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
+          "text": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly t…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168603"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168612"
         },
         {
-          "text": "WHO urges vigilance after Kenya confirms second Ebola case",
+          "text": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168602"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168611"
         }
       ]
     },
@@ -189,6 +189,11 @@ window.dailyBrief = {
       ],
       "briefs": [
         {
+          "text": "Benefit Street Partners answers questions faster with Codex",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/benefit-street-partners"
+        },
+        {
           "text": "Stack Overflow for Agents triples signups with ChatGPT plugin",
           "source": "OpenAI",
           "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
@@ -202,11 +207,6 @@ window.dailyBrief = {
           "text": "Teaching students to think and learn through questions",
           "source": "OpenAI",
           "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
-        },
-        {
-          "text": "Sullivan & Cromwell brings legal expertise into agreement review",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/sullivan-cromwell"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
-          "summary": "Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you…",
+          "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
+          "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168609"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168619"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "The world is waging a ‘war on nature’ as progress on biodiversity targets lags",
-          "summary": "Fewer than half of the national targets set to protect the world’s plants, animals and ecosystems are on trac…",
+          "title": "As disasters mount, next UN climate summit faces a test of trust",
+          "summary": "Less than a month before the UN climate conference COP31 opens in Antalya, Türkiye, representatives of three…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168607"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168617"
         }
       ],
       "briefs": [
         {
-          "text": "AI, green energy and economic transitions risk leaving vulnerable communities b…",
+          "text": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168604"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168614"
         },
         {
-          "text": "Afghanistan faces record hunger levels amid rampant rights violations",
+          "text": "WHO scales up Ebola readiness in 22 countries across three continents",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168605"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168613"
         },
         {
-          "text": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
+          "text": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly t…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168603"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168612"
         },
         {
-          "text": "WHO urges vigilance after Kenya confirms second Ebola case",
+          "text": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168602"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168611"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:27",
-          "title": "Novo在2026年资本市场日上展示了公司战略重点 - VOI.ID",
-          "summary": "Novo在2026年资本市场日上展示了公司战略重点 VOI.ID",
+          "time": "21:10",
+          "title": "上海索拉纳企业管理有限公司完成注册，Solana 中国区联席负责人堵燕菁任法人代表 - TradingView",
+          "summary": "上海索拉纳企业管理有限公司完成注册，Solana 中国区联席负责人堵燕菁任法人代表 TradingView",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhUm5malBHbFJqamQzbkstQjRfSHpOTzB6bHZLSFBQOTVndjI0d1JpUW10Y05ybGhZWFhOZ3QwMlVqdEdnbklJ0gFCQVVfeXFMTkQ5SEloRHlLTE81UUVlcTJkSXQ0NktBa1hKUm9IaFlOeV92NkNuUnZfMTV2YjdWcHJTWEhyekMybXVB?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jVUVNLUdKaWdMOHBLRWVVbGlLNzlhQ1FMczhqNG1zWl9MWFpRM252SXhJTWlwZXlYYWtYaWxuYUF2UzV5YmtIS1I3NTk3VmtiV2hoVUs0NXFBZGI5b2VVeHVYcXNYQQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "03:57",
-          "title": "灵鸽科技（920284.BJ）新增一起对外投资，被投资公司为南京泓睿致安企业管理咨询合伙企业（有限合伙） - 证券之星",
-          "summary": "灵鸽科技（920284.BJ）新增一起对外投资，被投资公司为南京泓睿致安企业管理咨询合伙企业（有限合伙） 证券之星",
+          "time": "11:28",
+          "title": "AI能自动做商业分析报表吗？答案可能让你意外|微软研究院|AI大模型|数据分析|数据库|GPT-4o - finance.sina.com.cn",
+          "summary": "AI能自动做商业分析报表吗？答案可能让你意外|微软研究院|AI大模型|数据分析|数据库|GPT-4o finance.sina.com.cn",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zLTdGUDhuWE9tUlRxY1lZeVpwY1JZODV1XzZQZjFMZzNWY25CMUlDaktjLUFqZW9WXzdaWDVxbEg3Z1BoSUFXeUVCWUZsQi15UlBHOEwwMUpHVVEyeTlORUNuNk8?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxONG9LT19yZmkyTDg1MXIwYUFYbjZ2eUFlaUUwQ2ZOdWp0Zk51UFoyVm94U3hYRDV6MFhqbHJ2dk9OUG5zbkNUV3d4c2JQSFAxYVRPU3NUVHlocUljS0lQUUhBRVVJelFBbFVlbEZULWFVMVdXWXgyZ3dSOXd5RGFsNTctVENwQ3VkQ1Q2QlRxYmV4TW8tMDl2OG1CMkE2VHBPaE5xYTNZclp3ZEI4OTlmbWNjdUNHcVNsbkJmb2t3cGZNNTRSUzdRMURaZzJnQllIdTZfUlExOFlydml0ZmNmdldQQ0ZVUkNlLUFqdGhXckFNSnNlaFg4UjZiZGZCVVRBamlINVlPclhGRHFuQXp5M2pTa245UjJmNElLYkIzMTh6ZjF6emhjVFZtTlhZS1hGQWNzMzFiNFFKNlVzd3UxaFZHREdkcWdoQzJDdGpYNVJWc0Z5bnZPWjVNelB2R2hNNjhfRFdUNWR6bGpyYXZZdjVHdmo5bGZWV0Y1OFdzUnl4Um9XMGs5QTdKZTJ4aG1zVUNsQ2Z4Zk5scnVTSWsxcnhXZ3VLaWFlRGtKeUdWLWl4Y1hoZU1GNEdyXzhfTG1GcXBvTURQUXM0ZEZSVTNfRHVFcmdaV2ZNb1dUek80Z09DSGt3SngzOUd3S0VSY3J5Z0Y5bGdKMlBSN09lMnNYV0E1UXFUUU1nODJfZ0ZuOUtKcFEwRXppZWtVUk8wZ2ZQY21KVHBuQWIzcEdrNllGVHdnYi1CU0RicmNkRF9idEJvenkwQlJ2UW9HS3BHVXE1N1FNNF93?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "Novo在2026年资本市场日上展示了公司战略重点 - VOI.ID",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhUm5malBHbFJqamQzbkstQjRfSHpOTzB6bHZLSFBQOTVndjI0d1JpUW10Y05ybGhZWFhOZ3QwMlVqdEdnbklJ0gFCQVVfeXFMTkQ5SEloRHlLTE81UUVlcTJkSXQ0NktBa1hKUm9IaFlOeV92NkNuUnZfMTV2YjdWcHJTWEhyekMybXVB?oc=5"
+        },
+        {
+          "text": "灵鸽科技（920284.BJ）新增一起对外投资，被投资公司为南京泓睿致安企业管理咨询合伙企业（有限合伙） - 证券之星",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zLTdGUDhuWE9tUlRxY1lZeVpwY1JZODV1XzZQZjFMZzNWY25CMUlDaktjLUFqZW9WXzdaWDVxbEg3Z1BoSUFXeUVCWUZsQi15UlBHOEwwMUpHVVEyeTlORUNuNk8?oc=5"
+        },
+        {
+          "text": "ninegamesports手机版国际开户企业战略深度解析：从技术创新到生态构建的全面布局 - TGBUS",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EYzZKOXFTMHRyX2szNlJlQTMteGJvSFFQdUNmd2lsQXVKUHhQWFFFNnc0alh6NHpuMTMzRVlwVWM4X0lSX3FQUUh0WXI4dDZVZGxSclpMdEtLVEctbXZaNnd0VzdaZmpXeW0wV19qNTNRbWc?oc=5"
+        },
+        {
           "text": "维宏股份: 子公司管理制度_公司公告_每日必读 - 证券之星",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHS3J4WHdoTjhYMU9xMmo1VVFqY1dVWUhQX2ljZTh5ek93Tm9qRThnTWllQWg2enh0MkFidExSVlhvOEM1V2NsZ2RZZ3ZTYW9COVdnZkg1SmlpYlNsSGRLTE9tcDZmaGhIbXhn?oc=5"
-        },
-        {
-          "text": "祁东企业管理人员驱车百里考证- 部门行动 - 新湖南",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pUEpFNjBkZEM2Qlpoc2FxN0RwUmtpLWMwS1JQb2YwUk9pbW1ycndVNlVUdEhtOEtKakV0T1pFNW9sMmxjSFo2U3B6UGxMclVuYVRVdUR0X25ySE4xR1prSGlXck4zUQ?oc=5"
-        },
-        {
-          "text": "上班状态实时截屏？企业管理岂能迷信“数字监工” - 搜狐",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUMyR29YY05RazkwN3hYS2hSNjFDeWVPU3J2alpOWE9MMS1jQnN4MGpzUWdlY2w5bFZHVjctVndkSWFoX1g5NXBPdEJOMTRGZk1KWC1HLWI5Y3V5ZkNWZjQ4dmRWb2pXU2pCMU9selNadncxU1Y5UVZYZFN1N2sxWE84TFBTak0yMFIydA?oc=5"
-        },
-        {
-          "text": "ST明诚：公司管理层高度重视市值表现与股东回报_公司新闻 - 证券之星",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sYmZkV0E3V0xWOG1yVl9aSFNaVUVwUEJiNWZFWlIyNDBxX01od3ZpQUktZ3BFSm1QZHRsejBxUm1nSXdmTGxsV0dBaEs2VDhiaGlwWkp4Zmd6NGVFbHlVLQ?oc=5"
         }
       ]
     }
