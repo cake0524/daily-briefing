@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月18日",
+  "publishDate": "2026年10月19日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "新能源汽车 1-9月销量榜：产销双破千万，出口占比超50% - 网通社",
+      "title": "新能源大局已定？若不出意外，2027年起电车价格可能迎来3大变化！ - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Flour sacks turned flood barriers: Gaza…",
+      "title": "Inside the New York ‘time machine’ raci…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:34",
-          "title": "新能源汽车 1-9月销量榜：产销双破千万，出口占比超50% - 网通社",
-          "summary": "新能源汽车 1-9月销量榜：产销双破千万，出口占比超50% 网通社",
+          "time": "09:13",
+          "title": "新能源大局已定？若不出意外，2027年起电车价格可能迎来3大变化！ - 新浪网",
+          "summary": "新能源大局已定？若不出意外，2027年起电车价格可能迎来3大变化！ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lYWlESHNyZFpaOVBzV0o0Q2JpZGFjQkpNMmJZSnloZm9xRkhUcXZQemJ3Q1NveXE3UERNT1QzbDZDQk1Nb1NydU4zZ0VtVmxyTVNUdktJNzB5WUk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kdjJBUHVGZFdQNFF6VDByZ1FmdFBKNHhrejdCeXVaMDc1YWtLc3VUVFdYYUljOVNLX21DNnZaYUlZTVpnTm9tZ200YldDMXp3bkpyMVF6TEVmTmw5dmRfdS1kUFhlNURoVENjOGlUZ1ZDbkJ5LW9Pc0FDVlhlSXM?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:14",
-          "title": "数字化与碳效率：数字经济能否赋能可持续生产体系？ - 生物通",
-          "summary": "数字化与碳效率：数字经济能否赋能可持续生产体系？ 生物通",
+          "time": "09:08",
+          "title": "宁德好锂 绿动全球 - 中新网福建",
+          "summary": "宁德好锂 绿动全球 中新网福建",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DSjZCZFZLVm5saG56SU1SYVFqc0tMTUVkMEdIT3VydmFtM3d1UmVhdDV3LUwtOHhodEtxTFdiWjJ3cGFxMVloUkdRUzU1S09uTF9Oc0cycXBuN3NRTzR2UG5aR2FQSVZ1dUpVSU1R?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tbFNDSng5TF9KR3hrdS1pdnJjZF8yeFAwYlE3aEViLVllMjJPT01XdXBRdGtVVDFlUE9LcHE4Z2xhLWpvam9UTzFSU1hpSThtYU5hR3JlWmZuang0Q3pIdTBNWUNsMU5IZlJVRmZHRXk?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "【视频】星海V6十万级六座新能源，搭载华为乾崑智驾家用卷王 - 汽车之家",
+          "text": "山西：向智逐绿打造先进制造业新高地 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tYzFMTVNqM01DQzAyeEtVR1N6ZnI4bFRFTVRtS25XbjRaUWxGMG56TUtXa0hWVXpIQndvdDBIR2MtcWhzRlYtRkpqZWJicTVQNWluV0V4XzdnZ0E?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUlBjQTUwU3BRcjlqeEl0NnV5OHBrSmhMNHp0dGwtdEFJc1hocTFwRG9fUWoyWDd3N3VfUU9INXE0a2ZUdVpXVTBldk43Rk0zRXhSUEp5NTgxd1ZNM2gySkVXbnVuVUllRU5RTFA5dk9SN1NKMFM3ajRCalV2MXQ4dGdMbmI1U1B4emd2ZmJhSQ?oc=5"
         },
         {
-          "text": "区通勤智驾好不好用？极狐阿尔法S5聊聊10-15万新能源轿跑怎么选 - 新浪网",
+          "text": "带全家出行，传祺越7和坦克300L新能源的差距到底有多大？ - 车家号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDclBSVzRnLWNyWjQzRmZXRklfYjB0OWpfYjkwcVdDZ0Z6QVZLbjFoQ3FyWExzdERrUERaTW1DbUdQX196VWNIRU41Wnd2YlZ2aFNmWUE4eHA3ZjM5Ql9VR0VtSkxhdEJZRF9NR01kNlBRQkR6eEdBQ2NiSHI1MjQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BOFMtWlItUlFNWUlUeV9VdlFnbmpyQ2RleUdnSVhZaHlwYWFnaWZ2YXQ5UjJIZlMybTAydlEtdVUtT0N1OFYyNkEzNnpDOS03OVoyMTlnc2ZXcjQ?oc=5"
         },
         {
-          "text": "最近上市的新能源SUV盘点，小鹏G9L凭什么23.18万起入榜推荐清单 - 新浪网",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkQ1U4LWZoUkUwR3Q5XzlhV3ZjSFozRUZHRTdURzlWVWdmdEs4VEVBMVNRMFdmWHZsaktybmxXdlpoYWFPdmcxSHFaS3lZVng5V2I4d0h4eWZJZnV0VVd5MmYydDQyM1FuZk5JQ0g1dklQQQ?oc=5"
+          "text": "林毅夫：按照比较优势发展的制度前提是有效市场与有为政府，产业政策是不可或缺的工具 - ThePaper.cn",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WdE92YnJjZkRUSENuNWdJWTFtbm14SnZVWnZBTzhkSzUtSkNzQkdrZXJXNDN0U0ZRQVZQTjRqRXgzWlhtb0ZFaEZkZEFuNXpNV1JOcmtKTmR6Y3NOdEVReQ?oc=5"
         },
         {
-          "text": "天津亚通科技诉上海风领新能源买卖合同纠纷案2026年11月18日开庭 涉案金额暂未披露 - 新浪网",
+          "text": "先别急，10-15万新能源轿跑怎么选？极狐阿尔法S5可以认真考虑 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSXY3TnZ6aTNJRlM3dXotUDVid3NaUWhFM1o4NldNbWJtaDJZYjVDUXdlSnU5ckRPa1hZOHpzSE1ONTJ1Uk5RREJnV2F6LUo0QVZfMm1MUkp6bmFMUGdkTW9mbERmUGZKXzhTcGI0eWNzUW9NVmJyc3VmMWtIN2k3dUd3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PRk80bFVleWc2aWRWWW9IYTNXTEVscV94ekxKOUlWR2s0cnZvSU1FdWhDQ3Q3TkcwNXhwY1d3alFaRnE5MER0ejVFSUdKTzRUY1M3OFFXTHk3QnlydUo2T19kYmFlSTA1ZzNydW51RmlRRUpZY041all0RXN1Zk0?oc=5"
         }
       ]
     },
@@ -123,23 +123,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-          "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold…",
+          "title": "Inside the New York ‘time machine’ racing to save a century of sound and film",
+          "summary": "“I tell my kids I work in a time machine,” said Rhony Dostaly. In a basement beneath Lincoln Center, the medi…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168619"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168608"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "As disasters mount, next UN climate summit faces a test of trust",
-          "summary": "Less than a month before the UN climate conference COP31 opens in Antalya, Türkiye, representatives of three…",
+          "title": "COP17: The world has a plan to save nature. Is it working?",
+          "summary": "The UN Secretary-General has called for an end to the “war on nature”. On Monday, governments gathering in Ye…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168617"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168618"
         }
       ],
       "briefs": [
+        {
+          "text": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelt…",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168619"
+        },
+        {
+          "text": "As disasters mount, next UN climate summit faces a test of trust",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168617"
+        },
         {
           "text": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks…",
           "source": "United Nations News",
@@ -149,16 +159,6 @@ window.dailyBrief = {
           "text": "WHO scales up Ebola readiness in 22 countries across three continents",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/10/1168613"
-        },
-        {
-          "text": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly t…",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168612"
-        },
-        {
-          "text": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168611"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Chip Industry Week In Review",
-          "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highligh…",
+          "time": "07:28",
+          "title": "Nanoelectromechanical Switches Target More Efficient Embedded DRAM (UC Berkeley, Samsung, Intel)",
+          "summary": "Researchers at the UC Berkeley, Samsung Electronics, and Intel published “Nanoelectromechanically Gated Gain…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-160/"
+          "url": "https://semiengineering.com/nanoelectromechanical-switches-target-more-efficient-embedded-dram-uc-berkeley-samsung-intel/"
         },
         {
           "priority": "重点看点 02",
-          "time": "22:53",
-          "title": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
-          "summary": "The global campaigns to break China’s dominance of vital rare-earth markets are shaping up into one of the si…",
+          "time": "06:51",
+          "title": "A Composable Thermal Solver For Heterogeneous 2.5D/3D-IC Packages (Cadence, Notre Dame)",
+          "summary": "Researchers at Cadence Design Systems and the University of Notre Dame published “A Composable AI-Accelerated…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/monazite-rare-earth"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/a-composable-thermal-solver-for-heterogeneous-2-5d-3d-ic-packages-cadence-notre-dame/"
         }
       ],
       "briefs": [
         {
+          "text": "Thermal Side Channels Create New Security Risks For Autonomous Vehicles (Missou…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/thermal-side-channels-create-new-security-risks-for-autonomous-vehicles-missouri-st/"
+        },
+        {
+          "text": "Chip Industry Week In Review",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-160/"
+        },
+        {
+          "text": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/monazite-rare-earth"
+        },
+        {
           "text": "Beyond The Specification: What Really Determines PCIe Retimer Reach?",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/beyond-the-specification-what-really-determines-pcie-retimer-reach/"
-        },
-        {
-          "text": "Strengthening Advanced-Node Interconnects Through Automated Via Insertion",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/strengthening-advanced-node-interconnects-through-automated-via-insertion/"
-        },
-        {
-          "text": "Building AI Infrastructure For Greater Choice And Flexibility",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/building-ai-infrastructure-for-greater-choice-and-flexibility/"
-        },
-        {
-          "text": "AMBA C2C: Moving Forward With A Converged AMBA Foundation For C2C Connectivity",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/amba-c2c-moving-forward-with-a-converged-amba-foundation-for-c2c-connectivity/"
         }
       ]
     },
@@ -267,23 +267,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
-          "summary": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold…",
+          "title": "Inside the New York ‘time machine’ racing to save a century of sound and film",
+          "summary": "“I tell my kids I work in a time machine,” said Rhony Dostaly. In a basement beneath Lincoln Center, the medi…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168619"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168608"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "As disasters mount, next UN climate summit faces a test of trust",
-          "summary": "Less than a month before the UN climate conference COP31 opens in Antalya, Türkiye, representatives of three…",
+          "title": "COP17: The world has a plan to save nature. Is it working?",
+          "summary": "The UN Secretary-General has called for an end to the “war on nature”. On Monday, governments gathering in Ye…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168617"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168618"
         }
       ],
       "briefs": [
+        {
+          "text": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelt…",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168619"
+        },
+        {
+          "text": "As disasters mount, next UN climate summit faces a test of trust",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168617"
+        },
         {
           "text": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks…",
           "source": "UN News",
@@ -293,16 +303,6 @@ window.dailyBrief = {
           "text": "WHO scales up Ebola readiness in 22 countries across three continents",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/10/1168613"
-        },
-        {
-          "text": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly t…",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168612"
-        },
-        {
-          "text": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168611"
         }
       ]
     },
@@ -314,24 +314,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:10",
-          "title": "上海索拉纳企业管理有限公司完成注册，Solana 中国区联席负责人堵燕菁任法人代表 - TradingView",
-          "summary": "上海索拉纳企业管理有限公司完成注册，Solana 中国区联席负责人堵燕菁任法人代表 TradingView",
+          "time": "22:30",
+          "title": "严重失信企业，最长公示3年！统计失信企业管理迎调整，专家最新解读！ - 证券之星",
+          "summary": "严重失信企业，最长公示3年！统计失信企业管理迎调整，专家最新解读！ 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jVUVNLUdKaWdMOHBLRWVVbGlLNzlhQ1FMczhqNG1zWl9MWFpRM252SXhJTWlwZXlYYWtYaWxuYUF2UzV5YmtIS1I3NTk3VmtiV2hoVUs0NXFBZGI5b2VVeHVYcXNYQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9YLW9IeUtzblRrQWZTRjE3em93eXU4R1hGTUxMdG9OV3RNak1OTHF0WDlpVVB3LU5BUW5HMHhIcy03a3FxaDJaMEpwWjIyNEktTmNZSHhoMGM2NnI1ZzM3UUtn?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "11:28",
-          "title": "AI能自动做商业分析报表吗？答案可能让你意外|微软研究院|AI大模型|数据分析|数据库|GPT-4o - finance.sina.com.cn",
-          "summary": "AI能自动做商业分析报表吗？答案可能让你意外|微软研究院|AI大模型|数据分析|数据库|GPT-4o finance.sina.com.cn",
+          "time": "04:19",
+          "title": "中国上海索拉纳企业管理有限公司已注册，Solana China联席负责人堵燕菁为法人代表 - BlockBeats",
+          "summary": "中国上海索拉纳企业管理有限公司已注册，Solana China联席负责人堵燕菁为法人代表 BlockBeats",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxONG9LT19yZmkyTDg1MXIwYUFYbjZ2eUFlaUUwQ2ZOdWp0Zk51UFoyVm94U3hYRDV6MFhqbHJ2dk9OUG5zbkNUV3d4c2JQSFAxYVRPU3NUVHlocUljS0lQUUhBRVVJelFBbFVlbEZULWFVMVdXWXgyZ3dSOXd5RGFsNTctVENwQ3VkQ1Q2QlRxYmV4TW8tMDl2OG1CMkE2VHBPaE5xYTNZclp3ZEI4OTlmbWNjdUNHcVNsbkJmb2t3cGZNNTRSUzdRMURaZzJnQllIdTZfUlExOFlydml0ZmNmdldQQ0ZVUkNlLUFqdGhXckFNSnNlaFg4UjZiZGZCVVRBamlINVlPclhGRHFuQXp5M2pTa245UjJmNElLYkIzMTh6ZjF6emhjVFZtTlhZS1hGQWNzMzFiNFFKNlVzd3UxaFZHREdkcWdoQzJDdGpYNVJWc0Z5bnZPWjVNelB2R2hNNjhfRFdUNWR6bGpyYXZZdjVHdmo5bGZWV0Y1OFdzUnl4Um9XMGs5QTdKZTJ4aG1zVUNsQ2Z4Zk5scnVTSWsxcnhXZ3VLaWFlRGtKeUdWLWl4Y1hoZU1GNEdyXzhfTG1GcXBvTURQUXM0ZEZSVTNfRHVFcmdaV2ZNb1dUek80Z09DSGt3SngzOUd3S0VSY3J5Z0Y5bGdKMlBSN09lMnNYV0E1UXFUUU1nODJfZ0ZuOUtKcFEwRXppZWtVUk8wZ2ZQY21KVHBuQWIzcEdrNllGVHdnYi1CU0RicmNkRF9idEJvenkwQlJ2UW9HS3BHVXE1N1FNNF93?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93NWNKazlYclFEV05fVnMzSXROYmp3YWpXbFc5ZllTMldwejI0dTBjV292MVdYeEJSMVY3ZVp2UWdQTS1hVzNlV3R6SkVpSWJKTS1tb2V3?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "上海索拉纳企业管理有限公司已注册，Solana China 联席负责人堵燕菁为法人代表 - CryptoRank",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hVEplRkdLOVFPQ1F6Vng5NlBuVG5CS09SQm5aWGNxR0EybEtuVnBvRjBRZG5VR2lNS3JaMUtnbXluQVQtZ2dUZlpFOHpXWldtaC1TaXlYNG5ESXo0?oc=5"
+        },
+        {
+          "text": "上海索拉纳企业管理有限公司完成注册，Solana 中国区联席负责人堵燕菁任法人代表 - TradingView",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jVUVNLUdKaWdMOHBLRWVVbGlLNzlhQ1FMczhqNG1zWl9MWFpRM252SXhJTWlwZXlYYWtYaWxuYUF2UzV5YmtIS1I3NTk3VmtiV2hoVUs0NXFBZGI5b2VVeHVYcXNYQQ?oc=5"
+        },
         {
           "text": "Novo在2026年资本市场日上展示了公司战略重点 - VOI.ID",
           "source": "Google News 商业分析",
@@ -341,16 +351,6 @@ window.dailyBrief = {
           "text": "灵鸽科技（920284.BJ）新增一起对外投资，被投资公司为南京泓睿致安企业管理咨询合伙企业（有限合伙） - 证券之星",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zLTdGUDhuWE9tUlRxY1lZeVpwY1JZODV1XzZQZjFMZzNWY25CMUlDaktjLUFqZW9WXzdaWDVxbEg3Z1BoSUFXeUVCWUZsQi15UlBHOEwwMUpHVVEyeTlORUNuNk8?oc=5"
-        },
-        {
-          "text": "ninegamesports手机版国际开户企业战略深度解析：从技术创新到生态构建的全面布局 - TGBUS",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EYzZKOXFTMHRyX2szNlJlQTMteGJvSFFQdUNmd2lsQXVKUHhQWFFFNnc0alh6NHpuMTMzRVlwVWM4X0lSX3FQUUh0WXI4dDZVZGxSclpMdEtLVEctbXZaNnd0VzdaZmpXeW0wV19qNTNRbWc?oc=5"
-        },
-        {
-          "text": "维宏股份: 子公司管理制度_公司公告_每日必读 - 证券之星",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHS3J4WHdoTjhYMU9xMmo1VVFqY1dVWUhQX2ljZTh5ek93Tm9qRThnTWllQWg2enh0MkFidExSVlhvOEM1V2NsZ2RZZ3ZTYW9COVdnZkg1SmlpYlNsSGRLTE9tcDZmaGhIbXhn?oc=5"
         }
       ]
     }
