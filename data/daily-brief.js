@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月22日",
+  "publishDate": "2026年10月23日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "廉江粤风新能源获20年发电类电力业务许可证，新能源发电项目运营资质落定 - 新…",
+      "title": "国家能源局关于推动煤电与新能源融合发展的实施意见 - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Scientists reach the ultimate quantum l…",
+      "title": "People are taking an unapproved weight-…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Fate unknown of many returned to DPR Ko…",
+      "title": "DR Congo: Ebola responders under pressu…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:10",
-          "title": "廉江粤风新能源获20年发电类电力业务许可证，新能源发电项目运营资质落定 - 新浪财经",
-          "summary": "廉江粤风新能源获20年发电类电力业务许可证，新能源发电项目运营资质落定 新浪财经",
+          "time": "09:25",
+          "title": "国家能源局关于推动煤电与新能源融合发展的实施意见 - 新浪网",
+          "summary": "国家能源局关于推动煤电与新能源融合发展的实施意见 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNW9CYzFJVlBPWFkzSFZ0QmR0aTQtTWtqMVhTYU40REtJR2dMc241RGZZajF2NHRxTGNtSWVwYkZLQzVfRVl2czZGeElVZXRTSy1ZallZQlBlWjRFbl9ZTVpDZWx6VlJhLTRLNExPamRtems5Q29xZ2dRajVlNFg0UjBRSVJMc2M?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE55bUhhbmF5NTloZUZHZWlTSHdmemFVZl9ldU54bE43c3ZRRlVSUzVaeGplY3NYRngwTmdyUG9wSl9EUy1oMXhyMUdfRHNTNjYtcXp5cVhiZmNyVUJNOFhvcXBSeHFIQWEwZFpTTnBnZ2x4UQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:01",
-          "title": "25万新能源SUV推荐清单，小鹏G9L凭什么叫“大满配”入榜 - 新浪网",
-          "summary": "25万新能源SUV推荐清单，小鹏G9L凭什么叫“大满配”入榜 新浪网",
+          "time": "09:06",
+          "title": "二手新能源车APP归属权解析：原车主竟能开走你的车 - 汽车之家",
+          "summary": "二手新能源车APP归属权解析：原车主竟能开走你的车 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4b3BRQmZQeV9rUVUxSVpPSmlMeUlYTE8wdzhJUlptX2YySk50MjBEbDZpVDdyWkdneUpjOE12OWI3Rk5sRV9EaF80YnFlNWxjTVZiX2trUm1FWE5zMFVaTVI0T290NDYzcV81Y1poczZ6UQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhd1RqRFlKWHE0TGVQMm11TXFzU3FjR1BMNGtOWENZcndVUEJrd0ROdWJCXzJ3M2g1UkgtMHRxaHVlRFIwb3FvRjF1c21CY0hNckNNek10YjMwRFk?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "工银新能源汽车混合C净值下跌3.07% - 新浪网",
+          "text": "15万上下新能源车推荐，2026年增程与纯电怎么分 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRXVsUEg3amk1a2ZaaFZsakNtMlgzMEljanB1Y1lJUlJ3RWk3Nms4dkVUeWNOWGRla25tU2Q4c01NWmg3RHhDLUFtc0hFVDNHVTRjbDRzSVRXQmZnMUdVX0ZJNW96MEIwNGpudm9ndjQ1cW5SMFBGcXk4dEZrVk5WQXVn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KMUdzZU9tODJCYWN0R2F3MnZEeUhPdlVFRTN4UVdKU0FuMDRSdFBLV1pEcVIwMUpEbWpZd2RWeVpXczFlaDhWTEsxaUZZeThrZDhYNHpBSm1wNHc?oc=5"
         },
         {
-          "text": "华夏中证新能源汽车ETF发起式联接C净值下跌3.33% - 新浪网",
+          "text": "新能源大基地发展与运营大会在兰启幕 - www.gsjb.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVHlqODV4cksyT0Z4dDdVQmctQzBKdXRZdFQ5MHZHSjN4YmcyS2dhNHJ5X2w4UHpvQ0VlZ1VVZzhJS0NqS240cFNkTVdKUFNEd1RzTmtublp0TU0wNUpZcXJROGFRMDVVY01zM3JwYXJka0R4a2dGTVBjdEQ4aGpfZXBR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RS0tsZjlQX190MmJQWF9kWEMwdVpDVmR6S2trUmx6NGk0Y056ZDdrZkIyZHZpRno0UGpORGw3ZVNZZUUzZjR1ZGJOUkxzN1FjeGE2SjJvdk9MWnpIZGxNNE9WWmg?oc=5"
         },
         {
-          "text": "东方新能源汽车主题混合净值下跌3.33% - 新浪网",
+          "text": "华润新能源获得云南500MW光伏指标 - 国际太阳能光伏网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa3djMTNoeF9kTDBJN3pVTXpjM0Q4dXNrYl9tVVpKUmRJNXA1VDhkcmRFZnUtc2lFUlBKV3pGbzNmdVBJcnJtVkpNWlc3bm5DX3NXUGh5blNpbVRJdFNLbVo4Qy0xMkRlUU1LYXY2OVV3YmNKS243ZElDMnpuOHp3T1Nn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nakRVOFhlVmxwX05yeDB6ZDMtVTNxODY3TXZQamhReXM0XzBSU2JFYVUtREc5S0tZOTUtd1VQckV2Vm96VjZ1eFpDczlfRGo2dXVNaUVsRENObDBRLXc?oc=5"
         },
         {
-          "text": "25万预算新能源SUV横评：小鹏G9L与4款热门车型怎么选+怎么选 - 新浪网",
+          "text": "多氟多连续两季净利环比下滑 新能源材料带动整体增长 - 中华网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WM0ViNldfUWJ1REllM09Ub1A5UHZlZFh5YTM2cWMwX2xyNGJaNW1zbEhWQ2tvNmdIdE1yM05IWUd3LWFTM2szajNPdEhubUlqdEJNdGZ3dHdLUk1fLUxrV3lnVnBMQjdUeDg1WjB6MDRiQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1LUFnNk8xQjBFRXV2ZVFYRll3b2xydk9BcFR1Z3ZkdlFDcHNUTVZOT0o4ZFdidGpONXQ5ZHdIdWpmc0tZR2NCZUZDMXdfTEdXMk0wbHEySjBaMk9sMy10OHJEbDg2Tnp2MWo0RHZrMTg?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "10:37",
+          "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
+          "summary": "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to una…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "11:02",
           "title": "Scientists reach the ultimate quantum limit on a surface",
           "summary": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "12:22",
-          "title": "A quantum highway just one atom high could transform superconductors",
-          "summary": "Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "A quantum highway just one atom high could transform superconductors",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm"
+        },
         {
           "text": "AI can act exactly like a human, but we still don't think it's conscious",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Physicists discover “astonishing” property of light that defies expectations",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261011211615.htm"
-        },
-        {
-          "text": "The hidden math of Alzheimer's could point to new treatments",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261008102714.htm"
         }
       ]
     },
@@ -123,23 +123,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
-          "summary": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic Pe…",
+          "title": "DR Congo: Ebola responders under pressure as outbreak expands",
+          "summary": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC)…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168645"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168647"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
-          "summary": "The use of live ammunition, arson and the destruction of centuries-old olive trees have marked the opening we…",
+          "title": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
+          "summary": "The international community must combat inequality and stop wars from expanding to ensure a safer world for a…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168644"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168646"
         }
       ],
       "briefs": [
+        {
+          "text": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168645"
+        },
+        {
+          "text": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168644"
+        },
         {
           "text": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme h…",
           "source": "United Nations News",
@@ -149,16 +159,6 @@ window.dailyBrief = {
           "text": "Migrants paid up to $500 million in smuggling fees on European sea routes",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/10/1168642"
-        },
-        {
-          "text": "Summit in Samarkand, a boon for child wellbeing and health",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168640"
-        },
-        {
-          "text": "UN agencies appeal for help to protect weakest from unprecedented El Niño",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168639"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "05:00",
-          "title": "Broad access through consistent standards",
-          "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and…",
+          "time": "05:17",
+          "title": "Designing an AI serving harness built to last",
+          "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/broad-access-through-consistent-standards"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:00",
-          "title": "How AT&T is rethinking in-house legal work with OpenAI",
-          "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethink…",
+          "time": "03:00",
+          "title": "Build more responsive apps with the Decisions API",
+          "summary": "Fast, focused, low-cost decisions for any application.",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/att-legal"
+          "url": "https://openai.com/index/decisions-api"
         }
       ],
       "briefs": [
         {
-          "text": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used t…",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+          "text": "The Foundations of Scalable AI",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
         },
         {
-          "text": "OpenAI models are coming to Google Cloud",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/openai-models-google-cloud"
+          "text": "Making the case for context-aware AI",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
         },
         {
-          "text": "Patch the Planet: global response coordination as agents uncover critical vulne…",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+          "text": "AI’s hidden storage bill: What inference leaves behind",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
         },
         {
-          "text": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+          "text": "What FDE means at OpenAI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/building-chatgpt-ad-stack"
+          "url": "https://openai.com/index/forward-deployed-engineering-means"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:15",
-          "title": "Scaling Data Movement For Physical AI",
-          "summary": "One size does not fit all. The post Scaling Data Movement For Physical AI appeared first on Semiconductor Eng…",
+          "time": "15:08",
+          "title": "Beyond The EPE Budget: Building The Next Generation Of Computational Lithography",
+          "summary": "Why better models, richer metrology, explainable AI, and cross-industry collaboration must come together to e…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/scaling-data-movement-for-physical-ai/"
+          "url": "https://semiengineering.com/beyond-the-epe-budget-building-the-next-generation-of-computational-lithography/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Blog Review: Oct. 21",
-          "summary": "From server to rack; AMBA CXS; digital twins; edge AI development loop; satellite power; global talent challe…",
+          "time": "15:07",
+          "title": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload",
+          "summary": "Two devices operating at exactly the same voltage, frequency, and temperature can behave differently dependin…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-oct-21-3/"
+          "url": "https://semiengineering.com/pvtw-extending-silicon-characterization-from-pvt-to-real-world-workload/"
         }
       ],
       "briefs": [
         {
-          "text": "Scaling CPO Testing Beyond A Single Die",
+          "text": "Chip Scaling Moves Beyond The Transistor",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/scaling-cpo-testing-beyond-a-single-die/"
+          "url": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/"
         },
         {
-          "text": "Accelerating Manufacturing-Aware Simulations For Photonic Integrated Circuits W…",
+          "text": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/accelerating-manufacturing-aware-simulations-for-photonic-integrated-circuits-with-ftco-and-digital-twins/"
+          "url": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/"
         },
         {
-          "text": "Accelerate Yield Ramp with Closed-Loop Yield Learning",
+          "text": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power De…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/accelerate-yield-ramp-with-closed-loop-yield-learning/"
+          "url": "https://semiengineering.com/stacked-die-multi-chip-architectures-the-tradeoff-between-scaling-and-power-delivery/"
         },
         {
-          "text": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/community-college-semiconductors"
+          "text": "What Breaks When Packaging Moves From Wafer To Panel?",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/what-breaks-when-packaging-moves-from-wafer-to-panel/"
         }
       ]
     },
@@ -267,23 +267,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
-          "summary": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic Pe…",
+          "title": "DR Congo: Ebola responders under pressure as outbreak expands",
+          "summary": "As the deadly Ebola disease outbreak reached an eighth province of the Democratic Republic of the Congo (DRC)…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168645"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168647"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
-          "summary": "The use of live ammunition, arson and the destruction of centuries-old olive trees have marked the opening we…",
+          "title": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
+          "summary": "The international community must combat inequality and stop wars from expanding to ensure a safer world for a…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168644"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168646"
         }
       ],
       "briefs": [
+        {
+          "text": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168645"
+        },
+        {
+          "text": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168644"
+        },
         {
           "text": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme h…",
           "source": "UN News",
@@ -293,16 +303,6 @@ window.dailyBrief = {
           "text": "Migrants paid up to $500 million in smuggling fees on European sea routes",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/10/1168642"
-        },
-        {
-          "text": "Summit in Samarkand, a boon for child wellbeing and health",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168640"
-        },
-        {
-          "text": "UN agencies appeal for help to protect weakest from unprecedented El Niño",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168639"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:41",
-          "title": "德国知名企业管理专家鲁卡达教授来访交流_缤纷校园 - 湖南工商大学",
-          "summary": "德国知名企业管理专家鲁卡达教授来访交流_缤纷校园 湖南工商大学",
+          "time": "21:56",
+          "title": "为什么过去跑得通的做法，现在集体失灵了？消费洞察与商业分析资深专家唐健盛看懂三件事：消费在收敛、变局在劫持、健康成趋势 - 每日经济新闻",
+          "summary": "为什么过去跑得通的做法，现在集体失灵了？消费洞察与商业分析资深专家唐健盛看懂三件事：消费在收敛、变局在劫持、健康成趋势 每日经济新闻",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fU0w4M0Z0Z1Vjcm4tMzZENWFLQUNwRUVWWlptYUl2bXhWc1M5VU1sU0ozdXhoX2hleDc4ZjI1UWFFbDdkX0pfdFNWVm00aXJCZjVXNnVpUQ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vQ0ZBandENm9ETmh0RWU2bEF2TFI3c0dzQmt4cXhWdVdLenRUbVJLeFNYazNKcE1kY2V6UkI0T1gwdmlRRGh2Z2gwRjBVdEJ2dkRaNHg1amFQSnMtTC1SUmpadDdsQQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:00",
-          "title": "哥伦比亚大学可持续管理学教授郭栋：供应链韧性不是成本负担，而是四种可见的回报 - 新浪财经",
-          "summary": "哥伦比亚大学可持续管理学教授郭栋：供应链韧性不是成本负担，而是四种可见的回报 新浪财经",
+          "time": "19:26",
+          "title": "【投融资动态】环天智慧科技战略融资，融资额12亿人民币，投资方为四川环天星聚企业管理中心（有限合伙）、四川环天量汇企业管理中心（有限合伙）等 - 搜狐",
+          "summary": "【投融资动态】环天智慧科技战略融资，融资额12亿人民币，投资方为四川环天星聚企业管理中心（有限合伙）、四川环天量汇企业管理中心（有限合伙）等 搜狐",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGJVVGQ4TnBNek5BNTQ0Zzcyb1E2Z2lQbExqbU1Wd29UdTZtY1NiendHU3p6aVZacHRHdkZ4UHBXalA3Zy1Yb3dqbmd6ZGdBV3AtcGhwejVrdldfcnVTQ3I3TWtKVFlCNlRJUnZzZ1hNRUFDaHJseEc2b1RuZGgxU2UtcGE4RXlXM19Ra29NcmhwdmpRbHI2aXROeEdyNFdPUVE5VUM2LVlieXpoLWNHdkVkSnVWUlpsZVZVVndGRGp4Y1dVMlJUQkVRaTloc1lu?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHhxNnFEUDhwQkJNVTJwdzJLdjdmWW9TaUxBWGExUVlWb2JnNTBiWmhfR3NDeEg0NndsLVdDTmV5Y3NpOW1neS02OWpLY0w0STlHZVFWUW54cGl3a19VT3AtRzNBampYeFdEU0NXYjc2cUhuRVhLdHdXcTl0TF9taU9LcmR5MDBT?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "宋志平：企业管理集权和分权，没有最好的模式，只有最适合的模式 - 新浪网",
+          "text": "威帝股份(603023):哈尔滨威帝电子股份有限公司关于质押江苏玖星精密科技集团有限公司及江苏智越天成企业管理有限公司股权的进展公告- CFi.CN 中财网…",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMGtpSGxmUzFLQ0plcTZOLVgwYS1WeEczOEQ0djZXMWlkODNON0FGYWx1QjQtLThRbzgwZUJGNENTOXFydzlQRGVsWnlPSkdUc0tkNFF5VF9GdkZEWGdrcm9NX1BNdDlId0xkb3E5eTVTc2ZzajMyVGUxMHZWY21zVXJ3dw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KNGFkNDlsYjdVSmktZFp0TWpmcmhaMzltdDFUUjdxeXYwT2QyLXVRQlJiLVRfVVhGMlBQejNFa3NJZFJqaHl6Nk9WemZldmkxSU9FdWNB?oc=5"
         },
         {
-          "text": "三级联动聚合力 对标新规促落实 城阳区举办第六期医疗器械生产企业管理者代表沙龙 - 信网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EY0ZjSTVCUzRhX29xeWdoWHRkcmFtclM4RlMyemFqLWI0UkFfWGJTWURtdmxGbGJxR0RKTjdlYTZDOUtQRmFYeHFOSHBrZXc3Tmc?oc=5"
-        },
-        {
-          "text": "筑牢算力底座：算力供应链韧性建设实践与探析 - 搜狐",
+          "text": "蒋承宏：内部创新要顺应企业战略发展方向 - 新浪财经",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObTRiZFB4U3V4Uy1DNnl5Q3BSblBhQXRPMXpGN0M0ajBLdkpJQXRxY3dhRkk4cV9Qay1YSmxyX0NhblBlOXYwbW5rUjJxV0xvTHA2REVjdFJoR3pxTVhQMzFkZHZ1dU9WSVB2N0hfVTVfc3JhOWFsUHZGY2dGTmNIMkRXd1lOUHBZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcENOdVAzWDFkTU83ZDNtNTVZbC1RLTZ1UFN0XzY4alZKZ3BOY3JuUC1GYlJFQmFqb0tFWEhHUmxnbTNpV3IwdERENkQ4MG1hNUZNbEtLbEJRdXBac0hsTGlkRkhSMFFQdmR6YkVZSmJYWWpqSUxsOTFEdWdwd05CbFpaUTk4V0N5dXBfQ3R5WTkzTWk1WXJkQnB5c21RMnZMbWtVM3hvTURDdXI1Rzg1bkY5SURnSUVmZzVaNWc0bUpPZjhqajlsdFlKUHNxSHhCTDRr?oc=5"
         },
         {
-          "text": "蚂蚁集团于上海新设云锳企业管理咨询公司 注册资本 2000 万元 - 驱动中国",
+          "text": "杨林：从GTC看国内机会 智能体将优先扎根工业软件与企业管理系统 - 第一财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3LUdmSVhqSWRBQ0V5UEtwbC14S3VVeU02cl8tVTNWbUpnMWU3YkUwUHByZXFYajk3eVh0Q3hqQVREdElaUHpZVFg4OWtlTjdDMHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5USlo3X3FrYmVRaHdOaDdoaXF5TUhrTUgyQUtmdjg3a1ZydkNfNGxxUGNmRXdzZ3hmMll2aTRtc09zbDhQVGJTX3dSOWlBaUR5RTNOOA?oc=5"
+        },
+        {
+          "text": "海关总署企业管理和稽查司原司长王胜被开除党籍 - 中国新闻网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3WWN4U2ZRUm9hWWJSNXlfNjROMXhZM09XOHgya2ljWjVnXzFNWGQ2bkM2VVp0a056bGZRZEROZm5neVFZVnVGQnpLTjhDRUZadzFlZjVQd1FCVXlJQTJWS3ExUzZhVWx0?oc=5"
         }
       ]
     }
