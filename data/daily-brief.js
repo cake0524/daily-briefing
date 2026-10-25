@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月24日",
+  "publishDate": "2026年10月25日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "周末带娃露营，坦克500新能源和大切诺基4xe的油耗差距有多大？ - 汽车之家",
+      "title": "产业竞争不等于“挤压发展空间” - 新浪财经",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "World News in Brief: Iran nuclear inspe…",
+      "title": "Women ‘first to suffer’ under siege, fi…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:29",
-          "title": "周末带娃露营，坦克500新能源和大切诺基4xe的油耗差距有多大？ - 汽车之家",
-          "summary": "周末带娃露营，坦克500新能源和大切诺基4xe的油耗差距有多大？ 汽车之家",
+          "time": "09:06",
+          "title": "产业竞争不等于“挤压发展空间” - 新浪财经",
+          "summary": "产业竞争不等于“挤压发展空间” 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10NFZadGRySHQ3LTctNnYtdzhYcm1vaTZyc25Pc2E3NHZVOW80UU51Qjdfc2dkZlB0b0p4VFM2YTZpVXdkNWpWWjdVVjhuUllOQi1mdlBNZGZHQmRhdTNJU3VZUGxWT3ZRakZF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55VjJlbkh3WUpiVE1Jc2VPbWIxZVlESkRGMFVMS3NmckVPRnZUV3A5YXV6TWM4TWl5cmlpRDRnNGRhVU1IZGV1R1E3dERCb0ppdkFZZGRmY1hCVHVILUhhNDY4ejZic1ZTVXkxVTg0aFJiWmJKeXlBWA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:17",
-          "title": "【视频】乘联会：10月新能源车渗透率67%，“银十”不旺，价格还得降？ - 汽车之家",
-          "summary": "【视频】乘联会：10月新能源车渗透率67%，“银十”不旺，价格还得降？ 汽车之家",
+          "time": "09:05",
+          "title": "30万预算买新能源SUV，家庭出行能否告别二选一？领克900、智己LS8、神行者8深度横评 - 手机新浪网",
+          "summary": "30万预算买新能源SUV，家庭出行能否告别二选一？领克900、智己LS8、神行者8深度横评 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Nd0cyN0x6cW8tUWJmMU1yLTZIYzdReHBvdjVQdjB5c3hLUng3STFBZmx2cUN1Z1gwYU55Sm5XUzNzSnQ5b1JnQ25TRDhJc25SMnB2dHNvZVpFVXM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZM194aXgyS3pKQV8xbElkQ1JtYzZMX0hvNFJSWS03SGREa3VkS1FIWVpDN3hLSGo2M3V6Q1hVMFh4a1dGYkdpb2tQcUd4UnJGV29YUzdFUHphOWdNcmVmcTZnT1EyY1BaUHhGLW9kR2RQZw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "中国高端智造亮相APEC，红旗新能源国宾车正式交付 2026APEC会议红旗官方用车交付仪式今日上午举行，一汽红旗向APEC筹委会交付近700台国宾接待用车。…",
+          "text": "全家坐着都舒服的新能源SUV盘点：小鹏G9L二排体验值得优先看 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSUtGUVdVX0lFQ25MbzZLek5tcElZdm1RWXBoN2Jkd3R1RWtTSHJQZHNTZDBSYlZGTzdQWUZwZFZRazYxdGRrdmJxUDNyUTVpSnNlaGxqRlNid0hLNTVMMVpxTnY3Yl9WOG1SbUhmSEMyZ3hQcGgtaGM4ZTB2SmQtRE5QYlJsallN?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ub1dYeGpRRG0xS09mMGotQ0RTQ3daUFBIdVZRMXJWRlBFLWc0d1laaVJwQV9fWmdhTGRjRVpHMHI5WXQ2LUVpLURpSklabjduUEN5TjVia1dkZmJJMDJIWmxwbmZFU2FjRVZqUjNJUGtPQQ?oc=5"
         },
         {
-          "text": "想撒野又不想牺牲舒适？30-40万全地形新能源SUV横评，这四款车说出了答案 - 新浪网",
+          "text": "周末三代同游，GL8新能源和星海V9的后排舒适度区别有多大？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tODBsOG42S0JhUWxLRVJPV1FBVWZLY3dwSkJiSWEwelVOc296WXdfVDRRXzNqV0FFYXNxUjJMTTVvQ2JDdzVmMmM0T0N3UWdlRFdaVlQxelF1NnRnMGwxWHJnbUljN2tiOVdBSlRzZnhCUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZSVA1WVJCcWI2RlNhMFBUMHFqUWVXYVRkcEdXLUdpX1VQLWpFaHQ3aVRHMkNoWG83YmlvbUFCYS15S1FCZncwMTdJSHpKMFkzN1RNSHZxQldiOG8?oc=5"
         },
         {
-          "text": "9月新能源渗透率67%创新高：油车车主的置换判断 - 汽车之家",
+          "text": "增换购场景下20多万新能源SUV：智界R7 装载解析 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QYnVjSjNmU2VCMUhubU44MjV4ZFV6WlZXMnYyTjRhZ3hMVkxXZjdrTm4xcVlkQm1EOWgwRXpYMm5XVk1OSU56MzNTbFkzV0R0N1RFSF8yaWdORnc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NSFgzel9VaE1sclVCMXVvdnB5anY0WTNWNUNvRDJXTDlKenNWZHlGd3ppTEFKMEo3djBMdnI3YzAzQXh2R0JESzdYVlVUeVJmWlEtYXE4LWZiNWs?oc=5"
         },
         {
-          "text": "新能源购置税减半上限1.5万：置换预算要重算 - 汽车之家",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SX08tb2NlM0IzRWNlaTk5Wk1rM1lnaFRualE0NEpNQm1nV1l4bjRhVHlkYW1YSFk5dVZENmlxTndDa1pZc3ZRWEtPVXlyV2w4YU1IR2U4UGJJVXdaTHJPSnhXU0hSY2lwaW8w?oc=5"
+          "text": "综述：仿生螺旋复合材料的先进制造、AI辅助设计与抗冲击性能研究综述 - 生物通",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJTkxrY0p4dDl3SDdxQVVXYm11Z0w2bmVnZDV0V3Y2ckVJSXpQWDI0X0g3OXRZQTdUcW5ldVVldDQ1bjNtQm1hVW5WeDhIR19CMVozZFk5UmJrQzBYeEtWaEZhbDgyZldObHhBSjFn?oc=5"
         }
       ]
     },
@@ -123,23 +123,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-          "summary": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return…",
+          "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+          "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she as…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168664"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168663"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
-          "summary": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this w…",
+          "title": "UN marks 81 years of global cooperation",
+          "summary": "The United Nations celebrates its 81st anniversary on Saturday, highlighting more than eight decades of work…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168662"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168665"
         }
       ],
       "briefs": [
+        {
+          "text": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan,…",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168664"
+        },
+        {
+          "text": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168662"
+        },
         {
           "text": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly He…",
           "source": "United Nations News",
@@ -149,16 +159,6 @@ window.dailyBrief = {
           "text": "Sudan: Drone strikes killed at least 306 people in three weeks",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/10/1168661"
-        },
-        {
-          "text": "Soil mapping aims to boost agricultural production in Kenya",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168657"
-        },
-        {
-          "text": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168655"
         }
       ]
     },
@@ -267,23 +267,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
-          "summary": "The head of the International Atomic Energy Agency (IAEA), Rafael Grossi, called on Friday for a swift return…",
+          "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
+          "summary": "When Tahani Al-Numeiri heard the first explosions in Khartoum, her hometown, war seemed so remote that she as…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168664"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168663"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
-          "summary": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this w…",
+          "title": "UN marks 81 years of global cooperation",
+          "summary": "The United Nations celebrates its 81st anniversary on Saturday, highlighting more than eight decades of work…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168662"
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168665"
         }
       ],
       "briefs": [
+        {
+          "text": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan,…",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168664"
+        },
+        {
+          "text": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168662"
+        },
         {
           "text": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly He…",
           "source": "UN News",
@@ -293,16 +303,6 @@ window.dailyBrief = {
           "text": "Sudan: Drone strikes killed at least 306 people in three weeks",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/10/1168661"
-        },
-        {
-          "text": "Soil mapping aims to boost agricultural production in Kenya",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168657"
-        },
-        {
-          "text": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168655"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:03",
-          "title": "机构风向标 | 中策橡胶(603049)2026年三季度已披露前十大机构累计持仓占比90.15% - 东方财富网",
-          "summary": "机构风向标 | 中策橡胶(603049)2026年三季度已披露前十大机构累计持仓占比90.15% 东方财富网",
+          "time": "08:08",
+          "title": "循环经济实践的持续性：英国与法国中小企业供应链韧性、组织福祉与技术采用的比较研究 - 生物通",
+          "summary": "循环经济实践的持续性：英国与法国中小企业供应链韧性、组织福祉与技术采用的比较研究 生物通",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRk5RZEl4OVFfX210b043OGFiMkJnc1dreTJiblVKWnZfNl81eVoweWd5cVJSdWlzWGJQVklTYWhuc0piSERWcVY3a1h0X0pkVU5oXzFtRWdwZUpfWXFsX216UzhuQQ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90UGVMNmhSTktlMGJBUl9uNXF0UjFSbkh1eXF4M3NKNnhacm1DMVA0cXJPd2J0NW5JWkc0STdxLUhKM1JZRE9ILThfV2FxVzBiOHVVZkl6TGF4NmR5b1lmYW1PV01UYm9EZkZMeVFR?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "02:38",
-          "title": "The CFO of horror - CFO Brew",
-          "summary": "The CFO of horror CFO Brew",
+          "time": "03:57",
+          "title": "欧普照明（603515.SH）新增一起对外投资，被投资公司为恺云（上海）企业管理合伙企业（有限合伙） - 证券之星",
+          "summary": "欧普照明（603515.SH）新增一起对外投资，被投资公司为恺云（上海）企业管理合伙企业（有限合伙） 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tMFpwOGN1TFU1SkxScFVseVZZLVB4R05rcXhNcTl4NTdiMnNtZldGbkJnWDJkMHlFTkdrVFlzSENKQ2hfaHJ1emNCVGJaY29GUEVxMDVwWDd1TXIyN1E?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UM3lLSnJXYkVuU3ItN1dWUVY2NXBsLVFBTUp5d3NvaFlIaDlDbzVoWmRaei1ULWF3d0U0bl9aZEpKQktFamNJY2RJOHdLYWtENlp5enM3NkU3UUZZbE1qeHJ4QUQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "*ST中迪(000609):中迪投资关于公司接受深圳市贤益企业管理合伙企业（有限合伙）赠与现金 - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YUlQtWTI4LUVqclhoTmhGMHlwR2ZGY2VSR3Q4U21ROVBYTldERWNaSVk2V3hxQlVrSWh3TjR2RlduaWMtQklnbGhma1I4RjhGRi1PaE5R?oc=5"
-        },
-        {
-          "text": "精工钢构：公司会继续落实市值管理与价值提升相关工作_公司新闻 - 证券之星",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aV2NXV2gtSzVVTF90WERLQ0hPdEpCU2VLSnBRQjZhd0JjMVJTWUNGMlRLX0MzRjY5QzlUdHJpZmEzb1lWeGJsUDJxVlFHWWxSNzI0bnNQWVN0YXhRM0VvQWNn?oc=5"
-        },
-        {
-          "text": "为什么过去跑得通的做法，现在集体失灵了？消费洞察与商业分析资深专家唐健盛看懂三件事：消费在收敛、变局在劫持、健康成趋势 - 每日经济新闻",
+          "text": "从jnhapp链接下载入口看企业战略布局：赛场胜负背后的商业逻辑 - TGBUS",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vQ0ZBandENm9ETmh0RWU2bEF2TFI3c0dzQmt4cXhWdVdLenRUbVJLeFNYazNKcE1kY2V6UkI0T1gwdmlRRGh2Z2gwRjBVdEJ2dkRaNHg1amFQSnMtTC1SUmpadDdsQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8yN0JOQ2dabWRUNWdFcHRlUlhxdEhXbU14X21RSWo4QW1tdVFrUV9HNGZpckF5aWZEQ0xDNmdBWElJRndFc2xxaEpBS2tST3ljQ290WTR2amI4dC02TnV5c1huNzAyWTh2b1NoZEh2NTFjNmlocXFNSmxVUVJTZw?oc=5"
         },
         {
-          "text": "【投融资动态】环天智慧科技战略融资，融资额12亿人民币，投资方为四川环天星聚企业管理中心（有限合伙）、四川环天量汇企业管理中心（有限合伙）等 - 搜狐",
+          "text": "2026年石油和化工企业管理创新大会在鹏飞集团举办 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHhxNnFEUDhwQkJNVTJwdzJLdjdmWW9TaUxBWGExUVlWb2JnNTBiWmhfR3NDeEg0NndsLVdDTmV5Y3NpOW1neS02OWpLY0w0STlHZVFWUW54cGl3a19VT3AtRzNBampYeFdEU0NXYjc2cUhuRVhLdHdXcTl0TF9taU9LcmR5MDBT?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWhPSjAyX2VKSGZpUm5OM2dpNG5nY19TNmszVnFmNk1pS3ltTzNmM1FCUGpHeGJ4VW1ISUI4VVJDWGdURFk3aG9Ldmc5WG40SVJ2b1N0SkFQR3lFa2N1c3VMV0NTOVZ6cTV1ZlQxeFVrVV9oVlNqLVBKY2FMSjdydnVHalNkSXBH?oc=5"
+        },
+        {
+          "text": "机构风向标 | 中策橡胶(603049)2026年三季度已披露前十大机构累计持仓占比90.15% - 东方财富",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRk5RZEl4OVFfX210b043OGFiMkJnc1dreTJiblVKWnZfNl81eVoweWd5cVJSdWlzWGJQVklTYWhuc0piSERWcVY3a1h0X0pkVU5oXzFtRWdwZUpfWXFsX216UzhuQQ?oc=5"
+        },
+        {
+          "text": "霸王茶姬关联公司所持108万元股权被冻结 - finance.sina.com.cn",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Sbm4tOWtueUctdHUtdnZtdUxOemJoRXR4SzU2UnAtUDdxZkM5dXpRNl9HWHEzYVdSM0ZjOUF6U0tieHF3clQ4V2lUVUZQZUwyWllVRVc3aWRYMlUxS0swUnh0blRiVFBYUGRVR195NElwSDVmRFpPNg?oc=5"
         }
       ]
     }
