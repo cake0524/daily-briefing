@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月25日",
+  "publishDate": "2026年10月26日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "产业竞争不等于“挤压发展空间” - 新浪财经",
+      "title": "85万辆新能源车成“电子孤儿”，修不了卖不掉还遭拒保，如何看待此事？ - 风闻",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "MIT scientists build a tiny robot that…",
+      "title": "Scientists discover a hidden flaw that…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:06",
-          "title": "产业竞争不等于“挤压发展空间” - 新浪财经",
-          "summary": "产业竞争不等于“挤压发展空间” 新浪财经",
+          "time": "08:50",
+          "title": "85万辆新能源车成“电子孤儿”，修不了卖不掉还遭拒保，如何看待此事？ - 风闻",
+          "summary": "85万辆新能源车成“电子孤儿”，修不了卖不掉还遭拒保，如何看待此事？ 风闻",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55VjJlbkh3WUpiVE1Jc2VPbWIxZVlESkRGMFVMS3NmckVPRnZUV3A5YXV6TWM4TWl5cmlpRDRnNGRhVU1IZGV1R1E3dERCb0ppdkFZZGRmY1hCVHVILUhhNDY4ejZic1ZTVXkxVTg0aFJiWmJKeXlBWA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hdnFSM1RlTkFDNy1keC1OcmRTQ0o1cTF6ZUJiR2YzS2pQYjV4emJvdThQMFNJS0dYbC1FendRSTVhUGR0NUtBb0RaelNMNmI3Vl9XQS1MNkdMem8?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:05",
-          "title": "30万预算买新能源SUV，家庭出行能否告别二选一？领克900、智己LS8、神行者8深度横评 - 手机新浪网",
-          "summary": "30万预算买新能源SUV，家庭出行能否告别二选一？领克900、智己LS8、神行者8深度横评 手机新浪网",
+          "time": "08:47",
+          "title": "华能北方公司察右中旗新能源项目全容量并网发电 - 煤炭资源网",
+          "summary": "华能北方公司察右中旗新能源项目全容量并网发电 煤炭资源网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZM194aXgyS3pKQV8xbElkQ1JtYzZMX0hvNFJSWS03SGREa3VkS1FIWVpDN3hLSGo2M3V6Q1hVMFh4a1dGYkdpb2tQcUd4UnJGV29YUzdFUHphOWdNcmVmcTZnT1EyY1BaUHhGLW9kR2RQZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ucWNvLUJ4WE4yR21IM19LUUFWQ0NZdGRBS0ZlaGl2bGExakx3MFBVTG5YMFRac04zckd3cFJlVGhxMW1XZUl1N0ZKYVZkZkp3bWxJTkxoVVM1dzdNM1NJREJIaWk?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "全家坐着都舒服的新能源SUV盘点：小鹏G9L二排体验值得优先看 - 手机新浪网",
+          "text": "新能源旗舰SUV价值战升级，为何说神行者8给了“标准答案” - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ub1dYeGpRRG0xS09mMGotQ0RTQ3daUFBIdVZRMXJWRlBFLWc0d1laaVJwQV9fWmdhTGRjRVpHMHI5WXQ2LUVpLURpSklabjduUEN5TjVia1dkZmJJMDJIWmxwbmZFU2FjRVZqUjNJUGtPQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kOGJEUE1Fd0hmOHRIdmNSQ0FPVjdMdUdqRnlIU0tCa1ZEWi1fU3dsbjJXSkFac2FTTVdfUVg0a21yOHg2MjV6NnI2cUR4VWllSE1ORUhGUy0zdUJUcXVN?oc=5"
         },
         {
-          "text": "周末三代同游，GL8新能源和星海V9的后排舒适度区别有多大？ - 汽车之家",
+          "text": "周末带娃露营，坦克300L新能源和猛龙PLUS的七座与油耗差异在哪？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZSVA1WVJCcWI2RlNhMFBUMHFqUWVXYVRkcEdXLUdpX1VQLWpFaHQ3aVRHMkNoWG83YmlvbUFCYS15S1FCZncwMTdJSHpKMFkzN1RNSHZxQldiOG8?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03V1ZHaUZmcVJiOWR5eUNBQ1pIcDJNTHRTekJrZ21kZmdRWjYtTnRINHBYcEhBQ2YwV2o5Tm9QRlh2RHhzYkgtNjNJcFRPeThiMDZzaERxUHNLVkU?oc=5"
         },
         {
-          "text": "增换购场景下20多万新能源SUV：智界R7 装载解析 - 汽车之家",
+          "text": "TCL中环：持续聚焦新能源光伏和半导体材料主业 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NSFgzel9VaE1sclVCMXVvdnB5anY0WTNWNUNvRDJXTDlKenNWZHlGd3ppTEFKMEo3djBMdnI3YzAzQXh2R0JESzdYVlVUeVJmWlEtYXE4LWZiNWs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR3ByTkRDU2ZwT1d3N1ozTi1tTGRrdXdkYzgyd081QWJYV2E5blg2UXFUOEppVUdHTjhDN080dnBaRHBleG04S3FBeW41bGRCZmRrMWZNazFfblN5eE81U01lcjBtN2NvUmJHOTZaVDltQ3VuN0NsWjh6UEg0R3JuNGZwbF9pZ3NX?oc=5"
         },
         {
-          "text": "综述：仿生螺旋复合材料的先进制造、AI辅助设计与抗冲击性能研究综述 - 生物通",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJTkxrY0p4dDl3SDdxQVVXYm11Z0w2bmVnZDV0V3Y2ckVJSXpQWDI0X0g3OXRZQTdUcW5ldVVldDQ1bjNtQm1hVW5WeDhIR19CMVozZFk5UmJrQzBYeEtWaEZhbDgyZldObHhBSjFn?oc=5"
+          "text": "25万预算新能源SUV横评：小鹏G9L、理想L6、极氪7X怎么选 - 手机新浪网",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nMjRJUkoxeExsazBWLWZZSTE5Z2dqWGVHR3Q4a29lcV9BR3QxRGl5alQwSm9NNnQ5aG5OVTEzQTQyd0luczNUUlRKS0JZdHE5LXEwSzZ0cmF6bHN4SDFJ?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "10:19",
+          "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+          "summary": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believe…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "18:33",
           "title": "MIT scientists build a tiny robot that swims using living muscle cells",
           "summary": "MIT engineers have built a paper-thin swimming robot powered by living muscle cells that respond to flashes o…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261022081308.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "18:22",
-          "title": "A tiny defect in a crystal reveals a big quantum surprise",
-          "summary": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "A tiny defect in a crystal reveals a big quantum surprise",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm"
+        },
         {
           "text": "Cambridge scientists create a $10 chip that could put a medical lab on your wri…",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Scientists reach the ultimate quantum limit on a surface",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm"
-        },
-        {
-          "text": "A quantum highway just one atom high could transform superconductors",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:00",
-          "title": "From Chip Lab to Center Stage",
-          "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumer…",
+          "time": "05:17",
+          "title": "Pt-W Alloy Shows Potential For Thinner High-NA EUV Mask Absorbers (Chinese Academy of Sciences et al.)",
+          "summary": "Researchers at Chinese Academy of Sciences, Jilin University, State Key Laboratory of Advanced Manufacturing…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/pt-w-alloy-shows-potential-for-thinner-high-na-euv-mask-absorbers-chinese-academy-of-sciences-et-al/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "Chip Industry Week In Review",
-          "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain…",
+          "time": "05:08",
+          "title": "Dry-Deposited Resist Shows Different Tone Behavior Under EUV And E-Beam Exposure (KU Leuven, Kunsan, VUB, Imec)",
+          "summary": "Researchers at KU Leuven, Kunsan National University, Vrije Universiteit Brussel, imec, et al. published “Irr…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-161/"
+          "url": "https://semiengineering.com/dry-deposited-resist-shows-different-tone-behavior-under-euv-and-e-beam-exposure-ku-leuven-kunsan-vub-imec/"
         }
       ],
       "briefs": [
         {
-          "text": "Beyond The EPE Budget: Building The Next Generation Of Computational Lithography",
+          "text": "Silicon Photonic Modulator Reaches 200 Gb/s PAM4 With Reduced DSP (Science Toky…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/beyond-the-epe-budget-building-the-next-generation-of-computational-lithography/"
+          "url": "https://semiengineering.com/silicon-photonic-modulator-reaches-200-gb-s-pam4-with-reduced-dsp-science-tokyo-yokohama-aist-petra/"
         },
         {
-          "text": "PVTW: Extending Silicon Characterization From PVT To Real-World Workload",
+          "text": "Security-Aware Layer Mapping Reduces Fault Vulnerability In 3D Compute-In-Memor…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/pvtw-extending-silicon-characterization-from-pvt-to-real-world-workload/"
+          "url": "https://semiengineering.com/security-aware-layer-mapping-reduces-fault-vulnerability-in-3d-compute-in-memory-asu-u-of-maryland/"
         },
         {
-          "text": "Chip Scaling Moves Beyond The Transistor",
+          "text": "Neural Networks Speed 3nm Nanosheet SPICE Simulation (TU Munich)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-scaling-moves-beyond-the-transistor/"
+          "url": "https://semiengineering.com/neural-networks-speed-3nm-nanosheet-spice-simulation-tu-munich/"
         },
         {
-          "text": "How Self-Aligned CFET Technology Could Extend CMOS Scaling Beyond 10 Å",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/how-self-aligned-cfet-technology-could-extend-cmos-scaling-beyond-10-a/"
+          "text": "From Chip Lab to Center Stage",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer"
         }
       ]
     },
@@ -314,7 +314,7 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:08",
+          "time": "11:44",
           "title": "循环经济实践的持续性：英国与法国中小企业供应链韧性、组织福祉与技术采用的比较研究 - 生物通",
           "summary": "循环经济实践的持续性：英国与法国中小企业供应链韧性、组织福祉与技术采用的比较研究 生物通",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
@@ -323,15 +323,25 @@ window.dailyBrief = {
         },
         {
           "priority": "重点看点 02",
-          "time": "03:57",
-          "title": "欧普照明（603515.SH）新增一起对外投资，被投资公司为恺云（上海）企业管理合伙企业（有限合伙） - 证券之星",
-          "summary": "欧普照明（603515.SH）新增一起对外投资，被投资公司为恺云（上海）企业管理合伙企业（有限合伙） 证券之星",
+          "time": "09:33",
+          "title": "2026年石油和化工企业管理创新大会在山西鹏飞集团举行 - 新华网山西",
+          "summary": "2026年石油和化工企业管理创新大会在山西鹏飞集团举行 新华网山西",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UM3lLSnJXYkVuU3ItN1dWUVY2NXBsLVFBTUp5d3NvaFlIaDlDbzVoWmRaei1ULWF3d0U0bl9aZEpKQktFamNJY2RJOHdLYWtENlp5enM3NkU3UUZZbE1qeHJ4QUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0k3bjNlYVNhcExaMGNSRnFXSTU0OWpaeWZkbFpCX1ktYkxrWi13S2ptdkQwUEtDNW85aDJUSmJaN19veWtrOHFGZk5MeTA5czBvSXlBZkRpNmt2U2J2dEZEUG9haEpQSFZzZlVqM3JMX2xybUFKM0RSWm9KQ0VfQmNR?oc=5"
         }
       ],
       "briefs": [
+        {
+          "text": "欧普照明（603515.SH）新增一起对外投资，被投资公司为恺云（上海）企业管理合伙企业（有限合伙） - 证券之星",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UM3lLSnJXYkVuU3ItN1dWUVY2NXBsLVFBTUp5d3NvaFlIaDlDbzVoWmRaei1ULWF3d0U0bl9aZEpKQktFamNJY2RJOHdLYWtENlp5enM3NkU3UUZZbE1qeHJ4QUQ?oc=5"
+        },
+        {
+          "text": "产业链研究报告：企业战略决策的必备工具与编制应用全指南 - frostchina.com",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB3REl4LVE0VkZFYW05UkI2WE15UHdUY3VZMENpdk12c1o4RVk3LTVkY05sejZ4UTBDQWxpVEFDcWVNTk5ueW0wSVNOUWxtRnY0ZXQ4QkZVSkNNbFptblFDM3lIa3UzM1dfWlVwM29JR2lGX1Z5dC0xYg?oc=5"
+        },
         {
           "text": "从jnhapp链接下载入口看企业战略布局：赛场胜负背后的商业逻辑 - TGBUS",
           "source": "Google News 商业分析",
@@ -340,17 +350,7 @@ window.dailyBrief = {
         {
           "text": "2026年石油和化工企业管理创新大会在鹏飞集团举办 - 搜狐网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWhPSjAyX2VKSGZpUm5OM2dpNG5nY19TNmszVnFmNk1pS3ltTzNmM1FCUGpHeGJ4VW1ISUI4VVJDWGdURFk3aG9Ldmc5WG40SVJ2b1N0SkFQR3lFa2N1c3VMV0NTOVZ6cTV1ZlQxeFVrVV9oVlNqLVBKY2FMSjdydnVHalNkSXBH?oc=5"
-        },
-        {
-          "text": "机构风向标 | 中策橡胶(603049)2026年三季度已披露前十大机构累计持仓占比90.15% - 东方财富",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRk5RZEl4OVFfX210b043OGFiMkJnc1dreTJiblVKWnZfNl81eVoweWd5cVJSdWlzWGJQVklTYWhuc0piSERWcVY3a1h0X0pkVU5oXzFtRWdwZUpfWXFsX216UzhuQQ?oc=5"
-        },
-        {
-          "text": "霸王茶姬关联公司所持108万元股权被冻结 - finance.sina.com.cn",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Sbm4tOWtueUctdHUtdnZtdUxOemJoRXR4SzU2UnAtUDdxZkM5dXpRNl9HWHEzYVdSM0ZjOUF6U0tieHF3clQ4V2lUVUZQZUwyWllVRVc3aWRYMlUxS0swUnh0blRiVFBYUGRVR195NElwSDVmRFpPNg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzZnR5dGMwcmhmdkFrM2s3amtsY29PT3FIOGprVXBQQ2hZVFNGcWdzSlVja0pENVVhVWtZd0dLTWxfbUwyRUozNVpTQ1BxTTlXblE?oc=5"
         }
       ]
     }
