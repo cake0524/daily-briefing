@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月28日",
+  "publishDate": "2026年10月29日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "国内新能源卷不动了，去国外，澳大利亚All Energy开展前夜，中国企业把行…",
+      "title": "【视频】电动汽车空调维修方法新能源汽车空调维修检测方法 - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:57",
-          "title": "国内新能源卷不动了，去国外，澳大利亚All Energy开展前夜，中国企业把行业的风吹向了澳大利亚 - 36Kr",
-          "summary": "国内新能源卷不动了，去国外，澳大利亚All Energy开展前夜，中国企业把行业的风吹向了澳大利亚 36Kr",
+          "time": "10:23",
+          "title": "【视频】电动汽车空调维修方法新能源汽车空调维修检测方法 - 汽车之家",
+          "summary": "【视频】电动汽车空调维修方法新能源汽车空调维修检测方法 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tS09QQl9yOFljNkFMZTBGNFY3QVAtbkJ2Z3NjWTQ5NDlpWVpiYVBBOVdqTWdPcHkzVGpWZElhTF9mZjMyQ2xGYWVYbVJXWnM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91Y0VfYU1WNDB6c3gxM1dILVNtbFlWYnF5dTcwY1JIWURrb0d0NFlPSHFwNjhtVDJ1ZUY0Tk5hQ1dOV2hSNWwtQ0NteXVPWFllS25kbWNGZkpDemc?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:53",
-          "title": "新能源1亿注册资本落地 雅江集团成立琼结新能源公司 - 盖锡咨询",
-          "summary": "新能源1亿注册资本落地 雅江集团成立琼结新能源公司 盖锡咨询",
+          "time": "10:23",
+          "title": "【视频】电动汽车空调维修方法新能源汽车空调维修检测方法 - 汽车之家",
+          "summary": "【视频】电动汽车空调维修方法新能源汽车空调维修检测方法 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4xb3dmZlg3V0FHanJyb2VGTUVEYnB1RXFxNW5TRnNRR1J2aXdxZnVMX3lOQTVVdjVuaUpoUFBmal9rREQ3eHBoQThMRQ?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBybkRycHBBYzdLMWdDUWJ3YlBsTnNwclNkdTJFQmoyeHVRWXdvQkpNQno2NW5Xa0ZjbzBkVGZWZE1fVUphd0pkT1J4YWFmTlB2WExXS0l6TWsyYkVjdl9uOUI0d2xLQzF1aVVz?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "江西光伏新政2026年9月起施行 边际机组入选门槛由30%提至60% - 盖锡咨询",
+          "text": "人民日报点名“孤儿车”维修难：85万新能源车没售后、还有260万辆脱保车，40万汽服店的机会来了？ - 中金在线",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGRWMyVzV0TFlFS21qUGNyckRIWnprN19HV1lUclJ1N2xvTUlCb0RDQUpJUWx2OWw0MWhqWkVidTgyaGNPOHc4Qk9fZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kb2lBaWtCZWlVS05OM0ZQZXlzbUhRTW8waGhQTDhyUlhjbERLSVlZWFpjMnBzekVyRUd4eUNqRGRsc3psd21CMk5UZmg1NVZ5STBOOUY3UkNkSG1DVVJqa09HSXlWSldFck84?oc=5"
         },
         {
-          "text": "四款新能源豪华SUV长途横评：谁才是真正的全场景远行利器？ - 手机新浪网",
+          "text": "新能源渗透率创新高后，金九不金，银十不银_车市动态 - 中金在线",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pY0RsQlRCdzJ0Y0MzcGZSR0ZUWWZWNUdPUnBwcWJPV2lBcnA1bzBJUlhDRDFra0c5UTVTbGh3Q0oyUjByTjJ4UkN6UGNGR25OZlBSY19tbl8zLTVycFRB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81dVI0dl9pcUZ6T3J2T3FmQmdtOHgtcVJhMk5CYWlYa204WDRSSWNQVDNCdlNINUJjZmE3alZoLW41UnV0T0pTeWFiMjJGYUF2b1FqUFBCX2xibHhxVjJPYzlPaF9nMDZrNElN?oc=5"
         },
         {
-          "text": "第六届数字经济投融资机构川渝行架起产融“连心桥” - 中国经济网",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55WF9WV3N5UkJ4T1hiRzVSSlpVbWVWY09VZWUtXzdCX1ZsUlpGY0h5SGJTRkxDNEVtRFM3aHJoT3pHMG5EbXFwZXdtQXE2SDRZNDRQcWdJZEdadUkxcTNXNE91c3gwYktnejRDT1pZRjdadUNwekR3?oc=5"
+          "text": "广西国华投资新能源：山地风光点亮百万千瓦装机 - 国际风电网",
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxQWZpZi1TTVk5N050bXlZdkIzSkdBeTA5VVhSa2czQUJGMWJvN2xOSVh5NEhGU3NYTl91MHBOdzBRaXhocXhqNFlXempBUWUyNGx2dUV6Tzl3RXc?oc=5"
         },
         {
-          "text": "广西新能源机制电价竞价启动 104.2亿千瓦时电量待出清 光伏仅占14亿千瓦时 - www.gessey.com",
+          "text": "广西启动2027年机制竞价：电价0.15-0.36元/度 - www.gdshe.org",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XVEM4UlFTajBsa2prQ01lNUEzcXJ6RkV5RDBoRUtjZkJheEZQc1N1QnhrYXBjaWlOM1p0cURTWDF5YVFxRHFJdkFwVTFLblE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNT1N6SlE1NVE3RGF1eThVT01aX0JyYm9ub2VzZVNBNGpXOENSc21sNXhMUUp4MFJMZFRaelpVakVZMDlJbS1sclN5R19FdHBETUE?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:00",
-          "title": "Retell uses OpenAI models to help power 100M monthly calls",
-          "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate p…",
+          "time": "04:32",
+          "title": "Creating AI value with enterprise context",
+          "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example,…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/retell-ai"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:19",
-          "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-          "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge…",
+          "time": "21:15",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceN…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
         }
       ],
       "briefs": [
         {
-          "text": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/oracle-apps-in-chatgpt"
-        },
-        {
-          "text": "How Check Point accelerates vulnerability research with Daybreak",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/check-point-daybreak"
-        },
-        {
-          "text": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra"
-        },
-        {
-          "text": "Will the real Anthropic please stand up",
+          "text": "Pairing industrial AI autonomy and human control",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+          "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
+        },
+        {
+          "text": "The future of the firm",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/the-future-of-the-firm"
+        },
+        {
+          "text": "Legora is building the agentic operating system for legal work",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/legora"
+        },
+        {
+          "text": "Retell uses OpenAI models to help power 100M monthly calls",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/retell-ai"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:37",
-          "title": "Analog Superposition Increases Effective PCM Storage Density (IBM Research Europe)",
-          "summary": "Researchers at IBM Research Europe published “Superposed analog memory for vector storage in neural networks.…",
+          "time": "15:03",
+          "title": "Introducing Build-A-Chip-Bench: From Workload Specification to GDS",
+          "summary": "Evaluate AI agents from workload specification through GDS layout, using open-source tools and an open-source…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/analog-superposition-increases-effective-pcm-storage-density-ibm-research-europe/"
+          "url": "https://semiengineering.com/introducing-build-a-chip-bench-from-workload-specification-to-gds/"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:01",
-          "title": "The imec Report: Scaling Optical Interconnects For The AI Era",
-          "summary": "Unprecedented demand for bandwidth calls for bringing optics closer to silicon through a fundamental rethinki…",
+          "time": "15:03",
+          "title": "Foundations of Power Management in the Age of AI",
+          "summary": "Make every layer of your hardware PDN-aware and reach your maximum compute density. The post Foundations of P…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-imec-report-scaling-optical-interconnects-for-the-ai-era/"
+          "url": "https://semiengineering.com/foundations-of-power-management-in-the-age-of-ai/"
         }
       ],
       "briefs": [
         {
-          "text": "Chip Industry Technical Paper Roundup: Oct. 27",
+          "text": "Using AI for Analog Design",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-oct-27/"
+          "url": "https://semiengineering.com/using-ai-for-analog-design/"
         },
         {
-          "text": "Vertical DRAM Stacking Expands Thermal Design Space Beyond HBM-on-GPU (imec)",
+          "text": "Foundation IP For The AI Era: Why Execution Saves You Millions On HPC And Edge…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/vertical-dram-stacking-expands-thermal-design-space-beyond-hbm-imec/"
+          "url": "https://semiengineering.com/foundation-ip-for-the-ai-era-why-execution-saves-you-millions-on-hpc-and-edge-ai-socs/"
         },
         {
-          "text": "Large-Format Masks Move From Aspiration To Industry Roadmap",
+          "text": "Planning Your AI Design Journey In RF EDA",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/large-format-masks-move-from-aspiration-to-industry-roadmap/"
+          "url": "https://semiengineering.com/planning-your-ai-design-journey-in-rf-eda/"
         },
         {
-          "text": "Testing Silicon Photonics At Scale",
+          "text": "How Much Can Semiconductor Models Hide?",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/testing-silicon-photonics-at-scale/"
+          "url": "https://semiengineering.com/how-much-can-semiconductor-models-hide/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:06",
-          "title": "从制度上保障能源供应链韧性与安全 - 天津日报",
-          "summary": "从制度上保障能源供应链韧性与安全 天津日报",
+          "time": "07:00",
+          "title": "【八亿时空（688181.SH）】液晶材料持续放量叠加运营优化，26Q3公司毛利率显著提升——2026年三季报点评（赵乃迪/周家诺） - 新浪财经",
+          "summary": "【八亿时空（688181.SH）】液晶材料持续放量叠加运营优化，26Q3公司毛利率显著提升——2026年三季报点评（赵乃迪/周家诺） 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOVg3SEE3eTE1ZHhUOFlraHJPbFVDOFEtQTVGU0lMajJmRWFlWkN0N1hzcE1DVDNGU212Y1FvVm14eU1PZEN5Z216Nmg2cUlvVUpuNENqY2E4Zk9QcFFuOTF6UENMbDIxVi1aakN1VXlmYjIybTFwT3lBT2w0dk9xSmNn?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkZ3VUs2TFlPRV9FX2N0dWtUX2JpeUR4dHBFV21hN1dFdm9aSFpBdHRRY2VnSWc1SnMtWlFPdFZhYjJrMTFIUWpIVFpZQ0hjbElueE1XUC1tanBINUVlZGJFd3BHZUxJdXZCTWhuZTdhZDVTYllJWjh6bXJMQXdhRlVxUGx1dw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "ST沈化：公司管理层将全力以赴做好各项经营工作_公司新闻 - 证券之星",
-          "summary": "ST沈化：公司管理层将全力以赴做好各项经营工作_公司新闻 证券之星",
+          "time": "21:26",
+          "title": "今天国际(300532):子公司管理制度（2026年10月制定） - 中财网",
+          "summary": "今天国际(300532):子公司管理制度（2026年10月制定） 中财网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GSEg0U3BJR0drRHhQVUx6aDhud1ZIQzgwMzZXMXRHaUZKZzA1NzFLaE1wd0tnZFpiZXN5X05nSVRocjNfZURzMlZLWlhKaWl6OUpNQU8ydE9UcUNkU3BLVA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rVlBVMlFBanN6UFU1RFBXYlozMzdON2lUMDgzT0w2SjdtbjhCVWNLUWFwSWQxUU0ta0dTVDhHa2x4MEc1MWtjZlBPb2NQQk04SDc3WXZR?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "陕煤集团多项成果获评石油和化工企业管理创新成果 - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOekNFUGFrR3dDYTVTdXotRXM0dFVjZjZ2bkNWR3B6QXZiUTdFUWx2cWJyTFBoWTBuUWNUZks3MlFxcEFVUW5abDU2aW1lR3FyU0M3YVd5MTNzZ1RqaU9QN1F6SDVudlBmWTNER05PZmVWbWxNSVRGUTZDWlF6QmhmUFQ2VEdweWpzVzhfcA?oc=5"
+          "text": "快讯：日德首脑就强化矿产供应链韧性达成共识 - 共同网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45RUNUN0ZwYldBMnlQUGg2N2FzZjNLOXRxYzB0dUVCNHRlMktkTWVrU04xRkl6cC1JMmttckFleWJOOE90a3owTWJ1SjdmNlpaYTk3M3gyQQ?oc=5"
         },
         {
-          "text": "东南网架(002135):控股子公司管理制度（2026年10月） - 中财网",
+          "text": "湖北宜化(000422):子公司管理办法（2026年10月） - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCREEya1FCYS1hMUktejFpaWZRc1BnRjF4UkREbGs4SlpCMnFCbzRUd05HZkdnVHc0R19scjlqRnk5ZGRCR2hfcEd6bWtHTk4tOGIyTFp3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mZ1c1cE5FSl9WR0lFTnVrajZ3VHhzVWVjWG45SFNYZ3BYTXlleW84Y1lXY0QwRWRfWDQtV3lvM0Y5TVhDX3pfUW1Va0tHbVdaZFBSak5n?oc=5"
         },
         {
-          "text": "紫竹高科(002058):控股子公司管理制度 - 中财网",
+          "text": "百邦科技(300736):分子公司管理制度（2026年10月） - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIYnF4ajFEcjFtN2M0NUZoY002SE1VUkQ4WkdFVlpMTEQyeXBIV3pHVVNUamsza0tVOUVmU0Y0QXpaLVFneXB4QUFBUV9BUndEa2ZUS1RB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE81TlZIdU92eFN4eDNRVlhzcnR5dTNVMHl0UTA1VG1TNkgteUNGQV9jbGN4eUNUSzBGWHZ0dXpQNmZUM05UMm85d1RqUEJIZWo1NFRlel93?oc=5"
         },
         {
-          "text": "蚂蚁集团在上海成立云锳企业管理咨询公司 注册资本2000万 - 手机新浪网",
+          "text": "2026年石油和化工企业管理创新大会召开 探讨石油化工企业管理创新发展路径 - 中国金融信息网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGFqMjlRMzdqSkFFd2hLME1hbEQ2RWNORWJ0SEhDTzg5Skw4b19tRHlHYmdXY3cyM1REdENEMnNzUmxKNlBHZGc3RE9fTnpIWVVsZWV6TmI1LW5aTUZSZzhiX0owejZKREQ3VmRkazNWWU9aNDlWRUZKT0RQekd4dWxVaw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qc3ZvNGVrQmtYbmxpUnBFbVVzWWY3MjlrWHNib3dmU0hrbE9qS3NUc3VzTUprNjFQQTlrU1o1WkVlVjFyX21qRGNBRnVLR3pRc05QTGRXTXdMWWlNajRjTW9yc3B5WmdRdEE?oc=5"
         }
       ]
     }
