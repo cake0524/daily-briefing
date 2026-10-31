@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月30日",
+  "publishDate": "2026年10月31日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "绿电支撑算力产业集聚 山西大同数据经济核心产值超200亿元 - 搜狐网",
+      "title": "10月制造业PMI回落至49.3%，政策支撑下景气度有望回升 - Jiemia…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Smithsonian scientists just recreated t…",
+      "title": "A computer scientist breaks through a l…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:32",
-          "title": "绿电支撑算力产业集聚 山西大同数据经济核心产值超200亿元 - 搜狐网",
-          "summary": "绿电支撑算力产业集聚 山西大同数据经济核心产值超200亿元 搜狐网",
+          "time": "10:17",
+          "title": "10月制造业PMI回落至49.3%，政策支撑下景气度有望回升 - Jiemian.com",
+          "summary": "10月制造业PMI回落至49.3%，政策支撑下景气度有望回升 Jiemian.com",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWdHMGlfTGwzMTlKbW1BWFJLcmhaaXJWSkdpekh6a1VSTGRGR01sazFrY0gzWU5OWjRxeFFYRFVscy1sckVGUXdtOGVaQVhRME5yV0lpSEFHRkRaUi1LTU9MQ0tvMVoxRTRrR0JPaDVCNEV1aVdYeWE3aTJ3NWM3MktnWHV2M3ZvWXdPaQ?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pTmNzVUtBdktoako1V2NaOW5uSzc5Z0E1dVJIQVhyOUFfeEJIeGNJQ19BS2pWQmtubEVLLTJ3b2M0RnNjVExJNDFsakJYRHNGTDBZMWpJZ3k?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:31",
-          "title": "前三季度成都工业投资增长8.9%，高技术服务业投资增长13.5% - 成都市委统战部",
-          "summary": "前三季度成都工业投资增长8.9%，高技术服务业投资增长13.5% 成都市委统战部",
+          "time": "10:01",
+          "title": "10月非制造业商务活动指数降至49.7% - 紫荆网",
+          "summary": "10月非制造业商务活动指数降至49.7% 紫荆网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHVvUGVrd19mMl9OVFJjT2RxSkhsbU9lcVNub214NFBCWUlGbjY5dU1XZlA0Ulh1SmtwdWZMOEdGNTdRWnA4d21FTlBPQXdSaHNZeDRWOVNQTlZ6UVVFdW9FYnZIVDVub1JMNEQyMXZuWVdKSDdPdTlJcVVidkFiZ0pJZTdJQ3hEdjFtWkh3dTZ4Qk1rY0t3N2RaWWxUTW5oRGdr?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN0tfd0Z2eUN5ZDA4RGRHbUw0VVdwR3NvcnZSbXo0b1lCWjh3X1llMWFOZm12Qzh0QnVtQ3JqTEVFUUtBUW5FbkVhdkVQWFR6UGk2Sk1kTjRwZHhjREtJQUJ3X1BvbXFBVXBiZTZQd3BBTkxVX2tneWtjaEhpRXFNZC1WWkxZQzJmUW1HTUdhXzNuZ1ZY?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "撤销内燃机淘汰禁令的德国，在给“造血机器” 续命 - 盖世汽车",
+          "text": "国家统计局：10月制造业PMI降至49.3%，新动能保持较快增长 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zY0oxbS1NaFNld1NFeHVhSm1yekJISEFrOFRMb3hwVEZpRHE4ZHZYckQtUEpKTmlsUUZNY2FRc0RJN3VZY3hXbUtsdElUTTZZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUmJRdGhVYWxGQXRueFpLbF9NSHl3RDJZSVlZaVVjck1HUGJNZmF3alE4N3pqdEJyZHZqaE1JZDdjYUFrVEd2eG5QVEtSd2ZLZHpiZGZnZGJodkk4Ulh4SHN4TXFmbkpXWWg5b1NSTDcxckxrMmZ0MGc3eVNsS1BxUDVGaEZqZWZGNVZLeg?oc=5"
         },
         {
-          "text": "海泰发布｜签约零跑！海泰投资企业攻坚前沿电池技术 - 碳索储能网",
+          "text": "10月中国制造业采购经理指数公布，景气呈季节性回调 - ThePaper.cn",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ucXQyUVB3NDNRbDBKT1N6NHJFQTFmeW1QWUd2czlfT25YX2FwZnFIOHRUR1dsOVJ5YWlsQ2pzdWVELTlyQWQ4VS10cXFpejBESkhMS0ljUVdFSDBWdEVLVw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U0U1U2lFOXI0ZXRiSGRucmU1aWR5RVFRZWNqS2pxa3M2U21kdUZ3NnVCaHNTY3J3UjZYTHZUQ2E4TDIzajdkaVVZZjljTk1hUUc0MDh2ZlQ4TG9GeHJhOA?oc=5"
         },
         {
-          "text": "适合家用的新能源SUV推荐？奕境X9三排舒适与自驾实力解析 - 新浪汽车",
+          "text": "中国10月官方非制造业PMI降至49.7，不及预期_滚动新闻_财经 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nczNiSFNxV0pBcjZBczRwdU02dnNqVTlXbllaQl9TWDVuTGpOOXp0X20zMnR6bkE5T3FJME5WdGlqeUwzX0U1aHhLZjkycWV6YVlnbGgwVkIzLS1HVkpuX1NMX0FnY2VEQVlCN2lFNWlFVUlU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zbU4tRktrVG1sNjRHSFRieWZwNlN1OE9NSDBqN1NWWjhtR1FYd2sxSFZMektKYVZVY3lGak4zMUJ3V1J5Z3FxM0NQZWdLd1hHSkFFUUx4ZS1vbjVGaEpXVA?oc=5"
         },
         {
-          "text": "湖南2026年度新能源机制电价竞价工作有关事项：电量规模22.86亿千瓦时 - www.gdshe.org",
+          "text": "中国10月官方制造业PMI降至49.3，创7月以来新低_滚动新闻_财经 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YWG5EbWdWenIxQjM4S3pIcl80SW1lQjFyMW1pakFaMWVJd2xvV2lzcVVTR0U5QnFPUGlGRXRPV2xFWEhYUTczOWo3eWpTeFZlLVE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjUUtKcVFFQTR0Q1BnRDFpVm5uVDFFNTk2eGtMUUVacFB1ek5mXzNxUFIwcWtTblZBWEM4cHBqZ2VaS2pOMXhjSGd3eHlxTVBYaU5rVmpfMW52aDF1cmVveg?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "19:08",
+          "title": "A computer scientist breaks through a limit that stood since 1996",
+          "summary": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calc…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "17:48",
           "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
           "summary": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, off…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "17:22",
-          "title": "A tiny laser beam could make computer memory 1,000 times faster",
-          "summary": "Scientists at UC San Diego have developed a surprising new way to store digital information using light inste…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "A tiny laser beam could make computer memory 1,000 times faster",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm"
+        },
         {
           "text": "Tiny magnetic vortices could help computers work more like your brain",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Scientists overcome a hidden obstacle to more powerful quantum computers",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm"
-        },
-        {
-          "text": "Scientists discover a hidden flaw that challenges 40 years of superconductor sc…",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "01:00",
-          "title": "An updated Model Spec for more capable and beneficial AI",
-          "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human a…",
+          "time": "17:30",
+          "title": "Making it easier for websites to express AI training preferences",
+          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferen…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/updated-model-spec"
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:11",
-          "title": "We urgently need to monitor AI agents’ actions in real time",
-          "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test e…",
+          "time": "17:00",
+          "title": "Community safety report and new protections for teens",
+          "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
         }
       ],
       "briefs": [
         {
+          "text": "Fair use benefits everyone",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/fair-use-benefits-everyone"
+        },
+        {
+          "text": "An updated Model Spec for more capable and beneficial AI",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/updated-model-spec"
+        },
+        {
+          "text": "We urgently need to monitor AI agents’ actions in real time",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+        },
+        {
           "text": "How we detect frontier model misalignment",
           "source": "OpenAI",
           "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
-        },
-        {
-          "text": "How Ropes & Gray is developing AI for transactional diligence",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/ropes-gray-ai-diligence"
-        },
-        {
-          "text": "Creating AI value with enterprise context",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
-        },
-        {
-          "text": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
         }
       ]
     },
@@ -218,24 +218,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "15:01",
+          "title": "Chip Industry Week In Review",
+          "summary": "HBM shortages threaten AI expansion; TSMC weighs price hikes; advanced packaging ramps; domain-specialized AI…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-162/"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "15:13",
           "title": "Auto-Generation Of Properties: Methodology Insertion",
           "summary": "Technology is only useful if it improves an existing methodology. Property generation is still refining that…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/auto-generation-of-properties-methodology-insertion/"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "15:11",
-          "title": "Rethinking Shift Left In Chip Design",
-          "summary": "Is it better to do everything earlier in the flow, or should design be more flexible and iterative? The post…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/rethinking-shift-left-in-chip-design/"
         }
       ],
       "briefs": [
+        {
+          "text": "Rethinking Shift Left In Chip Design",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/rethinking-shift-left-in-chip-design/"
+        },
         {
           "text": "AI Raises The Bar For Tomorrow’s Engineers",
           "source": "Semiconductor Engineering",
@@ -250,11 +255,6 @@ window.dailyBrief = {
           "text": "Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/is-it-getting-hot-in-here-why-thermal-is-no-longer-a-signoff-problem/"
-        },
-        {
-          "text": "Physics-Based Validation: The Foundation Of Trustworthy Agentic EDA",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/physics-based-validation-the-foundation-of-trustworthy-agentic-eda/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:13",
-          "title": "Bitwise：公司管理的金库无币安敞口，管理策略所使用的抵押资产未受影响 - TradingView",
-          "summary": "Bitwise：公司管理的金库无币安敞口，管理策略所使用的抵押资产未受影响 TradingView",
+          "time": "21:27",
+          "title": "BDO Canada与ServiceNow合作，帮助企业管理人工智能并简化运营 - 富途牛牛",
+          "summary": "BDO Canada与ServiceNow合作，帮助企业管理人工智能并简化运营 富途牛牛",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5lRDRjRTBpeWc0bnREMk9CbkRnTXlBdG5Za2haY3pGSGxoM2tIUFlLY0ZIcndjN3F4RWVCd3p1WURRcVBPeDNESDFOY2VFOUFRcEw4cktJaUhJekI5TU9zOVdCUGViUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMk05ejBXVHlwdHF6aVpGRjNMZ1VTVGRTUGNXNTV6LXlYR2tqMHliT3FYcm85QzdEZWlOakU5VlpQdzI4Q2FaRHdXeHNNTUpoWVRqY0xYRElfOEZwVVBYZUZUV0JGeGQzRGxGYXA2Y1BGMEplVUNQbGhDUFhiTG9PQlpjMjQtdkN3QXlrRGstRGRyYV83aFZKXzBuZlpRTkpQOEcyM0JoWjM3SkFm?oc=5"
         },
         {
           "priority": "重点看点 02",
           "time": "17:00",
-          "title": "江丰电子：本次投资系基于公司战略发展规划，旨在进一步拓展投资渠道，挖掘半导体上下游领域优质项目资源 - 证券之星",
-          "summary": "江丰电子：本次投资系基于公司战略发展规划，旨在进一步拓展投资渠道，挖掘半导体上下游领域优质项目资源 证券之星",
+          "title": "文科股份：公司管理层及控股股东对此事项高度重视_公司新闻 - 证券之星",
+          "summary": "文科股份：公司管理层及控股股东对此事项高度重视_公司新闻 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sVmF6cDAwRlhhR2JyQzhpZFk1b1l5di1ULVAtR3ZfbVJKX1RuLUs0RlFDX2ZhYXpCTjJwbERqMi16SUR3bWxhanhlZERUcVdsSFlvS2lHdENWWHdqTl90dg?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IUE83MlA1bHAwSW9mOTk5RVFxYTZJSDROemwwdUNNcldwS1NrZ0lPY0ZsbGdkUDBRZGduVnRPQjQteUNJNklINTI3Wi1qZmNoN1BRNUZnZllVbURva1FYZA?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "大东南：公司管理费用增长主要是因三季度营业收入增长带动部分人员薪酬增加_公司新闻 - 证券之星",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ITHBoWW14RzVqOGpyeUxiZDdXdktMZnBMdGxaZm94MDF4REdLYWQ5dk16MWtHT3RfVVdnNmNZVG9tbk84TGpSYXYzYk15azRtWWlkODRIU2xMSDBrbmpxb0JB?oc=5"
+        },
+        {
+          "text": "中信证券（600030.SH）新增一起对外投资，被投资公司为广州市瑞中企业管理有限公司_公司新闻 - 证券之星",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GVGNVaWNfX0dLd3JYQkZJR0hmQWlqQmtvR0hxUTkxNmtTTjMyYXJuckFXSmgtVW95NFplekpOWVFJYi1KdGVDallCRnBsbE5LWFp3VUhBcDVrRENocERQNHdWWkw?oc=5"
+        },
+        {
+          "text": "江丰电子：本次投资系基于公司战略发展规划，旨在进一步拓展投资渠道，挖掘半导体上下游领域优质项目资源 - 证券之星",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sVmF6cDAwRlhhR2JyQzhpZFk1b1l5di1ULVAtR3ZfbVJKX1RuLUs0RlFDX2ZhYXpCTjJwbERqMi16SUR3bWxhanhlZERUcVdsSFlvS2lHdENWWHdqTl90dg?oc=5"
+        },
+        {
           "text": "深圳瑞捷(300977):深圳瑞捷技术股份有限公司战略发展规划（2026年—2030年） - 中财网",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kcktDVzBSTlVEYk15QXg3ZWZ0TmJFeUJIUV8tc2dYdUxBVXVsdW9WUnVlUFhoZ19zVk05bGlvdjZTbDF5NDljcnZEWTFKWDZWT0pZXzhR?oc=5"
-        },
-        {
-          "text": "巩固国家能源安全 第51届ASCOPE会议加强能源供应链韧性 - Shangbao Indonesia",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BSWJ3b2s3azVmWnZZTTh0UGZUaGQ4ZHJNelBFeDc4TWh1c0p2NW1OcjBweDRlbGpfRjlidVp4SXM5WVdab21nY0FMZU94ZlF3UlRvM2NBVUs4OFdOYWxXY2YyX3Y2OWVjb0h4enpEZG1ySEpGa1Z3?oc=5"
-        },
-        {
-          "text": "通达海十大流通股东格局生变：南京置益企业管理中心(有限合伙)等新进，周恒飞等退出 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGJUMVJVTFhOT3BoNDV5emVlTnh5OUtxcmZadUQyMm02a0g5bTFCbTlFOGgwcElwTkhrTzJoV1lzWVJScDhOVkJTWF83cXB0T3NOcXFDeWxfVVctOXRVdnZCN3RfZndWXzROamluNEpiUmtpUHh5cjE5LU9LdDJxZ2hpREIxRU53N05WQTMxVnBkZw?oc=5"
-        },
-        {
-          "text": "天洋新材十大流通股东格局生变：高盛公司等新进，黄敏等退出，常州百瑞兴阳企业管理增持，李哲龙减持 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSUJRTUh5T2ZkSjk1a0I2S3NWZzhveU5qYTVlMmpxNlZUY0ZRYmljRWRKbEdaUTNqRm9ETG85MDNlUlloNm94Y1hEZk5icDN0M3o4eEpkVEtUdVVLSmlFYWVGSjdXS2RnNFVJRFNWaVFvTlg1VFpUUkZxV0xCNFkxNERYRERLV1NBSHJHY3E0YWpTQQ?oc=5"
         }
       ]
     }
