@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年10月31日",
+  "publishDate": "2026年11月1日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "10月制造业PMI回落至49.3%，政策支撑下景气度有望回升 - Jiemia…",
+      "title": "【视频】新能源有的都有还有德系驾控试上汽大众ID.ERA 8X - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:17",
-          "title": "10月制造业PMI回落至49.3%，政策支撑下景气度有望回升 - Jiemian.com",
-          "summary": "10月制造业PMI回落至49.3%，政策支撑下景气度有望回升 Jiemian.com",
+          "time": "10:10",
+          "title": "【视频】新能源有的都有还有德系驾控试上汽大众ID.ERA 8X - 汽车之家",
+          "summary": "【视频】新能源有的都有还有德系驾控试上汽大众ID.ERA 8X 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5pTmNzVUtBdktoako1V2NaOW5uSzc5Z0E1dVJIQVhyOUFfeEJIeGNJQ19BS2pWQmtubEVLLTJ3b2M0RnNjVExJNDFsakJYRHNGTDBZMWpJZ3k?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Kajl5ems2bkRQVXNKZFJtR1BCcVRGMWJkaV9GcGlDMmxWeEdEYXRSY3pjQ2pxS1E3ZGNfREh5VTdmdXNyb3k5VENJd1UzSXlXZi1PUWJ1blFqaUk?oc=5"
         },
         {
           "priority": "重点看点 02",
           "time": "10:01",
-          "title": "10月非制造业商务活动指数降至49.7% - 紫荆网",
-          "summary": "10月非制造业商务活动指数降至49.7% 紫荆网",
+          "title": "【视频】十几万新能源黑马风神L8+藏着不少小心思 - 汽车之家",
+          "summary": "【视频】十几万新能源黑马风神L8+藏着不少小心思 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQN0tfd0Z2eUN5ZDA4RGRHbUw0VVdwR3NvcnZSbXo0b1lCWjh3X1llMWFOZm12Qzh0QnVtQ3JqTEVFUUtBUW5FbkVhdkVQWFR6UGk2Sk1kTjRwZHhjREtJQUJ3X1BvbXFBVXBiZTZQd3BBTkxVX2tneWtjaEhpRXFNZC1WWkxZQzJmUW1HTUdhXzNuZ1ZY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nNnhTdWRpWGNYZmlqbTlHUVZsc25ST2gwdjRhMFdnT2hCOFoybTYySDBwZXJSZVNaUjhtY2tnZ09xUHBDZUpKNmFTcVZhc1pwU3hCWEtmdkRYYnoxc085TThpMFlvMTJVNFZB?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "国家统计局：10月制造业PMI降至49.3%，新动能保持较快增长 - 搜狐网",
+          "text": "【视频】5万级新能源竟能免费送牌？实拍五菱缤果Pro - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUmJRdGhVYWxGQXRueFpLbF9NSHl3RDJZSVlZaVVjck1HUGJNZmF3alE4N3pqdEJyZHZqaE1JZDdjYUFrVEd2eG5QVEtSd2ZLZHpiZGZnZGJodkk4Ulh4SHN4TXFmbkpXWWg5b1NSTDcxckxrMmZ0MGc3eVNsS1BxUDVGaEZqZWZGNVZLeg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03OWI1QTR3YmJsZFB0d0ZYamF2a3d1cU80RWs4c2kybnNpS0dXeFE2Q2llcWs5SHhFOVYyNExyeUs5UzZjSFhLaE5yY2t4ck5Kb1VYUmJjby1Ya3E3cGphUW55Mkp3TmVMX3V3?oc=5"
         },
         {
-          "text": "10月中国制造业采购经理指数公布，景气呈季节性回调 - ThePaper.cn",
+          "text": "上汽MG 10月全球新能源销量超8.5万辆，国内超3.1万辆 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5U0U1U2lFOXI0ZXRiSGRucmU1aWR5RVFRZWNqS2pxa3M2U21kdUZ3NnVCaHNTY3J3UjZYTHZUQ2E4TDIzajdkaVVZZjljTk1hUUc0MDh2ZlQ4TG9GeHJhOA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BLXBDUkVFWGYwQlZnc0I0cEw2WkdOWVFTNVk5VDdaMzg2OURUTmRDX0pwYWdTa0hYVnRPcFRqbHpRYzlRZnJreHk4NXBrTFlaXzcyUVA5M0lUSGJZSzRtR2FXY3BkS3J2TW5z?oc=5"
         },
         {
-          "text": "中国10月官方非制造业PMI降至49.7，不及预期_滚动新闻_财经 - 证券之星",
+          "text": "家用大空间不只有六座：小鹏G9L与4款热门新能源大五座SUV横评+选购指南 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zbU4tRktrVG1sNjRHSFRieWZwNlN1OE9NSDBqN1NWWjhtR1FYd2sxSFZMektKYVZVY3lGak4zMUJ3V1J5Z3FxM0NQZWdLd1hHSkFFUUx4ZS1vbjVGaEpXVA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sYjc3TC1WSDVSOS1qTEp6OU1lR2tiYXQ5aTlqLURjOEphRElXcDc5cTM1WmFPLWNFRGFtalRJVnpUM0FLUlB1MXJGUm5jcmV1QlBQQ2tZUzdwQk5PZGhF?oc=5"
         },
         {
-          "text": "中国10月官方制造业PMI降至49.3，创7月以来新低_滚动新闻_财经 - 证券之星",
+          "text": "上汽MG：MG品牌10月全球新能源销量超8.5万台 - 东方财富",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjUUtKcVFFQTR0Q1BnRDFpVm5uVDFFNTk2eGtMUUVacFB1ek5mXzNxUFIwcWtTblZBWEM4cHBqZ2VaS2pOMXhjSGd3eHlxTVBYaU5rVmpfMW52aDF1cmVveg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OQXVkczc4OTNrU2FxRThZVWR5aVlFSTU0LTRMYkRaaUI0YkpYN21Zb3BFNHhsLWRQblMtMzh1ejVQSlNuVUU2cTBvZ3dyR1ZYY056SFFSVHRmdVdyWWxZaw?oc=5"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "21:27",
-          "title": "BDO Canada与ServiceNow合作，帮助企业管理人工智能并简化运营 - 富途牛牛",
-          "summary": "BDO Canada与ServiceNow合作，帮助企业管理人工智能并简化运营 富途牛牛",
+          "time": "04:27",
+          "title": "查某诉上海芯愔企业管理有限公司劳动合同纠纷案11月2日开庭 涉常规劳动争议 - 新浪财经",
+          "summary": "查某诉上海芯愔企业管理有限公司劳动合同纠纷案11月2日开庭 涉常规劳动争议 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMk05ejBXVHlwdHF6aVpGRjNMZ1VTVGRTUGNXNTV6LXlYR2tqMHliT3FYcm85QzdEZWlOakU5VlpQdzI4Q2FaRHdXeHNNTUpoWVRqY0xYRElfOEZwVVBYZUZUV0JGeGQzRGxGYXA2Y1BGMEplVUNQbGhDUFhiTG9PQlpjMjQtdkN3QXlrRGstRGRyYV83aFZKXzBuZlpRTkpQOEcyM0JoWjM3SkFm?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVNTcWsyWmxIVXFVQnRfWGRSX2FWNFY3LUQwbGJSLWJ0T0JYVXA4UHcwcU5tZE1mbWxHTmpYS0tfS21yWE5TOEhsbzFVTUZLTnNtVHFJczAta0xGRnlNYmR2WlN3eDZXbXo5WVFtX0FKYjN5bERlamV3d1VFNzVPcHRBamc3VjdwNHgtRXRn?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "17:00",
-          "title": "文科股份：公司管理层及控股股东对此事项高度重视_公司新闻 - 证券之星",
-          "summary": "文科股份：公司管理层及控股股东对此事项高度重视_公司新闻 证券之星",
+          "time": "04:04",
+          "title": "湖北存朴企业管理有限公司诉韩某追偿权纠纷案11月2日开庭 涉商事权责判定 - 新浪财经",
+          "summary": "湖北存朴企业管理有限公司诉韩某追偿权纠纷案11月2日开庭 涉商事权责判定 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IUE83MlA1bHAwSW9mOTk5RVFxYTZJSDROemwwdUNNcldwS1NrZ0lPY0ZsbGdkUDBRZGduVnRPQjQteUNJNklINTI3Wi1qZmNoN1BRNUZnZllVbURva1FYZA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZE1CdWtvX3ZJcXBiV2l6MmxlNVZ2WW9vVzZDTDRzelVJaG91Tlo3LVN4M0pRRExfQjVvWFgwdUV5X2gza184dTgxRk4xZFFjNWRSQ2xYNlc5cHRpWFVUeTJ6VTBMTFh5UTJWel92S3BpQkpXMGFnSThZT3dtMUxiNTBQbHlCejR2RnhfaWtR?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "大东南：公司管理费用增长主要是因三季度营业收入增长带动部分人员薪酬增加_公司新闻 - 证券之星",
+          "text": "深耕企业管理软件服务二十年 北京飞鸿至达累计服务客户超40000家 - 中华网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ITHBoWW14RzVqOGpyeUxiZDdXdktMZnBMdGxaZm94MDF4REdLYWQ5dk16MWtHT3RfVVdnNmNZVG9tbk84TGpSYXYzYk15azRtWWlkODRIU2xMSDBrbmpxb0JB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ackRGUGttUFdYbDh2V1l3RVdfV0FRRVZRdnUybUFDTEFiVWMzdjZZUEdJbzI1c25vblRpam5PbUFDUWkxYkRzVnJVeWQyOW1YVDFJa3d1c1N2NUxsZmd1c0RSMzZhMjBjNVpoUGl3?oc=5"
         },
         {
-          "text": "中信证券（600030.SH）新增一起对外投资，被投资公司为广州市瑞中企业管理有限公司_公司新闻 - 证券之星",
+          "text": "机构风向标 | 神州细胞(688520)2026年三季度已披露持仓机构仅8家 - 新浪财经",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GVGNVaWNfX0dLd3JYQkZJR0hmQWlqQmtvR0hxUTkxNmtTTjMyYXJuckFXSmgtVW95NFplekpOWVFJYi1KdGVDallCRnBsbE5LWFp3VUhBcDVrRENocERQNHdWWkw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHozMEViMERGMHdjaXVfLUozd3ljNWhBRFgydkt2VzVFVFVLdlFyRGpiY0YwUnVzYW1td2NFa25OTEk5VW9nR0RXWmYzQXdtLVNYVkc1MFZEcW41aktvdl9YVHdYamNfM250Y3FrYzNHd1FnVGR4WTJETG0yUWNDUW9CcHhKZw?oc=5"
         },
         {
-          "text": "江丰电子：本次投资系基于公司战略发展规划，旨在进一步拓展投资渠道，挖掘半导体上下游领域优质项目资源 - 证券之星",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sVmF6cDAwRlhhR2JyQzhpZFk1b1l5di1ULVAtR3ZfbVJKX1RuLUs0RlFDX2ZhYXpCTjJwbERqMi16SUR3bWxhanhlZERUcVdsSFlvS2lHdENWWHdqTl90dg?oc=5"
+          "text": "大东南：公司管理费用增长主要是因三季度营业收入增长带动部分人员薪酬增加 - 富途牛牛",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zNkE3SjRWb0tsMjU0R08tOVBfZHVneHJLSGtZMDd2OGdYeDd5Q0hWU2xPUE9BaVAxbDFZVF9sNEhjT1h3N1dFc1RQOUI5dlhJV1ByWg?oc=5"
         },
         {
-          "text": "深圳瑞捷(300977):深圳瑞捷技术股份有限公司战略发展规划（2026年—2030年） - 中财网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kcktDVzBSTlVEYk15QXg3ZWZ0TmJFeUJIUV8tc2dYdUxBVXVsdW9WUnVlUFhoZ19zVk05bGlvdjZTbDF5NDljcnZEWTFKWDZWT0pZXzhR?oc=5"
+          "text": "得邦照明: 控股子公司管理制度（2026年10月修订）_公司公告_每日必读 - 证券之星",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42REJfZ2FzOTdtYm42eVVQZjF3QzV1WmlDNGJQcDNzbDRLbDRlMGEwc1FYcVJHcVZJRDhzVFdPdDZ4bURUYUVMVVVwTVBnR1MyN19rcTFVcFdiWUNSWGZkV3JRSUQ5YThoWE5Z?oc=5"
         }
       ]
     }
