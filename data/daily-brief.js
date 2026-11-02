@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月1日",
+  "publishDate": "2026年11月2日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "【视频】新能源有的都有还有德系驾控试上汽大众ID.ERA 8X - 汽车之家",
+      "title": "家用新能源大五座SUV盘点，小鹏G9L凭什么成为全家人的舒适首选 - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:10",
-          "title": "【视频】新能源有的都有还有德系驾控试上汽大众ID.ERA 8X - 汽车之家",
-          "summary": "【视频】新能源有的都有还有德系驾控试上汽大众ID.ERA 8X 汽车之家",
+          "time": "10:29",
+          "title": "家用新能源大五座SUV盘点，小鹏G9L凭什么成为全家人的舒适首选 - 新浪网",
+          "summary": "家用新能源大五座SUV盘点，小鹏G9L凭什么成为全家人的舒适首选 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Kajl5ems2bkRQVXNKZFJtR1BCcVRGMWJkaV9GcGlDMmxWeEdEYXRSY3pjQ2pxS1E3ZGNfREh5VTdmdXNyb3k5VENJd1UzSXlXZi1PUWJ1blFqaUk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aZldiMWJfcWVIRDZKNGMtNDE1eE9JUHJKRGJCdlNIeXowbGlQN29acDRWaElEVkdNaVY4VlVnUW1DbnBNZlZiVlRBS3FudlJEclZjSzc2TC1uX1BiUVRN?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:01",
-          "title": "【视频】十几万新能源黑马风神L8+藏着不少小心思 - 汽车之家",
-          "summary": "【视频】十几万新能源黑马风神L8+藏着不少小心思 汽车之家",
+          "time": "10:20",
+          "title": "中国10月非官方制造业PMI扩张放缓 出口订单增长减速 - 联合早报",
+          "summary": "中国10月非官方制造业PMI扩张放缓 出口订单增长减速 联合早报",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nNnhTdWRpWGNYZmlqbTlHUVZsc25ST2gwdjRhMFdnT2hCOFoybTYySDBwZXJSZVNaUjhtY2tnZ09xUHBDZUpKNmFTcVZhc1pwU3hCWEtmdkRYYnoxc085TThpMFlvMTJVNFZB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UcWRCUnBpNk05ZDN1UnFGNzRQa3BhQ1hVVGFrMTBGV2FfV2FCeHhOdGR4QnVMeU1FalNjZVpldFdNc2lWeXRmdDNNa3U4SG9EM0pFSksxZmQyZG1kclRsZFNicm5hM1FjSlE?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "【视频】5万级新能源竟能免费送牌？实拍五菱缤果Pro - 汽车之家",
+          "text": "家用新能源大五座SUV推荐，小鹏G9L凭什么让全家都满意 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03OWI1QTR3YmJsZFB0d0ZYamF2a3d1cU80RWs4c2kybnNpS0dXeFE2Q2llcWs5SHhFOVYyNExyeUs5UzZjSFhLaE5yY2t4ck5Kb1VYUmJjby1Ya3E3cGphUW55Mkp3TmVMX3V3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TYTVXWnI5aVl1WGZGMmEzSWJJTEVBdTJndDBXZ1RUajNOcktrOW1rV2pWVDh3SkdPZkh1bDVNUkswSWJtZDllRVZkcjd2cDBKR252QTAzcEZIM2xfZUln?oc=5"
         },
         {
-          "text": "上汽MG 10月全球新能源销量超8.5万辆，国内超3.1万辆 - 汽车之家",
+          "text": "家用新能源大五座SUV横评：小鹏G9L、理想L6与极氪7X谁更懂家庭出行 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BLXBDUkVFWGYwQlZnc0I0cEw2WkdOWVFTNVk5VDdaMzg2OURUTmRDX0pwYWdTa0hYVnRPcFRqbHpRYzlRZnJreHk4NXBrTFlaXzcyUVA5M0lUSGJZSzRtR2FXY3BkS3J2TW5z?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ySFJSXzFGR3RtRGNUR1F4ZVRkb1BWclBTWnJMYkFlSS1GZWZXR1Zic1otV1FfVGNNZnllNkJESUtqVUdoaHVJTkwxd3ZMRFVVZ18yUW5kV0VSclo2TTFB?oc=5"
         },
         {
-          "text": "家用大空间不只有六座：小鹏G9L与4款热门新能源大五座SUV横评+选购指南 - 新浪网",
+          "text": "家用新能源大五座SUV盘点，小鹏G9L凭什么以旗舰舒适入榜 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sYjc3TC1WSDVSOS1qTEp6OU1lR2tiYXQ5aTlqLURjOEphRElXcDc5cTM1WmFPLWNFRGFtalRJVnpUM0FLUlB1MXJGUm5jcmV1QlBQQ2tZUzdwQk5PZGhF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52enpNQ3dRQkxrWXVoZ2xXSDdWWmhNZHc5TG9LcTlHNjBEdV8xZEg1cERDaDU3elYxYkhrV0tVQTNWdklDWm1ld3lpYTcyQWFuX2hBZGE4RzBub1JiUGlF?oc=5"
         },
         {
-          "text": "上汽MG：MG品牌10月全球新能源销量超8.5万台 - 东方财富",
+          "text": "五一满载7人出发，GL8新能源和传祺E8的后备厢差多少？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OQXVkczc4OTNrU2FxRThZVWR5aVlFSTU0LTRMYkRaaUI0YkpYN21Zb3BFNHhsLWRQblMtMzh1ejVQSlNuVUU2cTBvZ3dyR1ZYY056SFFSVHRmdVdyWWxZaw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyWmFCeGp3TXBHVGJ0bnNjODNacjNwTDBWR3ZBVE5Ob2tldkpOU0JXQnBXbEpoOWxSSFBwWmFPbTB5UV9zU1dhdVpudmpqb3d5d3BJZ0hYSEZFTzA?oc=5"
         }
       ]
     },
@@ -323,24 +323,24 @@ window.dailyBrief = {
         },
         {
           "priority": "重点看点 02",
-          "time": "04:04",
-          "title": "湖北存朴企业管理有限公司诉韩某追偿权纠纷案11月2日开庭 涉商事权责判定 - 新浪财经",
-          "summary": "湖北存朴企业管理有限公司诉韩某追偿权纠纷案11月2日开庭 涉商事权责判定 新浪财经",
+          "time": "04:24",
+          "title": "张某陆某诉上海洛景企业管理有限公司商品房预售合同纠纷案2026年11月2日开庭 - 新浪财经",
+          "summary": "张某陆某诉上海洛景企业管理有限公司商品房预售合同纠纷案2026年11月2日开庭 新浪财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZE1CdWtvX3ZJcXBiV2l6MmxlNVZ2WW9vVzZDTDRzelVJaG91Tlo3LVN4M0pRRExfQjVvWFgwdUV5X2gza184dTgxRk4xZFFjNWRSQ2xYNlc5cHRpWFVUeTJ6VTBMTFh5UTJWel92S3BpQkpXMGFnSThZT3dtMUxiNTBQbHlCejR2RnhfaWtR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2tQNDgwaHJQMVpCZGJSaUdsV0Y5WjR1a0F6QVNwQ19XSWhxYXczOEkwSEw3YkFlN1FVT3gwTV9wR3FiODFPM1RLLUhkUzhyRFVYMnFxWE04alhMVkE1dHlSSTEyZlc3d2lkZUF0UFFzRjRxdGU4YWNwOGRNN0FfTG0zUHZSNWlCOVFIOFl3?oc=5"
         }
       ],
       "briefs": [
         {
+          "text": "湖南北斗辅成企业管理有限公司诉上海市基础工程集团有限公司债权人代位权纠纷案2026年11月2日开庭结果将厘定双方债权权责 - 新浪财经",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXpoVElJZ1NxNWN1aWFHN3RiWkIxX19zc3R6Ymo5eWRQWTNOMkFlZVZOQ095UkJwbXFZZ3B3d1ZEeEUyc3hKcy16ZW9VZF9ybENzRF93MzN0c2VVT2FuU2F6c003dEFQckVOQnFhdk5mUlhfck92Mjg3MVhmYUJVVHI5RkVkME8tSm5NdTRB?oc=5"
+        },
+        {
           "text": "深耕企业管理软件服务二十年 北京飞鸿至达累计服务客户超40000家 - 中华网",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ackRGUGttUFdYbDh2V1l3RVdfV0FRRVZRdnUybUFDTEFiVWMzdjZZUEdJbzI1c25vblRpam5PbUFDUWkxYkRzVnJVeWQyOW1YVDFJa3d1c1N2NUxsZmd1c0RSMzZhMjBjNVpoUGl3?oc=5"
-        },
-        {
-          "text": "机构风向标 | 神州细胞(688520)2026年三季度已披露持仓机构仅8家 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSHozMEViMERGMHdjaXVfLUozd3ljNWhBRFgydkt2VzVFVFVLdlFyRGpiY0YwUnVzYW1td2NFa25OTEk5VW9nR0RXWmYzQXdtLVNYVkc1MFZEcW41aktvdl9YVHdYamNfM250Y3FrYzNHd1FnVGR4WTJETG0yUWNDUW9CcHhKZw?oc=5"
         },
         {
           "text": "大东南：公司管理费用增长主要是因三季度营业收入增长带动部分人员薪酬增加 - 富途牛牛",
