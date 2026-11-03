@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月2日",
+  "publishDate": "2026年11月3日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "家用新能源大五座SUV盘点，小鹏G9L凭什么成为全家人的舒适首选 - 新浪网",
+      "title": "福建税务发布先进制造业企业优惠政策适用管理典型案例｜诚信纳税人 合规经营路 -…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "Myanmar’s illicit economy fuels escalat…",
+      "title": "World News in Brief: healthcare crisis…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:29",
-          "title": "家用新能源大五座SUV盘点，小鹏G9L凭什么成为全家人的舒适首选 - 新浪网",
-          "summary": "家用新能源大五座SUV盘点，小鹏G9L凭什么成为全家人的舒适首选 新浪网",
+          "time": "11:48",
+          "title": "福建税务发布先进制造业企业优惠政策适用管理典型案例｜诚信纳税人 合规经营路 - 新浪财经_金融信息服务商",
+          "summary": "福建税务发布先进制造业企业优惠政策适用管理典型案例｜诚信纳税人 合规经营路 新浪财经_金融信息服务商",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aZldiMWJfcWVIRDZKNGMtNDE1eE9JUHJKRGJCdlNIeXowbGlQN29acDRWaElEVkdNaVY4VlVnUW1DbnBNZlZiVlRBS3FudlJEclZjSzc2TC1uX1BiUVRN?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWlRDb01SWUN1dFhkOVIyNG96ZFpVcm1VWE5MZTdQNDRCeUJVS0U3Vy01NEoxOWdZcFFSbFVjd25meU8yajNSRnFHRHJmNTgzV3VQdV80SDhNSVF5SnpEU1BEVE9TU2FLNDJrZXpUV1RaSWg2b0liQVU5STJJWEliaFFVTy1fbXItVHlSYW02WkpJYUxqRDVXYXB2RWotaEFPZm52Q0N2ZjFuRWFkRTRMUnhENUY4YV9ERGl2RVJzSjNYa2ctajU4bHVvUnpkbG1CSExiSnZqNA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:20",
-          "title": "中国10月非官方制造业PMI扩张放缓 出口订单增长减速 - 联合早报",
-          "summary": "中国10月非官方制造业PMI扩张放缓 出口订单增长减速 联合早报",
+          "time": "11:47",
+          "title": "连续7个月破10万，奇瑞10月新能源销量140893台创新高 - 汽车之家",
+          "summary": "连续7个月破10万，奇瑞10月新能源销量140893台创新高 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UcWRCUnBpNk05ZDN1UnFGNzRQa3BhQ1hVVGFrMTBGV2FfV2FCeHhOdGR4QnVMeU1FalNjZVpldFdNc2lWeXRmdDNNa3U4SG9EM0pFSksxZmQyZG1kclRsZFNicm5hM1FjSlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VbjFEWWdBN05iMkNKRGxDUVJaNUVtbXkyZ2ZBVktwS0VZcUVTUjVyMWJfV1lnQzk1MHA4QWtpM0dVMFc3cV9UMlZEbU4yN2FVb1dReENOb0NxRERBVU5aSnlSelR0R0FLWGhF?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "家用新能源大五座SUV推荐，小鹏G9L凭什么让全家都满意 - 新浪网",
+          "text": "关于邀请参加第十八届无锡国际新能源展览会的通知_展会/博览会_会议活动 - 世纪新能源网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TYTVXWnI5aVl1WGZGMmEzSWJJTEVBdTJndDBXZ1RUajNOcktrOW1rV2pWVDh3SkdPZkh1bDVNUkswSWJtZDllRVZkcjd2cDBKR252QTAzcEZIM2xfZUln?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFc1hCV1dmV1N2TzFqNnVEdm8zMy13ZVNFVjlnQmNsWkM3dVZhemt3TU1nLXc0Zmx2N3ZjQmJuRU1CMWhqNEdkVWVjYlFNRkdXZy12eg?oc=5"
         },
         {
-          "text": "家用新能源大五座SUV横评：小鹏G9L、理想L6与极氪7X谁更懂家庭出行 - 新浪网",
+          "text": "260万辆新能源车即将出保！坏一块电芯要花几万换整包，第三方门店维修被“卡脖子”｜“新消费领域”乱象调查⑥ - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ySFJSXzFGR3RtRGNUR1F4ZVRkb1BWclBTWnJMYkFlSS1GZWZXR1Zic1otV1FfVGNNZnllNkJESUtqVUdoaHVJTkwxd3ZMRFVVZ18yUW5kV0VSclo2TTFB?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN29UUy1ycHY2LXRDSGJSNG9NWUMxNGZwTUVHOFp2b1hmbHlWSjJpWkRXUW16cTE2U2gzTzFFeVV0YkRGRWhwQV9laDFJS2l0a1plbWxaRFByS0xVN0JERmRFVDBvNExZRndMSjg3cHJkelZHNURfd2lTcGJ4ai1BcFBFb0l1VWFfNHYxM1p3?oc=5"
         },
         {
-          "text": "家用新能源大五座SUV盘点，小鹏G9L凭什么以旗舰舒适入榜 - 新浪网",
+          "text": "新能源电力创新学院赴清华大学苏世民书院开展联合专题调研 - 华北电力大学",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52enpNQ3dRQkxrWXVoZ2xXSDdWWmhNZHc5TG9LcTlHNjBEdV8xZEg1cERDaDU3elYxYkhrV0tVQTNWdklDWm1ld3lpYTcyQWFuX2hBZGE4RzBub1JiUGlF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Rako3NE5EVkc1anFNOE9PQUdlV2ZMMEptZ1NRV0twb3ZVbE5YRG84VDVXeEoxWVAyeVQ1UkpVMWJBTGJFeTR2eWFfel9TV2dWV3djNDNYZ1JyQ3o0Y3ZONDVwVVR1bmFpTUw5SDBzQ29INlJlRmc?oc=5"
         },
         {
-          "text": "五一满载7人出发，GL8新能源和传祺E8的后备厢差多少？ - 汽车之家",
+          "text": "新能源装机与新技术催化共振，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ)昨日收涨2.36% - 财联社",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyWmFCeGp3TXBHVGJ0bnNjODNacjNwTDBWR3ZBVE5Ob2tldkpOU0JXQnBXbEpoOWxSSFBwWmFPbTB5UV9zU1dhdVpudmpqb3d5d3BJZ0hYSEZFTzA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGNXoxNEdDSXRzWHdNTE1zR1YxdjQwNDlQekR4c214aVU3QWw3ZGRWcUViSWdEZUpQdjRfbWtnVnJ3bWYwS09jNA?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-          "summary": "Myanmar’s human rights situation is “catastrophic”, the UN independent expert on the country warned at a pres…",
+          "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
+          "summary": "The humanitarian crisis in Yemen is worsening, particularly in the southwestern city of Taiz, which is being…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168705"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168723"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "AI is changing the way we think. The question is whether we’ll notice in time",
-          "summary": "Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize r…",
+          "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+          "summary": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were abl…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168704"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168722"
         }
       ],
       "briefs": [
         {
-          "text": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen…",
+          "text": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chie…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168703"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168720"
         },
         {
-          "text": "Russia drone strike on Ukrainian railway station kills 13",
+          "text": "Six in seven journalist murders go unpunished, UNESCO reports",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168702"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168719"
         },
         {
-          "text": "Nature is making a comeback – now restoration funding must quadruple",
+          "text": "Breaking the silence in Mexico’s barracks",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168700"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168715"
         },
         {
-          "text": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+          "text": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168698"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168718"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "17:30",
-          "title": "Making it easier for websites to express AI training preferences",
-          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferen…",
+          "time": "02:00",
+          "title": "Rewarding defenders with bigger bug bounties",
+          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
         },
         {
           "priority": "重点看点 02",
-          "time": "17:00",
-          "title": "Community safety report and new protections for teens",
-          "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a…",
+          "time": "02:00",
+          "title": "Preparing our next security sprint to harden OpenAI",
+          "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defen…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
         }
       ],
       "briefs": [
         {
-          "text": "Fair use benefits everyone",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/fair-use-benefits-everyone"
-        },
-        {
-          "text": "An updated Model Spec for more capable and beneficial AI",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/updated-model-spec"
-        },
-        {
-          "text": "We urgently need to monitor AI agents’ actions in real time",
+          "text": "Raising the quality of insights in agentic analytics",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+          "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
         },
         {
-          "text": "How we detect frontier model misalignment",
+          "text": "Scaling Git at OpenAI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+          "url": "https://openai.com/index/scaling-git-at-openai"
+        },
+        {
+          "text": "Introducing the Grid Protectors Program",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/grid-protectors-program"
+        },
+        {
+          "text": "Stop counting tokens, start counting what ships",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "15:01",
-          "title": "Chip Industry Week In Review",
-          "summary": "HBM shortages threaten AI expansion; TSMC weighs price hikes; advanced packaging ramps; domain-specialized AI…",
+          "time": "02:00",
+          "title": "From Chip Lab to Center Stage",
+          "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumer…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-162/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:13",
-          "title": "Auto-Generation Of Properties: Methodology Insertion",
-          "summary": "Technology is only useful if it improves an existing methodology. Property generation is still refining that…",
+          "time": "21:00",
+          "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
+          "summary": "The U.S. semiconductor industry is booming but industry watchers fear the country’s workforce is unprepared.…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/auto-generation-of-properties-methodology-insertion/"
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/community-college-semiconductors"
         }
       ],
       "briefs": [
         {
-          "text": "Rethinking Shift Left In Chip Design",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/rethinking-shift-left-in-chip-design/"
+          "text": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/monazite-rare-earth"
         },
         {
-          "text": "AI Raises The Bar For Tomorrow’s Engineers",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-raises-the-bar-for-tomorrows-engineers/"
+          "text": "U.S. Chip Firms Bet Big on R&D",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/semiconductor-research"
         },
         {
-          "text": "The Complexity Between The Bits",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-complexity-between-the-bits/"
+          "text": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://spectrum.ieee.org/anderon-quantum-fab"
         },
         {
-          "text": "Is It Getting Hot In Here? Why Thermal Is No Longer A Signoff Problem",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/is-it-getting-hot-in-here-why-thermal-is-no-longer-a-signoff-problem/"
+          "text": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, R…",
+          "source": "IEEE Spectrum Semiconductors",
+          "url": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Myanmar’s illicit economy fuels escalating violence, with civilians bearing the brunt",
-          "summary": "Myanmar’s human rights situation is “catastrophic”, the UN independent expert on the country warned at a pres…",
+          "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
+          "summary": "The humanitarian crisis in Yemen is worsening, particularly in the southwestern city of Taiz, which is being…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168705"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168723"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "AI is changing the way we think. The question is whether we’ll notice in time",
-          "summary": "Artificial intelligence promises to make life easier. With a few keystrokes, it can write emails, summarize r…",
+          "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
+          "summary": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were abl…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168704"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168722"
         }
       ],
       "briefs": [
         {
-          "text": "World News in Brief: 5 children killed in Sudan, Haiti hunger emergency, Yemen…",
+          "text": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chie…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168703"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168720"
         },
         {
-          "text": "Russia drone strike on Ukrainian railway station kills 13",
+          "text": "Six in seven journalist murders go unpunished, UNESCO reports",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168702"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168719"
         },
         {
-          "text": "Nature is making a comeback – now restoration funding must quadruple",
+          "text": "Breaking the silence in Mexico’s barracks",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168700"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168715"
         },
         {
-          "text": "Security Council LIVE: Can new technology keep the world’s sea lanes safe?",
+          "text": "COP17: Nations chart ‘Yerevan Pathway’ to speed up action for nature",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/10/1168698"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168718"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "04:27",
-          "title": "查某诉上海芯愔企业管理有限公司劳动合同纠纷案11月2日开庭 涉常规劳动争议 - 新浪财经",
-          "summary": "查某诉上海芯愔企业管理有限公司劳动合同纠纷案11月2日开庭 涉常规劳动争议 新浪财经",
+          "time": "18:25",
+          "title": "企业战略哪家更专业？2026年战略营销咨询机构盘点与选型参考 - 凤凰网财经",
+          "summary": "企业战略哪家更专业？2026年战略营销咨询机构盘点与选型参考 凤凰网财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNVNTcWsyWmxIVXFVQnRfWGRSX2FWNFY3LUQwbGJSLWJ0T0JYVXA4UHcwcU5tZE1mbWxHTmpYS0tfS21yWE5TOEhsbzFVTUZLTnNtVHFJczAta0xGRnlNYmR2WlN3eDZXbXo5WVFtX0FKYjN5bERlamV3d1VFNzVPcHRBamc3VjdwNHgtRXRn?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyZEtROXNfYldfNnZHVDAwa1J1Ukpfc0ZCQVM0ZnJuSHRiNXpUM0d6MS0zTUhfWmFTY1ZKR1ZFd0lJcXVaNW1aY3VMSmFENXVS?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "04:24",
-          "title": "张某陆某诉上海洛景企业管理有限公司商品房预售合同纠纷案2026年11月2日开庭 - 新浪财经",
-          "summary": "张某陆某诉上海洛景企业管理有限公司商品房预售合同纠纷案2026年11月2日开庭 新浪财经",
+          "time": "15:39",
+          "title": "国情讲坛第72讲：使命导向企业理论与国有企业战略使命评价制度（2026年11月6日星期五19:00） - 清华大学公共管理学院",
+          "summary": "国情讲坛第72讲：使命导向企业理论与国有企业战略使命评价制度（2026年11月6日星期五19:00） 清华大学公共管理学院",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR2tQNDgwaHJQMVpCZGJSaUdsV0Y5WjR1a0F6QVNwQ19XSWhxYXczOEkwSEw3YkFlN1FVT3gwTV9wR3FiODFPM1RLLUhkUzhyRFVYMnFxWE04alhMVkE1dHlSSTEyZlc3d2lkZUF0UFFzRjRxdGU4YWNwOGRNN0FfTG0zUHZSNWlCOVFIOFl3?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TXzhsd2o0UmY2NlZkTTBwWjdOTGdZY1Jrb1ZuSHRGODR6cldkX2pPYjlvY0taZ1pjNjlOOWhLeDVIdkRJOU1lZlhPTHFrLTI4VFlZWDE5OGkyWWx6WUsxUA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "湖南北斗辅成企业管理有限公司诉上海市基础工程集团有限公司债权人代位权纠纷案2026年11月2日开庭结果将厘定双方债权权责 - 新浪财经",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaXpoVElJZ1NxNWN1aWFHN3RiWkIxX19zc3R6Ymo5eWRQWTNOMkFlZVZOQ095UkJwbXFZZ3B3d1ZEeEUyc3hKcy16ZW9VZF9ybENzRF93MzN0c2VVT2FuU2F6c003dEFQckVOQnFhdk5mUlhfck92Mjg3MVhmYUJVVHI5RkVkME8tSm5NdTRB?oc=5"
+          "text": "美团发布LongCat-2.5大模型，延续“国芯国模”研发路线，强化商业分析等能力 - 新浪财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzVmd3eVU0MTExODJEcGhlZThwOVpST3o2NXBEUVBpVmE4RlVqZy1kN2tKSUdXbXRpYWRUX0NZa3U2bU9HdUNvR2F0RW15NVhaSlhyUFZPRW01ZzBUZ3JTU0FCUURYQ1o3TmRyWWxaa3JJbjNMQVhxVw?oc=5"
         },
         {
-          "text": "深耕企业管理软件服务二十年 北京飞鸿至达累计服务客户超40000家 - 中华网",
+          "text": "华虹宏力、联新资本成立企业管理合伙企业 - 富途牛牛",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ackRGUGttUFdYbDh2V1l3RVdfV0FRRVZRdnUybUFDTEFiVWMzdjZZUEdJbzI1c25vblRpam5PbUFDUWkxYkRzVnJVeWQyOW1YVDFJa3d1c1N2NUxsZmd1c0RSMzZhMjBjNVpoUGl3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGpHdDA4UUpISE82N1VyWE1xb2xZYWhLWVpZY1pJdFZNZ1RHOFNzMFpoZDdpclNBVi1DQ0pwV2syV1lCVl91OEd0UlBwQTZxTmJaMDRnblFPV2xuamZyRkc1cUpUY1dhb091ZkhMdEJiM1YyaEo1YzJKNFNqUVJVYzJrX2xyc1pwUGhrWnh4SVlzUTlXZVFxWlRxd3FZMllicTFObWprNXlnVHhpQWc?oc=5"
         },
         {
-          "text": "大东南：公司管理费用增长主要是因三季度营业收入增长带动部分人员薪酬增加 - 富途牛牛",
+          "text": "东港股份：公司管理层薪酬与经营业绩挂钩_公司新闻 - 证券之星",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zNkE3SjRWb0tsMjU0R08tOVBfZHVneHJLSGtZMDd2OGdYeDd5Q0hWU2xPUE9BaVAxbDFZVF9sNEhjT1h3N1dFc1RQOUI5dlhJV1ByWg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTMjVfU1hwUXRNT2V5SkFIY18tUzdrb19JNzV1aDA3RTM2VldXSnMtcEhZNGlobjFmcTFxWWFaZnByUVplOUlzc0pzVmNqMFVHTlFkbW5CRnVBenA0cks1aUdR?oc=5"
         },
         {
-          "text": "得邦照明: 控股子公司管理制度（2026年10月修订）_公司公告_每日必读 - 证券之星",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42REJfZ2FzOTdtYm42eVVQZjF3QzV1WmlDNGJQcDNzbDRLbDRlMGEwc1FYcVJHcVZJRDhzVFdPdDZ4bURUYUVMVVVwTVBnR1MyN19rcTFVcFdiWUNSWGZkV3JRSUQ5YThoWE5Z?oc=5"
+          "text": "拆解政企数智采购十强：供应链韧性成新比拼点 - 搜狐网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGRVQ0NJWUN3bHh6S3lwaUM0aW9MOXJicFlJLUx0c1NUYWhVZ1ExdWZTMGFncVpYUUxsbzdpZUZBV2oxY1N2MzJjb1Z4cFRXY1pRRkRyeEJzQjcxVlVHc1JMLVFzVWlzVTBqcUZ4eFpYTWpudWlGQ2g3Tk90Qmtva1lQZldZVjVJV1ZLeA?oc=5"
         }
       ]
     }
