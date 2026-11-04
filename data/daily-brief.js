@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月3日",
+  "publishDate": "2026年11月4日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "福建税务发布先进制造业企业优惠政策适用管理典型案例｜诚信纳税人 合规经营路 -…",
+      "title": "家用新能源大五座SUV盘点，小鹏G9L与理想L6、极氪7X、智界R7横评 -…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "11:48",
-          "title": "福建税务发布先进制造业企业优惠政策适用管理典型案例｜诚信纳税人 合规经营路 - 新浪财经_金融信息服务商",
-          "summary": "福建税务发布先进制造业企业优惠政策适用管理典型案例｜诚信纳税人 合规经营路 新浪财经_金融信息服务商",
+          "time": "10:58",
+          "title": "家用新能源大五座SUV盘点，小鹏G9L与理想L6、极氪7X、智界R7横评 - 新浪网",
+          "summary": "家用新能源大五座SUV盘点，小鹏G9L与理想L6、极氪7X、智界R7横评 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWlRDb01SWUN1dFhkOVIyNG96ZFpVcm1VWE5MZTdQNDRCeUJVS0U3Vy01NEoxOWdZcFFSbFVjd25meU8yajNSRnFHRHJmNTgzV3VQdV80SDhNSVF5SnpEU1BEVE9TU2FLNDJrZXpUV1RaSWg2b0liQVU5STJJWEliaFFVTy1fbXItVHlSYW02WkpJYUxqRDVXYXB2RWotaEFPZm52Q0N2ZjFuRWFkRTRMUnhENUY4YV9ERGl2RVJzSjNYa2ctajU4bHVvUnpkbG1CSExiSnZqNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMQTRGQkZ6ejJmNGRVcFc5M3B2Z3dUbUViV2hPd0E2Q1FXaHRULWI0YXBORjZ5RFlwV3VxOGRITGJNVjdkbDFiOVNZUlY4bnVIXzJtbWZUa0RSTWNMUWIw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "11:47",
-          "title": "连续7个月破10万，奇瑞10月新能源销量140893台创新高 - 汽车之家",
-          "summary": "连续7个月破10万，奇瑞10月新能源销量140893台创新高 汽车之家",
+          "time": "10:55",
+          "title": "家用新能源大五座SUV推荐：小鹏G9L、理想L6、乐道L80和极氪7X怎么选 - 新浪网",
+          "summary": "家用新能源大五座SUV推荐：小鹏G9L、理想L6、乐道L80和极氪7X怎么选 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VbjFEWWdBN05iMkNKRGxDUVJaNUVtbXkyZ2ZBVktwS0VZcUVTUjVyMWJfV1lnQzk1MHA4QWtpM0dVMFc3cV9UMlZEbU4yN2FVb1dReENOb0NxRERBVU5aSnlSelR0R0FLWGhF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iR0ZBOEVGUjlabmxBMnBkekF0dmJza1J6QkxqbXJnQkxFbXRSZFo4SFRNY1RzNG14SFpJQkxfbnZ3aGlUYW1wekFRRy1SanZtRjlNWmE2OHRBZUNSVURv?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "关于邀请参加第十八届无锡国际新能源展览会的通知_展会/博览会_会议活动 - 世纪新能源网",
+          "text": "家用新能源大五座SUV盘点：小鹏G9L、理想L6、问界M7、乐道L80怎么选？ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFc1hCV1dmV1N2TzFqNnVEdm8zMy13ZVNFVjlnQmNsWkM3dVZhemt3TU1nLXc0Zmx2N3ZjQmJuRU1CMWhqNEdkVWVjYlFNRkdXZy12eg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qMkM2RURiU3o4V1MxS1VVT2dFUmlGNUtqZVQ5a1JsQk1Ub285RGM4YzcwLTh2SGtYeUg0Qi1qdjhhUWV4RzgzWjZxWGxUUlpFdHRRb0xqcjRJZzNENFpF?oc=5"
         },
         {
-          "text": "260万辆新能源车即将出保！坏一块电芯要花几万换整包，第三方门店维修被“卡脖子”｜“新消费领域”乱象调查⑥ - 手机新浪网",
+          "text": "年轻人爱高尔夫又爱新能源，怎么叫停了？ - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN29UUy1ycHY2LXRDSGJSNG9NWUMxNGZwTUVHOFp2b1hmbHlWSjJpWkRXUW16cTE2U2gzTzFFeVV0YkRGRWhwQV9laDFJS2l0a1plbWxaRFByS0xVN0JERmRFVDBvNExZRndMSjg3cHJkelZHNURfd2lTcGJ4ai1BcFBFb0l1VWFfNHYxM1p3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcFdfN0l6VktIeGxqWHF3bVZRcm1mVFZmdzU4V0FoQnBCbnN4dHk4WDExTmZDTEpydmwzM3prWmZhcVM1a0h5ZjVLWUpsc0Z5ME52Y1pzRkI4SU5TX3VCMU93TDIyV0kySllvbTl0cm5ZTXFPX1FqLVVIUUVuSEI0dlkzZVpmOXFQX2pCVg?oc=5"
         },
         {
-          "text": "新能源电力创新学院赴清华大学苏世民书院开展联合专题调研 - 华北电力大学",
+          "text": "【视频】年轻人爱高尔夫又爱新能源，怎么叫停了？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Rako3NE5EVkc1anFNOE9PQUdlV2ZMMEptZ1NRV0twb3ZVbE5YRG84VDVXeEoxWVAyeVQ1UkpVMWJBTGJFeTR2eWFfel9TV2dWV3djNDNYZ1JyQ3o0Y3ZONDVwVVR1bmFpTUw5SDBzQ29INlJlRmc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xS0xNaUxmUFh3cnZxbWNyN01kaExlX1AtaFlwV0JOMUtBYmNKbHo0VnpSaVN3R0tXOGh3cHItZ0xLSzI4N0FxU3lHVXB5WWtMZHY2bFNfQWxEZDQ?oc=5"
         },
         {
-          "text": "新能源装机与新技术催化共振，南方基金旗下新能源ETF南方(516160)跟踪标的指数中证新能源指数(399808.SZ)昨日收涨2.36% - 财联社",
+          "text": "最近上市的家用新能源大五座SUV盘点，小鹏G9L、理想L6与乐道L80怎么选 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGNXoxNEdDSXRzWHdNTE1zR1YxdjQwNDlQekR4c214aVU3QWw3ZGRWcUViSWdEZUpQdjRfbWtnVnJ3bWYwS09jNA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44Mi1tRVFIUjRvWGlhX0RFaWNQS1Q4c09vVUNMRjc0SXF5bXRDS2x6RGJ5ekVqV0sybWY3bENBTmFPZkJYelZWeUV0Vlh0VUhiVWdYM3A5ZFp3R3VuWGhR?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:00",
-          "title": "Rewarding defenders with bigger bug bounties",
-          "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign…",
+          "time": "20:00",
+          "title": "Accelerating engineering for the physical world",
+          "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workfl…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
         },
         {
           "priority": "重点看点 02",
-          "time": "02:00",
-          "title": "Preparing our next security sprint to harden OpenAI",
-          "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defen…",
+          "time": "18:43",
+          "title": "How “reverse game theory” could keep AI agents in check",
+          "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that in…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
         }
       ],
       "briefs": [
         {
-          "text": "Raising the quality of insights in agentic analytics",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
-        },
-        {
-          "text": "Scaling Git at OpenAI",
+          "text": "How Cisco defends at machine speed with OpenAI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/scaling-git-at-openai"
+          "url": "https://openai.com/index/cisco-cyber"
         },
         {
-          "text": "Introducing the Grid Protectors Program",
+          "text": "Heimstaden is changing residential real estate management with AI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/grid-protectors-program"
+          "url": "https://openai.com/index/heimstaden"
         },
         {
-          "text": "Stop counting tokens, start counting what ships",
+          "text": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+          "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+        },
+        {
+          "text": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:00",
-          "title": "From Chip Lab to Center Stage",
-          "summary": "Many engineers are more comfortable working behind the scenes developing technology than speaking to consumer…",
+          "time": "02:01",
+          "title": "Randomized Caches in HW: Overheads And Limitations (RUB, Max Planck, Georgia Tech)",
+          "summary": "Researchers at Ruhr University Bochum, the Max Planck Institute for Security and Privacy, and Georgia Tech pu…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/preethi-ashwath-chip-designer"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/randomized-caches-in-hw-overheads-and-limitations-rub-max-planck-georgia-tech/"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:00",
-          "title": "Community Colleges Put New Workers Into Semiconductor Jobs Fast",
-          "summary": "The U.S. semiconductor industry is booming but industry watchers fear the country’s workforce is unprepared.…",
+          "time": "01:10",
+          "title": "Fast, Sub-Volt HZO Ferroelectric Capacitors For DRAM-Like Memory (SNU)",
+          "summary": "Seoul National University-led researchers published “Resolving the Kay–Dunn limit and the speed–endurance dil…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/community-college-semiconductors"
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/fast-sub-volt-hzo-ferroelectric-capacitors-for-dram-like-memory-snu/"
         }
       ],
       "briefs": [
         {
-          "text": "Can a Radioactive Ore Break China’s Grip on Rare Earths?",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/monazite-rare-earth"
+          "text": "Chip Industry Technical Paper Roundup: Nov. 3",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/"
         },
         {
-          "text": "U.S. Chip Firms Bet Big on R&D",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/semiconductor-research"
+          "text": "AI Image Enhancement Improves Detection Of Flip-Chip Interconnect Defects (MCL,…",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/ai-image-enhancement-improves-detection-of-flip-chip-interconnect-defects-mcl-pva-tepla-ase/"
         },
         {
-          "text": "The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/anderon-quantum-fab"
+          "text": "3D Integration Reduces Embodied-Emissions Impact Of GPU Scaling (imec, VUB)",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/3d-integration-reduces-embodied-emissions-impact-of-gpu-scaling-imec-vub/"
         },
         {
-          "text": "Engineering Multipole Resonances in Dielectric Metasurfaces for Transmission, R…",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://event.on24.com/wcc/r/5510255/64A1C3695631E727E756BFCA0490437A?utm_source=IEEE"
+          "text": "Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/quantum-interconnects-link-two-120-qubit-processors-ibm-research/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "18:25",
-          "title": "企业战略哪家更专业？2026年战略营销咨询机构盘点与选型参考 - 凤凰网财经",
-          "summary": "企业战略哪家更专业？2026年战略营销咨询机构盘点与选型参考 凤凰网财经",
+          "time": "20:24",
+          "title": "搜狐张朝阳乌镇峰会谈关注流：公司战略级产品 走真人社交差异化路线 - 广州日报新花城",
+          "summary": "搜狐张朝阳乌镇峰会谈关注流：公司战略级产品 走真人社交差异化路线 广州日报新花城",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyZEtROXNfYldfNnZHVDAwa1J1Ukpfc0ZCQVM0ZnJuSHRiNXpUM0d6MS0zTUhfWmFTY1ZKR1ZFd0lJcXVaNW1aY3VMSmFENXVS?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFphblZmX3pYXzlBbWl6Y0s0Ui03U0dwUk1ocE84SmxVZG5ZZ2tRMWZRVFVVN2tEaGN0TElqbmVBLVMzQnZYcWVFbzQ4b09Qd0x2N3RIRTFvV1k5SzVCTG1RdlFJLVZtWnVjN2VPTWdCZ19VeVJKemVldTRUUlJzcWxoaVlMNEtqS2c?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "15:39",
-          "title": "国情讲坛第72讲：使命导向企业理论与国有企业战略使命评价制度（2026年11月6日星期五19:00） - 清华大学公共管理学院",
-          "summary": "国情讲坛第72讲：使命导向企业理论与国有企业战略使命评价制度（2026年11月6日星期五19:00） 清华大学公共管理学院",
+          "time": "17:00",
+          "title": "密封科技：公司管理层将综合考量现金流、日常经营发展、未来投资计划等各项因素_公司新闻 - 证券之星",
+          "summary": "密封科技：公司管理层将综合考量现金流、日常经营发展、未来投资计划等各项因素_公司新闻 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TXzhsd2o0UmY2NlZkTTBwWjdOTGdZY1Jrb1ZuSHRGODR6cldkX2pPYjlvY0taZ1pjNjlOOWhLeDVIdkRJOU1lZlhPTHFrLTI4VFlZWDE5OGkyWWx6WUsxUA?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZcEpkMzhaM3ByT0RRTWxuMDl5Wm5CRnp5ZFcwWnBVRGdYS3c5U2RybTNNMFpTNlREZVo1WnhJWElvS0V1ZDRWUWxka1FwbjBKYWFtYXNhamlFd0k4WndrUw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "美团发布LongCat-2.5大模型，延续“国芯国模”研发路线，强化商业分析等能力 - 新浪财经",
+          "text": "企业战略哪家更专业？2026年战略营销咨询机构盘点与选型参考 - 凤凰网财经",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzVmd3eVU0MTExODJEcGhlZThwOVpST3o2NXBEUVBpVmE4RlVqZy1kN2tKSUdXbXRpYWRUX0NZa3U2bU9HdUNvR2F0RW15NVhaSlhyUFZPRW01ZzBUZ3JTU0FCUURYQ1o3TmRyWWxaa3JJbjNMQVhxVw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyZEtROXNfYldfNnZHVDAwa1J1Ukpfc0ZCQVM0ZnJuSHRiNXpUM0d6MS0zTUhfWmFTY1ZKR1ZFd0lJcXVaNW1aY3VMSmFENXVS?oc=5"
         },
         {
-          "text": "华虹宏力、联新资本成立企业管理合伙企业 - 富途牛牛",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGpHdDA4UUpISE82N1VyWE1xb2xZYWhLWVpZY1pJdFZNZ1RHOFNzMFpoZDdpclNBVi1DQ0pwV2syV1lCVl91OEd0UlBwQTZxTmJaMDRnblFPV2xuamZyRkc1cUpUY1dhb091ZkhMdEJiM1YyaEo1YzJKNFNqUVJVYzJrX2xyc1pwUGhrWnh4SVlzUTlXZVFxWlRxd3FZMllicTFObWprNXlnVHhpQWc?oc=5"
-        },
-        {
-          "text": "东港股份：公司管理层薪酬与经营业绩挂钩_公司新闻 - 证券之星",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTMjVfU1hwUXRNT2V5SkFIY18tUzdrb19JNzV1aDA3RTM2VldXSnMtcEhZNGlobjFmcTFxWWFaZnByUVplOUlzc0pzVmNqMFVHTlFkbW5CRnVBenA0cks1aUdR?oc=5"
+          "text": "国情讲坛第72讲：使命导向企业理论与国有企业战略使命评价制度（2026年11月6日星期五19:00） - 清华大学公共管理学院",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TXzhsd2o0UmY2NlZkTTBwWjdOTGdZY1Jrb1ZuSHRGODR6cldkX2pPYjlvY0taZ1pjNjlOOWhLeDVIdkRJOU1lZlhPTHFrLTI4VFlZWDE5OGkyWWx6WUsxUA?oc=5"
         },
         {
           "text": "拆解政企数智采购十强：供应链韧性成新比拼点 - 搜狐网",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGRVQ0NJWUN3bHh6S3lwaUM0aW9MOXJicFlJLUx0c1NUYWhVZ1ExdWZTMGFncVpYUUxsbzdpZUZBV2oxY1N2MzJjb1Z4cFRXY1pRRkRyeEJzQjcxVlVHc1JMLVFzVWlzVTBqcUZ4eFpYTWpudWlGQ2g3Tk90Qmtva1lQZldZVjVJV1ZLeA?oc=5"
+        },
+        {
+          "text": "美团LongCat-2.5发布：AI向主业纵深强化商业分析等能力- AI - 亿邦动力网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EVXZnZjZQN2VlV0ZESHU5M0tzaXZiZGdBUnhhWHpCV1EzN2hwN2FMMGtYNjl0TnpPTXFjbW5fTDhsZWFid3o5T0MxNV9RMWl5YXNneA?oc=5"
         }
       ]
     }
