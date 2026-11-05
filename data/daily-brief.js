@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月4日",
+  "publishDate": "2026年11月5日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "家用新能源大五座SUV盘点，小鹏G9L与理想L6、极氪7X、智界R7横评 -…",
+      "title": "露营百公里纯电跑完，坦克300L新能源比XT5多省多少油钱？ - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "A computer scientist breaks through a l…",
+      "title": "A tiny squeeze dramatically changes the…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:58",
-          "title": "家用新能源大五座SUV盘点，小鹏G9L与理想L6、极氪7X、智界R7横评 - 新浪网",
-          "summary": "家用新能源大五座SUV盘点，小鹏G9L与理想L6、极氪7X、智界R7横评 新浪网",
+          "time": "11:24",
+          "title": "露营百公里纯电跑完，坦克300L新能源比XT5多省多少油钱？ - 汽车之家",
+          "summary": "露营百公里纯电跑完，坦克300L新能源比XT5多省多少油钱？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMQTRGQkZ6ejJmNGRVcFc5M3B2Z3dUbUViV2hPd0E2Q1FXaHRULWI0YXBORjZ5RFlwV3VxOGRITGJNVjdkbDFiOVNZUlY4bnVIXzJtbWZUa0RSTWNMUWIw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Yd0hQRk8xVWhndXFsbEtPOTRaNHFrYkhlYTk3Sjh1RThPY2FlUU80aHZDQVh3UURNanVyd0tHWVJqbW81aUgyZzU3QWNKSzRpeS1KbGwxT24xelgyVzNlYnc3dDYzZjZ1MUZn?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:55",
-          "title": "家用新能源大五座SUV推荐：小鹏G9L、理想L6、乐道L80和极氪7X怎么选 - 新浪网",
-          "summary": "家用新能源大五座SUV推荐：小鹏G9L、理想L6、乐道L80和极氪7X怎么选 新浪网",
+          "time": "11:11",
+          "title": "港股异动 | 比亚迪股份(01211)早盘涨超6% 10月新能源出口同比翻倍 出海贡献利润弹性 - Moomoo",
+          "summary": "港股异动 | 比亚迪股份(01211)早盘涨超6% 10月新能源出口同比翻倍 出海贡献利润弹性 Moomoo",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iR0ZBOEVGUjlabmxBMnBkekF0dmJza1J6QkxqbXJnQkxFbXRSZFo4SFRNY1RzNG14SFpJQkxfbnZ3aGlUYW1wekFRRy1SanZtRjlNWmE2OHRBZUNSVURv?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMklVQUV0NjVLRmU0OUR2Ql9qdlllM0NKRUJjZHZabE5TMTJRWU05VkNQMUNtSWpoTTd2ZDVZR01wOWV6clFQdXlWRlNQckFDNTJlRFlwdFdSQ2ZDS19zMDVvQ1VPelN0MFQwbzgxV0o5U1N5SENabkdBWnZNVW56amEyNjdkbDVsNFo2aThwMHhkVF93amJ5MXBFRVBMZkFmcFlOWUhQOWNzRGs?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "家用新能源大五座SUV盘点：小鹏G9L、理想L6、问界M7、乐道L80怎么选？ - 新浪网",
+          "text": "比亚迪10月新能源汽车销量超49万辆 - 东方财富",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qMkM2RURiU3o4V1MxS1VVT2dFUmlGNUtqZVQ5a1JsQk1Ub285RGM4YzcwLTh2SGtYeUg0Qi1qdjhhUWV4RzgzWjZxWGxUUlpFdHRRb0xqcjRJZzNENFpF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Kb0lBNWpqTFBUNkpxMkRtUUxtVHVyUmE2Rm1FandtVV80VHVqbWMtTnAzOERLWkFKWW1ZY1YzZF84Y0lDek5JYVZPNmdRLWxBOEpxWV9BS1J3OTJvbFVpajRiaGJyQQ?oc=5"
         },
         {
-          "text": "年轻人爱高尔夫又爱新能源，怎么叫停了？ - 搜狐网",
+          "text": "2026 BBA换国产新能源哪款有豪华感：兼顾触感与科技舒适选大五座 - 爱咖号",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcFdfN0l6VktIeGxqWHF3bVZRcm1mVFZmdzU4V0FoQnBCbnN4dHk4WDExTmZDTEpydmwzM3prWmZhcVM1a0h5ZjVLWUpsc0Z5ME52Y1pzRkI4SU5TX3VCMU93TDIyV0kySllvbTl0cm5ZTXFPX1FqLVVIUUVuSEI0dlkzZVpmOXFQX2pCVg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jczI0djF2cG1xdTU0QUExMnlBbWRhOWpXaEc1eEMtTTI5QjVSUndMUFlBb1FzTzc3amU4cjJXNmx3WHVNVEM1b2RSb0Y1bDE5NmlZSHNFdUE?oc=5"
         },
         {
-          "text": "【视频】年轻人爱高尔夫又爱新能源，怎么叫停了？ - 汽车之家",
+          "text": "宏英智能、壳牌中国、天津中电新能源研究院达成战略合作，共推AIDC领域浸没式钠电储能应用落地 - 能源界",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xS0xNaUxmUFh3cnZxbWNyN01kaExlX1AtaFlwV0JOMUtBYmNKbHo0VnpSaVN3R0tXOGh3cHItZ0xLSzI4N0FxU3lHVXB5WWtMZHY2bFNfQWxEZDQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iT0RRT3N4MG9TaFBTeERhZWtZak8wLWhFcUU5ZWVvbXFNOC16Rms5YmJDV2FfZUxGV3kzOG1iajhCdW94X0M0ZEJKNGg0dTFRc2NnSmpPWXBwbzA?oc=5"
         },
         {
-          "text": "最近上市的家用新能源大五座SUV盘点，小鹏G9L、理想L6与乐道L80怎么选 - 新浪网",
+          "text": "星星充电牵头获批江苏省新能源微网系统与装备重点实验室 - 国际充换电网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44Mi1tRVFIUjRvWGlhX0RFaWNQS1Q4c09vVUNMRjc0SXF5bXRDS2x6RGJ5ekVqV0sybWY3bENBTmFPZkJYelZWeUV0Vlh0VUhiVWdYM3A5ZFp3R3VuWGhR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fWENKcEtfT3I5cUVEcndoUVhIQkNzQUFDT2tNbVl1ZERWdU9iWXhPOVpYaEZPTVVQVjAxdHNFVkdPNEN2TkR6alZHMk9mOUNJQnRKZWI5UDg?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:08",
-          "title": "A computer scientist breaks through a limit that stood since 1996",
-          "summary": "A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calc…",
+          "time": "20:37",
+          "title": "A tiny squeeze dramatically changes the magnetism of exotic materials",
+          "summary": "Scientists have discovered that a simple mechanical squeeze can dramatically alter the magnetic properties an…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "18:43",
+          "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+          "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now co…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "A computer scientist breaks through a limit that stood since 1996",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "17:48",
-          "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
-          "summary": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, off…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "A tiny laser beam could make computer memory 1,000 times faster",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Tiny magnetic vortices could help computers work more like your brain",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm"
-        },
-        {
-          "text": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm"
-        },
-        {
-          "text": "Scientists overcome a hidden obstacle to more powerful quantum computers",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261024222024.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "20:00",
-          "title": "Accelerating engineering for the physical world",
-          "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workfl…",
+          "time": "02:50",
+          "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+          "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:43",
-          "title": "How “reverse game theory” could keep AI agents in check",
-          "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that in…",
+          "time": "22:30",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewi…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/openai-to-acquire-pierre"
         }
       ],
       "briefs": [
         {
-          "text": "How Cisco defends at machine speed with OpenAI",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/cisco-cyber"
-        },
-        {
-          "text": "Heimstaden is changing residential real estate management with AI",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/heimstaden"
-        },
-        {
-          "text": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+          "text": "Securing the agentic enterprise with data lineage",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+          "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
         },
         {
-          "text": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+          "text": "A thousand fewer paths to root",
           "source": "OpenAI",
-          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+        },
+        {
+          "text": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+        },
+        {
+          "text": "Introducing Images 2.6",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-images-2-6"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:01",
-          "title": "Randomized Caches in HW: Overheads And Limitations (RUB, Max Planck, Georgia Tech)",
-          "summary": "Researchers at Ruhr University Bochum, the Max Planck Institute for Security and Privacy, and Georgia Tech pu…",
+          "time": "16:15",
+          "title": "Accelerating Plug-And-Play Prototyping In Chiplet-Based Designs",
+          "summary": "Shared resources, a mix of tools running at different speeds, and multiple dies are adding new challenges for…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/randomized-caches-in-hw-overheads-and-limitations-rub-max-planck-georgia-tech/"
+          "url": "https://semiengineering.com/accelerating-plug-and-play-prototyping-in-chiplet-based-designs/"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:10",
-          "title": "Fast, Sub-Volt HZO Ferroelectric Capacitors For DRAM-Like Memory (SNU)",
-          "summary": "Seoul National University-led researchers published “Resolving the Kay–Dunn limit and the speed–endurance dil…",
+          "time": "16:04",
+          "title": "Adding Network Security to AI, HPC and Data Centers",
+          "summary": "How data center operators can protect critical data and communications without compromising the performance d…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/fast-sub-volt-hzo-ferroelectric-capacitors-for-dram-like-memory-snu/"
+          "url": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers/"
         }
       ],
       "briefs": [
         {
-          "text": "Chip Industry Technical Paper Roundup: Nov. 3",
+          "text": "Built to Last: Why Automotive-Grade PQC Can’t Wait",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-3/"
+          "url": "https://semiengineering.com/built-to-last-why-automotive-grade-pqc-cant-wait/"
         },
         {
-          "text": "AI Image Enhancement Improves Detection Of Flip-Chip Interconnect Defects (MCL,…",
+          "text": "Validate Sovereign AI Sites Before You Commit Capital: eBook",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-image-enhancement-improves-detection-of-flip-chip-interconnect-defects-mcl-pva-tepla-ase/"
+          "url": "https://semiengineering.com/validate-sovereign-ai-sites-before-you-commit-capital-ebook/"
         },
         {
-          "text": "3D Integration Reduces Embodied-Emissions Impact Of GPU Scaling (imec, VUB)",
+          "text": "3D-IC Signal Integrity: From Silicon Interposers To System Signoff",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/3d-integration-reduces-embodied-emissions-impact-of-gpu-scaling-imec-vub/"
+          "url": "https://semiengineering.com/3d-ic-signal-integrity-from-silicon-interposers-to-system-signoff/"
         },
         {
-          "text": "Quantum Interconnects Link Two 120-Qubit Processors (IBM Research)",
+          "text": "Beyond The Chip: How AI Is Reshaping Semiconductor Design And Manufacturing",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/quantum-interconnects-link-two-120-qubit-processors-ibm-research/"
+          "url": "https://semiengineering.com/beyond-the-chip-how-ai-is-reshaping-semiconductor-design-and-manufacturing/"
         }
       ]
     },
@@ -314,33 +314,28 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "20:24",
-          "title": "搜狐张朝阳乌镇峰会谈关注流：公司战略级产品 走真人社交差异化路线 - 广州日报新花城",
-          "summary": "搜狐张朝阳乌镇峰会谈关注流：公司战略级产品 走真人社交差异化路线 广州日报新花城",
+          "time": "02:41",
+          "title": "范畴三考验企业管理能力 和硕以数据驱动供应链减碳 - DIGITIMES",
+          "summary": "范畴三考验企业管理能力 和硕以数据驱动供应链减碳 DIGITIMES",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbFphblZmX3pYXzlBbWl6Y0s0Ui03U0dwUk1ocE84SmxVZG5ZZ2tRMWZRVFVVN2tEaGN0TElqbmVBLVMzQnZYcWVFbzQ4b09Qd0x2N3RIRTFvV1k5SzVCTG1RdlFJLVZtWnVjN2VPTWdCZ19VeVJKemVldTRUUlJzcWxoaVlMNEtqS2c?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTN0blZxVFdfYlA4YWN3V0ozdEJ5RUtrU1BJSlpzRkxXTXFVZko3dHJCallPdXo5ZmpjR2FsOVlxajZxa1dmeVlDUXFBNU9hZ2pkVnc2ZmJxWHQzbUhYcy1oTW52NWFjb0xRZGJGcC1RQl95UEtkOWxCR250MDdHM2g3bG85cV9wdU5XZ0hWQV90d0dMVFhzdld2OHJVTmRteEN2bFM4QjBYOXBNNEJVbg?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "17:00",
-          "title": "密封科技：公司管理层将综合考量现金流、日常经营发展、未来投资计划等各项因素_公司新闻 - 证券之星",
-          "summary": "密封科技：公司管理层将综合考量现金流、日常经营发展、未来投资计划等各项因素_公司新闻 证券之星",
+          "time": "17:59",
+          "title": "欧洲多国超市冷柜遭黑客网攻 控温被调高威胁民生供应链韧性 - Caixin Global",
+          "summary": "欧洲多国超市冷柜遭黑客网攻 控温被调高威胁民生供应链韧性 Caixin Global",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZcEpkMzhaM3ByT0RRTWxuMDl5Wm5CRnp5ZFcwWnBVRGdYS3c5U2RybTNNMFpTNlREZVo1WnhJWElvS0V1ZDRWUWxka1FwbjBKYWFtYXNhamlFd0k4WndrUw?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LanBxOVdhazRPWUxKMkhEZ1Z1aXVwRllkMjN4S1BDWnVpOHIwQ3QzWEkxSWZHZ21WaWw4eGFwczAtR0tEeVZ6VUhlVFM1ZTJ3MjBFWFZLMW9mb2hXNGxPNExuSlJaUGN6bmc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "企业战略哪家更专业？2026年战略营销咨询机构盘点与选型参考 - 凤凰网财经",
+          "text": "华丰科技：全球化布局是公司战略实施路径之一 - 证券之星",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyZEtROXNfYldfNnZHVDAwa1J1Ukpfc0ZCQVM0ZnJuSHRiNXpUM0d6MS0zTUhfWmFTY1ZKR1ZFd0lJcXVaNW1aY3VMSmFENXVS?oc=5"
-        },
-        {
-          "text": "国情讲坛第72讲：使命导向企业理论与国有企业战略使命评价制度（2026年11月6日星期五19:00） - 清华大学公共管理学院",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TXzhsd2o0UmY2NlZkTTBwWjdOTGdZY1Jrb1ZuSHRGODR6cldkX2pPYjlvY0taZ1pjNjlOOWhLeDVIdkRJOU1lZlhPTHFrLTI4VFlZWDE5OGkyWWx6WUsxUA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rYzJ2Y2hjME1NMHFLMEpCSWxkUXlKMUF0d1VqNmhLUFY0bWtiZWhqZFh0bnlHTS1aMkRrTFBDSFRFTDhvdm9lcUk0VFNYVmhOVHdGcHJ2Z2VGdjQ0VGZoUQ?oc=5"
         },
         {
           "text": "拆解政企数智采购十强：供应链韧性成新比拼点 - 搜狐网",
@@ -350,7 +345,12 @@ window.dailyBrief = {
         {
           "text": "美团LongCat-2.5发布：AI向主业纵深强化商业分析等能力- AI - 亿邦动力网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EVXZnZjZQN2VlV0ZESHU5M0tzaXZiZGdBUnhhWHpCV1EzN2hwN2FMMGtYNjl0TnpPTXFjbW5fTDhsZWFid3o5T0MxNV9RMWl5YXNneA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50dG1Oam1BZGZpVWRXM1RVeDZxVzhxa1NtcXBXUWR4bnVETWxrbmZfV3F4VkhIMXRkcnVhZHgxTjR6MEV3VHluLXZicll1clUtN2FCYV9n?oc=5"
+        },
+        {
+          "text": "日德首脑会谈就加强供应链韧性等达成一致| NHK WORLD-JAPAN News - NHKニュース",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zYVNId0hZUFVxR2RVNHB3X3pjS3NYeWNOdGlTWkwydDRGRHNPZFZkX2tRNTBYMDJQZVRnWEZRNVV1Qjk5WU5tQ3d6dkxKR3pfM2R5SUN2b1VUZ2lkOWNxMmg3YXdBYnM?oc=5"
         }
       ]
     }
