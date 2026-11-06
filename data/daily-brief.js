@@ -1,14 +1,14 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月5日",
+  "publishDate": "2026年11月6日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "露营百公里纯电跑完，坦克300L新能源比XT5多省多少油钱？ - 汽车之家",
+      "title": "25万预算新能源SUV怎么选？小鹏G9L对比问界M6、理想L6、理想i6，起步…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "A tiny squeeze dramatically changes the…",
+      "title": "A tiny supercurrent could unlock quantu…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "11:24",
-          "title": "露营百公里纯电跑完，坦克300L新能源比XT5多省多少油钱？ - 汽车之家",
-          "summary": "露营百公里纯电跑完，坦克300L新能源比XT5多省多少油钱？ 汽车之家",
+          "time": "11:21",
+          "title": "25万预算新能源SUV怎么选？小鹏G9L对比问界M6、理想L6、理想i6，起步即满配+FAQ - 新浪网",
+          "summary": "25万预算新能源SUV怎么选？小鹏G9L对比问界M6、理想L6、理想i6，起步即满配+FAQ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Yd0hQRk8xVWhndXFsbEtPOTRaNHFrYkhlYTk3Sjh1RThPY2FlUU80aHZDQVh3UURNanVyd0tHWVJqbW81aUgyZzU3QWNKSzRpeS1KbGwxT24xelgyVzNlYnc3dDYzZjZ1MUZn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55R2RNdTJJSllpMzRTNGl1UkxLUklyNDhGZjJDMGpHRzlSeEZ1emNIejZEeHIxVWpKNWp1U0lIajNyZF9rUWhiSHNJWVEyczJWa3dPRjdnUUtLdkxYcE9Z?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "11:11",
-          "title": "港股异动 | 比亚迪股份(01211)早盘涨超6% 10月新能源出口同比翻倍 出海贡献利润弹性 - Moomoo",
-          "summary": "港股异动 | 比亚迪股份(01211)早盘涨超6% 10月新能源出口同比翻倍 出海贡献利润弹性 Moomoo",
+          "time": "11:21",
+          "title": "家用新能源大五座SUV盘点：小鹏G9L、理想L6与极氪7X谁更懂全家出行？ - 新浪网",
+          "summary": "家用新能源大五座SUV盘点：小鹏G9L、理想L6与极氪7X谁更懂全家出行？ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMklVQUV0NjVLRmU0OUR2Ql9qdlllM0NKRUJjZHZabE5TMTJRWU05VkNQMUNtSWpoTTd2ZDVZR01wOWV6clFQdXlWRlNQckFDNTJlRFlwdFdSQ2ZDS19zMDVvQ1VPelN0MFQwbzgxV0o5U1N5SENabkdBWnZNVW56amEyNjdkbDVsNFo2aThwMHhkVF93amJ5MXBFRVBMZkFmcFlOWUhQOWNzRGs?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56YWxLc1hxWjUydnk4S1p3SlRCdnFQOERjaHRMYzU5RnFrZXVDLWZWZnpUZnpGUzJVZjF4dDVNZ0t5bWk4djFQTHhpVENfT3BYbzUzMktycUJnWk5LbXFB?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "比亚迪10月新能源汽车销量超49万辆 - 东方财富",
+          "text": "最近适合家用的新能源大五座SUV盘点：小鹏G9L、理想L6、乐道L80怎么选 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Kb0lBNWpqTFBUNkpxMkRtUUxtVHVyUmE2Rm1FandtVV80VHVqbWMtTnAzOERLWkFKWW1ZY1YzZF84Y0lDek5JYVZPNmdRLWxBOEpxWV9BS1J3OTJvbFVpajRiaGJyQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sd3JRb1I4MGhYaW1fZE1rOTRKaEhMR0lud0ROS1dEbXVrMVZjdVdiUmpITU1JMm1SOWJzSFZuOWo5R1M4c1hsa052S01qVEhmWmJhWl9IZjJfMlBRUUFB?oc=5"
         },
         {
-          "text": "2026 BBA换国产新能源哪款有豪华感：兼顾触感与科技舒适选大五座 - 爱咖号",
+          "text": "家用新能源大五座SUV近期盘点：小鹏G9L、理想L6、问界M7与蔚来ES6怎么选 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jczI0djF2cG1xdTU0QUExMnlBbWRhOWpXaEc1eEMtTTI5QjVSUndMUFlBb1FzTzc3amU4cjJXNmx3WHVNVEM1b2RSb0Y1bDE5NmlZSHNFdUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UWFVFN0szUjFQSjJVQlR1OWFJT2ZMSi1fSGZuN1FoYWVyYnZReDlMNXhkQ29wcXlfM0dsYVJZNXZrQ0pvOTI3Z1NVS1FYMGxlR21FM3k5dnIzR1dIWERN?oc=5"
         },
         {
-          "text": "宏英智能、壳牌中国、天津中电新能源研究院达成战略合作，共推AIDC领域浸没式钠电储能应用落地 - 能源界",
+          "text": "25万预算新能源SUV横评：小鹏G9L、理想L6、问界M6、乐道L80怎么排 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iT0RRT3N4MG9TaFBTeERhZWtZak8wLWhFcUU5ZWVvbXFNOC16Rms5YmJDV2FfZUxGV3kzOG1iajhCdW94X0M0ZEJKNGg0dTFRc2NnSmpPWXBwbzA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1weDhwMGZqWk1TS0Q2TUdHUkxOallDOXRDMVc1R0hXV1ZVdHNPOWh2TzQxWmlqbll6SUhmVWY2RFhZT3F0Z1BUdDdpczNlRmtOTXdCTEYyTGxpSE5VT293?oc=5"
         },
         {
-          "text": "星星充电牵头获批江苏省新能源微网系统与装备重点实验室 - 国际充换电网",
+          "text": "预算25万新能源SUV盘点，小鹏G9L与理想L6、问界M6横评 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1fWENKcEtfT3I5cUVEcndoUVhIQkNzQUFDT2tNbVl1ZERWdU9iWXhPOVpYaEZPTVVQVjAxdHNFVkdPNEN2TkR6alZHMk9mOUNJQnRKZWI5UDg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04dzh1bl9wd3VhYkdIX21xMjNLZFZHclVtN2pIQWRMUFpKQUtuRmJ5NXpfT0MyNVhYV0ZTUThuakVscXBKbUUxVkNsOFFnVnFoV3pvdGNRZmZJemlSLXZF?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "11:47",
+          "title": "A tiny supercurrent could unlock quantum information without destroying it",
+          "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the del…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "20:37",
           "title": "A tiny squeeze dramatically changes the magnetism of exotic materials",
           "summary": "Scientists have discovered that a simple mechanical squeeze can dramatically alter the magnetic properties an…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "18:43",
-          "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-          "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now co…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
+        },
         {
           "text": "A computer scientist breaks through a limit that stood since 1996",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "A tiny laser beam could make computer memory 1,000 times faster",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm"
-        },
-        {
-          "text": "Tiny magnetic vortices could help computers work more like your brain",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:50",
-          "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-          "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts…",
+          "time": "04:00",
+          "title": "Cult.fit builds operational muscle with Codex",
+          "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets don…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/cultfit-builds-with-codex"
         },
         {
           "priority": "重点看点 02",
-          "time": "22:30",
-          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-          "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewi…",
+          "time": "01:00",
+          "title": "Australian universities are creating AI-native graduates",
+          "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/openai-to-acquire-pierre"
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates"
         }
       ],
       "briefs": [
         {
-          "text": "Securing the agentic enterprise with data lineage",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+          "text": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber"
         },
         {
-          "text": "A thousand fewer paths to root",
+          "text": "Merge builds product and business tools with OpenAI technology",
           "source": "OpenAI",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+          "url": "https://openai.com/index/merge-builds-with-openai"
         },
         {
-          "text": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "text": "Setting a new standard for responsible AI infrastructure",
           "source": "OpenAI",
-          "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
         },
         {
-          "text": "Introducing Images 2.6",
+          "text": "Flipsnack grows product signups with conversion optimization",
           "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-images-2-6"
+          "url": "https://openai.com/ads/customers/flipsnack"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "16:15",
-          "title": "Accelerating Plug-And-Play Prototyping In Chiplet-Based Designs",
-          "summary": "Shared resources, a mix of tools running at different speeds, and multiple dies are adding new challenges for…",
+          "time": "16:06",
+          "title": "Adding Network Security To AI, HPC, And Data Centers",
+          "summary": "The location of security functions such as MACsec or IPsec has become a key architectural decision. The post…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/accelerating-plug-and-play-prototyping-in-chiplet-based-designs/"
+          "url": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers-2/"
         },
         {
           "priority": "重点看点 02",
-          "time": "16:04",
-          "title": "Adding Network Security to AI, HPC and Data Centers",
-          "summary": "How data center operators can protect critical data and communications without compromising the performance d…",
+          "time": "16:05",
+          "title": "Turning Conv2D Into A Practical GPU Compute Pattern",
+          "summary": "A reusable optimization mindset for engineers building GPU compute kernels. The post Turning Conv2D Into A Pr…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/adding-network-security-to-ai-hpc-and-data-centers/"
+          "url": "https://semiengineering.com/turning-conv2d-into-a-practical-gpu-compute-pattern/"
         }
       ],
       "briefs": [
         {
-          "text": "Built to Last: Why Automotive-Grade PQC Can’t Wait",
+          "text": "A System-Level Approach To Protecting 3D-IC Signal Integrity",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/built-to-last-why-automotive-grade-pqc-cant-wait/"
+          "url": "https://semiengineering.com/a-system-level-approach-to-protecting-3d-ic-signal-integrity/"
         },
         {
-          "text": "Validate Sovereign AI Sites Before You Commit Capital: eBook",
+          "text": "Fitting AI Models To Edge Applications",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/validate-sovereign-ai-sites-before-you-commit-capital-ebook/"
+          "url": "https://semiengineering.com/fitting-ai-models-to-edge-applications/"
         },
         {
-          "text": "3D-IC Signal Integrity: From Silicon Interposers To System Signoff",
+          "text": "Why Testing Automated Driving Is Harder Than It Looks",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/3d-ic-signal-integrity-from-silicon-interposers-to-system-signoff/"
+          "url": "https://semiengineering.com/why-testing-automated-driving-is-harder-than-it-looks/"
         },
         {
-          "text": "Beyond The Chip: How AI Is Reshaping Semiconductor Design And Manufacturing",
+          "text": "Why Integrated Gate Drive Regulation Matters For High Reliability Space GaN Des…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/beyond-the-chip-how-ai-is-reshaping-semiconductor-design-and-manufacturing/"
+          "url": "https://semiengineering.com/why-integrated-gate-drive-regulation-matters-for-high-reliability-space-gan-designs/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:41",
-          "title": "范畴三考验企业管理能力 和硕以数据驱动供应链减碳 - DIGITIMES",
-          "summary": "范畴三考验企业管理能力 和硕以数据驱动供应链减碳 DIGITIMES",
+          "time": "10:48",
+          "title": "麦格里：给予瑞声科技(02018.HK)\"跑赢大盘\"评级，看好作为苹果供应链韧性_公司新闻_财经 - 证券之星",
+          "summary": "麦格里：给予瑞声科技(02018.HK)\"跑赢大盘\"评级，看好作为苹果供应链韧性_公司新闻_财经 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTN0blZxVFdfYlA4YWN3V0ozdEJ5RUtrU1BJSlpzRkxXTXFVZko3dHJCallPdXo5ZmpjR2FsOVlxajZxa1dmeVlDUXFBNU9hZ2pkVnc2ZmJxWHQzbUhYcy1oTW52NWFjb0xRZGJGcC1RQl95UEtkOWxCR250MDdHM2g3bG85cV9wdU5XZ0hWQV90d0dMVFhzdld2OHJVTmRteEN2bFM4QjBYOXBNNEJVbg?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvQ2ZmSHlTMFNySlUzUzBJMjJSOVNWUTctcWhwQXRtTC1ySlc0bTZ3U01QZFRDYkVVZG5zV1drYURSUWZaa3NxZ21RVk1jNC1melhycnNxbk11bmx5SEt6aw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "17:59",
-          "title": "欧洲多国超市冷柜遭黑客网攻 控温被调高威胁民生供应链韧性 - Caixin Global",
-          "summary": "欧洲多国超市冷柜遭黑客网攻 控温被调高威胁民生供应链韧性 Caixin Global",
+          "time": "09:47",
+          "title": "普京签署法令 日本烟草旗下子公司资产暂交俄罗斯企业管理 - 8world",
+          "summary": "普京签署法令 日本烟草旗下子公司资产暂交俄罗斯企业管理 8world",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LanBxOVdhazRPWUxKMkhEZ1Z1aXVwRllkMjN4S1BDWnVpOHIwQ3QzWEkxSWZHZ21WaWw4eGFwczAtR0tEeVZ6VUhlVFM1ZTJ3MjBFWFZLMW9mb2hXNGxPNExuSlJaUGN6bmc?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRk1KbDJGUUJVSnN4QXUySTlaSDh3TGNua21Ga0VxS1lXdzEyRGtkbjhnem1vM1FuR0hwZ0dsRFlJeWtJYXRmSlVNMXVEQ19vXzc3LTljQU9seGp5UjUzRENrbEloLTE0SmVfUXpQTC1RXzhQeVYwYTNPcXpIY3FVeUlXS19DaWRkaEhUNDdCaW9vRnh6LV9zUA?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "华丰科技：全球化布局是公司战略实施路径之一 - 证券之星",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rYzJ2Y2hjME1NMHFLMEpCSWxkUXlKMUF0d1VqNmhLUFY0bWtiZWhqZFh0bnlHTS1aMkRrTFBDSFRFTDhvdm9lcUk0VFNYVmhOVHdGcHJ2Z2VGdjQ0VGZoUQ?oc=5"
+          "text": "企业管理 | 天辰化工：多维监督织密防护网 筑牢职工平安防线 - 搜狐网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZjZlS3dQWG15U2ZDX1BobTRYSlVkWVgzQUlUbDAwb203M0ZBR2x0Rld6S3UzM2J2RUhURGp6bjZneHZ2VVlBUUhsQ3RUOVNaYzdCWFo4enNTQng2UXRocGY4WlNyNkx4d0dpNEppcENhSmhlcFhnaWk1RXZBZ2tfSnNuRTdqLXBHS09KQw?oc=5"
         },
         {
-          "text": "拆解政企数智采购十强：供应链韧性成新比拼点 - 搜狐网",
+          "text": "思爱普提出“自主运营企业”战略 年底前拟部署超400个智能体 - 观点网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGRVQ0NJWUN3bHh6S3lwaUM0aW9MOXJicFlJLUx0c1NUYWhVZ1ExdWZTMGFncVpYUUxsbzdpZUZBV2oxY1N2MzJjb1Z4cFRXY1pRRkRyeEJzQjcxVlVHc1JMLVFzVWlzVTBqcUZ4eFpYTWpudWlGQ2g3Tk90Qmtva1lQZldZVjVJV1ZLeA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSTHc5NEdEZGlVbm1UVHdyZy1EdGc2UElWWkJKSGtOYmRhRTdKbmx3TFZLWjBic0RpVWx6WmxxT0hqN0ZRb0RodWJFX0VqbWJCUXpsN3dIVXVfQ05oeTltWGd3?oc=5"
         },
         {
-          "text": "美团LongCat-2.5发布：AI向主业纵深强化商业分析等能力- AI - 亿邦动力网",
+          "text": "商业火箭公司“智林空间”获上市公司战略投资 - 未来天玑",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50dG1Oam1BZGZpVWRXM1RVeDZxVzhxa1NtcXBXUWR4bnVETWxrbmZfV3F4VkhIMXRkcnVhZHgxTjR6MEV3VHluLXZicll1clUtN2FCYV9n?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rUmlqV21jODNLbU9LR3NXcDNVbnNVc0lGT1gxV0IyWHFuYVR2X1BIdFlENzJvVHJNa1NjU1pSNHlkd0JaVkxxY3E2MzkxR2RVNVE?oc=5"
         },
         {
-          "text": "日德首脑会谈就加强供应链韧性等达成一致| NHK WORLD-JAPAN News - NHKニュース",
+          "text": "欧洲多国超市冷柜遭黑客网攻 控温被调高威胁民生供应链韧性 - Caixin Global",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zYVNId0hZUFVxR2RVNHB3X3pjS3NYeWNOdGlTWkwydDRGRHNPZFZkX2tRNTBYMDJQZVRnWEZRNVV1Qjk5WU5tQ3d6dkxKR3pfM2R5SUN2b1VUZ2lkOWNxMmg3YXdBYnM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LanBxOVdhazRPWUxKMkhEZ1Z1aXVwRllkMjN4S1BDWnVpOHIwQ3QzWEkxSWZHZ21WaWw4eGFwczAtR0tEeVZ6VUhlVFM1ZTJ3MjBFWFZLMW9mb2hXNGxPNExuSlJaUGN6bmc?oc=5"
         }
       ]
     }
