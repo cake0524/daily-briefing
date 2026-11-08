@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月7日",
+  "publishDate": "2026年11月8日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "商用车界快报11月7日 - 手机新浪网",
+      "title": "风险低，利润高：墨西哥毒枭转行卖中国新能源汽车？ - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:30",
-          "title": "商用车界快报11月7日 - 手机新浪网",
-          "summary": "商用车界快报11月7日 手机新浪网",
+          "time": "10:17",
+          "title": "风险低，利润高：墨西哥毒枭转行卖中国新能源汽车？ - 汽车之家",
+          "summary": "风险低，利润高：墨西哥毒枭转行卖中国新能源汽车？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XMm1qZEFUSjNRTk5GU0ozUXNPUmJWNy1vOTdUWVhvbTJxQ00ydGg5bExzRHQ4c0w3SDRGaDFNWjBNN2JEQ2tPMkQxQVZJY3o5dWh2cHZBRndxR3pFSjdnZk5ITlg4anlGTmJYRDZicFYyUQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81cmtxR3hscTJIOHc1LWc2djJ2emdrZC1WczFucEotU044OHhsYnY3V05sRFFaZWFkZnZTQ3JpMjRZalVPSGVqd053YlBQeWhkOXpSX201MUVBOUU?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:18",
-          "title": "水基锌离子电池项目落地济南，力争为济南新能源产业发展贡献力量 - 搜狐网",
-          "summary": "水基锌离子电池项目落地济南，力争为济南新能源产业发展贡献力量 搜狐网",
+          "time": "09:41",
+          "title": "23.18万起，小鹏G9L、问界M6、理想L6、小米澎程N70四车横评：大五座新能源新车谁更值得关注？+FAQ - 新浪网",
+          "summary": "23.18万起，小鹏G9L、问界M6、理想L6、小米澎程N70四车横评：大五座新能源新车谁更值得关注？+FAQ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSWQtdFR2RmM1V0R6M1JlWWdfem11Wm9BQlVUMmEtMGdLYmZBREhHaTdhbEFOTzZZRFRzR05RQWNaYVc3UEJ2NnREVVNzVm8zb3FQbVhIcU91dmZNRmZadDlRMXVrNGNibWdXYlh5YURWRWFLNUhMODhVcThJZlAzMU5Zbm9yWWhlZXhoTg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXU19scUFuVFU3dk5ndS1IZ0ZNc0VaN0syN0tlMndKTW1XU3VUdDZGQThaZFBMeFh0SEtjX3F3djV5SlpmZ1lYRlNHMEhFcmdKaWpQbkMtYU5iLXQxV29Z?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "LG新能源“进”彩首秀！三大电池形态与全固态电池集中亮相_公司新闻 - 证券之星",
+          "text": "25万级新能源SUV三车横评：小鹏G9L、问界M6、理想i6谁更值得买+FAQ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VWTJEUW5tU3BZeDFXZHlpZzZfaHNKTVBrdHFwWmNRbEMzbmR4T1U1UHM2Qi1BTGNzTlhYV18xT2k5UDNLZVhTcVZILVREMktrX0VHUFl5WmFEQzFFN3dDMQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1akJGSERCd3RLTDQyMURpWnZPTDZ1TmhDb3VnNUYxVFBzNWhCbjJmUmU5TWpnOUJ3X0FfNGFoMTZ4U2I1TlJmTktDNldESzJZY2UxNjhYLURxZWRXSlNZ?oc=5"
         },
         {
-          "text": "国家能源局公示93个“人工智能+”能源试点项目 - 国际风电网",
+          "text": "新能源时代，如何保障稳定供电？GE Vernova在2026进博会给出新思路 - 热点科技",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xcUl3SUxtaFpxaGdGMHpzMUVIekpzYWpWNkE5MDJYV0lfTzZoeVVodEo5bmIxZ0ltMEJvaVkxc2ljSjJPVzd4ei1ad1MwdWJ2eWxFSmFXSHdQXzQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44WDM4cXBQRlBvZGxqUnpUamZUOS1ub1poNEgyc05rQ2RJTmhabllycExfeHdxWElDWVhVSnVSY0k2NzN2WHR0Uk1TQUpWU1U?oc=5"
         },
         {
-          "text": "LG新能源“进”彩首秀 三大电池形态与全固态电池集中亮相 - zqrb.cn",
+          "text": "花旗：民主党拿下国会，中国新能源股可能又要涨一波 - 搜狐网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBmcjJwRVFTRlctTS1CMVFfSXc5QXlLRjA4TV82dW1haVNsTDR6UjIyR1JMUnJBbjVyNXppNWtTeFp0d293QVFLbzUwdXgxYkdpcDQ5Zm1VTDM2a1k0dG1YN0tLLUpObFZJTzJnWg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeXRTOXlMZ2kyb2c5YlJxZUhGZDVQb1B3enk3alZ0UDJpSXppWk5oQi01dzAxNEZqd0JjY0Z5aTktNG1WQVB0ZGVvN1draFJ2S1F4TDN2S3FlRk1JX2FVV2NlZEptS0doTUNwdDZFUFVieEg5Z0xNdTY1a3diYzlKT0o4Z0puRXhqS3h1LQ?oc=5"
         },
         {
-          "text": "京能集团获吉林4GW新能源建设指标 - 国际新能源网",
+          "text": "周末带俩娃加爸妈出门，GL8新能源和星海V9谁更靠谱？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2U05nUXdxZDJvcmExbFJ0bEppOVJucjd3Q0dSZ2tvdHFGajVXRmVoaDJqVkF2UEpKZkxBb2ZvSnV0YXlKWmxuMGlJRVA2NXM1R3NIZjZiTERlaEI5WHVBSUF4cUVmbE1p?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VWUVZbUd4OUhkbDBtQjVSeHp6ZVdBTDU5TWdsaWNfMVZPczUwa05Vc3hmb1FlTGNtdDFjN3ZuQThPUG43QVJXLTgwMk1ZblVUNXJlQWZSSWhONk0?oc=5"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:51",
-          "title": "AI如何重塑财务管理？金蝶探索企业管理新路径 - 新华网",
-          "summary": "AI如何重塑财务管理？金蝶探索企业管理新路径 新华网",
+          "time": "02:37",
+          "title": "经纪业务条线分公司战略研讨发言 - https://www.biganzigongwen.com/",
+          "summary": "经纪业务条线分公司战略研讨发言 https://www.biganzigongwen.com/",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS194V2lGQVE4MWVRWEhxMDlZU0tWa1FQMHdxR0hoZFlGNUg5a2hVMHlaUS1aZHdJYXdxcWNYNmJBYnVRMzdLWElaSU9BYVZSU0JwdTlXQm10Wk9aS1luaTNZZmhRelREUVdUcmJsUnNWcDdWSjRReTl6UkY0TnhPOQ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nRS00bks1VHJvdGJXUE5zTDdTMUpfU3FkdkNJbE85LWIySy1qbzE2Y1RxMzExSWZJNWZFWTJoam1pcU1UM00xc2c5OWE4RjZISE9YU2JTMzZEcUQ0OHE4?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "22:08",
-          "title": "汇绿生态：与客户合作暂未受到实质性影响，持续提升供应链韧性与政策应对能力 - 东方财富",
-          "summary": "汇绿生态：与客户合作暂未受到实质性影响，持续提升供应链韧性与政策应对能力 东方财富",
+          "time": "20:28",
+          "title": "毕马威发布最新跨国企业中国展望报告：跨国企业战略重心转向盈利与创新 - 搜狐网",
+          "summary": "毕马威发布最新跨国企业中国展望报告：跨国企业战略重心转向盈利与创新 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5za0JkQXkzdG1WSXhhcFhESDhDSnRIMnRacGV1Smc5Sy1CWWlzZ1h0WS1WMmpBc1VZeGJ0Rm9QN0ZrUUhwa1UxZmlJbk1qOTlHQ3Y3Tm54MGktb01sN2RJY28tUC1ldw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3dkSGtJNDgtQ2R0blZhM29vakdDTnhVSkoybUVkOTlfT3E4MVFkX0t3SUg1ZGJhRDA2OE16dklYU204MmVlOE43SFI1eVp1U1k2R05fa08wX045SkNocVpabzVOQTdVcFB2YWVNVU9MWDl0a2ZEQklSZ0xzVUtnRHBZY1lkYV93dEVuVg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "增强供应链韧性、把握全球机遇，联邦快递亮相进博会 - 上观新闻",
+          "text": "增强供应链韧性、把握全球机遇，联邦快递亮相进博会 - 手机新浪网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9DQzRYd2VKRjY3dkhVNDdhOTZaTlhjRDhZbUU2STlPODdmZlJwNXVhc3VCTllZNUVRNktQT3JIQXRTaFVwUjdKazY5QkVjMGliRDNxM01mOERaaVp0YXc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wTFNzMkMzd2ZJMHBaVFBZMEFEVXc3bldHWkFzTnNrbjlTRDZJUktnUDF2cDJLYzZ5WXd2NzdmV3ZhOXNadHBKY2xmVXNXN0xTcThLV0pENEJYT25RVXpWWVFIbXRJdHNJek53dHVVdnJRdw?oc=5"
         },
         {
-          "text": "台达电子企业管理（上海）取得电动汽车与电网交互系统专利 - 金融界",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmLXVQNVZxZXhIMXpyN19qTlRaTU1zS1NHQ2EzcWZ1N1BmazNoSHI4aVdJUTJ0eEFPZGRzd0cxRm5NTDlZUThwN09wdzFNZ3h6aEU0UlhPVnBENF90YUpSRngyTHYwWlFFSVNRQ3QybWcxcDlZ?oc=5"
+          "text": "CPTPP外媒团访台 聚焦台湾科技供应链韧性(图) - 看中国网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUZW9MV0tYdGFhVTV1YmZIVHBPRGkwWC1qbW5Ub3BVczhvR0MwNTJEUWpKWEE1ZkYzVkR0OC1UWGZaN1d3ZVNTbjAwRE5NZFA3YUpIRkgwSnNrMXp5VTRiaktEcVR5RGY5Sy1Z?oc=5"
         },
         {
-          "text": "[收购]宇邦新材(301266):苏州德翎企业管理咨询有限公司关于要约收购提示性公告期满60日的说明 - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXRmh0RkUyX0pmQ1NwVXpOV0NFR2xPaVk5aFRaWlBnYWZBbzVUS2hDUlJxalZFd21ZcURqckEtdXpOcFNySEM3cWtsdnRpMEFiV3RDUFJR?oc=5"
+          "text": "生鲜保供、医药物流、电商仓储集聚窦店物流基地，房山增强首都物资供应链韧性 - 京报网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hSk1kVU1WMzhxMmdKRl9acEpqc2t0Vi1sQUJhaE5Vc0NYYmktWWNVTVVBYmwxUmxycWVpTXVwVVZ1Y0JOallkYkJjXzNkb2hsd1ZIV0QzY0hVUDVFUHc?oc=5"
         },
         {
-          "text": "Requirements for Accelerating the Integration of Responses to Climate Change in…",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFA0ekdwT0lfbVEzRVZZZ3g3UGJtYVVHTnJmdmdRMW94UE9Kc054R1NLanh5TVFRZ09meHVpSVgzMTk4RlYwSUpGZ3FyOGFGZ0xNUTNITDBLZ0x5bGs4NXBBYUM2UjZiZWtGdWFXOHhCdm9EczhDd3lVQzJ1aU8tTEVVQ0dIX0NySDJieTF0SFZ1Q2hR?oc=5"
+          "text": "欧洲多国超市冷柜遭黑客网攻 控温被调高威胁民生供应链韧性 - Caixin Global",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LanBxOVdhazRPWUxKMkhEZ1Z1aXVwRllkMjN4S1BDWnVpOHIwQ3QzWEkxSWZHZ21WaWw4eGFwczAtR0tEeVZ6VUhlVFM1ZTJ3MjBFWFZLMW9mb2hXNGxPNExuSlJaUGN6bmc?oc=5"
         }
       ]
     }
