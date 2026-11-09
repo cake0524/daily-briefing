@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月8日",
+  "publishDate": "2026年11月9日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "风险低，利润高：墨西哥毒枭转行卖中国新能源汽车？ - 汽车之家",
+      "title": "预算20万元内，8款中型新能源SUV横评，谁能打动务实家庭 - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "A tiny supercurrent could unlock quantu…",
+      "title": "A hidden limit of space and time could…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Afghanistan faces deepening humanitaria…",
+      "title": "Beyond the broken glass: The human cost…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:17",
-          "title": "风险低，利润高：墨西哥毒枭转行卖中国新能源汽车？ - 汽车之家",
-          "summary": "风险低，利润高：墨西哥毒枭转行卖中国新能源汽车？ 汽车之家",
+          "time": "10:22",
+          "title": "预算20万元内，8款中型新能源SUV横评，谁能打动务实家庭 - 汽车之家",
+          "summary": "预算20万元内，8款中型新能源SUV横评，谁能打动务实家庭 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81cmtxR3hscTJIOHc1LWc2djJ2emdrZC1WczFucEotU044OHhsYnY3V05sRFFaZWFkZnZTQ3JpMjRZalVPSGVqd053YlBQeWhkOXpSX201MUVBOUU?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Da003MFA3NmY5UnMtcHBPN19RVkJ6XzhGSWZGZ29fYmRKXzlabmhkNDVpVjUyLUNSdWo5RjVyN050RldIMW9kM0xYdGlGLUJ4U3JsUzZ2QVE5YUk?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:41",
-          "title": "23.18万起，小鹏G9L、问界M6、理想L6、小米澎程N70四车横评：大五座新能源新车谁更值得关注？+FAQ - 新浪网",
-          "summary": "23.18万起，小鹏G9L、问界M6、理想L6、小米澎程N70四车横评：大五座新能源新车谁更值得关注？+FAQ 新浪网",
+          "time": "10:20",
+          "title": "四款大六座家庭横评：从领克900、理想L9、问界M8到奕境X9，家用新能源SUV怎么挑 - 新浪网",
+          "summary": "四款大六座家庭横评：从领克900、理想L9、问界M8到奕境X9，家用新能源SUV怎么挑 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXU19scUFuVFU3dk5ndS1IZ0ZNc0VaN0syN0tlMndKTW1XU3VUdDZGQThaZFBMeFh0SEtjX3F3djV5SlpmZ1lYRlNHMEhFcmdKaWpQbkMtYU5iLXQxV29Z?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aV1ZUekRTSHlkSVp6ZkxLQV9YeWxuejJUQVBxNHhUM0NMazlXbWJWR0kyTXRKV1ZSZjBGR1JKRExoU1k1bXJFQks0enNYVEdKODlULVdJRDdfRkpVSGdN?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "25万级新能源SUV三车横评：小鹏G9L、问界M6、理想i6谁更值得买+FAQ - 新浪网",
+          "text": "三款大六座新能源SUV横评：从三排平权到智驾安全，谁更懂全家出行？ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1akJGSERCd3RLTDQyMURpWnZPTDZ1TmhDb3VnNUYxVFBzNWhCbjJmUmU5TWpnOUJ3X0FfNGFoMTZ4U2I1TlJmTktDNldESzJZY2UxNjhYLURxZWRXSlNZ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KZndleVBrT0FrQV84TFZITlBVNkktS3VSRE5pMHFpZ0ZtbmJvYmJNVmpSendqNXlxdWM2NXFZVndqM0FlUGtEZlVCSUs2TVpkQ3VyUFd5R3RwbGVzeXo4?oc=5"
         },
         {
-          "text": "新能源时代，如何保障稳定供电？GE Vernova在2026进博会给出新思路 - 热点科技",
+          "text": "总投资1.65亿！元速能新能源重卡充电站项目获备案 - 国际充换电网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44WDM4cXBQRlBvZGxqUnpUamZUOS1ub1poNEgyc05rQ2RJTmhabllycExfeHdxWElDWVhVSnVSY0k2NzN2WHR0Uk1TQUpWU1U?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zbVlTcmZhNDBXUTBNVHl4blBNcHVhZmVyTjZoZktiY0xWbzR2OE1haEFwZ2VOVGxXT21tQVpXMWltcnZ3ZmdKaEVhbDhGX2F2Q2dEcEdpYw?oc=5"
         },
         {
-          "text": "花旗：民主党拿下国会，中国新能源股可能又要涨一波 - 搜狐网",
+          "text": "通辽发电总厂正式成立新能源维检机构 - 国际风电网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeXRTOXlMZ2kyb2c5YlJxZUhGZDVQb1B3enk3alZ0UDJpSXppWk5oQi01dzAxNEZqd0JjY0Z5aTktNG1WQVB0ZGVvN1draFJ2S1F4TDN2S3FlRk1JX2FVV2NlZEptS0doTUNwdDZFUFVieEg5Z0xNdTY1a3diYzlKT0o4Z0puRXhqS3h1LQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hS2VNdjQ5SzJFanJSQmJXWi1XZmtjUzhOb1RhaFgyS1YxakZtMHA4MWxiV2JnUEU1aTFJMUlYLVVvOExqajBlZHFzbnRQNV9ZZ2xkckNTemN5X1k?oc=5"
         },
         {
-          "text": "周末带俩娃加爸妈出门，GL8新能源和星海V9谁更靠谱？ - 汽车之家",
+          "text": "Mysteel周报：机械制造业原材料价格监测（10.31-11.6） - 钢铁网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VWUVZbUd4OUhkbDBtQjVSeHp6ZVdBTDU5TWdsaWNfMVZPczUwa05Vc3hmb1FlTGNtdDFjN3ZuQThPUG43QVJXLTgwMk1ZblVUNXJlQWZSSWhONk0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lSDF4bHlqNDM4Y0FiMkZrZGxpLTFxSVFGX1gyLWhySm5EWDkyRExLZzN4QjFvSzRvUjRUM3BmcEhqblpOb0k0WGt2V1kxdkxEaS12MDgwMDItRkpCOW1YZ3M1SzJxcm1o?oc=5"
         }
       ]
     },
@@ -74,24 +74,29 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
+          "time": "07:34",
+          "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+          "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimit…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
+        },
+        {
+          "priority": "重点看点 02",
           "time": "11:47",
           "title": "A tiny supercurrent could unlock quantum information without destroying it",
           "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the del…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:37",
-          "title": "A tiny squeeze dramatically changes the magnetism of exotic materials",
-          "summary": "Scientists have discovered that a simple mechanical squeeze can dramatically alter the magnetic properties an…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm"
         }
       ],
       "briefs": [
+        {
+          "text": "A tiny squeeze dramatically changes the magnetism of exotic materials",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm"
+        },
         {
           "text": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
           "source": "ScienceDaily Tech",
@@ -106,11 +111,6 @@ window.dailyBrief = {
           "text": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm"
-        },
-        {
-          "text": "A tiny laser beam could make computer memory 1,000 times faster",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm"
         }
       ]
     },
@@ -123,23 +123,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-          "summary": "Afghanistan stands at a “difficult crossroad” more than five years after the Taliban returned to power, a sen…",
+          "title": "Beyond the broken glass: The human cost of the 1938 November Pogrom",
+          "summary": "On his way to school in Vienna on the morning of 10 November 1938, eight-year-old Arthur Schneier watched his…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168758"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168756"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-          "summary": "At least 30 civilians were killed overnight on Thursday in Beni Territory, North Kivu in the Democratic Repub…",
+          "title": "‘For the first time I have my own chair’: Gaza siblings find new freedom",
+          "summary": "In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of the…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168757"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168759"
         }
       ],
       "briefs": [
+        {
+          "text": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictio…",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168758"
+        },
+        {
+          "text": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with retu…",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168757"
+        },
         {
           "text": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the scien…",
           "source": "United Nations News",
@@ -149,16 +159,6 @@ window.dailyBrief = {
           "text": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/11/1168753"
-        },
-        {
-          "text": "‘No Escape’ for refugees on the frontlines of the climate crisis",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168752"
-        },
-        {
-          "text": "World News in Brief: Korea tensions mount, UN demands answers over staff death…",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168750"
         }
       ]
     },
@@ -267,23 +267,33 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
-          "summary": "Afghanistan stands at a “difficult crossroad” more than five years after the Taliban returned to power, a sen…",
+          "title": "Beyond the broken glass: The human cost of the 1938 November Pogrom",
+          "summary": "On his way to school in Vienna on the morning of 10 November 1938, eight-year-old Arthur Schneier watched his…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168758"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168756"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with return, Guterres calls out ‘normalisation’ of force",
-          "summary": "At least 30 civilians were killed overnight on Thursday in Beni Territory, North Kivu in the Democratic Repub…",
+          "title": "‘For the first time I have my own chair’: Gaza siblings find new freedom",
+          "summary": "In Gaza, 10-year-old Anas is one of three siblings born without legs and with only two fingers on each of the…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168757"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168759"
         }
       ],
       "briefs": [
+        {
+          "text": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictio…",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168758"
+        },
+        {
+          "text": "World News in Brief: Civilians killed in DR Congo, Ukrainians wrestle with retu…",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168757"
+        },
         {
           "text": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the scien…",
           "source": "UN News",
@@ -293,16 +303,6 @@ window.dailyBrief = {
           "text": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/11/1168753"
-        },
-        {
-          "text": "‘No Escape’ for refugees on the frontlines of the climate crisis",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168752"
-        },
-        {
-          "text": "World News in Brief: Korea tensions mount, UN demands answers over staff death…",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168750"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:37",
-          "title": "经纪业务条线分公司战略研讨发言 - https://www.biganzigongwen.com/",
-          "summary": "经纪业务条线分公司战略研讨发言 https://www.biganzigongwen.com/",
-          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nRS00bks1VHJvdGJXUE5zTDdTMUpfU3FkdkNJbE85LWIySy1qbzE2Y1RxMzExSWZJNWZFWTJoam1pcU1UM00xc2c5OWE4RjZISE9YU2JTMzZEcUQ0OHE4?oc=5"
-        },
-        {
-          "priority": "重点看点 02",
           "time": "20:28",
           "title": "毕马威发布最新跨国企业中国展望报告：跨国企业战略重心转向盈利与创新 - 搜狐网",
           "summary": "毕马威发布最新跨国企业中国展望报告：跨国企业战略重心转向盈利与创新 搜狐网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX3dkSGtJNDgtQ2R0blZhM29vakdDTnhVSkoybUVkOTlfT3E4MVFkX0t3SUg1ZGJhRDA2OE16dklYU204MmVlOE43SFI1eVp1U1k2R05fa08wX045SkNocVpabzVOQTdVcFB2YWVNVU9MWDl0a2ZEQklSZ0xzVUtnRHBZY1lkYV93dEVuVg?oc=5"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "13:18",
+          "title": "生鲜保供、医药物流、电商仓储集聚窦店物流基地，房山增强首都物资供应链韧性 - 京报网",
+          "summary": "生鲜保供、医药物流、电商仓储集聚窦店物流基地，房山增强首都物资供应链韧性 京报网",
+          "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hSk1kVU1WMzhxMmdKRl9acEpqc2t0Vi1sQUJhaE5Vc0NYYmktWWNVTVVBYmwxUmxycWVpTXVwVVZ1Y0JOallkYkJjXzNkb2hsd1ZIV0QzY0hVUDVFUHc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "增强供应链韧性、把握全球机遇，联邦快递亮相进博会 - 手机新浪网",
+          "text": "增强供应链韧性、把握全球机遇，联邦快递亮相进博会 - 凤凰网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wTFNzMkMzd2ZJMHBaVFBZMEFEVXc3bldHWkFzTnNrbjlTRDZJUktnUDF2cDJLYzZ5WXd2NzdmV3ZhOXNadHBKY2xmVXNXN0xTcThLV0pENEJYT25RVXpWWVFIbXRJdHNJek53dHVVdnJRdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56VDhUdXBieW1hM2NVeURpN2JkWjhtQXVoVWo5djhJNDhnMmNaNzJNcVV0TEZsVzJBYWVIYm9GbDBzTW1QTlNzRVZJazQ?oc=5"
         },
         {
-          "text": "CPTPP外媒团访台 聚焦台湾科技供应链韧性(图) - 看中国网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUZW9MV0tYdGFhVTV1YmZIVHBPRGkwWC1qbW5Ub3BVczhvR0MwNTJEUWpKWEE1ZkYzVkR0OC1UWGZaN1d3ZVNTbjAwRE5NZFA3YUpIRkgwSnNrMXp5VTRiaktEcVR5RGY5Sy1Z?oc=5"
-        },
-        {
-          "text": "生鲜保供、医药物流、电商仓储集聚窦店物流基地，房山增强首都物资供应链韧性 - 京报网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hSk1kVU1WMzhxMmdKRl9acEpqc2t0Vi1sQUJhaE5Vc0NYYmktWWNVTVVBYmwxUmxycWVpTXVwVVZ1Y0JOallkYkJjXzNkb2hsd1ZIV0QzY0hVUDVFUHc?oc=5"
+          "text": "[收购]宇邦新材(301266):苏州德翎企业管理咨询有限公司关于要约收购提示性公告期满60日的说明 - 中财网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXRmh0RkUyX0pmQ1NwVXpOV0NFR2xPaVk5aFRaWlBnYWZBbzVUS2hDUlJxalZFd21ZcURqckEtdXpOcFNySEM3cWtsdnRpMEFiV3RDUFJR?oc=5"
         },
         {
           "text": "欧洲多国超市冷柜遭黑客网攻 控温被调高威胁民生供应链韧性 - Caixin Global",
           "source": "Google News 商业分析",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LanBxOVdhazRPWUxKMkhEZ1Z1aXVwRllkMjN4S1BDWnVpOHIwQ3QzWEkxSWZHZ21WaWw4eGFwczAtR0tEeVZ6VUhlVFM1ZTJ3MjBFWFZLMW9mb2hXNGxPNExuSlJaUGN6bmc?oc=5"
+        },
+        {
+          "text": "企业战略哪家更专业？2026年战略营销咨询机构盘点与选型参考 - 凤凰网财经",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyZEtROXNfYldfNnZHVDAwa1J1Ukpfc0ZCQVM0ZnJuSHRiNXpUM0d6MS0zTUhfWmFTY1ZKR1ZFd0lJcXVaNW1aY3VMSmFENXVS?oc=5"
         }
       ]
     }
