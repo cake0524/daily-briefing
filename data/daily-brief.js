@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月11日",
+  "publishDate": "2026年11月12日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "预售价13.99万起，北汽星钽5X新能源值得买吗？ - 汽车之家",
+      "title": "当“慢”成为一种反击：贾鸣镝的林肯逻辑与飞行家EX8的逆向修正｜封面访谈 -…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -13,7 +13,7 @@ window.dailyBrief = {
     },
     {
       "topic": "国际局势",
-      "title": "World News in Brief: Ending cholera by…",
+      "title": "Gaza winter aid: ‘No more delay’, Fletc…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:35",
-          "title": "预售价13.99万起，北汽星钽5X新能源值得买吗？ - 汽车之家",
-          "summary": "预售价13.99万起，北汽星钽5X新能源值得买吗？ 汽车之家",
+          "time": "11:44",
+          "title": "当“慢”成为一种反击：贾鸣镝的林肯逻辑与飞行家EX8的逆向修正｜封面访谈 - 手机新浪网",
+          "summary": "当“慢”成为一种反击：贾鸣镝的林肯逻辑与飞行家EX8的逆向修正｜封面访谈 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvNlUtYVZvWUJpSU1RY0k4dVBHOW1iNl9XVDZjeXpPbWtSMXhjY2xtQTVWbUl4YlA5LTU1Mkw1a09sajVlQ0NUa2ZvaG03VU94c2dxcHZMV0N0QUk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWENOOThiT0loQ25LUkFtYy1FaUJQVVBSRC13NTQ5Wk54dUk1YXg3dUMwdlhjdXdYaWR4aDhhVS14emtkTndzd2FDckllb0FPS3FCdmJCVmdMd0RobTc3OGVtS194WlZxMk81N3hqTEljRlZoME5oWjhRR3pEdlRLU0thbEdxX1pXR1dQbWdn?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:16",
-          "title": "想买国产新能源SUV，全新腾势N8和蔚来ES8咋选？ - 汽车之家",
-          "summary": "想买国产新能源SUV，全新腾势N8和蔚来ES8咋选？ 汽车之家",
+          "time": "11:40",
+          "title": "比亚迪第1900万辆新能源汽车下线，钛9预订开启 - 手机新浪网",
+          "summary": "比亚迪第1900万辆新能源汽车下线，钛9预订开启 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hYmRDLTY0aVVaUWRCMGJfRWRCMUJzZjJaY2xnaC1IWTUzMzZLZ01sNHdXUm5fU3hNcVYwUzRWWU94d2RZOENrazE4VWxHNXNueWpXb1JNeU52V0MxUjhJektOWTN0WmdzTEtR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUE5oRmtvTzR4Q2FWZTZLcy01eVF2NU12anVaRkl3ZTNoMHFpYmVDZkJ3M2tqUTJ4MWhCLVlObHRWdTFFVUpNclZzcGNwUFg5RHkzYjd5YUFZTVVXck1kZURmc3FfTy1WdEpEemkxanQyNjB5MTBYTXZ0SUFIYzFmRg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "华荣股份成立新能源科技公司 含电池业务 - 新浪网",
+          "text": "河北发布新政：到2028年底，全省新能源重卡保有量突破10万辆 - 世纪新能源网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE42SzNnYlhhMzVBbGlpU0JsWThzWFZldkhsNlVVelh5QVZ1ZzdfX1FfR04weVdXUFQ5ZG4tclV5SlF1MUE3eERKa1FDeF94YTg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54d0JRWWxhTmcyeVJDXzBXUjRBaFJHTTloczh1RTFJVTFzNmtIdUg0dTdfVDVCYXdKZ0lweGZla2M3bU4yR1BaaTc1RlowMTVCRE5aWg?oc=5"
         },
         {
-          "text": "华荣股份成立新能源科技公司 含电池业务 - 证券之星",
+          "text": "顺义区领导到京津冀智能网联新能源汽车科技生态港顺义园调研 - 北京市人民政府门户网站",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xU3pZZlpESG42LUZIR2JBTWhlUDU2ald2cVR4ZTd5TE1TMEJmMlJ0SFJBVUd4Nk1tbHFpVTlqMlRqblJTanhDOVJaejZxTm9ibnlWdk84VXNBXzQ2Z1RBX0Vn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNODdsMmt4NC1YMG5kU1k0Zk80cHpEZzRuV3lDUFZNc0MwcVhRWXFmZF9qQmRNdTVaWjJOOFZ6UkZUMnYyd2MtT2h6bUp2RnZNV05GVGZjdVRtWS1WRGd4UVFiMjZFWlVXbjZZRll0ZzA4WWRY?oc=5"
         },
         {
-          "text": "南北大众一家一个新能源销冠 大众又把日子过起来了？ - 凤凰网汽车",
+          "text": "渗透率站上51.6%之后新能源车市进入结构决胜期？_公司新闻 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1mRm9WT2I2ZEU1U214RTdDMktaNnhaY2tsUnVTeG02SHZQOU1rczI0OWJLWk5TQ3N2eWRWU1BZN0ppMmNnWGRiODNaNTk?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1bjVfMngzTEhkZ0FfczRvMEZhcXczaVBTNXpJTTZBajRhcmpoZGpKN1RSeENiODRsYm5rc01rblNiUFhOcWpfMldiLUltbEF3dDFBYnY0OVk4ZmpIUzFBSA?oc=5"
         },
         {
-          "text": "汽车与交通工程学院承办2026国际产学研用合作会议“新能源汽车与智慧交通”平行论坛 - 合肥工业大学新闻网",
+          "text": "我国新能源汽车销量占比持续走高 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12ZlJBMVNDa0ttQUlDY3FXNVEtT25nS0VHZEltVlhuSGZtRVRQc1NoeDF2cDRldFpRRi1mejdydFVBT0VRbzlRdllCMFNwMXRnby14N2xYQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtYmZpYXVqUDh6YU9yZy1vTmJEbjQ5cXBQbWVhZFg4X1VUMC04QXkwc1pBNTNrOG9zanN2cTJ5aVBTSi1zUm05UVEydFNpODhZOGIzM0plbE02emNTZEFNTUNnN0dEc3U2X2dtRGVNYzJpalpLbHNHVnd1MkdpZms?oc=5"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
-          "summary": "Ending cholera as a public health threat by 2030 is within reach, as every cholera death can be prevented wit…",
+          "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
+          "summary": "The UN’s Emergency Relief Coordinator, Tom Fletcher, expressed deep concern about the deteriorating humanitar…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168782"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168788"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
-          "summary": "Seventy-one confirmed Ebola cases have been detected along transit routes in the Democratic Republic of the C…",
+          "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
+          "summary": "UN chief António Guterres called for a new global climate justice agreement at COP31 on Wednesday, urging gov…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168781"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168783"
         }
       ],
       "briefs": [
         {
-          "text": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
+          "text": "From Japan to Rwanda, early warnings are saving lives – but millions remain unp…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168779"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168787"
         },
         {
-          "text": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom…",
+          "text": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168778"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168784"
         },
         {
-          "text": "COP31: Energy transition takes centre stage as countries map path beyond fossil…",
+          "text": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168775"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168782"
         },
         {
-          "text": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+          "text": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168774"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168781"
         }
       ]
     },
@@ -179,15 +179,25 @@ window.dailyBrief = {
         },
         {
           "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "Helping caregivers use AI in everyday life",
-          "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them b…",
+          "time": "16:00",
+          "title": "ChatGPT Plus for veterans and servicemembers",
+          "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans"
         }
       ],
       "briefs": [
+        {
+          "text": "JioStar’s chief architect on AI discovery at 500M-user scale",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/jiostar-vijay-seshadri"
+        },
+        {
+          "text": "Helping caregivers use AI in everyday life",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+        },
         {
           "text": "Introducing Businesses in ChatGPT",
           "source": "OpenAI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "Closing the AI guidance gap in education",
           "source": "OpenAI",
           "url": "https://openai.com/index/closing-ai-guidance-gap-education"
-        },
-        {
-          "text": "Work at the Frontier: AI’s effect on freelance work",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/ai-effect-on-freelance-work"
-        },
-        {
-          "text": "The backlash about data centers might really just be about electricity",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "16:08",
-          "title": "Reducing Lithography Learning Cycles To Accelerate FOPLP Ramps",
-          "summary": "How yield prediction technology can reduce trial-and-error in advanced packaging lithography. The post Reduci…",
+          "time": "08:59",
+          "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
+          "summary": "Researchers at Texas A&M University published “5G CATS: 5G-Based Cryptographic Authorization Against Traffick…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/reducing-lithography-learning-cycles-to-accelerate-foplp-ramps/"
+          "url": "https://semiengineering.com/hardware-based-location-checks-target-ai-chip-smuggling-texas-am/"
         },
         {
           "priority": "重点看点 02",
-          "time": "16:07",
-          "title": "Test Struggles To Keep Pace With AI",
-          "summary": "Rapidly changing workloads, more test insertions, and fragmented data complicate chip testing. The post Test…",
+          "time": "08:42",
+          "title": "Embedded ECC Protects AI Weights Against Bit-Flip Attacks (University of Florida)",
+          "summary": "Researchers at the University of Florida published “SANAI: Secure ECC Distributed Keyed Parity Embedded in We…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/test-struggles-to-keep-pace-with-ai/"
+          "url": "https://semiengineering.com/embedded-ecc-protects-ai-weights-against-bit-flip-attacks-university-of-florida/"
         }
       ],
       "briefs": [
         {
-          "text": "Which Passing Chips Need More Testing?",
+          "text": "Single-Crystal High-κ Dielectric Enables Low-Power 2D CFETs (NUS et al.)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/which-passing-chips-need-more-testing/"
+          "url": "https://semiengineering.com/single-crystal-high-%ce%ba-dielectric-enables-low-power-2d-cfets-nus-et-al/"
         },
         {
-          "text": "AI’s Efficiency Challenge For The Semiconductor Industry",
+          "text": "Optimized E-Beam Evaporation Reduces Metal-Semiconductor Contact Degradation (R…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ais-efficiency-challenge-for-the-semiconductor-industry/"
+          "url": "https://semiengineering.com/optimized-e-beam-evaporation-reduces-metal-semiconductor-contact-degradation-rwth-aachen/"
         },
         {
-          "text": "The Definitive AFM Modes Handbook: 2026 Edition",
+          "text": "Variable-Length Prompts on Chimera GPNPU",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/the-definitive-afm-modes-handbook-2026-edition/"
+          "url": "https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/"
         },
         {
-          "text": "Streaming Scan Network Test Over PCIe",
+          "text": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/streaming-scan-network-test-over-pcie/"
+          "url": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement and hunger, US human rights review rescheduled",
-          "summary": "Ending cholera as a public health threat by 2030 is within reach, as every cholera death can be prevented wit…",
+          "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
+          "summary": "The UN’s Emergency Relief Coordinator, Tom Fletcher, expressed deep concern about the deteriorating humanitar…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168782"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168788"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
-          "summary": "Seventy-one confirmed Ebola cases have been detected along transit routes in the Democratic Republic of the C…",
+          "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
+          "summary": "UN chief António Guterres called for a new global climate justice agreement at COP31 on Wednesday, urging gov…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168781"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168783"
         }
       ],
       "briefs": [
         {
-          "text": "Nearly 64,000 flee Nigeria for Niger where a humanitarian crisis is deepening",
+          "text": "From Japan to Rwanda, early warnings are saving lives – but millions remain unp…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168779"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168787"
         },
         {
-          "text": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom…",
+          "text": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168778"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168784"
         },
         {
-          "text": "COP31: Energy transition takes centre stage as countries map path beyond fossil…",
+          "text": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168775"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168782"
         },
         {
-          "text": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
+          "text": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168774"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168781"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:01",
-          "title": "LV集团旗下路威凯腾等在上海成立新企业管理合伙企业 出资额约3.1亿 - Sohu",
-          "summary": "LV集团旗下路威凯腾等在上海成立新企业管理合伙企业 出资额约3.1亿 Sohu",
+          "time": "10:56",
+          "title": "山东2家上市公司管理层更迭 - 山东新闻",
+          "summary": "山东2家上市公司管理层更迭 山东新闻",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPejJneFVxSHBoOG1pbWw0VER0UWNNM1VLZ3ZmTnpoZDJTMmxzb1c3cUhMeFd2MmtTWmgtM09TblhZdm1NelBobXFqaG8yalUwcW14SnBOSTR3aDIwZEhMYUEwZHdMSjhlMjBwTThuYzhEQ0R0LWY3ay1nNUZvRTFheWZ3Z1c0RXFsUXJjWg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lMXFxM201RDd5YnpHdHZCdlNYTmZmMlNuZ3NlVXpHcWZ4dE1RSkNMaUxHalVaRllkNXpCREQ5X0I1cTFKWjZ6dHhqU1ROdDRkXzBqVHMzVThzZFIyOV84SHhLUFA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "14:26",
-          "title": "LV集团旗下路威凯腾在上海成立合伙企业出资额3.1亿元_滚动新闻_财经 - 证券之星",
-          "summary": "LV集团旗下路威凯腾在上海成立合伙企业出资额3.1亿元_滚动新闻_财经 证券之星",
+          "time": "08:52",
+          "title": "别指望靠管理拯救一家公司 管理救不了一家公司，真正出问题的地方，往往在战略和文化。著名投资人段永平说，很多CEO做决策时眼睛盯着“倒后镜”，琢磨前任、老领导怎么想，这就相当于一直往后看；可用户永远在前面。所以正确的决策姿势只有一个：别想别人怎么做 - Sohu",
+          "summary": "别指望靠管理拯救一家公司 管理救不了一家公司，真正出问题的地方，往往在战略和文化。著名投资人段永平说，很多CEO做决策时眼睛盯着“倒后镜”，琢磨前任、老领导怎么想，这就相当于一直往后看；可用户永远在前面。所以正确的决策…",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RU21fZnZCRTFUTjVBSE1qSUVvcDh1MjFpRFQta2c5MTJFY2tiUG95eHJpeFFyTEw0Q2lXekhHdXVKRDE0TnJDeVNZWnBMNFo4VjFUaWpiV29yTEU4TWt2Nw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMUhGMHdIRDlsU3VhOEEyN0RPN0NIb205WnZpMzI5SUI4RDJfcXRhcVUzVy1XdTI2ZlRoYmVvTGNUSkxxc1czbGFnTkg5dWFNNTRnSkc3OWstUXNiTHdEMHEwVjRONW1HTjIwSWlGcWpKZWtjYkhWdVUtbnYyN3BubHdMTVF1WExzdFF4aw?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "上海奕金帆企业管理中心（有限合伙）成立，出资额约1.4亿 - 新浪网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Hc2RDMzlqbUdieUJFZjVyWXdaTlF0ZGdXWDJTU0Z5aHhWS0lMY1JvZ294ZDZteVB3dzZuNUFEVlkxNE9ydGFsSnJRRQ?oc=5"
-        },
-        {
-          "text": "2026企业管理创新大会将在苏州举办 - 搜狐网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0dSWm05TXBLUHNvaWl5MHNIaER4V21TdHIyelVSeDZiTC1GV0VRSE5BcG5ZQWZSNmhZYXVPYTBzVnhEZUdoQ2hsSXk3MTd2MFFyamVrMGJxbW5HRVpiT1pReXlWc2pTOGZrWS1FNy01NllnU1hJb3Z0SDZKcDRVbWFKOG1TOGFIQ0Ezbw?oc=5"
-        },
-        {
-          "text": "A Middleton Company Plans 78 Layoffs Across Its Corporate and Operations Teams…",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUhGZVlOSkNWVTI0QVRZN3haYzdxdHFvUno5X0g5WXVsdmJiZzhoRDdfeXl0MXFKWWRxQnlkQ0plbnRQVEJ3N2NXMFhXQnRWSkpOZVlzOTJoVE9YRHVWelVTQU1lMTMyOGh5MFNmTTluMkR6X0I1bVdXZ1VlSXd1em5zNDU4cXh4LWJXdXh4ZE1mLUVkWGd0N2plRTFDNlg0dDFLM2JmZk9sRkc5Ny1mWFNSeWt6UQ?oc=5"
-        },
-        {
-          "text": "2035年3D打印机市场展望：工业应用与供应链韧性驱动增长 - 新闻和统计 - IndexBox",
+          "text": "《谋算·借势 驾驭智能时代》 战略大会28日华总大厦举行 - www.chinapress.com.my",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWEdEd01LMXRBNmNXY0pjTzVvbmNCcVluX2d1X0FSTmdJQVBRenNwTWVKczVMRFI0U2dEdFNsWmxEenFMR3ZzMXphdGNzTFF2NlM0YVBpQnoyZVBrV0gyWEpkWVdSNnZmeE5CQlp1M0hPcGd3VWZZZW44cnN2VlAtQjJPNUsyN3R6Zi03c3hQMVkyTDJ2QmFXajg5elFJM05LOXZlSFRnSngwMmdsajdlTm4yRWZmWnYyNi00ZUlRNXg4SW9JX1BKV3pGNGhOWU9SbHdsRlBtbFFudw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNMlFPMUd5R3FDM3hEVlhFaVVtQnA5Wk13VFRwV21FbGJMbC1xYUhJNnNiTUZ0eTgtamdjQS11bEdMd2QzclpudVNnVXU3dHJkZkx1eWpJWDJERndVUHdqTGpQWTBabWxib3FNbjQyNjJOeGpycWFHYXpBRjlWczAxMEJlRGJFaXFJY3UyV1FXMnY2WXV0VGVndVU5WjVNVTNxNTNxNms0M3lXVU83ZkdIQ0VJRzNlRDJ3eWNLU3NJNTFhWkFfR3RlQ2w5QWJoVnNHYkd4Q0E5RkFMZml4WDh5WE92czBUaTJYVF9ndlZHRXd2NjktS25CRmV6VjlibGV4Qll3TFNfYWtYVS1yWXFnejhsTzJjMEtGNGF0bDYwR042ZzBQT1ZNNTZsTG4tTVJEZUhkcUgwOVQtdEZzVl9rWm1MZ0RQSzcwS0F3RmhVWjRMd19Xc2dScDFrZw?oc=5"
+        },
+        {
+          "text": "恩威医药（301331）股东成都杰威企业管理有限公司质押323万股，占总股本3.14% - 财富号",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82MVRhOXJoQmEwcVdBVFI2N3d6amJPeW5Gbmt5azFQRF9MbGJmWjBnMERjSUVkOEE5VWctZ2NZeWZNYVhxX0R1dGtOZUxIcy1uX1Jtak9yanQwbEdDU3JtUWpTeldRVlRWalJF?oc=5"
+        },
+        {
+          "text": "中国煤科常州研究院党建成果荣获 2026年企业管理优秀论文二等奖 - Sohu",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeThlLTFnakxzLTB4OWlUa21hZU1lMmhENDd4dzZCV1JIWjNUSFdrVlM5MkZkNVI4TVg3S09PLU9FZGcwT3VHRXdRMTFBZjNUYlhLMWRaVDFTQkR2WG4xa0pieTBXWW9TWmJ5cXkzMjAtb29qYlBwVmg5RjdMSm8zSHhhWUFUTk0tbmRTSA?oc=5"
+        },
+        {
+          "text": "Talenmark Corporation Appoints Muhammed Hashir as Head of Corporate Strategy -…",
+          "source": "Google News 全球商业",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUlHZG1QM1Zqa2QwNUN0Z3hOT09ybHVSQ05ETUZTOENLLUJ6NGUxeUxLSDE1UWJtRmJ5NzZTRzFjV0lYR1hsUjJybi15enowWTJkdmhkMTZqakZKcEhROFNabWlBTUlfQktfT3JKSTh1LW5qMjBpYVpnT3VEUEVGeGZ0eVpSdDlLYkJDelpYS2tyNnVDMGlUSzg5WDlwOTFPZFRyMA?oc=5"
         }
       ]
     }
