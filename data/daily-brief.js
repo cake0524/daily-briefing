@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月12日",
+  "publishDate": "2026年11月13日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "当“慢”成为一种反击：贾鸣镝的林肯逻辑与飞行家EX8的逆向修正｜封面访谈 -…",
+      "title": "17万预算买车，北汽星钽5X新能源和传祺越7怎么选？ - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "A hidden limit of space and time could…",
+      "title": "A breakthrough in magnetism could make…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Gaza winter aid: ‘No more delay’, Fletc…",
+      "title": "Six killed in Israeli airstrike on Gaza…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "11:44",
-          "title": "当“慢”成为一种反击：贾鸣镝的林肯逻辑与飞行家EX8的逆向修正｜封面访谈 - 手机新浪网",
-          "summary": "当“慢”成为一种反击：贾鸣镝的林肯逻辑与飞行家EX8的逆向修正｜封面访谈 手机新浪网",
+          "time": "11:19",
+          "title": "17万预算买车，北汽星钽5X新能源和传祺越7怎么选？ - 汽车之家",
+          "summary": "17万预算买车，北汽星钽5X新能源和传祺越7怎么选？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWENOOThiT0loQ25LUkFtYy1FaUJQVVBSRC13NTQ5Wk54dUk1YXg3dUMwdlhjdXdYaWR4aDhhVS14emtkTndzd2FDckllb0FPS3FCdmJCVmdMd0RobTc3OGVtS194WlZxMk81N3hqTEljRlZoME5oWjhRR3pEdlRLU0thbEdxX1pXR1dQbWdn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QeG1ZRDVUa0RnN3NsZ2ZJMk9MTDVKSXNobmxlN1ZBd2lEZVVieTBxeTltVG5wUTB2NlJaRUd4QkYwRW5iMkFFQXgzNXltREJRXzFtVF9ZRVdaQ00?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "11:40",
-          "title": "比亚迪第1900万辆新能源汽车下线，钛9预订开启 - 手机新浪网",
-          "summary": "比亚迪第1900万辆新能源汽车下线，钛9预订开启 手机新浪网",
+          "time": "11:04",
+          "title": "新能源汽车加速出海 - 国际在线",
+          "summary": "新能源汽车加速出海 国际在线",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUE5oRmtvTzR4Q2FWZTZLcy01eVF2NU12anVaRkl3ZTNoMHFpYmVDZkJ3M2tqUTJ4MWhCLVlObHRWdTFFVUpNclZzcGNwUFg5RHkzYjd5YUFZTVVXck1kZURmc3FfTy1WdEpEemkxanQyNjB5MTBYTXZ0SUFIYzFmRg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2elFDUlF5bFpkNFZLdkh6bW5haU52N3ZJRGh1ZEEyUmVTWlNFZ0F0RS1TWk5QaGNZZ0hBT2xpQzVWWko0cXZzVXhUUEtBODJmeFRCcTVuNzNkVmM2MW84dFhWRXR2M1RfUVhkOXhESHFyUmVKdmRqS2x3?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "河北发布新政：到2028年底，全省新能源重卡保有量突破10万辆 - 世纪新能源网",
+          "text": "合资新能源大涨七成，而自主新能源跌落13% - Sohu",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54d0JRWWxhTmcyeVJDXzBXUjRBaFJHTTloczh1RTFJVTFzNmtIdUg0dTdfVDVCYXdKZ0lweGZla2M3bU4yR1BaaTc1RlowMTVCRE5aWg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONktSS2NfQnR3bGVaRVlDUy1sdmV3RXl2UG80NzV5U3dkS2FPdU80UVhLMGdKZEF1OV9Zb2pZclpNY1VVQ3c3dFFBRUJLY3B2U2hQTTZ3bWdKVVFHaUZEeExzX09lb3pmaUdvdS1mYWdCb3lhajVQR2pqdUsyZ19sQnpBdFRwUFU0?oc=5"
         },
         {
-          "text": "顺义区领导到京津冀智能网联新能源汽车科技生态港顺义园调研 - 北京市人民政府门户网站",
+          "text": "【视频】新能源多功能微型床车，一车两用兼顾通勤与露营旅居 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNODdsMmt4NC1YMG5kU1k0Zk80cHpEZzRuV3lDUFZNc0MwcVhRWXFmZF9qQmRNdTVaWjJOOFZ6UkZUMnYyd2MtT2h6bUp2RnZNV05GVGZjdVRtWS1WRGd4UVFiMjZFWlVXbjZZRll0ZzA4WWRY?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yeEZaUmNhRW9OckxTb0hpeDBoQzI5WFF4RzVaZEtJNzczeG9MRkExUWxPRE15WFYtdHhCY0o4V2V5WHE4M1Y3d0o3eWlhOE9Ka3EwRnFMd3FwU1RIajZ4WGlyZmZyUGZURExZ?oc=5"
         },
         {
-          "text": "渗透率站上51.6%之后新能源车市进入结构决胜期？_公司新闻 - 证券之星",
+          "text": "鹏高控股强强联手进军千亿级新能源赛道 前景现新景象｜彭伟新 - 香港01",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1bjVfMngzTEhkZ0FfczRvMEZhcXczaVBTNXpJTTZBajRhcmpoZGpKN1RSeENiODRsYm5rc01rblNiUFhOcWpfMldiLUltbEF3dDFBYnY0OVk4ZmpIUzFBSA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQbTR3M2FldDU3bXpKejZmaldtbDVsZ1FISUxoX0VubDFRYm5Tdl9hNzhPWTk2YzUtRXFmVkFlbTBfSGVBbG9Ld09CNlpyQllCdVJObF9GQWtaaEVtaGVIN3I1NWl1eXk2NmRsaGktcmJrOC1IREJRaERvUy1FdUs0NFFUMkdZeDNfVExJS2hnQWllMlljaEdDSk93NVFRZWhneU9NVTV6VHl6ZmZEck1PUERDdURRZnoyVXFZWmFSSEJ3OWtpT3AyanhReEFOcDBBM05EY2JxWERwaEJMU3UzdWZnTE9YbXdTdFYtMTk0elNMdDBuUWM5U1NGQWxHdTNCMzVOeFV5U0pEeG5FWlJaZlo2TjNMdGJwZzRnMmlBUnU4QlNSTkNBN1BCMFJiTXZUaFBZVmVWX2ZLblpJZ0I4UEZXUnJvR09scHBEZ1FlRGZpaGVZT1pQSHhaZFhMblFhcnJtNy1veXUxOEZrenl1bG5WcF9LZ1lzM3JURHp2czg1bjBKenZ3RWNCSkdNd2tIelZOVWlUMmRUbHNXcWFaU25ycjNSRHJCNUxCSUhhWk52eHQ3TkVzeGNQLWtDWFZh?oc=5"
         },
         {
-          "text": "我国新能源汽车销量占比持续走高 - 手机新浪网",
+          "text": "万华化学在宜昌成立新能源材料技术公司# 注册资本8亿 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtYmZpYXVqUDh6YU9yZy1vTmJEbjQ5cXBQbWVhZFg4X1VUMC04QXkwc1pBNTNrOG9zanN2cTJ5aVBTSi1zUm05UVEydFNpODhZOGIzM0plbE02emNTZEFNTUNnN0dEc3U2X2dtRGVNYzJpalpLbHNHVnd1MkdpZms?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbjVFRmJ0aGpvb0tvVGpiMS1zRVhJa3JmOHlLMUZTalZhVlNSN0dlYk9IeFBUOGw3S1J6U3hySEotdGgwOWs1bVpjczQ1Yms2eHBiMGhlck5EXy1RMEtCWDVoMEdCWXpza0RkMTZoQ0gybld0OVdlb1BRY2xVUFJ3V3ZJdFpwOEV0NlJqZmFVRDNveG51NUE?oc=5"
         }
       ]
     },
@@ -74,43 +74,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:34",
-          "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-          "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimit…",
+          "time": "09:40",
+          "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+          "summary": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips tha…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm"
         },
         {
           "priority": "重点看点 02",
-          "time": "11:47",
-          "title": "A tiny supercurrent could unlock quantum information without destroying it",
-          "summary": "Researchers have proposed a breakthrough technique for reading quantum information without destroying the del…",
+          "time": "19:55",
+          "title": "AI-powered bionic eye breakthrough could help the blind see again",
+          "summary": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precis…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm"
         }
       ],
       "briefs": [
         {
+          "text": "Inside this quantum computer, memory vibrates like a guitar string",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm"
+        },
+        {
+          "text": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
+        },
+        {
+          "text": "A tiny supercurrent could unlock quantum information without destroying it",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261102202831.htm"
+        },
+        {
           "text": "A tiny squeeze dramatically changes the magnetism of exotic materials",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm"
-        },
-        {
-          "text": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
-        },
-        {
-          "text": "A computer scientist breaks through a limit that stood since 1996",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261029072146.htm"
-        },
-        {
-          "text": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
-          "summary": "The UN’s Emergency Relief Coordinator, Tom Fletcher, expressed deep concern about the deteriorating humanitar…",
+          "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+          "summary": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and ca…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168788"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168796"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
-          "summary": "UN chief António Guterres called for a new global climate justice agreement at COP31 on Wednesday, urging gov…",
+          "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+          "summary": "The World Food Programme’s (WFP) new Executive Director has warned that funding cuts are worsening Sudan’s hu…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168783"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168793"
         }
       ],
       "briefs": [
         {
-          "text": "From Japan to Rwanda, early warnings are saving lives – but millions remain unp…",
+          "text": "New platform aims to get money moving before disaster strikes",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168787"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168794"
         },
         {
-          "text": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
+          "text": "COP31: Cities rise up the climate agenda as leaders face demands for action",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168784"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168792"
         },
         {
-          "text": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement…",
+          "text": "Kenya begins countdown towards end of Ebola after last patient discharged",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168782"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168790"
         },
         {
-          "text": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
+          "text": "Haiti: More than 1,000 killed between July and September, UN report reveals",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168781"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168789"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:00",
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+          "time": "04:16",
+          "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+          "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
         },
         {
           "priority": "重点看点 02",
-          "time": "16:00",
-          "title": "ChatGPT Plus for veterans and servicemembers",
-          "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how…",
+          "time": "04:00",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+          "url": "https://openai.com/business/customer-stories/amplitude"
         }
       ],
       "briefs": [
         {
-          "text": "JioStar’s chief architect on AI discovery at 500M-user scale",
+          "text": "Gondola doubles revenue as its team builds more with Codex",
           "source": "OpenAI",
-          "url": "https://openai.com/index/jiostar-vijay-seshadri"
+          "url": "https://openai.com/business/customer-stories/gondola"
         },
         {
-          "text": "Helping caregivers use AI in everyday life",
+          "text": "Holiday Extras is rethinking what it can build with Codex",
           "source": "OpenAI",
-          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
         },
         {
-          "text": "Introducing Businesses in ChatGPT",
+          "text": "Supporting research on AI and children’s safety",
           "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-businesses-chatgpt"
+          "url": "https://openai.com/index/children-first-declaration"
         },
         {
-          "text": "Closing the AI guidance gap in education",
+          "text": "Gilbert + Tobin rethinks the business of law with AI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/closing-ai-guidance-gap-education"
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:59",
-          "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
-          "summary": "Researchers at Texas A&M University published “5G CATS: 5G-Based Cryptographic Authorization Against Traffick…",
+          "time": "23:57",
+          "title": "The Semiconductor Singularity",
+          "summary": "Accelerating IC innovation with AI. The post The Semiconductor Singularity appeared first on Semiconductor En…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/hardware-based-location-checks-target-ai-chip-smuggling-texas-am/"
+          "url": "https://semiengineering.com/the-semiconductor-singularity/"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:42",
-          "title": "Embedded ECC Protects AI Weights Against Bit-Flip Attacks (University of Florida)",
-          "summary": "Researchers at the University of Florida published “SANAI: Secure ECC Distributed Keyed Parity Embedded in We…",
+          "time": "16:11",
+          "title": "Rethinking Memory For AI Inference",
+          "summary": "Processing data closer to memory could reduce power and boost performance, but software, thermal, and archite…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/embedded-ecc-protects-ai-weights-against-bit-flip-attacks-university-of-florida/"
+          "url": "https://semiengineering.com/rethinking-memory-for-ai-inference/"
         }
       ],
       "briefs": [
         {
-          "text": "Single-Crystal High-κ Dielectric Enables Low-Power 2D CFETs (NUS et al.)",
+          "text": "Beyond Bandwidth: AI Inference Is Reshaping The Memory Wall",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/single-crystal-high-%ce%ba-dielectric-enables-low-power-2d-cfets-nus-et-al/"
+          "url": "https://semiengineering.com/beyond-bandwidth-ai-inference-is-reshaping-the-memory-wall/"
         },
         {
-          "text": "Optimized E-Beam Evaporation Reduces Metal-Semiconductor Contact Degradation (R…",
+          "text": "The Semiconductor Singularity: When AI Starts Accelerating The Silicon That Acc…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/optimized-e-beam-evaporation-reduces-metal-semiconductor-contact-degradation-rwth-aachen/"
+          "url": "https://semiengineering.com/the-semiconductor-singularity-when-ai-starts-accelerating-the-silicon-that-accelerates-ai/"
         },
         {
-          "text": "Variable-Length Prompts on Chimera GPNPU",
+          "text": "Designing Edge AI SoCs At Near-Threshold: Why Foundation IP Can Help You Break…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/variable-length-prompts-on-chimera-gpnpu/"
+          "url": "https://semiengineering.com/designing-edge-ai-socs-at-near-threshold-why-foundation-ip-can-help-you-break-down-the-power-wall/"
         },
         {
-          "text": "UCIe Connectivity for 2.5D and 3D Multi-Die Designs",
+          "text": "IP Integration Challenges Evolve",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ucie-connectivity-for-2-5d-and-3d-multi-die-designs/"
+          "url": "https://semiengineering.com/ip-integration-challenges-evolve/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
-          "summary": "The UN’s Emergency Relief Coordinator, Tom Fletcher, expressed deep concern about the deteriorating humanitar…",
+          "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+          "summary": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and ca…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168788"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168796"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
-          "summary": "UN chief António Guterres called for a new global climate justice agreement at COP31 on Wednesday, urging gov…",
+          "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+          "summary": "The World Food Programme’s (WFP) new Executive Director has warned that funding cuts are worsening Sudan’s hu…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168783"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168793"
         }
       ],
       "briefs": [
         {
-          "text": "From Japan to Rwanda, early warnings are saving lives – but millions remain unp…",
+          "text": "New platform aims to get money moving before disaster strikes",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168787"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168794"
         },
         {
-          "text": "Lebanon: After 48 years patrolling the Blue Line, UN peacekeepers prepare exit",
+          "text": "COP31: Cities rise up the climate agenda as leaders face demands for action",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168784"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168792"
         },
         {
-          "text": "World News in Brief: Ending cholera by 2030 ‘within reach’, Haiti displacement…",
+          "text": "Kenya begins countdown towards end of Ebola after last patient discharged",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168782"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168790"
         },
         {
-          "text": "Ebola: IOM urges wider surveillance beyond formal routes in DR Congo",
+          "text": "Haiti: More than 1,000 killed between July and September, UN report reveals",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168781"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168789"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:56",
-          "title": "山东2家上市公司管理层更迭 - 山东新闻",
-          "summary": "山东2家上市公司管理层更迭 山东新闻",
+          "time": "10:37",
+          "title": "[大公报]推进供应链韧性建设 打破贸易壁垒 - 人大新闻网",
+          "summary": "[大公报]推进供应链韧性建设 打破贸易壁垒 人大新闻网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lMXFxM201RDd5YnpHdHZCdlNYTmZmMlNuZ3NlVXpHcWZ4dE1RSkNMaUxHalVaRllkNXpCREQ5X0I1cTFKWjZ6dHhqU1ROdDRkXzBqVHMzVThzZFIyOV84SHhLUFA?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzdHRfMDdJV2hmSkRkMC1sZm5pTnhuRG1UbFE0bUVnUE5TNEc5a2xRN0RFR1pHY19VblhEZXIybFVTNG5aaS0xOFA3TnJhZnZETlMyS1M0Wm1RZmdN?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "08:52",
-          "title": "别指望靠管理拯救一家公司 管理救不了一家公司，真正出问题的地方，往往在战略和文化。著名投资人段永平说，很多CEO做决策时眼睛盯着“倒后镜”，琢磨前任、老领导怎么想，这就相当于一直往后看；可用户永远在前面。所以正确的决策姿势只有一个：别想别人怎么做 - Sohu",
-          "summary": "别指望靠管理拯救一家公司 管理救不了一家公司，真正出问题的地方，往往在战略和文化。著名投资人段永平说，很多CEO做决策时眼睛盯着“倒后镜”，琢磨前任、老领导怎么想，这就相当于一直往后看；可用户永远在前面。所以正确的决策…",
+          "time": "08:25",
+          "title": "中信证券：科技龙头企业管理层变动可能加剧短期市场波动，但系统性抛售压力或相对有限 - 富途牛牛",
+          "summary": "中信证券：科技龙头企业管理层变动可能加剧短期市场波动，但系统性抛售压力或相对有限 富途牛牛",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMUhGMHdIRDlsU3VhOEEyN0RPN0NIb205WnZpMzI5SUI4RDJfcXRhcVUzVy1XdTI2ZlRoYmVvTGNUSkxxc1czbGFnTkg5dWFNNTRnSkc3OWstUXNiTHdEMHEwVjRONW1HTjIwSWlGcWpKZWtjYkhWdVUtbnYyN3BubHdMTVF1WExzdFF4aw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU243aGFPRHpKQmlac05aeld0dUh0NzdaSks5TTM2R0o1dTFNTDFyd2NTSEM1VnFNXzF6b1pXS1ZnekR5WGFCMmNaT3E1WkRhdkpVWlowOVJJLTF1ZWpuLXkxQ0pwbThfNE1MWi1EbE5OMGRPVUVyOEdMQUlfdHFTRTFDeDE0TWFnbTJaV3lVVVQ1bnE5SXpMWXFQdVZXOVJSTERMbUh1YXAzaU5kcXBNU09PX2xoZVp0OHc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "《谋算·借势 驾驭智能时代》 战略大会28日华总大厦举行 - www.chinapress.com.my",
+          "text": "宇信科技：在具身智能领域，公司战略投资光轮智能、智平方及灵心巧手_公司新闻 - 证券之星",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNMlFPMUd5R3FDM3hEVlhFaVVtQnA5Wk13VFRwV21FbGJMbC1xYUhJNnNiTUZ0eTgtamdjQS11bEdMd2QzclpudVNnVXU3dHJkZkx1eWpJWDJERndVUHdqTGpQWTBabWxib3FNbjQyNjJOeGpycWFHYXpBRjlWczAxMEJlRGJFaXFJY3UyV1FXMnY2WXV0VGVndVU5WjVNVTNxNTNxNms0M3lXVU83ZkdIQ0VJRzNlRDJ3eWNLU3NJNTFhWkFfR3RlQ2w5QWJoVnNHYkd4Q0E5RkFMZml4WDh5WE92czBUaTJYVF9ndlZHRXd2NjktS25CRmV6VjlibGV4Qll3TFNfYWtYVS1yWXFnejhsTzJjMEtGNGF0bDYwR042ZzBQT1ZNNTZsTG4tTVJEZUhkcUgwOVQtdEZzVl9rWm1MZ0RQSzcwS0F3RmhVWjRMd19Xc2dScDFrZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyQzFoQ0gxdzVMZlA0TmhkNDdlUldHOHVQYk92OVdjaWNvaGdPOEZRWlFBcVduYVlvSTN2UnNYWlBqOXNJTy1tYnc2Qm5PelZ4akdBN1lGdjRvYUhjREtzZA?oc=5"
         },
         {
-          "text": "恩威医药（301331）股东成都杰威企业管理有限公司质押323万股，占总股本3.14% - 财富号",
+          "text": "宇信科技(300674.SZ)：在具身智能领域，公司战略投资光轮智能、智平方及灵心巧手_公司新闻_财经 - 证券之星",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvQlUydFZSc1hnUVozbEFhMjZUejFhVkpzRXBVMGlxU0hmMlcyR2k3bmJvYVJfMm93QTlKemY0WnNUWllFd3Q4X3lQemZjeWdyZ3AzLXFHY1hyMGFwZ2FkVA?oc=5"
+        },
+        {
+          "text": "香港海关拜访海关总署企业管理及稽查司、风险管理司及缉私局 - 紫荆网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82MVRhOXJoQmEwcVdBVFI2N3d6amJPeW5Gbmt5azFQRF9MbGJmWjBnMERjSUVkOEE5VWctZ2NZeWZNYVhxX0R1dGtOZUxIcy1uX1Jtak9yanQwbEdDU3JtUWpTeldRVlRWalJF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSWFIQUlZT3dQdmVWWFhEUHhzd0NFcXJaV2R4YnhSOGNNdUpieFdQakpaYnpNd1FBOUJQMjQ0WUhXWlJmX1pZMzBkQVA1X1BkR2dEbXlwN01sOTFTMnJQZjVlRmhSaWpLakQ3d2ZWa3lPaEhNZzk4aUl0MzVPdFQycXNDOXhJOUNRSXU3LVdUS2psblgw?oc=5"
         },
         {
-          "text": "中国煤科常州研究院党建成果荣获 2026年企业管理优秀论文二等奖 - Sohu",
+          "text": "LV集团旗下路威凯腾等在上海成立新企业管理合伙企业 出资额约3.1亿 - Sohu",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeThlLTFnakxzLTB4OWlUa21hZU1lMmhENDd4dzZCV1JIWjNUSFdrVlM5MkZkNVI4TVg3S09PLU9FZGcwT3VHRXdRMTFBZjNUYlhLMWRaVDFTQkR2WG4xa0pieTBXWW9TWmJ5cXkzMjAtb29qYlBwVmg5RjdMSm8zSHhhWUFUTk0tbmRTSA?oc=5"
-        },
-        {
-          "text": "Talenmark Corporation Appoints Muhammed Hashir as Head of Corporate Strategy -…",
-          "source": "Google News 全球商业",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbUlHZG1QM1Zqa2QwNUN0Z3hOT09ybHVSQ05ETUZTOENLLUJ6NGUxeUxLSDE1UWJtRmJ5NzZTRzFjV0lYR1hsUjJybi15enowWTJkdmhkMTZqakZKcEhROFNabWlBTUlfQktfT3JKSTh1LW5qMjBpYVpnT3VEUEVGeGZ0eVpSdDlLYkJDelpYS2tyNnVDMGlUSzg5WDlwOTFPZFRyMA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPejJneFVxSHBoOG1pbWw0VER0UWNNM1VLZ3ZmTnpoZDJTMmxzb1c3cUhMeFd2MmtTWmgtM09TblhZdm1NelBobXFqaG8yalUwcW14SnBOSTR3aDIwZEhMYUEwZHdMSjhlMjBwTThuYzhEQ0R0LWY3ay1nNUZvRTFheWZ3Z1c0RXFsUXJjWg?oc=5"
         }
       ]
     }
