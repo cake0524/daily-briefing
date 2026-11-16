@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月15日",
+  "publishDate": "2026年11月16日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "25万预算新能源SUV选购清单：小鹏G9L与理想L6、问界M6、乐道L80横评…",
+      "title": "买新能源SUV，方程豹钛9和蔚来ES8怎么选？ - 汽车之家",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "AI supercharges laser physics with a st…",
+      "title": "Physicists use laser light to unlock a…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "When the rains fail: Preparing for drou…",
+      "title": "Nadia Murad: ‘Day by day, I took my sto…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:38",
-          "title": "25万预算新能源SUV选购清单：小鹏G9L与理想L6、问界M6、乐道L80横评 - 新浪网",
-          "summary": "25万预算新能源SUV选购清单：小鹏G9L与理想L6、问界M6、乐道L80横评 新浪网",
+          "time": "10:36",
+          "title": "买新能源SUV，方程豹钛9和蔚来ES8怎么选？ - 汽车之家",
+          "summary": "买新能源SUV，方程豹钛9和蔚来ES8怎么选？ 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfUkE0WXdVb1NMZExvNmxZOEdrd3ZISTAxTUNjZktuQzN4clFsbHhNT2lMOUsyVHEyQU9GVzNKRTVsaUx0S1RyOGxBT01yRE5GQ1hOaUFoMy04UjhOanhR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3SFhXSGw3Wmw1Unl6YmtjUFc3QThZQnBINm1MaVVXMGZPcUg1NW9JRkF4SXBvdUJxMjZrOGN6aFJGNmVyWGdiR0xpT1JFZGVYUG1WVWZwQVNEMUJHeGRFa0J2eFRVTzhMYjhV?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:32",
-          "title": "25万预算新能源SUV怎么选：小鹏G9L、理想L6与乐道L80对比参考 - 新浪网",
-          "summary": "25万预算新能源SUV怎么选：小鹏G9L、理想L6与乐道L80对比参考 新浪网",
+          "time": "10:30",
+          "title": "ID. ERA 5X上市：合资新能源发起强势反攻 - 汽车公社",
+          "summary": "ID. ERA 5X上市：合资新能源发起强势反攻 汽车公社",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4ydFFfNEZKSFE2RmhYMGhQX3RQTGdQQ21idzZCallhRjc4TEFkTEN5VWRNaEFCUUpKenJvX0JRd1RHVXo0eFFRTDFCTG53QmFvSkhTdEdBSDExaTdkRlJF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTF92T2o4V1Rjem4tNlJVZWpmbF9ieVJaWjlwSl9GajhfdDQ2aUl4cnRWWmIyUHIzeFdyZWl3MXlWQ3R0aWllYy14czhSeUlQMDBVSVBIZ05yLVFOZnlzMEVWSU1fN2NRM19oVmwweGdvdjRxbHhxd1pGMHFXbndzbXFKWk05NXg3NW1yZGZ6OGhDZWc?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "25万预算新能源SUV选购清单：小鹏G9L对比理想L6、极氪7X、智界R7 - 新浪网",
+          "text": "国家统计局：1—10月份，全国规上工业增加值同比增长5.3% - 京报网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwV1hzVlNUcGJkQmJuSDdWUmZmc2diNWcwTzdjSTh4TFlCZTdhRElmbzBsdW1xMlRsU3hMWDc2LTkyMlFsTlA4dXBzNUJmSXBEZy15aW5IcEw0aHREbFBj?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tc1EtYVZwblhyYVRXWXRWVW85Zkp6UUM2U0NwbmpuV2NZckg1N0d5djZvMlJXclJJWm9qRkJjTi1CUFUtZ0RlVWN1ZXlJOTZnYndVTkFoUnJmdjNHTmc?oc=5"
         },
         {
-          "text": "预算25万新能源SUV横评：小鹏G9L、理想L6、问界M6、乐道L80怎么选 - 新浪网",
+          "text": "三排都能坐成年人？三款热门家用新能源SUV横向体验，奕境X9把家庭细节做透了 - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54UV9RTjhjWkNlWjlDN2E2LWpEMVltTnZNbG00ZkVMMWxEQ2t3VFVJVHdKWUI4NUJpSE85UjRZclV2Z0pLX2tyQXZIaVhMT0FWSGtFTE1BM0hWZVFQcjFJ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PNkEzZEN2VFZHUXhIWFRodE14MnlJTTVEbnJjRC1NaGhDWFdUZE9JWTNyX1c0VnJKbmM1RGJJSkVBR1c5SXNTTjhvczQ5dGNoeVd0bnhCTTY2VUlmNWRB?oc=5"
         },
         {
-          "text": "25万预算新能源SUV选购清单，小鹏G9L与理想L6、乐道L80、智界R7横评 - 新浪网",
+          "text": "买新能源SUV，方程豹钛9和岚图泰山X8怎么选？ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pbFc0VUNsN25ybVFfbGF0QXhYQWhRR3lCcEFtM2JiSmR0YnVFa2FhcGhVTzRnRXBRcU5YNzVra1JKNWpJMGVPZ1RmbkJGN1dzaU04cmkyTTFiWHFfWWUw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qVUpnU2pyZm5OMjA4S2d5aFJVM0ZYYTFDb3Bpb3hIM1FxR1hJUHJFUzFWR0x5X0lrMGlacjZJdWpCUm41Z3ZYalkxeDJOTGMxNGtmMFhWM0Z4d2FPWFdKajM3Ym8yazNOOGMw?oc=5"
         },
         {
-          "text": "30万级家用新能源SUV怎么选？四款热门大六座横评，奕境X9把三排平权做成家庭标配 - 新浪网",
+          "text": "中国1-10月份城镇固定资产投资下降8.1%，信息服务业增长20.5% - 华尔街见闻",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5udm1vMmRYc1FDa2x1YndpNlFZZFBrMnBfVkRzQkpjeXlzQWFTaE8zMW92M05kRm5hYmJLeXEyWEdzWWc5bll3cVZYajB1RkdIeGpCX2t0bzJYRHRpSEtz?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCa29BbE9EbnZZY2dmTXYtNGNwa0xxNVpjUl9GU3UtY0VyOWVDamlBVDZpcEF4d3ZLakxmcHp0S19sdHNUdzhSSzhsSDEyV1JLQjlR?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "07:41",
-          "title": "AI supercharges laser physics with a stunning 250x speed boost",
-          "summary": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions…",
+          "time": "10:18",
+          "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+          "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a cry…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "09:05",
+          "title": "AI discovers a hidden heart signal that could predict sudden death",
+          "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac deat…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "AI supercharges laser physics with a stunning 250x speed boost",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "13:26",
-          "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
-          "summary": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computer…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Tiny flaws in diamonds could unlock a quantum computing revolution",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "A breakthrough in magnetism could make AI chips use dramatically less energy",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "AI-powered bionic eye breakthrough could help the blind see again",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm"
-        },
-        {
-          "text": "Inside this quantum computer, memory vibrates like a guitar string",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261109205416.htm"
-        },
-        {
-          "text": "A hidden limit of space and time could unlock electronics 100,000 times faster",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
         }
       ]
     },
@@ -123,23 +123,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
+          "title": "Nadia Murad: ‘Day by day, I took my story back’",
+          "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed again…",
+          "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168801"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:00",
           "title": "When the rains fail: Preparing for drought in Central America",
           "summary": "Across Central America’s so-called Dry Corridor, farming families live at the mercy of the rains. In southwes…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/11/1168776"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
-          "summary": "In a quiet hospital corridor in Kyiv, staff and volunteers push carts carrying steaming pots of chicken soup,…",
-          "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168803"
         }
       ],
       "briefs": [
+        {
+          "text": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper mea…",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168803"
+        },
         {
           "text": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping m…",
           "source": "United Nations News",
@@ -154,11 +159,6 @@ window.dailyBrief = {
           "text": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in…",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/11/1168799"
-        },
-        {
-          "text": "COP31: New initiative targets AI and reliable climate change information",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168798"
         }
       ]
     },
@@ -170,24 +170,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:00",
-          "title": "Introducing ChatGPT Wallet",
-          "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases wi…",
+          "time": "06:00",
+          "title": "A step toward defining the Standard Model on a lattice",
+          "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "06:00",
+          "title": "Our new blog for science",
+          "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using…",
+          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/our-new-blog-for-science"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Introducing ChatGPT Wallet",
           "source": "OpenAI",
           "url": "https://openai.com/index/introducing-chatgpt-wallet"
         },
         {
-          "priority": "重点看点 02",
-          "time": "16:00",
-          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-          "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems…",
-          "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
+          "text": "Shield helps technicians hand off legacy portal work with OpenAI",
           "source": "OpenAI",
           "url": "https://openai.com/business/customer-stories/shield"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Nvidia privately confirmed it could track chips to fight smuggling, even as ind…",
           "source": "MIT Technology Review AI",
@@ -197,16 +207,6 @@ window.dailyBrief = {
           "text": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "source": "OpenAI",
           "url": "https://openai.com/business/customer-stories/amplitude"
-        },
-        {
-          "text": "Gondola doubles revenue as its team builds more with Codex",
-          "source": "OpenAI",
-          "url": "https://openai.com/business/customer-stories/gondola"
-        },
-        {
-          "text": "Holiday Extras is rethinking what it can build with Codex",
-          "source": "OpenAI",
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex"
         }
       ]
     },
@@ -267,23 +267,28 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
+          "title": "Nadia Murad: ‘Day by day, I took my story back’",
+          "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed again…",
+          "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168801"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "20:00",
           "title": "When the rains fail: Preparing for drought in Central America",
           "summary": "Across Central America’s so-called Dry Corridor, farming families live at the mercy of the rains. In southwes…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/11/1168776"
-        },
-        {
-          "priority": "重点看点 02",
-          "time": "20:00",
-          "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
-          "summary": "In a quiet hospital corridor in Kyiv, staff and volunteers push carts carrying steaming pots of chicken soup,…",
-          "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168803"
         }
       ],
       "briefs": [
+        {
+          "text": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper mea…",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168803"
+        },
         {
           "text": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping m…",
           "source": "UN News",
@@ -298,11 +303,6 @@ window.dailyBrief = {
           "text": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in…",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/11/1168799"
-        },
-        {
-          "text": "COP31: New initiative targets AI and reliable climate change information",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168798"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:04",
-          "title": "李荣昌.储粮备灾不必跟风，更应重视供应链韧性 - 言路 - 昌论 - 星洲人 - VIP文 - Sin Chew Daily",
-          "summary": "李荣昌.储粮备灾不必跟风，更应重视供应链韧性 - 言路 - 昌论 - 星洲人 - VIP文 Sin Chew Daily",
+          "time": "17:33",
+          "title": "安华呼吁东盟加强供应链韧性·须实现粮食药物来源多元化 - Malaysia-China Insight",
+          "summary": "安华呼吁东盟加强供应链韧性·须实现粮食药物来源多元化 Malaysia-China Insight",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkUtcEpmQXZKLTZNbXRTUFFaUklWZ1ZuajZyUWNhbnVSQ2ZUR3ZYNWNpUWxvZWRKb0xQU2RsUXNscm1LZHh4ZGNCRlBGcDhNdUppLTUxb3ZEVXBDbEdGanpIZGtTb2pwU2ZPa3ZpSURwdkF6b3hsSDlaenZSdlVYeDln?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQUjBEZTVMcUlWMnJNZllhenQyNTR3ZVF0S2JOZ3JEZ0hmQ2RCZEFjU0lSRENBNEhTc2dxNXNOaDNwa1FqOWVWekdZWi1MZHVOck13ZzRNM1BwX0JUcG9mN3ZMWk1LWWZYN2VYa0Q1UFZiYUJxUElqU0g3eWQ1YjdmVzlIWnhINGRxcVVKbmdVYWxaT2E4QThrYmpISmItY0l3V3JIdWJGODJYUjZzVkNrR3Q5RS0xY09SUFVJbW5GYXdpSEZ3YXNySUVrQUdyajhrMHVRakVWLVR2VmJPREFXcVl3OXowZEt4bjZWWVFMMzROV0d1aGdfajRyajAyV3hvS0pjUVBGTXRvTU1LU05qTXY0SHBEd2VYMDdZXzlyWHBHTkJpbWlMbFFSWU00aHJaNzFGMnE1YjNiSGw3ZGdfZ3BUYU5MNjJ2T3dmWWs4cjlEdzN6aDE0?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:45",
-          "title": "南财举办首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛 - 紫牛新闻",
-          "summary": "南财举办首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛 紫牛新闻",
+          "time": "15:37",
+          "title": "首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛举行 - Sohu",
+          "summary": "首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛举行 Sohu",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2aUlnZkxoMWVCVkE5ZHYtVTV6Zzl0eVpFRFhGQ3p1aThncWs5TkhwNUl6WmZMdDdHcC1qUXRSbklWQ29RVjJITkJibmZhWk5RaC00WHZJS0ExV0U5S19Sa3MwRnVRdHJD?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUxfUnBORDJ1YzVLNnpqYUh5MzltYmxma2psSlZqb2p3MlFqYm16VUdOOHNVdV9mWnpGTWNHLV8tMnNJZHdSWHdYQWI4Rjg4bjZPdnJTOV9HOXNtMnlzWXdXem0yVTljbkp0ZzdTMEs0c09KbTlkYS1lRHM0ZWkwQXJZdmlXSXFN?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "米体：红鸟宣布成立米兰体育与娱乐公司，管理旗下各领域相关资产 - Sohu",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN2RDTmduOE1FZXg4SklZSVlrQU1PNTVINDZqRnhXRnhmWmsxbHE0anQ1UTIwWnVkS2ZSVTJSYm5WMWozaTVZRVJ5RU5NSmZ5c2VTRkJ5Mjh5N2ZhaDRET2VFRnRpSlBqSFM1aU1VYWJsNFE2SGFEb0JWOWxSeXdONXBuZWlUemtf?oc=5"
-        },
-        {
-          "text": "[大公报]推进供应链韧性建设 打破贸易壁垒 - 人大新闻网",
+          "text": "安华吁东盟加强供应链韧性 须实现粮食药物来源多元化 - KLSE Screener",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzdHRfMDdJV2hmSkRkMC1sZm5pTnhuRG1UbFE0bUVnUE5TNEc5a2xRN0RFR1pHY19VblhEZXIybFVTNG5aaS0xOFA3TnJhZnZETlMyS1M0Wm1RZmdN?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxOZl9MYVhtUDRJNEFZdFN5bVBMX2FVUUFON1p6YV8xNmRtMFFRNVZ6VllBMlFwcG14U0JPenA1QTJtcGlXVnVmdGZ0SjdJNGNsRmpjNUlEZVdieV9QSlV6OWNpTHBISDByeG9KcE53dzhUT1ctYlFkQm5vOW9LSjJaVzRUWGVSUjlXbjZ1NzBwdEFWd2hGMzVreFQyS2dnZVlTQng3bjNYRFdMbDQ5OXBFUnd2QUUzYnltWkpYMnBQZ2dmM3I2cEpySExqWWpJMHdsRFJaSnh4bVN5Q1c4TGpRVGZhczhJeDRCX3h3VEttVUJ3ZVpld0k1bWdpX0ZOcHlHbFVOV3h0aTlNTHE5Rm05Zkc4U3BkM05Kb24xWjNEMEs3clg4LTdLMGt4UDJ6a2Vtc2V0ZF9LSFFGWUJocnRKVkxTb29INVdSS0tZZXBPeFdHTld5ek5aRWF1QUhRem5DWmpMTHctTFN2VXk2TlRuYWtoLWJxbW8zbmVURHFCTkw?oc=5"
         },
         {
-          "text": "中信证券：科技龙头企业管理层变动可能加剧短期市场波动，但系统性抛售压力或相对有限 - 富途牛牛",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU243aGFPRHpKQmlac05aeld0dUh0NzdaSks5TTM2R0o1dTFNTDFyd2NTSEM1VnFNXzF6b1pXS1ZnekR5WGFCMmNaT3E1WkRhdkpVWlowOVJJLTF1ZWpuLXkxQ0pwbThfNE1MWi1EbE5OMGRPVUVyOEdMQUlfdHFTRTFDeDE0TWFnbTJaV3lVVVQ1bnE5SXpMWXFQdVZXOVJSTERMbUh1YXAzaU5kcXBNU09PX2xoZVp0OHc?oc=5"
-        },
-        {
-          "text": "《谋算·借势 驾驭智能时代》 战略大会28日华总大厦举行 - www.chinapress.com.my",
+          "text": "【东盟峰会】安华吁东盟加强供应链韧性 须实现粮食药物来源多元化 - e南洋",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNMlFPMUd5R3FDM3hEVlhFaVVtQnA5Wk13VFRwV21FbGJMbC1xYUhJNnNiTUZ0eTgtamdjQS11bEdMd2QzclpudVNnVXU3dHJkZkx1eWpJWDJERndVUHdqTGpQWTBabWxib3FNbjQyNjJOeGpycWFHYXpBRjlWczAxMEJlRGJFaXFJY3UyV1FXMnY2WXV0VGVndVU5WjVNVTNxNTNxNms0M3lXVU83ZkdIQ0VJRzNlRDJ3eWNLU3NJNTFhWkFfR3RlQ2w5QWJoVnNHYkd4Q0E5RkFMZml4WDh5WE92czBUaTJYVF9ndlZHRXd2NjktS25CRmV6VjlibGV4Qll3TFNfYWtYVS1yWXFnejhsTzJjMEtGNGF0bDYwR042ZzBQT1ZNNTZsTG4tTVJEZUhkcUgwOVQtdEZzVl9rWm1MZ0RQSzcwS0F3RmhVWjRMd19Xc2dScDFrZw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41UmdfY3QzVzFEYWZWWlEwTjRicy1TR3Z4NmI5UWNFTTRyR0RrVU5IQk1jelZlekVwclEzUlRaSExmWFdQaHZCQzJBY1FqZDBySld0dEFlUF9hTXNTalpmdDVIMA?oc=5"
+        },
+        {
+          "text": "李荣昌.储粮备灾不必跟风，更应重视供应链韧性 - 言路 - 昌论 - 星洲人 - VIP文 - Sin Chew",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUkUtcEpmQXZKLTZNbXRTUFFaUklWZ1ZuajZyUWNhbnVSQ2ZUR3ZYNWNpUWxvZWRKb0xQU2RsUXNscm1LZHh4ZGNCRlBGcDhNdUppLTUxb3ZEVXBDbEdGanpIZGtTb2pwU2ZPa3ZpSURwdkF6b3hsSDlaenZSdlVYeDln?oc=5"
+        },
+        {
+          "text": "南财举办首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛 - 紫牛新闻",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2aUlnZkxoMWVCVkE5ZHYtVTV6Zzl0eVpFRFhGQ3p1aThncWs5TkhwNUl6WmZMdDdHcC1qUXRSbklWQ29RVjJITkJibmZhWk5RaC00WHZJS0ExV0U5S19Sa3MwRnVRdHJD?oc=5"
         }
       ]
     }
