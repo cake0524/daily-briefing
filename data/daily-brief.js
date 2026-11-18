@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月17日",
+  "publishDate": "2026年11月18日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "商务部推动中国与东盟新能源汽车合作双边机制有望降低-汽车资讯 - 盖世汽车社区",
+      "title": "又一新能源车企获车辆独立生产资质！ - 电子工程专辑EE Times China",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Physicists defy expectations by control…",
+      "title": "Scientists tracked kids for 8 years. Wh…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Nadia Murad: ‘Day by day, I took my sto…",
+      "title": "Ukraine: Civilian casualties in 2026 al…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "12:45",
-          "title": "商务部推动中国与东盟新能源汽车合作双边机制有望降低-汽车资讯 - 盖世汽车社区",
-          "summary": "商务部推动中国与东盟新能源汽车合作双边机制有望降低-汽车资讯 盖世汽车社区",
+          "time": "11:57",
+          "title": "又一新能源车企获车辆独立生产资质！ - 电子工程专辑EE Times China",
+          "summary": "又一新能源车企获车辆独立生产资质！ 电子工程专辑EE Times China",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yRXdKaXBNLXVkN3dpWVg4ZWFKM2hRRzZpR05KVWlVcldNN09WYk1QWEhPc1YxSnVEX1ZVdFduNkU4LWRsZ2lHdW5HaDZScm9j?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JTWdVcmdQZ0ItaW1yNHBlQ3JQSVpsZU1JbjBCamRhYVpoUXJuT2VoVXh6b0k5SEhfeHdpRDhTa0NLVVE5cG1VODJ4Ql96TkdqTFFJ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "12:27",
-          "title": "新能源转型下半场，租车行业瞄准“补能体验” - 21财经",
-          "summary": "新能源转型下半场，租车行业瞄准“补能体验” 21财经",
+          "time": "11:24",
+          "title": "核心产业政策支持加码、自主可控稳步推进，深证50ETF易方达（159150）动能积聚-ETF火线 - 金融界",
+          "summary": "核心产业政策支持加码、自主可控稳步推进，深证50ETF易方达（159150）动能积聚-ETF火线 金融界",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONjUyNlFpM2JJQWlJQ2FkdXV3ZFdLUTZqUkNDS29YTGt0VlhMRm9ZQmJBclNHOWU3Vk1jV01xWjZIcVNUSGJjb1NGNlIyeVUzVVRVVHFmbng4bmVfV2dDeVVESXZkVHUxZHJRNjVtWVVYRFQ1b2xTRTdrSVZiaHB4SjN5cnVvRU9XMk1zcHM0bw?oc=5"
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yXzZNRHV5MjMzTC1YNkNKT3FKOVZXT0g2cWp3TGNta2ZLT2J2YkdUaUh4MWtSVDNvV3FiVWowX0lYTUpFdmw1NlA1a0NISDF5YjR2RGNOMUlkQ0RacTRBb1g2RlRtdEVnR1NHb19UWmk?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "中保协：智能网联新能源汽车商业保险示范条款（试点地区）相关议题审议通过 - 金融界",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RNl8taFAtZEFIbVNTVWl3cEs2a3dVVUZRYTI2LTZwV3kwRXF0VVRIRTlXcDBPakI0UUZHZUlHQXoyN1VXUHNSTFFMYmFXT2NsdnliVHV6SjVWbUt3eFl4SV9KX1lGNFBldGhDa1ZuRzhrbUtteFAw?oc=5"
+          "text": "商务部等9部门发文 新能源汽车推行车电一体报废 - 汽车之家",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzSmw2YmxBTmgwbG1pSHU0bG5va2RqV1pibG9mY3BqX1o2RkRiakkwNVo1WUhCbDM4eWFRaVhQdHFPS0Z6dDh3T09oTWhMOUx4VFQzalV2ZktDN28?oc=5"
         },
         {
-          "text": "彭庆国：从运输人到新能源重卡“摆渡人” - 汽车之家",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hb0pPcDZFdWJjU0plcmJlWEtRUEFkM082LXZzeGhGUTZLMzF5MURTZTNXeUdtaWF5WTlxaVNWamFvRkpIWHYzT05ub1hXSnBONHNSQnZScmd1Wlk?oc=5"
+          "text": "先进制造用数垒AI｜数垒AI平台实操培训班第一期正式开班 - 电子工程专辑EE Times China",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XbXUxYVAyTUJ2cGZWNEdfaGNrckNWNlBJZVVvdVkwV2dYdFJVd3FVanBiM1ZIaEN0cFBUVVJFSjZhTUs0VGl4UG9wRXNjMmo4NHdF?oc=5"
         },
         {
-          "text": "北交所午评：北证专精特新上涨2.59%，专用设备制造业上涨家数居首 - 21财经",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZGEtanF6Qm1NNWJmMzhwMkFvbXNpSkpmbWN0U0x3ZzRBOFM2a0NTY01NNDlYUmdGQnk1RVNDWVo4RFItUUVlUHNqcERnSDFGQzEzU3B4SWJqcG9WdHF4OWxQb0dpVE10b0dOLTdWM1FpVENMenBROTJqR0RVZDg5R2VPWkpyYmltUXhaUXBOcw?oc=5"
+          "text": "【视频】补齐智能化短板，合资新能源车还能不能买？ - 汽车之家",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YM2RxNjZJZktfdGpUc2wtbVVVZzZhNWozdkJLUDRTcUdYdDVXM3BxbHc1UDVWS28xTXYtMEV1ZEFsYkNGUjl6RjBWR3VIa3NyMmhPcGFsdG9UNkU?oc=5"
         },
         {
-          "text": "小米四款车上榜热搜背后：新能源车企从制造热度转向沉淀用户信任 - 虎嗅",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15R2hvbGdXRDZhOGVlNW0zZF9fdFRMdlQ4dFVtYmN4UDhzM19fSy0wWGRsaUo2SE9md1duMG5XczhRUXZObE5MWUtfOWFkci1kUS1xUw?oc=5"
+          "text": "（深圳APEC）中欧基金国际CEO：冀APEC推进亚太自贸区建设和数字经济发展 - 中国新闻网",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlaUJhZnNTMHo4NDMxbFRORHRxU1BaZk1nUlpEaWwxUzhuX0NSU1hXMDJ6SW9KM0U0QVNHTHNQR0ZGN1YwdnZGNGwzdVNRWVUwbExid3hiSGNSbWlnT2pPdEJaNUY5T0xp?oc=5"
         }
       ]
     },
@@ -74,43 +74,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "10:56",
-          "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
-          "summary": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom's nucleus using…",
+          "time": "20:03",
+          "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+          "summary": "A surprising Finnish study found that children who spent more time using screens tended to have better cognit…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm"
         },
         {
           "priority": "重点看点 02",
-          "time": "10:18",
-          "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
-          "summary": "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a cry…",
+          "time": "09:25",
+          "title": "A material just one atom thick reveals a strange quantum secret",
+          "summary": "Researchers at the University of Osaka have discovered a remarkable quantum state forming at the boundary bet…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
         }
       ],
       "briefs": [
         {
+          "text": "Quantum computers are getting too powerful to check. Scientists have a solution",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261115085557.htm"
+        },
+        {
+          "text": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm"
+        },
+        {
+          "text": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm"
+        },
+        {
           "text": "AI discovers a hidden heart signal that could predict sudden death",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm"
-        },
-        {
-          "text": "AI supercharges laser physics with a stunning 250x speed boost",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm"
-        },
-        {
-          "text": "Tiny flaws in diamonds could unlock a quantum computing revolution",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm"
-        },
-        {
-          "text": "A breakthrough in magnetism could make AI chips use dramatically less energy",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Nadia Murad: ‘Day by day, I took my story back’",
-          "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed again…",
+          "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+          "summary": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scal…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168801"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168828"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "When the rains fail: Preparing for drought in Central America",
-          "summary": "Across Central America’s so-called Dry Corridor, farming families live at the mercy of the rains. In southwes…",
+          "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+          "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168776"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168827"
         }
       ],
       "briefs": [
         {
-          "text": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper mea…",
+          "text": "COP31: The push to protect warming oceans reaches the negotiating table",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168803"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168824"
         },
         {
-          "text": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping m…",
+          "text": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priort…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168804"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168823"
         },
         {
-          "text": "COP31: Climate finance falls short as calls grow for polluters to pay",
+          "text": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled E…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168802"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168822"
         },
         {
-          "text": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in…",
+          "text": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168799"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168821"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:38",
-          "title": "The open-source movement wants Jensen Huang back",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "time": "01:45",
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:00",
-          "title": "Broadening access to AI for scientists",
-          "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free acce…",
+          "time": "22:39",
+          "title": "Research Reports",
+          "summary": "To access a report, click on the corresponding image below.",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/"
         }
       ],
       "briefs": [
         {
-          "text": "Strengthening the fight against online child sexual abuse with new tools and su…",
+          "text": "Introducing ChatGPT for Sales",
           "source": "OpenAI",
-          "url": "https://openai.com/index/strengthening-online-child-safety"
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales"
         },
         {
-          "text": "Building trustworthy AI by fencing it in, not predicting it",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
-        },
-        {
-          "text": "Building AI that can work across the enterprise",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
-        },
-        {
-          "text": "Science at the Frontier: How scientists use ChatGPT",
+          "text": "Strengthening NATO and allied cyber defenses with AI",
           "source": "OpenAI",
-          "url": "https://openai.com/index/science-at-the-frontier"
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+        },
+        {
+          "text": "Astra for Law leads in legal intelligence",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/astra-law-6-2"
+        },
+        {
+          "text": "Introducing OpenAI for Chile",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-openai-for-chile"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "08:56",
-          "title": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
-          "summary": "Researchers at Singapore University of Technology and Design (SUTD), A*STAR, and National University of Singa…",
+          "time": "01:44",
+          "title": "Defect-Aware Chiplet Matching For Heterogeneous Integration Yield (ASU, Ampere)",
+          "summary": "Researchers at Arizona State University and Ampere Computing published “DT-MATCH: Defect- and Topology-Aware…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/"
+          "url": "https://semiengineering.com/defect-aware-chiplet-matching-for-heterogeneous-integration-yield-asu-ampere/"
         },
         {
           "priority": "重点看点 02",
-          "time": "07:52",
-          "title": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Stanford)",
-          "summary": "Researchers at Georgia Tech, NVIDIA Research, and Stanford University published “SlipStream: Enabling HBF for…",
+          "time": "01:35",
+          "title": "Backside Clock Mesh Reduces Skew And Power In Backside Power Delivery (KAIST)",
+          "summary": "Researchers at Korea Advanced Institute of Science and Technology (KAIST) published “Clock Distribution Netwo…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/reducing-high-bandwidth-flash-latency-in-gpu-systems-georgia-tech-nvidia-stanford/"
+          "url": "https://semiengineering.com/backside-clock-mesh-reduces-skew-and-power-in-backside-power-delivery-kaist/"
         }
       ],
       "briefs": [
         {
-          "text": "Advanced Metrology for Defect Detection, Tool Health, and Semiconductor Yield E…",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://event.on24.com/wcc/mr/7058967/655F0A675F5C3415546D597247025DA8?utm_source=evident122&utm_medium=IEEE&utm_campaign=series1"
+          "text": "Physics Vs. Data",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/physics-vs-data/"
         },
         {
-          "text": "What Is Acoustic Micro Imaging? A Quick Guide To This Inspection Process",
+          "text": "Chip Industry Technical Paper Roundup: Nov. 17",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/what-is-acoustic-micro-imaging-a-quick-guide-to-this-inspection-process/"
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-17/"
         },
         {
-          "text": "Are AI Agents The New Semiconductor IP?",
+          "text": "Self-Supervised Virtual Metrology For CMP MRR Prediction (SUTD, A*STAR, NUS)",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/are-ai-agents-the-new-semiconductor-ip/"
+          "url": "https://semiengineering.com/self-supervised-virtual-metrology-for-cmp-mrr-prediction-sutd-astar-nus/"
         },
         {
-          "text": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
+          "text": "Reducing High-Bandwidth Flash Latency In GPU Systems (Georgia Tech, Nvidia, Sta…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/"
+          "url": "https://semiengineering.com/reducing-high-bandwidth-flash-latency-in-gpu-systems-georgia-tech-nvidia-stanford/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Nadia Murad: ‘Day by day, I took my story back’",
-          "summary": "Nobel Peace Prize laureate Nadia Murad has spent years telling the world about the atrocities committed again…",
+          "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
+          "summary": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scal…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168801"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168828"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "When the rains fail: Preparing for drought in Central America",
-          "summary": "Across Central America’s so-called Dry Corridor, farming families live at the mercy of the rains. In southwes…",
+          "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
+          "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168776"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168827"
         }
       ],
       "briefs": [
         {
-          "text": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper mea…",
+          "text": "COP31: The push to protect warming oceans reaches the negotiating table",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168803"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168824"
         },
         {
-          "text": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping m…",
+          "text": "Haiti: ‘Atrocious abuses’ continue as UN warns anti-gang operations must priort…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168804"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168823"
         },
         {
-          "text": "COP31: Climate finance falls short as calls grow for polluters to pay",
+          "text": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled E…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168802"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168822"
         },
         {
-          "text": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in…",
+          "text": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168799"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168821"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "11:37",
-          "title": "商学院承办第四届中国研究生企业管理创新大赛工商管理案例赛道东部赛区复赛 - 江南大学新闻网",
-          "summary": "商学院承办第四届中国研究生企业管理创新大赛工商管理案例赛道东部赛区复赛 江南大学新闻网",
+          "time": "02:50",
+          "title": "谢霆锋容祖儿加入英皇娱乐董事局 将掌公司策略 - 万维读者网",
+          "summary": "谢霆锋容祖儿加入英皇娱乐董事局 将掌公司策略 万维读者网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5BUUt0ZDZMQldKVjhRdkNCUU8wbWNvNkVYdm0td1dyMlFZNktCcVV3UEtza0JnTGNoZ2VNb2FodHdmbXpXZGFxS1hCbE1vT3phbXQtbFVlZ3Z0SkJfcGc?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QZlVyZzNvd0M2TEV3d2dHM3pNaVlMWUpIMUxVcm1pSlptZnFCLXJpdzBxdE5XOXVtOEhsQTVTVjFUaTVESzFKSnRrSTJjUllmRFE?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "19:39",
-          "title": "破冰前行 精益为基——三江商会举办企业管理专题沙龙 - Sohu",
-          "summary": "破冰前行 精益为基——三江商会举办企业管理专题沙龙 Sohu",
+          "time": "22:05",
+          "title": "英国80%抗生素依赖中国 国会吁强化医药供应链韧性 | 国际 - 马来西亚东方日报",
+          "summary": "英国80%抗生素依赖中国 国会吁强化医药供应链韧性 | 国际 马来西亚东方日报",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUlCUWxiSGhnenFRLTZfWjBhYWttSkN1YXFUTUR4ZzJmUkRaOFRnQ2kzVWxJdU9HTlN4dmpxclJ6TGVqb3hDVVFPSEx1YlViZ2RQaXNnVlhIQUNqaDR1UmNYb3N4QXJyQ2YzeTk1SUxBNENrLWg3WG5CQTJ2T25la0MwR0toM2dMeHBhNQ?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82YlFKVUZJNzJ6bVJEaEVCTVVyNlhnYnVDX1JnU2Q2Q0tYT0xZRHpSVnRGckRIU1ZmNzVRWkVXWkZOT0lDbGVhNEgwRlVRZ3JTYmhIa1Ytang3QTMyMTlFdnoxS3M0cXFHdDUwWlNSUUhfUTFpR3ZpTg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛在宁举行- 中国日报网 - China Daily",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQTXg2aGxqSDRpeThCS0I5MUVyVzk1bklBYjZGeE5JSFBCaXJGSlJqUlgtcG5NWmpfdVZVVE56V2c5RWhiQlJjVFl1Q2oyZ21jWmpVTmotWU9lZkxkYlVCdnV6V2o3c1RJcEdTTWhPNXp6bU9IaklPRzVDZks?oc=5"
+          "text": "开放合作深化亚太连接 供应链韧性释放贸易新动能 - Sohu",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM295WUstbVJ6WU5qSEx0WEhybG9oWlVOT19kdGlSZ2N3SGpDN25ha0NpSnJ3ZWhlMFdoMTEtOXVXYkNzemVLdnZYWkNTLVNfVWdIT1BOR3MyRjhYMDFzdGhkMldZSHJQeGYzb2dBdjV3ZkdKSFRXSC1BVmRtdVpfSmppOWZwVm1O?oc=5"
         },
         {
-          "text": "华金资本重新审议子公司管理服务协议 关联交易金额不超3407万元 - 观点网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiaE81Nk0tN1k5M2NRQjhZeE9Nd09lYUtVQ1BOZWJ1QW5rcEI1bEw0ajBrS1Q1VWpvenNQR1l3T096QU85ek9pRTBUTGVwZnhfb2NTRmJPQURYYUlHZlNtRmtn?oc=5"
+          "text": "快讯：日本和东盟将就增强关键矿产供应链韧性开展合作 - 共同网",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wWFhEeElqWVlHTllyXzI1SXVwd3JkQ2Yxdl9JSllpQXlsVG4zM0hVbGs2eEFhRERGYnR0UElmX01pTklPWTNvNTg4YUItbm1DXzQ3Q0RNMA?oc=5"
         },
         {
-          "text": "左庭右院宣称中国鲜牛肉火锅第一被罚 虚假宣传误导消费者 - 中华网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPeUJhb1pxb0M3dXVUZDRnbTNYQnlJclNHbWMzYTJyX2p4QlZkLTRrR1BkalFHeFZRNHZrd1g5alowbkoxRmNXWlhnWXhGY3lvbjJ6VHEza1hONmFhbnE0V1l2N3ZJeUhpdzE4aWNSZWI?oc=5"
+          "text": "力拓集团首席执行官乔德：供应链韧性比以往任何时候都更加重要 - 证券之星",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyTDN5WXI3X3QtdlBEcTd6bmZDb01lQ2Z1NHRPdEV0MEJoYWs0blRBU0w5UUdHOVM4QzFhWmJmMlhjZmNaYWFyZW5wazZXY3J6Z0p1YVRPY1hFMmZGU1NzTw?oc=5"
         },
         {
-          "text": "首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛举行 - Sohu",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUxfUnBORDJ1YzVLNnpqYUh5MzltYmxma2psSlZqb2p3MlFqYm16VUdOOHNVdV9mWnpGTWNHLV8tMnNJZHdSWHdYQWI4Rjg4bjZPdnJTOV9HOXNtMnlzWXdXem0yVTljbkp0ZzdTMEs0c09KbTlkYS1lRHM0ZWkwQXJZdmlXSXFN?oc=5"
+          "text": "初创企业在人工智能赋能供应链韧性中的作用 - Sohu",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONDhtMkYtVnpDZEY2WFNLVzFhU0gycG0yTXVlU1Z3aUFfbFloWXA1bE5RUVBWOXlLcXBJdVlYQm9heF9ITFlVNERES0FVMFFYRUZBYTVBYmRvb1FNNDZpaE4ybVlqRFJQYVpyYkMtWWdDOGJqRHdma3VvMk9RRGM4dmk2b1hVUVAwT21zRA?oc=5"
         }
       ]
     }
