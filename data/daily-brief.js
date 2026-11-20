@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月19日",
+  "publishDate": "2026年11月20日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "上汽大众新能源10月销近1.8万，ID.ERA 5S夺插混冠军 - 汽车之家",
+      "title": "关于朝阳市2026年度老旧营运货车报废更新补贴申报工作重要事项的公告 - 手机…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "12:07",
-          "title": "上汽大众新能源10月销近1.8万，ID.ERA 5S夺插混冠军 - 汽车之家",
-          "summary": "上汽大众新能源10月销近1.8万，ID.ERA 5S夺插混冠军 汽车之家",
+          "time": "11:49",
+          "title": "关于朝阳市2026年度老旧营运货车报废更新补贴申报工作重要事项的公告 - 手机新浪网",
+          "summary": "关于朝阳市2026年度老旧营运货车报废更新补贴申报工作重要事项的公告 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HejZhaFk4eVE4SnVORjNhZm0yamxkdDdUMThyc1RDdml2UzdGd21ITXVJMmUyLTFiakNlTEhJcU9uMEpaQThpMXJhTzhsWFBGSzhLb0tvMERSSHNmTTRkcUtGY2M1MldmSk9F?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10dEozQVRnekY4bVN6NF9xcVd2Q3pOR2dsT1ZVZWtEYWpWbEtmbEliTVVjTXY1UENtZ0NjSjhNR0hrTzZyTTFGcTZWSGpTWDNVdGxVNVVqZkxsN1k0eTFvdUg2Q2hHNnRSVTdqOW1hVEsxQQ?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "12:07",
-          "title": "合资新能源增69%，上汽大众ID.ERA 5S夺插混销冠 - 汽车之家",
-          "summary": "合资新能源增69%，上汽大众ID.ERA 5S夺插混销冠 汽车之家",
+          "time": "11:35",
+          "title": "拓日新能在喀什成立新能源公司 注册资本1000万 - Sohu",
+          "summary": "拓日新能在喀什成立新能源公司 注册资本1000万 Sohu",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HT2tsUEFLR0psMlhMUkNUeW1aUTI4TURKUVhMUHNkeXZua3VETzV3OVpHekpkYW1MVmdWRVdqWXlZZ2RKU0FybmRoZ0ZGejB2bjFnMWtqTWIzMlhvLXZVMkRFb1NwX2cyV0xn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcnhnN1QzN25sQlFycWFiSkhiMW5DMndBSm1jeDlSVnJ1ejM3ZUdmVVJBLUdEUjY2REEwWU9WVGxBVGVySlpZbVJTWm9IU1djOG9vNEE1NXNON00zekRybEF3SEtQVDJYbm5TbWtlUHlEV0RLaUJ3ak9oeW4xLUZmV1hMN0JaeS15?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "合资新能源增长69% 上汽大众10月交付17975辆 - 汽车之家",
+          "text": "拓日新能在喀什成立新能源公司 注册资本1000万 - DoNews",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QbTFlY25UM19BazlXZU9NRFNZVi0xbHlWNGdLNXd2UktLV3kxTGdzREE3OFk2SFE2YUZVcDhBQlptOExIVXJOTG95NDRnb1I5d0YwU3pDV3BfaU0?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YbWFHVTdBOVpVMDRTZmJ6aUx3WERXQVJVd3VNV1JfaDRwNl9Kc3BjdDBMaXJjb0xOcW5mV3FHcjU2c2I2Z3BDcEZSdjJIbmVlUTZGRC1RbmdBS0ZZMFE?oc=5"
         },
         {
-          "text": "六座新能源SUV全家横评：奕境X9、理想L9、领克900、问界M8谁更懂三排平权 - 手机新浪网",
+          "text": "全域发力，解码上汽大众新能源转型的突围之路_湖湘焦点 - 红网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kYTg0RDNBa08wc3lFZEZfVVpaeTlWYjFBR0FIMDhRd3ZGczhaSGhxQzRVYkZZSXRDY1VacnFOa3E3UG1maXRac2Z6VGVkTmVMc2JSdFlxbVdpa0hBRzlJ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ndjAxcGZTdW05Vk1CLXJQc0psdjgtLUZVTFJMMmkwdGQ1TUNkQzlEMm43VUpFUUo5blJ5dDJCcEVwNzJkRGx4UmF0TGhoVjNwWWRiYzBKTFVnYndCTjVRMHh3MzE?oc=5"
         },
         {
-          "text": "电竞圈热血沸腾，汽车破圈生长，见证新能源与电竞双向奔赴 - 汽车之家",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GTjJsdHBFSS1Ha2Z5T1JpTW8xc1BXbXN1M1dwNVBjM1cxVFpiYW05WENuRzZENlFPUmpmc1RlQVdFckJMQXNqNmpWeWlPRVo2dG1UM1NGTnB2eldnZGlkd1A0QURKOGVPTlgw?oc=5"
+          "text": "酷赛智能子公司四川酷比斩获四川省数字经济与知识产权两项殊荣 - 美通社",
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE85MUk3WXcxRUlhWHNvRVZDMmk3Rzhxb0tvd1lwYmJUUE5RMVY3bWk5TWdmdm9JZVV1S09xcWRVYUhiVkZUb2w3ZGJrb0ZRYzFkUlFNa3FmNA?oc=5"
         },
         {
-          "text": "新能源竞争进入下半场，合资车企正在重塑新竞争力 - 爱咖号",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EdnVsb3RiQlNCeENQeGRIcWE4Z0dha1NnMlpoLV9xa2NGME1MVV9iLVNseUFXa0JKVFFVOE1uQ1JjdTRTNHdmWHZxLW9RaFMtVUhFVjZQTGM?oc=5"
+          "text": "新能源车成主流还要不要买油车？ - Sohu",
+          "source": "Google News 产业政策",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbGRWYlBrbjhZZ2kwY3RkQ3RwMFNwRURwd051dVRHTV94MWVlQzUzaVIzdUI3a1I4M2NIU2VCa0RsQU9LamNqeWRFRFQ0cUhaTk5IRUF0MTU5RUpVQnh1ZHBHNUFaOEJVRWRyaC1MdDl1QmNYOXR1Zk1YRVVIM2dSYXJQem52MjB6?oc=5"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "22:42",
-          "title": "The AI Hype Index: AI is everywhere",
-          "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it c…",
+          "time": "16:00",
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes perf…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
         },
         {
           "priority": "重点看点 02",
-          "time": "18:20",
-          "title": "This smell startup says its AI nose is as good as a human’s",
-          "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working…",
+          "time": "08:00",
+          "title": "Deploying Daybreak Red",
+          "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety c…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+          "source": "OpenAI",
+          "url": "https://openai.com/business/learn/deploying-daybreak-red"
         }
       ],
       "briefs": [
         {
-          "text": "The Silent Consensus",
+          "text": "See PR scans in action",
           "source": "OpenAI",
-          "url": "https://openai.com/index/the-silent-consensus"
+          "url": "https://openai.com/business/learn/pr-scans-demo"
         },
         {
-          "text": "Research acceleration: The jagged frontier",
+          "text": "Explore the Codex Security Plugin",
           "source": "OpenAI",
-          "url": "https://openai.com/index/research-acceleration-jagged-frontier"
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo"
         },
         {
-          "text": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+          "text": "Get started with Daybreak Blue",
           "source": "OpenAI",
-          "url": "https://openai.com/business/customer-stories/sumitomo-life"
+          "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo"
         },
         {
-          "text": "Inside the Codex sandbox",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/inside-the-codex-sandbox"
+          "text": "The AI Hype Index: AI is everywhere",
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "16:01",
-          "title": "Can AI Agents Really Shift Chip Design Left?",
-          "summary": "Agentic AI promises to automate more of the chip flow, but integration with EDA tools and capturing decades o…",
+          "time": "16:06",
+          "title": "Beyond Pass/Fail: Characterizing Silicon Margin With PVTW",
+          "summary": "Determining not only whether a device meets specification, but how far it is from the boundary, helps inform…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/can-ai-agents-really-shift-chip-design-left/"
+          "url": "https://semiengineering.com/beyond-pass-fail-characterizing-silicon-margin-with-pvtw/"
         },
         {
           "priority": "重点看点 02",
-          "time": "16:01",
-          "title": "Blog Review: Nov. 18",
-          "summary": "PCIe and trust; rack-scale co-design; heterogeneous scaling; AI data center primer; on-device balancing; EU s…",
+          "time": "16:05",
+          "title": "AI Accelerators Drive Changes In Power Delivery Networks",
+          "summary": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packag…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/blog-review-nov-18-3/"
+          "url": "https://semiengineering.com/ai-accelerators-drive-changes-in-power-delivery-networks/"
         }
       ],
       "briefs": [
         {
-          "text": "Defect-Aware Chiplet Matching For Heterogeneous Integration Yield (ASU, Ampere)",
+          "text": "How Virtual Twins And Machine Learning Optimize DRAM Yield",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/defect-aware-chiplet-matching-for-heterogeneous-integration-yield-asu-ampere/"
+          "url": "https://semiengineering.com/how-virtual-twins-and-machine-learning-optimize-dram-yield/"
         },
         {
-          "text": "Backside Clock Mesh Reduces Skew And Power In Backside Power Delivery (KAIST)",
+          "text": "From Metrology To Autonomy: Scaling Yield, Quality, And Innovation",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/backside-clock-mesh-reduces-skew-and-power-in-backside-power-delivery-kaist/"
+          "url": "https://semiengineering.com/from-metrology-to-autonomy-scaling-yield-quality-and-innovation/"
         },
         {
-          "text": "Physics Vs. Data",
+          "text": "What Is Driving Silicon Wafer Demand Recovery?",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/physics-vs-data/"
+          "url": "https://semiengineering.com/what-is-driving-silicon-wafer-demand-recovery/"
         },
         {
-          "text": "Chip Industry Technical Paper Roundup: Nov. 17",
+          "text": "Simulation of Plasma Chambers for Predictive Simulation of Semiconductor Manufa…",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-17/"
+          "url": "https://semiengineering.com/simulation-of-plasma-chambers-for-predictive-simulation-of-semiconductor-manufacturing/"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "02:29",
-          "title": "经济发展首重供应链韧性 实证指产业集中未必是缺陷 - DIGITIMES",
-          "summary": "经济发展首重供应链韧性 实证指产业集中未必是缺陷 DIGITIMES",
+          "time": "11:52",
+          "title": "2026年值得买入的供应链韧性股：哪些公司能够抵御全球扰动？ - FX168财经",
+          "summary": "2026年值得买入的供应链韧性股：哪些公司能够抵御全球扰动？ FX168财经",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWd4X2pxclM4eHBZZXhKRWRoeUtqLWdXWnR3aGFWLWd3RTRjSzdDdW9aai1rR3ZSWWJmaEJoeW5oR1ROWFZQNGpqekRwSFhLSG5HRGVzdjZFYWRiaXBKY3dXS0hpajNMX0VKZDctYS10N0JZbU13X3ZwOVNxSVExbGxScjJjOGdYWE1yYnEwNVoxTHhkMXRERm9EWQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SM0VlUzRCbEZKdmk4dFV2OXVPaEVCd0Z4R0NVaDhCNU91ZGJ3QjgxdDBqcU1CeUpPeG5qR3dqQW42QlRITURCN25SWGlTeUNjQ04w?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "20:04",
-          "title": "谢霆锋容祖儿加入英皇娱乐董事局 将掌公司策略 - 禁闻网",
-          "summary": "谢霆锋容祖儿加入英皇娱乐董事局 将掌公司策略 禁闻网",
+          "time": "04:01",
+          "title": "兆易创新（603986.SH）新增一起对外投资，被投资公司为杭州程砚企业管理咨询合伙企业（有限合伙） - 证券之星",
+          "summary": "兆易创新（603986.SH）新增一起对外投资，被投资公司为杭州程砚企业管理咨询合伙企业（有限合伙） 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xV0ZKUS10ZVVRNFV4ZmRob0V5QmdCWWVkb3JyVC1iVEFfbERQYU96TUVxZno0b3BlcXpWdnV4YkNfczhqZkFDSU5rVVQ2YWRiUzRaS2lNdmpaV2xXQW9QdzlQNHRBbmRJc2FJ0gFwQVVfeXFMTk4xSFlrSzY2dlRIWE1xMXBkMXFnRS1hZGNWeW5EUzRBM0FsNmxMQzRITk5kdDJjSzFWWEdaQUVJSHZZSkF2ODhLNDhVZnR0aDlIYU5IUWptTS01R2o2WEhNemxtb0JZbl9sQmRyOHk2Rw?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40N2c1WWRRakljTTdNaHZlcklNdXlXSzIyM0JITEprc0tySW0wbm45V0hZOGN4T2o0dzF4SDIwTmd1MnZVQVY2SVFiTWhjSlk4cm1hd0hzNk40SXo3VGFmTGV6UUQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "*ST中迪(000609):中迪投资关于公司接受深圳市贤益企业管理合伙企业（有限合伙）赠与现金的进展公告 - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1STGphZ016R0pBRHpiTm14YlRmMFI3SmVxOGFNYzQyRE5hcUxRcG9XVHJhUHdtbHN2UWNfamR2U2FoTUMxa0puUWdvbXROR3A4czlKci13?oc=5"
-        },
-        {
-          "text": "美的成立启略企管合伙企业，出资额30亿 - www.caiwennews.com",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Fc05aUHNfbzB2RWsxMTlDdHZsZkx4OEF2MDdBSFcwTjZkZTNSR0JKY1M5QTFXVUt4bTRhRHEwVlF1MlJZR2NYc25VWmcwTW1fSlJtUFNkRDZqcElo?oc=5"
-        },
-        {
-          "text": "英国80%抗生素依赖中国 国会吁强化医药供应链韧性 | 国际 - 马来西亚东方日报",
+          "text": "岭大商业分析与创新课程 培育AI时代复合型人才 - 星島頭條",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82YlFKVUZJNzJ6bVJEaEVCTVVyNlhnYnVDX1JnU2Q2Q0tYT0xZRHpSVnRGckRIU1ZmNzVRWkVXWkZOT0lDbGVhNEgwRlVRZ3JTYmhIa1Ytang3QTMyMTlFdnoxS3M0cXFHdDUwWlNSUUhfUTFpR3ZpTg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPWE50NXpOSHRmb29XdXRyTngtSmZjMG1zRXBtdWNtYVlrZGdhbDVpRVdrT2psSmUxdEQ4aURzYko0SDdtRHU2QVExQzZmVGdiTVlWYzhJdkw0UklObHZTNUxtUFpOVXR3bW9DdWg3bzNzQU02Z3FmVW0zNXdLRm83MFprSUJoZnpacHh1REZJS2NFX0RBZnBtZW9VdWpQbGJzRDlWOTFzXzhWV1MtRHNXaDMwTmltUDJxSU5LVkhuNERlZVk2SmJhcDFYRVhUTi10aHp0YUhrRDZ6NFZTWkFsMGhzdnptSkp5QUxnc2Q3N3k2Y2dkN04tcGtBQVFNRXQtWnBqVVFDakFqa1pYOEZVLVZwdHJ5N3QyS3JBSHI0VEFrOEVJSW4yN243bGtyVHJuUUxwYU5qRmp1d3JCeEZUOVVfWWsxS2cwa2daek5QMHlUYkxISEhzMmdCeGRhbm8?oc=5"
         },
         {
-          "text": "永悦科技(603879):永悦科技关于收到控股股东《执行裁定书》《执行告知书》 - 中财网",
+          "text": "APEC联合宣言一改惯例改称《展望》 重申维护供应链韧性 - 联合早报",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oVEFsV0Rwc1RFaW9yUEVuQ3RWNjFNcVhrVUtSSkd2bjZMT2Z2WE80cmZUa3hqOHpxby1vbDF5VEFkcDRSU0dseVRDazF4cmM5dFJUd2djN2NxUkpSNzdWQVA3ZWFOczUxd01n?oc=5"
+        },
+        {
+          "text": "三协电机(920100):控股子公司管理办法 - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OSWxhT0thZDNSaTF4YVdNSHFxU0xvY3pqd0o2Njg2X1duQlNpODhMb0JRR0RSR05aVGg1X2dOV0tmZlZ5VGhuSEc2SkNQSEpVNU9UVWh3?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6bjBJLWY3ekpjZTVWc3N3TU1yVl9nLVlJOGJIYkdMa3lrYVJUR1MyTFpjM21lcjNyQlUxcXNzdDRoekdpVzBVVnB2WHB5S090OVB0MlV3?oc=5"
+        },
+        {
+          "text": "JUPAS选科｜岭大「商业分析及创新」JUPAS 77人争一位全港最高竞争率 培训复合型商界人才 - 星島頭條",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMi8gNBVV95cUxNcXpJNk8xclhoR1JyX2ctTWpFSE1JeVVLc1BUNVdvcTNUSE4xOHlqcDhwM08tQ2Njb0xQVDNmUmJNRnh4bEFseEFhOW5uc3ZFcmY0ejQtOWxlenB4MTZwWXJocW01VklHUjUxeENpSGJsN2l3V0hGTWM3SkdrbW1HZlRPZS1OUWtKbXItR2dSSndkTi1wQTl0LVgwSTNWeGV6YVlTbmN4cEFKMGp4Tm1mblpzbDJjX0Z0REcwSF9BRW02VGtRMjBCUU80Ty1JOWZsXzJ6bFhsanBnelZWeGNKT3F0VW9pbWZGQ05feEhJcEJhUHYyZXBYNWdRQTBDejFaeGhudThWcTdEdVotM2xXdUlKbmpHRC1sSnJ0MW5ZMlFmaFEtVXB3Y0FrXzFpYjRHa1hnOFR0dUNZT2dPdmJxNWR0aE92Y0VoMldxcW5wN0V3aG15TmR3RlBpQUhxRTY0b09MMHNNekFNUjB0emxKQ1doUmp5MFRpSlFtRFZFNW85MTNqT2FuUmlPVkJ0YWt6N1FBa21nbzhoZFRXTi1UMkstLXZnaDM1bUt1bFh6YWt2Y1VNd0FZcnZJYllQY0hzbTZDUW9XZ3B6enl1Wjk1eEtuYnZoVU9TdTBNTFJOU1pVbFRzbktJdmVzTVBUV05VMnc?oc=5"
         }
       ]
     }
