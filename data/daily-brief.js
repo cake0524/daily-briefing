@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月24日",
+  "publishDate": "2026年11月25日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "总书记的人民情怀 | “持续做大做强先进制造业” - 军网",
+      "title": "30万级家用新能源SUV怎么选？奕境X9、问界M7、小鹏GX三车对比+FAQ…",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "Mysterious new viruses reveal a missing…",
+      "title": "A simple metal is hiding a strange new…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Gaza war has undone 77 years of human d…",
+      "title": "World News in Brief: Vaccine crisis in…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "14:51",
-          "title": "总书记的人民情怀 | “持续做大做强先进制造业” - 军网",
-          "summary": "总书记的人民情怀 | “持续做大做强先进制造业” 军网",
+          "time": "13:22",
+          "title": "30万级家用新能源SUV怎么选？奕境X9、问界M7、小鹏GX三车对比+FAQ - 手机新浪网",
+          "summary": "30万级家用新能源SUV怎么选？奕境X9、问界M7、小鹏GX三车对比+FAQ 手机新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhTDJHb25fLWFYU2lrWHhsRTMzRTVMMHpMV1AySEtTVlBpOFpRdC1iQm1qSHBVUXpNakVEQjF6cmx6THNqN2xiblF0RjlQc3drTUE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZZW51US1ETjB4cENnbGZqZ0dTZTdiekJkOGpTZVlOcUJQelllSTM4LWxlN3Y2Wk9DMVRpSGZ5MVp3dUxRRGlzeHNiYkFxUkh6ODhFQnFsc2ZYaEJ4SC1Z?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "14:45",
-          "title": "总书记的人民情怀 | “持续做大做强先进制造业” - 昆明信息港",
-          "summary": "总书记的人民情怀 | “持续做大做强先进制造业” 昆明信息港",
+          "time": "13:14",
+          "title": "【视频】新能源时代，上汽大众依然值得信赖，9 8 5优等生矩阵 - 汽车之家",
+          "summary": "【视频】新能源时代，上汽大众依然值得信赖，9 8 5优等生矩阵 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 产业政策",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3Q3JSaE5BOVhQOGdZTm1TR3ctUFlYT3RFa0p2aTdZNEJIWDhMXzBYcmlJUzVFT0w1U0ZlNFh5MFdPZ2YyQkc2LVNfcGtLT3VsbTVIUjI1b2cxanFMbTBhX3AxQlVVUQ?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkM3pCdFIwd0RJU0dxZ3ZILUN4UWp2QWZlMVNtYjNzY3ZVSVVvaXNUYmZXei1fS0NpeVVRNmZ6TkltbTZ5UWhZcHZYS0ZTRXd0WGVQZFVfMGxuYzg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "四款大六座新能源SUV实测横评：谁能把六个人一次装好、一路坐舒服？ - 手机新浪网",
+          "text": "山西省属企业能源转型“十五五”目标：新能源装机达2800万千瓦 - 手机新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1UE50UTlaVlZUVy1wYkpod0lOdlIwc3p3MjJabVVsRmdtR2lNbjJGTnFxNnB5WWVMWUdnOV9jTEs4RHQ3ZnRiSk5aY25mdloza21rdjZYS21oWDQ4R0Rv?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13WWRaa0o0STBROF9rV1haTloySDBqOVVtZldrZ2pzNlhpVVppOHhjRGdnS1FDSzRlNkZmcll5U2x5dE00ZE5IX0tvNG1iS1AtMHJxaHBrQ0phMWJ1Vl82UGpnZ2YwdHRBVWUyWGp1VElVQQ?oc=5"
         },
         {
-          "text": "全家出行不将就：四款大六座新能源车横评，奕境X9把三排平权与乾崑智驾一次给到 - 手机新浪网",
+          "text": "Jeep规划三年内推多款新能源车 首款2027年上市 - 观点网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KQ2pkNkU2NVcyblRKZXp2Y3hZTk5WZTZUS2hlYzE5RnpneWt0VjlibFViOXl2NzQyNThxRnZYUFRNR2ZVYVBtYzNJSnY0NG9USElReUhVV0RqVVlKODY4?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKdTQyQkxKb2ZkcGRPR3JOZEJhV2hZNXdmdXBvbkg3T0hMazkyRXVJSURINmlpbXdRV3FULXd4c0gxX3FrTDFXTmV3ZllFOGdPcXRKS2o1R2ROdkUwYWgxTUNn?oc=5"
         },
         {
-          "text": "中国新能源物流车运营实践亮相COP31，地上铁以运营提效助力绿色运力普惠 - 中华网",
+          "text": "Jeep将在3年内推多款新能源车，第一款明年上市-36氪 - 36kr.com",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43RWdJN1FuQTZ0OF9ibjFfbjNXQ2xTbFJhRFJkcjVPY2Y5elNYeUVyR2RKdFRpb2FYLXd6T1dCUXZOempQQ2txODI0bmlITjlmSV9FaTRsb0ZKRmc2Tk5KN1ZGMzI4bFdHcVNKMw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kVXhSS29MdjdOZHFjd0wwZ1VQOU9kNU1XejZFTHVLczRhTlhQQVpMamtmQ0EtZWFSQnZsVWMtbTRERktrLUo3NHg0Q09qa21Gc2VmcllIRGlMa1RmeThEdg?oc=5"
         },
         {
-          "text": "港股空头撤离科网股转战新能源车 零跑汽车卖空股数增近6倍 - 财联社",
+          "text": "万华化学在湖北成立新能源材料公司 注册资本6亿元 - 观点网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB6d2k4WFFmcVY1a2oyd0JkUWFORE1wSzlPSnlrTHFZUVp6TVlpRkhqNHZHTll5emQtY0RtMEtadW5Vc0MwMTVXYw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NbWJaamxHVWM1VXYzR1dGNTVBV2NzeHFxMDdlTWJ2cU1ERDlSS2RQbVUtQUpWRUo2MGRNQldqMGUyREw3VHMwUjVad1NOc0FlNlV6b1k4UEhRSkdWOU9GT1pn?oc=5"
         }
       ]
     },
@@ -74,43 +74,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "18:45",
-          "title": "Mysterious new viruses reveal a missing link in evolution",
-          "summary": "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest bio…",
+          "time": "19:18",
+          "title": "A simple metal is hiding a strange new form of magnetism",
+          "summary": "Scientists have discovered a strange form of magnetism in an ordinary-looking metal that has no overall magne…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm"
         },
         {
           "priority": "重点看点 02",
-          "time": "11:43",
-          "title": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
-          "summary": "Scientists have developed an AI tool that can uncover hidden warning signs of bladder cancer up to five years…",
+          "time": "12:46",
+          "title": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
+          "summary": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordi…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
           "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm"
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm"
         }
       ],
       "briefs": [
         {
+          "text": "Strange new materials can crawl, walk, and dig like living creatures",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261121221137.htm"
+        },
+        {
+          "text": "Mysterious new viruses reveal a missing link in evolution",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
+        },
+        {
+          "text": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm"
+        },
+        {
           "text": "AI may not work like the human brain after all, scientists discover",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm"
-        },
-        {
-          "text": "A decades-old mystery about light could hold the key to faster internet",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm"
-        },
-        {
-          "text": "Scientists tracked kids for 8 years. What they found about screen time was surp…",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm"
-        },
-        {
-          "text": "A material just one atom thick reveals a strange quantum secret",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Gaza war has undone 77 years of human development, UN warns",
-          "summary": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conf…",
+          "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+          "summary": "More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurit…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168862"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168871"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
-          "summary": "UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilatera…",
+          "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
+          "summary": "Decades of progress against AIDS, one of the greatest public health achievements in history, could go into re…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168861"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168869"
         }
       ],
       "briefs": [
         {
-          "text": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shi…",
+          "text": "‘Far too much failure’: UN deputy chief’s final call to end violence against wo…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168859"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168868"
         },
         {
-          "text": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+          "text": "Security Council LIVE: Can conflict resolution keep pace as AI and drones resha…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168858"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168866"
         },
         {
-          "text": "Libya: UN mission urges probe into Benghazi port attacks",
+          "text": "DR Congo: Concern for trapped Ebola workers as violence against women and girls…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168857"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168865"
         },
         {
-          "text": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+          "text": "Colombia: Guterres urges renewed commitment to landmark peace deal",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168856"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168864"
         }
       ]
     },
@@ -170,43 +170,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "05:20",
-          "title": "OpenAI and Cisco introduce Shirudo",
-          "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems…",
+          "time": "23:15",
+          "title": "Raising the stakes for enterprise networks with AI modernization",
+          "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technol…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/introducing-shirudo"
+          "source": "MIT Technology Review AI",
+          "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
         },
         {
           "priority": "重点看点 02",
-          "time": "01:36",
-          "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in you…",
+          "time": "21:00",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of bi…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
         }
       ],
       "briefs": [
         {
-          "text": "Connected intelligence for in-house legal",
+          "text": "Searching for distant planets with Astra",
           "source": "OpenAI",
-          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal"
+          "url": "https://openai.com/index/searching-for-distant-planets-with-astra"
         },
         {
-          "text": "Richpanel helps companies automate 50% of support in 30 days",
+          "text": "How Intentful uses dots to make more time for growth",
           "source": "OpenAI",
-          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support"
+          "url": "https://openai.com/business/customer-stories/intentful-dots"
         },
         {
-          "text": "Perplexity and Intelligence",
+          "text": "How iFood scales coding agents across 15,000 repositories",
           "source": "OpenAI",
-          "url": "https://openai.com/index/perplexity-and-intelligence"
+          "url": "https://openai.com/business/customer-stories/ifood"
         },
         {
-          "text": "The most misunderstood graph in AI just got a major update",
-          "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+          "text": "Clay helps sales teams win with Codex and ChatGPT",
+          "source": "OpenAI",
+          "url": "https://openai.com/business/customer-stories/clay-plugins-openai"
         }
       ]
     },
@@ -218,43 +218,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "05:35",
-          "title": "Hybrid-Bonded 3D NAND Boosts Analog In-Memory Compute Density (IBM, Micron, U. of Patras)",
-          "summary": "Researchers at IBM Research, Micron Technology, and University of Patras published “3D-NAND-CIM: A Hybrid-Bon…",
+          "time": "16:11",
+          "title": "Why AI Struggles To Reuse Chip Designs",
+          "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be auto…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/hybrid-bonded-3d-nand-boosts-analog-in-memory-compute-density/"
+          "url": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/"
         },
         {
           "priority": "重点看点 02",
-          "time": "05:34",
-          "title": "E-Beam Stitching Errors Increase Loss In SOI Waveguides (AMO GmbH, RWTH Aachen)",
-          "summary": "Researchers at AMO GmbH and RWTH Aachen University published “The Impact of Field Stitching on Optical Losses…",
+          "time": "16:11",
+          "title": "AI Vs. High-Level Synthesis",
+          "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verifi…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/e-beam-stitching-errors-increase-loss-in-soi-waveguides-amo-gmbh-rwth-aachen/"
+          "url": "https://semiengineering.com/ai-vs-high-level-synthesis/"
         }
       ],
       "briefs": [
         {
-          "text": "Measuring Verification Gaps In LLM-Generated Post-Quantum Hardware (Lucid, EYL)",
+          "text": "AI Can Read The Code, But Can It Understand The Chip?",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/measuring-verification-gaps-in-llm-generated-post-quantum-hardware-lucid-eyl/"
+          "url": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/"
         },
         {
-          "text": "AI Changes What Chip Engineers Need To Learn",
+          "text": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/ai-changes-what-chip-engineers-need-to-learn/"
+          "url": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/"
         },
         {
-          "text": "Z2RAM Claims SRAM Memory Speeds at Much Greater Density",
-          "source": "IEEE Spectrum Semiconductors",
-          "url": "https://spectrum.ieee.org/sram-memory-z2ram"
+          "text": "Why Photonic Design Is Becoming a System-Level Challenge",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/why-photonic-design-is-becoming-a-system-level-challenge/"
         },
         {
-          "text": "Chip Industry Week In Review",
+          "text": "Designing A Microarchitecture From Formal Proof To Full-System",
           "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/chip-industry-week-in-review-165/"
+          "url": "https://semiengineering.com/designing-a-microarchitecture-from-formal-proof-to-full-system/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Gaza war has undone 77 years of human development, UN warns",
-          "summary": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conf…",
+          "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+          "summary": "More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurit…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168862"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168871"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
-          "summary": "UN Secretary-General António Guterres on Monday called on Member States to begin discussions on a multilatera…",
+          "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
+          "summary": "Decades of progress against AIDS, one of the greatest public health achievements in history, could go into re…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168861"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168869"
         }
       ],
       "briefs": [
         {
-          "text": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shi…",
+          "text": "‘Far too much failure’: UN deputy chief’s final call to end violence against wo…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168859"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168868"
         },
         {
-          "text": "Heavy fighting in Ituri traps DR Congo Ebola responders: WHO",
+          "text": "Security Council LIVE: Can conflict resolution keep pace as AI and drones resha…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168858"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168866"
         },
         {
-          "text": "Libya: UN mission urges probe into Benghazi port attacks",
+          "text": "DR Congo: Concern for trapped Ebola workers as violence against women and girls…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168857"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168865"
         },
         {
-          "text": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+          "text": "Colombia: Guterres urges renewed commitment to landmark peace deal",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168856"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168864"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "14:45",
-          "title": "震裕科技在上海成立企业管理公司，注册资本1000万 - 36Kr",
-          "summary": "震裕科技在上海成立企业管理公司，注册资本1000万 36Kr",
+          "time": "06:32",
+          "title": "纪总提大胆想法，要调整公司战略，细化研究领域 - 手机新浪网",
+          "summary": "纪总提大胆想法，要调整公司战略，细化研究领域 手机新浪网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ORE00LUZ4b3VUUEVIWkYtanJoN3g2QW1MdExaczRoOHlkV0N3akxHNnJkalM2SEFpSEVoT1Q3S1BwSE9MNWl4REFFYTJvcm03dDl5Y2dJeF9ZQ19LblE?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5neEx4UURRWHFsR2pFSml5eHBGYjJLNnc2d1N4NlZfdEZhenlQVjhMejBkXzNKX3MzSmM3UExwNkRYMTZzQzRKVkY0VUltcmJ2Yk9WUjlHcHpMNDJTRkZTQzNoSVpRc1IwckE0M0drTlZuRXM?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "11:08",
-          "title": "广东江门市明星纸业有限公司管理升级项目动员座谈会顺利召开 - 中华网",
-          "summary": "广东江门市明星纸业有限公司管理升级项目动员座谈会顺利召开 中华网",
+          "time": "21:46",
+          "title": "天齐锂业(002466):成都天齐兴宇企业管理有限公司2025年度及截至2026年6月30日止六个月期间经审计的财务会计报告 - 中财网",
+          "summary": "天齐锂业(002466):成都天齐兴宇企业管理有限公司2025年度及截至2026年6月30日止六个月期间经审计的财务会计报告 中财网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Fd0JtQ2FnaU9HTVpmaWlhQkNpSXRLRkpfdHRnWkg1cnNrU0lBdzd1eTFXaElONkprMUtkNUlOb1BqcmZiT2VRT3o4OUVUcGMwb3hla0U5RTlNeEcwd2ROT1Z1NFp3ZVNFcDZtcg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DeVhOenZFcHNxZU5uVlRWSWJDX2dZc3hJQkJtTEdfUEZPdkxFaGJIZkFSMnZaRGZ6YjV0b19nVG5ZenQ1QjZNVDdxX2ZqWHNvUW9wbU5R?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "企业数字化转型与供应链韧性：基于中国 A 股上市公司的实证分析 - 生物通",
+          "text": "省计生协与中国人寿山东省分公司战略合作框架协议签约仪式暨新型婚育文化嘉年华活动在济南举行 - Sohu",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rSUdfMDBaVjBTOV9wcS1TRTM1NTU4YWVjSmVyZnFVblZUOW43eElwTkJlMzJKQnBLQTU2QkhoVWZ2MjdhU2J4MVNqRjBqX3A1NVpHRVN2ekNxYk9hOE9WMEtLNFktQTlhLWhTUW1n?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVBPUFBqT1NVSVptcE4tTFM1M3p5WmRRTm1KbFVhaE04aV9wVm1tb3dBM2wzMzZpSklKaDRKeDdsMnVGT3BVNFJkYmxHOXBMa085VlM1TUVZeDlhUWItSjVPUG50Y1pmSUNSa05sU25Walc5c0U2Y1ZiT3pTUTJCcmFwT3RaMjRwLVM3RA?oc=5"
         },
         {
-          "text": "秘密录音揭中国企业战略布局澳洲数据中心 - 澳洲看新闻",
+          "text": "施炜：AI时代，企业战略要坚持机会视角，兼顾短期生存与长期能力建设 - 新华网",
           "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNMnU4UEhicHk3cXk3azM2alVEc2pNVlZiUUZtNF91OVd2T3E2RlFwQk55NnNXbmx0Y3lDQkVjcGVBcWlKeDY0R3dvT3ZaOWFjSjBSM09RQkdGaHo2aWRzTXRnQjd5cnFvUFRSdFFwdUVZOERrVnNscDhYSEw3SFR6SGwxaTZfcnVGTXZxN2NHOFdhMXIyVjZXN0hLb0lWb3IzcFdIcVduZWgwOUdGaTZXLWFBREZtTEttS3ZreTlTSjNJYTdXQ2pqVnRyRDNkN19Xc0x3NWoxN29YUDFXa1o1eVZBNTFJdjZ5Q0RRNWJkMHZPWUVqRWxlaTJHbHcxSU80Rjlscm5iN1FhdHNVRFBwTzJYckhkeUhXZFJxM0lR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53UkpkU2pYZVgxVjFkaDEwQ1l5bUJDcGpHemQ0RURkaENtNHhJbzBjd2N1SGN3VUw1TXoyMUtXOVp6aWh6UU9pQ1E3NDVxOGhpenY5dUhVZzNjdFdhODJBbC1BU1ZuZFp6S2VqNUtyTDQyOVVfVC1UaXNtR2ZsQQ?oc=5"
         },
         {
-          "text": "11月中旬英国企业管理的餐饮场所葡萄酒销售额下降6.0% - Vinetur",
+          "text": "震裕科技在上海成立企业管理公司 注册资本1000万 - SmartHey",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUFhN0UyWURfckpzTVFoenlzOUg0UDBDdGczMDlBX3J3Rnc5V0xjbVI0MTZBWHlvOWRYYlNxS3kzREtPZ3EzTlFTY3pHOWkwT180Y0Vvdkhna2djUmdTNVg3ejRzdGY5TEtlSUJjQ0xLaktBS1l2cmJKRVlQdVFkVnk5dElEQzhGZTZONXlfZlRSaEE4bG1xN3ZEdHFvMTVkT0JQa2RLWDUxZkl6RnVvNmdHTk92VWE4cXlFVtIBwgFBVV95cUxPZUxoQ0F0Q1dHUTBmX1J0V0tOMDBGR0cxTUFsRHNWNXNKWTdTMlFETUJzVG4yUTM0cDUyNHpkRkZmR0lZTVRlbm9ZZ2UwZkZpczRueVBZTzFOekZveWNiUVliYW5CV1FqQ3ZMT2pTMFhiZU41M1RHcUFvekJKbFVRVUhoQnM1MEhVRlhPWVBoQ0RKVkdZUzhWekxGLVc2S3lmcXpNOHpOZm56a05OX0FJWlk3ZkVBTVp2OWJOWHU4NFJqdw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iLXFxdWJJQ0xmUGdEYU9KMkdJRVdHdE14UFBtZktLdVR3d3dzNzUtZ1dhZWZzQW1aTWhqSGJFbmU0MUFWNC1kV3hSQlNMUlRqeHJrOEM0a0o4SlJXX2c?oc=5"
         },
         {
-          "text": "对冲比例跌至43%：美英企业策略转向？ - 同花顺",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85OHcwM1BiYUxPdi1IR256dzBZRXhxMTBfNDBJQ2tuS1dzc0FTQTBucGFqUFJ0bV8yY19nQXNGZlp0NWl2NVVJUWI1NHBwdXhONHotMGhZbUc1YW5hWHc?oc=5"
+          "text": "震裕科技在上海成立企业管理公司，注册资本1000万 - 36Kr",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yQ2VfbFpjTlNYRjlUNDJOVHVfekFCdlNTYVF6QjRMMlF6by05eFotSko1MGtvRFJVRmw4SG0zX2pEOWtlRUZPUS0wUVJfMU9wQndqd1lqbGlZZDg?oc=5"
         }
       ]
     }
