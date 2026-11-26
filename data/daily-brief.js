@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月25日",
+  "publishDate": "2026年11月26日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "30万级家用新能源SUV怎么选？奕境X9、问界M7、小鹏GX三车对比+FAQ…",
+      "title": "精密工程和电子业带动 10月制造业产值涨6.1%超预期 - 联合早报",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "A simple metal is hiding a strange new…",
+      "title": "What is a thought made of? Why human co…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "World News in Brief: Vaccine crisis in…",
+      "title": "Türk warns of widening risk of atrocity…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "13:22",
-          "title": "30万级家用新能源SUV怎么选？奕境X9、问界M7、小鹏GX三车对比+FAQ - 手机新浪网",
-          "summary": "30万级家用新能源SUV怎么选？奕境X9、问界M7、小鹏GX三车对比+FAQ 手机新浪网",
+          "time": "13:00",
+          "title": "精密工程和电子业带动 10月制造业产值涨6.1%超预期 - 联合早报",
+          "summary": "精密工程和电子业带动 10月制造业产值涨6.1%超预期 联合早报",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZZW51US1ETjB4cENnbGZqZ0dTZTdiekJkOGpTZVlOcUJQelllSTM4LWxlN3Y2Wk9DMVRpSGZ5MVp3dUxRRGlzeHNiYkFxUkh6ODhFQnFsc2ZYaEJ4SC1Z?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sU095MnF2SEcwekh4d2NqRWlWc2tGMWpPVHZQT0FSWjUwOG4wZFFVYUs2OHQ1TGhtb3pyNUdOYjR1dVFVWm5ZODFkVUxLMHc2aUg5RVFUQWp3RkFSSmVHMUo3aFJwVlc2SEtzNG0zUDB3NW5R?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "13:14",
-          "title": "【视频】新能源时代，上汽大众依然值得信赖，9 8 5优等生矩阵 - 汽车之家",
-          "summary": "【视频】新能源时代，上汽大众依然值得信赖，9 8 5优等生矩阵 汽车之家",
+          "time": "12:57",
+          "title": "争分夺秒，抢占高端宽厚板轧辊赛道 - 新浪财经",
+          "summary": "争分夺秒，抢占高端宽厚板轧辊赛道 新浪财经",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkM3pCdFIwd0RJU0dxZ3ZILUN4UWp2QWZlMVNtYjNzY3ZVSVVvaXNUYmZXei1fS0NpeVVRNmZ6TkltbTZ5UWhZcHZYS0ZTRXd0WGVQZFVfMGxuYzg?oc=5"
+          "source": "Google News 工业投资",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45SUhad3pZQlVEWHkzbFR1TVZCckZ1N3ZJeXlEdmEwVWFST0JRNmtGLTZwdFdOaXc4OUJWZ0NHbHdYZ2dnZURuVTUyTU5xcDhlMW8wQkJDUXBkZWd6TTRXeFM5VzFzRnE4dDNIbVRTLU9UMEk1X3lzNg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "山西省属企业能源转型“十五五”目标：新能源装机达2800万千瓦 - 手机新浪网",
+          "text": "跑出产业升级加速度 - 新浪财经",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13WWRaa0o0STBROF9rV1haTloySDBqOVVtZldrZ2pzNlhpVVppOHhjRGdnS1FDSzRlNkZmcll5U2x5dE00ZE5IX0tvNG1iS1AtMHJxaHBrQ0phMWJ1Vl82UGpnZ2YwdHRBVWUyWGp1VElVQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBY3Z0RFhYM2x4ZnFFelFJV3E4UU9MSG55TFBITUlZeUo1SUFFQTh1d2F6M3p2bnBfUVkzdnlBQlJnNTlmMHRPN2Rsb2pITWEzY3l5RWdFWFd1TXoza2lXaTZJNVhyQkthTHF1MFp6aUNEam9tTmsxaQ?oc=5"
         },
         {
-          "text": "Jeep规划三年内推多款新能源车 首款2027年上市 - 观点网",
+          "text": "宝新能源：11月25日融券卖出3.81万股，融资融券余额5.12亿元 - Sohu",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKdTQyQkxKb2ZkcGRPR3JOZEJhV2hZNXdmdXBvbkg3T0hMazkyRXVJSURINmlpbXdRV3FULXd4c0gxX3FrTDFXTmV3ZllFOGdPcXRKS2o1R2ROdkUwYWgxTUNn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWW9leENZaV9Mbm9UWTNPbjR1Q3FHcHRrcFo5cXl0Zk1Nd0ppT0NYbzVkUGZ2TWZCcXN2N0ZYS3B3c3BZc2VacTVFNm0yWVVJcGxlWV84QWZLZ2ZLSF9qTUNyOV83Rm9pSXlYTHBFc3UwZjZkb2Vvb25zYzFxTmxUMkt6NDdHY3pR?oc=5"
         },
         {
-          "text": "Jeep将在3年内推多款新能源车，第一款明年上市-36氪 - 36kr.com",
+          "text": "【视频】Jeep首款智能新能源SUV将于2027年登陆国内！ - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kVXhSS29MdjdOZHFjd0wwZ1VQOU9kNU1XejZFTHVLczRhTlhQQVpMamtmQ0EtZWFSQnZsVWMtbTRERktrLUo3NHg0Q09qa21Gc2VmcllIRGlMa1RmeThEdg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xWG9PQkZ5bjNGVnl0RjZXRUNOYXpORzBLTE14N0JjMG1lYURBTXZmbS1makhCTVh0aW5mRlZ1OHBRQlVVSG9pcThmY0JvRVIyaE1KLWUyOU91Y2RYaG9iSlBkVDBwN3pMNmRV?oc=5"
         },
         {
-          "text": "万华化学在湖北成立新能源材料公司 注册资本6亿元 - 观点网",
+          "text": "订单遍布全球，资金如何跟上新能源出海步伐？-证券之星 - 证券之星",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NbWJaamxHVWM1VXYzR1dGNTVBV2NzeHFxMDdlTWJ2cU1ERDlSS2RQbVUtQUpWRUo2MGRNQldqMGUyREw3VHMwUjVad1NOc0FlNlV6b1k4UEhRSkdWOU9GT1pn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44MXJmcUcyNE1KQTc3ckVmMlNxY2FvSnpvVDBqMXJOWmh3R2RlZTh6cjlPSWFVR3kzb3JDNmxYVDZZakx3OTlXSTM3dW9CRTlHb01YazB4Y293Q3VvdlE?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "19:18",
-          "title": "A simple metal is hiding a strange new form of magnetism",
-          "summary": "Scientists have discovered a strange form of magnetism in an ordinary-looking metal that has no overall magne…",
+          "time": "17:30",
+          "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+          "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely o…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "10:29",
+          "title": "Physicists just sent an unblockable message through a brick wall using gravity",
+          "summary": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old ele…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "A simple metal is hiding a strange new form of magnetism",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261123005341.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "12:46",
-          "title": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
-          "summary": "IBM and University of Chicago researchers have demonstrated that a quantum computer can complete an extraordi…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "Strange new materials can crawl, walk, and dig like living creatures",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "Mysterious new viruses reveal a missing link in evolution",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
-        },
-        {
-          "text": "AI uncovers hidden bladder cancer warning signs years before diagnosis",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm"
-        },
-        {
-          "text": "AI may not work like the human brain after all, scientists discover",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
-          "summary": "More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurit…",
+          "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
+          "summary": "UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168871"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168879"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
-          "summary": "Decades of progress against AIDS, one of the greatest public health achievements in history, could go into re…",
+          "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
+          "summary": "A home is a place where people can feel safe. Yet billions worldwide do not have a proper place to live. As t…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168869"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168873"
         }
       ],
       "briefs": [
         {
-          "text": "‘Far too much failure’: UN deputy chief’s final call to end violence against wo…",
+          "text": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but whe…",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168868"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168875"
         },
         {
-          "text": "Security Council LIVE: Can conflict resolution keep pace as AI and drones resha…",
+          "text": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168866"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168876"
         },
         {
-          "text": "DR Congo: Concern for trapped Ebola workers as violence against women and girls…",
+          "text": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168865"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168874"
         },
         {
-          "text": "Colombia: Guterres urges renewed commitment to landmark peace deal",
+          "text": "Yemen war: Emergency aid chief calls for access to war-hit communities",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168864"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168872"
         }
       ]
     },
@@ -170,12 +170,12 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "23:15",
-          "title": "Raising the stakes for enterprise networks with AI modernization",
-          "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technol…",
+          "time": "18:00",
+          "title": "AI is straining America’s open records systems",
+          "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handle…",
           "impact": "AI 相关更新更适合用来判断企业采用节奏、产品方向和组织落地障碍。",
           "source": "MIT Technology Review AI",
-          "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+          "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
         },
         {
           "priority": "重点看点 02",
@@ -218,24 +218,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "16:11",
-          "title": "Why AI Struggles To Reuse Chip Designs",
-          "summary": "AI can accelerate derivative designs, but physical constraints and incomplete data limit how much can be auto…",
+          "time": "16:01",
+          "title": "Blog Review: Nov. 25",
+          "summary": "PCIe SVC; co-packaged optics; liquid-cooled data center model; LUT-GEMM; automotive traceability. The post Bl…",
           "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/blog-review-nov-25-3/"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "16:01",
+          "title": "Chip Industry Technical Paper Roundup: Nov. 25",
+          "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU s…",
+          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "source": "Semiconductor Engineering",
+          "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2/"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "Why AI Struggles To Reuse Chip Designs",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/why-ai-struggles-to-reuse-chip-designs/"
         },
         {
-          "priority": "重点看点 02",
-          "time": "16:11",
-          "title": "AI Vs. High-Level Synthesis",
-          "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verifi…",
-          "impact": "半导体新闻更适合用于判断产业链景气度、制造瓶颈和算力基础设施方向。",
+          "text": "AI Vs. High-Level Synthesis",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/ai-vs-high-level-synthesis/"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "AI Can Read The Code, But Can It Understand The Chip?",
           "source": "Semiconductor Engineering",
@@ -245,16 +255,6 @@ window.dailyBrief = {
           "text": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
           "source": "Semiconductor Engineering",
           "url": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/"
-        },
-        {
-          "text": "Why Photonic Design Is Becoming a System-Level Challenge",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/why-photonic-design-is-becoming-a-system-level-challenge/"
-        },
-        {
-          "text": "Designing A Microarchitecture From Formal Proof To Full-System",
-          "source": "Semiconductor Engineering",
-          "url": "https://semiengineering.com/designing-a-microarchitecture-from-formal-proof-to-full-system/"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
-          "summary": "More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurit…",
+          "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
+          "summary": "UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168871"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168879"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
-          "summary": "Decades of progress against AIDS, one of the greatest public health achievements in history, could go into re…",
+          "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
+          "summary": "A home is a place where people can feel safe. Yet billions worldwide do not have a proper place to live. As t…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168869"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168873"
         }
       ],
       "briefs": [
         {
-          "text": "‘Far too much failure’: UN deputy chief’s final call to end violence against wo…",
+          "text": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but whe…",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168868"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168875"
         },
         {
-          "text": "Security Council LIVE: Can conflict resolution keep pace as AI and drones resha…",
+          "text": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168866"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168876"
         },
         {
-          "text": "DR Congo: Concern for trapped Ebola workers as violence against women and girls…",
+          "text": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168865"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168874"
         },
         {
-          "text": "Colombia: Guterres urges renewed commitment to landmark peace deal",
+          "text": "Yemen war: Emergency aid chief calls for access to war-hit communities",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168864"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168872"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "06:32",
-          "title": "纪总提大胆想法，要调整公司战略，细化研究领域 - 手机新浪网",
-          "summary": "纪总提大胆想法，要调整公司战略，细化研究领域 手机新浪网",
+          "time": "11:50",
+          "title": "中国信达、协鑫能科在浙江成立新企业管理公司注册资本约7亿_公司新闻_财经 - 证券之星",
+          "summary": "中国信达、协鑫能科在浙江成立新企业管理公司注册资本约7亿_公司新闻_财经 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5neEx4UURRWHFsR2pFSml5eHBGYjJLNnc2d1N4NlZfdEZhenlQVjhMejBkXzNKX3MzSmM3UExwNkRYMTZzQzRKVkY0VUltcmJ2Yk9WUjlHcHpMNDJTRkZTQzNoSVpRc1IwckE0M0drTlZuRXM?oc=5"
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VUzk5YktqSW5aUFhBRGxHeGdKNWs2dnNqUE4tZjlEZG05bkQxeEZuUkxaV004YWZLUy0xOGZ3dFhHV3V0R2hhcUNRRFA3MWRTX3NFSVl6SndFSGpNRFd0dA?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "21:46",
-          "title": "天齐锂业(002466):成都天齐兴宇企业管理有限公司2025年度及截至2026年6月30日止六个月期间经审计的财务会计报告 - 中财网",
-          "summary": "天齐锂业(002466):成都天齐兴宇企业管理有限公司2025年度及截至2026年6月30日止六个月期间经审计的财务会计报告 中财网",
+          "time": "09:34",
+          "title": "中国信达协鑫能科在浙江成立企管公司 经营范围为企业管理 - 观点网",
+          "summary": "中国信达协鑫能科在浙江成立企管公司 经营范围为企业管理 观点网",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DeVhOenZFcHNxZU5uVlRWSWJDX2dZc3hJQkJtTEdfUEZPdkxFaGJIZkFSMnZaRGZ6YjV0b19nVG5ZenQ1QjZNVDdxX2ZqWHNvUW9wbU5R?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rTVY0T1JEZmNsSjFyU3FkQ0FndWtiOXg4M0pIV0MxcDhRV0lVVndicnZYZzhhRnpFQ0pOMTdwbGRNZDg3OG04VGNuSGhJQQ?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "省计生协与中国人寿山东省分公司战略合作框架协议签约仪式暨新型婚育文化嘉年华活动在济南举行 - Sohu",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVBPUFBqT1NVSVptcE4tTFM1M3p5WmRRTm1KbFVhaE04aV9wVm1tb3dBM2wzMzZpSklKaDRKeDdsMnVGT3BVNFJkYmxHOXBMa085VlM1TUVZeDlhUWItSjVPUG50Y1pmSUNSa05sU25Walc5c0U2Y1ZiT3pTUTJCcmFwT3RaMjRwLVM3RA?oc=5"
+          "text": "上海路威澄雅企业管理合伙企业（有限合伙）成立 - zqrb.cn",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91dDBvbU1WV3l6enhKOFJRRGNCeVpqZ1p0Y25KR3k3dDAxTm1QTGN1UHhLQzljc05teWhNMlhDRUlleTJPOXNHdjhfeGZrQ0drR0xoNllzQTNqYlBjemh4cVB5RVo5SWJmNUZQSTl5TQ?oc=5"
         },
         {
-          "text": "施炜：AI时代，企业战略要坚持机会视角，兼顾短期生存与长期能力建设 - 新华网",
-          "source": "Google News 商业分析",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53UkpkU2pYZVgxVjFkaDEwQ1l5bUJDcGpHemQ0RURkaENtNHhJbzBjd2N1SGN3VUw1TXoyMUtXOVp6aWh6UU9pQ1E3NDVxOGhpenY5dUhVZzNjdFdhODJBbC1BU1ZuZFp6S2VqNUtyTDQyOVVfVC1UaXNtR2ZsQQ?oc=5"
+          "text": "黄仁勋为何不为 NVIDIA 制定继任计划？｜#AI资讯# #NVIDIA# #企业管理# - Sohu",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWhYQWFRMUNia2xRTHozbExqOVBpbkhZZVFBQ19rSXpaQmhaN2RNejlNR3dlZUt3M2puWVdRYTV2dmU4X1FPNzRUXy1lTzJsS24zM05XZURHeFoxa3BGaTRuSWtBbzlkcjVmX0tnRWVCOGFsZGFOX3dKWG9jdEJxRXhFajl4RndiRE5Gdg?oc=5"
+        },
+        {
+          "text": "首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛举行 - 新浪新闻_手机新浪网",
+          "source": "Google News 企业管理",
+          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNRzRvdVhJcy1RbDZpWVRSY0k3b3o2WFNLZFJIVVVfVi1STkVQbjZXb2hmNXdzb2VsTmttbFI5dHMzcG0takgyc2ZnMU9SdDlaRmxzZkZwUHZYTm1yNkZ1enlnazFkWHpyRDdXb3pwODRWWll1WkFtNHVWRS0tSWwzejlxd1dJOXg4eEtSVGpGaTZNTUc0ejRFY19xai04Rjh0WExGWUFIQjM4THhtdENzVXFsT1AxLUcwVUpZN09ZQ0lLZU1SMWFUMmVnRlFxbE83cTZBQWVzWDNYekpiQmJrd2h6X2xwM0ZYdk9DNktjcVVkQWRfQlZ5ZTQ1dHZTUGJQc2FuQ20xc0VKWHdrSEgtaG9FdkE5dnBNNXVmSFJJbUhPVXkyUXVfSUtONlRjV0pneVo2TV9yNmRINFZsUWUtXzMyR2otVkZPNmVSaUF2bENxQ3ctSEJmMVNJQjBWTGpidjRn?oc=5"
         },
         {
           "text": "震裕科技在上海成立企业管理公司 注册资本1000万 - SmartHey",
           "source": "Google News 企业管理",
           "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iLXFxdWJJQ0xmUGdEYU9KMkdJRVdHdE14UFBtZktLdVR3d3dzNzUtZ1dhZWZzQW1aTWhqSGJFbmU0MUFWNC1kV3hSQlNMUlRqeHJrOEM0a0o4SlJXX2c?oc=5"
-        },
-        {
-          "text": "震裕科技在上海成立企业管理公司，注册资本1000万 - 36Kr",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yQ2VfbFpjTlNYRjlUNDJOVHVfekFCdlNTYVF6QjRMMlF6by05eFotSko1MGtvRFJVRmw4SG0zX2pEOWtlRUZPUS0wUVJfMU9wQndqd1lqbGlZZDg?oc=5"
         }
       ]
     }
