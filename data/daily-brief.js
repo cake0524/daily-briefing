@@ -1,19 +1,19 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月26日",
+  "publishDate": "2026年11月27日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "精密工程和电子业带动 10月制造业产值涨6.1%超预期 - 联合早报",
+      "title": "嘉泽新能、广西能源集团成立新能源公司 - Sohu",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
       "topic": "六大未来产业",
-      "title": "What is a thought made of? Why human co…",
+      "title": "Scientists identify two ages when child…",
       "summary": "未来产业更需要同时关注科研突破、平台能力与产业化路径，而不只是概念热度。"
     },
     {
       "topic": "国际局势",
-      "title": "Türk warns of widening risk of atrocity…",
+      "title": "‘Come right now’: How a crisis centre i…",
       "summary": "国际局势的变化会持续传导到供应链、跨境贸易、航运成本与市场预期。"
     }
   ],
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "13:00",
-          "title": "精密工程和电子业带动 10月制造业产值涨6.1%超预期 - 联合早报",
-          "summary": "精密工程和电子业带动 10月制造业产值涨6.1%超预期 联合早报",
+          "time": "12:47",
+          "title": "嘉泽新能、广西能源集团成立新能源公司 - Sohu",
+          "summary": "嘉泽新能、广西能源集团成立新能源公司 Sohu",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sU095MnF2SEcwekh4d2NqRWlWc2tGMWpPVHZQT0FSWjUwOG4wZFFVYUs2OHQ1TGhtb3pyNUdOYjR1dVFVWm5ZODFkVUxLMHc2aUg5RVFUQWp3RkFSSmVHMUo3aFJwVlc2SEtzNG0zUDB3NW5R?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObzk0aWRGRE84TUVtU0piejVlR3JWZW1ONENBcXliVTB5aVlWTVJOcjgzWURKTGQ1MkNTZF94MWVlYVphTXd0WlFncTBQb2dwSmM2REstdms3TEhYNVNWdlFYWVhWdDNHc01KRWZ6ZUo1d2NRV1dfbmxiUF83MTVIa0l1S2VfNTJ5NzhXbw?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "12:57",
-          "title": "争分夺秒，抢占高端宽厚板轧辊赛道 - 新浪财经",
-          "summary": "争分夺秒，抢占高端宽厚板轧辊赛道 新浪财经",
+          "time": "12:42",
+          "title": "2026年15万新能源车推荐，单看至境L7增程尊享版 - 汽车之家",
+          "summary": "2026年15万新能源车推荐，单看至境L7增程尊享版 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
-          "source": "Google News 工业投资",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45SUhad3pZQlVEWHkzbFR1TVZCckZ1N3ZJeXlEdmEwVWFST0JRNmtGLTZwdFdOaXc4OUJWZ0NHbHdYZ2dnZURuVTUyTU5xcDhlMW8wQkJDUXBkZWd6TTRXeFM5VzFzRnE4dDNIbVRTLU9UMEk1X3lzNg?oc=5"
+          "source": "Google News 制造业",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYRVFlVHBVNTVBenhGaG93TjZDR0s0Wl9YUjgyS0lmRnR2Wnc2dGtXSXI5VXBzbktCMjJTeU9zU2hZSmZ1VTFQdmV2ekMxalpBRDUwS1JDZVQxcGM?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "跑出产业升级加速度 - 新浪财经",
+          "text": "从造车到“抢矿” 新能源汽车产业竞争转向资源循环 - 新浪财经_金融信息服务商",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBY3Z0RFhYM2x4ZnFFelFJV3E4UU9MSG55TFBITUlZeUo1SUFFQTh1d2F6M3p2bnBfUVkzdnlBQlJnNTlmMHRPN2Rsb2pITWEzY3l5RWdFWFd1TXoza2lXaTZJNVhyQkthTHF1MFp6aUNEam9tTmsxaQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YXzNkVWhxRWtPTEUtUGQ0WW95U1VobndOeVFIVmpmMThZV2ZQdkJGMDFSZFpoM083V0lUZ09oSjA4MVRtUXZqaUlDZmxRdndXQjNqcmF1Mm5Ma2c2VnUxTXNfZ3M3SGNpWjRTaTRDVGdqbTFzLVplMw?oc=5"
         },
         {
-          "text": "宝新能源：11月25日融券卖出3.81万股，融资融券余额5.12亿元 - Sohu",
+          "text": "2026广州车展 |14款新能源车型集结广州车展 大众加速推进在华电动化布局 - Sohu",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWW9leENZaV9Mbm9UWTNPbjR1Q3FHcHRrcFo5cXl0Zk1Nd0ppT0NYbzVkUGZ2TWZCcXN2N0ZYS3B3c3BZc2VacTVFNm0yWVVJcGxlWV84QWZLZ2ZLSF9qTUNyOV83Rm9pSXlYTHBFc3UwZjZkb2Vvb25zYzFxTmxUMkt6NDdHY3pR?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JWGV2a1d6elNUT1lsWXRSMC1mSHljaEtCc3ZqRHlkRkhhVUVSSGtTMzI4cEFIZ2gyaUJtbW1BLVd2eEN6LU85UUJpQW4zQ0dKVHc?oc=5"
         },
         {
-          "text": "【视频】Jeep首款智能新能源SUV将于2027年登陆国内！ - 汽车之家",
+          "text": "2026年15万新能源车推荐，五款带激光雷达的怎么挑 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xWG9PQkZ5bjNGVnl0RjZXRUNOYXpORzBLTE14N0JjMG1lYURBTXZmbS1makhCTVh0aW5mRlZ1OHBRQlVVSG9pcThmY0JvRVIyaE1KLWUyOU91Y2RYaG9iSlBkVDBwN3pMNmRV?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xWFdQWFh6enpFVWJKUVZyN01YbTJjQjFzd19saTRTNHdDRG1TYkdxdGVKYkRiSHp6MGpTM051bk0ySGp4eHZZV1FvWGhDRnhGMVprRjVVU1JVdGc?oc=5"
         },
         {
-          "text": "订单遍布全球，资金如何跟上新能源出海步伐？-证券之星 - 证券之星",
+          "text": "新能源车15万怎么选，推荐这5款并兼顾增程纯电两条动力 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44MXJmcUcyNE1KQTc3ckVmMlNxY2FvSnpvVDBqMXJOWmh3R2RlZTh6cjlPSWFVR3kzb3JDNmxYVDZZakx3OTlXSTM3dW9CRTlHb01YazB4Y293Q3VvdlE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZlk1M3BJOUtNdmZXVzg3enNMbTlwWlRUcDNmU3NYaXhlZXBkYW00LThna05JQUx0Wm5kUG00Qmc4RElkMFhWR0FNSWFrcHo5a0t0RF83NHVEb2c?oc=5"
         }
       ]
     },
@@ -74,24 +74,34 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "17:30",
-          "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
-          "summary": "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely o…",
+          "time": "11:56",
+          "title": "Scientists identify two ages when children may be most vulnerable to screen time",
+          "summary": "Scientists have identified two potentially critical periods when screen time may be especially detrimental to…",
           "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm"
+        },
+        {
+          "priority": "重点看点 02",
+          "time": "11:22",
+          "title": "Harvard’s tiny UV light chip could help shrink quantum computers",
+          "summary": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light t…",
+          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "source": "ScienceDaily Tech",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm"
+        }
+      ],
+      "briefs": [
+        {
+          "text": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm"
         },
         {
-          "priority": "重点看点 02",
-          "time": "10:29",
-          "title": "Physicists just sent an unblockable message through a brick wall using gravity",
-          "summary": "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old ele…",
-          "impact": "未来产业资讯更适合用于判断技术方向、平台能力和商业化成熟度的变化。",
+          "text": "Physicists just sent an unblockable message through a brick wall using gravity",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm"
-        }
-      ],
-      "briefs": [
+        },
         {
           "text": "A simple metal is hiding a strange new form of magnetism",
           "source": "ScienceDaily Tech",
@@ -101,16 +111,6 @@ window.dailyBrief = {
           "text": "IBM quantum computer solves problem classical computers can’t in just 15 minutes",
           "source": "ScienceDaily Tech",
           "url": "https://www.sciencedaily.com/releases/2026/11/261123231244.htm"
-        },
-        {
-          "text": "Strange new materials can crawl, walk, and dig like living creatures",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261121221137.htm"
-        },
-        {
-          "text": "Mysterious new viruses reveal a missing link in evolution",
-          "source": "ScienceDaily Tech",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
         }
       ]
     },
@@ -123,42 +123,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
-          "summary": "UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel…",
+          "title": "‘Come right now’: How a crisis centre in Samarkand helps women escape violence",
+          "summary": "Irina* paced the apartment. Her husband had come home drunk again, and she knew the beatings would follow.",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168879"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168878"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
-          "summary": "A home is a place where people can feel safe. Yet billions worldwide do not have a proper place to live. As t…",
+          "title": "Maritime trade stagnates amid geopolitical uncertainty",
+          "summary": "Seaborne trade that underpins the global economy continues to slow, while disruption from conflict and climat…",
           "impact": "国际局势相关资讯通常最直接影响跨境经营、供应链配置与风险预案安排。",
           "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168873"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168884"
         }
       ],
       "briefs": [
         {
+          "text": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168883"
+        },
+        {
+          "text": "Türk warns of widening risk of atrocity crimes against Palestinians",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168879"
+        },
+        {
+          "text": "Governments and experts gather in Nairobi to tackle the global housing crisis",
+          "source": "United Nations News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168873"
+        },
+        {
           "text": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but whe…",
           "source": "United Nations News",
           "url": "https://news.un.org/feed/view/en/story/2026/11/1168875"
-        },
-        {
-          "text": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168876"
-        },
-        {
-          "text": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168874"
-        },
-        {
-          "text": "Yemen war: Emergency aid chief calls for access to war-hit communities",
-          "source": "United Nations News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168872"
         }
       ]
     },
@@ -267,42 +267,42 @@ window.dailyBrief = {
         {
           "priority": "重点看点 01",
           "time": "20:00",
-          "title": "Türk warns of widening risk of atrocity crimes against Palestinians",
-          "summary": "UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel…",
+          "title": "‘Come right now’: How a crisis centre in Samarkand helps women escape violence",
+          "summary": "Irina* paced the apartment. Her husband had come home drunk again, and she knew the beatings would follow.",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168879"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168878"
         },
         {
           "priority": "重点看点 02",
           "time": "20:00",
-          "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
-          "summary": "A home is a place where people can feel safe. Yet billions worldwide do not have a proper place to live. As t…",
+          "title": "Maritime trade stagnates amid geopolitical uncertainty",
+          "summary": "Seaborne trade that underpins the global economy continues to slow, while disruption from conflict and climat…",
           "impact": "国际法相关更新通常会影响跨境合同、数据流动、贸易安排和合规流程。",
           "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168873"
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168884"
         }
       ],
       "briefs": [
         {
+          "text": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168883"
+        },
+        {
+          "text": "Türk warns of widening risk of atrocity crimes against Palestinians",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168879"
+        },
+        {
+          "text": "Governments and experts gather in Nairobi to tackle the global housing crisis",
+          "source": "UN News",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168873"
+        },
+        {
           "text": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but whe…",
           "source": "UN News",
           "url": "https://news.un.org/feed/view/en/story/2026/11/1168875"
-        },
-        {
-          "text": "Gisèle Pelicot’s son: ‘Not being violent is the bare minimum’",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168876"
-        },
-        {
-          "text": "Somalia: Famine risk decreases in Baidoa – but millions still going hungry",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168874"
-        },
-        {
-          "text": "Yemen war: Emergency aid chief calls for access to war-hit communities",
-          "source": "UN News",
-          "url": "https://news.un.org/feed/view/en/story/2026/11/1168872"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "11:50",
-          "title": "中国信达、协鑫能科在浙江成立新企业管理公司注册资本约7亿_公司新闻_财经 - 证券之星",
-          "summary": "中国信达、协鑫能科在浙江成立新企业管理公司注册资本约7亿_公司新闻_财经 证券之星",
+          "time": "09:48",
+          "title": "中国信达、协鑫能科在浙江成立新企业管理公司 注册资本约7亿 - Sohu",
+          "summary": "中国信达、协鑫能科在浙江成立新企业管理公司 注册资本约7亿 Sohu",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VUzk5YktqSW5aUFhBRGxHeGdKNWs2dnNqUE4tZjlEZG05bkQxeEZuUkxaV004YWZLUy0xOGZ3dFhHV3V0R2hhcUNRRFA3MWRTX3NFSVl6SndFSGpNRFd0dA?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDFzWXg0dWVxVGlQbTdtaFVyS0NoUXpHYUFyTVc0bERvNi1QWVRQc0xRV29RY3Vha3JjZmJ3QVJlc2U0bjVsUkVUQTJYc2txZ2oycWsyTUxlQk94ejdlb1JjUERiOUs4d3phTklTQ1AzQmtzUjR5bzlsbjRJMms1U3pHdE9YTXpncS1wag?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "09:34",
-          "title": "中国信达协鑫能科在浙江成立企管公司 经营范围为企业管理 - 观点网",
-          "summary": "中国信达协鑫能科在浙江成立企管公司 经营范围为企业管理 观点网",
+          "time": "20:54",
+          "title": "永升服务(01995.HK)拟收购沈阳卓裕企业管理有限公司100%股权 - TradingView",
+          "summary": "永升服务(01995.HK)拟收购沈阳卓裕企业管理有限公司100%股权 TradingView",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rTVY0T1JEZmNsSjFyU3FkQ0FndWtiOXg4M0pIV0MxcDhRV0lVVndicnZYZzhhRnpFQ0pOMTdwbGRNZDg3OG04VGNuSGhJQQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfV2ZYSDgtRk1FT1JVVVFmZjh3NzNHNjBkVldUY0NyN2NsT0ZTSlhQX2dTT1cyZ2xXS21BUXJiRlBxMlExd05ONGVKZl9rdEdMcEFwMk5oQlF0QXZCOU1GZWVCcHZ2Ui1WRlE?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "上海路威澄雅企业管理合伙企业（有限合伙）成立 - zqrb.cn",
+          "text": "线上线下(300959):无锡永旭企业管理有限公司审计报告 - 中财网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91dDBvbU1WV3l6enhKOFJRRGNCeVpqZ1p0Y25KR3k3dDAxTm1QTGN1UHhLQzljc05teWhNMlhDRUlleTJPOXNHdjhfeGZrQ0drR0xoNllzQTNqYlBjemh4cVB5RVo5SWJmNUZQSTl5TQ?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQi0xd1l4UzVwaEUwV0t1ei1QU3Z2UC01S1N4SzliU2xnYTZ3LVdSUmRZZE50QWdXeHRvSDA0bndlSFBTNWdLS3RuUlJXaGQ3Wk9PaXV3?oc=5"
         },
         {
-          "text": "黄仁勋为何不为 NVIDIA 制定继任计划？｜#AI资讯# #NVIDIA# #企业管理# - Sohu",
+          "text": "让中华优秀传统文化转化为企业管理效能 - 新浪财经_金融信息服务商",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWhYQWFRMUNia2xRTHozbExqOVBpbkhZZVFBQ19rSXpaQmhaN2RNejlNR3dlZUt3M2puWVdRYTV2dmU4X1FPNzRUXy1lTzJsS24zM05XZURHeFoxa3BGaTRuSWtBbzlkcjVmX0tnRWVCOGFsZGFOX3dKWG9jdEJxRXhFajl4RndiRE5Gdg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMizAVBVV95cUxNWXlfT1F5cG1Qd2Y0NEJZNjI5MjVfMmlMNF9ZVDBzY0ViRllVZUlQVkpKeGRsQjZPSXpmai13WWVscERCSDhWQ01pMkJ3aF9TUjQ4aGItR3phdjVsakpxT2FzY3pqZDJsNTBFZjhrRnBHazFJcThFR3RNUDlYb1FfVW9YZ1ViRXJiYkQ4c3Z6QUpLX1czYmxMSXFHSnFsM2NPZmpLQ0E3WUVzaTlrMjdOTVlVNFNVeDM5SU5ucVl3ZXRvcmtjZHNxLTZoU3Q2N0p5cFV0RDlwaWg0MTg0N3dqcFBIMVRYdnVobkFoZGhRWFF0cFgzMkxTQzYtclBpaXJDWjFIX0FmMGt6QU1LN2RrdVhzdnNFUFM1UmtTbEVQSGdHZXBldl93OVdkeC1ERWRuT0FBNFRjWkJsclJfMVU1RHhzTmdkUWhrSlA2THRQWTExSWtlVkJ4UUplemFYRkFuR0J0UWN1S25zMkJIdGI0RnVsR2hOMDVwUFpDcjdPeUV4c0d5Qmw2MmNvT1M1ZU5hOW9WNm9nNndmdkVHT3J4M0hCQlVoWGttb2VDTG9TS3pqNkxfM21GRGRDRXBqNFc3Qjl2MVBFeFRPN0JVSFByeHZiSkNQSlBCZ0dZeEwwR3ppRGt2U19uYnBUaGstUGpEQmp6UDZpV2IwbGVBREtTWU85MkhIaE9qS1lPS3pGdU0xT0JlY2xfMlZVZ190a1JRSlB0Zy1BNTRuLUtWdmQtQXFqLVFVRThoUzN4d0gtN0FUQnhJSzJ4dnhwZk5BTm00dWlsWWlOU0tqSXJEV1dqM3VhT2xRc2VNeDlJVlBVbDdKVnVuZ0t4VHl1TFRSTm00OFlGTGhXQTlCZjk4YjRkZHVHLU84dGp2VlZLY004c09pM0tKb1pBMGY2X3ZGbFZ5MTZoTjd1cFNSLTVVczBIVlVCTDZRaFYtRkk3Tg?oc=5"
         },
         {
-          "text": "首届江苏省研究生“人工智能赋能企业管理场景应用设计”大赛举行 - 新浪新闻_手机新浪网",
+          "text": "永升服务(01995)附属拟2.99亿元收购沈阳卓裕企业管理100%股权-证券之星 - 证券之星",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNRzRvdVhJcy1RbDZpWVRSY0k3b3o2WFNLZFJIVVVfVi1STkVQbjZXb2hmNXdzb2VsTmttbFI5dHMzcG0takgyc2ZnMU9SdDlaRmxzZkZwUHZYTm1yNkZ1enlnazFkWHpyRDdXb3pwODRWWll1WkFtNHVWRS0tSWwzejlxd1dJOXg4eEtSVGpGaTZNTUc0ejRFY19xai04Rjh0WExGWUFIQjM4THhtdENzVXFsT1AxLUcwVUpZN09ZQ0lLZU1SMWFUMmVnRlFxbE83cTZBQWVzWDNYekpiQmJrd2h6X2xwM0ZYdk9DNktjcVVkQWRfQlZ5ZTQ1dHZTUGJQc2FuQ20xc0VKWHdrSEgtaG9FdkE5dnBNNXVmSFJJbUhPVXkyUXVfSUtONlRjV0pneVo2TV9yNmRINFZsUWUtXzMyR2otVkZPNmVSaUF2bENxQ3ctSEJmMVNJQjBWTGpidjRn?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BbHBjREZSNk9FeFRLY1cxcEdPaDZrWlhrOVhrdGFNZC15U0RhbURiNkR4OHpxal8tQVVkRVRXWG9MV3dzNXdWQ3VpWjN0VVh6YVBCX1l1dHhORWROUkE?oc=5"
         },
         {
-          "text": "震裕科技在上海成立企业管理公司 注册资本1000万 - SmartHey",
+          "text": "永升服务(01995.HK)拟收购沈阳卓裕企业管理有限公司100%股权 - TradingView",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iLXFxdWJJQ0xmUGdEYU9KMkdJRVdHdE14UFBtZktLdVR3d3dzNzUtZ1dhZWZzQW1aTWhqSGJFbmU0MUFWNC1kV3hSQlNMUlRqeHJrOEM0a0o4SlJXX2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwN20wQkZMdGVsZ1Jjb2UxNnFlRV9yVVhjczJJSnc3bEsyem45LVRZc3RWaHk5aHZsN2pHVDhOQjFqX0Y0R1YyS3gwOGxMYVdrcGt6OTloUEVXa253Y010QTdvOG9hTGplRFow?oc=5"
         }
       ]
     }
