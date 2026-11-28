@@ -1,9 +1,9 @@
 window.dailyBrief = {
-  "publishDate": "2026年11月27日",
+  "publishDate": "2026年11月28日",
   "highlights": [
     {
       "topic": "六大支柱产业",
-      "title": "嘉泽新能、广西能源集团成立新能源公司 - Sohu",
+      "title": "10万左右外观辨识度高的新能源车怎么选？4款高颜值车型实测+FAQ - 新浪网",
       "summary": "制造升级、能源转型与地方投资政策仍是支柱产业最值得跟踪的主线。"
     },
     {
@@ -26,43 +26,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "12:47",
-          "title": "嘉泽新能、广西能源集团成立新能源公司 - Sohu",
-          "summary": "嘉泽新能、广西能源集团成立新能源公司 Sohu",
+          "time": "12:37",
+          "title": "10万左右外观辨识度高的新能源车怎么选？4款高颜值车型实测+FAQ - 新浪网",
+          "summary": "10万左右外观辨识度高的新能源车怎么选？4款高颜值车型实测+FAQ 新浪网",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObzk0aWRGRE84TUVtU0piejVlR3JWZW1ONENBcXliVTB5aVlWTVJOcjgzWURKTGQ1MkNTZF94MWVlYVphTXd0WlFncTBQb2dwSmM2REstdms3TEhYNVNWdlFYWVhWdDNHc01KRWZ6ZUo1d2NRV1dfbmxiUF83MTVIa0l1S2VfNTJ5NzhXbw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pR1I2LXBmY3h5MzY3SGh0MVpPS0tVYjctTWhfbHFNWGRVMHZRU2pWYm0teElMcFoxWmk0aWZHRHltb1Z2ZUduSi1BeV9yM3FtYUtsX0RFOW4zclB3cEJF?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "12:42",
-          "title": "2026年15万新能源车推荐，单看至境L7增程尊享版 - 汽车之家",
-          "summary": "2026年15万新能源车推荐，单看至境L7增程尊享版 汽车之家",
+          "time": "12:35",
+          "title": "【视频】把自己的比亚迪新能源小车卖了，虽然赚钱了，但是竟然有点舍不得 - 汽车之家",
+          "summary": "【视频】把自己的比亚迪新能源小车卖了，虽然赚钱了，但是竟然有点舍不得 汽车之家",
           "impact": "支柱产业相关政策和项目动向会直接影响设备投资、产业链订单以及区域产业升级节奏。",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYRVFlVHBVNTVBenhGaG93TjZDR0s0Wl9YUjgyS0lmRnR2Wnc2dGtXSXI5VXBzbktCMjJTeU9zU2hZSmZ1VTFQdmV2ekMxalpBRDUwS1JDZVQxcGM?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtbmg0WUdFdUFna2xfemxRLXhSWWMtVkJDLVNkUm5YRVhGSU9EX1NqU2l0RGpqSTQxaDd6eXZZUjhfVGJzVjJ5X3NQcnhWcVpnZWlkZGdTZ3ZBZmM?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "从造车到“抢矿” 新能源汽车产业竞争转向资源循环 - 新浪财经_金融信息服务商",
+          "text": "【视频】MG“All in新能源” 中国市场27年起停产纯燃油车 - 汽车之家",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YXzNkVWhxRWtPTEUtUGQ0WW95U1VobndOeVFIVmpmMThZV2ZQdkJGMDFSZFpoM083V0lUZ09oSjA4MVRtUXZqaUlDZmxRdndXQjNqcmF1Mm5Ma2c2VnUxTXNfZ3M3SGNpWjRTaTRDVGdqbTFzLVplMw?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxZjVhSXhaQ2ZqSFJmQ1lQVUVna0ZabVlEQXVpakRoeEJfamdER0tMdThDNlBQdFpudFROMWVjN05WZ2pWdDJCMXFWVDBCVkc0R3U5VnlReXdtU0l1NmdLVHltSTVLQUZQNmc?oc=5"
         },
         {
-          "text": "2026广州车展 |14款新能源车型集结广州车展 大众加速推进在华电动化布局 - Sohu",
+          "text": "瑞风E3新能源9座价格到底多少？2026款落地价与配置全解析+FAQ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JWGV2a1d6elNUT1lsWXRSMC1mSHljaEtCc3ZqRHlkRkhhVUVSSGtTMzI4cEFIZ2gyaUJtbW1BLVd2eEN6LU85UUJpQW4zQ0dKVHc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNSzNQcmpJX0FfazctcEJKTmp5VWZlVUU0bFp4UlZmS2hYLUhubUFVdDd3ZXc0ZFc3LWF2YUJjc3UzVzBHWmVicnFuMUFrTS00X0lTdXNIR0dkaFQ1eXln?oc=5"
         },
         {
-          "text": "2026年15万新能源车推荐，五款带激光雷达的怎么挑 - 汽车之家",
+          "text": "菱智新能源怎么样？3个维度说透创业回本逻辑+FAQ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xWFdQWFh6enpFVWJKUVZyN01YbTJjQjFzd19saTRTNHdDRG1TYkdxdGVKYkRiSHp6MGpTM051bk0ySGp4eHZZV1FvWGhDRnhGMVprRjVVU1JVdGc?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FQlowMVRaS3hyMGM2dW5FWXNDMXFxRklCaGxzazYzbWpKX0dOV2d0U3Jfd0tSc0VYTER4SzA3MU1jbURtUnpaR05VS256M21wUnZVTXh0VlZvMi1odGdJ?oc=5"
         },
         {
-          "text": "新能源车15万怎么选，推荐这5款并兼顾增程纯电两条动力 - 汽车之家",
+          "text": "菱智新能源配置参数怎么选？9座纯电14万营运值不值？3个维度说清+FAQ - 新浪网",
           "source": "Google News 制造业",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZlk1M3BJOUtNdmZXVzg3enNMbTlwWlRUcDNmU3NYaXhlZXBkYW00LThna05JQUx0Wm5kUG00Qmc4RElkMFhWR0FNSWFrcHo5a0t0RF83NHVEb2c?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1a3lKNHZybm01MlprT3JVaUVXVFh0WmJQd2NlbkFWdmQtN09DbGpyUVRIZnBSY3VxMGRkakJPXzgwVXhDemNZejRHQmsyX3V4N3ZsaGJoamhSU2FPMkxz?oc=5"
         }
       ]
     },
@@ -314,43 +314,43 @@ window.dailyBrief = {
       "featured": [
         {
           "priority": "重点看点 01",
-          "time": "09:48",
-          "title": "中国信达、协鑫能科在浙江成立新企业管理公司 注册资本约7亿 - Sohu",
-          "summary": "中国信达、协鑫能科在浙江成立新企业管理公司 注册资本约7亿 Sohu",
+          "time": "04:05",
+          "title": "锦和商管（603682.SH）新增一起对外投资，被投资公司为上海锦佚企业管理有限公司_公司新闻 - 证券之星",
+          "summary": "锦和商管（603682.SH）新增一起对外投资，被投资公司为上海锦佚企业管理有限公司_公司新闻 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDFzWXg0dWVxVGlQbTdtaFVyS0NoUXpHYUFyTVc0bERvNi1QWVRQc0xRV29RY3Vha3JjZmJ3QVJlc2U0bjVsUkVUQTJYc2txZ2oycWsyTUxlQk94ejdlb1JjUERiOUs4d3phTklTQ1AzQmtzUjR5bzlsbjRJMms1U3pHdE9YTXpncS1wag?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LYTRFZWNSOE1ZV2wwcEFfQnJaZkVYLXRtbkJ2TFlfZEFBQWhzZkc5MXRMQW84QURLdmdwQy1uRm9tTEc4M1R4dnQxR2M1dHJCSllqNHA5MVZGWHB6WExkeGhPSlk?oc=5"
         },
         {
           "priority": "重点看点 02",
-          "time": "20:54",
-          "title": "永升服务(01995.HK)拟收购沈阳卓裕企业管理有限公司100%股权 - TradingView",
-          "summary": "永升服务(01995.HK)拟收购沈阳卓裕企业管理有限公司100%股权 TradingView",
+          "time": "21:30",
+          "title": "浙江交科：股份回购需结合公司战略规划、项目投资、资金计划以及盈利能力等多方面因素综合研判 - 证券之星",
+          "summary": "浙江交科：股份回购需结合公司战略规划、项目投资、资金计划以及盈利能力等多方面因素综合研判 证券之星",
           "impact": "商业分析板块适合帮助判断趋势变化如何真正进入经营决策和资源配置。",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfV2ZYSDgtRk1FT1JVVVFmZjh3NzNHNjBkVldUY0NyN2NsT0ZTSlhQX2dTT1cyZ2xXS21BUXJiRlBxMlExd05ONGVKZl9rdEdMcEFwMk5oQlF0QXZCOU1GZWVCcHZ2Ui1WRlE?oc=5"
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGR1M4ZENBOXhkVHBLblBXZE5VOFlWY1FFRXJlYWtsUDVweTlsbkFDbG9IZWFxXzFSeUlPZFpfQndpRVc1UUFnYVA5Rlc5MmZSUTBhb0NEbDM2UDFEcktTYg?oc=5"
         }
       ],
       "briefs": [
         {
-          "text": "线上线下(300959):无锡永旭企业管理有限公司审计报告 - 中财网",
-          "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GQi0xd1l4UzVwaEUwV0t1ei1QU3Z2UC01S1N4SzliU2xnYTZ3LVdSUmRZZE50QWdXeHRvSDA0bndlSFBTNWdLS3RuUlJXaGQ3Wk9PaXV3?oc=5"
+          "text": "江苏一机器人企业，获汽车零部件上市企业战略投资！ - Sohu",
+          "source": "Google News 商业分析",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLW1pVlVBWVZUcFFUZmhXTUpHUWxTVnJLYkVxd2U2MjZvT1FFZmRmZG0zZklzMVpmckgweEZFYU15cEpyUThhenpwVDJ4aWZpcFNVNHJtODRGM0NqaGNpLXJ3UDVIOF9lZkV0RzlIVVAtNm0yLVVCU0E4aGlrTWtQc3NwOFRYXzNHYmxtSQ?oc=5"
         },
         {
-          "text": "让中华优秀传统文化转化为企业管理效能 - 新浪财经_金融信息服务商",
+          "text": "亚联机械：公司管理层始终勤勉履职_公司新闻 - 证券之星",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMizAVBVV95cUxNWXlfT1F5cG1Qd2Y0NEJZNjI5MjVfMmlMNF9ZVDBzY0ViRllVZUlQVkpKeGRsQjZPSXpmai13WWVscERCSDhWQ01pMkJ3aF9TUjQ4aGItR3phdjVsakpxT2FzY3pqZDJsNTBFZjhrRnBHazFJcThFR3RNUDlYb1FfVW9YZ1ViRXJiYkQ4c3Z6QUpLX1czYmxMSXFHSnFsM2NPZmpLQ0E3WUVzaTlrMjdOTVlVNFNVeDM5SU5ucVl3ZXRvcmtjZHNxLTZoU3Q2N0p5cFV0RDlwaWg0MTg0N3dqcFBIMVRYdnVobkFoZGhRWFF0cFgzMkxTQzYtclBpaXJDWjFIX0FmMGt6QU1LN2RrdVhzdnNFUFM1UmtTbEVQSGdHZXBldl93OVdkeC1ERWRuT0FBNFRjWkJsclJfMVU1RHhzTmdkUWhrSlA2THRQWTExSWtlVkJ4UUplemFYRkFuR0J0UWN1S25zMkJIdGI0RnVsR2hOMDVwUFpDcjdPeUV4c0d5Qmw2MmNvT1M1ZU5hOW9WNm9nNndmdkVHT3J4M0hCQlVoWGttb2VDTG9TS3pqNkxfM21GRGRDRXBqNFc3Qjl2MVBFeFRPN0JVSFByeHZiSkNQSlBCZ0dZeEwwR3ppRGt2U19uYnBUaGstUGpEQmp6UDZpV2IwbGVBREtTWU85MkhIaE9qS1lPS3pGdU0xT0JlY2xfMlZVZ190a1JRSlB0Zy1BNTRuLUtWdmQtQXFqLVFVRThoUzN4d0gtN0FUQnhJSzJ4dnhwZk5BTm00dWlsWWlOU0tqSXJEV1dqM3VhT2xRc2VNeDlJVlBVbDdKVnVuZ0t4VHl1TFRSTm00OFlGTGhXQTlCZjk4YjRkZHVHLU84dGp2VlZLY004c09pM0tKb1pBMGY2X3ZGbFZ5MTZoTjd1cFNSLTVVczBIVlVCTDZRaFYtRkk3Tg?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DcFVxXzRyRUlTdHFMeTZyZjNiWTJVZ3FZelllQ1FCeERJM2hnWFYxS2hEazJKUlhJWFZLaURQdDZpYVVzTWdrWFItVE5DNU1DMzlEOHRLTkEzOWtlTEdZSQ?oc=5"
         },
         {
-          "text": "永升服务(01995)附属拟2.99亿元收购沈阳卓裕企业管理100%股权-证券之星 - 证券之星",
+          "text": "中国信达、协鑫能科在浙江成立新企业管理公司 注册资本约7亿 - Sohu",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BbHBjREZSNk9FeFRLY1cxcEdPaDZrWlhrOVhrdGFNZC15U0RhbURiNkR4OHpxal8tQVVkRVRXWG9MV3dzNXdWQ3VpWjN0VVh6YVBCX1l1dHhORWROUkE?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM2NJeUZwWjJQbVdGakhMWWd5MTN2UFV2SnpDbU82eXlGY3ViV1RPVnhib0xrTjFrR18zTFNCOURveHJRM1VNZ0k5S3BCc2l3c1VTRE1rSTRxaHgybUR0Njk1R1Q2ZkcwTWdNOS1ZMFg5OUR2NVd4ajV5TE0tVmZvdHR5RWxtNndwMHU4VQ?oc=5"
         },
         {
-          "text": "永升服务(01995.HK)拟收购沈阳卓裕企业管理有限公司100%股权 - TradingView",
+          "text": "易瑞生物：公司管理层已将降本增效作为持续性经营工作 - 东方财富网",
           "source": "Google News 企业管理",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwN20wQkZMdGVsZ1Jjb2UxNnFlRV9yVVhjczJJSnc3bEsyem45LVRZc3RWaHk5aHZsN2pHVDhOQjFqX0Y0R1YyS3gwOGxMYVdrcGt6OTloUEVXa253Y010QTdvOG9hTGplRFow?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zTGlDZHkxN3EyZGY4dzFHNXlJOTZkZFlHMllDandBUHFXLXIxeFQ0d2ZQMW11TE9Ndlh3d2J0STR3U191dDRFbDRhT0ZGM1lYUGVqNkNlV3djaUZtcjhOTUI0VS1rUQ?oc=5"
         }
       ]
     }
